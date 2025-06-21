@@ -1,0 +1,76 @@
+{
+  "analysis_date": "2025-06-21T11:51:38.245234",
+  "total_respondents": 1187,
+  "top_themes": [
+    {
+      "theme": "Increase Funding Awareness",
+      "display_name": "Better Communication",
+      "count": 318,
+      "percentage": 26.8,
+      "description": "Better information about funding opportunities"
+    },
+    {
+      "theme": "Simplify Application Process",
+      "display_name": "Simpler Applications",
+      "count": 310,
+      "percentage": 26.1,
+      "description": "Streamline the application process"
+    },
+    {
+      "theme": "Funding Transparency",
+      "display_name": "Clear Decisions",
+      "count": 251,
+      "percentage": 21.1,
+      "description": "Clear funding decisions and criteria"
+    },
+    {
+      "theme": "Equitable Distribution",
+      "display_name": "Equitable Access",
+      "count": 241,
+      "percentage": 20.3,
+      "description": "Fair distribution across communities"
+    },
+    {
+      "theme": "Fair Artist Compensation",
+      "display_name": "Fair Pay",
+      "count": 169,
+      "percentage": 14.2,
+      "description": "Ensure fair artist compensation"
+    },
+    {
+      "theme": "Increase Funding Levels",
+      "display_name": "Increase Funding Levels",
+      "count": 124,
+      "percentage": 10.4,
+      "description": "Increase available funding amounts"
+    },
+    {
+      "theme": "Support Small Organizations",
+      "display_name": "Support Small Organizations",
+      "count": 118,
+      "percentage": 9.9,
+      "description": "Targeted support for smaller organizations"
+    },
+    {
+      "theme": "Multi-Year Funding",
+      "display_name": "Multi-Year Funding",
+      "count": 82,
+      "percentage": 6.9,
+      "description": "Provide multi-year commitments"
+    },
+    {
+      "theme": "Improve Grant Access",
+      "display_name": "Improve Grant Access",
+      "count": 69,
+      "percentage": 5.8,
+      "description": "Broaden access to grants"
+    },
+    {
+      "theme": "Reduce Reporting Burden",
+      "display_name": "Reduce Reporting Burden",
+      "count": 22,
+      "percentage": 1.9,
+      "description": "Streamline reporting requirements"
+    }
+  ]
+}

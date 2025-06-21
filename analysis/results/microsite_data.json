@@ -1,0 +1,65 @@
+{
+  "survey_stats": {
+    "total_respondents": 1187,
+    "analysis_date": "2025-06-21T11:48:39.008011",
+    "zip_codes_represented": 83
+  },
+  "themes": [
+    {
+      "id": "cultural_events",
+      "name": "Cultural Events",
+      "percentage": 93.26,
+      "count": 1107,
+      "description": "Festivals, performances, concerts, and exhibitions that celebrate Austin's diverse culture"
+    },
+    {
+      "id": "community_spaces",
+      "name": "Community Spaces",
+      "percentage": 84.92,
+      "count": 1008,
+      "description": "Art spaces, galleries, studios, and creative venues accessible to the community"
+    },
+    {
+      "id": "accessibility",
+      "name": "Accessibility",
+      "percentage": 81.63,
+      "count": 969,
+      "description": "Ensuring arts and culture are inclusive and accessible to all residents"
+    },
+    {
+      "id": "public_art",
+      "name": "Public Art",
+      "percentage": 77.34,
+      "count": 918,
+      "description": "Murals, sculptures, installations, and street art that enhance public spaces"
+    },
+    {
+      "id": "cultural_preservation",
+      "name": "Cultural Preservation",
+      "percentage": 77.09,
+      "count": 915,
+      "description": "Protecting and celebrating Austin's cultural heritage, traditions, and history"
+    },
+    {
+      "id": "digital_arts",
+      "name": "Digital Arts",
+      "percentage": 40.02,
+      "count": 475,
+      "description": "Digital art, technology-based creativity, multimedia, and virtual experiences"
+    },
+    {
+      "id": "artist_support",
+      "name": "Artist Support",
+      "percentage": 21.31,
+      "count": 253,
+      "description": "Grants, residencies, stipends, and direct funding for artists"
+    },
+    {
+      "id": "arts_education",
+      "name": "Arts Education",
+      "percentage": 9.86,
+      "count": 117,
+      "description": "Art education programs, workshops, classes, and youth arts initiatives"
+    }
+  ]
+}

@@ -349,13 +349,15 @@
             <h2>Key Themes from Community Feedback</h2>
             <p class="section-intro">We analyzed all responses to identify the most frequently mentioned topics related to cultural funding. These themes help us understand community priorities and areas for improvement.</p>
             <div style="background: #f0f9ff; padding: 1rem; border-radius: 5px; margin-bottom: 1rem;">
-                <p style="margin: 0; font-size: 0.9rem;"><strong>Note:</strong> Percentages shown represent the distribution of all theme mentions across survey responses. Respondents could mention multiple themes in their feedback.</p>
+                <p style="margin: 0; font-size: 0.9rem;"><strong>Note:</strong> Percentages show how many survey respondents mentioned each theme. Each respondent is counted only once per theme, even if they mentioned it multiple times.</p>
             </div>
-            <h3>Top 10 Themes by Frequency of Mention</h3>
+            <h3>What the Community is Asking For</h3>
             
             <div class="chart-container">
-                <img src="data/cultural_funding_themes_pie_chart.png" alt="Cultural Funding Themes Pie Chart">
+                <img src="data/funding_priorities_chart.png" alt="Top 5 Community Priorities" style="max-width: 800px; margin: 0 auto; display: block;">
             </div>
+            
+            <h3 style="margin-top: 2rem;">All Funding Improvement Themes</h3>
             
             <div class="theme-list" id="themes-container">
                 <!-- Themes will be populated by JavaScript -->
@@ -556,7 +558,7 @@
     
     <script>
         // Load and display themes data
-        fetch('data/cultural_funding_themes.json')
+        fetch('data/funding_priorities.json')
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById('themes-container');
@@ -614,7 +616,7 @@
                     }
                 };
                 
-                data.top_10_cultural_funding_themes.forEach((theme, index) => {
+                data.top_themes.forEach((theme, index) => {
                     const themeDiv = document.createElement('div');
                     themeDiv.className = 'theme-item';
                     const context = themeContexts[theme.theme] || {};
@@ -622,10 +624,10 @@
                     
                     themeDiv.innerHTML = `
                         <h3 style="color: #1e3a8a; margin-bottom: 0.5rem;">
-                            ${theme.rank}. ${theme.theme}
+                            ${index + 1}. ${theme.display_name || theme.theme}
                         </h3>
                         <div class="stats" style="font-size: 1.1rem; color: #64748b;">
-                            ${theme.percentage}% of theme mentions • ${theme.count.toLocaleString()} total mentions
+                            <strong>${theme.percentage}% of respondents</strong> (${theme.count} people)
                         </div>
                         
                         ${context.meaning ? `

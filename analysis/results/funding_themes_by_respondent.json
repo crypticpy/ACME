@@ -1,0 +1,66 @@
+{
+  "analysis_date": "2025-06-21T11:51:38.245234",
+  "total_respondents": 1187,
+  "funding_themes": {
+    "Increase Funding Awareness": {
+      "rank": 1,
+      "count": 318,
+      "percentage": 26.8,
+      "description": "Better information about funding opportunities"
+    },
+    "Simplify Application Process": {
+      "rank": 2,
+      "count": 310,
+      "percentage": 26.1,
+      "description": "Streamline the application process"
+    },
+    "Funding Transparency": {
+      "rank": 3,
+      "count": 251,
+      "percentage": 21.1,
+      "description": "Clear funding decisions and criteria"
+    },
+    "Equitable Distribution": {
+      "rank": 4,
+      "count": 241,
+      "percentage": 20.3,
+      "description": "Fair distribution across communities"
+    },
+    "Fair Artist Compensation": {
+      "rank": 5,
+      "count": 169,
+      "percentage": 14.2,
+      "description": "Ensure fair artist compensation"
+    },
+    "Increase Funding Levels": {
+      "rank": 6,
+      "count": 124,
+      "percentage": 10.4,
+      "description": "Increase available funding amounts"
+    },
+    "Support Small Organizations": {
+      "rank": 7,
+      "count": 118,
+      "percentage": 9.9,
+      "description": "Targeted support for smaller organizations"
+    },
+    "Multi-Year Funding": {
+      "rank": 8,
+      "count": 82,
+      "percentage": 6.9,
+      "description": "Provide multi-year commitments"
+    },
+    "Improve Grant Access": {
+      "rank": 9,
+      "count": 69,
+      "percentage": 5.8,
+      "description": "Broaden access to grants"
+    },
+    "Reduce Reporting Burden": {
+      "rank": 10,
+      "count": 22,
+      "percentage": 1.9,
+      "description": "Streamline reporting requirements"
+    }
+  }
+}

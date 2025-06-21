@@ -1,0 +1,106 @@
+{
+  "analysis_date": "2025-06-21T11:50:32.099114",
+  "total_respondents": 1187,
+  "themes": {
+    "public_art": {
+      "count": 918,
+      "percentage": 77.34,
+      "theme_display_name": "Public Art"
+    },
+    "arts_education": {
+      "count": 117,
+      "percentage": 9.86,
+      "theme_display_name": "Arts Education"
+    },
+    "cultural_events": {
+      "count": 1107,
+      "percentage": 93.26,
+      "theme_display_name": "Cultural Events"
+    },
+    "community_spaces": {
+      "count": 1008,
+      "percentage": 84.92,
+      "theme_display_name": "Community Spaces"
+    },
+    "artist_support": {
+      "count": 253,
+      "percentage": 21.31,
+      "theme_display_name": "Artist Support"
+    },
+    "cultural_preservation": {
+      "count": 915,
+      "percentage": 77.09,
+      "theme_display_name": "Cultural Preservation"
+    },
+    "digital_arts": {
+      "count": 475,
+      "percentage": 40.02,
+      "theme_display_name": "Digital Arts"
+    },
+    "accessibility": {
+      "count": 969,
+      "percentage": 81.63,
+      "theme_display_name": "Accessibility"
+    }
+  },
+  "geographic": {
+    "zip_distribution": {
+      "total_zips": 83,
+      "top_zips": {
+        "78745": 96,
+        "78704": 89,
+        "78702": 73,
+        "78723": 70,
+        "78751": 48,
+        "78748": 43,
+        "78741": 42,
+        "78721": 34,
+        "78759": 33,
+        "78757": 30
+      },
+      "coverage": 96.97
+    }
+  },
+  "methodology": {
+    "description": "Each respondent counted only once per theme",
+    "themes_analyzed": [
+      "public_art",
+      "arts_education",
+      "cultural_events",
+      "community_spaces",
+      "artist_support",
+      "cultural_preservation",
+      "digital_arts",
+      "accessibility"
+    ],
+    "text_columns_analyzed": [
+      "\u00a0How would you describe your role or relationship with Austin\u2019s creative community? (Select all that apply)\u00a0",
+      "Which types of arts and culture experiences do you most enjoy? (Select all that apply.)\u00a0",
+      "Which Austin-based venues or cultural spaces do you frequently visit for arts, culture and entertainment?\u00a0",
+      "How do you typically learn about arts, music, and cultural events in Austin? (Select all that apply.)\u00a0",
+      "What is your preferred language for receiving information and participating in discussions?",
+      "What zip code do you reside in?",
+      "What Austin City Council District do you live in?",
+      "Cultural funding grant applicants are eligible to apply within Austin\u2019s Extraterritorial Jurisdiction. Do you live within any of the counties below?",
+      "How often do you attend or participate in arts, cultural, or entertainment events in Austin?\u00a0",
+      "How important is it to you that Austin preserves and supports its local arts, culture, music scene and historic character?\u00a0",
+      "Do you feel that all Austin residents have equal access to arts, cultural, music, and entertainment opportunities?\u00a0",
+      "What barriers, if any, prevent you from participating in arts and culture events in Austin?\u00a0(Select all that apply.)",
+      "What do you believe are the biggest challenges facing Austin\u2019s arts, culture, and music scene? (Select up to 3)\u00a0",
+      "Austin's creative community has built a strong foundation of existing organizations that informs ACME's goals and mission. How do you believe ACME should better support these organizations and cul...",
+      "What type of cultural arts or entertainment opportunities would you like to see more of in Austin?\u00a0",
+      "Have you ever applied for or received funding from any of these programs?",
+      "How would you rate your level of satisfaction with these programs overall?\u00a0",
+      "How accessible do you think these programs are for historically underrepresented artists, organizations, and communities?\u00a0",
+      "What improvements would you like to see in these cultural funding programs?",
+      "What values do you believe should guide ACME\u2019s mission and vision? (Select up to 3)\u00a0",
+      "What barriers do you or your community face in accessing support or services related to arts, culture, music, and entertainment? ",
+      "What should ACME prioritize as its top goals over the next five years? (Select up to 3)\u00a0",
+      "What outcomes or impacts would you most like to see from ACME's work? (Select up to 3)\u00a0",
+      "What kinds of programs or services would you like ACME to offer that currently do not exist or are underrepresented? ",
+      "Would you be interested in participating in focus groups or community discussions to help shape policies and initiatives supporting Austin\u2019s creative scene?\u00a0",
+      "How would you like to stay informed and involved with ACME initiatives and planning efforts? (Select all that apply)\u00a0",
+      "Would you like to participate in our upcoming focus groups\u00a0to discuss the future of ACME Cultural Funding programs?"
+    ]
+  }
+}
