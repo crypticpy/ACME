@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78745",
+        "respondents": 93,
+        "pct_barriers": 100.0,
+        "pct_cost": 67.7,
+        "pct_transport": 72.0,
+        "pct_awareness": 52.7,
+        "intensity": 2.84
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78704",
+        "respondents": 82,
+        "pct_barriers": 100.0,
+        "pct_cost": 72.0,
+        "pct_transport": 61.0,
+        "pct_awareness": 50.0,
+        "intensity": 2.54
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78723",
+        "respondents": 69,
+        "pct_barriers": 100.0,
+        "pct_cost": 79.7,
+        "pct_transport": 66.7,
+        "pct_awareness": 60.9,
+        "intensity": 3.14
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78702",
+        "respondents": 66,
+        "pct_barriers": 100.0,
+        "pct_cost": 68.2,
+        "pct_transport": 53.0,
+        "pct_awareness": 51.5,
+        "intensity": 2.68
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78751",
+        "respondents": 45,
+        "pct_barriers": 100.0,
+        "pct_cost": 71.1,
+        "pct_transport": 46.7,
+        "pct_awareness": 55.6,
+        "intensity": 2.53
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78748",
+        "respondents": 42,
+        "pct_barriers": 100.0,
+        "pct_cost": 81.0,
+        "pct_transport": 76.2,
+        "pct_awareness": 59.5,
+        "intensity": 3.1
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78741",
+        "respondents": 40,
+        "pct_barriers": 100.0,
+        "pct_cost": 85.0,
+        "pct_transport": 67.5,
+        "pct_awareness": 52.5,
+        "intensity": 2.95
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78721",
+        "respondents": 34,
+        "pct_barriers": 100.0,
+        "pct_cost": 64.7,
+        "pct_transport": 61.8,
+        "pct_awareness": 50.0,
+        "intensity": 2.94
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78759",
+        "respondents": 31,
+        "pct_barriers": 100.0,
+        "pct_cost": 77.4,
+        "pct_transport": 64.5,
+        "pct_awareness": 58.1,
+        "intensity": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78757",
+        "respondents": 28,
+        "pct_barriers": 100.0,
+        "pct_cost": 53.6,
+        "pct_transport": 64.3,
+        "pct_awareness": 60.7,
+        "intensity": 2.61
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78749",
+        "respondents": 28,
+        "pct_barriers": 100.0,
+        "pct_cost": 60.7,
+        "pct_transport": 64.3,
+        "pct_awareness": 46.4,
+        "intensity": 2.61
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78752",
+        "respondents": 26,
+        "pct_barriers": 100.0,
+        "pct_cost": 65.4,
+        "pct_transport": 73.1,
+        "pct_awareness": 46.2,
+        "intensity": 2.88
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78753",
+        "respondents": 26,
+        "pct_barriers": 100.0,
+        "pct_cost": 69.2,
+        "pct_transport": 73.1,
+        "pct_awareness": 46.2,
+        "intensity": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78703",
+        "respondents": 26,
+        "pct_barriers": 100.0,
+        "pct_cost": 65.4,
+        "pct_transport": 65.4,
+        "pct_awareness": 57.7,
+        "intensity": 2.54
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78727",
+        "respondents": 26,
+        "pct_barriers": 100.0,
+        "pct_cost": 65.4,
+        "pct_transport": 69.2,
+        "pct_awareness": 38.5,
+        "intensity": 2.58
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78731",
+        "respondents": 25,
+        "pct_barriers": 100.0,
+        "pct_cost": 64.0,
+        "pct_transport": 72.0,
+        "pct_awareness": 56.0,
+        "intensity": 2.6
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78758",
+        "respondents": 25,
+        "pct_barriers": 100.0,
+        "pct_cost": 64.0,
+        "pct_transport": 72.0,
+        "pct_awareness": 56.0,
+        "intensity": 3.36
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78660",
+        "respondents": 24,
+        "pct_barriers": 100.0,
+        "pct_cost": 50.0,
+        "pct_transport": 58.3,
+        "pct_awareness": 37.5,
+        "intensity": 2.58
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78754",
+        "respondents": 23,
+        "pct_barriers": 100.0,
+        "pct_cost": 73.9,
+        "pct_transport": 69.6,
+        "pct_awareness": 69.6,
+        "intensity": 3.61
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78744",
+        "respondents": 22,
+        "pct_barriers": 100.0,
+        "pct_cost": 77.3,
+        "pct_transport": 72.7,
+        "pct_awareness": 77.3,
+        "intensity": 3.55
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78701",
+        "respondents": 20,
+        "pct_barriers": 100.0,
+        "pct_cost": 50.0,
+        "pct_transport": 50.0,
+        "pct_awareness": 70.0,
+        "intensity": 2.65
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78705",
+        "respondents": 19,
+        "pct_barriers": 100.0,
+        "pct_cost": 73.7,
+        "pct_transport": 78.9,
+        "pct_awareness": 47.4,
+        "intensity": 2.74
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78756",
+        "respondents": 18,
+        "pct_barriers": 100.0,
+        "pct_cost": 77.8,
+        "pct_transport": 66.7,
+        "pct_awareness": 50.0,
+        "intensity": 2.56
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78747",
+        "respondents": 17,
+        "pct_barriers": 100.0,
+        "pct_cost": 58.8,
+        "pct_transport": 76.5,
+        "pct_awareness": 64.7,
+        "intensity": 3.06
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78722",
+        "respondents": 17,
+        "pct_barriers": 100.0,
+        "pct_cost": 70.6,
+        "pct_transport": 58.8,
+        "pct_awareness": 41.2,
+        "intensity": 2.82
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78724",
+        "respondents": 16,
+        "pct_barriers": 100.0,
+        "pct_cost": 75.0,
+        "pct_transport": 43.8,
+        "pct_awareness": 43.8,
+        "intensity": 3.19
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78746",
+        "respondents": 15,
+        "pct_barriers": 100.0,
+        "pct_cost": 66.7,
+        "pct_transport": 80.0,
+        "pct_awareness": 60.0,
+        "intensity": 2.93
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78739",
+        "respondents": 13,
+        "pct_barriers": 100.0,
+        "pct_cost": 61.5,
+        "pct_transport": 69.2,
+        "pct_awareness": 53.8,
+        "intensity": 2.85
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78653",
+        "respondents": 12,
+        "pct_barriers": 100.0,
+        "pct_cost": 33.3,
+        "pct_transport": 66.7,
+        "pct_awareness": 50.0,
+        "intensity": 2.42
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78750",
+        "respondents": 11,
+        "pct_barriers": 100.0,
+        "pct_cost": 63.6,
+        "pct_transport": 45.5,
+        "pct_awareness": 45.5,
+        "intensity": 2.27
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78613",
+        "respondents": 9,
+        "pct_barriers": 100.0,
+        "pct_cost": 88.9,
+        "pct_transport": 100.0,
+        "pct_awareness": 44.4,
+        "intensity": 3.33
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78729",
+        "respondents": 8,
+        "pct_barriers": 100.0,
+        "pct_cost": 75.0,
+        "pct_transport": 50.0,
+        "pct_awareness": 62.5,
+        "intensity": 2.88
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78666",
+        "respondents": 8,
+        "pct_barriers": 100.0,
+        "pct_cost": 50.0,
+        "pct_transport": 50.0,
+        "pct_awareness": 75.0,
+        "intensity": 2.5
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78665",
+        "respondents": 7,
+        "pct_barriers": 100.0,
+        "pct_cost": 71.4,
+        "pct_transport": 71.4,
+        "pct_awareness": 28.6,
+        "intensity": 3.14
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78717",
+        "respondents": 7,
+        "pct_barriers": 100.0,
+        "pct_cost": 42.9,
+        "pct_transport": 57.1,
+        "pct_awareness": 71.4,
+        "intensity": 3.14
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78641",
+        "respondents": 7,
+        "pct_barriers": 100.0,
+        "pct_cost": 85.7,
+        "pct_transport": 85.7,
+        "pct_awareness": 71.4,
+        "intensity": 3.57
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78725",
+        "respondents": 7,
+        "pct_barriers": 100.0,
+        "pct_cost": 57.1,
+        "pct_transport": 57.1,
+        "pct_awareness": 42.9,
+        "intensity": 2.71
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78617",
+        "respondents": 6,
+        "pct_barriers": 100.0,
+        "pct_cost": 66.7,
+        "pct_transport": 83.3,
+        "pct_awareness": 33.3,
+        "intensity": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78733",
+        "respondents": 6,
+        "pct_barriers": 100.0,
+        "pct_cost": 50.0,
+        "pct_transport": 100.0,
+        "pct_awareness": 33.3,
+        "intensity": 3.33
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78728",
+        "respondents": 6,
+        "pct_barriers": 100.0,
+        "pct_cost": 66.7,
+        "pct_transport": 66.7,
+        "pct_awareness": 83.3,
+        "intensity": 3.33
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78734",
+        "respondents": 6,
+        "pct_barriers": 100.0,
+        "pct_cost": 50.0,
+        "pct_transport": 83.3,
+        "pct_awareness": 50.0,
+        "intensity": 3.17
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78664",
+        "respondents": 5,
+        "pct_barriers": 100.0,
+        "pct_cost": 80.0,
+        "pct_transport": 80.0,
+        "pct_awareness": 80.0,
+        "intensity": 3.6
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78726",
+        "respondents": 5,
+        "pct_barriers": 100.0,
+        "pct_cost": 80.0,
+        "pct_transport": 80.0,
+        "pct_awareness": 80.0,
+        "intensity": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78732",
+        "respondents": 5,
+        "pct_barriers": 100.0,
+        "pct_cost": 60.0,
+        "pct_transport": 80.0,
+        "pct_awareness": 20.0,
+        "intensity": 2.8
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "78735",
+        "respondents": 5,
+        "pct_barriers": 100.0,
+        "pct_cost": 40.0,
+        "pct_transport": 80.0,
+        "pct_awareness": 60.0,
+        "intensity": 2.0
+      }
+    }
+  ]
+}
