@@ -83,3 +83,6 @@ Desktop.ini
 *.bak
 *.backup
 *.old
+
+# Keep all analysis results - they're essential!
+# Only exclude truly temporary files
