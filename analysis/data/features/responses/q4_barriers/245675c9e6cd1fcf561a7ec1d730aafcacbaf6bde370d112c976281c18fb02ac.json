@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "instability of funding guidelines",
+    "frequent administrative changes",
+    "impact of DEI initiatives",
+    "art as a tool for healing and community building",
+    "concern about growing resentments between communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "administrations constant change for tweaking the funding guidelines",
+    "at the federal Gov't level but state and locally",
+    "Our ocean tide rolls in and out regularly",
+    "DEI is a great example",
+    "We see ART as healing and people strengthening one community and another not growing more resentments"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "constant change in funding guidelines at multiple government levels",
+    "instability in administrative approaches",
+    "shifting priorities such as DEI causing inconsistency"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:08.045198",
+  "cache_key": "245675c9e6cd1fcf561a7ec1d730aafcacbaf6bde370d112c976281c18fb02ac",
+  "model": "gpt-41"
+}

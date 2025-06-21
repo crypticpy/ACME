@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient grant funding for historic sites",
+    "loss of historic sites in Austin",
+    "limitations of Heritage Preservation grant",
+    "need for expanded funding scope"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin is losing its Historic sites left and right due to lack of funding",
+    "Soon it won't have a history to tell",
+    "There is only one Heritage Preservation grant and it only funds exteriors",
+    "it would be great if the scope of the funding was widened to include interiors and programming assistance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Heritage Preservation grant"
+  ],
+  "barriers_identified": [
+    "lack of funding for historic sites",
+    "Heritage Preservation grant only funds exteriors",
+    "no funding for interiors or programming assistance"
+  ],
+  "solutions_proposed": [
+    "widen the scope of the Heritage Preservation grant to include interiors and programming assistance"
+  ],
+  "cached_at": "2025-06-21T01:38:10.204138",
+  "cache_key": "e3388459a16fcb9815a37153a62fe5e204c384e5342cd90f6b46b142488543a0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased arts and crafts opportunities",
+    "public library funding",
+    "community outreach through libraries"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More arts and crafts please",
+    "more public library funding",
+    "continued community outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase arts and crafts opportunities",
+    "Increase public library funding for community outreach"
+  ],
+  "cached_at": "2025-06-21T00:32:58.955016",
+  "cache_key": "3b30b4278c8dba5babe85cc5c33c5761e196e71eed1a00a9fa8d2c1d7fc3417f",
+  "model": "gpt-41"
+}

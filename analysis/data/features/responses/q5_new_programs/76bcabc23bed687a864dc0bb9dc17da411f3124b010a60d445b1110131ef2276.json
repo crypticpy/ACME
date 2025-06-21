@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Indigenous/First People representation",
+    "Local history education",
+    "Cultural knowledge gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Knowledge of Indigenous/ First People tribes",
+    "history of this area"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of knowledge about Indigenous/First People tribes and local history"
+  ],
+  "solutions_proposed": [
+    "Offer programs or services focused on Indigenous/First People tribes and history of the area"
+  ],
+  "cached_at": "2025-06-21T01:58:27.603402",
+  "cache_key": "76bcabc23bed687a864dc0bb9dc17da411f3124b010a60d445b1110131ef2276",
+  "model": "gpt-41"
+}

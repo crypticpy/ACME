@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community engagement",
+    "responsive leadership",
+    "incorporating feedback"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "invite community in conversation",
+    "listen/apply feedback"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "invite community in conversation",
+    "listen/apply feedback"
+  ],
+  "cached_at": "2025-06-20T10:42:07.710503",
+  "cache_key": "8f26810ffdf19163401f50619e25ec5c5e0e3762e8ead1e6acc9f7d4369a978c",
+  "model": "gpt-41"
+}

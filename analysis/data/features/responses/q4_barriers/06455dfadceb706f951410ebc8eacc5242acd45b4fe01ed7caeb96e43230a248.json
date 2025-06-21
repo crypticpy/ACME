@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability challenges",
+    "economic barriers to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "cost of living",
+    "cost of doing business in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living",
+    "cost of doing business in Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:52.159232",
+  "cache_key": "06455dfadceb706f951410ebc8eacc5242acd45b4fe01ed7caeb96e43230a248",
+  "model": "gpt-41"
+}

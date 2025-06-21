@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in funding decisions",
+    "acceptance process clarity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more transparency in the acceptance process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in acceptance process"
+  ],
+  "solutions_proposed": [
+    "increase transparency in the acceptance process"
+  ],
+  "cached_at": "2025-06-21T01:08:08.538543",
+  "cache_key": "fc1c4f916fd000d686e6b1a33667fdf6233563c193576d9a236225eaac749bbc",
+  "model": "gpt-41"
+}

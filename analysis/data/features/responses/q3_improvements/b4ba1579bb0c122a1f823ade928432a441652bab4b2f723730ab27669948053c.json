@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "effectiveness of Heritage Preservation grant team",
+    "preservation of Historically Black University",
+    "importance of tangible and oral history",
+    "need for interior preservation of historic structures",
+    "community engagement through cultural experiences",
+    "interest in exploring additional city-supported opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "great team that is well-trained",
+    "instrumental to the preservation of Austin's only Historically Black University",
+    "preserve history while providing tourists not only with an oral history but also one that the buildings and landscape can capture",
+    "support for the preservation of the inside of these historic structures",
+    "explore other opportunities provided by the City of Austin/ACME",
+    "bridge our community through cultural experiences and community engagement"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Heritage Preservation grant",
+    "Heritage grant"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support for the preservation of the inside of these historic structures"
+  ],
+  "cached_at": "2025-06-21T01:09:26.016240",
+  "cache_key": "b4ba1579bb0c122a1f823ade928432a441652bab4b2f723730ab27669948053c",
+  "model": "gpt-41"
+}

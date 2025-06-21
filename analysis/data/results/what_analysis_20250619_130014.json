@@ -1,0 +1,484 @@
+{
+  "analysis_timestamp": "2025-06-19T13:00:14.527136",
+  "share_of_voice_refined": {
+    "refined_categories": {},
+    "total_classified": 0,
+    "classification_quality": {
+      "average_confidence": 0,
+      "high_confidence_percentage": 0
+    },
+    "error": "No classifications returned"
+  },
+  "major_themes": [
+    {
+      "theme": "Lack of funding for artists and creatives",
+      "count": 50,
+      "percentage": 10.0,
+      "description": "Many responses indicated a significant lack of funding available for artists and creatives, which is impacting their ability to sustain their work.",
+      "keywords": [
+        "lack of funding",
+        "artists",
+        "creatives"
+      ],
+      "sentiment": "negative",
+      "urgency": "high",
+      "supporting_evidence": [
+        "Lack of funding for artists and creatives is a major issue.",
+        "Limited opportunities for emerging artists due to lack of funding.",
+        "Rising costs and lack of funding threaten creative communities."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Rising costs of venues and performance spaces",
+      "count": 45,
+      "percentage": 9.0,
+      "description": "The increasing costs associated with venues and performance spaces are a major concern, making it difficult for artists to afford these spaces.",
+      "keywords": [
+        "rising costs",
+        "venues",
+        "performance spaces"
+      ],
+      "sentiment": "negative",
+      "urgency": "high",
+      "supporting_evidence": [
+        "Rising costs of venues and performance spaces impact creative communities.",
+        "Rising costs of venues and performance spaces limit opportunities for emerging artists.",
+        "Rising costs of venues and performance spaces hinder accessibility for all residents."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Limited opportunities for emerging artists",
+      "count": 30,
+      "percentage": 6.0,
+      "description": "Emerging artists face limited opportunities to showcase their work and gain recognition, which hampers their career development.",
+      "keywords": [
+        "limited opportunities",
+        "emerging artists"
+      ],
+      "sentiment": "negative",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Limited opportunities for emerging artists; I think it's a little too early to tell what ACME will do.",
+        "Limited opportunities for emerging artists; Support smaller organizations that serve underrepresented artists.",
+        "Limited opportunities for emerging artists; Provide funding and resources to help them thrive."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Transportation and parking issues",
+      "count": 25,
+      "percentage": 5.0,
+      "description": "Transportation and parking difficulties are barriers to accessing cultural events, affecting both artists and audiences.",
+      "keywords": [
+        "transportation",
+        "parking issues"
+      ],
+      "sentiment": "negative",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Transportation / parking issues hinder accessibility for many.",
+        "Parking issues make it difficult for attendees to participate.",
+        "Creative venues suffer from transportation and parking limitations."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Cost of tickets or admission fees",
+      "count": 25,
+      "percentage": 5.0,
+      "description": "High ticket prices are a barrier for many community members, limiting access to cultural events.",
+      "keywords": [
+        "cost of tickets",
+        "admission fees"
+      ],
+      "sentiment": "negative",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Cost of tickets or admission fees is a barrier for certain communities.",
+        "Accessibility is a major issue due to cost of tickets or admission fees.",
+        "Opportunities are widely accessible despite cost of tickets or admission fees."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Lack of awareness about events and programs",
+      "count": 20,
+      "percentage": 4.0,
+      "description": "There is a lack of awareness among the community about available cultural events and programs, leading to lower participation.",
+      "keywords": [
+        "lack of awareness",
+        "events",
+        "programs"
+      ],
+      "sentiment": "negative",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Lack of awareness about events and programs.",
+        "Lack of awareness about events and programs.",
+        "Lack of awareness about events and programs."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Impact of gentrification on creative communities",
+      "count": 20,
+      "percentage": 4.0,
+      "description": "Gentrification is negatively affecting creative communities, displacing artists and reducing affordable spaces.",
+      "keywords": [
+        "gentrification",
+        "creative communities"
+      ],
+      "sentiment": "negative",
+      "urgency": "high",
+      "supporting_evidence": [
+        "Gentrification raises venue costs, squeezing out local artists.",
+        "Creative spaces are disappearing due to gentrification.",
+        "Gentrification limits opportunities for emerging artists."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Accessibility issues",
+      "count": 15,
+      "percentage": 3.0,
+      "description": "Accessibility remains a major issue, with many events and venues not being inclusive or accessible to all community members.",
+      "keywords": [
+        "accessibility",
+        "inclusive"
+      ],
+      "sentiment": "negative",
+      "urgency": "high",
+      "supporting_evidence": [
+        "Transportation / parking issues are a barrier for certain communities.",
+        "Rising costs of venues and performance spaces limit accessibility.",
+        "Location - Lack of nearby venues or events in my neighborhood."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Need for expanded cultural programming",
+      "count": 15,
+      "percentage": 3.0,
+      "description": "There is a demand for more diverse and expanded cultural programming to meet the needs of the community.",
+      "keywords": [
+        "expanded programming",
+        "cultural programming"
+      ],
+      "sentiment": "positive",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Need for expanded cultural programming; Accessibility of arts and cultural events to all residents.",
+        "Keep the conversation going. Make big festivals accessible price wise.",
+        "Support smaller organizations that serve underrepresented groups."
+      ],
+      "evidence_strength": 0.6
+    },
+    {
+      "theme": "Grant program awareness and accessibility",
+      "count": 10,
+      "percentage": 2.0,
+      "description": "There is a need for greater awareness and accessibility of grant programs to ensure more artists can benefit from available funding.",
+      "keywords": [
+        "grant program",
+        "awareness",
+        "accessibility"
+      ],
+      "sentiment": "mixed",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Lack of awareness about events and programs remains a significant barrier.",
+        "Information for upcoming community organizers on the resources they have or how to event plan.",
+        "Nexus Grant Program; Elevate Grant Program; Thrive Grant Program; Austin Live Music Fund Grant Program."
+      ],
+      "evidence_strength": 0.6
+    }
+  ],
+  "program_analysis": {
+    "Nexus": {
+      "program": "Nexus",
+      "response_count": 622,
+      "themes": [
+        {
+          "theme": "Accessibility Issues",
+          "sentiment": "negative",
+          "frequency": 35,
+          "key_points": [
+            "High cost of tickets or admission fees",
+            "Lack of nearby venues or events",
+            "Transportation and parking issues",
+            "Limited diversity and representation"
+          ],
+          "recommendation": "Consider implementing a sliding scale for ticket prices, increasing the number of events in diverse neighborhoods, and improving transportation options to venues."
+        },
+        {
+          "theme": "Funding for Artists and Creatives",
+          "sentiment": "negative",
+          "frequency": 30,
+          "key_points": [
+            "Lack of funding for artists",
+            "Rising costs of venues and performance spaces",
+            "Limited opportunities for emerging artists"
+          ],
+          "recommendation": "Increase funding opportunities for artists and creatives, and provide subsidies for venue costs to support emerging talent."
+        },
+        {
+          "theme": "Awareness and Representation",
+          "sentiment": "neutral",
+          "frequency": 25,
+          "key_points": [
+            "Lack of awareness about events and programs",
+            "Limited diversity and inclusion in events",
+            "Impact of gentrification on creative communities"
+          ],
+          "recommendation": "Enhance marketing efforts to raise awareness of events and ensure diverse representation in programming to engage broader audiences."
+        }
+      ]
+    },
+    "Thrive": {
+      "program": "Thrive",
+      "response_count": 590,
+      "themes": [
+        {
+          "theme": "Accessibility Issues",
+          "sentiment": "negative",
+          "frequency": 40,
+          "key_points": [
+            "High cost of tickets or admission fees",
+            "Lack of nearby venues or events",
+            "Transportation and parking issues",
+            "Limited diversity and representation in events"
+          ],
+          "recommendation": "Implement sliding scale ticket pricing, increase the number of events in underserved areas, improve public transportation options to event venues, and ensure diverse programming to attract a wider audience."
+        },
+        {
+          "theme": "Funding and Support for Artists",
+          "sentiment": "negative",
+          "frequency": 30,
+          "key_points": [
+            "Lack of funding for artists and creatives",
+            "Rising costs of venues and performance spaces",
+            "Limited opportunities for emerging artists"
+          ],
+          "recommendation": "Increase funding opportunities for artists, subsidize venue costs, and create more platforms for emerging artists to showcase their work."
+        },
+        {
+          "theme": "Awareness and Engagement",
+          "sentiment": "neutral",
+          "frequency": 25,
+          "key_points": [
+            "Lack of awareness about events and programs",
+            "Events not matching community interests",
+            "Need for expanded cultural programming"
+          ],
+          "recommendation": "Enhance marketing efforts to raise awareness of events, conduct community surveys to better align events with local interests, and diversify programming to include a wider array of cultural activities."
+        }
+      ]
+    },
+    "Elevate": {
+      "program": "Elevate",
+      "response_count": 611,
+      "themes": [
+        {
+          "theme": "Accessibility Issues",
+          "sentiment": "negative",
+          "frequency": 45,
+          "key_points": [
+            "High cost of tickets or admission fees",
+            "Lack of nearby venues or events in neighborhoods",
+            "Transportation and parking issues",
+            "Limited diversity and representation in events"
+          ],
+          "recommendation": "Consider implementing tiered pricing or discounts to make events more affordable. Increase the number of events in underserved areas and improve public transportation options to venues. Enhance diversity in programming to attract a broader audience."
+        },
+        {
+          "theme": "Funding for Artists",
+          "sentiment": "negative",
+          "frequency": 30,
+          "key_points": [
+            "Lack of funding for artists and creatives",
+            "Rising costs of venues and performance spaces",
+            "Limited opportunities for emerging artists"
+          ],
+          "recommendation": "Increase funding opportunities and grants for artists, especially emerging ones. Collaborate with local businesses and sponsors to subsidize venue costs and create more affordable spaces for performances."
+        },
+        {
+          "theme": "Awareness and Promotion",
+          "sentiment": "neutral",
+          "frequency": 25,
+          "key_points": [
+            "Lack of awareness about events and programs",
+            "Limited information reaching potential audiences",
+            "Need for expanded cultural programming"
+          ],
+          "recommendation": "Enhance marketing efforts through social media and community outreach to raise awareness about events. Develop partnerships with local media and community organizations to spread information more effectively."
+        }
+      ]
+    },
+    "Austin Live Music Fund": {
+      "program": "Austin Live Music Fund",
+      "response_count": 28,
+      "themes": [
+        {
+          "theme": "Accessibility and Barriers",
+          "sentiment": "negative",
+          "frequency": 15,
+          "key_points": [
+            "Cost of tickets or admission fees",
+            "Transportation and parking issues",
+            "Location - Lack of nearby venues or events",
+            "Limited opportunities for emerging artists"
+          ],
+          "recommendation": "Implement subsidy programs for ticket prices and improve transportation options to increase accessibility. Consider hosting events in diverse neighborhoods to reach more communities."
+        },
+        {
+          "theme": "Funding for Artists",
+          "sentiment": "negative",
+          "frequency": 12,
+          "key_points": [
+            "Lack of funding for artists and creatives",
+            "Rising costs of venues and performance spaces",
+            "Impact of gentrification on creative spaces"
+          ],
+          "recommendation": "Increase funding allocations specifically for artists and creatives. Partner with local businesses and organizations to provide affordable venues and address gentrification impacts."
+        },
+        {
+          "theme": "Diversity and Inclusion",
+          "sentiment": "neutral",
+          "frequency": 8,
+          "key_points": [
+            "Limited diversity/representation/inclusion in events",
+            "Lack of awareness about events and programs",
+            "Need for expanded genres such as hip hop and Latin music"
+          ],
+          "recommendation": "Develop outreach programs to increase diversity and representation in events. Promote a wider variety of music genres and ensure marketing efforts reach underrepresented communities."
+        }
+      ]
+    },
+    "Art in Public Places": {
+      "program": "Art in Public Places",
+      "response_count": 610,
+      "themes": [
+        {
+          "theme": "Accessibility Issues",
+          "sentiment": "negative",
+          "frequency": 45,
+          "key_points": [
+            "Cost of tickets or admission fees",
+            "Transportation/parking issues",
+            "Lack of nearby venues or events in neighborhoods"
+          ],
+          "recommendation": "Implement sliding scale ticket pricing and improve public transportation options to venues. Consider hosting events in more diverse locations to increase accessibility."
+        },
+        {
+          "theme": "Lack of Awareness",
+          "sentiment": "negative",
+          "frequency": 32,
+          "key_points": [
+            "Limited awareness about events and programs",
+            "Events do not match community interests",
+            "Need for better marketing and outreach"
+          ],
+          "recommendation": "Enhance marketing efforts through social media, local partnerships, and community engagement to increase awareness and tailor events to community interests."
+        },
+        {
+          "theme": "Funding and Support for Artists",
+          "sentiment": "neutral",
+          "frequency": 28,
+          "key_points": [
+            "Lack of funding for artists and creatives",
+            "Rising costs of venues and performance spaces",
+            "Limited opportunities for emerging artists"
+          ],
+          "recommendation": "Increase funding opportunities and grants for artists, and explore partnerships to reduce venue costs. Develop programs specifically for emerging artists to showcase their work."
+        }
+      ]
+    },
+    "Creative Space Assistance Program": {
+      "program": "Creative Space Assistance Program",
+      "response_count": 318,
+      "themes": [
+        {
+          "theme": "Accessibility Issues",
+          "sentiment": "negative",
+          "frequency": 40,
+          "key_points": [
+            "Cost of tickets or admission fees",
+            "Lack of nearby venues or events in neighborhoods",
+            "Transportation and parking issues",
+            "Limited diversity and representation"
+          ],
+          "recommendation": "Implement sliding scale ticket pricing, increase the number of venues in underserved areas, and improve public transportation options to venues."
+        },
+        {
+          "theme": "Funding for Artists and Creatives",
+          "sentiment": "negative",
+          "frequency": 35,
+          "key_points": [
+            "Lack of funding for artists and creatives",
+            "Rising costs of venues and performance spaces",
+            "Limited opportunities for emerging artists"
+          ],
+          "recommendation": "Increase grant opportunities and financial support for artists, and consider subsidies for venue costs to support emerging artists."
+        },
+        {
+          "theme": "Awareness and Promotion",
+          "sentiment": "neutral",
+          "frequency": 30,
+          "key_points": [
+            "Lack of awareness about events and programs",
+            "Need for centralized promotion and sales",
+            "Events not matching community interests"
+          ],
+          "recommendation": "Enhance marketing efforts through centralized city-run promotion channels and tailor events to better match community interests."
+        }
+      ]
+    }
+  },
+  "parking_lot": {
+    "total_mentions": 1422,
+    "categories": {
+      "parking": {
+        "count": 813,
+        "key_issues": [
+          "Parking availability",
+          "Parking cost"
+        ],
+        "affected_areas": []
+      },
+      "transit": {
+        "count": 844,
+        "key_issues": [
+          "Transit access",
+          "Route availability"
+        ],
+        "affected_areas": []
+      }
+    },
+    "summary": "Transportation and parking concerns were mentioned in 1422 responses, indicating potential barriers to cultural participation.",
+    "recommendations": [
+      "Consider venue parking availability in funding decisions",
+      "Support programs that provide transportation assistance",
+      "Prioritize venues with good transit access"
+    ]
+  },
+  "theme_summary": {
+    "total_themes": 10,
+    "top_3_themes": [
+      "Lack of funding for artists and creatives",
+      "Rising costs of venues and performance spaces",
+      "Limited opportunities for emerging artists"
+    ],
+    "sentiment_distribution": {
+      "negative": 8,
+      "positive": 1,
+      "mixed": 1
+    },
+    "urgency_distribution": {
+      "high": 4,
+      "medium": 6
+    },
+    "average_evidence_strength": 0.5999999999999999
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about sustainability of grant funding",
+    "feelings of abandonment among grantees",
+    "limits on the number of grants per organization",
+    "opposition to for-profit access to HOT funding",
+    "appreciation for community input"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "evaluate the success and sustainability of the THRIVE program",
+    "feel abandoned and/or betrayed when that money is not renewed",
+    "city can not support 35 groups every year at the $150,000 level forever",
+    "for profit groups should not have access to HOT funding",
+    "screen so that one organization can not get 4 or 5 grants from THRIVE and Elevate",
+    "thank you so much for asking for our opinions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "THRIVE",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "lack of sustained funding for grantees",
+    "potential for-profit competition for HOT funding",
+    "inequitable distribution of grants to single organizations"
+  ],
+  "solutions_proposed": [
+    "evaluate the success and sustainability of the THRIVE program",
+    "screen so that one organization can not get 4 or 5 grants from THRIVE and Elevate",
+    "exclude for-profit groups from HOT funding"
+  ],
+  "cached_at": "2025-06-21T02:12:19.881644",
+  "cache_key": "43fcbf36f958ea3a36abf0afab65cfdbbbfe56f5b9b104898cab6350fd34b91a",
+  "model": "gpt-41"
+}

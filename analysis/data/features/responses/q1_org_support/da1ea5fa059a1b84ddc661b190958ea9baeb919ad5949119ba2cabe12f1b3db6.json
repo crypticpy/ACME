@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased involvement of music venues",
+    "support for local creatives",
+    "financial accessibility for local acts",
+    "partnerships between venues and grant programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "asking more music venues to be involved",
+    "created a grant to help creatives",
+    "music venues can try and get involved",
+    "spaces that can give discounts to those grants",
+    "charge less to local acts and creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high costs for local acts and creatives at music venues"
+  ],
+  "solutions_proposed": [
+    "music venues give discounts to those grants",
+    "venues charge less to local acts and creatives",
+    "involve more music venues in supporting creatives"
+  ],
+  "cached_at": "2025-06-20T01:22:19.859901",
+  "cache_key": "da1ea5fa059a1b84ddc661b190958ea9baeb919ad5949119ba2cabe12f1b3db6",
+  "model": "gpt-41"
+}

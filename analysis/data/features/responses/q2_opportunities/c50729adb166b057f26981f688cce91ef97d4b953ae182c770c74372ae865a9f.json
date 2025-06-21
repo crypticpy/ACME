@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for First Friday-style events",
+    "comparison to other Texas cities",
+    "lack of similar cultural programming in Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "A comparable First Friday to San Antonio",
+    "even Lubbock, TX"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "First Friday"
+  ],
+  "barriers_identified": [
+    "absence of First Friday-style events in Austin"
+  ],
+  "solutions_proposed": [
+    "create a First Friday event similar to San Antonio or Lubbock"
+  ],
+  "cached_at": "2025-06-21T00:34:33.618601",
+  "cache_key": "c50729adb166b057f26981f688cce91ef97d4b953ae182c770c74372ae865a9f",
+  "model": "gpt-41"
+}

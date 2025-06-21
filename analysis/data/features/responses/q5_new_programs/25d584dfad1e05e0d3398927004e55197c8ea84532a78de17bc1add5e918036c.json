@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant development for MENA cultural events",
+    "educational support for musical artists",
+    "fair wages for musicians",
+    "equal access for underrepresented ethnic groups",
+    "venue partnerships"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "develop grant(s) for MENA cultural events and projects",
+    "more educational support for musical artists",
+    "connections with venues to encourage fair wages to musicians",
+    "equal access to underrepresented ethnic groups in ATX"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for MENA cultural events",
+    "insufficient educational support for musical artists",
+    "unfair wages for musicians",
+    "limited access for underrepresented ethnic groups"
+  ],
+  "solutions_proposed": [
+    "develop grant(s) for MENA cultural events and projects",
+    "provide more educational support for musical artists",
+    "facilitate connections with venues to encourage fair wages",
+    "promote equal access to underrepresented ethnic groups"
+  ],
+  "cached_at": "2025-06-21T02:09:06.394511",
+  "cache_key": "25d584dfad1e05e0d3398927004e55197c8ea84532a78de17bc1add5e918036c",
+  "model": "gpt-41"
+}

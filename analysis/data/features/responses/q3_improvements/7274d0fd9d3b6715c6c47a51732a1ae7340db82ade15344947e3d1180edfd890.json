@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "relationship-building with diverse communities",
+    "cultural inclusivity",
+    "community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "build new relationships",
+    "culturally diverse communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of relationships with culturally diverse communities"
+  ],
+  "solutions_proposed": [
+    "build new relationships with culturally diverse communities"
+  ],
+  "cached_at": "2025-06-21T01:11:21.298096",
+  "cache_key": "7274d0fd9d3b6715c6c47a51732a1ae7340db82ade15344947e3d1180edfd890",
+  "model": "gpt-41"
+}

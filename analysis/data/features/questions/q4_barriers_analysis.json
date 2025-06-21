@@ -1,0 +1,346 @@
+{
+  "question_id": "q4_barriers",
+  "question_text": "What barriers do you or your community face in accessing support or services related to arts, culture, music and entertainment?",
+  "response_count": 764,
+  "dominant_themes": [
+    {
+      "theme": "financial barriers to participation",
+      "count": 31,
+      "percentage": 4.057591623036649,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 30,
+        "neutral": 1
+      },
+      "urgency_score": 0.8387096774193549,
+      "stakeholder_breakdown": {
+        "resident": 14,
+        "artist": 5,
+        "unknown": 9,
+        "organization": 3
+      }
+    },
+    {
+      "theme": "transportation barriers",
+      "count": 15,
+      "percentage": 1.963350785340314,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 14,
+        "neutral": 1
+      },
+      "urgency_score": 0.6333333333333333,
+      "stakeholder_breakdown": {
+        "resident": 14,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "transportation challenges",
+      "count": 13,
+      "percentage": 1.7015706806282722,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 12,
+        "neutral": 1
+      },
+      "urgency_score": 0.6923076923076923,
+      "stakeholder_breakdown": {
+        "resident": 12,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "insufficient funding",
+      "count": 13,
+      "percentage": 1.7015706806282722,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 13
+      },
+      "urgency_score": 0.9615384615384616,
+      "stakeholder_breakdown": {
+        "unknown": 9,
+        "artist": 2,
+        "resident": 1,
+        "organization": 1
+      }
+    },
+    {
+      "theme": "financial barriers to access",
+      "count": 13,
+      "percentage": 1.7015706806282722,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 13
+      },
+      "urgency_score": 0.8461538461538461,
+      "stakeholder_breakdown": {
+        "resident": 7,
+        "unknown": 6
+      }
+    },
+    {
+      "theme": "parking difficulties",
+      "count": 12,
+      "percentage": 1.5706806282722512,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 10,
+        "neutral": 2
+      },
+      "urgency_score": 0.5416666666666666,
+      "stakeholder_breakdown": {
+        "resident": 12
+      }
+    },
+    {
+      "theme": "affordability of cultural events",
+      "count": 11,
+      "percentage": 1.4397905759162304,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 11
+      },
+      "urgency_score": 0.6363636363636364,
+      "stakeholder_breakdown": {
+        "resident": 11
+      }
+    },
+    {
+      "theme": "financial barriers to cultural participation",
+      "count": 9,
+      "percentage": 1.1780104712041886,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 8,
+        "neutral": 1
+      },
+      "urgency_score": 0.8888888888888888,
+      "stakeholder_breakdown": {
+        "resident": 6,
+        "unknown": 2,
+        "organization": 1
+      }
+    },
+    {
+      "theme": "financial barriers",
+      "count": 8,
+      "percentage": 1.0471204188481675,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 8
+      },
+      "urgency_score": 0.8125,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "resident": 4
+      }
+    },
+    {
+      "theme": "lack of awareness of opportunities",
+      "count": 8,
+      "percentage": 1.0471204188481675,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 5,
+        "neutral": 3
+      },
+      "urgency_score": 0.5625,
+      "stakeholder_breakdown": {
+        "resident": 2,
+        "artist": 2,
+        "unknown": 4
+      }
+    },
+    {
+      "theme": "insufficient funding for arts and culture",
+      "count": 8,
+      "percentage": 1.0471204188481675,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 8
+      },
+      "urgency_score": 0.9375,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "resident": 2,
+        "artist": 2
+      }
+    },
+    {
+      "theme": "affordability of cultural participation",
+      "count": 7,
+      "percentage": 0.9162303664921465,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 7
+      },
+      "urgency_score": 0.8571428571428571,
+      "stakeholder_breakdown": {
+        "resident": 5,
+        "unknown": 1,
+        "venue_operator": 1
+      }
+    },
+    {
+      "theme": "economic barriers to cultural participation",
+      "count": 7,
+      "percentage": 0.9162303664921465,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 7
+      },
+      "urgency_score": 1.0,
+      "stakeholder_breakdown": {
+        "resident": 4,
+        "artist": 1,
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "transportation and parking challenges",
+      "count": 6,
+      "percentage": 0.7853403141361256,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 6
+      },
+      "urgency_score": 0.5833333333333334,
+      "stakeholder_breakdown": {
+        "unknown": 1,
+        "resident": 5
+      }
+    },
+    {
+      "theme": "parking challenges",
+      "count": 6,
+      "percentage": 0.7853403141361256,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 6
+      },
+      "urgency_score": 0.5833333333333334,
+      "stakeholder_breakdown": {
+        "resident": 6
+      }
+    },
+    {
+      "theme": "affordability challenges",
+      "count": 6,
+      "percentage": 0.7853403141361256,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 6
+      },
+      "urgency_score": 1.0,
+      "stakeholder_breakdown": {
+        "artist": 1,
+        "resident": 2,
+        "unknown": 3
+      }
+    },
+    {
+      "theme": "awareness barriers",
+      "count": 6,
+      "percentage": 0.7853403141361256,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 5,
+        "neutral": 1
+      },
+      "urgency_score": 0.5833333333333334,
+      "stakeholder_breakdown": {
+        "unknown": 5,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "cost barriers to participation",
+      "count": 6,
+      "percentage": 0.7853403141361256,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 6
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "resident": 3,
+        "unknown": 3
+      }
+    },
+    {
+      "theme": "lack of funding",
+      "count": 5,
+      "percentage": 0.6544502617801047,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 5
+      },
+      "urgency_score": 0.9,
+      "stakeholder_breakdown": {
+        "unknown": 3,
+        "artist": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "venue accessibility",
+      "count": 5,
+      "percentage": 0.6544502617801047,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 5
+      },
+      "urgency_score": 0.6,
+      "stakeholder_breakdown": {
+        "resident": 4,
+        "unknown": 1
+      }
+    }
+  ],
+  "sentiment_distribution": {
+    "negative": 663,
+    "neutral": 61,
+    "mixed": 33,
+    "positive": 7
+  },
+  "urgency_distribution": {
+    "high": 419,
+    "medium": 324,
+    "low": 21
+  },
+  "stakeholder_distribution": {
+    "organization": 91,
+    "educator": 2,
+    "artist": 205,
+    "resident": 267,
+    "unknown": 190,
+    "venue_operator": 4,
+    "business_owner": 5
+  },
+  "key_insights": [
+    "Financial barriers are the most frequently cited and urgent obstacle, with multiple themes related to affordability and economic access scoring high on urgency (up to 1.00) and representing a significant portion of overall feedback.",
+    "Insufficient funding for arts and culture organizations is a critical systemic issue, with high urgency scores (up to 0.96), indicating that both individuals and organizations are struggling to access necessary resources.",
+    "Transportation and parking challenges, while less frequently mentioned, are persistent barriers with moderate urgency, particularly affecting those without reliable access to transit or affordable parking.",
+    "A lack of awareness about available arts, culture, music, and entertainment opportunities is a recurring theme, suggesting that communication and outreach gaps are limiting participation.",
+    "High urgency scores across financial and funding-related themes indicate that these barriers disproportionately affect lower-income residents, potentially exacerbating inequities in cultural participation."
+  ],
+  "recommendations": [
+    "Expand targeted subsidy or sliding-scale programs to reduce financial barriers for individuals and families, prioritizing those with demonstrated need to ensure equitable access to arts, culture, music, and entertainment events.",
+    "Increase municipal funding and grant opportunities for local arts and culture organizations, with a focus on supporting initiatives that directly address affordability and access for underserved communities.",
+    "Collaborate with transit agencies and event organizers to improve transportation options, such as discounted transit passes, dedicated shuttle services, or partnerships for event-specific routes, and address parking challenges through shared-use agreements or subsidized parking.",
+    "Develop and implement a comprehensive outreach and communications strategy, leveraging multiple platforms and community networks to raise awareness of available cultural opportunities, particularly in underrepresented neighborhoods.",
+    "Establish a regular feedback mechanism with community members and stakeholders to monitor the effectiveness of implemented measures and to identify emerging barriers, ensuring that solutions remain responsive and data-driven."
+  ],
+  "contradictions": [],
+  "consensus_points": [
+    "Strong negative consensus on financial barriers to participation (97% negative)",
+    "Strong negative consensus on transportation barriers (93% negative)",
+    "Strong negative consensus on transportation challenges (92% negative)",
+    "Strong negative consensus on insufficient funding (100% negative)",
+    "Strong negative consensus on financial barriers to access (100% negative)",
+    "Strong negative consensus on parking difficulties (83% negative)",
+    "Strong negative consensus on affordability of cultural events (100% negative)"
+  ]
+}

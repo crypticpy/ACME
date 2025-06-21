@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for direct engagement with organizations and leaders",
+    "Sustainability and resilience of support structures",
+    "Vulnerability to legislative or political changes",
+    "Urgency of community needs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Start by listening to them about their existing operations",
+    "they are the ones on the ground already doing the work",
+    "know what people need immediately",
+    "Make the work you do legislation proof",
+    "Don't make structures that will disappear in 2 years",
+    "Get security from city leaders and funding",
+    "Build a back up generator"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of sustained structural support",
+    "Susceptibility to legislative or political changes",
+    "Short-lived or temporary support structures"
+  ],
+  "solutions_proposed": [
+    "Listen to organizations and leaders about their operations and needs",
+    "Make support structures resilient to legislative changes",
+    "Secure long-term support from city leaders and funding",
+    "Build backup systems for continuity"
+  ],
+  "cached_at": "2025-06-20T10:41:21.026159",
+  "cache_key": "8679858e0d2f7e4acd0ac1facfed6a3e0e238281789113eb9b05bda199cc18aa",
+  "model": "gpt-41"
+}

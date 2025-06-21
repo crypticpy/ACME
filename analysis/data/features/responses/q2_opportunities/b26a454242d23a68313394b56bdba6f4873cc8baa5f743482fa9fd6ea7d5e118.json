@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for more rehearsal and creative spaces like the Music Lab",
+    "concern about residential development near music venues",
+    "advocacy for expanded rights for buskers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We desperately need more places like the Music Lab",
+    "residential development near existing music venue zones",
+    "buskers must have almost complete free license, within reasonable hours and locations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Music Lab"
+  ],
+  "barriers_identified": [
+    "lack of spaces like the Music Lab",
+    "restrictions on busking",
+    "potential conflicts from residential development near music venues"
+  ],
+  "solutions_proposed": [
+    "create more places like the Music Lab",
+    "allow buskers almost complete free license within reasonable hours and locations"
+  ],
+  "cached_at": "2025-06-21T00:43:16.790730",
+  "cache_key": "b26a454242d23a68313394b56bdba6f4873cc8baa5f743482fa9fd6ea7d5e118",
+  "model": "gpt-41"
+}

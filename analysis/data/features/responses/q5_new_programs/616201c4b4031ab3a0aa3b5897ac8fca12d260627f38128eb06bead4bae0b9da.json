@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "economic accessibility",
+    "inclusion of low-income residents",
+    "free cultural programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "free events",
+    "less fortunate can participate"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of participation for less fortunate"
+  ],
+  "solutions_proposed": [
+    "offer free events"
+  ],
+  "cached_at": "2025-06-21T02:08:52.854267",
+  "cache_key": "616201c4b4031ab3a0aa3b5897ac8fca12d260627f38128eb06bead4bae0b9da",
+  "model": "gpt-41"
+}

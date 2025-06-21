@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking among artists",
+    "support for grantees",
+    "community building"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Artist meetup groups of grantees",
+    "would be great to have"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create artist meetup groups for grantees"
+  ],
+  "cached_at": "2025-06-21T00:40:49.825562",
+  "cache_key": "04a83e978e1cbc6b78fb5e647a0ddf9485f9b1338d7b9c7ed4c27ffd0d42ee17",
+  "model": "gpt-41"
+}

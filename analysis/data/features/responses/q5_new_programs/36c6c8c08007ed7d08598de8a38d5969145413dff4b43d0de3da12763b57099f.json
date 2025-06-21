@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "loss of professional development opportunities for artists",
+    "need for technical and administrative training in public art",
+    "interest in program reinstatement",
+    "support for local artist capacity-building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "AIPP used to have a LaunchPAD (Public Art Duo) program",
+    "I haven't heard about it since 2021",
+    "great opportunity for local artists to gain technical and administrative expertise",
+    "I'd love to see something like that return"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP LaunchPAD (Public Art Duo)"
+  ],
+  "barriers_identified": [
+    "lack of current opportunities for local artists to gain technical and administrative expertise in public art"
+  ],
+  "solutions_proposed": [
+    "bring back the LaunchPAD (Public Art Duo) program or a similar initiative"
+  ],
+  "cached_at": "2025-06-21T01:58:41.499592",
+  "cache_key": "36c6c8c08007ed7d08598de8a38d5969145413dff4b43d0de3da12763b57099f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient promotion of grant opportunities",
+    "need for grant writing support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more promotions around the grant availability",
+    "support with the grant writing process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about grant availability",
+    "difficulty with the grant writing process"
+  ],
+  "solutions_proposed": [
+    "increase promotions around grant availability",
+    "provide support with the grant writing process"
+  ],
+  "cached_at": "2025-06-21T01:15:16.098496",
+  "cache_key": "ab46a52c39d2c8ab9d0519ce5fbc8a2e66d2780af2eea3aa45e65235d239fc2a",
+  "model": "gpt-41"
+}

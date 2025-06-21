@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for repertoire theater",
+    "interest in specific performing arts forms"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "repertoire theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more repertoire theater"
+  ],
+  "cached_at": "2025-06-21T00:31:42.782168",
+  "cache_key": "4f2f478b100d6b16990b3255c10b20cf5b863a1c8b04d873e7bfb8c73c8d520c",
+  "model": "gpt-41"
+}

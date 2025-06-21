@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for cultural organizations",
+    "improved distribution of funding",
+    "affordable access to venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Increasing funding and its distribution",
+    "Offering venues at affordable prices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "high venue costs"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "improve funding distribution",
+    "offer venues at affordable prices"
+  ],
+  "cached_at": "2025-06-20T10:38:10.104773",
+  "cache_key": "e303e305323297c70d8f1798baed379ab88bb30ec1604f1b981dac5be3fb3c93",
+  "model": "gpt-41"
+}

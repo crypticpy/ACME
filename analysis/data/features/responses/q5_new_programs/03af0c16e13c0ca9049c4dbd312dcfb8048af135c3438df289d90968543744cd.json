@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of free access to instruments",
+    "need for free creative/practice spaces",
+    "barriers to creativity due to lack of resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Access to instruments and practice areas that are free",
+    "It is hard to be creative when you have no where to be creative at"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "no free access to instruments",
+    "no available practice areas",
+    "lack of spaces to be creative"
+  ],
+  "solutions_proposed": [
+    "provide free access to instruments",
+    "offer free practice areas"
+  ],
+  "cached_at": "2025-06-21T02:03:23.611078",
+  "cache_key": "03af0c16e13c0ca9049c4dbd312dcfb8048af135c3438df289d90968543744cd",
+  "model": "gpt-41"
+}

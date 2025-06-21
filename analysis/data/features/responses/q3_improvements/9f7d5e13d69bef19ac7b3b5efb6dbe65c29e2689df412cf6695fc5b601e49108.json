@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "resource allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Make more funds available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough funds available"
+  ],
+  "solutions_proposed": [
+    "Make more funds available"
+  ],
+  "cached_at": "2025-06-21T01:05:14.438142",
+  "cache_key": "9f7d5e13d69bef19ac7b3b5efb6dbe65c29e2689df412cf6695fc5b601e49108",
+  "model": "gpt-41"
+}

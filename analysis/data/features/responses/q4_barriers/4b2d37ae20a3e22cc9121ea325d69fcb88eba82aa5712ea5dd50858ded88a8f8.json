@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "messaging and marketing challenges",
+    "perceived exclusion of broader audiences",
+    "focus on under-represented groups affecting inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Messaging issue, marketing",
+    "focusing so much on under-represented people",
+    "limiting the audience to your events, activities",
+    "isolating a larger group of people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "messaging issue",
+    "marketing approach limits audience",
+    "focus on under-represented groups leads to isolation of others"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:18.874501",
+  "cache_key": "4b2d37ae20a3e22cc9121ea325d69fcb88eba82aa5712ea5dd50858ded88a8f8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "children's cultural programming",
+    "support for young musicians",
+    "opportunities for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Children's programming",
+    "opportunities for young and emerging musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase children's programming",
+    "create more opportunities for young and emerging musicians"
+  ],
+  "cached_at": "2025-06-21T00:50:54.922398",
+  "cache_key": "872653925de1149bbfd0da2eb3515706d26beed0bd26e1fd62ab04ab91bb5b2f",
+  "model": "gpt-41"
+}

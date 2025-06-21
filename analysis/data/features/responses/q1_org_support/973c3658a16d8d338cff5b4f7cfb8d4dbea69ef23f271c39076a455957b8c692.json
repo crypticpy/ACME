@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity of communication",
+    "predictability of funding",
+    "transparency in funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "clearly communicated",
+    "clearly defined",
+    "predictable funding opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear communication",
+    "unpredictable funding opportunities"
+  ],
+  "solutions_proposed": [
+    "have clearly communicated and clearly defined and predictable funding opportunities"
+  ],
+  "cached_at": "2025-06-20T10:44:17.340054",
+  "cache_key": "973c3658a16d8d338cff5b4f7cfb8d4dbea69ef23f271c39076a455957b8c692",
+  "model": "gpt-41"
+}

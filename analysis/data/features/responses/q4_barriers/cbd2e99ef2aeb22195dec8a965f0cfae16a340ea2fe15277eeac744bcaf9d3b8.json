@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "reference to previous responses",
+    "lack of new information provided"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "See previous answers"
+  ],
+  "intent": "refer_to_prior_response",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:41.143101",
+  "cache_key": "cbd2e99ef2aeb22195dec8a965f0cfae16a340ea2fe15277eeac744bcaf9d3b8",
+  "model": "gpt-41"
+}

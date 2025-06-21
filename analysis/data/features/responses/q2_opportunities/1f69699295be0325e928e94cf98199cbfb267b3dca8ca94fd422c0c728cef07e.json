@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "live music in unique venues",
+    "integration of visual art in music spaces",
+    "walkability and access via mass transit",
+    "praise for specific cultural districts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Live music in cool places",
+    "feature art on the venues wall",
+    "walkable/mass transit rich areas",
+    "The RRCD is great",
+    "South Congress is great",
+    "Comal & E 6th is great",
+    "other cool 'districts'"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of walkable/mass transit rich areas for cultural events"
+  ],
+  "solutions_proposed": [
+    "more live music in venues that feature art",
+    "locate events in walkable and transit-accessible districts"
+  ],
+  "cached_at": "2025-06-21T00:49:35.464212",
+  "cache_key": "1f69699295be0325e928e94cf98199cbfb267b3dca8ca94fd422c0c728cef07e",
+  "model": "gpt-41"
+}

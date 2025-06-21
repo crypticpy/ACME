@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of support for legacy/established artists",
+    "overemphasis on emerging artists",
+    "need for policy input from legacy artists",
+    "dehumanized and inaccessible application process",
+    "disconnect between applicants and decision-makers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Create a working group or task force made up of long time 'legacy' artists",
+    "too much emphasis on 'emerging' or artists who are new to Austin",
+    "never been a 'legacy or established' arts category",
+    "application process has become dehumanized",
+    "isolating applicants from those who decides who get money",
+    "online only process that favors bureaucratic expediency"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of a 'legacy or established' arts category",
+    "application process is dehumanized and isolating",
+    "online only process favors bureaucratic expediency",
+    "lack of contact between applicants and decision-makers"
+  ],
+  "solutions_proposed": [
+    "Create a working group or task force made up of long time 'legacy' artists to create policy",
+    "Establish a 'legacy or established' arts category"
+  ],
+  "cached_at": "2025-06-20T10:41:37.402709",
+  "cache_key": "269dd0c99f43c182ce299654615cce77d1e9b134aefacfb4399f10bdb25e4926",
+  "model": "gpt-41"
+}

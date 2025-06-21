@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for artists",
+    "living wage for musicians and performers",
+    "need for accessible and inexpensive performance spaces",
+    "health and accessibility needs for immunocompromised individuals",
+    "advocacy for the creative class"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "be a better voice for the creative class",
+    "find an affordable apt so he can keep working and living in town",
+    "Musicians and performers need to make a basic living wage, not a percentage of the liquor sales",
+    "My dance school needs inexpensive outdoor places to perform",
+    "as a stage 4 cancer patient, I need to go to shady outdoor venues where I can be unmasked"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing for artists",
+    "musicians paid by liquor sales instead of living wage",
+    "insufficient inexpensive outdoor performance spaces",
+    "lack of accessible, shady, outdoor venues for immunocompromised individuals"
+  ],
+  "solutions_proposed": [
+    "be a better voice for the creative class",
+    "provide affordable housing for artists",
+    "ensure musicians and performers receive a basic living wage",
+    "create inexpensive outdoor places to perform",
+    "offer shady outdoor venues accessible for people with health concerns"
+  ],
+  "cached_at": "2025-06-20T10:25:14.135937",
+  "cache_key": "92f9a56d0f341f9d647f99b49e20e2366cbf2aca05299ce34d698b5b3510e3d5",
+  "model": "gpt-41"
+}

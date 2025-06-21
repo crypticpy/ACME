@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for underserved communities",
+    "equity in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Support of historically underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "historically underserved communities lack support"
+  ],
+  "solutions_proposed": [
+    "Support of historically underserved communities"
+  ],
+  "cached_at": "2025-06-21T01:19:06.814928",
+  "cache_key": "4e9b887c80eaa5284d8b02f2559283d5728d63ebeed6df7ee6a01ca058dc7ce1",
+  "model": "gpt-41"
+}

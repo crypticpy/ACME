@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event funding",
+    "financial support for cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Helping to fund events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Helping to fund events"
+  ],
+  "cached_at": "2025-06-20T01:21:56.956160",
+  "cache_key": "b46b6912e663d4437e5eedd6a58b372f90f07478e7bf6625f89dc440bc1b154e",
+  "model": "gpt-41"
+}

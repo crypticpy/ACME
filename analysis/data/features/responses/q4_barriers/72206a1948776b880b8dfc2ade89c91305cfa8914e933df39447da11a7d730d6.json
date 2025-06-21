@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic inequity in arts engagement",
+    "transportation and location as barriers",
+    "need for distributed cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Transportation/Location",
+    "There needs to be more arts meetups and engagement in all parts of Austin",
+    "not just downtown and in East Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "transportation",
+    "limited event locations"
+  ],
+  "solutions_proposed": [
+    "more arts meetups and engagement in all parts of Austin"
+  ],
+  "cached_at": "2025-06-21T01:37:09.129471",
+  "cache_key": "72206a1948776b880b8dfc2ade89c91305cfa8914e933df39447da11a7d730d6",
+  "model": "gpt-41"
+}

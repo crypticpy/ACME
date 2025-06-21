@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for Cajun cultural opportunities",
+    "desire for Creole cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cajun and creole"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase Cajun and Creole arts or entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:37:15.327991",
+  "cache_key": "f6204a60d607f36773c9c60104b3e501ad2cc3932ad56df37bb524498b082ba5",
+  "model": "gpt-41"
+}

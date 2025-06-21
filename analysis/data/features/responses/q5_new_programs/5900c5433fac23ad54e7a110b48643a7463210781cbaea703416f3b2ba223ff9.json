@@ -1,0 +1,43 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant writing support",
+    "mentorship for artists",
+    "artist marketing services",
+    "networking for creative sector",
+    "sustainable financial support",
+    "infrastructure investment (buildings and land)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "grant writing assistance",
+    "mentorship programs",
+    "artist marketing services",
+    "networking events for artists and creative sector businesses and fabricators",
+    "long term sustainable financial support (purchase buildings and land etc)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing support",
+    "insufficient mentorship opportunities",
+    "limited marketing services for artists",
+    "lack of networking opportunities",
+    "inadequate long-term financial support",
+    "lack of access to buildings and land"
+  ],
+  "solutions_proposed": [
+    "offer grant writing assistance",
+    "create mentorship programs",
+    "provide artist marketing services",
+    "organize networking events for artists and creative sector businesses and fabricators",
+    "establish long term sustainable financial support including purchase of buildings and land"
+  ],
+  "cached_at": "2025-06-21T01:52:16.454763",
+  "cache_key": "5900c5433fac23ad54e7a110b48643a7463210781cbaea703416f3b2ba223ff9",
+  "model": "gpt-41"
+}

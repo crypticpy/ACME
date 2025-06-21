@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased awareness of programs",
+    "concern about fragmentation of funding amounts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "bring more awareness",
+    "amounts dispersed shouldn\u2019t be separated so many times"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of programs",
+    "funding amounts being divided too many times"
+  ],
+  "solutions_proposed": [
+    "increase awareness of cultural funding programs",
+    "reduce the number of times funding amounts are separated"
+  ],
+  "cached_at": "2025-06-21T01:13:45.600364",
+  "cache_key": "96baf21a8b0758e76b32af2506669446a06ec6f0995e687393cda77659e93959",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community outreach",
+    "networking between artists and industry professionals",
+    "facilitating connections with artist management and development groups",
+    "educational panels with bookers, venue owners, and promoters"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more community outreach",
+    "connecting folks together",
+    "panels with bookers and venue owners and promoters",
+    "connecting with artist management and development groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more community outreach",
+    "panels with bookers, venue owners, and promoters",
+    "connecting with artist management and development groups"
+  ],
+  "cached_at": "2025-06-21T02:04:31.493033",
+  "cache_key": "e212a2fc4e4ab451defa7cc50e5d74ef8da6938bccdacd38a545144dfdca4da1",
+  "model": "gpt-41"
+}

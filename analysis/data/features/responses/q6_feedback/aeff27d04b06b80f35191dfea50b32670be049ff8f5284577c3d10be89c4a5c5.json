@@ -1,0 +1,51 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "activation of vacant city properties for creative use",
+    "cross-sector collaboration between arts and other public systems",
+    "community-led marketing and visibility strategies",
+    "support for both short-term events and long-term cultural ecosystems",
+    "unrestricted funding for organizations",
+    "embedding artists as strategists within city departments",
+    "artist-in-residence programs for public initiatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "think outside the box",
+    "building a sustainable, visionary future for arts and culture",
+    "activate vacant, city-owned properties as creative and community space",
+    "build meaningful cross-sector collaborations",
+    "community-led marketing",
+    "funding and infrastructure that supports both one-time events and long-term, year-round cultural ecosystems",
+    "unrestricted funding",
+    "embed artists inside City departments",
+    "artist-in-residence program for every major public initiative"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of creative use of vacant city-owned properties",
+    "insufficient cross-sector collaboration",
+    "limited community-led marketing",
+    "inadequate support for long-term cultural ecosystems",
+    "restricted funding for organizations",
+    "absence of artists embedded in city departments"
+  ],
+  "solutions_proposed": [
+    "activate vacant, city-owned properties as creative and community space",
+    "build cross-sector collaborations with housing, public health, transportation, and climate",
+    "design funding pipelines that embed artists in public systems",
+    "implement community-led marketing strategies co-created by artists and residents",
+    "develop funding and infrastructure for both one-time events and long-term ecosystems",
+    "offer more unrestricted funding to organizations",
+    "embed artists as cultural strategists or creative problem-solvers inside City departments",
+    "create an artist-in-residence program for every major public initiative"
+  ],
+  "cached_at": "2025-06-21T02:10:36.137500",
+  "cache_key": "aeff27d04b06b80f35191dfea50b32670be049ff8f5284577c3d10be89c4a5c5",
+  "model": "gpt-41"
+}

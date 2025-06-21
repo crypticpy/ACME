@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of minority communities",
+    "lack of invitation or access for minorities",
+    "exposure to new cultural opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "bringing minority communities into cultural opportunities",
+    "not been invited to or seen before"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "minority communities not being invited",
+    "lack of exposure for minority communities"
+  ],
+  "solutions_proposed": [
+    "bring minority communities into cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:36:25.520956",
+  "cache_key": "97acaf2331586cc227fb0a7eb8683ee78777f8154146ee8ad6ddb1fadeb8a181",
+  "model": "gpt-41"
+}

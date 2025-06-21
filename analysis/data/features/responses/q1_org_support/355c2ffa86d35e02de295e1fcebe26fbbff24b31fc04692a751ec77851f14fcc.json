@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "peer-led professional development for creatives",
+    "private sector philanthropy and targeted funding",
+    "addressing gatekeeping and board silos",
+    "equity and transparency in cultural leadership",
+    "economic development tied to cultural support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "help creatives help themselves",
+    "bring real philanthropy to those who need the most",
+    "the 2016 Live Music census tells you exactly who needs it most",
+    "break the silos and the gatekeeping of special interests at boards like the Music Commission",
+    "ensure that stages and opportunities are not going only to the 'cool kids in their club' but to all",
+    "lead with heart, equity, economic development and transparency",
+    "you are the keepers of the soul of our city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Mid Arts American Alliance",
+    "Artist Inc",
+    "Music Commission",
+    "2016 Live Music census"
+  ],
+  "barriers_identified": [
+    "silos and gatekeeping of special interests at boards",
+    "stages and opportunities going only to the 'cool kids in their club'"
+  ],
+  "solutions_proposed": [
+    "Look to initiatives like Mid Arts American Alliance and fellowships like Artist Inc to help creatives help themselves",
+    "Work with private sector to bring real philanthropy to those who need the most",
+    "Use the 2016 Live Music census to identify who needs support most",
+    "Break the silos and gatekeeping at boards like the Music Commission",
+    "Lead with heart, equity, economic development and transparency"
+  ],
+  "cached_at": "2025-06-20T10:40:18.266604",
+  "cache_key": "355c2ffa86d35e02de295e1fcebe26fbbff24b31fc04692a751ec77851f14fcc",
+  "model": "gpt-41"
+}

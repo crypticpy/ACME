@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased outreach",
+    "funding access",
+    "public-private collaboration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more private/public outreach to funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach to funding sources"
+  ],
+  "solutions_proposed": [
+    "increase private/public outreach to funding"
+  ],
+  "cached_at": "2025-06-21T01:59:49.391295",
+  "cache_key": "9fe251902a3e65867eebce8688db7c471e717596f9c792fca247f0cf46123716",
+  "model": "gpt-41"
+}

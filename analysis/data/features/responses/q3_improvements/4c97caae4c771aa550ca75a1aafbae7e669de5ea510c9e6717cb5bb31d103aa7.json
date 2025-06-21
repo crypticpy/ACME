@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient funding",
+    "organizer and creative labor",
+    "funding equity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "providing the appropriate funding",
+    "match the hard work and energy",
+    "organizers and creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding does not match effort"
+  ],
+  "solutions_proposed": [
+    "provide funding that matches the hard work and energy of organizers and creatives"
+  ],
+  "cached_at": "2025-06-21T01:15:09.061860",
+  "cache_key": "4c97caae4c771aa550ca75a1aafbae7e669de5ea510c9e6717cb5bb31d103aa7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of living and operating in Austin",
+    "instability of literary arts organizations",
+    "lack of funding for community organizations",
+    "sectoral lack of resiliency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cost of living and operating in Austin",
+    "lack of resiliency in the sector",
+    "community organizations in literary arts are unstable",
+    "due to lack of funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living and operating in Austin",
+    "instability of literary arts organizations",
+    "lack of funding for community organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:28.434242",
+  "cache_key": "d2415efff0531498e20460f45fec3c6cc0d8e1081c4bd65b7ec2cc618d08d90a",
+  "model": "gpt-41"
+}

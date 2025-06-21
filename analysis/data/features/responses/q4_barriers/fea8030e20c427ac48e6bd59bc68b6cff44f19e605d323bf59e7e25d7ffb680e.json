@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "absence of barriers",
+    "acknowledgment of privilege"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "None.",
+    "I am very privileged."
+  ],
+  "intent": "barrier_negation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:26.515939",
+  "cache_key": "fea8030e20c427ac48e6bd59bc68b6cff44f19e605d323bf59e7e25d7ffb680e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding relative to organizational size",
+    "disconnect between community impact and funding levels",
+    "resource allocation fairness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "for the size of organization we are",
+    "for the impact we have in the community",
+    "our funding should be dramatically increased"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inadequate funding for organizations with significant community impact"
+  ],
+  "solutions_proposed": [
+    "dramatically increase funding for organizations proportional to their size and impact"
+  ],
+  "cached_at": "2025-06-21T01:21:07.666398",
+  "cache_key": "c68981e221cc7e0b64ff5c3652df2bdb8b63924d50d4153055f4a2e6fe3ec96d",
+  "model": "gpt-41"
+}

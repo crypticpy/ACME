@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in award recipient information",
+    "need for categorization of awardees",
+    "clarity in representation of different artistic disciplines",
+    "data visualization for funding distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "transparency around which specific categories each award recipient falls under",
+    "just a list of awards recipients names with no info",
+    "a pie chart showing how each category is represented in awards would provide clarity",
+    "Individual Musician, individual visual artist, creative business, event planner, theater, performing arts, film maker, gallery, curator, writer, teacher, etc"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about awardee categories",
+    "insufficient clarity on representation of artistic disciplines"
+  ],
+  "solutions_proposed": [
+    "provide specific categories for each award recipient",
+    "publish a pie chart showing category representation in awards"
+  ],
+  "cached_at": "2025-06-21T00:55:39.378222",
+  "cache_key": "4177116b86622fa7985427ca78aa9d8c99309ffd8c44b78477c847c2505dba02",
+  "model": "gpt-41"
+}

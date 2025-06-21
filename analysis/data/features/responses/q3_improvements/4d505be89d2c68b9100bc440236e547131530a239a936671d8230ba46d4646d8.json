@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "slow response from program administrators",
+    "need for improved responsiveness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more responsive",
+    "quicker response time"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "slow response time"
+  ],
+  "solutions_proposed": [
+    "increase responsiveness",
+    "reduce response time"
+  ],
+  "cached_at": "2025-06-21T01:12:47.709992",
+  "cache_key": "4d505be89d2c68b9100bc440236e547131530a239a936671d8230ba46d4646d8",
+  "model": "gpt-41"
+}

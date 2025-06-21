@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "subsidizing nonprofit and event spaces",
+    "support for emerging artists",
+    "employment opportunities for local artists",
+    "artist-led marketing and design"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "subsidized so that they can assist emerging artists",
+    "hire local artists to provide the marketing, design to promote the programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of subsidized nonprofit and event spaces",
+    "limited support for emerging artists",
+    "insufficient opportunities for local artists in marketing and design roles"
+  ],
+  "solutions_proposed": [
+    "subsidize nonprofit and event spaces",
+    "hire local artists for marketing and design to promote programs"
+  ],
+  "cached_at": "2025-06-21T02:03:56.972840",
+  "cache_key": "e9f6ea3090f1befe520de2342bba8b3e91b2fc32f969b828f37bd78d05e5b402",
+  "model": "gpt-41"
+}

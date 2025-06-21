@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient funding",
+    "need for increased financial support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More money!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [
+    "provide more money"
+  ],
+  "cached_at": "2025-06-20T01:18:08.503829",
+  "cache_key": "bf5d7a0e66fc063b85876003415a035cf1c12093ae35d22e1228cab3f06d89c7",
+  "model": "gpt-41"
+}

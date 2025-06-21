@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for free cultural programming",
+    "use of public spaces for arts",
+    "accessibility and affordability of arts events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more free programming",
+    "parks and other public spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of programming",
+    "limited use of public spaces for arts"
+  ],
+  "solutions_proposed": [
+    "increase free programming in parks and public spaces"
+  ],
+  "cached_at": "2025-06-21T00:41:33.921980",
+  "cache_key": "40ccd085c09d6e14ba9daf76ec3b05508e7007dc5009c38715564fbe9e623f9e",
+  "model": "gpt-41"
+}

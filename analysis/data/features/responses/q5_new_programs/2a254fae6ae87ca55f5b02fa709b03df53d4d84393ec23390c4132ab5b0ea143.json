@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "integration of BVI (Blind/Visually Impaired) and DHH (Deaf/Hard of Hearing) communities",
+    "connecting high net worth individuals with arts organizations",
+    "funding challenges for small arts organizations",
+    "importance of city grants",
+    "lack of development staff in small organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "better integrating BVI and DHH communities",
+    "help forge more connection between high net worth people (donors/foundations/etc) and the arts community",
+    "so hard for our small arts organizations without development people to just get enough money to make art",
+    "City grants are critical",
+    "matchmaking role you can play too with rich residents"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty connecting with high net worth donors",
+    "lack of development staff in small arts organizations",
+    "insufficient funding for small arts organizations"
+  ],
+  "solutions_proposed": [
+    "better integration of BVI and DHH communities",
+    "ACME to play a matchmaking role between wealthy donors and arts organizations"
+  ],
+  "cached_at": "2025-06-21T02:01:49.314179",
+  "cache_key": "2a254fae6ae87ca55f5b02fa709b03df53d4d84393ec23390c4132ab5b0ea143",
+  "model": "gpt-41"
+}

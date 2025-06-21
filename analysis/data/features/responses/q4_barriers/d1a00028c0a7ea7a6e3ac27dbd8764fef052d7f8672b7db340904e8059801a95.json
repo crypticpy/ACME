@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of cultural representation",
+    "financial barriers to event access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Representation of all cultures",
+    "Access to free events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient representation of all cultures",
+    "limited access to free events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:59.762122",
+  "cache_key": "d1a00028c0a7ea7a6e3ac27dbd8764fef052d7f8672b7db340904e8059801a95",
+  "model": "gpt-41"
+}

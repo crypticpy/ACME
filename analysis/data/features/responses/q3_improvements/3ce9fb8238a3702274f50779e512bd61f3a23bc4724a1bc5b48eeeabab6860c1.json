@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased public awareness",
+    "promotion of grants and projects",
+    "perceived value of cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more promotion",
+    "inform the public",
+    "valuable grants and projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness of grants and projects"
+  ],
+  "solutions_proposed": [
+    "more promotion to inform the public"
+  ],
+  "cached_at": "2025-06-21T01:05:05.617939",
+  "cache_key": "3ce9fb8238a3702274f50779e512bd61f3a23bc4724a1bc5b48eeeabab6860c1",
+  "model": "gpt-41"
+}

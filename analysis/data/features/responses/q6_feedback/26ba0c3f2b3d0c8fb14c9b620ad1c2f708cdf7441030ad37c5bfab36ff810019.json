@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for staff efforts",
+    "recognition of the Creative Reset program"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thank you for all your hard work",
+    "Creative Reset"
+  ],
+  "intent": "expression_of_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Creative Reset"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:53.953657",
+  "cache_key": "26ba0c3f2b3d0c8fb14c9b620ad1c2f708cdf7441030ad37c5bfab36ff810019",
+  "model": "gpt-41"
+}

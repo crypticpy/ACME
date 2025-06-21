@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about overemphasis on underrepresented groups",
+    "desire for broader inclusivity in funding",
+    "art as a unifying force",
+    "perception of divisiveness in current funding focus"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "less focused on only underrepresented people",
+    "focus more on just getting creative ideas out into the world",
+    "art, music etc. brings people together",
+    "it creates more divides when it appears that you only care about a certain subsect of people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived exclusion of broader community",
+    "focus on a certain subsect of people"
+  ],
+  "solutions_proposed": [
+    "be less focused on only underrepresented people",
+    "focus more on getting creative ideas out into the world"
+  ],
+  "cached_at": "2025-06-21T01:14:03.932874",
+  "cache_key": "71d55d7649ec71ed25f97cde5fe83e806a354a19b0e41f0955685124a1c9ae59",
+  "model": "gpt-41"
+}

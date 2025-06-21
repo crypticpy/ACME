@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Afro-Caribbean cultural representation",
+    "Underrepresentation of specific cultural forms",
+    "Interest in dance and music programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Afro-Caribbean dance & music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Underrepresentation of Afro-Caribbean dance & music"
+  ],
+  "solutions_proposed": [
+    "Offer Afro-Caribbean dance & music programs"
+  ],
+  "cached_at": "2025-06-21T02:05:46.975764",
+  "cache_key": "679ad3063577af821871aada67fadcf69640ac1c6fcafde8d35b697e20ed3c08",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for unrestricted funding",
+    "simplifying grant access",
+    "resource accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "unrestricted funding and resources",
+    "easier ways to access grants and resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing grants and resources"
+  ],
+  "solutions_proposed": [
+    "provide unrestricted funding",
+    "make it easier to access grants and resources"
+  ],
+  "cached_at": "2025-06-20T10:33:57.547756",
+  "cache_key": "893e882a7e3523b79d6466816fc7bab7cac051e7ec2c6ce6490fc176e55d098e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more theatre",
+    "interest in international films"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Teatre and international films"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more theatre",
+    "more international films"
+  ],
+  "cached_at": "2025-06-21T00:37:23.761151",
+  "cache_key": "f4e1d03aca6fdbf555020c28f5a806e26e0793a6d2ea4c4cf30b89f6df8aaf53",
+  "model": "gpt-41"
+}

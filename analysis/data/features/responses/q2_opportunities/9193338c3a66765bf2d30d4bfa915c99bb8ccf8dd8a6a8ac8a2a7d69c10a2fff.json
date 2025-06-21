@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theatre",
+    "interest in performing arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "live theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more live theatre opportunities"
+  ],
+  "cached_at": "2025-06-21T00:37:46.979874",
+  "cache_key": "9193338c3a66765bf2d30d4bfa915c99bb8ccf8dd8a6a8ac8a2a7d69c10a2fff",
+  "model": "gpt-41"
+}

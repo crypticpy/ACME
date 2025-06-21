@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of ethnic representation",
+    "diversity and inclusion in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Ethnicities representation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of ethnicities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:08:44.599062",
+  "cache_key": "3654f9fb3ea20ad9f943856f21443c598749f54e00fbdc54decb0e82dbfbf7d1",
+  "model": "gpt-41"
+}

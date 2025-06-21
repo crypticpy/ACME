@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of non-commercial arts funding",
+    "support for arts venues",
+    "leadership development for nonprofit organizations",
+    "diversity in training for NPO leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Prioritize funding for non-commercial arts opportunities and venues",
+    "Provide more diverse training for NPO leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of prioritization for non-commercial arts funding",
+    "insufficient diversity in training for NPO leaders"
+  ],
+  "solutions_proposed": [
+    "Prioritize funding for non-commercial arts opportunities and venues",
+    "Provide more diverse training for NPO leaders"
+  ],
+  "cached_at": "2025-06-20T01:12:41.161029",
+  "cache_key": "42e88b7e4baa55878e102c19687878b684c165aad2b0710e9f561e6dd6207793",
+  "model": "gpt-41"
+}

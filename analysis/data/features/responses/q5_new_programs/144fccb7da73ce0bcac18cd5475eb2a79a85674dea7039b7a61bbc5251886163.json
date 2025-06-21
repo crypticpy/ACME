@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more events",
+    "need for artistic community gatherings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Events",
+    "artistic community gatherings"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more events",
+    "Facilitate artistic community gatherings"
+  ],
+  "cached_at": "2025-06-21T02:09:12.249082",
+  "cache_key": "144fccb7da73ce0bcac18cd5475eb2a79a85674dea7039b7a61bbc5251886163",
+  "model": "gpt-41"
+}

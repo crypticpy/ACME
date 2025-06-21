@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "allegations of nonprofit financial misconduct",
+    "lack of transparency in grant distribution",
+    "insufficient oversight and auditing",
+    "perceived corruption among city board members",
+    "artist undercompensation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "All the non profits are scamming the city and the artists",
+    "Big medium $780k in grants and donations only $9400 was split and given to 8 artists",
+    "Rasiin in the sun can\u2019t account for $490k+ just from the homeless mural Project",
+    "Don\u2019t understand how you don\u2019t audit these non profits",
+    "the city board members are getting kick backs for their own non profits",
+    "Proof is public"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium",
+    "Rasiin in the Sun"
+  ],
+  "barriers_identified": [
+    "lack of financial accountability among nonprofits",
+    "lack of audits or oversight",
+    "potential conflicts of interest among city board members",
+    "artists receiving minimal funding"
+  ],
+  "solutions_proposed": [
+    "audit these non profits"
+  ],
+  "cached_at": "2025-06-20T10:31:05.837691",
+  "cache_key": "06db77f74ecad7e9d2cef8985aeb511c0d7498d94911d0ff408ecbe33e06b65f",
+  "model": "gpt-41"
+}

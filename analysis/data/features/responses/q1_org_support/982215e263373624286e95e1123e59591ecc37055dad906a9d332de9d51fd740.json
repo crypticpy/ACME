@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Systemic exclusion of disabled musicians in Austin's music scene",
+    "Inaccessibility of music education and performance opportunities for disabled students",
+    "Tokenism and lack of authentic inclusion in arts programming",
+    "Physical, financial, and cultural barriers in private venues and community programs",
+    "Discriminatory behavioral policies disproportionately affecting neurodivergent and disabled individuals",
+    "Marginalization and dismissal of disabled artists' contributions",
+    "Need for reimagining access and centering disabled voices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "shockingly few meaningful opportunities in music education and performance for disabled students and musicians",
+    "access to music and the arts is routinely denied to disabled students altogether",
+    "token inclusion that lacks the infrastructure, understanding, or commitment needed",
+    "private music venues and community programs... are largely inaccessible\u2014physically, financially, and culturally",
+    "zero-tolerance behavioral policies that disproportionately exclude neurodivergent and disabled individuals",
+    "disabled musicians\u2014especially those with complex support needs\u2014are among the most marginalized of the marginalized",
+    "This is not just an oversight\u2014it\u2019s a systemic failure",
+    "we must begin by listening to disabled artists, removing barriers, and reimagining access as essential\u2014not optional"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Routine denial of access to music and arts education for disabled students",
+    "Superficial or token inclusion without proper infrastructure or commitment",
+    "Physical inaccessibility of private music venues and community programs",
+    "Financial barriers to participation",
+    "Cultural inaccessibility and lack of understanding",
+    "Behavioral policies that disproportionately exclude neurodivergent and disabled individuals",
+    "Fragmented and rare opportunities for disabled musicians"
+  ],
+  "solutions_proposed": [
+    "Listening to disabled artists",
+    "Removing barriers to access",
+    "Reimagining access as essential to Austin\u2019s music scene"
+  ],
+  "cached_at": "2025-06-20T10:44:06.729168",
+  "cache_key": "982215e263373624286e95e1123e59591ecc37055dad906a9d332de9d51fd740",
+  "model": "gpt-41"
+}

@@ -1,0 +1,19 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "See my letter."
+  ],
+  "intent": "refer_to_additional_material",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:55:54.760927",
+  "cache_key": "884a01a5f5e7fce906831bbe7e42e4216954df1f32d8b4601561057ffcab26ab",
+  "model": "gpt-41"
+}

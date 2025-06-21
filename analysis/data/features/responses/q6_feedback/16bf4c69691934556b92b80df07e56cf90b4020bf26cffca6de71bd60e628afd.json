@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "arts equity and cultural stewardship",
+    "artist-led initiatives bridging gaps",
+    "investment in underrepresented genres (jazz)",
+    "support for archival and educational work",
+    "need for sustainable, long-term infrastructure funding",
+    "preservation of creative community legacy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "ACME has the potential to become a national model for arts equity and cultural stewardship",
+    "artist-led initiatives can bridge generational, cultural, and educational gaps",
+    "deepen investment in underrepresented genres like jazz",
+    "support archival and educational work",
+    "prioritize long-term infrastructure over one-time funding",
+    "sustainable support will allow Austin\u2019s creative community to preserve its legacy while shaping its future"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The H Project",
+    "Performing Arts Association (HPPAA)"
+  ],
+  "barriers_identified": [
+    "lack of investment in underrepresented genres",
+    "insufficient support for archival and educational work",
+    "overreliance on one-time funding instead of sustainable infrastructure"
+  ],
+  "solutions_proposed": [
+    "deepen investment in underrepresented genres like jazz",
+    "support archival and educational work",
+    "prioritize long-term infrastructure over one-time funding",
+    "provide sustainable support to preserve and shape the creative community"
+  ],
+  "cached_at": "2025-06-21T02:17:57.888001",
+  "cache_key": "16bf4c69691934556b92b80df07e56cf90b4020bf26cffca6de71bd60e628afd",
+  "model": "gpt-41"
+}

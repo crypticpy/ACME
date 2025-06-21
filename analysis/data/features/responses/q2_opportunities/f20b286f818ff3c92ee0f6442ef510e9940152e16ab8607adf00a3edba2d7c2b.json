@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased support for independent organizations",
+    "focus on smaller organizations",
+    "emphasis on vision, merit, and talent in funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more support for independent/smaller orgs",
+    "based on vision, merit, and talent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for independent/smaller organizations"
+  ],
+  "solutions_proposed": [
+    "provide more support for independent/smaller organizations",
+    "allocate support based on vision, merit, and talent"
+  ],
+  "cached_at": "2025-06-21T00:31:44.479466",
+  "cache_key": "f20b286f818ff3c92ee0f6442ef510e9940152e16ab8607adf00a3edba2d7c2b",
+  "model": "gpt-41"
+}

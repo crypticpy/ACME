@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "film production and screenings",
+    "painter gallery showcases with interviews",
+    "multi-media art showcases",
+    "community participation in entertainment selection"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Film production & screenings",
+    "Painter gallery showcases with interviews and multi media showcases",
+    "public gatherings where the community can also vote on the entertainment opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "public gatherings where the community can also vote on the entertainment opportunities that are asking for support"
+  ],
+  "cached_at": "2025-06-21T00:49:01.547044",
+  "cache_key": "db9f99bafbe6d94ec6778be60544aada0a416edcad658fbbb082b6bcd53bb1d9",
+  "model": "gpt-41"
+}

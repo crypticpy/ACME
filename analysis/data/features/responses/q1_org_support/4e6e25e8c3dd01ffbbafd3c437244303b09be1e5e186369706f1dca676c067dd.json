@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived unfairness in funding criteria for traditional/white-led organizations",
+    "Efforts by traditional organizations to diversify audiences and leadership",
+    "Impact of funding cuts on organizational sustainability and diversity goals",
+    "Geographic and economic displacement of BIPoC communities",
+    "Transportation and logistical barriers for BIPoC audiences",
+    "Critique of City's response to cost of living crisis"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "you should listen to them in good faith and not punish them by denying funding simply because they aren't primarily BIPoC-led or serving/facing",
+    "traditional (i.e., 'white') organizations are making great efforts to reach underserved demographics",
+    "the City completely pulled the rug out from under them/us",
+    "cost of living crisis\u2014which the City has, in many of our minds, done little to alleviate\u2014has pushed BIPoC Austinites into further and further outlying communities",
+    "it's really difficult for us to entice BIPoC prospective audience members to trek back into the city on a weekend",
+    "when you force them out of business or force them to drastically cut back their offerings by shutting them out of cultural arts funding, you end up making your stated goal that much difficult for all of us"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding denial to organizations not primarily BIPoC-led or serving",
+    "Cost of living crisis pushing BIPoC communities to outlying areas",
+    "Transportation and traffic challenges for BIPoC audiences traveling into Austin",
+    "Organizational instability due to funding cuts"
+  ],
+  "solutions_proposed": [
+    "Listen to organizations' diversity efforts in good faith and do not deny funding solely based on not being BIPoC-led or serving"
+  ],
+  "cached_at": "2025-06-20T01:16:06.899892",
+  "cache_key": "4e6e25e8c3dd01ffbbafd3c437244303b09be1e5e186369706f1dca676c067dd",
+  "model": "gpt-41"
+}

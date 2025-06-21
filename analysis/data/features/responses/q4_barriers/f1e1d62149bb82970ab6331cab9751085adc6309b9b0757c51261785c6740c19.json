@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to access",
+    "parking accessibility and cost",
+    "suggestions for reducing participation costs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "cost of admission",
+    "cost of parking",
+    "Free parking would help"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of admission",
+    "cost of parking"
+  ],
+  "solutions_proposed": [
+    "Free parking would help"
+  ],
+  "cached_at": "2025-06-21T01:31:54.967502",
+  "cache_key": "f1e1d62149bb82970ab6331cab9751085adc6309b9b0757c51261785c6740c19",
+  "model": "gpt-41"
+}

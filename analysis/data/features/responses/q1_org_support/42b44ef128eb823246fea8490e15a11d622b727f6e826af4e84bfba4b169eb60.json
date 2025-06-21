@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grants and funding",
+    "capacity building for support",
+    "fundraising assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grants and funding",
+    "help building a foundation of support",
+    "fundraising"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "insufficient support for fundraising"
+  ],
+  "solutions_proposed": [
+    "provide grants and funding",
+    "help organizations build a foundation of support",
+    "assist with fundraising"
+  ],
+  "cached_at": "2025-06-20T10:43:31.332439",
+  "cache_key": "42b44ef128eb823246fea8490e15a11d622b727f6e826af4e84bfba4b169eb60",
+  "model": "gpt-41"
+}

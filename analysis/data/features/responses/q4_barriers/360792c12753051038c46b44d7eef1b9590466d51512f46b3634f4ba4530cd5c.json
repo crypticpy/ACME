@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of quality recording resources",
+    "need for collaborative partners",
+    "insufficient business and industry resources",
+    "lack of education in marketing and licensing",
+    "need for mentorship"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "quality recording",
+    "collaborative partners",
+    "business/industry resources",
+    "education including marketing and licensing",
+    "mentorship"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to quality recording resources",
+    "difficulty finding collaborative partners",
+    "insufficient business and industry resources",
+    "lack of education in marketing and licensing",
+    "lack of mentorship"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:59.467361",
+  "cache_key": "360792c12753051038c46b44d7eef1b9590466d51512f46b3634f4ba4530cd5c",
+  "model": "gpt-41"
+}

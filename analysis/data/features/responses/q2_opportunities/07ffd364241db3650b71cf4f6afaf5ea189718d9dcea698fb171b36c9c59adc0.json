@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for private arts organizations",
+    "broad public engagement in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support private arts organization",
+    "invite broad public revue"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support private arts organizations, especially those that invite broad public revue"
+  ],
+  "cached_at": "2025-06-21T00:41:36.871260",
+  "cache_key": "07ffd364241db3650b71cf4f6afaf5ea189718d9dcea698fb171b36c9c59adc0",
+  "model": "gpt-41"
+}

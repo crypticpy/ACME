@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to new grant requirements",
+    "concern for artist and institution sustainability",
+    "lack of alternative funding sources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "do not change your grants to require fiscal sponsorship",
+    "50% existing funds to match",
+    "greatly endangers artists and institutions",
+    "do not have other avenues for funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "requirement for fiscal sponsorship",
+    "requirement for 50% matching funds",
+    "lack of other funding avenues"
+  ],
+  "solutions_proposed": [
+    "do not implement fiscal sponsorship or matching fund requirements for grants"
+  ],
+  "cached_at": "2025-06-21T02:21:53.469469",
+  "cache_key": "7802de6207ea97ed0f7e3bb4fadfb405001bbdf35c381579172f75d85d64638c",
+  "model": "gpt-41"
+}

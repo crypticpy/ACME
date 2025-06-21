@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding",
+    "resource allocation",
+    "diversity in organizational support",
+    "networking and connection-building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding and resources",
+    "connecting with more diverse organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding and resources",
+    "insufficient connection with diverse organizations"
+  ],
+  "solutions_proposed": [
+    "provide more funding and resources",
+    "connect with more diverse organizations"
+  ],
+  "cached_at": "2025-06-20T10:41:02.206572",
+  "cache_key": "618e073dcce3daefa029bc4841d63871091aac2c1110ec17322f4128f1377589",
+  "model": "gpt-41"
+}

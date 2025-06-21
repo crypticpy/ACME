@@ -1,0 +1,116 @@
+{
+  "analysis_date": "2025-06-21T09:27:29.603772",
+  "total_survey_responses": 1187,
+  "top_10_cultural_funding_themes": [
+    {
+      "rank": 1,
+      "theme": "Increase Funding Awareness",
+      "count": 1351,
+      "percentage": 39.9,
+      "supporting_sentences": [
+        "Cost of tickets or admission fees ;Location- Lack of nearby venues or events in my neighborhood ;Transportation / parking issues ;Limited diversity/ representation/ inclusion in events ;Lack of awaren",
+        "Cost of tickets or admission fees ;Transportation / parking issues ;Lack of awareness about events and programs ;Limited diversity/ representation/ inclusion in events ;",
+        "Transportation / parking issues ;Lack of awareness about events and programs ;Limited diversity/ representation/ inclusion in events ;Cost of tickets or admission fees ;Location- Lack of nearby venues"
+      ]
+    },
+    {
+      "rank": 2,
+      "theme": "Support Small Organizations",
+      "count": 439,
+      "percentage": 12.9,
+      "supporting_sentences": [
+        "Lack of funding for artists and creatives ;Limited opportunities for emerging artists ;Impact of gentrification on creative communities ;",
+        "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Limited opportunities for emerging artists ;",
+        "Lack of funding for artists and creatives ;Accessibility of arts and cultural events to all residents ;Limited opportunities for emerging artists ;"
+      ]
+    },
+    {
+      "rank": 3,
+      "theme": "Simplify Application Process",
+      "count": 422,
+      "percentage": 12.4,
+      "supporting_sentences": [
+        "Need for expanded cultural programming ;The biggest challenge is the matrix of city funding applications and how pretentious terminology is used for DEI. ;",
+        "Lack of funding for artists and creatives ;Need for expanded cultural programming ;City arts funding program applications hostile to applicants legacy artist and arts organizations;",
+        "Lack of funding for artists and creatives ;Wildly shifting priorities in the funding process;"
+      ]
+    },
+    {
+      "rank": 4,
+      "theme": "Improve Grant Access",
+      "count": 356,
+      "percentage": 10.5,
+      "supporting_sentences": [
+        "With the changes to federal grant requirements and clawback of existing federal grants I think ACME should reconsider the limits against getting funding on consecutive years",
+        "- Consult organizational and cultural leaders before making decisions about artist resources, venues, funding, etc by implementing surveys and/or creating long term work groups\n- Inform the public in ",
+        "Austin\u2019s creative community is full of organizations doing important work, but a lot of them are under-supported or overlooked. ACME can better support these groups by making sure they are actually be"
+      ]
+    },
+    {
+      "rank": 5,
+      "theme": "Funding Transparency",
+      "count": 274,
+      "percentage": 8.1,
+      "supporting_sentences": [
+        "Impact of gentrification on creative communities ;Lack of funding for artists and creatives ;Affordable housing availability has one of the greatest impacts on the capacity for people to make a living",
+        "Rising costs of venues and performance spaces ;Impact of gentrification on creative communities ;City's lack of understanding what public arts funding is for - it's not an income program for \"creative",
+        "Consistent communication, consistent funding, comprehensive understanding of issues and commitment to prioritizing and solving without politicizing. "
+      ]
+    },
+    {
+      "rank": 6,
+      "theme": "Equitable Distribution",
+      "count": 240,
+      "percentage": 7.1,
+      "supporting_sentences": [
+        "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Music gets all the attention while theatre is drowning (outside of the major equity houses);",
+        "Lack of funding for artists and creatives ;Need for expanded cultural programming ;Equal access to funding for all artists. Artists should not be excluded because of the length of time they have dedic",
+        "Meet with cultural leaders regularly, document reported needs, and take actions to create equitable programs that support small and medium-sized organizations that serve historically marginalized comm"
+      ]
+    },
+    {
+      "rank": 7,
+      "theme": "Increase Funding Levels",
+      "count": 146,
+      "percentage": 4.3,
+      "supporting_sentences": [
+        "More funding opportuntieis; listening to artists and gathering the orgs input into the strategic planning work",
+        "Additional Funding. Especially for businesses that coordinate, handle logistics, provide support staff; and that also build staging, backdrops and props; and that do marketing, design, and other docum",
+        "Connect them to additional funding sources to help amplify their success. "
+      ]
+    },
+    {
+      "rank": 8,
+      "theme": "Multi-Year Funding",
+      "count": 103,
+      "percentage": 3.0,
+      "supporting_sentences": [
+        "Cost of tickets or admission fees ;Transportation / parking issues ;lack of long-term funding and staff support to put on events;",
+        "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;sustainable income for artists/musician;",
+        "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Lack of sustainable arts opportunities and business models;"
+      ]
+    },
+    {
+      "rank": 9,
+      "theme": "Fair Artist Compensation",
+      "count": 46,
+      "percentage": 1.4,
+      "supporting_sentences": [
+        "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Difficulty of small venues to pay artist living wages;",
+        "- Consult organizational and cultural leaders before making decisions about artist resources, venues, funding, etc by implementing surveys and/or creating long term work groups\n- Inform the public in ",
+        "Money.  For Operation costs and artist pay. \nDon't tie money to specific events or cultural exploitation or for non-profit entities only.  \nTheaters and Venues and Artists need money to pay rent, pay "
+      ]
+    },
+    {
+      "rank": 10,
+      "theme": "Reduce Reporting Burden",
+      "count": 13,
+      "percentage": 0.4,
+      "supporting_sentences": [
+        "Grants and workshops that support organization and individual artists': needs, grantwriting, copyright, forming of, and reporting for nonprofits. How to apply for grants. Marketing, Connections to ven",
+        "Based on the current budgetary policies of CAD grants like Elevate, organizations are actually discouraged to collaborate and share resources (financial capital, host collaborative events, etc.) in or",
+        "Provide more unrestricted funding and guidance for grant reporting"
+      ]
+    }
+  ]
+}

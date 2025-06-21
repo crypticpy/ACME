@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about abrupt program changes",
+    "value of pilot programs",
+    "frustration with vocal critics influencing funding decisions",
+    "need for program stability and continuity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "don't pull the rug out from under us",
+    "we have only had a couple years under the pilots",
+    "The pilots were good, and can be tweaked",
+    "don't throw the baby out with the bathwater",
+    "a few squeaky wheels are feeling entitled about funding they used to receive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "instability due to sudden program changes",
+    "influence of vocal critics on funding decisions"
+  ],
+  "solutions_proposed": [
+    "tweak pilot programs rather than eliminate them",
+    "maintain continuity instead of reverting to previous funding structures"
+  ],
+  "cached_at": "2025-06-20T10:43:19.250048",
+  "cache_key": "ba045ae85dcd7ec6ad4b8464ab2d9f7ad4c54c9301c481ab620a133a89f0804e",
+  "model": "gpt-41"
+}

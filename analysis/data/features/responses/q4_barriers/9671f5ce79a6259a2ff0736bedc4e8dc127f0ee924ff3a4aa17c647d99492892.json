@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of opportunities",
+    "limited access to support or services",
+    "short application windows",
+    "complicated and opaque permitting processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Awareness",
+    "access",
+    "short application windows",
+    "complicated and opaque permitting"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "limited access",
+    "short application windows",
+    "complicated permitting",
+    "opaque permitting"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:31.772780",
+  "cache_key": "9671f5ce79a6259a2ff0736bedc4e8dc127f0ee924ff3a4aa17c647d99492892",
+  "model": "gpt-41"
+}

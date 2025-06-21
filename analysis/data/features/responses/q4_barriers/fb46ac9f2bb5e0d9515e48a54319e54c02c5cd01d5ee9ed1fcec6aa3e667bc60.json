@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for cultural groups",
+    "reduced number of cultural events",
+    "impact of funding on community access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding to the groups that provide this",
+    "The lack of it leads to less events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for groups providing arts, culture, music, and entertainment"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:48.128478",
+  "cache_key": "fb46ac9f2bb5e0d9515e48a54319e54c02c5cd01d5ee9ed1fcec6aa3e667bc60",
+  "model": "gpt-41"
+}

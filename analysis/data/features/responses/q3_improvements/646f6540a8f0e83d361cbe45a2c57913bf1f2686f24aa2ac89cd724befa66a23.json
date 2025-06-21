@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in selection criteria",
+    "clarity and communication in application process",
+    "equitable outreach to underrepresented artists",
+    "support for mid-career, BIPOC, and legacy artists",
+    "simplification of application workflow",
+    "grant-writing assistance and support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Greater transparency in selection criteria",
+    "clearer communication during the application process",
+    "more equitable outreach to ensure mid-career, BIPOC, and legacy artists are supported",
+    "Simplify the application workflow",
+    "offer grant-writing assistance or office hours to reduce barriers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in selection criteria",
+    "unclear communication during application process",
+    "inequitable outreach to mid-career, BIPOC, and legacy artists",
+    "complex application workflow",
+    "lack of grant-writing assistance"
+  ],
+  "solutions_proposed": [
+    "Increase transparency in selection criteria",
+    "Improve communication during the application process",
+    "Conduct more equitable outreach to support mid-career, BIPOC, and legacy artists",
+    "Simplify the application workflow",
+    "Offer grant-writing assistance or office hours"
+  ],
+  "cached_at": "2025-06-21T01:10:21.387593",
+  "cache_key": "646f6540a8f0e83d361cbe45a2c57913bf1f2686f24aa2ac89cd724befa66a23",
+  "model": "gpt-41"
+}

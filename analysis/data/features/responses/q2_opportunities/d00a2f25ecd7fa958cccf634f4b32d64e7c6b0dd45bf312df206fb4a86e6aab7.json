@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased art exhibits",
+    "artist competitions",
+    "community gatherings for artists"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Art exhibits",
+    "competitions",
+    "community gatherings for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More art exhibits",
+    "More competitions for artists",
+    "More community gatherings for artists"
+  ],
+  "cached_at": "2025-06-21T00:52:49.647275",
+  "cache_key": "d00a2f25ecd7fa958cccf634f4b32d64e7c6b0dd45bf312df206fb4a86e6aab7",
+  "model": "gpt-41"
+}

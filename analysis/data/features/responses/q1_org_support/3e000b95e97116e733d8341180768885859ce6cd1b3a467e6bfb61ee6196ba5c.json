@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased support for museums",
+    "specific mention of The Museum of Fine Arts, Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Give Museum such as The Museum of Fine Arts, Austin more support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Museum of Fine Arts, Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Give Museum such as The Museum of Fine Arts, Austin more support"
+  ],
+  "cached_at": "2025-06-20T10:46:04.845087",
+  "cache_key": "3e000b95e97116e733d8341180768885859ce6cd1b3a467e6bfb61ee6196ba5c",
+  "model": "gpt-41"
+}

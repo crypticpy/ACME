@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of listening to established organizations",
+    "needs of Austin artists",
+    "needs of arts and music venues",
+    "collaboration with local cultural organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "listen to folks from HAAM, Sims, HOME, MTF, ATX Musicians, RRCD, Art Alliance Austin",
+    "need of Austin artists and arts and music venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM",
+    "Sims",
+    "HOME",
+    "MTF",
+    "ATX Musicians",
+    "RRCD",
+    "Art Alliance Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "listen to organizations about the need of Austin artists and arts and music venues"
+  ],
+  "cached_at": "2025-06-20T10:42:05.678814",
+  "cache_key": "85d63e851cf09b59582ac7d626d53d98dbaa1e85462af9534d3cb4e47ea482ff",
+  "model": "gpt-41"
+}

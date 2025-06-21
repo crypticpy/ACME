@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of opportunities",
+    "exclusion from cultural spaces",
+    "disappointment with local cultural environment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We need opportunities",
+    "The door keeps getting slammed in our face",
+    "the one place on Earth where it shouldn\u2019t happen"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion from opportunities",
+    "gatekeeping in cultural spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:58.655895",
+  "cache_key": "c97189cff9343c38bf2ea374598210c63b366d4fdfb7abd230713dbbdcf4f173",
+  "model": "gpt-41"
+}

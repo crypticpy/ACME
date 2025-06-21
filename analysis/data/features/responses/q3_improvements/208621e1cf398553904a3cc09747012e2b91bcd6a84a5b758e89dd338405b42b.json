@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of funding opportunities",
+    "communication about funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More exposure to funding opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of exposure to funding opportunities"
+  ],
+  "solutions_proposed": [
+    "increase exposure to funding opportunities"
+  ],
+  "cached_at": "2025-06-21T00:53:45.972230",
+  "cache_key": "208621e1cf398553904a3cc09747012e2b91bcd6a84a5b758e89dd338405b42b",
+  "model": "gpt-41"
+}

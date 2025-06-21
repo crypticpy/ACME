@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "accessibility of funding for all art organizations",
+    "requirement for demonstrated community service",
+    "emphasis on proven organizational and programmatic success",
+    "separation of funding categories for music festivals and for-profit businesses"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding should be open to all art organizations",
+    "proven record of service to the community",
+    "past organizational and programmatic success",
+    "Music festivals and For Profit businesses should have a separate category"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current funding may not be open to all art organizations",
+    "lack of clear separation between nonprofit and for-profit funding categories"
+  ],
+  "solutions_proposed": [
+    "Open funding to all art organizations",
+    "Require a proven record of service to the community and past organizational and programmatic success",
+    "Create a separate funding category for music festivals and for-profit businesses"
+  ],
+  "cached_at": "2025-06-20T10:32:39.609094",
+  "cache_key": "134852fc90ad214aa8b4425f9aa0a387c0375461d77630f9f75aae0f41354e26",
+  "model": "gpt-41"
+}

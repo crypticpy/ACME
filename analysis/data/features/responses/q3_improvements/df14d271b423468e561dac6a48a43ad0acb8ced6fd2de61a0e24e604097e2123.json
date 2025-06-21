@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public health and safety in cultural spaces",
+    "accessibility for vulnerable community members",
+    "impact of airborne illnesses on participation",
+    "infrastructure improvements for event safety"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "making arts and cultural programming accessible for everyone",
+    "acknowledging that covid-19 and other airborne illnesses can have debilitating effects",
+    "incorporating the use of air purifiers in public buildings",
+    "especially at high capacity events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "debilitating effects of covid-19 and other airborne illnesses",
+    "lack of air purification in public buildings at high capacity events"
+  ],
+  "solutions_proposed": [
+    "incorporating the use of air purifiers in public buildings, especially at high capacity events"
+  ],
+  "cached_at": "2025-06-21T01:15:39.910826",
+  "cache_key": "df14d271b423468e561dac6a48a43ad0acb8ced6fd2de61a0e24e604097e2123",
+  "model": "gpt-41"
+}

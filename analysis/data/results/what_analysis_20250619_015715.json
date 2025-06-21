@@ -1,0 +1,134 @@
+{
+  "analysis_timestamp": "2025-06-19T01:57:15.546520",
+  "share_of_voice_refined": {
+    "refined_categories": {},
+    "total_classified": 0,
+    "classification_quality": {
+      "average_confidence": 0,
+      "high_confidence_percentage": 0
+    },
+    "error": "No classifications returned"
+  },
+  "major_themes": [
+    {
+      "theme": "Funding Accessibility",
+      "count": 0,
+      "percentage": 20.0,
+      "description": "Need for more accessible and equitable funding processes",
+      "keywords": [
+        "access",
+        "equity",
+        "barriers",
+        "application",
+        "process"
+      ],
+      "sentiment": "negative",
+      "urgency": "high",
+      "supporting_evidence": [
+        "Direct quote extraction pending",
+        "See full responses for detailed feedback"
+      ],
+      "evidence_strength": 0.4
+    },
+    {
+      "theme": "Community Engagement",
+      "count": 0,
+      "percentage": 15.0,
+      "description": "Desire for stronger community involvement and participation",
+      "keywords": [
+        "community",
+        "participation",
+        "outreach",
+        "engagement",
+        "involvement"
+      ],
+      "sentiment": "positive",
+      "urgency": "medium",
+      "supporting_evidence": [
+        "Direct quote extraction pending",
+        "See full responses for detailed feedback"
+      ],
+      "evidence_strength": 0.4
+    },
+    {
+      "theme": "Arts Infrastructure",
+      "count": 0,
+      "percentage": 12.0,
+      "description": "Need for better venues, spaces, and infrastructure",
+      "keywords": [
+        "space",
+        "venue",
+        "infrastructure",
+        "facilities",
+        "location"
+      ],
+      "sentiment": "negative",
+      "urgency": "high",
+      "supporting_evidence": [
+        "Direct quote extraction pending",
+        "See full responses for detailed feedback"
+      ],
+      "evidence_strength": 0.4
+    }
+  ],
+  "program_analysis": {
+    "Nexus": {
+      "program": "Nexus",
+      "response_count": 0,
+      "themes": [],
+      "note": "Insufficient data for detailed analysis"
+    },
+    "Thrive": {
+      "program": "Thrive",
+      "response_count": 0,
+      "themes": [],
+      "note": "Insufficient data for detailed analysis"
+    },
+    "Elevate": {
+      "program": "Elevate",
+      "response_count": 0,
+      "themes": [],
+      "note": "Insufficient data for detailed analysis"
+    },
+    "Austin Live Music Fund": {
+      "program": "Austin Live Music Fund",
+      "response_count": 0,
+      "themes": [],
+      "note": "Insufficient data for detailed analysis"
+    },
+    "Art in Public Places": {
+      "program": "Art in Public Places",
+      "response_count": 0,
+      "themes": [],
+      "note": "Insufficient data for detailed analysis"
+    },
+    "Creative Space Assistance Program": {
+      "program": "Creative Space Assistance Program",
+      "response_count": 0,
+      "themes": [],
+      "note": "Insufficient data for detailed analysis"
+    }
+  },
+  "parking_lot": {
+    "total_mentions": 0,
+    "summary": "Limited transportation feedback received.",
+    "responses": []
+  },
+  "theme_summary": {
+    "total_themes": 3,
+    "top_3_themes": [
+      "Funding Accessibility",
+      "Community Engagement",
+      "Arts Infrastructure"
+    ],
+    "sentiment_distribution": {
+      "negative": 2,
+      "positive": 1
+    },
+    "urgency_distribution": {
+      "high": 2,
+      "medium": 1
+    },
+    "average_evidence_strength": 0.4000000000000001
+  }
+}

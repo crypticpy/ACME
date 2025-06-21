@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for small venues",
+    "promotion of upcoming artists",
+    "use of park spaces for live music",
+    "restaurant incentives for live music",
+    "cost barriers for venues/restaurants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Small venues with upcoming artists",
+    "park spaces",
+    "restaurant incentives to have live music",
+    "expensive for them too"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive for them too"
+  ],
+  "solutions_proposed": [
+    "restaurant incentives to have live music",
+    "use of park spaces for live music",
+    "support for small venues with upcoming artists"
+  ],
+  "cached_at": "2025-06-21T00:49:25.240608",
+  "cache_key": "67a6dda544dd88acf30fa1ace0d0fd9b8a0c57bb04473e99a579bc032fea0a6a",
+  "model": "gpt-41"
+}

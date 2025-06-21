@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordability of events",
+    "desire for high-quality programming",
+    "limited availability of desired events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "low cost",
+    "top notch events",
+    "aren't super available generally"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of events",
+    "lack of availability of high-quality events"
+  ],
+  "solutions_proposed": [
+    "offer more low cost, high-quality events"
+  ],
+  "cached_at": "2025-06-21T00:43:13.868785",
+  "cache_key": "5fac614a2c962cb013f5b8dbf39eb8041b1cc86114b5e97d9211f52e018c9a7f",
+  "model": "gpt-41"
+}

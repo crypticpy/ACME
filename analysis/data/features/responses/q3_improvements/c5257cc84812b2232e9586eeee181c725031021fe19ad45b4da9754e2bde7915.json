@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to funding limits",
+    "critique of city manager's philosophy",
+    "continuous support for organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "No limit to the consecutive years organizations can be supported",
+    "I against the city manager\u2019s philosophy that groups need a break after being supported in consecutive cycles"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limit on consecutive years of support",
+    "requirement for groups to take a break after consecutive funding cycles"
+  ],
+  "solutions_proposed": [
+    "Remove the limit on consecutive years organizations can be supported"
+  ],
+  "cached_at": "2025-06-21T01:08:01.284061",
+  "cache_key": "c5257cc84812b2232e9586eeee181c725031021fe19ad45b4da9754e2bde7915",
+  "model": "gpt-41"
+}

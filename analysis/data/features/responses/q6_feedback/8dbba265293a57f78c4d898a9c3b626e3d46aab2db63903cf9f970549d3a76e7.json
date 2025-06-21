@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "diminished purpose of public arts funding",
+    "non-inclusivity of funded events",
+    "funding of non-arts and commercial activities",
+    "need to refocus on genuine arts experiences",
+    "concern for artist and arts professional job opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "dismaying to see the purpose and definition of 'public arts' funding diminished",
+    "Austin has lost its way by funding non-inclusive events",
+    "nonprofits that are not concerned with actual arts",
+    "proliferation of support for commercial activities",
+    "subsidizing things like markets and food trailer festivals",
+    "a refocus on genuine arts experience for the public is necessary",
+    "create an attainable jobs base for artists and arts professionals"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding non-inclusive events",
+    "support for commercial activities over arts",
+    "subsidizing widely available non-arts events"
+  ],
+  "solutions_proposed": [
+    "refocus on genuine arts experience for the public",
+    "create an attainable jobs base for artists and arts professionals"
+  ],
+  "cached_at": "2025-06-21T02:16:18.682599",
+  "cache_key": "8dbba265293a57f78c4d898a9c3b626e3d46aab2db63903cf9f970549d3a76e7",
+  "model": "gpt-41"
+}

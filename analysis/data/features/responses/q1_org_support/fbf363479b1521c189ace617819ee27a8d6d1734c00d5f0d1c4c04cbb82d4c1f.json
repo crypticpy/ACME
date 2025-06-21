@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "coordination among arts organizations",
+    "collaboration between venues",
+    "mutual support within the arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "coordinated effort",
+    "arts organizations and venues",
+    "compliment each other"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of coordination among organizations and venues"
+  ],
+  "solutions_proposed": [
+    "coordinated effort so that arts organizations and venues can compliment each other"
+  ],
+  "cached_at": "2025-06-20T10:37:39.669229",
+  "cache_key": "fbf363479b1521c189ace617819ee27a8d6d1734c00d5f0d1c4c04cbb82d4c1f",
+  "model": "gpt-41"
+}

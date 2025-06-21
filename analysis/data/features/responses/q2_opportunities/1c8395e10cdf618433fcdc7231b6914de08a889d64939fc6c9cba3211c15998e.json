@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sober and family-oriented events",
+    "use of non-park outdoor spaces",
+    "collaboration between organizations and the city",
+    "incentivizing private venues to host cultural events",
+    "replicating successful event models citywide"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "sober, family oriented, outdoor places, but not in parks",
+    "ACME should work with the city to offer outdoor events in unused state and city outdoor spaces",
+    "give private shopping centers incentives to host smaller events",
+    "Central market music on the weekends",
+    "replicated all around the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Central market music"
+  ],
+  "barriers_identified": [
+    "limited use of non-park outdoor spaces for events"
+  ],
+  "solutions_proposed": [
+    "collaborate with the city to offer outdoor events in unused state and city outdoor spaces",
+    "incentivize private shopping centers to host smaller events",
+    "replicate successful event models like Central market music citywide"
+  ],
+  "cached_at": "2025-06-21T00:34:09.776358",
+  "cache_key": "1c8395e10cdf618433fcdc7231b6914de08a889d64939fc6c9cba3211c15998e",
+  "model": "gpt-41"
+}

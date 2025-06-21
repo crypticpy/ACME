@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Critique of capitalist valuation of the arts",
+    "Non-economic value of arts and culture",
+    "Need for public awareness and appreciation of the arts",
+    "Geographic equity in arts access",
+    "Importance of accessible and widely promoted arts events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "activities, people and resources only hold value if they are financially lucrative",
+    "the value of the arts can be financial, but it\u2019s also much more than that",
+    "helping shape our community\u2019s ability to see the importance of the arts outside of economic terms",
+    "more public art installations, widely promoted and accessible events",
+    "not just the city centers, but along major highways, different neighborhoods, underserved areas"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Overemphasis on financial value in arts appreciation",
+    "Limited geographic distribution of arts (concentration in city centers)"
+  ],
+  "solutions_proposed": [
+    "Facilitate an emphasis on the arts beyond economic terms",
+    "Increase quantity of public art installations",
+    "Promote and make arts events more accessible",
+    "Invite the general population into creative practice",
+    "Expand arts presence to major highways, different neighborhoods, and underserved areas"
+  ],
+  "cached_at": "2025-06-20T10:21:03.428216",
+  "cache_key": "3354a4033f956acef7cf9d066a4bddd2099af071302548bdf5073617ee2883c1",
+  "model": "gpt-41"
+}

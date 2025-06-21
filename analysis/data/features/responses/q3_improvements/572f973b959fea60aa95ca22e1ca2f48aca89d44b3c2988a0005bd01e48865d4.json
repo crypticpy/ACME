@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach",
+    "communication about deadlines",
+    "awareness of funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Advertisement about programs",
+    "application deadlines"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of advertisement about programs",
+    "unawareness of application deadlines"
+  ],
+  "solutions_proposed": [
+    "Increase advertisement about programs and application deadlines"
+  ],
+  "cached_at": "2025-06-21T01:03:18.394780",
+  "cache_key": "572f973b959fea60aa95ca22e1ca2f48aca89d44b3c2988a0005bd01e48865d4",
+  "model": "gpt-41"
+}

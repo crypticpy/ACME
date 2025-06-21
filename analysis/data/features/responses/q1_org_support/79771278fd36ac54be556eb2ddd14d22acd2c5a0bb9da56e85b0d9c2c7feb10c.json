@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "fund programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "fund programs"
+  ],
+  "cached_at": "2025-06-20T10:26:55.575786",
+  "cache_key": "79771278fd36ac54be556eb2ddd14d22acd2c5a0bb9da56e85b0d9c2c7feb10c",
+  "model": "gpt-41"
+}

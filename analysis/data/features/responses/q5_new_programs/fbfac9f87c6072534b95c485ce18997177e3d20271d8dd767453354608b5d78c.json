@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for professional development",
+    "support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Professional development for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Professional development for artists"
+  ],
+  "cached_at": "2025-06-21T01:51:58.060598",
+  "cache_key": "fbfac9f87c6072534b95c485ce18997177e3d20271d8dd767453354608b5d78c",
+  "model": "gpt-41"
+}

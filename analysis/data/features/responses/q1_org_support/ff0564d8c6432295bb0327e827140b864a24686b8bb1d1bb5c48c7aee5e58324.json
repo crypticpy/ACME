@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "neglect of established nonprofits",
+    "funding challenges for organizations serving neglected areas",
+    "post-pandemic financial struggles",
+    "lack of appeals process for funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "nonprofit has shown its sustainability and endurance",
+    "serves a much neglected area of Austin",
+    "should be granted funding if they can demonstrate the success of their program",
+    "established nonprofits were neglected and ignored",
+    "could no longer continue financially",
+    "greater struggle post pandemic",
+    "there should be a legitimate appeals process"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "neglect and lack of funding for established nonprofits",
+    "absence of an appeals process",
+    "increased financial struggle post-pandemic"
+  ],
+  "solutions_proposed": [
+    "establish a legitimate appeals process for funding decisions"
+  ],
+  "cached_at": "2025-06-20T10:32:14.019600",
+  "cache_key": "ff0564d8c6432295bb0327e827140b864a24686b8bb1d1bb5c48c7aee5e58324",
+  "model": "gpt-41"
+}

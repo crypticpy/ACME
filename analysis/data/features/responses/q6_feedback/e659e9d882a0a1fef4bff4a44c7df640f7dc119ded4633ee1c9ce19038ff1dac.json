@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "city-university collaboration",
+    "student engagement in the arts",
+    "arts scene development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "develop a better relationship between the city of Austin and the universities",
+    "get to the students",
+    "foster their development",
+    "get a better rounded arts scene"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of strong relationship between city and universities",
+    "insufficient engagement with students"
+  ],
+  "solutions_proposed": [
+    "develop a better relationship between the city and universities",
+    "foster student development to improve the arts scene"
+  ],
+  "cached_at": "2025-06-21T02:17:47.157867",
+  "cache_key": "e659e9d882a0a1fef4bff4a44c7df640f7dc119ded4633ee1c9ce19038ff1dac",
+  "model": "gpt-41"
+}

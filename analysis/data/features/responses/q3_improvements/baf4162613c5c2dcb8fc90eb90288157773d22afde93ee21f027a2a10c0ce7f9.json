@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "community outreach",
+    "support for venues",
+    "need for promotional materials"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I talk to venue owners and encourage them to apply",
+    "If I had hand-outs I would distribute them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of hand-outs or promotional materials"
+  ],
+  "solutions_proposed": [
+    "provide hand-outs for distribution"
+  ],
+  "cached_at": "2025-06-21T01:17:04.487161",
+  "cache_key": "baf4162613c5c2dcb8fc90eb90288157773d22afde93ee21f027a2a10c0ce7f9",
+  "model": "gpt-41"
+}

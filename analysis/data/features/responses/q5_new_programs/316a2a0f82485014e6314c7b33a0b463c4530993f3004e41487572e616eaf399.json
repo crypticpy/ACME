@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Caribbean diaspora representation",
+    "Cultural diversity in programming",
+    "Underrepresentation of specific cultures",
+    "Desire for food, film, and fine arts events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Caribbean diaspora events",
+    "food, film, and fine arts focused"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of Caribbean diaspora"
+  ],
+  "solutions_proposed": [
+    "Offer Caribbean diaspora events",
+    "Include food, film, and fine arts focused on Caribbean culture"
+  ],
+  "cached_at": "2025-06-21T01:54:58.397708",
+  "cache_key": "316a2a0f82485014e6314c7b33a0b463c4530993f3004e41487572e616eaf399",
+  "model": "gpt-41"
+}

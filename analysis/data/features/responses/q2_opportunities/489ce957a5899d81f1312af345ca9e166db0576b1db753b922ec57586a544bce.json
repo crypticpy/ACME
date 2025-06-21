@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for more diverse cultural arts programs",
+    "importance of accessibility",
+    "affordability for different communities",
+    "availability of programs across communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more diverse cultural arts program",
+    "accessible, available and affordable",
+    "different communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility",
+    "lack of availability",
+    "lack of affordability"
+  ],
+  "solutions_proposed": [
+    "offer more diverse cultural arts programs that are accessible, available, and affordable to different communities"
+  ],
+  "cached_at": "2025-06-21T00:27:54.274306",
+  "cache_key": "489ce957a5899d81f1312af345ca9e166db0576b1db753b922ec57586a544bce",
+  "model": "gpt-41"
+}

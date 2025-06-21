@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "impact of funding on support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More funding would help immensely"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "provide more funding"
+  ],
+  "cached_at": "2025-06-20T10:40:46.145386",
+  "cache_key": "9a04e62dca3b08cfa373d1407979c7d07a9e749257b3e860abc8227dab7e7d3d",
+  "model": "gpt-41"
+}

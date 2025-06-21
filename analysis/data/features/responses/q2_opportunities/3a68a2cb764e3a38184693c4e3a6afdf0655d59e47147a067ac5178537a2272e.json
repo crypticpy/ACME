@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of city support for specific cultural programming",
+    "desire for more cultural festivals",
+    "interest in theatre performances",
+    "need for cultural events for both children and adults",
+    "support for language schools",
+    "recognition of Russian Cultural Center's activities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "received zero support from City of Austin",
+    "cultural festivals and treatre performances",
+    "kids and adults cultural event and language school",
+    "exactly what is organized by Russian Cultural Center for last 5 years"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Russian Cultural Center"
+  ],
+  "barriers_identified": [
+    "lack of city support for Russian Cultural Center's programming"
+  ],
+  "solutions_proposed": [
+    "provide city support for cultural festivals, theatre performances, cultural events, and language schools as organized by Russian Cultural Center"
+  ],
+  "cached_at": "2025-06-21T00:32:49.451312",
+  "cache_key": "3a68a2cb764e3a38184693c4e3a6afdf0655d59e47147a067ac5178537a2272e",
+  "model": "gpt-41"
+}

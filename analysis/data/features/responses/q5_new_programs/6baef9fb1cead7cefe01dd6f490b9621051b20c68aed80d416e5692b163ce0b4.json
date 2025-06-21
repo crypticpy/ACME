@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking among grantees",
+    "use of diverse venues and museums",
+    "frequency of community events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grantee networking events",
+    "various venues or museums around town",
+    "once or twice a year would be nice"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Grantee networking events at various venues or museums around town once or twice a year"
+  ],
+  "cached_at": "2025-06-21T02:02:28.814858",
+  "cache_key": "6baef9fb1cead7cefe01dd6f490b9621051b20c68aed80d416e5692b163ce0b4",
+  "model": "gpt-41"
+}

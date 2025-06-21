@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for more ACME-organized events",
+    "distinction between ACME-led and ACME-sponsored activities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More ACME led events",
+    "not just sponsored I guess"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of ACME-led events"
+  ],
+  "solutions_proposed": [
+    "offer more ACME-led events rather than only sponsoring events"
+  ],
+  "cached_at": "2025-06-21T01:51:09.330327",
+  "cache_key": "974231bf6840912a14c301c8c8ab5f42e27c9f024bd92f4c7fec89b61b3c7c18",
+  "model": "gpt-41"
+}

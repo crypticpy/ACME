@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "broadening accessibility",
+    "concern about overemphasis on diversity",
+    "inclusivity beyond diversity focus"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "broaden accessibility",
+    "not only diversity focused"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived narrow focus on diversity"
+  ],
+  "solutions_proposed": [
+    "broaden accessibility so that it's not only diversity focused"
+  ],
+  "cached_at": "2025-06-21T00:59:21.429129",
+  "cache_key": "6dcf1dad3c56b0036acfcd0e91bd277b611c5c6442768f65a84b61879dcee0aa",
+  "model": "gpt-41"
+}

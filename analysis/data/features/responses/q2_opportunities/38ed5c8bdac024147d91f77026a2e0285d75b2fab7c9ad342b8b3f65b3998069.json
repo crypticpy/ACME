@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family-friendly opportunities",
+    "interactive experiences",
+    "educational programming",
+    "diverse cultural representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "family friendly",
+    "interactive",
+    "educational",
+    "diverse representation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more family friendly opportunities",
+    "more interactive opportunities",
+    "more educational opportunities",
+    "greater diverse representation"
+  ],
+  "cached_at": "2025-06-21T00:46:36.514927",
+  "cache_key": "38ed5c8bdac024147d91f77026a2e0285d75b2fab7c9ad342b8b3f65b3998069",
+  "model": "gpt-41"
+}

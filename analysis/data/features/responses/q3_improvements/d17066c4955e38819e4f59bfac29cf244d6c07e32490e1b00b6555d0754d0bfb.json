@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high competitiveness of funding programs",
+    "challenges for smaller organizations",
+    "limited funding availability",
+    "importance of collaboration and low-cost events",
+    "organizational mission and capacity-building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "programs are great",
+    "so competitive",
+    "so many arts groups here",
+    "limited funds",
+    "smaller organizations have to punch above their weight",
+    "building collaboration opportunities at low cost or free events",
+    "be a real bedrock of support for cultural arts in the Austin area"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high competitiveness for funding",
+    "limited funds",
+    "difficulty for smaller organizations to apply"
+  ],
+  "solutions_proposed": [
+    "building collaboration opportunities at low cost or free events"
+  ],
+  "cached_at": "2025-06-21T00:58:57.597391",
+  "cache_key": "d17066c4955e38819e4f59bfac29cf244d6c07e32490e1b00b6555d0754d0bfb",
+  "model": "gpt-41"
+}

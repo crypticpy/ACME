@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking opportunities for creative leaders",
+    "financial support for small creative businesses",
+    "access to free educational resources for creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Creative leaders meet-up & networking",
+    "Grants for small creative business owners",
+    "Free educational programs for creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of networking opportunities",
+    "limited grant access for small creative businesses",
+    "insufficient free educational programs for creatives"
+  ],
+  "solutions_proposed": [
+    "Offer creative leaders meet-up & networking events",
+    "Provide grants for small creative business owners",
+    "Develop free educational programs for creatives"
+  ],
+  "cached_at": "2025-06-21T01:52:43.264432",
+  "cache_key": "542a106bce44acca26ce16681c315d2d6f923bb6fbdb8fb5a9f53d2bdc7f3f74",
+  "model": "gpt-41"
+}

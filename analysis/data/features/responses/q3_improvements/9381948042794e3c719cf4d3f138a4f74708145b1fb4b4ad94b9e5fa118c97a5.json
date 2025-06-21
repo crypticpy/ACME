@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to funding caps",
+    "concern about additional requirements",
+    "access to funding for organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "No smaller caps on funding",
+    "no additional requirements to meet for organizations to receive funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "smaller caps on funding",
+    "additional requirements for organizations"
+  ],
+  "solutions_proposed": [
+    "Remove or avoid smaller caps on funding",
+    "Eliminate additional requirements for organizations to receive funding"
+  ],
+  "cached_at": "2025-06-21T01:14:14.822574",
+  "cache_key": "9381948042794e3c719cf4d3f138a4f74708145b1fb4b4ad94b9e5fa118c97a5",
+  "model": "gpt-41"
+}

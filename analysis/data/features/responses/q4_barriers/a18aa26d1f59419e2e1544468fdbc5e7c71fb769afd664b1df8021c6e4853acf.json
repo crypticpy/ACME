@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to cultural participation",
+    "high cost of concert attendance",
+    "accessibility of touring acts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "main barrier is probably the cost",
+    "cost of attending many concerts",
+    "particularly touring groups and acts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of attending concerts",
+    "high prices for touring groups and acts"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:12.734432",
+  "cache_key": "a18aa26d1f59419e2e1544468fdbc5e7c71fb769afd664b1df8021c6e4853acf",
+  "model": "gpt-41"
+}

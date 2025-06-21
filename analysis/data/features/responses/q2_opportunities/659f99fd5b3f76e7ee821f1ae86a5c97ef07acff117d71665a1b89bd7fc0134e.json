@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability of art opportunities",
+    "access to free and low-cost workshops",
+    "desire for more inclusive artmaking events",
+    "reference to successful grant-supported programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Free and low-cost artmaking",
+    "Something like ATX Art Nights but more affordable",
+    "The Mosaic Workshop hosts monthly free workshops",
+    "with the support from Elevate grant",
+    "More opportunities like that"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ATX Art Nights",
+    "The Mosaic Workshop",
+    "Elevate grant"
+  ],
+  "barriers_identified": [
+    "cost of participation in art events"
+  ],
+  "solutions_proposed": [
+    "Offer more free and low-cost artmaking opportunities",
+    "Create events similar to ATX Art Nights but at a lower price point",
+    "Expand grant-supported free workshops like those by The Mosaic Workshop"
+  ],
+  "cached_at": "2025-06-21T00:50:00.151517",
+  "cache_key": "659f99fd5b3f76e7ee821f1ae86a5c97ef07acff117d71665a1b89bd7fc0134e",
+  "model": "gpt-41"
+}

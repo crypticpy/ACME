@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Need for direct outreach to individual residents",
+    "Challenges faced by young emerging artists",
+    "Lack of awareness of city resources and opportunities",
+    "Importance of intergenerational communication",
+    "Support structures for creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "helpful to find an approach directly reaching to individual residents",
+    "Young emerging artists are busy working (often non-art related or non-creative jobs) to support their lives while practicing their art",
+    "many are not aware of the City's organization-wide resources and opportunities",
+    "support structure (funding, resources, and opportunities) would be communicated well across all generations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Young artists working non-art related jobs to support themselves",
+    "Lack of awareness of city resources and opportunities"
+  ],
+  "solutions_proposed": [
+    "Find an approach directly reaching to individual residents",
+    "Communicate support structures (funding, resources, and opportunities) well across all generations"
+  ],
+  "cached_at": "2025-06-20T01:22:52.868173",
+  "cache_key": "1c222fe325be900e8cbbee17ac667613d10f6986c305d7c2ea2bcd6a9c58979b",
+  "model": "gpt-41"
+}

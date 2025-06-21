@@ -1,0 +1,21 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for existing grant support"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We so appreciate the grants available!"
+  ],
+  "intent": "expression_of_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:28:11.755229",
+  "cache_key": "1f448971c40af1386e42e3c03ddd8cd2156bcc1367a2fcf89c99e2aa909901ce",
+  "model": "gpt-41"
+}

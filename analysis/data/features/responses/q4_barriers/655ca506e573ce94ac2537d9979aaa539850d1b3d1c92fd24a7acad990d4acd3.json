@@ -1,0 +1,23 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost as a barrier to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Affordability"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Affordability"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:53.078100",
+  "cache_key": "655ca506e573ce94ac2537d9979aaa539850d1b3d1c92fd24a7acad990d4acd3",
+  "model": "gpt-41"
+}

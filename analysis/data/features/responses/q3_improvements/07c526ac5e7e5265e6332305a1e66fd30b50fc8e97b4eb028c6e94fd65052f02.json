@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased access to cultural funding programs",
+    "continuous or year-round availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More access to them",
+    "Always on approach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to programs"
+  ],
+  "solutions_proposed": [
+    "increase access to programs",
+    "implement an always-on approach"
+  ],
+  "cached_at": "2025-06-21T01:13:16.955525",
+  "cache_key": "07c526ac5e7e5265e6332305a1e66fd30b50fc8e97b4eb028c6e94fd65052f02",
+  "model": "gpt-41"
+}

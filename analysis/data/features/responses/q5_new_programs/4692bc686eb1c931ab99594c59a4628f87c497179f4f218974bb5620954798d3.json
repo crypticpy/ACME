@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking access for musicians",
+    "support for working artists downtown",
+    "logistical barriers to participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Parking passes for musicians",
+    "park downtown free of charge"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free parking for musicians downtown"
+  ],
+  "solutions_proposed": [
+    "Provide parking passes for musicians to park downtown free of charge"
+  ],
+  "cached_at": "2025-06-21T02:08:35.383474",
+  "cache_key": "4692bc686eb1c931ab99594c59a4628f87c497179f4f218974bb5620954798d3",
+  "model": "gpt-41"
+}

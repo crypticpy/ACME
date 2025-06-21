@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of rehearsal spaces",
+    "impact of corporate development on music infrastructure",
+    "need for support for local musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Rehearsal spaces for austin musicians",
+    "tesla literally crushed the Music Lab",
+    "replaced it with a showroom"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Music Lab"
+  ],
+  "barriers_identified": [
+    "loss of rehearsal spaces due to commercial development"
+  ],
+  "solutions_proposed": [
+    "offer rehearsal spaces for Austin musicians"
+  ],
+  "cached_at": "2025-06-21T02:06:32.022961",
+  "cache_key": "0f27f629d89c8d817a4e6b6f03764713f2fef28658da33044a085235bac913e3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued organizational support",
+    "community outreach",
+    "expanding reach to diverse communities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue to support other organizations",
+    "continue to reach out to as many communities as possible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue supporting organizations",
+    "increase outreach to more communities"
+  ],
+  "cached_at": "2025-06-20T10:27:47.843693",
+  "cache_key": "16ddaa4c9bfcc00b95b4020afc75cb925d36ce0774044d919db0c4d219b4b3f1",
+  "model": "gpt-41"
+}

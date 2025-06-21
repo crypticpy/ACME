@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of arts opportunities",
+    "removal of barriers to entry",
+    "universal access to arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "inexpensive ones",
+    "lowest possible barrier of entry",
+    "for ALL arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost",
+    "high barriers to entry"
+  ],
+  "solutions_proposed": [
+    "make arts opportunities inexpensive",
+    "lower barriers of entry for all arts"
+  ],
+  "cached_at": "2025-06-21T00:39:38.853227",
+  "cache_key": "54b77f2fa34f82940e23fdcddc602ea790035e22b8df792e9291c34fca3359de",
+  "model": "gpt-41"
+}

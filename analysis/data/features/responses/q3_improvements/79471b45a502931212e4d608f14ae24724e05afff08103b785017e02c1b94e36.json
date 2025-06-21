@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dissatisfaction with public art selection",
+    "lack of artist involvement in decision-making",
+    "preference for small-scale, local outdoor art/events",
+    "critique of large, commercialized events",
+    "concern for preservation of park spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I'm extremely underimpressed by your choices of art in public places",
+    "We need to be taking risks, making moves",
+    "We are nonexistent",
+    "include artists!",
+    "those blue flappers on Lamar come to mind and that dumb troll",
+    "Austin is an outdoor city",
+    "We need outdoor art, outdoor events, but SMALL",
+    "they don't actually ruin the park they're in",
+    "Not F1. Not ACL. Not stuff that's so big that I wouldn't go to it even if I didn't hate what it does to our city"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "F1",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "lack of artist representation in funding decisions",
+    "public art that does not resonate with the community",
+    "large events that negatively impact city spaces and deter attendance"
+  ],
+  "solutions_proposed": [
+    "include artists on decision-making boards",
+    "fund small-scale, neighborhood-based outdoor art and events",
+    "avoid large, disruptive events that harm public spaces"
+  ],
+  "cached_at": "2025-06-21T01:11:54.531771",
+  "cache_key": "79471b45a502931212e4d608f14ae24724e05afff08103b785017e02c1b94e36",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved communication",
+    "access to information about annual events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more direct/explicit info",
+    "annual events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear information about annual events"
+  ],
+  "solutions_proposed": [
+    "provide more direct/explicit information on annual events"
+  ],
+  "cached_at": "2025-06-21T00:52:46.069293",
+  "cache_key": "bc50b874a5f3baed9d0b41ccbec702a9df9065ecfb6940bdd2f382fce1f01560",
+  "model": "gpt-41"
+}

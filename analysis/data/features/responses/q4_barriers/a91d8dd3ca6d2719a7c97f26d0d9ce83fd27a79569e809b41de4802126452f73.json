@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "event scheduling conflicts with non-traditional work hours",
+    "insufficient advance marketing of events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "finding more events that align outside of the traditional 9-5 scheduling",
+    "a lot of events aren\u2019t marketing well enough in advance to attend"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "events scheduled during traditional 9-5 hours",
+    "lack of advance marketing for events"
+  ],
+  "solutions_proposed": [
+    "offer more events outside traditional 9-5 hours",
+    "improve advance marketing of events"
+  ],
+  "cached_at": "2025-06-21T01:44:55.420910",
+  "cache_key": "a91d8dd3ca6d2719a7c97f26d0d9ce83fd27a79569e809b41de4802126452f73",
+  "model": "gpt-41"
+}

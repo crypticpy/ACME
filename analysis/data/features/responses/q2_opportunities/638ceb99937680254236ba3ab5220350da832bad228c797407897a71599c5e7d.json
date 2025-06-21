@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more theatre opportunities",
+    "interest in performing arts",
+    "need for Queer-centered cultural programming",
+    "need for Black-centered cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Theatre",
+    "performing arts",
+    "Queer and Black centered programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more theatre opportunities",
+    "more performing arts opportunities",
+    "increase Queer and Black centered programs"
+  ],
+  "cached_at": "2025-06-21T00:32:23.282064",
+  "cache_key": "638ceb99937680254236ba3ab5220350da832bad228c797407897a71599c5e7d",
+  "model": "gpt-41"
+}

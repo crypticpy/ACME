@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "long-term support for organizations and leaders",
+    "development of funding avenues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Ensuring long-term support",
+    "helping to develop avenues for funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Ensuring long-term support",
+    "helping to develop avenues for funding"
+  ],
+  "cached_at": "2025-06-20T01:15:53.587091",
+  "cache_key": "2d11f666ceb3cf23349d62ba20c37ed98f2f054553e42c2d8451e906be6d5e21",
+  "model": "gpt-41"
+}

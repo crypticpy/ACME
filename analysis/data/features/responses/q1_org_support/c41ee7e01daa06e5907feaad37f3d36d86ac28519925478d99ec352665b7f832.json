@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "listening to artists' needs",
+    "collaborative solution design",
+    "community-focused approaches"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Hold listening sessions",
+    "understand the needs, challenges and opportunities artists face",
+    "Collaborating with artist to design community-focused solutions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "needs, challenges and opportunities artists face"
+  ],
+  "solutions_proposed": [
+    "Hold listening sessions to understand artists' needs",
+    "Collaborate with artists to design community-focused solutions"
+  ],
+  "cached_at": "2025-06-20T10:44:58.205228",
+  "cache_key": "c41ee7e01daa06e5907feaad37f3d36d86ac28519925478d99ec352665b7f832",
+  "model": "gpt-41"
+}

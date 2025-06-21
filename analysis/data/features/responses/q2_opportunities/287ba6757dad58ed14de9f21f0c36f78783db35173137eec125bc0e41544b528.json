@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "loss of cultural offerings",
+    "desire for restoration of discontinued events or programs",
+    "nostalgia for past cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "what has been lost",
+    "discontinued"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss or discontinuation of cultural opportunities"
+  ],
+  "solutions_proposed": [
+    "bring back lost and discontinued cultural offerings"
+  ],
+  "cached_at": "2025-06-21T00:38:53.623431",
+  "cache_key": "287ba6757dad58ed14de9f21f0c36f78783db35173137eec125bc0e41544b528",
+  "model": "gpt-41"
+}

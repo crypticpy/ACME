@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for recurring funding",
+    "support for smaller-scale projects",
+    "grant accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Reoccurring smaller grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of recurring small grant opportunities"
+  ],
+  "solutions_proposed": [
+    "offer reoccurring smaller grants"
+  ],
+  "cached_at": "2025-06-21T02:07:42.343307",
+  "cache_key": "7b87aeecf3b7b94c11a8be8228d47f92f2d9abc4ee958adba07562cd9d2a4ae6",
+  "model": "gpt-41"
+}

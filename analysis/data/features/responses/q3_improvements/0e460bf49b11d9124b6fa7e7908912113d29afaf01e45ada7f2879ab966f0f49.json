@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of cultural funding programs",
+    "need for improved outreach",
+    "geographic inclusivity (Lakeway, Spicewood, North Austin, South Austin)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Hadnt heard about them",
+    "Send info to surrounding neighborhoods like Lakeway, Spicewood, NORTH Austin, South Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about programs in certain neighborhoods"
+  ],
+  "solutions_proposed": [
+    "Send info to surrounding neighborhoods like Lakeway, Spicewood, NORTH Austin, South Austin"
+  ],
+  "cached_at": "2025-06-21T01:16:58.149188",
+  "cache_key": "0e460bf49b11d9124b6fa7e7908912113d29afaf01e45ada7f2879ab966f0f49",
+  "model": "gpt-41"
+}

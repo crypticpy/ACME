@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased awareness",
+    "visibility of organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More awareness is needed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness"
+  ],
+  "solutions_proposed": [
+    "increase awareness"
+  ],
+  "cached_at": "2025-06-20T10:43:50.506660",
+  "cache_key": "5f28d451d0cd9e08316b5a5008b2055160483a21c87414b2e2331ba17fe16595",
+  "model": "gpt-41"
+}

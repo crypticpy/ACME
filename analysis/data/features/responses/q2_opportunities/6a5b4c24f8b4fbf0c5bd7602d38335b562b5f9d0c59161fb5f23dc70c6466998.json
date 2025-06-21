@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "movie premieres as cultural events",
+    "family-oriented celebrations",
+    "dance and performance arts",
+    "hair and beauty culture",
+    "holiday-themed performances",
+    "promotion of Black culture at major festivals"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Movie premiere",
+    "Family reunion celebrating families",
+    "Dance performances",
+    "Hair shows",
+    "Holiday performances",
+    "SXSW promoting black culture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More movie premieres",
+    "More family reunion events",
+    "More dance performances",
+    "More hair shows",
+    "More holiday performances",
+    "SXSW promoting black culture"
+  ],
+  "cached_at": "2025-06-21T00:32:52.468404",
+  "cache_key": "6a5b4c24f8b4fbf0c5bd7602d38335b562b5f9d0c59161fb5f23dc70c6466998",
+  "model": "gpt-41"
+}

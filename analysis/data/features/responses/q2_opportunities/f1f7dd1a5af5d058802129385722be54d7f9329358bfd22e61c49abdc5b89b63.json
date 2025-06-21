@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic equity in cultural programming",
+    "focus on South Austin",
+    "desire for increased local events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "South Austin events",
+    "attention"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of events and attention in South Austin"
+  ],
+  "solutions_proposed": [
+    "increase events and attention in South Austin"
+  ],
+  "cached_at": "2025-06-21T00:45:15.222550",
+  "cache_key": "f1f7dd1a5af5d058802129385722be54d7f9329358bfd22e61c49abdc5b89b63",
+  "model": "gpt-41"
+}

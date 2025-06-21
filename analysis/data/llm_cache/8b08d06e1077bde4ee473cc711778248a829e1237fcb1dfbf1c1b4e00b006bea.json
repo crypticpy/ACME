@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"sentiment\": \"negative\",\n  \"sentiment_confidence\": 0.95,\n  \"themes\": [\"transparency\", \"communication\", \"program improvement\"],\n  \"urgency\": \"medium\",\n  \"stakeholder_type\": \"unknown\",\n  \"stakeholder_confidence\": 0.5,\n  \"key_phrases\": [\"cultural funding programs\", \"need more transparency\", \"better communication\"],\n  \"intent\": \"problem_identification\",\n  \"contains_actionable_feedback\": true,\n  \"mentioned_programs\": [],\n  \"barriers_identified\": [\"lack of transparency\", \"poor communication\"],\n  \"solutions_proposed\": [\"increase transparency\", \"improve communication\"]\n}",
+  "model": "gpt-41",
+  "tokens_used": {
+    "input_tokens": 713,
+    "output_tokens": 145,
+    "total_tokens": 858
+  },
+  "prompt": "Analyze this feedback: 'The cultural funding programs need more transparency and better communication.'",
+  "instructions": "Extract features from this feedback.",
+  "temperature": 0.3,
+  "timestamp": "2025-06-20T00:58:37.255881",
+  "cached_at": "2025-06-20T00:58:37.255933",
+  "cache_key": "8b08d06e1077bde4ee473cc711778248a829e1237fcb1dfbf1c1b4e00b006bea"
+}

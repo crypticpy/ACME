@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expressive arts for youth mental health",
+    "supporting youth individualism and life goals",
+    "collaborative public art initiatives",
+    "temporary and long-term public art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Expressive Arts for youth to reduce depression",
+    "gain clarity on individualism and life goals",
+    "collaborative public art both temporary and long term"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer expressive arts programs for youth to address depression and support personal development",
+    "Develop collaborative public art projects that are both temporary and long-term"
+  ],
+  "cached_at": "2025-06-21T01:59:36.774248",
+  "cache_key": "3309189b875502f18db5a9bb1224f892641a84b86bfff0748756b46da6f39c71",
+  "model": "gpt-41"
+}

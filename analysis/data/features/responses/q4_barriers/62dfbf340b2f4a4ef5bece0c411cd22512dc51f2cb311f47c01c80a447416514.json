@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of awareness of available support",
+    "insufficient education on navigating support systems"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "awareness",
+    "lack of education of working the system"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "lack of education about how to work the system"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:30.703698",
+  "cache_key": "62dfbf340b2f4a4ef5bece0c411cd22512dc51f2cb311f47c01c80a447416514",
+  "model": "gpt-41"
+}

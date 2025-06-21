@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of cultural funding programs",
+    "need for improved communication and outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More information that they exist!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient information about program existence"
+  ],
+  "solutions_proposed": [
+    "provide more information about the existence of programs"
+  ],
+  "cached_at": "2025-06-21T01:17:13.777775",
+  "cache_key": "36742f6c4d5eb9122de5a64f0cab06655bc5bd8b4f5e03b487e8b986a9e5d539",
+  "model": "gpt-41"
+}

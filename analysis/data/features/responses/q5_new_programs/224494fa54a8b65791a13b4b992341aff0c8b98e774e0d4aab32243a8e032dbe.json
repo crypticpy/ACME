@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gender equity in arts funding",
+    "support for women artists",
+    "grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grants for women artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants specifically for women artists"
+  ],
+  "solutions_proposed": [
+    "Create grants for women artists"
+  ],
+  "cached_at": "2025-06-21T01:54:06.536657",
+  "cache_key": "224494fa54a8b65791a13b4b992341aff0c8b98e774e0d4aab32243a8e032dbe",
+  "model": "gpt-41"
+}

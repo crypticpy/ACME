@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for sustained funding",
+    "support for legacy institutions",
+    "community-wide cultural impact",
+    "value of organizational history"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more sustained funding for legacy institutions",
+    "ensure lasting, community-wide impact",
+    "organizations are uniquely suited",
+    "because of their history in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustained funding for legacy institutions"
+  ],
+  "solutions_proposed": [
+    "provide more sustained funding for legacy institutions"
+  ],
+  "cached_at": "2025-06-21T01:14:11.628423",
+  "cache_key": "9d3a98af6a7d16f08e9aeee04b164968ad62ca5cbde443158992c2a97526115e",
+  "model": "gpt-41"
+}

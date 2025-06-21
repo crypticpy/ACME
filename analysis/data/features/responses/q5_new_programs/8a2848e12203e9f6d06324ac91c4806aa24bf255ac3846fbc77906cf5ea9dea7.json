@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for black queer programming",
+    "erasure of marginalized identities",
+    "representation and inclusion"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more black queer programming",
+    "attempting to erase multiple parts of our identities and histories"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "erasure of multiple parts of our identities and histories",
+    "lack of black queer programming"
+  ],
+  "solutions_proposed": [
+    "offer more black queer programming"
+  ],
+  "cached_at": "2025-06-21T02:05:20.948991",
+  "cache_key": "8a2848e12203e9f6d06324ac91c4806aa24bf255ac3846fbc77906cf5ea9dea7",
+  "model": "gpt-41"
+}

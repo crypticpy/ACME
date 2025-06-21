@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Spanish-language theater",
+    "Representation of Hispanic issues",
+    "Culturally relevant programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "teatro en espa\u00f1ol",
+    "temas y problematica de los hispanos"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of Spanish-language theater addressing Hispanic issues"
+  ],
+  "solutions_proposed": [
+    "Increase Spanish-language theater that addresses Hispanic themes and problems"
+  ],
+  "cached_at": "2025-06-21T00:38:25.035717",
+  "cache_key": "c4b2890b23ae66337554e13569d523d070036a82ce4a1088da07291638408950",
+  "model": "gpt-41"
+}

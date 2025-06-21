@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for non-monetary resources",
+    "organizational growth support",
+    "business sustainability education",
+    "challenges during funding shortages"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more access to resources outside of funding",
+    "tangible tools to not just maintain but help grow",
+    "learning to run a sustainable and profitable business",
+    "especially during times like this when funding is not accessible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to funding",
+    "insufficient business skills or tools"
+  ],
+  "solutions_proposed": [
+    "provide tangible tools for growth",
+    "offer education on running sustainable and profitable businesses"
+  ],
+  "cached_at": "2025-06-20T10:26:00.463082",
+  "cache_key": "4e45a06f0c92365014ad77658e5743e62bf6b0bd398cb62471b2192d3f79d1ad",
+  "model": "gpt-41"
+}

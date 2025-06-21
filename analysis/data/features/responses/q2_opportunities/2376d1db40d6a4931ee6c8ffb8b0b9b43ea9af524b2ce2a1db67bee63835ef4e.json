@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "integration of artists/creatives into business environments",
+    "affordable physical spaces for nonprofit arts organizations",
+    "developer incentives to support arts sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "artists/creatives in residence in businesses",
+    "ground floor mid-rise affordable spaces for nonprofit arts orgs",
+    "adding developers' incentives to support individuals and orgs in projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable spaces for nonprofit arts organizations",
+    "insufficient support from developers for arts projects"
+  ],
+  "solutions_proposed": [
+    "artists/creatives in residence in businesses",
+    "creation of ground floor mid-rise affordable spaces for nonprofit arts orgs",
+    "adding developers' incentives to support individuals and orgs in projects"
+  ],
+  "cached_at": "2025-06-21T00:32:30.287094",
+  "cache_key": "2376d1db40d6a4931ee6c8ffb8b0b9b43ea9af524b2ce2a1db67bee63835ef4e",
+  "model": "gpt-41"
+}

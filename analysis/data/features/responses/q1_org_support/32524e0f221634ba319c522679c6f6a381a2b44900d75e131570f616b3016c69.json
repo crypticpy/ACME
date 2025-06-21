@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "responsiveness to needs",
+    "communication and availability",
+    "timely funding support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "be aware",
+    "available to talk",
+    "offer funding when needed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness or availability from ACME",
+    "insufficient timely funding"
+  ],
+  "solutions_proposed": [
+    "be aware and available to talk",
+    "offer funding when needed"
+  ],
+  "cached_at": "2025-06-20T10:40:48.235229",
+  "cache_key": "32524e0f221634ba319c522679c6f6a381a2b44900d75e131570f616b3016c69",
+  "model": "gpt-41"
+}

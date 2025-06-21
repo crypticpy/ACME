@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for focus groups",
+    "lack of nuanced understanding of community",
+    "power dynamics in decision-making",
+    "misalignment between provided help and actual needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "establishment of focus groups",
+    "better understand the perspectives of its more nuanced citizenship",
+    "tendency to determine who is pushing the levers of help",
+    "than the help which is needed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "decision-making driven by power rather than need",
+    "insufficient understanding of nuanced community perspectives"
+  ],
+  "solutions_proposed": [
+    "establishment of focus groups to better understand community perspectives"
+  ],
+  "cached_at": "2025-06-21T02:04:44.239003",
+  "cache_key": "563f58ff2af54728da68688222331b79be21f99971f9668bb3a44523dce08c81",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "affordable venue access",
+    "direct financial support for artists",
+    "support for arts institutions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding, funding, funding",
+    "Securing affordable venues",
+    "providing grants for arts institutions",
+    "providing stipends for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "unaffordable venues"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "secure affordable venues",
+    "provide grants for arts institutions",
+    "provide stipends for artists"
+  ],
+  "cached_at": "2025-06-20T01:11:56.989317",
+  "cache_key": "61b250d1653711a98a98493ec219495c22e6702c00d81e1fecbca53d4cc5e299",
+  "model": "gpt-41"
+}

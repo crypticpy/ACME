@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "listening to organizations' intentions",
+    "alignment with organizational mission",
+    "conditional support based on alignment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Listen to their intentions",
+    "what they want to accomplish",
+    "Assist them if you feel it is aligned with your goals and mission"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Listen to organizations' intentions and goals",
+    "Provide assistance when their aims align with ACME's mission"
+  ],
+  "cached_at": "2025-06-20T10:41:27.234793",
+  "cache_key": "3fee6388c234ed4d80a751d1e74e77631e0c8b42c594178f721a8c656dc32a6d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for clearer grant information",
+    "capacity building through grant writing workshops",
+    "legal support for nonprofits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More information about grants available",
+    "Grant writing workshops",
+    "Help with legal issues and concerns affecting non profits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about grants",
+    "insufficient grant writing skills",
+    "legal issues and concerns for nonprofits"
+  ],
+  "solutions_proposed": [
+    "provide more information about grants",
+    "offer grant writing workshops",
+    "help with legal issues and concerns affecting nonprofits"
+  ],
+  "cached_at": "2025-06-20T01:22:43.579129",
+  "cache_key": "66041737de2495c915e5be2d850183a13a0260c0492be2b39f0c0742bee410eb",
+  "model": "gpt-41"
+}

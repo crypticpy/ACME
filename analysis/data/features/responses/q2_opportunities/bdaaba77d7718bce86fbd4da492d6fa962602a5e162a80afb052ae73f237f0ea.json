@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of non-commercial cultural activities",
+    "critique of public funding for widely available events",
+    "support for culturally specific preservation activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "It is vital to sustain cultural activities not represented in commercial entertainment",
+    "culturally specific preservation activities",
+    "We do not need public funding for parties and craft markets",
+    "activities already widely available throughout the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overfunding of already widely available activities"
+  ],
+  "solutions_proposed": [
+    "sustain cultural activities not represented in commercial entertainment",
+    "prioritize funding for culturally specific preservation activities",
+    "do not fund parties and craft markets with public money"
+  ],
+  "cached_at": "2025-06-21T00:24:43.005285",
+  "cache_key": "bdaaba77d7718bce86fbd4da492d6fa962602a5e162a80afb052ae73f237f0ea",
+  "model": "gpt-41"
+}

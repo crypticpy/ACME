@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for emerging artists",
+    "inclusivity across art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Emerging artist (of all types) support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support for emerging artists of all types"
+  ],
+  "cached_at": "2025-06-21T00:51:39.475080",
+  "cache_key": "12765555efebfece33eafbfff471f77009bb9110a4653b8cf84a812d9d1650bc",
+  "model": "gpt-41"
+}

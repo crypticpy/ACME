@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived racial bias in program administration",
+    "favoritism toward wealthier individuals",
+    "lack of equitable access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "program seems rigged",
+    "in favor of white residents",
+    "in favor of ... money"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived racial favoritism",
+    "preference for affluent participants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:59.232385",
+  "cache_key": "630394543ac3544146f528e061dbc501fd48be62560d22aa9ed6775a0ca957ca",
+  "model": "gpt-41"
+}

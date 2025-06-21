@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased theater offerings",
+    "growth in local film production",
+    "expanded work opportunities for performers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More theater",
+    "more films being made here",
+    "more work opportunities for performers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase theater productions",
+    "Support more film projects in Austin",
+    "Create more work opportunities for performers"
+  ],
+  "cached_at": "2025-06-21T00:43:36.654750",
+  "cache_key": "4980ee93f146ffa080ee6e56cfb214db44cb37065b4a7c18a6071f3f39f3fdf1",
+  "model": "gpt-41"
+}

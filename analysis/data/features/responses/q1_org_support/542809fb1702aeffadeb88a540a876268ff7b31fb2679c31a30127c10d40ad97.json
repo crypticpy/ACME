@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concerns about transparency at Arts Commission meetings",
+    "questions regarding leadership vision (Director Angela Means)",
+    "appreciation for City Council funding for airport art",
+    "recognition of ACME's foundational work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "transparency seemed to be a issue",
+    "info could not be shared it was 'confidential'",
+    "What is Director Angela's Means Vison for our art community?",
+    "grateful the City council voted to spend monies for art at the airport",
+    "ACME has already built a strong foundation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency at Arts Commission meetings",
+    "confidentiality limiting information sharing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:15:35.411087",
+  "cache_key": "542809fb1702aeffadeb88a540a876268ff7b31fb2679c31a30127c10d40ad97",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for quiet and skillful artists",
+    "preference for reflective art over attention-seeking art",
+    "need for balance and inclusivity in the arts scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more support for artists whose work is quiet, skillful, and thoughtful",
+    "naturalist, landscape, or process-based art",
+    "shows seem to focus on work that\u2019s loud or shocking",
+    "value in art that invites reflection instead of demanding it",
+    "create a more balanced and inclusive arts scene"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current focus on loud or shocking art to get attention"
+  ],
+  "solutions_proposed": [
+    "more support for artists whose work is quiet, skillful, and thoughtful",
+    "supporting these kinds of artists would help create a more balanced and inclusive arts scene"
+  ],
+  "cached_at": "2025-06-21T00:39:16.260658",
+  "cache_key": "b87183e912e26af2c3d94cc3fa731a0369e3fbdc54f03774fcc0efe7894b7f43",
+  "model": "gpt-41"
+}

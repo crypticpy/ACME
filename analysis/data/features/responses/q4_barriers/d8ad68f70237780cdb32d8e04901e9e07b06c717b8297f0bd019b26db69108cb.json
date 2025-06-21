@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of office and venue space",
+    "inconsistent year-round programming",
+    "insufficient funding for paid staff",
+    "reliance on part-time and reduced-status staff"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "office and venue space continue to be a barrier",
+    "ability to provide consistent year-round programs",
+    "funding to support paid staffing for our nonprofit is an issue",
+    "main admin/development staff member maintaining a .75 employee status",
+    "rest of core staff is part time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of office and venue space",
+    "insufficient funding for paid staffing",
+    "reliance on part-time staff"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:01.046468",
+  "cache_key": "d8ad68f70237780cdb32d8e04901e9e07b06c717b8297f0bd019b26db69108cb",
+  "model": "gpt-41"
+}

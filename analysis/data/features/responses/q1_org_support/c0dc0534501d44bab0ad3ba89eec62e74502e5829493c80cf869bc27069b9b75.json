@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for specialized support for non-profit arts vs. broader creative industries",
+    "Development of non-profit performing arts infrastructure",
+    "Diversification of public funding sources beyond HOT",
+    "Support for arts education and community participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "lumping all creative industries together is not helpful or supportive to the non-profit arts field",
+    "developing the needed non-profit performing arts infrastructure",
+    "find additional public funding sources outside of HOT",
+    "support initiatives that supports arts education and participation by placing artists in schools, after school programs in rec centers, churches"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lumping all creative industries together",
+    "Lack of non-profit performing arts infrastructure",
+    "Overreliance on HOT funding"
+  ],
+  "solutions_proposed": [
+    "Develop non-profit performing arts infrastructure (scene shops, costume shops, studios, affordable performance spaces for mature artists)",
+    "Find additional public funding sources outside of HOT",
+    "Support arts education and participation by placing artists in schools, after school programs, and churches"
+  ],
+  "cached_at": "2025-06-20T01:14:33.786306",
+  "cache_key": "c0dc0534501d44bab0ad3ba89eec62e74502e5829493c80cf869bc27069b9b75",
+  "model": "gpt-41"
+}

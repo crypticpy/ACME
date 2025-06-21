@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of public awareness about organizations",
+    "insider/outsider knowledge gap",
+    "perception of isolation in cultural sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Let people know more about these existing organizations",
+    "Feels like this all operates in a vacuum",
+    "People that aren't 'in the know' never know"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information for those not 'in the know'",
+    "cultural sector operates in a vacuum"
+  ],
+  "solutions_proposed": [
+    "increase public awareness of existing organizations"
+  ],
+  "cached_at": "2025-06-20T01:21:44.410413",
+  "cache_key": "50f9a7a34513f84bf5318c02d13b4295f7e6e4f1f7d28f0a3a093d76c8c6519a",
+  "model": "gpt-41"
+}

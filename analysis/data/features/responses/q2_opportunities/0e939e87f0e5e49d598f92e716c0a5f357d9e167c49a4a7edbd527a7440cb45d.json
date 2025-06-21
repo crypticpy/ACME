@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for non-traditional art funding",
+    "overemphasis on music and traditional art",
+    "support for creative fields like fashion, architecture, design, theater"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "spend more resources in creative channels out side of the norm",
+    "like fashion, architecture, design, theater instead of music and traditional 'art'"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for non-traditional creative channels"
+  ],
+  "solutions_proposed": [
+    "spend more resources in creative channels outside of the norm",
+    "support fashion, architecture, design, theater instead of music and traditional art"
+  ],
+  "cached_at": "2025-06-21T00:41:18.389908",
+  "cache_key": "0e939e87f0e5e49d598f92e716c0a5f357d9e167c49a4a7edbd527a7440cb45d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of support for visual artists",
+    "dominance of music over visual arts in Austin's reputation",
+    "desire for connection to national and international art scenes",
+    "professional barriers for local visual artists",
+    "risk of artist outmigration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I desperately want to see Austin making it easier for more established national and international visual art entities to become part of the Austin artist world",
+    "We\u2019re known for our music, but our visual artists are left behind",
+    "We need to invest in building that reputation",
+    "local visual artists have better access to the art world outside of Austin",
+    "increase our opportunity for professional success outside of this tiny local ecosystem",
+    "I keep thinking I have to move if I ever want to accomplish my goal of being a full time artist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing national and international art networks",
+    "Austin's reputation focused on music, not visual arts",
+    "limited professional opportunities for visual artists within Austin"
+  ],
+  "solutions_proposed": [
+    "make it easier for established national and international visual art entities to become part of the Austin artist world",
+    "invest in building Austin's reputation for visual arts",
+    "improve local visual artists' access to the broader art world"
+  ],
+  "cached_at": "2025-06-21T00:28:35.966781",
+  "cache_key": "8fde9abe4f916a1824c64d07c1e4f43bbc832ca09a0260c3e484932192d44dd9",
+  "model": "gpt-41"
+}

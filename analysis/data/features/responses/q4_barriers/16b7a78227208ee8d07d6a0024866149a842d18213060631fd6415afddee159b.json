@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to arts participation",
+    "self-identification as an arts patron rather than recipient of support",
+    "limited engagement due to personal finances"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "too cash-strapped to take in as many events as I would otherwise",
+    "I only patronize the arts",
+    "I don't try to access support or services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "personal financial constraints"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:43.830653",
+  "cache_key": "16b7a78227208ee8d07d6a0024866149a842d18213060631fd6415afddee159b",
+  "model": "gpt-41"
+}

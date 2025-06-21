@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for professional development",
+    "capacity building for funding access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grant writing classes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing skills"
+  ],
+  "solutions_proposed": [
+    "offer grant writing classes"
+  ],
+  "cached_at": "2025-06-21T02:04:10.282701",
+  "cache_key": "5565b6829bab9aafc48386b7eca09efee6d107a699e8ff21e68ffb56625a2b9b",
+  "model": "gpt-41"
+}

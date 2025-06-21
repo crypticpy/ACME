@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insecurity about funding",
+    "employment instability",
+    "lack of opportunity due to funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "lack of confidence in securing funds",
+    "support to keep people employed",
+    "give them opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of confidence in securing funds",
+    "inability to keep people employed",
+    "limited opportunities due to funding insecurity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:09.388065",
+  "cache_key": "cc06e391328c6ee4b749d20a3fe9b57880da8af5fb9190ab0da57dfa462cd916",
+  "model": "gpt-41"
+}

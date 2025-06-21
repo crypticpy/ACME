@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of cultural representation",
+    "irrelevant or unrelatable themes in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Cultural representation",
+    "relevant themes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural representation",
+    "lack of relevant themes"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:52.027180",
+  "cache_key": "411f42b4c828870732725849a6f9eed493288a7709914d2ff602f2017675793f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more art and music exhibitions",
+    "Connection between visual arts and music",
+    "Community-building through cultural events",
+    "Recognition of exemplary local venues"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More Art and Music exhibitions",
+    "visuals and music very much are linked and each facilitate the other",
+    "Riches Art Gallery does a FANTASTIC job of creating Community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Riches Art Gallery"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More Art and Music exhibitions that integrate visuals and music"
+  ],
+  "cached_at": "2025-06-21T00:42:33.007364",
+  "cache_key": "d7a9b8d4bf91af79c3cfa7096b2f2b87fbec3f24d9ec29b9707f61d7b21782cd",
+  "model": "gpt-41"
+}

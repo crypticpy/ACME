@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for more theater space",
+    "revival of annual studio tour",
+    "support for diverse artists and art spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin has always needed more theater space - always!",
+    "The annual studio tour needs to be resurrected and supported.",
+    "It offers opportunities to all kinds of artists and art spaces."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "annual studio tour"
+  ],
+  "barriers_identified": [
+    "lack of theater space",
+    "discontinuation of annual studio tour"
+  ],
+  "solutions_proposed": [
+    "create more theater space",
+    "resurrect and support the annual studio tour"
+  ],
+  "cached_at": "2025-06-21T00:38:27.880237",
+  "cache_key": "0a494d9e5b992532875633b88ea577bef89083d081faaba748fb84836d01ee36",
+  "model": "gpt-41"
+}

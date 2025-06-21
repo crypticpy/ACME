@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for consistent communication",
+    "feedback mechanisms",
+    "collaboration between ACME and local organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "a more consistent feedback loop",
+    "quarterly round tables",
+    "local arts and cultural organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent feedback mechanisms"
+  ],
+  "solutions_proposed": [
+    "quarterly round tables with local arts and cultural organizations"
+  ],
+  "cached_at": "2025-06-21T02:05:08.632832",
+  "cache_key": "a4026ca99b17242cb8a5b2a702469d59ba4fa4630737ecea20e00e47692c2fff",
+  "model": "gpt-41"
+}

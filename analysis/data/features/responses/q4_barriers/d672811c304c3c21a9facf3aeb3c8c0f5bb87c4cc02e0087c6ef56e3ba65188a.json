@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing costs of cultural work",
+    "insufficient funding",
+    "devaluation of live music"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding.",
+    "The work we're doing continues to get more expensive",
+    "live music continues to be devalued"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "rising costs of cultural work",
+    "devaluation of live music"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:17.822900",
+  "cache_key": "d672811c304c3c21a9facf3aeb3c8c0f5bb87c4cc02e0087c6ef56e3ba65188a",
+  "model": "gpt-41"
+}

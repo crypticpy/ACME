@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threat of gallery closures",
+    "financial sustainability of cultural spaces",
+    "loss of community access to arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "If galleries close because they can\u2019t afford to exist",
+    "our access goes away"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "galleries can\u2019t afford to exist",
+    "closure of galleries leads to loss of access"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:07.800899",
+  "cache_key": "a4ac7a202a516d389966d848d6790fa5fef7bcca20cd6208f1eeb3198e115b68",
+  "model": "gpt-41"
+}

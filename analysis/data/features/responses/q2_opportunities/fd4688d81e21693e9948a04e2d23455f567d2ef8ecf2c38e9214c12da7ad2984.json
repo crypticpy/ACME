@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordability for artists and audiences",
+    "need for small community performance spaces",
+    "support for local venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Affordable venues for both artists and audience",
+    "more small community performance spaces",
+    "like Hyde Park Theatre and Vortex Theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Hyde Park Theatre",
+    "Vortex Theatre"
+  ],
+  "barriers_identified": [
+    "lack of affordable venues"
+  ],
+  "solutions_proposed": [
+    "create more affordable venues for artists and audiences",
+    "increase small community performance spaces"
+  ],
+  "cached_at": "2025-06-21T00:34:58.799206",
+  "cache_key": "fd4688d81e21693e9948a04e2d23455f567d2ef8ecf2c38e9214c12da7ad2984",
+  "model": "gpt-41"
+}

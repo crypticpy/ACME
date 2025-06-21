@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of appropriate dance venues",
+    "inadequate technical infrastructure for dance",
+    "audience comfort and accessibility",
+    "parking challenges at cultural venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "not enough theaters with appropriate environment for dance",
+    "sprung floor and marley",
+    "good lighting design",
+    "comfortable seating with risers",
+    "parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient number of dance-appropriate theaters",
+    "lack of sprung floor and marley",
+    "inadequate lighting design",
+    "uncomfortable seating without risers",
+    "insufficient parking"
+  ],
+  "solutions_proposed": [
+    "increase number of theaters with dance-appropriate environments",
+    "improve technical features such as sprung floors, marley, and lighting",
+    "provide comfortable seating with risers",
+    "improve parking options at venues"
+  ],
+  "cached_at": "2025-06-21T02:14:30.629638",
+  "cache_key": "e1e7e9c0d457864e3f26efd84bf5dc3f43f886f74c2feec960ceec758151b310",
+  "model": "gpt-41"
+}

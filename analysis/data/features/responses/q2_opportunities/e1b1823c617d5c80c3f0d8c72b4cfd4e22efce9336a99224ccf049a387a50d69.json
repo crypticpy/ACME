@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability of cultural events",
+    "diversity of artistic representation",
+    "access to creative skill-building opportunities",
+    "value of exposure to new artists and styles",
+    "role of specific organizations in supporting creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more affordable music festivals",
+    "different types of artists who have different styles and backgrounds",
+    "something for everyone and new artists to learn about",
+    "more accessible and affordable workshops for creatives like myself",
+    "can't afford training",
+    "Austin Film Society and Torch Literary Arts have been great organizations",
+    "help me develop my skills in writing, storytelling, and filming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Film Society",
+    "Torch Literary Arts"
+  ],
+  "barriers_identified": [
+    "cost of attending music festivals",
+    "lack of affordability for creative workshops",
+    "inaccessibility of training for creatives"
+  ],
+  "solutions_proposed": [
+    "offer more affordable music festivals with diverse artists",
+    "provide more accessible and affordable workshops for creatives"
+  ],
+  "cached_at": "2025-06-21T00:37:50.153174",
+  "cache_key": "e1b1823c617d5c80c3f0d8c72b4cfd4e22efce9336a99224ccf049a387a50d69",
+  "model": "gpt-41"
+}

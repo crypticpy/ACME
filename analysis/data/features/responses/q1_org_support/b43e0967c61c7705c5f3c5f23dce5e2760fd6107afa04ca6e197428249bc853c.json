@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of diversity",
+    "focus on underserved communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "prioritize diversity",
+    "underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "prioritize diversity",
+    "prioritize underserved communities"
+  ],
+  "cached_at": "2025-06-20T10:46:02.185769",
+  "cache_key": "b43e0967c61c7705c5f3c5f23dce5e2760fd6107afa04ca6e197428249bc853c",
+  "model": "gpt-41"
+}

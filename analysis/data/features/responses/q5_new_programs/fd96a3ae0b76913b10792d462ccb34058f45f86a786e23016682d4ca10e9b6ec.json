@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "mental health support for creatives",
+    "therapeutic spaces for the creative community",
+    "underrepresentation of wellness services in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "supporting mental health",
+    "therapeutic spaces/services",
+    "dedicated to serving the creative community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mental health and therapeutic services for creatives"
+  ],
+  "solutions_proposed": [
+    "offer mental health and therapeutic spaces/services for the creative community"
+  ],
+  "cached_at": "2025-06-21T01:55:00.839361",
+  "cache_key": "fd96a3ae0b76913b10792d462ccb34058f45f86a786e23016682d4ca10e9b6ec",
+  "model": "gpt-41"
+}

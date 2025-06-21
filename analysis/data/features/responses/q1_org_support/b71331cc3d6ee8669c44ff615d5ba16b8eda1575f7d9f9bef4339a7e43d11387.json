@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for accessible art classes",
+    "support for emerging artists",
+    "support for art studios",
+    "affordable opportunities to sell handmade artworks"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more funding to accessible art classes",
+    "grants for emerging artists and their supporters (studios especially)",
+    "opportunities that sell handmade art works at a reasonable price"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for accessible art classes",
+    "insufficient grants for emerging artists and studios",
+    "limited affordable opportunities to sell handmade artworks"
+  ],
+  "solutions_proposed": [
+    "increase funding to accessible art classes",
+    "provide grants for emerging artists and their supporters (especially studios)",
+    "create opportunities to sell handmade artworks at a reasonable price"
+  ],
+  "cached_at": "2025-06-20T10:23:01.823954",
+  "cache_key": "b71331cc3d6ee8669c44ff615d5ba16b8eda1575f7d9f9bef4339a7e43d11387",
+  "model": "gpt-41"
+}

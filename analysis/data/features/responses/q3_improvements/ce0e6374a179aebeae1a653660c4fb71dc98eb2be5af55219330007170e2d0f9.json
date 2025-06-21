@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accessibility of funding programs",
+    "simplification of application processes",
+    "removal of barriers for creatives and organizations",
+    "flexibility in timelines",
+    "faster funding decisions",
+    "support for time-sensitive projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "become more accessible",
+    "simplified application processes",
+    "remove unnecessary barriers for creatives and community organizations",
+    "offering flexible timelines",
+    "quicker turnaround for funding decisions",
+    "support projects that need to move at a faster pace"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unnecessary barriers for creatives and community organizations",
+    "complex application processes",
+    "slow funding decisions"
+  ],
+  "solutions_proposed": [
+    "simplified application processes",
+    "removal of unnecessary barriers",
+    "offering flexible timelines",
+    "quicker turnaround for funding decisions"
+  ],
+  "cached_at": "2025-06-21T01:08:29.035916",
+  "cache_key": "ce0e6374a179aebeae1a653660c4fb71dc98eb2be5af55219330007170e2d0f9",
+  "model": "gpt-41"
+}

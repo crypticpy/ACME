@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "late-night non-alcoholic venues",
+    "healthy food access after hours",
+    "urban infrastructure for nightlife",
+    "municipal leadership for nighttime economy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more places open past 2am that don't sell alcohol",
+    "late healthy food opens/cafeterias/real grocery stores",
+    "We need a night mayor"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of late-night non-alcoholic venues",
+    "limited access to healthy food options late at night"
+  ],
+  "solutions_proposed": [
+    "open more places past 2am that don't sell alcohol",
+    "increase late-night healthy food options, cafeterias, and real grocery stores",
+    "hire a night mayor"
+  ],
+  "cached_at": "2025-06-21T02:15:18.110204",
+  "cache_key": "d39e48a4254963d92f253d172336809d2493bd232b07ac7f96cc440ec3a431bc",
+  "model": "gpt-41"
+}

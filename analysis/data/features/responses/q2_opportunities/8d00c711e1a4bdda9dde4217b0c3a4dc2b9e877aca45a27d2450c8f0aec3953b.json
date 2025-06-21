@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for visual arts institutions",
+    "support for specific cultural venues",
+    "enhancement of museum resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More funding for The Museum of Fine Arts, Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Museum of Fine Arts, Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More funding for The Museum of Fine Arts, Austin"
+  ],
+  "cached_at": "2025-06-21T00:53:21.604390",
+  "cache_key": "8d00c711e1a4bdda9dde4217b0c3a4dc2b9e877aca45a27d2450c8f0aec3953b",
+  "model": "gpt-41"
+}

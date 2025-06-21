@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible information for artists and audiences",
+    "critique of Austin's cultural branding",
+    "frustration with current music scene identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More information on where & how to participate- as an artist, and an audience",
+    "The 'Music Capital of the World' theme is worn out",
+    "we're more the 'Apathetic to Responsibility Noodley Guitar Capital of The World'"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient information on participation opportunities"
+  ],
+  "solutions_proposed": [
+    "provide more information on where and how to participate as an artist and audience"
+  ],
+  "cached_at": "2025-06-21T01:03:16.489303",
+  "cache_key": "33a2b8e2a4d816b12b483b82f676858488a957a7912715325d7e7f89ae79e4e9",
+  "model": "gpt-41"
+}

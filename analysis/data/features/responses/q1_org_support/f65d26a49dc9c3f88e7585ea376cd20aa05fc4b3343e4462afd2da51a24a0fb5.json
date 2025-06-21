@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for direct engagement with artists and organizations",
+    "importance of listening to grassroots cultural actors",
+    "support for those actively working in Austin's cultural sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "listening to artists, creators and cultural orgs",
+    "on the ground actively doing things in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of listening to those actively engaged in the field"
+  ],
+  "solutions_proposed": [
+    "listen to artists, creators, and cultural organizations on the ground"
+  ],
+  "cached_at": "2025-06-20T10:41:05.801722",
+  "cache_key": "f65d26a49dc9c3f88e7585ea376cd20aa05fc4b3343e4462afd2da51a24a0fb5",
+  "model": "gpt-41"
+}

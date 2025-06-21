@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "limited access for individual artists",
+    "exclusion of non-nonprofit artists",
+    "geographic restrictions on funding eligibility",
+    "support for suburban artists presenting in Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Provide more access and funding opportunities to individual artists that aren\u2019t full non profits",
+    "permit funding to go to artists that live in suburbs but present work in austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding limited to full nonprofits",
+    "artists living in suburbs ineligible for funding"
+  ],
+  "solutions_proposed": [
+    "increase access and funding opportunities for individual artists who are not full nonprofits",
+    "allow funding for artists residing in suburbs who present work in Austin"
+  ],
+  "cached_at": "2025-06-21T01:18:46.939162",
+  "cache_key": "47cc204cc51e4fb77f6299aab3f4a7114539637e1354a115eee7aad8c915aeea",
+  "model": "gpt-41"
+}

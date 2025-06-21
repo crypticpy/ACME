@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "stabilization of the arts community",
+    "support for a broad range of arts professionals",
+    "importance of venues for arts work and living"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "stabilize the Austin arts community",
+    "including theater arts, playwrights, musicians, writers, light and sound designers, stage and sound crew, arts administration, visual artists",
+    "all venues where we live and work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "instability of the arts community",
+    "lack of support for venues"
+  ],
+  "solutions_proposed": [
+    "stabilize the Austin arts community",
+    "support all venues where artists live and work"
+  ],
+  "cached_at": "2025-06-21T00:37:07.724097",
+  "cache_key": "5661764cba6f84d07b3a03a00768d988c7f37461011d64b80bae2136dcab5f66",
+  "model": "gpt-41"
+}

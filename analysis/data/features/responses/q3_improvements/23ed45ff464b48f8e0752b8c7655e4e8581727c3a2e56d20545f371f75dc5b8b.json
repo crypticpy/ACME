@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Exclusion of experienced artists from grants",
+    "Overreliance on DEI checklists",
+    "Marginalization of women artists, especially over 40",
+    "Caregiver roles as a barrier for women artists",
+    "Panel misconceptions about gender marginalization",
+    "Need for data-driven recognition of women's challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Allow artists of tenure to receive grants- not just DEI checklists",
+    "These artists bring leverage to the program",
+    "acknowledge that WOMEN artists are also marginalized, especially those over 40",
+    "typically in caregiver roles on top of trying to make it as an artist",
+    "the panel told me that women weren't marginalized in music and that is a FALSE assumption",
+    "There is a LOT of data that shows that women are indeed marginalized and in need of support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Exclusion of experienced artists from grant eligibility",
+    "Grant criteria focused solely on DEI checklists",
+    "Lack of recognition for women artists' marginalization",
+    "Caregiver responsibilities limiting women's participation",
+    "Panel's misunderstanding of gender-based barriers"
+  ],
+  "solutions_proposed": [
+    "Allow artists of tenure to receive grants",
+    "Acknowledge and address marginalization of women artists, especially over 40",
+    "Use data to inform support for women artists"
+  ],
+  "cached_at": "2025-06-21T00:56:40.248991",
+  "cache_key": "23ed45ff464b48f8e0752b8c7655e4e8581727c3a2e56d20545f371f75dc5b8b",
+  "model": "gpt-41"
+}

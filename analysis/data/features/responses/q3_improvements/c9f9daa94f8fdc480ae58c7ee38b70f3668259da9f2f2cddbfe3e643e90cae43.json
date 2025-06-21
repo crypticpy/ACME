@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "penalization for previous grant recipients",
+    "fairness in scoring policies",
+    "access to repeated funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "eliminate the policy",
+    "taking points off",
+    "applicant got a grant previously"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "scoring penalties for previous grant recipients"
+  ],
+  "solutions_proposed": [
+    "eliminate the policy of taking points off because the applicant got a grant previously"
+  ],
+  "cached_at": "2025-06-21T01:08:02.687148",
+  "cache_key": "c9f9daa94f8fdc480ae58c7ee38b70f3668259da9f2f2cddbfe3e643e90cae43",
+  "model": "gpt-41"
+}

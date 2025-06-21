@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of opportunities",
+    "information access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Knowing about the opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about available opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:50.043937",
+  "cache_key": "4665529101a1e46a698f625cb1bcdd2badc46dc05b2b9ecaa5dc46e88ce80cc0",
+  "model": "gpt-41"
+}

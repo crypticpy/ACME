@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "alternative funding sources beyond HOT",
+    "community and business engagement in arts promotion",
+    "corporate incentives for arts support",
+    "artistic autonomy and resistance to commercial or political control",
+    "empowerment of authentic artistic expression"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "fund arts organizations and artists outside the HOT",
+    "educate residents and businesses to highlight and promote arts and culture",
+    "incentivize corporations to help fund and promote arts organizations and artists",
+    "not trying to control artistry with commercialism or political ideologies",
+    "fully empower artists to pursue what is authentic and inspiring for them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overreliance on HOT funding",
+    "potential control of artistry by commercial or political interests"
+  ],
+  "solutions_proposed": [
+    "find more ways for the city to fund arts organizations and artists outside the HOT",
+    "educate residents and businesses to highlight and promote arts and culture",
+    "incentivize corporations to help fund and promote arts organizations and artists",
+    "empower artists to pursue authentic and inspiring work without external control"
+  ],
+  "cached_at": "2025-06-20T01:19:01.363775",
+  "cache_key": "ea8a7ea23e9972196a3cde27a2e4537d4d974b87b53820e0c6f23e3414934675",
+  "model": "gpt-41"
+}

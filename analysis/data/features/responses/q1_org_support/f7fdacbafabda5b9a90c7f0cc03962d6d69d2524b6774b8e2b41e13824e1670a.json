@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for better communication and transparency from ACME",
+    "uncertainty about future funding for nonprofits",
+    "impact of low support/funding on community resources",
+    "importance of arts in fostering inclusivity and community",
+    "value of Austin's artistic and creative identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "better communication and be a bit more transparent with nonprofit leaders",
+    "they don't know if there will be continued support for their organizations",
+    "low support and low funding affects community resources",
+    "arts must be protected for everyone",
+    "it really brings communities together"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of communication and transparency from ACME",
+    "uncertainty about continued support and funding"
+  ],
+  "solutions_proposed": [
+    "improve communication and transparency with nonprofit leaders"
+  ],
+  "cached_at": "2025-06-20T10:29:12.646664",
+  "cache_key": "f7fdacbafabda5b9a90c7f0cc03962d6d69d2524b6774b8e2b41e13824e1670a",
+  "model": "gpt-41"
+}

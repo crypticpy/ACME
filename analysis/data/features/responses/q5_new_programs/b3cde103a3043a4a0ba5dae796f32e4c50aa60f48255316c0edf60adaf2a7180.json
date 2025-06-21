@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct funding for creative workers",
+    "support for musicians, artists, filmmakers",
+    "financial support for venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "put money back into working musicians",
+    "artists, film-makers & venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct financial support for creative professionals and venues"
+  ],
+  "solutions_proposed": [
+    "programs that put money back into working musicians, artists, filmmakers, and venues"
+  ],
+  "cached_at": "2025-06-21T02:03:34.889768",
+  "cache_key": "b3cde103a3043a4a0ba5dae796f32e4c50aa60f48255316c0edf60adaf2a7180",
+  "model": "gpt-41"
+}

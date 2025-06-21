@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more South American dance",
+    "interest in African diaspora dance",
+    "cultural diversity in arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance from South America",
+    "African diaspora"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for South American dance",
+    "Increase opportunities for African diaspora dance"
+  ],
+  "cached_at": "2025-06-21T00:53:07.966923",
+  "cache_key": "049f999e1e7326f1e43d2f9b719c0da24d030af69d673b092a0b54131c2bb90c",
+  "model": "gpt-41"
+}

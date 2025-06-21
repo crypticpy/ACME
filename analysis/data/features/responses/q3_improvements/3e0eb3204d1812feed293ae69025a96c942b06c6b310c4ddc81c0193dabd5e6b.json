@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient funding",
+    "lack of program awareness",
+    "limited access to information sessions",
+    "overwhelming demand for grant resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We need more!",
+    "More funding, more promotion",
+    "not everyone knows about the opportunities",
+    "more info sessions",
+    "Nexus info sessions were all full by the time I learned the grant had opened up again"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "lack of awareness about opportunities",
+    "info sessions at capacity before learning about them"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "increase promotion",
+    "offer more info sessions"
+  ],
+  "cached_at": "2025-06-21T01:14:00.028486",
+  "cache_key": "3e0eb3204d1812feed293ae69025a96c942b06c6b310c4ddc81c0193dabd5e6b",
+  "model": "gpt-41"
+}

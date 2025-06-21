@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Recognition of creative community's value",
+    "Desire for artist participation in major events",
+    "Advocacy for fair compensation and housing support",
+    "Policy solutions for artist support",
+    "Importance of partnerships with venues and events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "our creative community is the cornerstone of Austin",
+    "artists are given opportunities to participate in events like ACL",
+    "given housing subsidies",
+    "paid fairly",
+    "partnerships with venues/events",
+    "policies around housing and wage increases"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACL"
+  ],
+  "barriers_identified": [
+    "lack of opportunities to participate in major events",
+    "insufficient housing support",
+    "inadequate compensation for artists"
+  ],
+  "solutions_proposed": [
+    "opportunities for artists to participate in events like ACL",
+    "housing subsidies for artists",
+    "fair pay for artists",
+    "partnerships with venues/events",
+    "policies around housing and wage increases for all residents, including artists"
+  ],
+  "cached_at": "2025-06-20T10:39:52.840458",
+  "cache_key": "8582575c81083f90c041968dec7c59b52ace48d3f1b740a5644c0173ac698af2",
+  "model": "gpt-41"
+}

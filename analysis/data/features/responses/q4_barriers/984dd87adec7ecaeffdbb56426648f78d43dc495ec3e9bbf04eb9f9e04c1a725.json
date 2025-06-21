@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "long-term community involvement",
+    "gaps in access to support services",
+    "lack of understanding of available support",
+    "diversity of constituencies affected"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I don't really face any",
+    "I have been working in this community for decades",
+    "significant gaps in access and understanding of support services",
+    "throughout myriad constituencies in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gaps in access to support services",
+    "gaps in understanding of support services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:45.741913",
+  "cache_key": "984dd87adec7ecaeffdbb56426648f78d43dc495ec3e9bbf04eb9f9e04c1a725",
+  "model": "gpt-41"
+}

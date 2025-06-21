@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accessibility challenges",
+    "affordability concerns",
+    "time constraints and scheduling"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "faces challenges when it comes to accessibility",
+    "provide opportunities for them that are affordable",
+    "fit into their busy life schedules"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "accessibility",
+    "affordability",
+    "busy life schedules"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:30.421714",
+  "cache_key": "5043a1dfcb72c72d237a122920a867c65649adf8f5d3c93bf1a4085546a4f3d9",
+  "model": "gpt-41"
+}

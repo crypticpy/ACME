@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking access for musicians",
+    "gender equity in artistic opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "parking for musicians at venues",
+    "more opportunities for female artists, musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of parking for musicians at venues",
+    "insufficient opportunities for female artists and musicians"
+  ],
+  "solutions_proposed": [
+    "provide parking for musicians at venues",
+    "create more opportunities for female artists and musicians"
+  ],
+  "cached_at": "2025-06-21T01:54:01.534945",
+  "cache_key": "a4232390087471562423c7f35483168191086f8f9dda6e8218e392a5778c46c1",
+  "model": "gpt-41"
+}

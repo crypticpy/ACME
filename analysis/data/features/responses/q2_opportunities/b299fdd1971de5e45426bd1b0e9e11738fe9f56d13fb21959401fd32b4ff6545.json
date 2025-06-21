@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "unpaid labor of artists in commercial spaces",
+    "expectation of exposure instead of compensation",
+    "role of artists as interior designers or curators",
+    "lack of sales opportunities in non-gallery venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Artist paid to hang their art in venues around Austin",
+    "custom for brick and mortors to have artist hang their art up in non gallery space in exchange for promotion",
+    "Artist should be paid as interior designers or curators",
+    "Lending their artwork to these businesses that dont have record of being able to sell art"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists not being paid for displaying art in non-gallery venues",
+    "businesses offering only promotion instead of compensation",
+    "venues lacking a record of selling art"
+  ],
+  "solutions_proposed": [
+    "artists should be paid as interior designers or curators for lending artwork to businesses"
+  ],
+  "cached_at": "2025-06-21T00:43:47.307910",
+  "cache_key": "b299fdd1971de5e45426bd1b0e9e11738fe9f56d13fb21959401fd32b4ff6545",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about race-based funding criteria",
+    "advocacy for socio-economic based funding",
+    "perceived inequivalence between race and socio-economic status",
+    "desire for broader inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Less based on race",
+    "more based on socio-economic data",
+    "It's not always equivalent",
+    "the second tends to be broader"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding criteria limited to race"
+  ],
+  "solutions_proposed": [
+    "shift funding criteria from race to socio-economic data"
+  ],
+  "cached_at": "2025-06-21T01:03:26.199207",
+  "cache_key": "9c56644f5cc4472492b6720fd108520c5a22418fa7cee37a668aeca1bbc952a7",
+  "model": "gpt-41"
+}

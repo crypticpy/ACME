@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible venues",
+    "transportation challenges",
+    "affordability concerns"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Accessible venues",
+    "transportation",
+    "affordability"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible venues",
+    "inadequate transportation",
+    "high cost or affordability issues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:03.478741",
+  "cache_key": "5ce3665a122837fe428671f4653cbed1d4b6109b8dce21d4b6961fe2026c3c82",
+  "model": "gpt-41"
+}

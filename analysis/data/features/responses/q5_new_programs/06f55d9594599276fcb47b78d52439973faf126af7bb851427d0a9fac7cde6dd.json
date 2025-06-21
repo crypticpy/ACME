@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for first-time nonprofit funding",
+    "access to city funding for new organizations",
+    "establishing consistent funding streams"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "nonprofits that have never received funds from the city",
+    "break into the scene",
+    "establish consistent funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city funding for nonprofits that have never received funds"
+  ],
+  "solutions_proposed": [
+    "provide funds for nonprofits that have never received city funds"
+  ],
+  "cached_at": "2025-06-21T02:06:56.237528",
+  "cache_key": "06f55d9594599276fcb47b78d52439973faf126af7bb851427d0a9fac7cde6dd",
+  "model": "gpt-41"
+}

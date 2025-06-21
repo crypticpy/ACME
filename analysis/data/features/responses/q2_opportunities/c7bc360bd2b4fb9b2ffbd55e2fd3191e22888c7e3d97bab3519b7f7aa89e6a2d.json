@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for more film opportunities",
+    "desire for more theater opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Film and theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more film opportunities",
+    "more theater opportunities"
+  ],
+  "cached_at": "2025-06-21T00:41:26.845830",
+  "cache_key": "c7bc360bd2b4fb9b2ffbd55e2fd3191e22888c7e3d97bab3519b7f7aa89e6a2d",
+  "model": "gpt-41"
+}

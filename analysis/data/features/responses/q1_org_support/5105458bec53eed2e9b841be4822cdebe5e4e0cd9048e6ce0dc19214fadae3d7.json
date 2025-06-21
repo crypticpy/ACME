@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased engagement",
+    "regular communication with arts community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Engage more",
+    "Set up quarterly meetings with the Arts Community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of engagement between ACME and arts community"
+  ],
+  "solutions_proposed": [
+    "Set up quarterly meetings with the Arts Community"
+  ],
+  "cached_at": "2025-06-20T10:35:31.212869",
+  "cache_key": "5105458bec53eed2e9b841be4822cdebe5e4e0cd9048e6ce0dc19214fadae3d7",
+  "model": "gpt-41"
+}

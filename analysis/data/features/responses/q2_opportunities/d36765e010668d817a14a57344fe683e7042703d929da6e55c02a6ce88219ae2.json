@@ -1,0 +1,50 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for cultural opportunities tailored to historically discriminated communities",
+    "Improved outreach and engagement with marginalized groups",
+    "Accessibility and expansion of grant opportunities",
+    "Financial support and health insurance for artists",
+    "Advocacy for improved public transportation",
+    "Desire for a fixed income program for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More opportunities tailored towards historically discriminated communities",
+    "more effort in actually reaching those communities",
+    "More accessible grant opportunities such as the Nexus or Elevate grants",
+    "More financial support & sponsorships towards programs such as HAAM",
+    "provide accessible health insurance to artists",
+    "bulking up the public transportation system within Greater Austin",
+    "A fixed income program for artists so we can continue living in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate",
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "Lack of tailored opportunities for historically discriminated communities",
+    "Insufficient outreach to marginalized groups",
+    "Inaccessible grant opportunities",
+    "Lack of financial support and sponsorships for artist health insurance",
+    "Abysmal and unreliable public transportation",
+    "Lack of fixed income support for artists"
+  ],
+  "solutions_proposed": [
+    "Create more opportunities tailored to LGBTQ, Black, Hispanic, Asian, etc. communities",
+    "Increase outreach and engagement with marginalized communities",
+    "Expand and make grant opportunities like Nexus and Elevate more accessible",
+    "Increase financial support and sponsorships for programs like HAAM to provide health insurance",
+    "Advocate for improved and reliable public transportation in Greater Austin",
+    "Implement a fixed income program for artists"
+  ],
+  "cached_at": "2025-06-21T00:34:21.743096",
+  "cache_key": "d36765e010668d817a14a57344fe683e7042703d929da6e55c02a6ce88219ae2",
+  "model": "gpt-41"
+}

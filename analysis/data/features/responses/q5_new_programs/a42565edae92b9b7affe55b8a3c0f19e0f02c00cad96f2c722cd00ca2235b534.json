@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "city-managed arts showcases",
+    "representation of diverse arts ecosystem",
+    "public funding for cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "city funded and managed showcases",
+    "represent the diverse Austin arts eco-system"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city-managed showcases",
+    "underrepresentation of diversity in arts ecosystem"
+  ],
+  "solutions_proposed": [
+    "city funded and managed showcases that represent the diverse Austin arts eco-system"
+  ],
+  "cached_at": "2025-06-21T02:04:08.893471",
+  "cache_key": "a42565edae92b9b7affe55b8a3c0f19e0f02c00cad96f2c722cd00ca2235b534",
+  "model": "gpt-41"
+}

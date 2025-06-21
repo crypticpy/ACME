@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of communication from ACME",
+    "uncertainty about current ACME activities",
+    "concern over dismantling CAD funding system",
+    "need for community engagement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "the ACME team has not contacted me or my peers",
+    "I am unclear on what the Office is currently doing",
+    "working to dismantle the current CAD funding system",
+    "best to start with connecting with the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to community members",
+    "insufficient communication about current activities"
+  ],
+  "solutions_proposed": [
+    "start with connecting with the community"
+  ],
+  "cached_at": "2025-06-21T01:49:43.781321",
+  "cache_key": "57d00dcbe43cdc13b26c8a61bc1b1c4c4f05a469f1aaf0fc7840698f2100645a",
+  "model": "gpt-41"
+}

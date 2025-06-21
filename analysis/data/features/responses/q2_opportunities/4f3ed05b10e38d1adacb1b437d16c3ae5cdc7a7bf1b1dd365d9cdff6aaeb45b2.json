@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "elevating local creatives",
+    "recognition of local talent",
+    "community visibility for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "platforming local creatives",
+    "making them household names"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "platforming local creatives",
+    "making local creatives household names"
+  ],
+  "cached_at": "2025-06-21T00:36:52.013113",
+  "cache_key": "4f3ed05b10e38d1adacb1b437d16c3ae5cdc7a7bf1b1dd365d9cdff6aaeb45b2",
+  "model": "gpt-41"
+}

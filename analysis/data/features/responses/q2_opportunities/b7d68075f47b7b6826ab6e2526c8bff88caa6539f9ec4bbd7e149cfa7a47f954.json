@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art opportunities",
+    "desire for more film opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More art and film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more art",
+    "more film"
+  ],
+  "cached_at": "2025-06-21T00:49:05.815538",
+  "cache_key": "b7d68075f47b7b6826ab6e2526c8bff88caa6539f9ec4bbd7e149cfa7a47f954",
+  "model": "gpt-41"
+}

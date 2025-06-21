@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "minority artist representation",
+    "mainstream venue access",
+    "year-round inclusion",
+    "limitation of heritage month programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more artists representing minorities",
+    "mainstream venues",
+    "throughout the year",
+    "not only during heritage months"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited representation of minority artists in mainstream venues",
+    "opportunities confined to heritage months"
+  ],
+  "solutions_proposed": [
+    "increase representation of minority artists in mainstream venues throughout the year"
+  ],
+  "cached_at": "2025-06-21T00:43:04.077761",
+  "cache_key": "3bbc2f77c8c1ba91719a507b1cdf0ee3ed67a6bbeedb9706555970519ce8dab5",
+  "model": "gpt-41"
+}

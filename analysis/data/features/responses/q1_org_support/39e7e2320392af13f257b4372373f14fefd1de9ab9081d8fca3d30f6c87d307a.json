@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for sustainable funding",
+    "support for capital improvements",
+    "critique of rental-only funding",
+    "concern over rising long-term costs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "fund sustainable services",
+    "purchase of tools or materials to upgrade or own spaces",
+    "grants cover rental, but not ownership",
+    "this is insane",
+    "increases costs exponentially over time"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "grants cover rental, but not ownership",
+    "increases costs exponentially over time"
+  ],
+  "solutions_proposed": [
+    "fund sustainable services",
+    "allow grants for purchase of tools or materials to upgrade or own spaces"
+  ],
+  "cached_at": "2025-06-20T01:14:48.387843",
+  "cache_key": "39e7e2320392af13f257b4372373f14fefd1de9ab9081d8fca3d30f6c87d307a",
+  "model": "gpt-41"
+}

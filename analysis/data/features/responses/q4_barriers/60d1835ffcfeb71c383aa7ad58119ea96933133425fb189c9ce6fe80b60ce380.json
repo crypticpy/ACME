@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of grant applications",
+    "time-consuming processes",
+    "lack of grant writing experience",
+    "barriers for those outside nonprofit development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grant applications and processes can be very time consuming and difficult",
+    "especially for those who don't have experience in grant writing",
+    "non-profit development world"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time-consuming grant application process",
+    "difficulty of grant applications",
+    "lack of experience in grant writing",
+    "lack of experience in nonprofit development"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:36.425038",
+  "cache_key": "60d1835ffcfeb71c383aa7ad58119ea96933133425fb189c9ce6fe80b60ce380",
+  "model": "gpt-41"
+}

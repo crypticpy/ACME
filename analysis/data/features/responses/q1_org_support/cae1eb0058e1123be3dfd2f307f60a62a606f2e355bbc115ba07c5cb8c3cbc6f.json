@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "affirmation of current efforts",
+    "desire for increased support",
+    "encouragement to continue existing initiatives"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "More of everything you're doing",
+    "Everything all at once all the time",
+    "You're doing great... keep at it"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:42:24.231267",
+  "cache_key": "cae1eb0058e1123be3dfd2f307f60a62a606f2e355bbc115ba07c5cb8c3cbc6f",
+  "model": "gpt-41"
+}

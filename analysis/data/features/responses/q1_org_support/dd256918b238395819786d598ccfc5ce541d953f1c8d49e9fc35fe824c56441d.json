@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding for arts education",
+    "affordability of community spaces",
+    "access to spaces for artists and audiences",
+    "impact of economic factors and gentrification on cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Further fund education for arts programs in school",
+    "making sure that spaces are not only available, but affordable for both artists and enjoyers alike",
+    "keeping said community spaces open despite rising costs due to economic factors and gentrification"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs due to economic factors and gentrification",
+    "lack of affordable spaces for artists and audiences"
+  ],
+  "solutions_proposed": [
+    "Further fund education for arts programs in school",
+    "make spaces available and affordable for both artists and enjoyers",
+    "keep community spaces open despite rising costs"
+  ],
+  "cached_at": "2025-06-20T10:41:42.153170",
+  "cache_key": "dd256918b238395819786d598ccfc5ce541d953f1c8d49e9fc35fe824c56441d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for smaller grants",
+    "support for organizations aiding artists",
+    "support for individual artists and groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "smaller grants",
+    "greater support of organizations that support artists",
+    "individual artists or groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of smaller grants",
+    "insufficient support for organizations that support artists",
+    "insufficient support for individual artists or groups"
+  ],
+  "solutions_proposed": [
+    "offer smaller grants",
+    "increase support for organizations that support artists",
+    "increase support for individual artists or groups"
+  ],
+  "cached_at": "2025-06-21T02:09:17.835109",
+  "cache_key": "e4f67f2a64e11c90ad921f1b843100d08637ffd4ac4c9714cab0ac838790de26",
+  "model": "gpt-41"
+}

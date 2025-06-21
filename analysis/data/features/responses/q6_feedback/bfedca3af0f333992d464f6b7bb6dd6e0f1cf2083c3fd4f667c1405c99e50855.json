@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "neglect of grassroots cultural development",
+    "collapse of major cultural events (SXSW)",
+    "need for mapping and prioritizing cultural infrastructure",
+    "city-owned property underutilization",
+    "urgent preservation of Austin's cultural heritage"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Missing cultural infrastructure needs to be mapped out and prioritized",
+    "ongoing collapse of SXSW",
+    "city has neglected to support the next crop of grassroots cultural statements",
+    "last minutes and it necessitates drastic measures",
+    "helping Rally Austin's efforts to purchase venues",
+    "convert the few remaining, centrally-located underutilized city owned buildings to cultural use"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW",
+    "Rally Austin"
+  ],
+  "barriers_identified": [
+    "neglect of grassroots cultural groups",
+    "lack of support for new cultural statements",
+    "underutilized city-owned buildings"
+  ],
+  "solutions_proposed": [
+    "map out and prioritize missing cultural infrastructure",
+    "help Rally Austin purchase venues for strong cultural groups",
+    "convert centrally-located underutilized city-owned buildings to cultural use"
+  ],
+  "cached_at": "2025-06-21T02:21:18.489232",
+  "cache_key": "bfedca3af0f333992d464f6b7bb6dd6e0f1cf2083c3fd4f667c1405c99e50855",
+  "model": "gpt-41"
+}

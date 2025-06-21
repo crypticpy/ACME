@@ -1,0 +1,52 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for locally-focused outdoor arts events",
+    "Critique of large commercial festivals (ACL) in public spaces",
+    "Need for educational and career development opportunities in the arts",
+    "Call for diversity in music and performance genres",
+    "Accessibility and affordability of cultural events",
+    "Overemphasis on certain venues and genres"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "OUTDOOR plays and events that are FOR Austin and BY Austin",
+    "NOT like ACL which should get the hell out of Zilker already",
+    "learning opportunities (camps/classes) for filmmakers, playwrights, actors, writers, sound engineers, lighting engineers and all of the supporting arts",
+    "assistance and learning on the business side of managing a career in the arts",
+    "spend just one year promoting arts outside of Antone's and the Continental Club",
+    "the kids don't even like rock n roll",
+    "let's try a few new channels",
+    "outdoor, free, FREE, FREE, but not on the ACL model",
+    "Do it on the Zilker Hillside Model and you get my vote"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACL",
+    "Antone's",
+    "Continental Club",
+    "Zilker Hillside Model"
+  ],
+  "barriers_identified": [
+    "Dominance of large commercial festivals (ACL) in public spaces",
+    "Lack of support and visibility for non-mainstream genres and venues",
+    "Insufficient educational and business resources for artists",
+    "Overemphasis on rock n roll and specific venues"
+  ],
+  "solutions_proposed": [
+    "Increase outdoor, locally-focused arts events",
+    "Remove or relocate ACL from Zilker Park",
+    "Provide learning opportunities (camps/classes) for a broad range of arts roles",
+    "Offer business-side assistance for artists",
+    "Promote arts outside of well-known venues like Antone's and the Continental Club",
+    "Diversify music and performance offerings (e.g., classical music, dixieland jazz)",
+    "Adopt the Zilker Hillside Model for free, accessible events"
+  ],
+  "cached_at": "2025-06-21T00:43:12.494648",
+  "cache_key": "0cc2091a126e0db017af164f8cd76fd11ec00a6c02bfd052cee4970883a4d1b8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about fairness in opportunities",
+    "opposition to identity-based selection",
+    "desire for merit-based access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "level playing field for opportunities",
+    "opportunities not based on identity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "opportunities based on identity"
+  ],
+  "solutions_proposed": [
+    "level playing field for opportunities",
+    "opportunities not based on identity"
+  ],
+  "cached_at": "2025-06-21T00:45:33.804868",
+  "cache_key": "d58d50ff81abb7b72e424c15dc1704ec251c820a7cd02760d76f8e176d1bf56f",
+  "model": "gpt-41"
+}

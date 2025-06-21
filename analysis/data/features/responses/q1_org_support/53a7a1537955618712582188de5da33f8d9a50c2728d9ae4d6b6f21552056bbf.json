@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for financial funding",
+    "marketing and promotional support",
+    "increasing exposure for organizations",
+    "mentorship and connections between emerging and established organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Financial funding of course",
+    "marketing resources",
+    "exposure",
+    "connecting emerging organizations with established orgs",
+    "mentorship situation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial funding",
+    "insufficient marketing resources",
+    "limited exposure",
+    "lack of connections between emerging and established organizations"
+  ],
+  "solutions_proposed": [
+    "provide financial funding",
+    "offer marketing resources",
+    "increase exposure",
+    "facilitate mentorship between emerging and established organizations"
+  ],
+  "cached_at": "2025-06-20T01:14:08.225208",
+  "cache_key": "53a7a1537955618712582188de5da33f8d9a50c2728d9ae4d6b6f21552056bbf",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for visual arts",
+    "resource allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More funds for visual arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for visual arts"
+  ],
+  "solutions_proposed": [
+    "increase funds for visual arts"
+  ],
+  "cached_at": "2025-06-21T01:06:10.374363",
+  "cache_key": "4c5d99dd22d8510af9486c21d5bb8c326184b8fb4edcdb4b1ad3d474a9250d7f",
+  "model": "gpt-41"
+}

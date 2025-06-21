@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for artists/cultural workers",
+    "need for mixed use venues",
+    "lack of affordable performance space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "affordable housing",
+    "mixed use venue(s)",
+    "affordable performance space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing",
+    "inadequate mixed use venues",
+    "insufficient affordable performance space"
+  ],
+  "solutions_proposed": [
+    "offer affordable housing",
+    "create mixed use venue(s)",
+    "provide affordable performance space"
+  ],
+  "cached_at": "2025-06-21T01:50:14.359498",
+  "cache_key": "cb9dfd5647def68d6b3225e78ff0bd47f95f5f90016d4b7876244426e5f4bf4f",
+  "model": "gpt-41"
+}

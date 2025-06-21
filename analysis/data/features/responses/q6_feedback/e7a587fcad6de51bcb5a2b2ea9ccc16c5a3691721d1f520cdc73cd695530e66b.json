@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "department consolidation harms creative community",
+    "reduction in grants and opportunities",
+    "importance of creatives in driving culture",
+    "disconnect between policy and cultural vibrancy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Rolling different departments into ONE cultural arts department with fewer grants and opportunities has really hurt the creative community at large",
+    "If Austin wants to build having a vibrant and healthy music, theater, arts and culture",
+    "prech does not drive culture. Creatives do."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fewer grants and opportunities",
+    "department consolidation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:22:51.106235",
+  "cache_key": "e7a587fcad6de51bcb5a2b2ea9ccc16c5a3691721d1f520cdc73cd695530e66b",
+  "model": "gpt-41"
+}

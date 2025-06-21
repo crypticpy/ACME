@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for unique ideas",
+    "platforms for new artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "continue to support unique ideas",
+    "giving new artists a platform to perform"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support unique ideas",
+    "give new artists a platform to perform"
+  ],
+  "cached_at": "2025-06-20T10:34:12.660382",
+  "cache_key": "10d0f0f50af85c694164c1c049bf419665cc6671d20a55f5cdd4f5a17c3a6f4c",
+  "model": "gpt-41"
+}

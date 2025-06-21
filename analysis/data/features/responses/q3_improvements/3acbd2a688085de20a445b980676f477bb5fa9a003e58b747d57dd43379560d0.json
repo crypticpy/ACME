@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "self-identified lack of knowledge",
+    "hesitancy to provide uninformed feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "I do not believe that I know enough",
+    "offer an educated answer"
+  ],
+  "intent": "self-limitation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information or awareness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:03:24.705411",
+  "cache_key": "3acbd2a688085de20a445b980676f477bb5fa9a003e58b747d57dd43379560d0",
+  "model": "gpt-41"
+}

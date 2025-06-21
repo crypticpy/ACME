@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "diversity and inclusion",
+    "expanding access",
+    "broader artistic representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "open them up to more diverse group of people",
+    "other aspects of art and music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited diversity in participation",
+    "narrow focus on certain aspects of art and music"
+  ],
+  "solutions_proposed": [
+    "open programs to a more diverse group of people",
+    "include other aspects of art and music"
+  ],
+  "cached_at": "2025-06-21T01:08:27.122340",
+  "cache_key": "0e13ec0177866bad7b62d5f839ca495fe5652997f32b3633c21a32c743e4d784",
+  "model": "gpt-41"
+}

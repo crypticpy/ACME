@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "financial assistance",
+    "scholarship opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "scholarships for new emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of scholarships for emerging artists"
+  ],
+  "solutions_proposed": [
+    "offer scholarships for new emerging artists"
+  ],
+  "cached_at": "2025-06-21T02:05:34.551446",
+  "cache_key": "199270b86ccfbb72783be945af73b737fcc4957981264fea2e19fa719ad00020",
+  "model": "gpt-41"
+}

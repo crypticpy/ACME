@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "geographic inequity in access (North Austin)",
+    "support for emerging/part-time artists",
+    "preservation of Austin's unique creative identity",
+    "concern about formalization and bureaucracy in arts programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more activity/access in north austin",
+    "program targeted toward artists that are emerging (may not be full time)",
+    "preservation of the small, quirky, entrepreneurial austin creative spirit",
+    "vs. formal, tech-y, bureaucratic stuff"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of activity/access in North Austin",
+    "underrepresentation of programs for emerging/part-time artists",
+    "increasing formalization and bureaucracy in cultural programming"
+  ],
+  "solutions_proposed": [
+    "increase activity/access in North Austin",
+    "create programs targeted toward emerging/part-time artists",
+    "preserve small, quirky, entrepreneurial Austin creative spirit"
+  ],
+  "cached_at": "2025-06-21T02:00:05.266987",
+  "cache_key": "0d91e53441a4a6b3e412cc64b9d7342794c7243d4ddf5f04969006f7ca392efc",
+  "model": "gpt-41"
+}

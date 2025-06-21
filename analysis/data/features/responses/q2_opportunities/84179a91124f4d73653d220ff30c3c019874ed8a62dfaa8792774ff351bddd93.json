@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "access to public spaces for artists",
+    "use of unused or underutilized spaces",
+    "support for artist work, rehearsal, and performance infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "ability for artists to use public and unused spaces",
+    "work/rehearsal/performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to public and unused spaces for artists"
+  ],
+  "solutions_proposed": [
+    "allow artists to use public and unused spaces for work, rehearsal, and performances"
+  ],
+  "cached_at": "2025-06-21T00:48:35.199594",
+  "cache_key": "84179a91124f4d73653d220ff30c3c019874ed8a62dfaa8792774ff351bddd93",
+  "model": "gpt-41"
+}

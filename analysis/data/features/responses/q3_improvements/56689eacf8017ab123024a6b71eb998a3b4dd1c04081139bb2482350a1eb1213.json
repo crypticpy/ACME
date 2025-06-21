@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased transparency",
+    "need for predictable funding",
+    "future planning for funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "transparency",
+    "a way to forecast future funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency",
+    "inability to forecast future funding"
+  ],
+  "solutions_proposed": [
+    "increase transparency",
+    "provide a way to forecast future funding"
+  ],
+  "cached_at": "2025-06-21T01:16:01.950724",
+  "cache_key": "56689eacf8017ab123024a6b71eb998a3b4dd1c04081139bb2482350a1eb1213",
+  "model": "gpt-41"
+}

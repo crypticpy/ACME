@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of awareness of ACME",
+    "internal communication gaps within City of Austin",
+    "need for outreach and publicity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I've never heard of ACME until this survey",
+    "I'm a COA employee",
+    "get the word out!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness even among city employees"
+  ],
+  "solutions_proposed": [
+    "get the word out"
+  ],
+  "cached_at": "2025-06-20T10:24:03.797106",
+  "cache_key": "8afd63fcad07c10a0c7d000f864523b0d3fb83c14934939422f34fa845d82b5d",
+  "model": "gpt-41"
+}

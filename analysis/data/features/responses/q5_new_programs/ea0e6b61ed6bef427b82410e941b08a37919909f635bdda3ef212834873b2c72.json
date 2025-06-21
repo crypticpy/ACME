@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grant support services",
+    "lack of assistance with grant applications"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "assistance with grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support in grant application process"
+  ],
+  "solutions_proposed": [
+    "offer assistance with grants"
+  ],
+  "cached_at": "2025-06-21T01:54:13.199629",
+  "cache_key": "ea0e6b61ed6bef427b82410e941b08a37919909f635bdda3ef212834873b2c72",
+  "model": "gpt-41"
+}

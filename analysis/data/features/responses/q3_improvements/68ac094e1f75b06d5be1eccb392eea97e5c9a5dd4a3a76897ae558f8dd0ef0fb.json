@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding criteria",
+    "program quality",
+    "community impact"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding based on the quality of programming",
+    "impact on the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "funding based on the quality of programming",
+    "funding based on impact on the community"
+  ],
+  "cached_at": "2025-06-21T01:17:10.441757",
+  "cache_key": "68ac094e1f75b06d5be1eccb392eea97e5c9a5dd4a3a76897ae558f8dd0ef0fb",
+  "model": "gpt-41"
+}

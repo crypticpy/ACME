@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "critical need for continued arts funding",
+    "preservation of existing arts organizations and infrastructure",
+    "arts as essential to Austin's identity and community well-being",
+    "public responsibility for supporting the arts",
+    "urgency due to a pivotal moment for the arts community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "stress how important I believe it is that the arts (of all types) continue to be funded in Austin",
+    "especially our existing organizations and infrastructure",
+    "we are at a critical juncture, and now is the time to double down",
+    "preserve the creative soul of our community",
+    "arts enrich so many peoples lives",
+    "I would hate to see our art scene die or disappear",
+    "access to funding and resources",
+    "public responsibility to ensure that the arts survive and thrive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential loss of funding and resources for the arts"
+  ],
+  "solutions_proposed": [
+    "double down on funding for the arts",
+    "ensure continued access to funding and resources"
+  ],
+  "cached_at": "2025-06-21T02:13:26.642486",
+  "cache_key": "1e4eca320b7534a9852eb223616cf7e10e184f9c98f6604ec2a084a9e3b55235",
+  "model": "gpt-41"
+}

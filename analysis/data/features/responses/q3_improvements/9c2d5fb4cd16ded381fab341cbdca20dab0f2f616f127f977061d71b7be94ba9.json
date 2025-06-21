@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding structures prioritize compliance over creativity",
+    "need for clearer, merit-based evaluation criteria",
+    "lack of philosophical and artistic diversity on jury panels",
+    "insufficient support for mid-career and future-facing artists",
+    "overemphasis on identity or victim-centered frameworks",
+    "desire for plurality of narratives and aesthetics"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Current funding structures often reward compliance over creativity",
+    "Clearer, merit-based evaluation criteria that go beyond identity or messaging",
+    "Jury panels with broader philosophical and artistic diversity",
+    "Support for mid-career and future-facing artists",
+    "not just emerging voices or those fitting into victim-centered frameworks",
+    "A 'yes, and' approach that welcomes a plurality of narratives and aesthetics"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding structures reward compliance over creativity",
+    "evaluation criteria limited to identity or messaging",
+    "jury panels lack philosophical and artistic diversity",
+    "support focused on emerging or victim-centered artists"
+  ],
+  "solutions_proposed": [
+    "implement clearer, merit-based evaluation criteria that go beyond identity or messaging",
+    "form jury panels with broader philosophical and artistic diversity",
+    "increase support for mid-career and future-facing artists",
+    "adopt a 'yes, and' approach that welcomes a plurality of narratives and aesthetics"
+  ],
+  "cached_at": "2025-06-21T00:57:35.605873",
+  "cache_key": "9c2d5fb4cd16ded381fab341cbdca20dab0f2f616f127f977061d71b7be94ba9",
+  "model": "gpt-41"
+}

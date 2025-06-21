@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of fair compensation",
+    "prevalence of informal agreements",
+    "financial insecurity for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Limited opportunities that are fairly paid",
+    "limited financial resources in general",
+    "a culture of working with no contracts, just handshakes",
+    "mistaking a bar tab with fair payment"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited fairly paid opportunities",
+    "limited financial resources",
+    "lack of formal contracts",
+    "inadequate compensation practices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:18.486953",
+  "cache_key": "68a5ce40cb7373a120a8bf0ae139a022d8a0ae67c4a60e5630d55836f88cd7c9",
+  "model": "gpt-41"
+}

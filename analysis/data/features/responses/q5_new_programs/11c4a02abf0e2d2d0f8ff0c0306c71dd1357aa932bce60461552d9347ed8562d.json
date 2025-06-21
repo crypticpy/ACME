@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with tourism organizations",
+    "marketing arts events outside Austin",
+    "increasing audience and revenue for local arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "work with Visit Austin",
+    "market arts events outside of Austin",
+    "bring more people and dollars in"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Visit Austin"
+  ],
+  "barriers_identified": [
+    "limited marketing of arts events beyond Austin"
+  ],
+  "solutions_proposed": [
+    "collaborate with Visit Austin to market arts events outside the city"
+  ],
+  "cached_at": "2025-06-21T02:00:19.721848",
+  "cache_key": "11c4a02abf0e2d2d0f8ff0c0306c71dd1357aa932bce60461552d9347ed8562d",
+  "model": "gpt-41"
+}

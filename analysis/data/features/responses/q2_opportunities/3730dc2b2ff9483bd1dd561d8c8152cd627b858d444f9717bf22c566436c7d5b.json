@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for more experimental arts",
+    "oversaturation of mainstream/pop culture",
+    "need for creative space and innovation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More experimental arts",
+    "The pop world has already saturated everything",
+    "We need the space to create new ideas"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "oversaturation of pop culture",
+    "lack of space for new ideas"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for experimental arts",
+    "create space for new ideas"
+  ],
+  "cached_at": "2025-06-21T00:35:37.421281",
+  "cache_key": "3730dc2b2ff9483bd1dd561d8c8152cd627b858d444f9717bf22c566436c7d5b",
+  "model": "gpt-41"
+}

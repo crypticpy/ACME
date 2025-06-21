@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "guaranteed income for artists",
+    "direct funding for individual artists",
+    "support for improving artist workspaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "guaranteed income program",
+    "funding for individual artists",
+    "improve their work/studio"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of guaranteed income",
+    "insufficient funding for individual artists to improve workspaces"
+  ],
+  "solutions_proposed": [
+    "implement a guaranteed income program",
+    "provide funding for individual artists to improve their work/studio"
+  ],
+  "cached_at": "2025-06-21T02:02:49.982972",
+  "cache_key": "b76075082d9973191121d0b41fc08cefcc6b74401b05784907c83bba3325014f",
+  "model": "gpt-41"
+}

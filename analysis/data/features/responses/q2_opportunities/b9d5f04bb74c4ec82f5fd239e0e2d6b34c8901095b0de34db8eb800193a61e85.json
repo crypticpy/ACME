@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for more literary events",
+    "interest in literary arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Literary readings"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More literary readings"
+  ],
+  "cached_at": "2025-06-21T00:43:31.739132",
+  "cache_key": "b9d5f04bb74c4ec82f5fd239e0e2d6b34c8901095b0de34db8eb800193a61e85",
+  "model": "gpt-41"
+}

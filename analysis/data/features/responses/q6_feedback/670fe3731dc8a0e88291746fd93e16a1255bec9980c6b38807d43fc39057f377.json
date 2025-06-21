@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "preference for in-person discussion",
+    "willingness to provide feedback",
+    "limitations of written survey format"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Can offer at focus group"
+  ],
+  "intent": "offer_future_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "feedback not provided in written survey"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:40.482171",
+  "cache_key": "670fe3731dc8a0e88291746fd93e16a1255bec9980c6b38807d43fc39057f377",
+  "model": "gpt-41"
+}

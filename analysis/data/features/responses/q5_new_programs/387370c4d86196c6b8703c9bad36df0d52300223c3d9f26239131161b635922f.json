@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "funding for outreach",
+    "inclusion of underrepresented groups",
+    "arts group engagement",
+    "participation in cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funds for arts groups",
+    "bring in and reach out to underrepresented groups",
+    "participate in their activities and events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to underrepresented groups"
+  ],
+  "solutions_proposed": [
+    "provide funds for arts groups to conduct outreach and engagement with underrepresented groups"
+  ],
+  "cached_at": "2025-06-21T02:04:33.342820",
+  "cache_key": "387370c4d86196c6b8703c9bad36df0d52300223c3d9f26239131161b635922f",
+  "model": "gpt-41"
+}

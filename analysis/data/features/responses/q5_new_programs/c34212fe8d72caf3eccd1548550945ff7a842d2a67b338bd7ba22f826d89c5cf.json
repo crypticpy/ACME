@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "Reference to previous sections for details",
+    "Non-repetition of information",
+    "Reliance on prior survey answers"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Listed in section 15. & 24."
+  ],
+  "intent": "refer_to_previous_response",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:06:19.663050",
+  "cache_key": "c34212fe8d72caf3eccd1548550945ff7a842d2a67b338bd7ba22f826d89c5cf",
+  "model": "gpt-41"
+}

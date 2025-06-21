@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in cultural opportunities",
+    "interest in historical opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Culture and history"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:44:25.979139",
+  "cache_key": "3b8c90e5a865b7c3edf949ccbc724accced416b91d4f46bf2a6770d5dec5fc13",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "funding for organizations",
+    "support for free arts access",
+    "community inclusion in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding support",
+    "organizations who provide free access to the arts",
+    "allowing the whole community to be a part of what Austin has to offer"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for organizations providing free arts access"
+  ],
+  "solutions_proposed": [
+    "increase funding support for organizations providing free access to the arts"
+  ],
+  "cached_at": "2025-06-20T10:23:59.574780",
+  "cache_key": "137f48bbaacdaa2f13280a3afe1240e91758386ecc8d34f3fdf50ec3675374cc",
+  "model": "gpt-41"
+}

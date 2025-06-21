@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "interest in audio drama programming",
+    "need for film and TV opportunities for actors",
+    "expansion of performing arts offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Audio drama, of course",
+    "film and TV work for actors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer audio drama programs",
+    "Provide film and TV work opportunities for actors"
+  ],
+  "cached_at": "2025-06-21T02:03:47.934566",
+  "cache_key": "69ac7e93ee72ca99b249793be234248520458212ba29e3fc77f16335389030a6",
+  "model": "gpt-41"
+}

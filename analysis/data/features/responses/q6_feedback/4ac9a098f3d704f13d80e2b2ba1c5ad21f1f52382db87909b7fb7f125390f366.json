@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusivity for underrepresented and immigrant artists",
+    "accessibility of programs and processes",
+    "support for emerging artists",
+    "multilingual outreach",
+    "platforms for non-established creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more focus on inclusivity",
+    "emerging, immigrant, and underrepresented artists who often feel overlooked",
+    "creating more open calls",
+    "simplifying application processes",
+    "offering multilingual outreach",
+    "platforms where all creative voices can be heard",
+    "not just those already established"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "feeling overlooked by current programs",
+    "complex application processes",
+    "lack of multilingual outreach",
+    "limited platforms for non-established artists"
+  ],
+  "solutions_proposed": [
+    "creating more open calls",
+    "simplifying application processes",
+    "offering multilingual outreach",
+    "investing in initiatives and creating platforms for all creative voices"
+  ],
+  "cached_at": "2025-06-21T02:22:53.458769",
+  "cache_key": "4ac9a098f3d704f13d80e2b2ba1c5ad21f1f52382db87909b7fb7f125390f366",
+  "model": "gpt-41"
+}

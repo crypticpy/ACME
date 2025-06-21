@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist collaboration",
+    "cross-disciplinary arts",
+    "community building among artists"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more collaboration between artists",
+    "different types of artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more collaboration between artists (maybe of different types of artists)"
+  ],
+  "cached_at": "2025-06-21T00:51:50.263655",
+  "cache_key": "e90e6f9122c4b6a9a59628df66e556ea395da39f734f9743555bb3557ba37f4d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about accountability in funding",
+    "opposition to funding for-profit businesses",
+    "opposition to funding non-arts-specific nonprofits",
+    "resource diversion from arts mission-driven nonprofits",
+    "critique of the Long Center's involvement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Get the Long Center out of it",
+    "stop funding for profit businesses",
+    "don't fund nonprofits that aren't arts specific",
+    "reduce accountability drastically",
+    "taking resources away from arts mission driven nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center"
+  ],
+  "barriers_identified": [
+    "reduced accountability due to funding non-arts organizations and for-profits",
+    "resources diverted from arts mission-driven nonprofits"
+  ],
+  "solutions_proposed": [
+    "Remove the Long Center from funding programs",
+    "Stop funding for-profit businesses",
+    "Stop funding nonprofits that aren't arts specific"
+  ],
+  "cached_at": "2025-06-21T01:11:04.118874",
+  "cache_key": "2ab4a6fa131062105eaae1f046b86d42b53dcb413b7782e711a6efe1de69c4e0",
+  "model": "gpt-41"
+}

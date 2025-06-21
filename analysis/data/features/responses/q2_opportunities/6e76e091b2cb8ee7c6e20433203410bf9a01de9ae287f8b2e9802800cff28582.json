@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for family-friendly arts and entertainment",
+    "interest in South Asian cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more family friendly arts and entertainment",
+    "more South Asian cultural opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase family friendly arts and entertainment",
+    "expand South Asian cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:39:30.760555",
+  "cache_key": "6e76e091b2cb8ee7c6e20433203410bf9a01de9ae287f8b2e9802800cff28582",
+  "model": "gpt-41"
+}

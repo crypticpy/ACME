@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers",
+    "payment requirements",
+    "accessibility challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Cost",
+    "payment",
+    "accessibility"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Cost",
+    "payment",
+    "accessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:46.941102",
+  "cache_key": "e547d6c78b9183c5d7d53278bdac12c156f4fd52f5718a3dc043ce67f08c28ac",
+  "model": "gpt-41"
+}

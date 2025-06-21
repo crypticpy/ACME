@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "capacity building for organizations",
+    "funding for venues serving audiences",
+    "support for struggling artistic and cultural groups",
+    "barriers to fundraising knowledge and inclusion"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding and information that helps organizations grow their own abilities / capacities to fund raise and become self sustaining",
+    "fund more venues that serve an audience",
+    "support the real struggling artistic and cultural groups",
+    "those who have more difficult times raising funds to support their orgs or themselves because they do not know how or are not considered in the main"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of fundraising knowledge",
+    "not being considered in the main",
+    "difficulty raising funds"
+  ],
+  "solutions_proposed": [
+    "provide funding and information for capacity building",
+    "fund more venues that serve an audience",
+    "support groups that struggle to raise funds due to lack of knowledge or inclusion"
+  ],
+  "cached_at": "2025-06-20T10:43:24.931126",
+  "cache_key": "ae038d59ca7c41e39400a7e26ac97b8e29b6285b0b8a9e99f13ec52e8b5953c0",
+  "model": "gpt-41"
+}

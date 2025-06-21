@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more cultural food events",
+    "interest in multicultural experiences",
+    "community gathering through food"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cultural food festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the number of cultural food festivals"
+  ],
+  "cached_at": "2025-06-21T00:33:21.099762",
+  "cache_key": "2efeb22559c11c858fb37553eeca21eb2cb193f7ec1ff1697ebd04fe7a28ee7e",
+  "model": "gpt-41"
+}

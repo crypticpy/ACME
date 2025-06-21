@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "resource sharing",
+    "collaboration among organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Sharing Resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Sharing Resources"
+  ],
+  "cached_at": "2025-06-20T10:36:30.254818",
+  "cache_key": "09e9b6b254ba9631df72edc6c92801531ca4f03f0898003dd30727dccad46bc0",
+  "model": "gpt-41"
+}

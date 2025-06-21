@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about reinstating matching fund requirement",
+    "barriers for independent artists",
+    "equity in funding processes",
+    "impact on underrepresented and underfunded groups",
+    "personal experience as a Black woman artist"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Do not revert to creating more barriers for independent artists to seek funding",
+    "I was around when there was a matching fund",
+    "I am hearing you're bringing that back",
+    "This is not an equity means to support underrepresented and underfunded people like myself (Black women)"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "matching fund requirement",
+    "barriers for independent artists",
+    "lack of equitable support for underrepresented and underfunded people"
+  ],
+  "solutions_proposed": [
+    "Do not bring back the matching fund requirement"
+  ],
+  "cached_at": "2025-06-20T10:22:20.352890",
+  "cache_key": "45a9e2edd4e52ca12cffe8bd25d8f8e18942c9e5a7ca599e64018a04575e6c39",
+  "model": "gpt-41"
+}

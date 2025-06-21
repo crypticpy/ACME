@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for permanent folk art exhibition space",
+    "representation of diverse cultures",
+    "public access to folk art",
+    "support for folk art organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "A place for folkart to be exhibited to the public",
+    "The Austin Friends Of Folkart would like a permanent place",
+    "exhibit changing cultural folkart",
+    "represents the many cultures that reside in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Friends Of Folkart"
+  ],
+  "barriers_identified": [
+    "lack of permanent exhibition space for folk art"
+  ],
+  "solutions_proposed": [
+    "create a permanent place to exhibit changing cultural folkart representing Austin's many cultures"
+  ],
+  "cached_at": "2025-06-21T00:38:46.464120",
+  "cache_key": "62ec434338e6f36bcee5db16657ca12c948be763a6f9c58b3867728e864f306c",
+  "model": "gpt-41"
+}

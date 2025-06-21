@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived corruption and favoritism in funding allocation",
+    "lack of impact from funded organizations",
+    "unsustainable funding practices",
+    "disconnect between funding decisions and actual arts needs",
+    "call for accountability and oversight"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "art to matter again",
+    "action taken against the Museum of Human Achievement for receiving nearly 700k by gaming the system",
+    "staff not allow for double dipping and having their friends receive the largest awards",
+    "the people that agree with them seemed to have inherited the purse",
+    "funds made next to no impact",
+    "not sustainable in any way",
+    "arts are the single hardest thing to generate income for",
+    "art matters, who it reaches matters"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Museum of Human Achievement"
+  ],
+  "barriers_identified": [
+    "perceived favoritism and nepotism in funding decisions",
+    "organizations receiving funds without delivering impact",
+    "unsustainable funding models that set organizations up for failure"
+  ],
+  "solutions_proposed": [
+    "take action against organizations that game the system",
+    "prevent staff from enabling double dipping and favoritism",
+    "ensure funding models are sustainable and based on actual organizational capacity"
+  ],
+  "cached_at": "2025-06-21T00:54:40.198053",
+  "cache_key": "089a1c6ee1eef1e694e38b5e10a0f848c0b3c47fb359e6fa3b4be59db2734312",
+  "model": "gpt-41"
+}

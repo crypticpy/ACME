@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "anonymity in participation",
+    "fear of retaliation in funding processes",
+    "focus group recruitment methods"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I would like to be anonymous on this survey",
+    "put a call out for focus groups instead of having people submit their email",
+    "I have a fear of retaliation for future funding opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of anonymity in survey participation",
+    "fear of retaliation affecting willingness to participate"
+  ],
+  "solutions_proposed": [
+    "put a call out for focus groups instead of having people submit their email on a survey"
+  ],
+  "cached_at": "2025-06-21T02:10:29.689244",
+  "cache_key": "a4eca677fca63fb0295ace0f522eadb2a6af72ab021288466d6f185e32ed6220",
+  "model": "gpt-41"
+}

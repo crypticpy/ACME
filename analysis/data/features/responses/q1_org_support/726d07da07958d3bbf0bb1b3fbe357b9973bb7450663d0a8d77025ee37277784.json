@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "strategic planning",
+    "departmental improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Produce a strategic plan for the department"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Produce a strategic plan for the department"
+  ],
+  "cached_at": "2025-06-20T10:24:07.978178",
+  "cache_key": "726d07da07958d3bbf0bb1b3fbe357b9973bb7450663d0a8d77025ee37277784",
+  "model": "gpt-41"
+}

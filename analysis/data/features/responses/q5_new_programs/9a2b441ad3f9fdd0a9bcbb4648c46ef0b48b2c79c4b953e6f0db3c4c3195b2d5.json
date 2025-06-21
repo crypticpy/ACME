@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for small-scale cultural projects",
+    "support for local events",
+    "access to and use of public spaces for culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "programs to support small projects",
+    "events",
+    "use of public spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for small projects",
+    "limited opportunities for events",
+    "insufficient access to public spaces"
+  ],
+  "solutions_proposed": [
+    "offer programs to support small projects",
+    "offer programs to support events",
+    "offer programs to support use of public spaces"
+  ],
+  "cached_at": "2025-06-21T02:05:32.557993",
+  "cache_key": "9a2b441ad3f9fdd0a9bcbb4648c46ef0b48b2c79c4b953e6f0db3c4c3195b2d5",
+  "model": "gpt-41"
+}

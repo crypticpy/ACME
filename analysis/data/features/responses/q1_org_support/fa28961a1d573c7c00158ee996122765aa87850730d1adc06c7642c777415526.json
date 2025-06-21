@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "importance of trust-building for new agencies",
+    "need for clear communication",
+    "visibility within the creative community",
+    "partnership and collaboration with creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "vital that it\u2019s established as a trustworthy and committed partner",
+    "co-contributing branch with the creative community",
+    "Clear Communication and visibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of trust in new agency",
+    "insufficient communication",
+    "low visibility"
+  ],
+  "solutions_proposed": [
+    "establish trustworthiness and commitment",
+    "be a co-contributing partner with the creative community",
+    "improve clear communication",
+    "increase visibility"
+  ],
+  "cached_at": "2025-06-20T10:42:19.419548",
+  "cache_key": "fa28961a1d573c7c00158ee996122765aa87850730d1adc06c7642c777415526",
+  "model": "gpt-41"
+}

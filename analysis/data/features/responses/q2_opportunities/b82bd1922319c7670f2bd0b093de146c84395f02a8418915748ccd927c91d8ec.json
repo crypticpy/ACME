@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for world-class museums",
+    "interest in design-focused cultural spaces"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "World class museums",
+    "design center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase world class museums",
+    "Establish a design center"
+  ],
+  "cached_at": "2025-06-21T00:31:15.826169",
+  "cache_key": "b82bd1922319c7670f2bd0b093de146c84395f02a8418915748ccd927c91d8ec",
+  "model": "gpt-41"
+}

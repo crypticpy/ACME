@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for free cultural events",
+    "interest in live theatre",
+    "accessibility through cost reduction"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Free live theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of live theatre"
+  ],
+  "solutions_proposed": [
+    "offer free live theatre"
+  ],
+  "cached_at": "2025-06-21T00:28:13.359082",
+  "cache_key": "f3a43bf30649d48e4783d8cf280ebc953b6a0c2319df4a08bdf4d892a8ca79a7",
+  "model": "gpt-41"
+}

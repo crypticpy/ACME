@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost of living as a barrier to cultural participation",
+    "transportation limitations affecting event access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "cost of living",
+    "poor public transportation options",
+    "impede access to the events and activities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living",
+    "poor public transportation options"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:40.663717",
+  "cache_key": "eb1ff17d491a5afc7b61b8f7580168fda19114813248248ce35cfcd4c2449087",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for expertise in cultural funding",
+    "importance of national best practices",
+    "strategic planning for cultural infrastructure",
+    "adaptation to a dynamic and changing sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "bring a depth of knowledge, understanding and leadership",
+    "undergirds national best practices for cultural funding",
+    "cultural infrastructure resource management",
+    "strategic planning for a dynamic, quickly changing cultural sector"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "bring a depth of knowledge, understanding and leadership",
+    "implement national best practices for cultural funding",
+    "improve cultural infrastructure resource management",
+    "engage in strategic planning for a dynamic, quickly changing cultural sector"
+  ],
+  "cached_at": "2025-06-20T10:31:45.889734",
+  "cache_key": "ce409cce24be2631c33414d6c57eeff3a33c669fe6a736d359589cf21103184a",
+  "model": "gpt-41"
+}

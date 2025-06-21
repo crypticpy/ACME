@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for flexible and rapid-response funding",
+    "Transparency and clarity in funding eligibility (underrepresented vs. all artists)",
+    "Continuous grant cycle operation",
+    "Data-driven grant evaluation (attendee and artist costs)",
+    "Simplification and best practices from other cities",
+    "Grant amount flexibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Keep a portion of the funding set aside each time for last minute funding",
+    "Not every great creative opportunity comes months in advance",
+    "the whole funding would probably work better as community recommendation, staff edited, reviewed & approved by arts commission",
+    "Include # of attendees in grant application, and cost per attendee, and cost per artist, and portion going to artists/creatives",
+    "Have more flexibility in amounts, maybe minimums/maximums, but not everyone needs 5k",
+    "The grant cycle should never be down",
+    "Decide if this is a fund for historically underrepresented artists or all austin artists",
+    "Look at best practices from other cities and keep it simple"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Missed opportunities due to inflexible funding cycles",
+    "Lack of clarity about eligibility for underrepresented vs. all artists",
+    "Grant cycle downtime disrupting access",
+    "Inflexible grant amounts not matching project needs"
+  ],
+  "solutions_proposed": [
+    "Set aside funding for last minute projects that staff can approve or recommend",
+    "Use community recommendation, staff editing, and arts commission approval for funding decisions",
+    "Require grant applications to include attendee numbers, cost per attendee, cost per artist, and portion going to artists",
+    "Allow more flexibility in grant amounts with possible minimums/maximums",
+    "Ensure the grant cycle is always operational during revisions",
+    "Clarify whether funding is for all Austin artists or only historically underrepresented artists, and adjust application language or scoring accordingly",
+    "Adopt best practices from other cities and simplify the process"
+  ],
+  "cached_at": "2025-06-21T01:18:30.943431",
+  "cache_key": "7326543441c6d45ce3aa8b85de5969685ce4a62160d04d1b6bed0d5157559584",
+  "model": "gpt-41"
+}

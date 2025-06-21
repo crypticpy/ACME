@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for individualized processes",
+    "application process improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More individualised application process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of individualized application process"
+  ],
+  "solutions_proposed": [
+    "More individualised application process"
+  ],
+  "cached_at": "2025-06-21T00:59:26.983311",
+  "cache_key": "3620516490ddbf436ab084f10dd38716138c2ba54187f0ec1730aece40c68648",
+  "model": "gpt-41"
+}

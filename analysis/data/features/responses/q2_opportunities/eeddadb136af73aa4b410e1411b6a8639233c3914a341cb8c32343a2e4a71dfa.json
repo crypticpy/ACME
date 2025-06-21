@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for experimental and innovative art",
+    "critique of dominant narratives in the arts",
+    "support for sincerity, honesty, and intellectual depth",
+    "preference for work not centered on identity politics or social trauma",
+    "need for support of underrepresented ideas"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more work that doesn\u2019t reinforce any particular narrative",
+    "projects that elevate sincerity, honesty, complexity, rationality, humor, and intellectual depth",
+    "space for experimental work",
+    "not defined by identity politics or social trauma",
+    "curiosity, joy, and the sublime",
+    "support for underrepresented ideas, not just underrepresented identities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "focus on reinforcing particular narratives",
+    "emphasis on identity politics or social trauma over other themes",
+    "lack of support for underrepresented ideas"
+  ],
+  "solutions_proposed": [
+    "create space for experimental work",
+    "support projects that elevate sincerity, honesty, complexity, rationality, humor, and intellectual depth",
+    "prioritize support for underrepresented ideas, not just underrepresented identities"
+  ],
+  "cached_at": "2025-06-21T00:27:52.584641",
+  "cache_key": "eeddadb136af73aa4b410e1411b6a8639233c3914a341cb8c32343a2e4a71dfa",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "supportive infrastructure for existing arts",
+    "collaboration among creatives and organizations",
+    "improving communication within the arts community",
+    "expanding arts outreach to overlooked communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Austin is brimming with arts",
+    "more supportive infrastructures for what is already happening",
+    "a way for current creatives & orgs to work in collaboration",
+    "communicate with more clarity",
+    "expanded reach into communities who are often overlooked in arts-directed comms"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration among creatives and organizations",
+    "unclear communication within the arts community",
+    "overlooked communities in arts-directed communications"
+  ],
+  "solutions_proposed": [
+    "more supportive infrastructures for existing arts",
+    "facilitate collaboration and clearer communication among creatives and organizations",
+    "expand arts outreach to overlooked communities"
+  ],
+  "cached_at": "2025-06-21T00:42:20.789249",
+  "cache_key": "38aaa6004876447ef237c264cb0328a596d1fdcc7ea18ef1fc25a3ec49938261",
+  "model": "gpt-41"
+}

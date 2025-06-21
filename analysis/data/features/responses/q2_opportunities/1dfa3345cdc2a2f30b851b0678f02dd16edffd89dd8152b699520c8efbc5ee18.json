@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expansion of public arts funding to performing arts",
+    "limitations of current developer requirements",
+    "inclusivity in state arts awards",
+    "recognition of playwrights as both literary and performing artists",
+    "need for cross-disciplinary support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I'd like to see Public Arts funding include performing arts - not just visual",
+    "the requirement for developers should extend beyond just statues",
+    "Advocate for State arts awards to include more than just literature and music and visual arts",
+    "Include playwrights in literature categories - we exist both within literary circles and performing arts",
+    "That's cross disciplinary support anytime you fund theatre!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Public Arts funding limited to visual arts",
+    "Developer requirements restricted to statues",
+    "State arts awards exclude certain disciplines",
+    "Playwrights not recognized in literature categories"
+  ],
+  "solutions_proposed": [
+    "Include performing arts in Public Arts funding",
+    "Extend developer requirements beyond just statues",
+    "Advocate for State arts awards to include more than just literature, music, and visual arts",
+    "Include playwrights in literature categories"
+  ],
+  "cached_at": "2025-06-21T00:42:01.454604",
+  "cache_key": "1dfa3345cdc2a2f30b851b0678f02dd16edffd89dd8152b699520c8efbc5ee18",
+  "model": "gpt-41"
+}

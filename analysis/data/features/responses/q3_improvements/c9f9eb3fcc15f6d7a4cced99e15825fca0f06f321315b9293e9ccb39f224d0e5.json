@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Access to funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funding"
+  ],
+  "solutions_proposed": [
+    "improve access to funding"
+  ],
+  "cached_at": "2025-06-21T01:19:25.314390",
+  "cache_key": "c9f9eb3fcc15f6d7a4cced99e15825fca0f06f321315b9293e9ccb39f224d0e5",
+  "model": "gpt-41"
+}

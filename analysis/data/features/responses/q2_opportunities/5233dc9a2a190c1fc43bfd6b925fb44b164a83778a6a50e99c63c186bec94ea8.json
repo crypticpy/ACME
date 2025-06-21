@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local arts",
+    "interest in experimental performance",
+    "interest in experimental visual art"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "local, experimental performance and visual art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more local, experimental performance and visual art"
+  ],
+  "cached_at": "2025-06-21T00:24:24.363554",
+  "cache_key": "5233dc9a2a190c1fc43bfd6b925fb44b164a83778a6a50e99c63c186bec94ea8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "exclusion of women artists from underrepresented groups",
+    "systemic barriers for women in arts funding",
+    "concern about gender equity in Texas",
+    "critique of grant application definitions",
+    "call for policy revision to include women"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Access remains limited, especially for women artists",
+    "notably excluded from the City\u2019s definition of underrepresented or marginalized communities",
+    "This omission is deeply concerning",
+    "women\u2019s rights are increasingly under threat",
+    "gender equity is far from realized",
+    "systemic barriers in funding, recognition, and leadership opportunities",
+    "revise its definitions and frameworks to reflect the lived realities of women artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of women from underrepresented or marginalized community definitions",
+    "systemic barriers in funding, recognition, and leadership opportunities for women artists"
+  ],
+  "solutions_proposed": [
+    "revise definitions and frameworks to include women as an underrepresented group"
+  ],
+  "cached_at": "2025-06-21T00:57:43.479840",
+  "cache_key": "205c45c83136d2d9fc757a53cd15ebaa33e800f624dd2e7208019f0d3abb8f3c",
+  "model": "gpt-41"
+}

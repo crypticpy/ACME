@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local artists",
+    "independent curators",
+    "ongoing art installations",
+    "exhibitions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "ongoing local art installations",
+    "exhibitions by independent curators and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ongoing local art installations",
+    "exhibitions by independent curators and artists"
+  ],
+  "cached_at": "2025-06-21T00:25:58.818265",
+  "cache_key": "c9659564a2fd440998d7f6db186ef26c1765d4bd7246a990690925c9fda6ba2f",
+  "model": "gpt-41"
+}

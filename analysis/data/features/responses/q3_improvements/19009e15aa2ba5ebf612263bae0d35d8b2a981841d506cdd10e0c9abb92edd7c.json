@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "ineligibility due to funding cycle changes",
+    "challenges with program reapplication",
+    "impact on organizational operations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "inability to apply to Elevate again this year",
+    "change in funding cycle",
+    "big challenge for our organization"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "ineligibility to reapply due to change in funding cycle"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:14:13.372937",
+  "cache_key": "19009e15aa2ba5ebf612263bae0d35d8b2a981841d506cdd10e0c9abb92edd7c",
+  "model": "gpt-41"
+}

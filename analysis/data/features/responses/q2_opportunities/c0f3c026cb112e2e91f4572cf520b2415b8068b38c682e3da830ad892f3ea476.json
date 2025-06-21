@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more small-scale cultural events",
+    "accessibility challenges for neurodiverse individuals",
+    "overemphasis on large downtown festivals",
+    "appreciation for local artistic talent at smaller events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I'd like to see more smaller-scale cultural and entertainment opportunities",
+    "Not everything has to be a big festival or be downtown",
+    "Our household is neurodiverse, and big crowds make it almost impossible to enjoy the arts scene here",
+    "I've been blown away by the talent and artistry I've seen at smaller events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "big crowds make it almost impossible to enjoy the arts scene here",
+    "overemphasis on large downtown festivals"
+  ],
+  "solutions_proposed": [
+    "more smaller-scale cultural and entertainment opportunities",
+    "events not limited to downtown"
+  ],
+  "cached_at": "2025-06-21T00:40:19.759479",
+  "cache_key": "c0f3c026cb112e2e91f4572cf520b2415b8068b38c682e3da830ad892f3ea476",
+  "model": "gpt-41"
+}

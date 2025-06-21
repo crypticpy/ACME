@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Emergency financial support for art venues",
+    "Impact of NEA grant loss",
+    "Quality and community involvement as funding criteria",
+    "Critique of tourism-based grant metrics",
+    "Expert oversight in grant evaluation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Emergency grants for important art venues",
+    "lost critical funding due the loss of NEA grants",
+    "grants based on the quality of work and community involvement rather than tourism",
+    "grants whose metrics are overseen by people who know alot about art and Austin's art ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "NEA grants"
+  ],
+  "barriers_identified": [
+    "Loss of NEA grants",
+    "Tourism-based grant metrics",
+    "Lack of expert oversight in grant evaluation"
+  ],
+  "solutions_proposed": [
+    "Emergency grants for art venues losing critical funding",
+    "Grants based on quality of work and community involvement",
+    "Grant metrics overseen by knowledgeable art ecosystem experts"
+  ],
+  "cached_at": "2025-06-21T02:02:39.018168",
+  "cache_key": "644eec9d18a5f21e8fde56fae5686edc83034d98ea60a6e916c5cf75f9ae828d",
+  "model": "gpt-41"
+}

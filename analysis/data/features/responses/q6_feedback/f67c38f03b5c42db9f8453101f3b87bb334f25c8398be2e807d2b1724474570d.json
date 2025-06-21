@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Disproportionate cultural reinvestment compared to economic growth",
+    "Risk of cultural decline due to underfunding",
+    "Learning from other cities' mistakes",
+    "Importance of bold prioritization of arts and culture",
+    "Connection between creative ecosystem and Austin's prosperity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "we invest a relatively very small portion of that prosperity back into the thing that got us here",
+    "it is more important than ever that we increase the size of our re-investment back into our culture",
+    "our culture will slowly dwindle away",
+    "learn from history and the mistakes of other markets",
+    "be bold about how we prioritize the future of our art, music, culture, and heritage"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient reinvestment of economic prosperity into the creative ecosystem"
+  ],
+  "solutions_proposed": [
+    "increase the size of our re-investment back into our culture to be more appropriately proportionate to the enormous prosperity"
+  ],
+  "cached_at": "2025-06-21T02:16:44.607185",
+  "cache_key": "f67c38f03b5c42db9f8453101f3b87bb334f25c8398be2e807d2b1724474570d",
+  "model": "gpt-41"
+}

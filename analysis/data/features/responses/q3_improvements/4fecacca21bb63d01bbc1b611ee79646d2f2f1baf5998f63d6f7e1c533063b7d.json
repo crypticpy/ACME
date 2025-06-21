@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of Hispanic musicians",
+    "representation of Hispanic artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "promotion within Hispanic musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of promotion for Hispanic musicians"
+  ],
+  "solutions_proposed": [
+    "increase promotion within Hispanic musicians"
+  ],
+  "cached_at": "2025-06-21T00:56:22.008735",
+  "cache_key": "4fecacca21bb63d01bbc1b611ee79646d2f2f1baf5998f63d6f7e1c533063b7d",
+  "model": "gpt-41"
+}

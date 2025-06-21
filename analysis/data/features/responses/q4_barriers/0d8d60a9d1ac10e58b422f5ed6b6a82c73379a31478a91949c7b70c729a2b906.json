@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for cultural arts",
+    "limitations of HOT (Hotel Occupancy Tax) funding",
+    "impact of overdevelopment on creative spaces",
+    "need for affordable housing and workspace for creatives",
+    "role of City Council in development decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "There is never enough funding to go around",
+    "There needs to be more fiscal support for cultural arts beyond HOT",
+    "approving the over development of Austin",
+    "ensure that these spaces are reserving truly affordable housing/workspace for creatives",
+    "Zilker Point PUD and Dorf Gallery"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Zilker Point PUD",
+    "Dorf Gallery"
+  ],
+  "barriers_identified": [
+    "never enough funding to go around",
+    "limited fiscal support for cultural arts beyond HOT",
+    "overdevelopment reducing availability of affordable creative spaces"
+  ],
+  "solutions_proposed": [
+    "more fiscal support for cultural arts beyond HOT",
+    "City Council to ensure spaces reserve truly affordable housing/workspace for creatives"
+  ],
+  "cached_at": "2025-06-21T01:49:33.870385",
+  "cache_key": "0d8d60a9d1ac10e58b422f5ed6b6a82c73379a31478a91949c7b70c729a2b906",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "recognition of existing offerings",
+    "promotion of programs",
+    "program expansion support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "learn what they have to offer",
+    "help them promote",
+    "expand their programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ACME should learn what organizations and cultural leaders have to offer",
+    "ACME should help promote their programs",
+    "ACME should help expand their programs"
+  ],
+  "cached_at": "2025-06-20T10:30:24.548210",
+  "cache_key": "6b6a66b418526691bf13e0b8de1860e359ca5dfaa647c7c89d7f45c71de9822e",
+  "model": "gpt-41"
+}

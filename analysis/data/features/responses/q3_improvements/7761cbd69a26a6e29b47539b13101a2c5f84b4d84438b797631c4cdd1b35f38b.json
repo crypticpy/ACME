@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "communication gaps between program administrators and talent",
+    "need for increased engagement with artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More communication with talent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient communication with talent"
+  ],
+  "solutions_proposed": [
+    "More communication with talent"
+  ],
+  "cached_at": "2025-06-21T01:16:11.405315",
+  "cache_key": "7761cbd69a26a6e29b47539b13101a2c5f84b4d84438b797631c4cdd1b35f38b",
+  "model": "gpt-41"
+}

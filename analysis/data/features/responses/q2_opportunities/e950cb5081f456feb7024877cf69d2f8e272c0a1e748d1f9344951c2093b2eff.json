@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more grand opening events",
+    "Compensation for professional artists and vendors",
+    "Family and children-focused cultural events",
+    "Increased events at public institutions (library, energy, galleries, museums)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Grand Opening Events",
+    "Vendors *hired /compensated (ie: Professional Face Painter Artists, Balloon Artists, Caricaturist Artists, Etc.)",
+    "Events in Austin for families & Children",
+    "City of Austin, Public Library Events, Austin Energy Events, Art Gallery & Museum Events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "City of Austin Public Library Events",
+    "Austin Energy Events",
+    "Art Gallery & Museum Events"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Hire and compensate professional artists and vendors for events",
+    "Increase family and children-focused events",
+    "Host more events at public libraries, energy facilities, art galleries, and museums"
+  ],
+  "cached_at": "2025-06-21T00:42:15.260401",
+  "cache_key": "e950cb5081f456feb7024877cf69d2f8e272c0a1e748d1f9344951c2093b2eff",
+  "model": "gpt-41"
+}

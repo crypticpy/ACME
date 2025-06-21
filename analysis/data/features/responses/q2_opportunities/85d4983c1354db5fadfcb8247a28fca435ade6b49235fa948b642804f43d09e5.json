@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for more live theater",
+    "need for funding for diverse creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Live theater",
+    "funding for diverse creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase live theater opportunities",
+    "Provide funding for diverse creatives"
+  ],
+  "cached_at": "2025-06-21T00:42:07.835958",
+  "cache_key": "85d4983c1354db5fadfcb8247a28fca435ade6b49235fa948b642804f43d09e5",
+  "model": "gpt-41"
+}

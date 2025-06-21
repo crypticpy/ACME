@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial precarity",
+    "tradeoff between survival and art",
+    "lack of time/resources for artistic participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Making a living eats everything I have to make art or participate"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial constraints limit ability to make art or participate"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:20.067737",
+  "cache_key": "5e30f5b5e98993ebe326eb744223a7378d5e4b10bfdefbc1fef7a9e592e45fe9",
+  "model": "gpt-41"
+}

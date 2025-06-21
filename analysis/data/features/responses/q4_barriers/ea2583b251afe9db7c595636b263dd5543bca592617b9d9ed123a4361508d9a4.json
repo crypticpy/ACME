@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical accessibility of venues",
+    "barriers for people with disabilities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "events or event venues are not wheelchair accessible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of wheelchair accessibility at events or venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:16.953635",
+  "cache_key": "ea2583b251afe9db7c595636b263dd5543bca592617b9d9ed123a4361508d9a4",
+  "model": "gpt-41"
+}

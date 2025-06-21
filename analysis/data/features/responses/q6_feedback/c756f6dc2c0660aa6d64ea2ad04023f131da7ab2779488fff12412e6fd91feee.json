@@ -1,0 +1,19 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "I think I have said it all"
+  ],
+  "intent": "completion_statement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:19:02.121836",
+  "cache_key": "c756f6dc2c0660aa6d64ea2ad04023f131da7ab2779488fff12412e6fd91feee",
+  "model": "gpt-41"
+}

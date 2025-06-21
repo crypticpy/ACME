@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct engagement with frontline staff",
+    "critique of leadership-focused consultation",
+    "importance of public-facing perspectives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Instead of meeting with cultural institution leadership",
+    "speak with the staff that come face to face with the public"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of input from frontline staff"
+  ],
+  "solutions_proposed": [
+    "speak with the staff that come face to face with the public"
+  ],
+  "cached_at": "2025-06-20T01:14:54.397867",
+  "cache_key": "2d9efc55ce12aaf189bcf22eca10eb09f939b80ccf65dfd2d3d363ec3fe59497",
+  "model": "gpt-41"
+}

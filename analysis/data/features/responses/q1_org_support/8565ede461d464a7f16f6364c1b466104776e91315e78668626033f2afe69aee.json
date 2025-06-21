@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "valuing foundational organizations as community elders",
+    "equity in funding distribution",
+    "concern about exclusion based on longevity",
+    "essential services and spaces provided by foundational organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "foundational organizations should be considered like the elders in our community",
+    "they have experience, wisdom and they are willing to share it for the greater good",
+    "they should compete for funding on par with other arts organizations",
+    "achieve equity in funding",
+    "they should not be excluded just because they've been around for awhile",
+    "foundational companies provide space and services to the arts community that are essential"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of foundational organizations due to longevity"
+  ],
+  "solutions_proposed": [
+    "allow foundational organizations to compete for funding on par with other arts organizations",
+    "do not exclude organizations from funding because of their long-standing presence"
+  ],
+  "cached_at": "2025-06-20T01:12:03.290899",
+  "cache_key": "8565ede461d464a7f16f6364c1b466104776e91315e78668626033f2afe69aee",
+  "model": "gpt-41"
+}

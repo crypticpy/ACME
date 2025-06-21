@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more music events at smaller venues",
+    "preference for earlier event start times",
+    "need for inclusive dance venues",
+    "concern about nightlife being geared toward young people"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more music events at the smaller clubs and venues",
+    "earlier start times",
+    "more venues for individuals to dance",
+    "aren't only geared toward late night and young persons"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "late night timing of events",
+    "venues primarily targeting young persons"
+  ],
+  "solutions_proposed": [
+    "more music events at smaller clubs and venues with earlier start times",
+    "more dance venues not only geared toward late night and young persons"
+  ],
+  "cached_at": "2025-06-21T00:32:28.203949",
+  "cache_key": "b440f5e9027104afcabf6c5d7003432c5c6aad4c8d5a6ca77bad12fd7a215697",
+  "model": "gpt-41"
+}

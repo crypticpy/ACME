@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for consistent communication",
+    "need for stable funding",
+    "importance of comprehensive understanding of issues",
+    "desire for depoliticized problem solving"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "consistent communication",
+    "consistent funding",
+    "comprehensive understanding of issues",
+    "commitment to prioritizing and solving without politicizing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent communication",
+    "lack of consistent funding",
+    "politicization of problem solving"
+  ],
+  "solutions_proposed": [
+    "provide consistent communication",
+    "provide consistent funding",
+    "develop comprehensive understanding of issues",
+    "prioritize and solve issues without politicizing"
+  ],
+  "cached_at": "2025-06-20T01:11:52.131849",
+  "cache_key": "39110567f47032339315e958fdfc6a1fc8ab0ab3fdc692735324ce7328c355fb",
+  "model": "gpt-41"
+}

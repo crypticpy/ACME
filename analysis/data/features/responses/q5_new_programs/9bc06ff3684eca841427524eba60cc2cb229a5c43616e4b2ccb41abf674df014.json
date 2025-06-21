@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "video production opportunities",
+    "programming gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "video production series",
+    "emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of video production series for emerging artists"
+  ],
+  "solutions_proposed": [
+    "offer a video production series for emerging artists"
+  ],
+  "cached_at": "2025-06-21T01:55:48.396679",
+  "cache_key": "9bc06ff3684eca841427524eba60cc2cb229a5c43616e4b2ccb41abf674df014",
+  "model": "gpt-41"
+}

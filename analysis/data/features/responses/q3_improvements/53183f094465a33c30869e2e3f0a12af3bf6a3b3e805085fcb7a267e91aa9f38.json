@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "district-based funding allocation",
+    "increased opportunities for artists",
+    "geographic equity (Williamson district)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expand the District ratio",
+    "more opportunities to artist in Williamson district"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for artists in Williamson district"
+  ],
+  "solutions_proposed": [
+    "expand the District ratio for more opportunities to artist in Williamson district"
+  ],
+  "cached_at": "2025-06-21T01:13:40.367834",
+  "cache_key": "53183f094465a33c30869e2e3f0a12af3bf6a3b3e805085fcb7a267e91aa9f38",
+  "model": "gpt-41"
+}

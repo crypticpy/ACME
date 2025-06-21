@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived lack of effort from applicants",
+    "application process as a barrier",
+    "expectation of self-initiative",
+    "frustration with requests for help"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "there has to be a process",
+    "many just won't do the process",
+    "still asking for help but too lazy to do the work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unwillingness to complete application process"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:15:23.300784",
+  "cache_key": "39c467e25ad89a53b42d2d651f02bf7f2e1650d3e31551e1bce09e2379fcd9a7",
+  "model": "gpt-41"
+}

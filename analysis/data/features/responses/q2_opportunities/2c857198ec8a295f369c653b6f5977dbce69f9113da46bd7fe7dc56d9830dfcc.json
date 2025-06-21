@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for long-term, affordable creative space",
+    "Insufficient institutional and city support for cultural producers",
+    "Importance of funding infrastructure over events",
+    "Integration of non-arts funding streams into cultural work",
+    "Amplification and marketing of existing cultural work",
+    "Sustainability and stability for artists and cultural workers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "we\u2019re already doing that, often with limited resources and little institutional support",
+    "the City to step up and create the conditions that allow artists, organizers, and cultural workers to continue doing what they do best",
+    "Investing in long-term, affordable space",
+    "Funding infrastructure, not just events",
+    "Channeling non-arts funding streams (public health, housing, transportation, etc.) into artist-led solutions",
+    "Marketing and amplifying existing cultural work\u2014not just launching new city-run programs",
+    "Austin doesn\u2019t have a creativity shortage\u2014it has a support and sustainability problem",
+    "We don\u2019t need more programming\u2014we need the means to keep going"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited resources",
+    "Little institutional support",
+    "Lack of long-term, affordable space",
+    "Insufficient infrastructure funding",
+    "Lack of integration with non-arts funding streams",
+    "Insufficient marketing and amplification of existing work"
+  ],
+  "solutions_proposed": [
+    "Invest in long-term, affordable space for artists and cultural workers",
+    "Fund infrastructure, not just events",
+    "Channel non-arts funding streams (public health, housing, transportation, etc.) into artist-led solutions",
+    "Market and amplify existing cultural work instead of launching new city-run programs",
+    "Prioritize creating a stable ecosystem for cultural producers"
+  ],
+  "cached_at": "2025-06-21T00:26:15.066021",
+  "cache_key": "2c857198ec8a295f369c653b6f5977dbce69f9113da46bd7fe7dc56d9830dfcc",
+  "model": "gpt-41"
+}

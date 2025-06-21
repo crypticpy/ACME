@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased cultural funding",
+    "impact of federal administration on local funding",
+    "concern about adequacy of current support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "always a need for more cultural funding",
+    "especially with the present Federal administration"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient cultural funding",
+    "negative influence of current Federal administration"
+  ],
+  "solutions_proposed": [
+    "increase cultural funding"
+  ],
+  "cached_at": "2025-06-21T01:12:11.750039",
+  "cache_key": "2a9b3bf96dcb907ef040abc216a5faf6fb0fdb40def0c159247f5bdad04d3023",
+  "model": "gpt-41"
+}

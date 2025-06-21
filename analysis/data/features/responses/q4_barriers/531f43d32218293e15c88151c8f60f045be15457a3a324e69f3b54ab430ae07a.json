@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "high competition for resources",
+    "difficulty accessing support due to competition"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lots of competition"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:44.355012",
+  "cache_key": "531f43d32218293e15c88151c8f60f045be15457a3a324e69f3b54ab430ae07a",
+  "model": "gpt-41"
+}

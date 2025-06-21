@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about constant organizational change",
+    "need for stability and continuity in staffing",
+    "challenges with bureaucratic processes for artists",
+    "impact of paperwork burden on neurodivergent creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "change everything all the time",
+    "go slow and give us time to understand",
+    "keep experienced staff",
+    "help artists deal with the city's bureaucracy",
+    "artists and creatives are often neurodivergent",
+    "challenged by the large amount of paperwork"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "large amount of paperwork for each grant",
+    "difficulty navigating city bureaucracy",
+    "lack of support for neurodivergent artists"
+  ],
+  "solutions_proposed": [
+    "go slow with changes",
+    "give time for understanding new processes",
+    "retain experienced staff who can assist artists"
+  ],
+  "cached_at": "2025-06-21T02:16:53.345762",
+  "cache_key": "915e450d505fedd5bfacfe1273e540c4ae5d02533d6be513fda71a72640ab8d7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth-centered arts education",
+    "integration of arts training with leadership and career development",
+    "mentorship between local artists and students",
+    "funding and technical assistance for small, community-based organizations",
+    "mobile or neighborhood-based arts programming",
+    "serving underserved communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "support youth-centered arts education",
+    "combine artistic training with leadership and career development",
+    "mentorship opportunities connecting local artists with students",
+    "funding and technical assistance tailored to small, community-based organizations",
+    "supporting mobile or neighborhood-based programming",
+    "brings arts directly into underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mentorship opportunities for students",
+    "insufficient funding and technical assistance for small, community-based organizations",
+    "limited access to arts programming in underserved communities"
+  ],
+  "solutions_proposed": [
+    "offer programs that support youth-centered arts education",
+    "combine artistic training with leadership and career development",
+    "create mentorship opportunities connecting local artists with students",
+    "provide funding and technical assistance tailored to small, community-based organizations",
+    "support mobile or neighborhood-based programming that brings arts directly into underserved communities"
+  ],
+  "cached_at": "2025-06-21T02:06:17.162294",
+  "cache_key": "f3c177c7b337aeeb759cef3d3a529606ecff1905903d2e782128fd7abcc56538",
+  "model": "gpt-41"
+}

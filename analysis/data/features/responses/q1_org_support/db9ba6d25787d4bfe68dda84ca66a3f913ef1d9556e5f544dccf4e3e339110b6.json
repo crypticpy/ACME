@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "empowerment of community members",
+    "support for emerging artists",
+    "inclusive arts ecosystem",
+    "equitable employment opportunities",
+    "diversity in professional arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "empower those within our community",
+    "use our experience and expertise",
+    "create opportunities for artists",
+    "especially emerging artists",
+    "healthy ecosystem of inclusive arts institutions",
+    "equitable employment opportunities for diverse professional artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "empower those within our community to use our experience and expertise to create opportunities for artists",
+    "ensure a healthy ecosystem of inclusive arts institutions",
+    "ensure equitable employment opportunities for diverse professional artists"
+  ],
+  "cached_at": "2025-06-20T01:12:15.834744",
+  "cache_key": "db9ba6d25787d4bfe68dda84ca66a3f913ef1d9556e5f544dccf4e3e339110b6",
+  "model": "gpt-41"
+}

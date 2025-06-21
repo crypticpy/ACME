@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for access to space",
+    "need for funding to pay artists",
+    "support for artist compensation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "our biggest needs for support are around access to space",
+    "funding to pay artists",
+    "member of Oro Dance Company",
+    "Afro-Latin fusion dance production group"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro Dance Company"
+  ],
+  "barriers_identified": [
+    "lack of access to space",
+    "insufficient funding to pay artists"
+  ],
+  "solutions_proposed": [
+    "increase access to space",
+    "provide more funding for artist compensation"
+  ],
+  "cached_at": "2025-06-20T10:38:04.730547",
+  "cache_key": "96c166dd00be7adcea3c2d630d9f3b2be796fc645454cf50d54bd0ed1106b1a7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community engagement in funding discussions",
+    "demystification of funding processes",
+    "inclusion of local art purveyors in decision-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "bringing the conversation about how funding works to the communities",
+    "bring the purveyors of local art in to the conversation",
+    "demystifying the funding process/landscape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in funding process",
+    "exclusion of local art purveyors from funding conversations"
+  ],
+  "solutions_proposed": [
+    "bring funding conversations to event-attending communities",
+    "demystify the funding process",
+    "include local art purveyors in funding discussions"
+  ],
+  "cached_at": "2025-06-20T10:43:13.464338",
+  "cache_key": "8c8e151304484106f039b1aee2231f9eccd511298938d75b1c37f13059f34bc0",
+  "model": "gpt-41"
+}

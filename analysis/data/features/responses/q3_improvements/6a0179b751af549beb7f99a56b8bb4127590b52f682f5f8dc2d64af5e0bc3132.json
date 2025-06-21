@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for funding outside downtown/tourist areas",
+    "Challenges for local, non-tourist businesses accessing grants",
+    "Desire to better compensate local artists",
+    "Perceived limitations of current grant programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Money for local venues that are not downtown or tourist-centered",
+    "pay local artists better",
+    "current grants are a nice start",
+    "as a small business owner with a local business that doesn\u2019t just cater to tourists",
+    "harder to get city money to help better pay the great local artists we get at our shop"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Difficulty for non-tourist-centered, local businesses to access city funding",
+    "Current grants are insufficient for supporting local venues and artists outside downtown"
+  ],
+  "solutions_proposed": [
+    "Increase funding for local venues that are not downtown or tourist-centered",
+    "Provide more support to help local businesses pay local artists better"
+  ],
+  "cached_at": "2025-06-21T01:16:09.971918",
+  "cache_key": "6a0179b751af549beb7f99a56b8bb4127590b52f682f5f8dc2d64af5e0bc3132",
+  "model": "gpt-41"
+}

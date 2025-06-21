@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "community-driven program identification",
+    "collaboration between grassroots organizations and city",
+    "limitations of city expertise",
+    "role of public funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "programs that address shared challenges",
+    "identified by the community",
+    "operated by grassroots org in collaboration with city funding",
+    "city lacks the expertise to do more than funding using public dollars"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "city lacks the expertise to do more than funding"
+  ],
+  "solutions_proposed": [
+    "programs should be identified by the community",
+    "operated by grassroots org in collaboration with city funding"
+  ],
+  "cached_at": "2025-06-21T02:04:21.410628",
+  "cache_key": "2db22fc3d5fda203436c829a76d806ef81f1ce7f88f606d8fe8a0f2deda97a9c",
+  "model": "gpt-41"
+}

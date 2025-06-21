@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "constructive feedback for unsuccessful applicants",
+    "future funding opportunity improvement",
+    "networking among organizations with similar goals",
+    "communication enhancement between organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "providing feedback to organizations that do not gain funding",
+    "future opportunities are better utilized",
+    "referrals to all organizations with similar goals",
+    "improve communication and networking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of feedback for unsuccessful funding applicants",
+    "insufficient communication and networking among organizations"
+  ],
+  "solutions_proposed": [
+    "provide feedback to organizations that do not gain funding",
+    "make referrals to all organizations with similar goals to improve communication and networking"
+  ],
+  "cached_at": "2025-06-20T10:26:10.779779",
+  "cache_key": "b529c340573fae2f10c01a060576df4042a1ee8a39ad6fa2d21d6b4de6b966eb",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "accessibility in the arts",
+    "critical thinking through cultural events",
+    "social justice focus in programming",
+    "diverse art forms (exhibits, readings, poetry, performance)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "accessible art exhibits",
+    "events, readings, poetry, performance",
+    "inspire critical thinking",
+    "social justice focus"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility",
+    "insufficient focus on social justice"
+  ],
+  "solutions_proposed": [
+    "offer more accessible art exhibits and events",
+    "increase programming with a social justice focus",
+    "provide opportunities that inspire critical thinking"
+  ],
+  "cached_at": "2025-06-21T00:30:58.568235",
+  "cache_key": "1e2bf2af12112575e6b463d09be97a7545bb91be6da400d18043e372a94c47bc",
+  "model": "gpt-41"
+}

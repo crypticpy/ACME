@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with real estate development",
+    "affordable spaces for cultural production",
+    "permanent solutions for cultural infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "working closely with Rally Austin and other leaders in real estate development",
+    "paths forward for adequate and permanently affordable spaces for cultural production"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Rally Austin"
+  ],
+  "barriers_identified": [
+    "lack of adequate and permanently affordable spaces for cultural production"
+  ],
+  "solutions_proposed": [
+    "collaborate with real estate development leaders to create affordable, permanent spaces for cultural production"
+  ],
+  "cached_at": "2025-06-21T02:04:29.072478",
+  "cache_key": "87bcbcb2844d2e39f9b906b580991f0ee6b4853af05d6663a59e33c912ea626c",
+  "model": "gpt-41"
+}

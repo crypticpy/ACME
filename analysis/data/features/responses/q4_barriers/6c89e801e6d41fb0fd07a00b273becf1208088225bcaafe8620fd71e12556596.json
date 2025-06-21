@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "perceived exclusion based on racial identity",
+    "lack of recognition or support for certain demographics"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "lack of funds",
+    "being written off as too white"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funds",
+    "perceived exclusion due to being considered 'too white'"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:25.115487",
+  "cache_key": "6c89e801e6d41fb0fd07a00b273becf1208088225bcaafe8620fd71e12556596",
+  "model": "gpt-41"
+}

@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient public art",
+    "limitations due to understaffing and underfunding",
+    "youth/student engagement in public art",
+    "highway beautification and addressing racist history",
+    "community ownership of public spaces",
+    "inspiration from international models (Via Verde, Mexico City)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Austin could have SO much more public art",
+    "limited by understaffing, underfunding",
+    "paintings by our AISD students on every utility box",
+    "more murals and mosaics",
+    "make our city more beautiful",
+    "city with a big highway with a racist history",
+    "highway beautification",
+    "giving residents the opportunity to take more ownership of that space",
+    "Mexico City's Via Verde"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "public art program",
+    "Mexico City's Via Verde"
+  ],
+  "barriers_identified": [
+    "understaffing",
+    "underfunding",
+    "city departments that already had too much on their plates"
+  ],
+  "solutions_proposed": [
+    "paintings by AISD students on every utility box",
+    "more murals and mosaics",
+    "highway beautification",
+    "giving residents opportunity to take ownership of highway space",
+    "using Via Verde as inspiration"
+  ],
+  "cached_at": "2025-06-21T02:05:27.275035",
+  "cache_key": "f8b446ebb8f002be016ca4243ba8dd4c5371f85319798feccdc07b15800ea1d5",
+  "model": "gpt-41"
+}

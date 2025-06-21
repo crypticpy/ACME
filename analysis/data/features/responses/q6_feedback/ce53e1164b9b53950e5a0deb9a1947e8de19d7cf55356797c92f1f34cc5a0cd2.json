@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event promotion",
+    "community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more promotion of events",
+    "ways to get involved"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of event promotion",
+    "unclear ways to get involved"
+  ],
+  "solutions_proposed": [
+    "increase promotion of events",
+    "provide more information on ways to get involved"
+  ],
+  "cached_at": "2025-06-21T02:21:43.146678",
+  "cache_key": "ce53e1164b9b53950e5a0deb9a1947e8de19d7cf55356797c92f1f34cc5a0cd2",
+  "model": "gpt-41"
+}

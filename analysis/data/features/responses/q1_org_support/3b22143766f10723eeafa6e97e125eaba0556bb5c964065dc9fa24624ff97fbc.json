@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for outreach to both new and established artists",
+    "Recognition of commercial artists as legitimate",
+    "Economic pressures on artists (rent, making a living)",
+    "Marginalization of commercial artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Just reaching out to Artists who are not only new, but those that have been here too",
+    "Just because one shop may be more commercial, doesn't mean that they are not viable as Artists too",
+    "some folks have to pay rent and have to work to do it",
+    "They get lost in the frey too"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of outreach to established artists",
+    "Perceived devaluation of commercial artists",
+    "Economic necessity forcing artists into commercial work",
+    "Marginalization within the artist community"
+  ],
+  "solutions_proposed": [
+    "Increase outreach to both new and established artists",
+    "Acknowledge and support the legitimacy of commercial artists"
+  ],
+  "cached_at": "2025-06-20T10:31:03.612092",
+  "cache_key": "3b22143766f10723eeafa6e97e125eaba0556bb5c964065dc9fa24624ff97fbc",
+  "model": "gpt-41"
+}

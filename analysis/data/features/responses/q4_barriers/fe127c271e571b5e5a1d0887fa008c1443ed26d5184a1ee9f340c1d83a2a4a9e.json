@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "absence of barriers",
+    "personal experience with access"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Personally for me, no barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:13.475036",
+  "cache_key": "fe127c271e571b5e5a1d0887fa008c1443ed26d5184a1ee9f340c1d83a2a4a9e",
+  "model": "gpt-41"
+}

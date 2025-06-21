@@ -1,0 +1,21 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for high quality arts and entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "High Quality!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:37:10.757066",
+  "cache_key": "da25b3ad2312fe6e3ddfc1c4f04ec2dc87b7b8d0af3be6e4a4ac7a8cf26faa0a",
+  "model": "gpt-41"
+}

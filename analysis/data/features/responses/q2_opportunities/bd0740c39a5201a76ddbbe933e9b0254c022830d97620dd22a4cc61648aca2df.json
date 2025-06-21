@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Oversaturation of cultural offerings",
+    "Lack of infrastructure to support current arts scene",
+    "Critique of constant expansion/growth mindset",
+    "Sufficiency of existing opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I'm not sure that more is the answer",
+    "There is no shortage of opportunities",
+    "On any given night in Austin, you can see multiple performances, tons of live music, exhibitions, etc.",
+    "This constant need to grow and expand is part of the problem",
+    "We don't have the infrastructure to support what we already have"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of infrastructure to support existing cultural offerings"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:26:19.487343",
+  "cache_key": "bd0740c39a5201a76ddbbe933e9b0254c022830d97620dd22a4cc61648aca2df",
+  "model": "gpt-41"
+}

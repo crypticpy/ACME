@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for integrated multicultural programming",
+    "Current cultural activities are siloed",
+    "Value of spaces enabling cross-cultural interaction",
+    "Nostalgia for past inclusive events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Global meet, cultural exchange type of programs",
+    "Right now, the cultural programming happens in silos",
+    "there used to be places like the Hope farmers market at Plaza Saltilo",
+    "tasted Mexican food, enjoyed live music and witnessed a flamenco performance on the same day",
+    "The city could create more such spaces/ programs where different cultures and cultural programs could interact with each other"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Shakespeare performance at Zilker Park",
+    "Hope farmers market at Plaza Saltilo"
+  ],
+  "barriers_identified": [
+    "Cultural programming happens in silos",
+    "Lack of spaces for cross-cultural interaction"
+  ],
+  "solutions_proposed": [
+    "Create more spaces/programs where different cultures and cultural programs could interact with each other",
+    "Offer global meet, cultural exchange type of programs"
+  ],
+  "cached_at": "2025-06-21T01:50:43.710344",
+  "cache_key": "40032e0350d796ad7788672b54fa16ff86638edacde9ed7c0245887c4f014a58",
+  "model": "gpt-41"
+}

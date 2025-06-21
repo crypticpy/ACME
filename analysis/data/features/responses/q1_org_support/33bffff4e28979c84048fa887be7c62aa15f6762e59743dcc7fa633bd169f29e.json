@@ -1,0 +1,54 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for funding and partnership with smaller organizations",
+    "Critique of lack of diversity in leadership",
+    "Overemphasis on mainstream or trendy entertainment",
+    "Importance of supporting minority and queer artists",
+    "Recognition of grassroots cultural spaces and organizers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "partner and fund these smaller organizations that are doing the work already",
+    "it doesn't need to be a wheel that is reinvented",
+    "there needs to be diversity in the leadership that is sourcing these opportunities not just white people with money and access to spaces",
+    "Austin was built on this concept on being weird but a lot of what is funded and broadcasted for entertainment has been trendy",
+    "we need to involve the smaller creatives creating variety shows and creating spaces for new artists",
+    "These are just some of the organizers and organizations really providing spaces for minority artists, cultural heritage and accessible spaces to exist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Gothess Jasmine",
+    "Natalie Lepore",
+    "Monster Mash",
+    "Sir Beau Elliot Beauregard",
+    "What's in The Mirror",
+    "Queer Black Women Alliance",
+    "Pride in Black",
+    "allgo",
+    "Sunday Sessions",
+    "House of Von Dutch",
+    "House of Lepore",
+    "ATC Choclit",
+    "Local Queer",
+    "Asian Family Support Services of Austin",
+    "Diamond Davenport"
+  ],
+  "barriers_identified": [
+    "Lack of funding and partnership for smaller organizations",
+    "Leadership lacking diversity (dominated by white people with money and access to spaces)",
+    "Preference for trendy/mainstream entertainment over grassroots or minority-led initiatives"
+  ],
+  "solutions_proposed": [
+    "Partner and fund smaller organizations already doing the work",
+    "Increase diversity in leadership sourcing opportunities",
+    "Involve smaller creatives creating variety shows and spaces for new artists"
+  ],
+  "cached_at": "2025-06-20T10:37:13.540399",
+  "cache_key": "33bffff4e28979c84048fa887be7c62aa15f6762e59743dcc7fa633bd169f29e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "administrative process improvement",
+    "public engagement process improvement",
+    "reference to external recommendations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "improvements made to the administration process",
+    "improvements made to the public engagement process",
+    "see recommendations here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "improvements to the administration process",
+    "improvements to the public engagement process"
+  ],
+  "cached_at": "2025-06-21T01:15:04.165445",
+  "cache_key": "5b49699a7c9167ae6a2a4cc05e97049f87f007a92497c77f785e96aef63cdca1",
+  "model": "gpt-41"
+}

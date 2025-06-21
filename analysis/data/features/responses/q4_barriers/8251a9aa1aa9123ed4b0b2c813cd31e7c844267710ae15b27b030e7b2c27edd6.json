@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "overlap in eligibility criteria",
+    "challenges with city funding processes",
+    "feeling overlooked or disadvantaged"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "center of the ven diagram where there is overlap",
+    "works against us when approaching city funding",
+    "already stated the barriers i perceive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overlap in eligibility or identity leading to disadvantage in city funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:05.310580",
+  "cache_key": "8251a9aa1aa9123ed4b0b2c813cd31e7c844267710ae15b27b030e7b2c27edd6",
+  "model": "gpt-41"
+}

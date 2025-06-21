@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "performance-based cultural enrichment",
+    "support for Title 1 and low-performance schools",
+    "focus on underserved elementary children",
+    "early childhood arts education"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "support for performance-based cultural enrichment classes",
+    "Title 1 and low-performance schools",
+    "underserved children in elementary schools",
+    "PreK through 6"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural enrichment classes in Title 1 and low-performance schools",
+    "underserved children lacking access"
+  ],
+  "solutions_proposed": [
+    "offer performance-based cultural enrichment classes in Title 1 and low-performance schools for underserved children in elementary schools from PreK through 6"
+  ],
+  "cached_at": "2025-06-21T02:02:06.160327",
+  "cache_key": "e000c38b1fa00b8ffe3d2d65fb4733fa4d0927cedd993cc3e839a5c0a65d299d",
+  "model": "gpt-41"
+}

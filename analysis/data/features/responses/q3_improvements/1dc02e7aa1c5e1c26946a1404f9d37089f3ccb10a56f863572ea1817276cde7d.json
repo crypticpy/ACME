@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "flexibility in funding requirements",
+    "artist autonomy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Allow more flexibility for the artist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of flexibility for the artist"
+  ],
+  "solutions_proposed": [
+    "Allow more flexibility for the artist"
+  ],
+  "cached_at": "2025-06-21T01:00:22.938787",
+  "cache_key": "1dc02e7aa1c5e1c26946a1404f9d37089f3ccb10a56f863572ea1817276cde7d",
+  "model": "gpt-41"
+}

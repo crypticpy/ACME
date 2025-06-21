@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "poor program design and management",
+    "need for focus on impact and job creation",
+    "urgency for immediate redesign",
+    "importance of long-term vision and best practices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "most poorly designed and managed cultural funding programs I have ever seen",
+    "immediately redesign them to focus on impact and jobs created",
+    "funding gets out into the community soon",
+    "step back to create a long term view and vision rooted in proven best practices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "poor program design",
+    "poor program management"
+  ],
+  "solutions_proposed": [
+    "immediate redesign to focus on impact and jobs created",
+    "ensure funding gets out into the community soon",
+    "develop a long-term vision rooted in proven best practices"
+  ],
+  "cached_at": "2025-06-21T00:53:58.677145",
+  "cache_key": "fed8d342d22f0449a22030fb4a5945c11e91b8c883fe050755d02868bf202b48",
+  "model": "gpt-41"
+}

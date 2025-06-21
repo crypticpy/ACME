@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "diversification of funding sources",
+    "reducing reliance on tourism",
+    "community-centered cultural development",
+    "strengthening service organizations",
+    "historical reference to Austin's cultural growth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Diversified funding sources so that tourists don't have to be the focus",
+    "create a vibrant, supportive community for Austinites",
+    "others will want to visit here to take part in it",
+    "That's what happened with music in the '80s and performing arts in the '90s",
+    "strengthen the service organizations that serve our community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overreliance on tourism for funding"
+  ],
+  "solutions_proposed": [
+    "diversify funding sources",
+    "focus on supporting local community",
+    "strengthen service organizations"
+  ],
+  "cached_at": "2025-06-20T10:27:35.996386",
+  "cache_key": "b86788eb74f1b37308145011924145734a9b6e8746ca24b0e0ecc7789d7ecb61",
+  "model": "gpt-41"
+}

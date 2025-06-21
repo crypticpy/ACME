@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding allocation fairness",
+    "economic impact of cultural programs",
+    "lack of informed decision-making by city staff",
+    "collapse of longstanding art initiatives",
+    "perceived misallocation of funds"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "securing funding for proven organizations",
+    "an eye to community economic impact",
+    "city staff awarding the available funds need to be better informed",
+    "a bar (yes a bar serving alcoholic drinks) was given $80,000",
+    "the EAST art tour was only given $40,000",
+    "the EAST tour collapsed after 20 years",
+    "Really bad decision!!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "EAST art tour"
+  ],
+  "barriers_identified": [
+    "uninformed funding decisions by city staff",
+    "insufficient funding for established programs"
+  ],
+  "solutions_proposed": [
+    "secure funding for proven organizations",
+    "ensure city staff are better informed when awarding funds",
+    "consider community economic impact in funding decisions"
+  ],
+  "cached_at": "2025-06-20T10:30:00.173636",
+  "cache_key": "25ab86aa5b691a78a205e29fb5d7ddc4f1be1b0a7a0beaec9ef99a03e523053c",
+  "model": "gpt-41"
+}

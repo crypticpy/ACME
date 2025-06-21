@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for listening to existing organizations and leaders",
+    "importance of a transparent grant funding model",
+    "fairness in funding processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "listen to the existing organizations and leadership",
+    "making Austin a vibrant creative community",
+    "grant funding model that is transparent and fair"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in grant funding",
+    "perceived unfairness in funding model",
+    "insufficient listening to existing organizations and leaders"
+  ],
+  "solutions_proposed": [
+    "listen to the existing organizations and leadership",
+    "implement a transparent and fair grant funding model"
+  ],
+  "cached_at": "2025-06-20T10:29:26.460794",
+  "cache_key": "4116abc1ae0b713df5befddb5113f1a513aa782757612a3a75c0e50fc541aed6",
+  "model": "gpt-41"
+}

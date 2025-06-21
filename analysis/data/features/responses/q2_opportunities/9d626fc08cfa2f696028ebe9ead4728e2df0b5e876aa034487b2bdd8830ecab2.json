@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "free access to cultural events",
+    "family inclusivity",
+    "live music opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "free, family friendly music events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events",
+    "lack of family-friendly options"
+  ],
+  "solutions_proposed": [
+    "offer more free, family friendly music events"
+  ],
+  "cached_at": "2025-06-21T00:33:11.066838",
+  "cache_key": "9d626fc08cfa2f696028ebe9ead4728e2df0b5e876aa034487b2bdd8830ecab2",
+  "model": "gpt-41"
+}

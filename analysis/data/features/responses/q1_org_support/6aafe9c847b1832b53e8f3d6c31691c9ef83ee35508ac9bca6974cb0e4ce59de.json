@@ -1,0 +1,19 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "to be determined"
+  ],
+  "intent": "no_content",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:23:15.242658",
+  "cache_key": "6aafe9c847b1832b53e8f3d6c31691c9ef83ee35508ac9bca6974cb0e4ce59de",
+  "model": "gpt-41"
+}

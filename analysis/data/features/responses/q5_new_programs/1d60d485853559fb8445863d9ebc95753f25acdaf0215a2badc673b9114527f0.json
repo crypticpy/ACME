@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "diversification of city cultural funding sources",
+    "reducing reliance on HOT (Hotel Occupancy Tax)",
+    "increasing city-supported partnerships between community and artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding diversification away from HOT",
+    "increased city/community/artist partnerships",
+    "facilitated and/or supported by the City"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overreliance on HOT as a funding source"
+  ],
+  "solutions_proposed": [
+    "diversify city funding sources away from HOT",
+    "increase city-facilitated partnerships between city, community, and artists"
+  ],
+  "cached_at": "2025-06-21T01:49:49.560158",
+  "cache_key": "1d60d485853559fb8445863d9ebc95753f25acdaf0215a2badc673b9114527f0",
+  "model": "gpt-41"
+}

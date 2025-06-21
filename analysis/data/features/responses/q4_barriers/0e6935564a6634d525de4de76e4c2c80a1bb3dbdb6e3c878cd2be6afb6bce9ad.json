@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient programming spaces",
+    "transportation barriers for spectators",
+    "parking limitations affecting attendance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of spaces to use for programming",
+    "my community has less access to transportation and parking",
+    "to be able to attend these cultural events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces for programming",
+    "limited transportation access",
+    "insufficient parking for event attendance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:56.027334",
+  "cache_key": "0e6935564a6634d525de4de76e4c2c80a1bb3dbdb6e3c878cd2be6afb6bce9ad",
+  "model": "gpt-41"
+}

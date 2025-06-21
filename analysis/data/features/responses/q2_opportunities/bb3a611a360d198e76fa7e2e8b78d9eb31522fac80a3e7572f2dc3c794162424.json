@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family-oriented cultural events",
+    "Country music",
+    "Tejano music",
+    "multicultural entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Family style Country Tejano"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More family style Country Tejano opportunities"
+  ],
+  "cached_at": "2025-06-21T00:49:07.220403",
+  "cache_key": "bb3a611a360d198e76fa7e2e8b78d9eb31522fac80a3e7572f2dc3c794162424",
+  "model": "gpt-41"
+}

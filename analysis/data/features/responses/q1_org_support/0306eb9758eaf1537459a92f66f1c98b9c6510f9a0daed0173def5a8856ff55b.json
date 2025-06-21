@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community-driven programming",
+    "need for physical space",
+    "grant funding for creatives",
+    "city's supportive role vs. direct programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Let the community create the programming",
+    "the city provide the space and support",
+    "talented creatives who can do the programs for their community better than the city can",
+    "they need space to do it and grants to support them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of space for creatives",
+    "insufficient grant support"
+  ],
+  "solutions_proposed": [
+    "city should provide space for community programming",
+    "city should offer grants to support creatives"
+  ],
+  "cached_at": "2025-06-20T10:24:18.035867",
+  "cache_key": "0306eb9758eaf1537459a92f66f1c98b9c6510f9a0daed0173def5a8856ff55b",
+  "model": "gpt-41"
+}

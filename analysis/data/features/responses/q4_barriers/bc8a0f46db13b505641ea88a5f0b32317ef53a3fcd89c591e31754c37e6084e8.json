@@ -1,0 +1,51 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Difficulty accessing funding for small/emerging artists",
+    "Gatekeeping and lack of visibility for underrepresented voices",
+    "Impact of high cost of living and space on creatives",
+    "Insufficient marketing and infrastructure support",
+    "Bureaucratic obstacles in city-sponsored programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of Funding Access",
+    "Smaller or emerging artists often struggle",
+    "Gatekeeping and Lack of Visibility",
+    "Opportunities often go to the same circles",
+    "High Cost of Living and Space",
+    "Rising rents make it difficult",
+    "Limited Marketing and Infrastructure Support",
+    "Bureaucratic Processes",
+    "Red tape can make it hard to access city-sponsored programs",
+    "Addressing these would help level the playing field"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of funding access for smaller or emerging artists",
+    "Complex grant processes",
+    "Competition for limited resources",
+    "Gatekeeping and lack of visibility for new or underrepresented voices",
+    "High cost of living and rising rents",
+    "Difficulty affording rehearsal, studio, or performance spaces",
+    "Limited marketing and infrastructure support",
+    "Lack of tools or mentorship for sustainable careers",
+    "Bureaucratic red tape in accessing city-sponsored programs"
+  ],
+  "solutions_proposed": [
+    "Addressing funding access barriers",
+    "Reducing gatekeeping",
+    "Improving visibility for underrepresented voices",
+    "Making space more affordable",
+    "Providing marketing and infrastructure support",
+    "Streamlining bureaucratic processes"
+  ],
+  "cached_at": "2025-06-21T01:32:51.992554",
+  "cache_key": "bc8a0f46db13b505641ea88a5f0b32317ef53a3fcd89c591e31754c37e6084e8",
+  "model": "gpt-41"
+}

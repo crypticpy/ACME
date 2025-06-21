@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire to host artist residencies and events",
+    "support for creative community-led programming",
+    "improving outreach to artists and musicians about opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "we would like to host residencies, programs, events, and exhibits produced by creative community",
+    "would like artists/musicians to know about opportunities where they can perform funded work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists/musicians not knowing about opportunities to perform funded work"
+  ],
+  "solutions_proposed": [
+    "host residencies, programs, events, and exhibits produced by creative community",
+    "increase awareness among artists/musicians about opportunities to perform funded work"
+  ],
+  "cached_at": "2025-06-21T02:14:02.290807",
+  "cache_key": "be10efe624258e18aa702fa48a44210a959d3fd79d0a6a26f6503802e7a0ad34",
+  "model": "gpt-41"
+}

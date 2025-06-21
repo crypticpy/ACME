@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "commercial event producers' impact on public resources",
+    "market rate rent for for-profit events",
+    "redirecting event revenue to support arts and artist housing",
+    "climate-driven scheduling for outdoor events",
+    "equity in use of public parks for cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "take over the contracts with for profit, big event productions in our parks",
+    "charge them market rate rent to support arts and housing for artists",
+    "ACL/ticketmaster\u2019s gross was $500M last year, they should have paid $300M in rent",
+    "they should pay market rate rent to the city, or move their event to a private location",
+    "our climate is getting to the point where our outdoor events need to happen in the fall and spring, or after dark"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACL",
+    "ticketmaster"
+  ],
+  "barriers_identified": [
+    "for-profit events not paying market rate for public park use",
+    "insufficient funding for arts and artist housing",
+    "climate conditions making outdoor events difficult"
+  ],
+  "solutions_proposed": [
+    "ACME to take over contracts with for-profit event producers in parks",
+    "charge market rate rent to for-profit events to support arts and housing for artists",
+    "require for-profit events to pay market rate rent or move to private locations",
+    "schedule outdoor events in fall, spring, or after dark due to climate"
+  ],
+  "cached_at": "2025-06-21T01:57:44.418042",
+  "cache_key": "79ca8e1153f9fc8a8777348c8d1564b42652327b1b4866b0a318c9bc3b15e1e2",
+  "model": "gpt-41"
+}

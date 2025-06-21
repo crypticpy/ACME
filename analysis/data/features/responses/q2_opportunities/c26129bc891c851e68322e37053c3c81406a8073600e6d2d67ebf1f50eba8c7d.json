@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preference for small-scale, affordable cultural events",
+    "critique of large, expensive festivals",
+    "value of local neighborhood access to arts",
+    "transportation and mobility challenges",
+    "desire for city-supported decentralized programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "small things - not huge/expensive events like ACL",
+    "the zilker hillside theater comes to mind",
+    "the city could work to establish similar things elsewhere",
+    "spread the reach out a bit",
+    "we are no longer a city where you can drive anywhere you want to do things",
+    "live work play locally"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "zilker hillside theater",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "large, expensive events dominate",
+    "transportation difficulties across the city"
+  ],
+  "solutions_proposed": [
+    "establish similar things elsewhere to spread the reach out a bit",
+    "support small-scale, local cultural events"
+  ],
+  "cached_at": "2025-06-21T00:35:11.775989",
+  "cache_key": "c26129bc891c851e68322e37053c3c81406a8073600e6d2d67ebf1f50eba8c7d",
+  "model": "gpt-41"
+}

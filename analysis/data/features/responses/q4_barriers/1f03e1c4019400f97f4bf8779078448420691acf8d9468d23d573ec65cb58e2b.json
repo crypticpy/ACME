@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers",
+    "parking challenges",
+    "affordability of cultural events",
+    "lack of event awareness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Distance",
+    "parking",
+    "high cost of tickets",
+    "limited awareness of events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Distance",
+    "parking",
+    "high cost of tickets",
+    "limited awareness of events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:44.975398",
+  "cache_key": "1f03e1c4019400f97f4bf8779078448420691acf8d9468d23d573ec65cb58e2b",
+  "model": "gpt-41"
+}

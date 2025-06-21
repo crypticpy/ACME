@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of studio space",
+    "challenges for ceramic artists",
+    "need for artist development opportunities",
+    "support for emerging artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "challenge to find an affordable studio space",
+    "ceramic art",
+    "create artists development workshops",
+    "educational opportunities for emerging artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studio space"
+  ],
+  "solutions_proposed": [
+    "create artists development workshops",
+    "educational opportunities for emerging artists"
+  ],
+  "cached_at": "2025-06-21T01:47:32.870040",
+  "cache_key": "ee4a45a79e69cf6d1eed2c20ae8adec65e7a0dc7996cbbcee5c4648e3632ce86",
+  "model": "gpt-41"
+}

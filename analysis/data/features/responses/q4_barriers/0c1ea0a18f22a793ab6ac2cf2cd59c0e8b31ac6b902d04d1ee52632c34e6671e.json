@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "intersectional identity barriers",
+    "perceived self-evidence of exclusion",
+    "religious and cultural marginalization"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Religious Conservative, Female, and Black",
+    "I think this is self evident"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "barriers related to being Religious Conservative",
+    "barriers related to being Female",
+    "barriers related to being Black",
+    "intersectional barriers based on identity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:54.899556",
+  "cache_key": "0c1ea0a18f22a793ab6ac2cf2cd59c0e8b31ac6b902d04d1ee52632c34e6671e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of transparency in scoring",
+    "need for feedback on application results",
+    "desire for balanced adjudication panels"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more transparency overall",
+    "with the scoring rubric and your specific scores",
+    "more sharing of how you can improve or why you received what you did",
+    "a mixed panel of peers plus designated professional adjudicators"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in scoring",
+    "insufficient feedback on application outcomes",
+    "potential bias or imbalance in adjudication panels"
+  ],
+  "solutions_proposed": [
+    "increase transparency with scoring rubric and specific scores",
+    "provide more sharing of how applicants can improve or reasons for scores",
+    "implement a mixed panel of peers and professional adjudicators"
+  ],
+  "cached_at": "2025-06-21T00:54:58.924009",
+  "cache_key": "a9261596f663a59c450a77ac1d94c2e2bc4a0bc08f0c3ce5d6efec06c569d5fc",
+  "model": "gpt-41"
+}

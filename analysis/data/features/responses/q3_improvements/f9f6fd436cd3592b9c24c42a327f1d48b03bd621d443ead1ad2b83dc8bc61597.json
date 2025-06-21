@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "barriers for working musicians",
+    "equity in access to funding",
+    "overwhelming requirements for non-academic artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Easier application process",
+    "discouraged because the questions asked for some pretty in depth information and presentation",
+    "normal working musician may not be in tune with answering if they didn\u2019t attend university",
+    "talented spirits out there who are overwhelmed by the thought of any application",
+    "deserve a leg up and are part of this community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex and in-depth application questions",
+    "requirement for academic-style responses",
+    "overwhelming application process for non-university-educated musicians"
+  ],
+  "solutions_proposed": [
+    "Easier application process"
+  ],
+  "cached_at": "2025-06-21T00:54:44.544828",
+  "cache_key": "f9f6fd436cd3592b9c24c42a327f1d48b03bd621d443ead1ad2b83dc8bc61597",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in funding decisions",
+    "concerns about sustainability and longevity of support",
+    "critiques of diversity implementation",
+    "desire for holistic community representation",
+    "perceived imbalance in the funding system"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "why my company is not competitive enough to receive ongoing support",
+    "how can these awards actually build sustainability/longevity",
+    "emphasis on diversity actually represent diversity but not in a such a racially/compartmentalized way",
+    "it feels that it has become too literal where its actually a limitation",
+    "doesn't actually consider the wholeness of a community",
+    "I want people to be able to forget those distinctions and feel safe to embrace togetherness",
+    "the system doesn't feel balanced"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clarity in funding competitiveness",
+    "overly compartmentalized approach to diversity",
+    "funding system feels unbalanced"
+  ],
+  "solutions_proposed": [
+    "diversity should consider the wholeness of a community rather than compartmentalized categories"
+  ],
+  "cached_at": "2025-06-21T00:58:14.964659",
+  "cache_key": "7713ceadb7eb5dbcb408d99db7d0e8ed801993912ef5ba03a05b7d3cfba4df82",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking limitations at cultural venues",
+    "physical accessibility of inclusive and innovative spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Parking.",
+    "The most inclusive and innovative meeting spaces usually don\u2019t have good access to the building itself."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient parking at cultural venues",
+    "poor physical access to inclusive and innovative meeting spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:27.946407",
+  "cache_key": "16daa06e4f130d9d779ec51aa269b7125360d63684e048062b90520e76b25675",
+  "model": "gpt-41"
+}

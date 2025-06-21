@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of physical space for arts activities",
+    "Insufficient funding for cultural work",
+    "Creative adaptation through pop-ups and partnerships",
+    "Use of personal resources (home) for cultural activity",
+    "Low optimism for systemic change"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of space, lack of funding largely",
+    "we try to work around with pop ups, and more guerrilla style",
+    "form partnerships with more unconventional spaces",
+    "I don't really have much hope that this will change",
+    "I'll just keep on keeping on, opening up my house and forming these conversations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of space",
+    "Lack of funding"
+  ],
+  "solutions_proposed": [
+    "Work around with pop ups",
+    "Form partnerships with unconventional spaces",
+    "Open up personal house for events"
+  ],
+  "cached_at": "2025-06-21T01:23:03.967751",
+  "cache_key": "22457ff9febdc262c5087891bdd27c44e367ec388cd097913eaacb9e0be0d6fd",
+  "model": "gpt-41"
+}

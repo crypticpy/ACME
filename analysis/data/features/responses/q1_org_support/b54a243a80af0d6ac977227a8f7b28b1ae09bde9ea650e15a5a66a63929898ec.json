@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Continuation of grant funding",
+    "Support for artists, creatives, and small business owners",
+    "Alleviating increasing costs of living",
+    "Sustaining Austin's identity as a cultural arts city"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "continue actively keeping the Cultural Arts Grant funding",
+    "Live music fund, Elevate, Nexus, Thrive",
+    "most helpful way to alleviate increasing costs of living",
+    "allow for Austin to thrive as a cultural arts city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live music fund",
+    "Elevate",
+    "Nexus",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "increasing costs of living"
+  ],
+  "solutions_proposed": [
+    "continue actively keeping the Cultural Arts Grant funding going"
+  ],
+  "cached_at": "2025-06-20T01:12:37.877390",
+  "cache_key": "b54a243a80af0d6ac977227a8f7b28b1ae09bde9ea650e15a5a66a63929898ec",
+  "model": "gpt-41"
+}

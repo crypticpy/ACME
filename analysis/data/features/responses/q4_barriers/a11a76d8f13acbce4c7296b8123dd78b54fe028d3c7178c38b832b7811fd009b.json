@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost barriers to participation",
+    "geographic accessibility",
+    "insufficient outreach or marketing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "affordability",
+    "proximity",
+    "lack of effective promotion"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability",
+    "proximity",
+    "lack of effective promotion"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:24.097750",
+  "cache_key": "a11a76d8f13acbce4c7296b8123dd78b54fe028d3c7178c38b832b7811fd009b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Limited support beyond health insurance",
+    "Lack of guidance for career development",
+    "Exclusion of international and non-established artists",
+    "Perceived cliquishness in the local music scene",
+    "Focus on established Austin artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "when it comes down to asking advice about finding a manager for your band or finance (loans, grants) or seeking band members, they just point you in another direction",
+    "seems to be geared toward local Texan music and not really a worldly view when it comes to uplifting international artists",
+    "Few and far\u2026 but not too many \u2026outside of the 'already established Austin artists.'",
+    "Sometimes it feels like you can\u2019t fit in with the 'clicks.'"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "Lack of career development support (manager, finance, band members)",
+    "Redirection rather than direct assistance",
+    "Focus on local Texan music to the exclusion of international artists",
+    "Limited opportunities for non-established artists",
+    "Perceived cliquishness and exclusion in the music community"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:27.790990",
+  "cache_key": "be8f89dad0b0b28ce3e9f241bf54032934230283599109e2fb674a8b35206378",
+  "model": "gpt-41"
+}

@@ -1,0 +1,48 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for operational and infrastructure support",
+    "prioritizing equity and sustainability in funding",
+    "amplifying and elevating local creative leaders",
+    "importance of multi-year funding and mentorship",
+    "deep listening and co-creation with cultural leaders",
+    "access to affordable spaces",
+    "validation and trust-building in the creative community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Many creative organizations have the vision but not the operational support to scale their impact",
+    "multi-year funding, mentorship, and infrastructure support that prioritizes equity and sustainability",
+    "ACME can serve as a megaphone by creating platforms, both digital and physical, that elevate their work",
+    "curated showcases, storytelling campaigns, or public partnerships",
+    "engage in deep listening and co-creation with cultural leaders",
+    "providing access to affordable spaces",
+    "amplifying what\u2019s already working"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of operational support to scale impact",
+    "instability due to one-time grants",
+    "creative leaders operating under the radar",
+    "limited access to affordable spaces"
+  ],
+  "solutions_proposed": [
+    "offer multi-year funding",
+    "provide mentorship",
+    "infrastructure support prioritizing equity and sustainability",
+    "create digital and physical platforms to elevate local work",
+    "curated showcases, storytelling campaigns, public partnerships",
+    "engage in deep listening and co-creation with cultural leaders",
+    "act as a liaison to city leadership",
+    "provide access to affordable spaces",
+    "amplify existing successful efforts"
+  ],
+  "cached_at": "2025-06-20T10:32:29.980996",
+  "cache_key": "d9a704c2a8bbe8ffacedd657f415b33598ebba6ab32ad26277dc0c013a92141b",
+  "model": "gpt-41"
+}

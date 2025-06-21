@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of cultural funding programs",
+    "insufficient communication or outreach",
+    "disconnect between programs and local artists/residents"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "What are they.",
+    "What do they do",
+    "what good has happened because of them",
+    "I\u2019m a musician plus a long time resident and have no idea of this"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about programs",
+    "poor visibility among intended beneficiaries"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:17:38.348365",
+  "cache_key": "34e4cf8eb06a50800a0a490f4d70d82a211b3eb7423cfc14af611a0f59638622",
+  "model": "gpt-41"
+}

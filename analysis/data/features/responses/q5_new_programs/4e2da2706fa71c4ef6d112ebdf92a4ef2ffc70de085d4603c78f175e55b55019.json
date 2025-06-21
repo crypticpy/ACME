@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for emergency financial support",
+    "artist merit-based funding",
+    "critique of social service-based grant criteria"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "emergency grants of $5000",
+    "based of Artist quality",
+    "not on social service"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding decisions based on social service criteria rather than artistic quality"
+  ],
+  "solutions_proposed": [
+    "offer emergency grants of $5000 based on artist quality, not social service"
+  ],
+  "cached_at": "2025-06-21T01:52:53.865939",
+  "cache_key": "4e2da2706fa71c4ef6d112ebdf92a4ef2ffc70de085d4603c78f175e55b55019",
+  "model": "gpt-41"
+}

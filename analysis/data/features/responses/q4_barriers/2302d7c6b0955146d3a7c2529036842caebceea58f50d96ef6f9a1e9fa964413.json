@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of promotion for the arts",
+    "insufficient community alignment",
+    "challenges in audience development",
+    "high costs of art creation and performance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Promotion",
+    "alignment as an arts community",
+    "audience development",
+    "prohibitive cost of making/performing art"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of promotion",
+    "lack of alignment as an arts community",
+    "difficulty developing audiences",
+    "prohibitive cost of making/performing art"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:36.582252",
+  "cache_key": "2302d7c6b0955146d3a7c2529036842caebceea58f50d96ef6f9a1e9fa964413",
+  "model": "gpt-41"
+}

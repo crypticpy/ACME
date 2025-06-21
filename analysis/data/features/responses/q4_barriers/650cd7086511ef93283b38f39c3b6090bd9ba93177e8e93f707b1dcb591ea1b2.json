@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "antisemitism as a barrier",
+    "dominance of mass culture",
+    "bureaucratic obstacles"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Anti-senitism",
+    "mass culture mindset",
+    "Bureaucracy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "antisemitism",
+    "mass culture mindset",
+    "bureaucracy"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:49.834362",
+  "cache_key": "650cd7086511ef93283b38f39c3b6090bd9ba93177e8e93f707b1dcb591ea1b2",
+  "model": "gpt-41"
+}

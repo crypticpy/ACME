@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconvenient event timing",
+    "high operational costs for venues",
+    "expensive ticket prices",
+    "barriers to live music access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Hours - time of live music performance",
+    "Cost - if it weren't so expensive to operate and maintain venues",
+    "perhaps ticket prices could come down"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconvenient hours for live music performances",
+    "high cost to operate and maintain venues",
+    "high ticket prices"
+  ],
+  "solutions_proposed": [
+    "reduce operational and maintenance costs for venues to lower ticket prices"
+  ],
+  "cached_at": "2025-06-21T01:31:10.471799",
+  "cache_key": "bc521e341ffac609ff42193bc5da797137549ce897acc23757935399b3bfb06a",
+  "model": "gpt-41"
+}

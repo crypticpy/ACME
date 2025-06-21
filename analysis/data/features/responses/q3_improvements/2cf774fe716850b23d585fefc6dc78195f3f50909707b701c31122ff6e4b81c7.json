@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "age diversity in decision-making",
+    "representation of older adults",
+    "youth focus in committees"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "broader age demographic amongst the committee members",
+    "youth is vital but not all of Austin is under 30"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of age diversity among committee members"
+  ],
+  "solutions_proposed": [
+    "broaden age demographic amongst committee members"
+  ],
+  "cached_at": "2025-06-21T01:10:45.389363",
+  "cache_key": "2cf774fe716850b23d585fefc6dc78195f3f50909707b701c31122ff6e4b81c7",
+  "model": "gpt-41"
+}

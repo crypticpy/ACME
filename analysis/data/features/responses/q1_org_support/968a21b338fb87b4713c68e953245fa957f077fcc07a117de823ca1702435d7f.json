@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "fragmentation among artistic disciplines",
+    "need for collaboration and shared resources",
+    "isolation of genre communities",
+    "resource constraints for venue owners",
+    "importance of trust and buy-in for change"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "create more community + connection between the factions and genres",
+    "fosters collaboration and shared resources/info/experiences between us all",
+    "live music is over on one side, classical musicians are segmented on the other",
+    "visual artists and actors are off somewhere else",
+    "venue owners are so strapped they don't know how to help or what else is out there",
+    "this will take time, trust, and buy-in",
+    "if the right genre leaders are engaged, it can be done"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fragmentation between artistic genres",
+    "lack of communication and connection",
+    "venue owners' resource constraints"
+  ],
+  "solutions_proposed": [
+    "create more community and connection between factions and genres",
+    "foster collaboration and shared resources/info/experiences",
+    "engage the right genre leaders to build trust and buy-in"
+  ],
+  "cached_at": "2025-06-20T01:14:23.875218",
+  "cache_key": "968a21b338fb87b4713c68e953245fa957f077fcc07a117de823ca1702435d7f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more LGBTQIA+ events",
+    "Interest in free cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "LGBTQIA+ related events",
+    "free events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "offer more LGBTQIA+ related events",
+    "increase availability of free events"
+  ],
+  "cached_at": "2025-06-21T00:33:32.070125",
+  "cache_key": "520009c4c6f67e56a7c49e6e5255f4bc49490f63f59b39a52274be9951833fa7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable studio space for visual artists",
+    "city inaction regarding creative community needs",
+    "developer relations and accountability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Visual Artists in Austin need affordable studio space",
+    "the City has made no effort",
+    "work the developers to accommodate the needs of the creative community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studio space",
+    "city's failure to engage with developers on behalf of artists"
+  ],
+  "solutions_proposed": [
+    "city should work with developers to accommodate the needs of the creative community"
+  ],
+  "cached_at": "2025-06-21T00:30:48.009398",
+  "cache_key": "20d208d8b826e0c84165775e17299d4a028bde37fc8eef661ffc19311486b2f5",
+  "model": "gpt-41"
+}

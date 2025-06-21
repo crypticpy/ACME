@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community-building through participatory arts",
+    "folkloric drumming and dance traditions",
+    "preference for participant-focused events",
+    "interest in specific cultural groups and ensembles"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Drumming and dance events like Austin Samba, Lannaya African Dance, Bate Lata, Meli Samba, and Wache",
+    "arts come from folkloric traditions that build community",
+    "engaging everyone as participants rather than as spectators",
+    "HONK! is similar, albeit not folkloric"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Samba",
+    "Lannaya African Dance",
+    "Bate Lata",
+    "Meli Samba",
+    "Wache",
+    "HONK!"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More drumming and dance events rooted in folkloric traditions that encourage participation"
+  ],
+  "cached_at": "2025-06-21T00:32:33.924891",
+  "cache_key": "ccfb2fca6dc7ec1e36275d02796faa014ee56695cc4eca0ed6f39dd1a41eab0a",
+  "model": "gpt-41"
+}

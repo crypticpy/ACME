@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for financial support",
+    "support for live theatre",
+    "underrepresentation of theatre funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Funding to support live theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for live theatre"
+  ],
+  "solutions_proposed": [
+    "provide funding to support live theatre"
+  ],
+  "cached_at": "2025-06-21T02:05:23.979279",
+  "cache_key": "885f82eca1fb1aae92bd634665a6511ea981b86e55697521a3f5cfe65d652cd5",
+  "model": "gpt-41"
+}

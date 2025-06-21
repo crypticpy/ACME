@@ -1,0 +1,53 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Centering disabled artists in program design",
+    "Accessible and inclusive music education and performance",
+    "Artist residencies and fellowships for disabled creatives",
+    "Accessible spaces and sensory-friendly environments",
+    "Integrated collaborations between disabled and non-disabled artists",
+    "Workforce development for disabled young adults in the arts",
+    "Funding and prioritization of disabled-led projects"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "programs that center disabled artists\u2014not as an afterthought or accommodation, but as a driving force",
+    "inclusive music education and performance programs that are accessible to individuals with complex disabilities",
+    "artist residencies and fellowships specifically for disabled musicians and creatives, with built-in support for access needs",
+    "accessible rehearsal and performance spaces, with sensory-friendly environments, flexible participation structures, and staff trained in disability inclusion",
+    "integrated ensembles and creative collaborations that bring together disabled and non-disabled artists on equal footing",
+    "workforce development programs in the arts for disabled young adults",
+    "grant and commission opportunities that prioritize disabled-led projects and narratives",
+    "programs like these are either nonexistent or extremely limited in Austin",
+    "build a cultural infrastructure that doesn't just make space, but starts with disabled artists at the center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Programs centering disabled artists are nonexistent or extremely limited in Austin",
+    "Lack of accessible music education and performance opportunities for individuals with complex disabilities",
+    "Insufficient artist residencies and fellowships with built-in access support",
+    "Inaccessible rehearsal and performance spaces",
+    "Lack of sensory-friendly environments and flexible participation structures",
+    "Staff not trained in disability inclusion",
+    "Few opportunities for integrated collaborations between disabled and non-disabled artists",
+    "Limited workforce development programs for disabled young adults in arts administration, tech, and education",
+    "Lack of grant and commission opportunities prioritizing disabled-led projects"
+  ],
+  "solutions_proposed": [
+    "Offer programs that center disabled artists as a driving force",
+    "Create inclusive music education and performance programs for individuals with complex disabilities",
+    "Develop artist residencies and fellowships specifically for disabled musicians and creatives, with built-in support for access needs",
+    "Ensure accessible rehearsal and performance spaces, with sensory-friendly environments, flexible participation structures, and staff trained in disability inclusion",
+    "Facilitate integrated ensembles and creative collaborations between disabled and non-disabled artists",
+    "Establish workforce development programs in the arts for disabled young adults, including arts administration, tech, and education",
+    "Provide grant and commission opportunities that prioritize disabled-led projects and narratives"
+  ],
+  "cached_at": "2025-06-21T02:08:21.628495",
+  "cache_key": "35afbc4cd1bfafb29c21c7eea0a82d6947f702e7cf787f164656ae192e3d5bb8",
+  "model": "gpt-41"
+}

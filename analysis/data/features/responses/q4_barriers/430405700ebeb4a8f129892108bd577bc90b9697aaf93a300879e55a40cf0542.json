@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "dominance of large entertainment organizations over venues",
+    "lack of fully equipped outdoor venues",
+    "insufficient city infrastructure for cultural events",
+    "sustainability shortcomings at event sites"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Financial and the fact that large entertainment organizations are controlling indoor and outdoor venues",
+    "The City of Austin does not outdoor venue that is fully outfitted for an event from the stage, fencing, vendor areas, and security",
+    "Vic Mathias Park does not have anything to help promote sustainability even though there have programs produced there for the past 25 years at least"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Vic Mathias Park"
+  ],
+  "barriers_identified": [
+    "financial barriers",
+    "control of venues by large entertainment organizations",
+    "lack of fully equipped outdoor venues",
+    "insufficient event infrastructure (stage, fencing, vendor areas, security)",
+    "lack of sustainability measures at venues"
+  ],
+  "solutions_proposed": [
+    "City of Austin should provide an outdoor venue that is fully outfitted for events",
+    "Add sustainability features to Vic Mathias Park"
+  ],
+  "cached_at": "2025-06-21T01:25:08.373039",
+  "cache_key": "430405700ebeb4a8f129892108bd577bc90b9697aaf93a300879e55a40cf0542",
+  "model": "gpt-41"
+}

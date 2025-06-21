@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expansion of arts funding",
+    "diversification of funding sources",
+    "transparency about funding origins",
+    "concerns about future grant availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Expanding support of the arts",
+    "Are HOT funds the only funder for these programs?",
+    "How much is funded by the NEA?",
+    "Have these grants been canceled in 2025?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about funding sources",
+    "potential cancellation of grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:52:55.666825",
+  "cache_key": "5619c3ed1a9e7999184ed018967974467bf7dc2149e8d0286d61bfb798a790b4",
+  "model": "gpt-41"
+}

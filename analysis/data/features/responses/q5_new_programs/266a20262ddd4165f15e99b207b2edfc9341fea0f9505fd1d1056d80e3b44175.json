@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth programming",
+    "educational opportunities",
+    "music-focused initiatives",
+    "media and visual storytelling"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "youth and educational programming",
+    "focused on music",
+    "media/visual storytelling"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer youth and educational programming focused on music and media/visual storytelling"
+  ],
+  "cached_at": "2025-06-21T01:56:50.168358",
+  "cache_key": "266a20262ddd4165f15e99b207b2edfc9341fea0f9505fd1d1056d80e3b44175",
+  "model": "gpt-41"
+}

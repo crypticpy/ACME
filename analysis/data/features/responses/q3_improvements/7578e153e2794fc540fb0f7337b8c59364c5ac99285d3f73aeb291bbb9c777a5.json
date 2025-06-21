@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Redistribution of HOT tax revenue",
+    "Underfunding of music and film sectors",
+    "Economic impact of local artists vs. convention center",
+    "Critique of corporate interests (ACC)",
+    "Recognition of artists' contributions to Austin's identity",
+    "Desire for Austin to be a top destination for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more money go to individual artists and organizations in the music and film industries",
+    "A *majority* of our HOT taxes go to a convention center that serves only 300,000 visitors per year",
+    "Filmmakers and musicians bring in MILLIONS of tourists and generate MILLIONS of jobs",
+    "The imbalance is staggering",
+    "redistribute financial support from failed corporate interests like the ACC to the artists, festivals, and museums who keep Austin weird, creative, and thriving"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACC",
+    "SXSW",
+    "ACME"
+  ],
+  "barriers_identified": [
+    "Imbalance in HOT tax allocation favoring convention center over artists",
+    "Financial support directed to 'failed corporate interests' instead of cultural sectors"
+  ],
+  "solutions_proposed": [
+    "Redistribute financial support from the convention center (ACC) to artists, festivals, and museums",
+    "Increase funding for individual artists and organizations in the music and film industries"
+  ],
+  "cached_at": "2025-06-21T01:18:25.499091",
+  "cache_key": "7578e153e2794fc540fb0f7337b8c59364c5ac99285d3f73aeb291bbb9c777a5",
+  "model": "gpt-41"
+}

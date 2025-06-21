@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct financial support for artists",
+    "affordable housing for artists",
+    "health care and dental care access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Direct support to artists via funding",
+    "subsidized housing",
+    "health care/dental"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct funding for artists",
+    "unaffordable housing",
+    "inadequate access to health and dental care"
+  ],
+  "solutions_proposed": [
+    "Direct funding to artists",
+    "subsidized housing for artists",
+    "subsidized health care and dental care for artists"
+  ],
+  "cached_at": "2025-06-21T01:08:32.070888",
+  "cache_key": "4b68b3abb3847cfd3b7b8fefb72cc5a56c79f65027316b584eabf66475f7d5ea",
+  "model": "gpt-41"
+}

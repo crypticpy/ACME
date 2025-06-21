@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for seasonal programming",
+    "interest in workshops",
+    "identification of program gap"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Summer workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer summer workshops"
+  ],
+  "cached_at": "2025-06-21T02:09:10.771780",
+  "cache_key": "7df898e35455212b58ed1f6a5b94e1f9752a79bd6aaa60544c46319a1a6e4c35",
+  "model": "gpt-41"
+}

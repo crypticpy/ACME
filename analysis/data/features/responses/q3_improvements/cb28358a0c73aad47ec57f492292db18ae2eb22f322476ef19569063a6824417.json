@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "frustration with grant process delays",
+    "demand for immediate grant access",
+    "perception of bureaucratic inefficiency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Stop with all this screwing around",
+    "open up, the grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "delays in grant availability",
+    "bureaucratic obstacles"
+  ],
+  "solutions_proposed": [
+    "open up the grants immediately"
+  ],
+  "cached_at": "2025-06-21T01:05:19.590661",
+  "cache_key": "cb28358a0c73aad47ec57f492292db18ae2eb22f322476ef19569063a6824417",
+  "model": "gpt-41"
+}

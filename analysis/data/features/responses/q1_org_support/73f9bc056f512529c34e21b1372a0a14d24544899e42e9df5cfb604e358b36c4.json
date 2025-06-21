@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community input as foundation",
+    "importance of data collection",
+    "valuing public feedback in decision-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Survey's and data collection like this",
+    "Input from the community matters",
+    "should be the starting point of all discussions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Use community input as the starting point for all discussions",
+    "Conduct surveys and data collection"
+  ],
+  "cached_at": "2025-06-20T10:37:33.859895",
+  "cache_key": "73f9bc056f512529c34e21b1372a0a14d24544899e42e9df5cfb604e358b36c4",
+  "model": "gpt-41"
+}

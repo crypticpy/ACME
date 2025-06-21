@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion of non-marginalized artists",
+    "focus on marginalized communities in funding",
+    "concern about equitable access to opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "focus on marginalized communities",
+    "those who have talent but are not a part of these communities left out",
+    "opportunities to perform or make an impact"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of talented individuals not in marginalized communities from opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:38.602815",
+  "cache_key": "44105f930d3f950426eb4fff535e88f50bc606b6d486d67b0231a315c87a74c7",
+  "model": "gpt-41"
+}

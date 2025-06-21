@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable creative spaces",
+    "need for investment in cultural and recreation centers",
+    "accessibility of programming for the community",
+    "support for local creatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "AFFORDABLE SPACES",
+    "investment in the cultural and rec centers",
+    "provide viable options for space",
+    "creatives creating accessible/affordable programming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable spaces for creatives",
+    "insufficient investment in cultural and rec centers"
+  ],
+  "solutions_proposed": [
+    "investment in the cultural and rec centers to provide viable options for space"
+  ],
+  "cached_at": "2025-06-21T00:53:16.733193",
+  "cache_key": "69d26bb6ac3d9773ffaa62a944d3bca59125ad01630bbb8c9a6ec8b405f884fa",
+  "model": "gpt-41"
+}

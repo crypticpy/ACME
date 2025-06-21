@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for curated experiences",
+    "interest in live music",
+    "enhancement of cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "curated live music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase curated live music opportunities"
+  ],
+  "cached_at": "2025-06-21T00:50:42.956250",
+  "cache_key": "f9319667fd5370cf5615848928d81d22798b96d11785d9059f715b8354a6945c",
+  "model": "gpt-41"
+}

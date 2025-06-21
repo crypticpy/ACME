@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "frequency of funding opportunities",
+    "attainability of grants",
+    "support for small organizations",
+    "temporary financial relief"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more frequent micro grants",
+    "more attainable",
+    "provide temporary relief",
+    "smaller organizations",
+    "throughout the year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "infrequent grant opportunities",
+    "grants not easily attainable for small organizations",
+    "lack of ongoing relief for smaller organizations"
+  ],
+  "solutions_proposed": [
+    "offer more frequent micro grants",
+    "make grants more attainable",
+    "provide temporary relief to smaller organizations throughout the year"
+  ],
+  "cached_at": "2025-06-21T02:07:26.491603",
+  "cache_key": "2ddedad421acf643b1a75a75ca7fa5a8f397527985ee6f1d24d8c07772ed1cfd",
+  "model": "gpt-41"
+}

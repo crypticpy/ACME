@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more African American cultural events",
+    "Interest in food festivals",
+    "Interest in music festivals",
+    "Recognition of Juneteenth celebrations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Events about african american culture",
+    "food festivals",
+    "music festivals",
+    "juneteenth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "juneteenth"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More events about African American culture",
+    "More food festivals",
+    "More music festivals",
+    "More Juneteenth celebrations"
+  ],
+  "cached_at": "2025-06-21T00:48:28.723575",
+  "cache_key": "be98ae11e3af786e642238dfc1fad1c17b52f907b6fa59e06a8b134047b2b3e5",
+  "model": "gpt-41"
+}

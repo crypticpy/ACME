@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "fair compensation for local artists",
+    "role of local venues in artist payment",
+    "support from ACME for artist pay"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "local artists get paid better",
+    "by local venues",
+    "with help from ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "local artists not paid well by local venues"
+  ],
+  "solutions_proposed": [
+    "local venues pay local artists better with help from ACME"
+  ],
+  "cached_at": "2025-06-21T00:48:18.480416",
+  "cache_key": "bfb51bc566cc196fe51974df252268c837c1522810c6bf04e18f5f9f6b2d0707",
+  "model": "gpt-41"
+}

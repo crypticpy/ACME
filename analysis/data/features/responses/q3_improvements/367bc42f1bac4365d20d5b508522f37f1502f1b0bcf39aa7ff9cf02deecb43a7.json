@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of visibility of cultural programs",
+    "perceived secrecy or lack of transparency",
+    "desire for greater public awareness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "their light is hidden",
+    "being kept a secret"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility",
+    "lack of transparency"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:07:56.931912",
+  "cache_key": "367bc42f1bac4365d20d5b508522f37f1502f1b0bcf39aa7ff9cf02deecb43a7",
+  "model": "gpt-41"
+}

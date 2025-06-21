@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for new technology in the arts",
+    "support for virtual reality experiences",
+    "music innovation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grants for virtual reality music experience"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for virtual reality music experience"
+  ],
+  "solutions_proposed": [
+    "offer grants for virtual reality music experience"
+  ],
+  "cached_at": "2025-06-21T02:06:07.459994",
+  "cache_key": "bd99124bc476c2094118519160277bd6113e273a8913ad179262a732f11ee838",
+  "model": "gpt-41"
+}

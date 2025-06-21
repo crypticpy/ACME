@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "burdensome application process",
+    "inequitable funding amounts",
+    "historical underrepresentation",
+    "limited support for marginalized groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "a lot of hoops you have to jump over to get funding",
+    "historically underrepresented artists, organizations, and communities",
+    "can apply for funding but it's not very much, only $5k",
+    "compared to the other grants available"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "insufficient funding for underrepresented groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:16:43.475943",
+  "cache_key": "8788e4c030389151aad24746016652b35fb03fbe97c9e9f69a85af192cabd272",
+  "model": "gpt-41"
+}

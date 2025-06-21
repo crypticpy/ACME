@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding for AIPP",
+    "preservation and maintenance of public art",
+    "holistic approach to managing art collections",
+    "promotion and visibility of public art",
+    "use of interactive maps and social media"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Provide more funding for AIPP",
+    "treating the AIPP pieces as a body of work",
+    "additional funds for preserving and maintaining them",
+    "important for future thinking holistically",
+    "showcasing work through interactive maps",
+    "promoted through social media channels"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide more funding for AIPP",
+    "Allocate additional funds for preserving and maintaining AIPP pieces",
+    "Treat AIPP pieces as a body of work",
+    "Showcase work through interactive maps",
+    "Promote interactive maps through social media channels"
+  ],
+  "cached_at": "2025-06-20T10:44:24.042803",
+  "cache_key": "cfa1c265b9cec46b7327f54c68df8ca2ab2fbf98e9b1641e2df1ecd7b4bb1bc4",
+  "model": "gpt-41"
+}

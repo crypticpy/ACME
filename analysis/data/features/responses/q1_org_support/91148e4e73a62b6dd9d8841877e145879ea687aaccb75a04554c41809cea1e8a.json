@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct engagement with organizations",
+    "inclusion of new/uninvolved organizations",
+    "needs assessment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "asking organizations already in the system how they need support",
+    "finding organizations not yet involved to ask the same"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "organizations not yet involved are not being asked how they need support"
+  ],
+  "solutions_proposed": [
+    "ask organizations already in the system how they need support",
+    "find organizations not yet involved and ask them how they need support"
+  ],
+  "cached_at": "2025-06-20T10:36:23.518171",
+  "cache_key": "91148e4e73a62b6dd9d8841877e145879ea687aaccb75a04554c41809cea1e8a",
+  "model": "gpt-41"
+}

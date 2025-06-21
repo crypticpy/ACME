@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for increased representation of Filipino and Pacific Islander communities",
+    "Call for diverse cultural programming (festivals, performances, exhibits, film, storytelling, workshops)",
+    "Need for visibility and engagement platforms for underrepresented groups",
+    "Importance of cultural heritage and contemporary voices",
+    "Fostering belonging and cultural exchange"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "highlight Filipino and Pacific Islander communities in Austin",
+    "festivals, performances, art exhibits, film screenings, storytelling events, and workshops",
+    "celebrate our heritage, traditions, and contemporary voices",
+    "underrepresented in Austin\u2019s cultural landscape",
+    "creating more platforms for visibility and engagement",
+    "enrich the city\u2019s diversity",
+    "foster belonging and cultural exchange"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of Filipino and Pacific Islander communities in Austin\u2019s cultural landscape"
+  ],
+  "solutions_proposed": [
+    "create more festivals, performances, art exhibits, film screenings, storytelling events, and workshops that celebrate Filipino and Pacific Islander heritage, traditions, and contemporary voices",
+    "create more platforms for visibility and engagement for these communities"
+  ],
+  "cached_at": "2025-06-21T00:36:46.282439",
+  "cache_key": "8b796c59a9516afa54021ce07889ab353ccb21b66173028412728f056c507621",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for transparency in grant applications",
+    "clarity in application process",
+    "importance of feedback for applicants",
+    "support for organizations of varying sizes",
+    "demonstrating organizational impact with funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "transparency and clarity for organizations when applying for grants",
+    "feedback and strong processes",
+    "help small, medium, and large organizations showcase their work",
+    "demonstrate what they can do with significant funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in grant application process",
+    "unclear application procedures",
+    "insufficient feedback mechanisms"
+  ],
+  "solutions_proposed": [
+    "increase transparency and clarity in grant applications",
+    "provide feedback and strong processes for applicants",
+    "support organizations of all sizes in showcasing their work and impact"
+  ],
+  "cached_at": "2025-06-21T01:07:24.659946",
+  "cache_key": "8763d6d3c8013f031dfa375e9bf028813e19294014c01c7d4d8f6134497013d2",
+  "model": "gpt-41"
+}

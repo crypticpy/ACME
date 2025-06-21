@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "disability-related mobility challenges",
+    "dependence on caretakers for participation",
+    "difficulty navigating a changing city",
+    "loss of familiar landmarks"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "my epilepsy prevents me from driving or traveling more than an hour without a caretaker",
+    "well known friend who's is able to recognize symptoms of a seizure",
+    "Austin\u2019s rapidly evolving environment also makes it difficult to navigate",
+    "landmarks I grew up with that I still hold well cemented in memory"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to drive due to epilepsy",
+    "need for a caretaker or trusted friend to travel",
+    "difficulty navigating due to city changes",
+    "loss of familiar landmarks"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:24.272336",
+  "cache_key": "c573d7e87a1204be23dc2691a3b10fa129f982e690b0dd66c522d5eccb9c21a8",
+  "model": "gpt-41"
+}

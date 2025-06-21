@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "integration of mutual thriving and sustainability",
+    "focus on human capital",
+    "emphasis on reciprocity in programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "programs that marry the concepts of mutual thriving, sustainability, human capitol, and reciprocity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "programs that integrate mutual thriving, sustainability, human capital, and reciprocity"
+  ],
+  "cached_at": "2025-06-21T01:55:08.770497",
+  "cache_key": "ee4eb6ec4aa9d03ba28174fed3a43ea2ebd0f0cfa19e80ef87fa3024ef798c73",
+  "model": "gpt-41"
+}

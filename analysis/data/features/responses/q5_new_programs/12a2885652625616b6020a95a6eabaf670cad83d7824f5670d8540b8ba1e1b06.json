@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "smaller stipend opportunities",
+    "community benefit requirements",
+    "eligibility criteria for funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "smaller stipends opportunities",
+    "community benefiting requirements",
+    "maintain eligibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of smaller stipend opportunities",
+    "insufficient community benefit requirements tied to eligibility"
+  ],
+  "solutions_proposed": [
+    "offer smaller stipends with community benefiting requirements to maintain eligibility"
+  ],
+  "cached_at": "2025-06-21T01:50:19.078443",
+  "cache_key": "12a2885652625616b6020a95a6eabaf670cad83d7824f5670d8540b8ba1e1b06",
+  "model": "gpt-41"
+}

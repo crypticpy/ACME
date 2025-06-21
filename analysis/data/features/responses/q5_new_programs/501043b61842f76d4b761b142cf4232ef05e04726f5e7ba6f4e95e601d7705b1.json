@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth educational programming",
+    "creative writing opportunities",
+    "funding for underrepresented programs",
+    "support for organizations like Austin Bat Cave"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding opportunities for youth educational creating writing programs",
+    "like Austin Bat Cave"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Bat Cave"
+  ],
+  "barriers_identified": [
+    "lack of funding opportunities for youth educational creative writing programs"
+  ],
+  "solutions_proposed": [
+    "offer funding opportunities for youth educational creative writing programs"
+  ],
+  "cached_at": "2025-06-21T02:09:15.342920",
+  "cache_key": "501043b61842f76d4b761b142cf4232ef05e04726f5e7ba6f4e95e601d7705b1",
+  "model": "gpt-41"
+}

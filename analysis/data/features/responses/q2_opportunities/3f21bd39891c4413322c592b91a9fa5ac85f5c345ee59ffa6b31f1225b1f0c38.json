@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved artist spaces",
+    "venue safety concerns",
+    "high cost of venues",
+    "support for artists across all mediums"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "emphasis placed on creating/renovating better space for artists",
+    "venues are out-of-date",
+    "pose safety concerns",
+    "they are pricey"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "out-of-date venues",
+    "safety concerns in venues",
+    "high cost of venues"
+  ],
+  "solutions_proposed": [
+    "creating/renovating better space for artists"
+  ],
+  "cached_at": "2025-06-21T00:36:09.333539",
+  "cache_key": "3f21bd39891c4413322c592b91a9fa5ac85f5c345ee59ffa6b31f1225b1f0c38",
+  "model": "gpt-41"
+}

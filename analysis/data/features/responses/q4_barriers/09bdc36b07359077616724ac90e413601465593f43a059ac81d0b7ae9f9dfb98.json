@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "competition between arts and other entertainment (sports, TV, phones)",
+    "lack of thriving cultural venues in neighborhoods",
+    "community disengagement from the arts",
+    "neighborhoods as cultural deserts",
+    "barriers of time and funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Time, funding, community involvement",
+    "how do we encourage more people to support and value the arts vs. going to sports events, watching TV, or staring at their phone?",
+    "if venues were thriving in more neighborhoods, people would be curious and come out, if invited",
+    "many neighborhoods are cultural deserts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of time",
+    "lack of funding",
+    "insufficient community involvement",
+    "preference for other entertainment options (sports, TV, phones)",
+    "absence of thriving cultural venues in many neighborhoods",
+    "neighborhoods as cultural deserts"
+  ],
+  "solutions_proposed": [
+    "increase thriving venues in more neighborhoods",
+    "invite people to cultural events to spark curiosity"
+  ],
+  "cached_at": "2025-06-21T01:37:36.895649",
+  "cache_key": "09bdc36b07359077616724ac90e413601465593f43a059ac81d0b7ae9f9dfb98",
+  "model": "gpt-41"
+}

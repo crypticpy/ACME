@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for affordable fine arts experiences",
+    "oversaturation of nightlife and party culture",
+    "lack of non-alcohol-centered cultural options"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more affordable fine arts experiences",
+    "aren't available at night clubs and bars",
+    "Austin has enough parties and opportunities to drink"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable fine arts experiences",
+    "cultural offerings dominated by nightlife and alcohol"
+  ],
+  "solutions_proposed": [
+    "increase affordable fine arts experiences not tied to nightlife venues"
+  ],
+  "cached_at": "2025-06-21T00:36:43.134047",
+  "cache_key": "26934cc54432564bfbb402dbcfa6402dfcd14d0215879a9cef55f2b6c0fcd0cd",
+  "model": "gpt-41"
+}

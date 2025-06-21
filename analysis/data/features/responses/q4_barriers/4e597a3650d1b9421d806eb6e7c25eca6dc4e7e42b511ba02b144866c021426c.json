@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to grant access",
+    "inequity in grant application processes",
+    "resource disparities between organizations and communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Most organizations hire grant writers",
+    "ensure proper application",
+    "My community cannot afford such extravagance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford grant writers",
+    "costly application process"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:22.814695",
+  "cache_key": "4e597a3650d1b9421d806eb6e7c25eca6dc4e7e42b511ba02b144866c021426c",
+  "model": "gpt-41"
+}

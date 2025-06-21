@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanded funding opportunities",
+    "support for both emerging and established organizations",
+    "concierge or case management services",
+    "awareness of funding and support resources",
+    "permanent affordable office and performance space",
+    "cultural community land trust (CLT) models"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more funding opportunities for both emerging and established organizations",
+    "concierge/case management services",
+    "ensure that organizations are aware of other relevant funding and support opportunities",
+    "permanent affordable office and performance space",
+    "through a cultural CLT or other means"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding opportunities",
+    "lack of awareness of available support",
+    "lack of permanent affordable office and performance space"
+  ],
+  "solutions_proposed": [
+    "provide more funding opportunities (one-time and ongoing)",
+    "offer concierge/case management services",
+    "create permanent affordable office and performance space through a cultural CLT or other means"
+  ],
+  "cached_at": "2025-06-20T10:31:42.700695",
+  "cache_key": "54b41e3e660f639a0da9e9856c4807659cbb085edbb369c1fd4ea044944d70fc",
+  "model": "gpt-41"
+}

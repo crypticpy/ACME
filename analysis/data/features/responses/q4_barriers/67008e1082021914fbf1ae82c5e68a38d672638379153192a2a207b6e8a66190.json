@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of available venues",
+    "limited opportunities for longer running shows",
+    "barriers for artists accessing spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "not enough venues available for artists",
+    "particularly for longer running shows"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough venues available for artists",
+    "insufficient venues for longer running shows"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:19.288272",
+  "cache_key": "67008e1082021914fbf1ae82c5e68a38d672638379153192a2a207b6e8a66190",
+  "model": "gpt-41"
+}

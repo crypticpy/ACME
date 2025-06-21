@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived over-prioritization of historically underrepresented groups",
+    "concern about merit-based funding",
+    "dissatisfaction with grant panelist expertise and process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "focused too heavily on historically underrepresented",
+    "other orgs of merit either lost or didn't receive funding",
+    "grant panelists did not understand and carefully research and consider applying orgs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of careful research and consideration by grant panelists",
+    "funding allocation perceived as unfair to organizations of merit"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:00:30.177818",
+  "cache_key": "75c5aad70cfa0f4c8c88e432542013af935bbb812a134692fa644f1e7dbdcf0a",
+  "model": "gpt-41"
+}

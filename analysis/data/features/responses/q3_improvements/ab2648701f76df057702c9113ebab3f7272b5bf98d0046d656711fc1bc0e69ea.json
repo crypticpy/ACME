@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable distribution of funds",
+    "awareness of disparities in funding",
+    "recognition of organizational privilege"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Ensuring equitable dispersion of funds",
+    "My organization was very lucky to have received funding",
+    "very deserving organizations that have not received funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "deserving organizations not receiving funding"
+  ],
+  "solutions_proposed": [
+    "Ensuring equitable dispersion of funds"
+  ],
+  "cached_at": "2025-06-21T00:55:56.449329",
+  "cache_key": "ab2648701f76df057702c9113ebab3f7272b5bf98d0046d656711fc1bc0e69ea",
+  "model": "gpt-41"
+}

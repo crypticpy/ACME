@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "misalignment between ACME and local cultural community values",
+    "need for recognition and repair of past harm",
+    "exclusion of artist-led organizations",
+    "prioritization of existing missions over ACME's mission",
+    "centering Black, Brown, and working-class cultural leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "false assumption of alignment",
+    "does not reflect the values or leadership of Austin\u2019s existing cultural community",
+    "recognize and repair harm caused by bypassing existing artist-led organizations",
+    "support the missions that already exist",
+    "especially those led by Austin artists, Black and Brown leaders, and working-class cultural workers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ACME bypassing existing artist-led organizations",
+    "lack of alignment with community values",
+    "exclusion of Black, Brown, and working-class leaders"
+  ],
+  "solutions_proposed": [
+    "ACME must first recognize and repair harm caused by bypassing existing artist-led organizations",
+    "ACME should support the missions that already exist, especially those led by Austin artists, Black and Brown leaders, and working-class cultural workers"
+  ],
+  "cached_at": "2025-06-20T10:21:37.011814",
+  "cache_key": "8fbd3c1d883b64c1dd9a76e396cf7de11bbb6464be049b6cad4d062afaee0674",
+  "model": "gpt-41"
+}

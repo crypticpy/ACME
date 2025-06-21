@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for Afro Latin dance programming",
+    "Comparison to existing dance academies",
+    "Underrepresentation of specific cultural forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Afro Latin dance Academy",
+    "the same way that there is Austin ballet Academy",
+    "and Ballet Folklorico"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin ballet Academy",
+    "Ballet Folklorico"
+  ],
+  "barriers_identified": [
+    "Lack of Afro Latin dance programming"
+  ],
+  "solutions_proposed": [
+    "Establish an Afro Latin dance Academy"
+  ],
+  "cached_at": "2025-06-21T02:05:37.481988",
+  "cache_key": "d9160f6703d7bd458203d24cb1e9c4c0b0aacd2d80c62e9872633ef091d2338e",
+  "model": "gpt-41"
+}

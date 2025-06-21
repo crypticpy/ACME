@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of nonprofits with community service history",
+    "use of city funding for equity",
+    "building equitable hiring and programming pipelines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Put nonprofits arts orgs with the history of community service at the fore",
+    "use City funding",
+    "build pipelines for equity in their hiring and programing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of prioritization for nonprofits with community service history",
+    "insufficient equity in hiring and programming"
+  ],
+  "solutions_proposed": [
+    "Prioritize nonprofit arts organizations with a history of community service",
+    "Use city funding to ensure equity pipelines in hiring and programming"
+  ],
+  "cached_at": "2025-06-20T10:35:16.910123",
+  "cache_key": "e593a0c99cd0557ebb765cb350826741dc48089be0b14c9bff6cc0a6cd642e71",
+  "model": "gpt-41"
+}

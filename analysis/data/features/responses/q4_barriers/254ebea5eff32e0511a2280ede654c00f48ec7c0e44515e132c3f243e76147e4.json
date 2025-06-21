@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers for people with disabilities",
+    "physical accessibility challenges",
+    "inclusion of people with disabilities in cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "cost of events is the biggest barrier for people with disabilites",
+    "physical access is also an issue"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events",
+    "physical access"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:35.804279",
+  "cache_key": "254ebea5eff32e0511a2280ede654c00f48ec7c0e44515e132c3f243e76147e4",
+  "model": "gpt-41"
+}

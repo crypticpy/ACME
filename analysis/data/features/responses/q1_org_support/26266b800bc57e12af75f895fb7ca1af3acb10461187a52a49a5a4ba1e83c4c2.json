@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing diversity among artists and community",
+    "improving awareness of opportunities and events",
+    "providing funding support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "open spaces for more diverse community and artists",
+    "awareness about opportunities and events",
+    "funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of open spaces for diverse community and artists",
+    "insufficient awareness about opportunities and events",
+    "inadequate funding"
+  ],
+  "solutions_proposed": [
+    "open spaces for more diverse community and artists",
+    "increase awareness about opportunities and events",
+    "provide more funding"
+  ],
+  "cached_at": "2025-06-20T01:21:30.591030",
+  "cache_key": "26266b800bc57e12af75f895fb7ca1af3acb10461187a52a49a5a4ba1e83c4c2",
+  "model": "gpt-41"
+}

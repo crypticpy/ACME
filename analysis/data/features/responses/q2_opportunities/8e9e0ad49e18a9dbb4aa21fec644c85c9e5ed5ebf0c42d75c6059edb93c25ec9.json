@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in unique performances",
+    "support for locally-created art",
+    "desire for thoughtful or meaningful cultural experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "interesting",
+    "homegrown",
+    "thoughtful performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:52:29.233880",
+  "cache_key": "8e9e0ad49e18a9dbb4aa21fec644c85c9e5ed5ebf0c42d75c6059edb93c25ec9",
+  "model": "gpt-41"
+}

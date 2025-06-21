@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "public misunderstanding of arts funding",
+    "need for increased arts funding",
+    "connection between arts funding and city vitality"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "lack us understanding by the public",
+    "arts need a bigger piece of the pie",
+    "funding artists will make this city lively and fun again"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public understanding that arts need more funding"
+  ],
+  "solutions_proposed": [
+    "increase funding for artists"
+  ],
+  "cached_at": "2025-06-21T01:34:11.234823",
+  "cache_key": "86f5ac2af846ee3e1343c6f8c90df929048eb46082bfa0ca6348b7ab97e63851",
+  "model": "gpt-41"
+}

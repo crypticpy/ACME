@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for city-backed industrial arts facilities",
+    "Interest in hands-on creative disciplines",
+    "Underrepresentation of industrial arts programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I would love to see and be a part of a city backed Industrial Arts Center",
+    "Woodworking, Metalworking, Glass and Ceramics"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create a city backed Industrial Arts Center",
+    "Offer programs in Woodworking, Metalworking, Glass and Ceramics"
+  ],
+  "cached_at": "2025-06-21T01:52:18.286816",
+  "cache_key": "48d44a974a9ab04af4f1355986444627ef540b0783f71bcdb9bc9a412eac2f8d",
+  "model": "gpt-41"
+}

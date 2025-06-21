@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Distrust in previous community engagement processes",
+    "Perceived bias or agenda among staff",
+    "Community skepticism and emotional fatigue",
+    "Desire for expert involvement from within the community",
+    "Critique of indiscriminate funding practices",
+    "Call for best practices, community impact, and accountability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "community engagement...got thrown out",
+    "staff's anti-art social agenda",
+    "We are jaded, angry and suspicious",
+    "please ask professional experts from within the community",
+    "Majority sentiment to fund every person who claims to be a starving artist should not rule",
+    "best practices, community impact and accountability should be foregrounded above all else"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Previous community engagement disregarded",
+    "Perceived staff bias against art",
+    "Lack of trust in process",
+    "Overreliance on majority sentiment rather than expertise"
+  ],
+  "solutions_proposed": [
+    "Ask professional experts from within the community",
+    "Foreground best practices, community impact, and accountability over majority sentiment"
+  ],
+  "cached_at": "2025-06-21T02:13:11.168222",
+  "cache_key": "83ec7445e58e4b9c7356e65c3e80147f252301f5bf3297c717415341dbf866b2",
+  "model": "gpt-41"
+}

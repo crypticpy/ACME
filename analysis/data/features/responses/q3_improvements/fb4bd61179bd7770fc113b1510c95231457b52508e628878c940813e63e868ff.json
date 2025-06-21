@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of application processes",
+    "barriers for small and volunteer-run organizations",
+    "need for support of community-rooted initiatives",
+    "prioritization of cultural heritage preservation",
+    "direct community engagement in arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Simplified Application Process",
+    "complex and time-consuming",
+    "especially for smaller, volunteer-run organizations",
+    "prioritize funding for organizations deeply rooted in specific cultural communities",
+    "foster a sense of belonging and preserve cultural heritage",
+    "supporting projects that engage community members directly"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex and time-consuming application processes",
+    "difficulty for smaller, volunteer-run organizations",
+    "lack of familiarity with grant writing"
+  ],
+  "solutions_proposed": [
+    "simplify the application process",
+    "prioritize funding for organizations rooted in specific cultural communities",
+    "support projects that directly engage community members in cultural arts"
+  ],
+  "cached_at": "2025-06-21T01:18:48.956590",
+  "cache_key": "fb4bd61179bd7770fc113b1510c95231457b52508e628878c940813e63e868ff",
+  "model": "gpt-41"
+}

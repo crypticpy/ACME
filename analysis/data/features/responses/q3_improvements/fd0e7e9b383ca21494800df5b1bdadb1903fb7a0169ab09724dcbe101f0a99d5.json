@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "peer panel expertise",
+    "local arts community knowledge",
+    "historical understanding of Austin arts",
+    "recognition of long-term artist contributions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Peer panels that are informed about the arts community in Austin",
+    "understand the history of the arts community",
+    "artists who have contributed to the cultural landscape for so many years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "peer panels lacking knowledge of local arts community",
+    "insufficient understanding of arts community history"
+  ],
+  "solutions_proposed": [
+    "Use peer panels informed about the Austin arts community and its history"
+  ],
+  "cached_at": "2025-06-21T01:19:04.362633",
+  "cache_key": "fd0e7e9b383ca21494800df5b1bdadb1903fb7a0169ab09724dcbe101f0a99d5",
+  "model": "gpt-41"
+}

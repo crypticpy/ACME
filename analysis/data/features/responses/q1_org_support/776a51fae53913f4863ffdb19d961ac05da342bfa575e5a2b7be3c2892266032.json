@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dissatisfaction with post-2022 grant funding changes",
+    "perceived harm to organizations from funding policy shifts",
+    "concern about potential political repercussions",
+    "irreversible damage to cultural organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Go back to the way you funded grants before 2022",
+    "The city is lucky that Abbott hasn\u2019t been made aware of the changes implemented",
+    "It\u2019s only a matter of time",
+    "it\u2019s too late for organizations who were decimated by these changes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "decimation of organizations due to funding changes"
+  ],
+  "solutions_proposed": [
+    "return to pre-2022 grant funding model"
+  ],
+  "cached_at": "2025-06-20T10:22:00.327127",
+  "cache_key": "776a51fae53913f4863ffdb19d961ac05da342bfa575e5a2b7be3c2892266032",
+  "model": "gpt-41"
+}

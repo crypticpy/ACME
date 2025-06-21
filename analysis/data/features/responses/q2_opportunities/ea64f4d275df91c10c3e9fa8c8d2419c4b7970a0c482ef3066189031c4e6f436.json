@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration among artists",
+    "networking within disciplines",
+    "access to opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more links to collaborative opportunities",
+    "within similar disciplines"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connections or links to collaborative opportunities"
+  ],
+  "solutions_proposed": [
+    "provide more links to collaborative opportunities within similar disciplines"
+  ],
+  "cached_at": "2025-06-21T00:30:03.733740",
+  "cache_key": "ea64f4d275df91c10c3e9fa8c8d2419c4b7970a0c482ef3066189031c4e6f436",
+  "model": "gpt-41"
+}

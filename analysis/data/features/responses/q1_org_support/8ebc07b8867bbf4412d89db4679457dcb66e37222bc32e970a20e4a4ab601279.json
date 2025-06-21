@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for creatives",
+    "support for creative community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "provide affordable housing for creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing for creatives"
+  ],
+  "solutions_proposed": [
+    "provide affordable housing for creatives"
+  ],
+  "cached_at": "2025-06-20T10:41:47.938623",
+  "cache_key": "8ebc07b8867bbf4412d89db4679457dcb66e37222bc32e970a20e4a4ab601279",
+  "model": "gpt-41"
+}

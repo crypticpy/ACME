@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process simplification",
+    "accessibility requirements clarity",
+    "conditional grant requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Reduce or consolidate the application length",
+    "Adjust wording/points and requirements for Accessibility requirements",
+    "if they are awarded the grant, they are required to use funds to increase accessibility points for their events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lengthy application process",
+    "unclear or burdensome accessibility requirements"
+  ],
+  "solutions_proposed": [
+    "Reduce or consolidate the application length",
+    "Adjust wording/points and requirements for Accessibility requirements",
+    "Require awarded grantees to use funds to increase accessibility points for their events"
+  ],
+  "cached_at": "2025-06-21T00:54:24.893432",
+  "cache_key": "2536f6a560fce1935b015c3131908c0e0730ef12c82697116c27277e3378b5de",
+  "model": "gpt-41"
+}

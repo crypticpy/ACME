@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for music-related community groups",
+    "interest in arts and crafts activities",
+    "underrepresentation of informal creative gatherings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "meetup groups for guitar",
+    "ukulele",
+    "drumming",
+    "arts and crafts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer meetup groups for guitar",
+    "offer meetup groups for ukulele",
+    "offer meetup groups for drumming",
+    "offer meetup groups for arts and crafts"
+  ],
+  "cached_at": "2025-06-21T02:07:39.765374",
+  "cache_key": "83ef80633925eae62b2f2c5ae75c44cdefb29ca0f3a2f485339d8f09f38b9675",
+  "model": "gpt-41"
+}

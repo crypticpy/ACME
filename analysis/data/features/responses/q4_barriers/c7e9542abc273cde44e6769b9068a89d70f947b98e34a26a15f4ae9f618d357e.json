@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived abundance of cultural access in Hyde Park",
+    "inequity between neighborhoods",
+    "aspiration for citywide parity in access"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I live in Hyde Park",
+    "we have lots of access",
+    "if all communities had what we do, that would be great"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Expand Hyde Park-level access to all communities"
+  ],
+  "cached_at": "2025-06-21T01:44:49.484327",
+  "cache_key": "c7e9542abc273cde44e6769b9068a89d70f947b98e34a26a15f4ae9f618d357e",
+  "model": "gpt-41"
+}

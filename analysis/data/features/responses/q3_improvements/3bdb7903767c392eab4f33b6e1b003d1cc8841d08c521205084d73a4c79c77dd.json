@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "critique of current funding distribution",
+    "perception of unfairness or exclusivity",
+    "demand for broader community access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cancel all of these giveaways",
+    "funds to be more readily accessible",
+    "wider section of the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited accessibility of funds to the broader community"
+  ],
+  "solutions_proposed": [
+    "cancel all of these giveaways",
+    "make funds more readily accessible to a wider section of the community"
+  ],
+  "cached_at": "2025-06-21T00:58:06.825332",
+  "cache_key": "3bdb7903767c392eab4f33b6e1b003d1cc8841d08c521205084d73a4c79c77dd",
+  "model": "gpt-41"
+}

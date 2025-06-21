@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant application process prioritizes form over substance",
+    "insider knowledge gives unfair advantage",
+    "lack of genuine interest from decision makers",
+    "outcomes of projects are undervalued",
+    "box-checking mentality in funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the only thing that matters is being smart about how you answer the questions",
+    "possible to get insider information",
+    "actual outcome desired by the grant writer is not considered",
+    "\"checking the boxes\" are considered",
+    "decision makers not having a deep interest in the outcomes",
+    "no deep care"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "grant application process rewards strategic answering over substance",
+    "access to insider information creates inequity",
+    "decision makers lack investment in project outcomes",
+    "focus on procedural compliance rather than impact"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:28.472975",
+  "cache_key": "897694c12bccaf7909f46b6a2ff8598f606485a8a3ad3fdeeea2086a663db559",
+  "model": "gpt-41"
+}

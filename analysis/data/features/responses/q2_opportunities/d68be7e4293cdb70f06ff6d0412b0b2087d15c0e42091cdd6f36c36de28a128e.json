@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more public art",
+    "interest in music events",
+    "need for cultural programming outside downtown"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more public art",
+    "music events",
+    "outside of downtown Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited cultural events outside downtown"
+  ],
+  "solutions_proposed": [
+    "increase public art outside downtown",
+    "host more music events outside downtown"
+  ],
+  "cached_at": "2025-06-21T00:28:02.144556",
+  "cache_key": "d68be7e4293cdb70f06ff6d0412b0b2087d15c0e42091cdd6f36c36de28a128e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding for emerging artists",
+    "affordable spaces for emerging artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more funding for emerging artists",
+    "affordable spaces for emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for emerging artists",
+    "lack of affordable spaces for emerging artists"
+  ],
+  "solutions_proposed": [
+    "more funding for emerging artists",
+    "affordable spaces for emerging artists"
+  ],
+  "cached_at": "2025-06-21T01:18:14.323607",
+  "cache_key": "adfe980d523ae85f8a4137b18c5230fa2e5ad58bb4dbd6082ec2b8641edd09c2",
+  "model": "gpt-41"
+}

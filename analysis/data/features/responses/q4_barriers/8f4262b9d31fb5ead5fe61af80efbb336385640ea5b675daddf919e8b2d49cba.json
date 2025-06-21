@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "personal responsibility",
+    "dismissal of barriers",
+    "minimization of challenges faced by others"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Stop being a victim",
+    "go if you want",
+    "Nobody is stopping you"
+  ],
+  "intent": "barrier_denial",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:31.771848",
+  "cache_key": "8f4262b9d31fb5ead5fe61af80efbb336385640ea5b675daddf919e8b2d49cba",
+  "model": "gpt-41"
+}

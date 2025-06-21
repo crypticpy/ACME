@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for Black creatives",
+    "racial equity in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Support BLACK creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support BLACK creatives"
+  ],
+  "cached_at": "2025-06-20T01:23:16.710256",
+  "cache_key": "759784b4db01272e56199157306958b30fef8d2f14412d668da672ebd0120904",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about funding allocation criteria",
+    "impact on historically funded groups",
+    "debate over prioritizing underrepresented groups",
+    "need-based funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "programs should be based on organization's needs and output in the community",
+    "not always based on underrepresented groups",
+    "groups that historically have received funding are unable to operate"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "historically funded groups unable to operate due to shifting funding priorities"
+  ],
+  "solutions_proposed": [
+    "base programs on organization's needs and output in the community rather than solely on underrepresented group status"
+  ],
+  "cached_at": "2025-06-21T00:56:37.713116",
+  "cache_key": "cf750d4a62a3185fe5cf42ced3bdb092093c87a64cc12575a208349d8d2eba59",
+  "model": "gpt-41"
+}

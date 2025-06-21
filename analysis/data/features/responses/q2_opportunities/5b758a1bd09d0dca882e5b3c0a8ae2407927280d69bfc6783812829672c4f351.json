@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of creative spaces",
+    "need for artist infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more affordable artist studios",
+    "workspaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable artist studios",
+    "lack of affordable workspaces"
+  ],
+  "solutions_proposed": [
+    "increase affordable artist studios and workspaces"
+  ],
+  "cached_at": "2025-06-21T00:27:07.752627",
+  "cache_key": "5b758a1bd09d0dca882e5b3c0a8ae2407927280d69bfc6783812829672c4f351",
+  "model": "gpt-41"
+}

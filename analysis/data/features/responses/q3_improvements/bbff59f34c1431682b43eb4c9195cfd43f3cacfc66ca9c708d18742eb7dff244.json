@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Long-term commitment to diversity should be valued",
+    "Concerns about narrow definitions of diversity",
+    "Perceived inequity in funding allocation",
+    "Negative impacts of current implementation on arts community",
+    "Need to prioritize artistic quality in funding decisions",
+    "Recognition of multiple dimensions of diversity (race, gender, LGBTQ, disability)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "organizations that have HAVE A HISTORY of prioritizing diversity",
+    "valued as much or more than brand new organizations",
+    "a more wholistic and nuanced view of what diversity means",
+    "WOMEN, LGBTQ, AND DISABLED ARTISTS MATTER TOO",
+    "organizations that are actually diverse and have been for years are being denied funding",
+    "support organizations that are segregated by race",
+    "not been well-implemented and has only hurt the arts community as a whole",
+    "see artistic quality in programming re-enter the funding system as a priority",
+    "critical reviews, local awards, and audience testimony can be ways to demonstrate the artistic merit"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Longstanding diverse organizations denied funding",
+    "Funding favoring organizations with sudden changes over those with sustained diversity",
+    "Overly narrow focus on racial diversity to the exclusion of other identities",
+    "Poor implementation of diversity-focused funding"
+  ],
+  "solutions_proposed": [
+    "Value organizations with a history of prioritizing diversity equally or more than new or suddenly changed organizations",
+    "Adopt a more holistic and nuanced definition of diversity",
+    "Include women, LGBTQ, and disabled artists in diversity considerations",
+    "Reintroduce artistic quality as a funding criterion",
+    "Use critical reviews, local awards, and audience testimony to assess artistic merit"
+  ],
+  "cached_at": "2025-06-21T00:59:00.804241",
+  "cache_key": "bbff59f34c1431682b43eb4c9195cfd43f3cacfc66ca9c708d18742eb7dff244",
+  "model": "gpt-41"
+}

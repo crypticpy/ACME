@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "facilitating collaboration between organizations and community members",
+    "creating opportunities for partnership-building",
+    "supporting shared goals within the community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "creating space and opportunity",
+    "aligned orgs and community members",
+    "connect over shared goals",
+    "generate collaborative partnerships"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of space and opportunity for organizations and community members to connect"
+  ],
+  "solutions_proposed": [
+    "create space and opportunity for aligned organizations and community members to connect over shared goals and generate collaborative partnerships"
+  ],
+  "cached_at": "2025-06-21T02:07:20.511853",
+  "cache_key": "bdec8eca2c0b2144e340b8906b680fe70f282cac7491d074e66b1f1aa19fc301",
+  "model": "gpt-41"
+}

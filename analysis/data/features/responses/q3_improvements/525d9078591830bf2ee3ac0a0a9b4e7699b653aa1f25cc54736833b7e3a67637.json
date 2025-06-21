@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about business-oriented funding models",
+    "need for knowledgeable panelists",
+    "arts-centered scoring criteria",
+    "age equity for older groups",
+    "prioritization of audience impact"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support existing businesses less models",
+    "panelists must know their subjects",
+    "scoring must be arts centered",
+    "no penalties for older groups",
+    "audience served and overall impact should be priority"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "penalties for older groups",
+    "panelists lacking subject knowledge",
+    "funding models favoring businesses over arts",
+    "scoring not centered on arts"
+  ],
+  "solutions_proposed": [
+    "reduce support for business-oriented funding models",
+    "require panelists to be knowledgeable about their subjects",
+    "make scoring arts-centered",
+    "eliminate penalties for older groups",
+    "prioritize audience served and overall impact"
+  ],
+  "cached_at": "2025-06-21T01:05:48.195272",
+  "cache_key": "525d9078591830bf2ee3ac0a0a9b4e7699b653aa1f25cc54736833b7e3a67637",
+  "model": "gpt-41"
+}

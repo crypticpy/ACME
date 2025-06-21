@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for transparency in funding distribution",
+    "importance of consistency in funding",
+    "stabilization of arts organizations and community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "transparency and consistency around funding distribution",
+    "arts organizations need to be able to rely on consistent funding",
+    "help stabilize the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in funding distribution",
+    "inconsistency in funding"
+  ],
+  "solutions_proposed": [
+    "increase transparency around funding distribution",
+    "ensure consistency in funding"
+  ],
+  "cached_at": "2025-06-21T01:12:28.293958",
+  "cache_key": "d566b03dc6579b220fd3742e4e390e0e3bfcd3849163d52ce1f5f9e76ed47479",
+  "model": "gpt-41"
+}

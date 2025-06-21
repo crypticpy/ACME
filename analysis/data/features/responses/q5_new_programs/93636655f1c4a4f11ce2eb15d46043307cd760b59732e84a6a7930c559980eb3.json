@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "corporate support for nonprofits",
+    "funding facilitation",
+    "public-private partnerships"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "facilitate corporate underwriting",
+    "local nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of corporate underwriting for local nonprofits"
+  ],
+  "solutions_proposed": [
+    "facilitate corporate underwriting of local nonprofits"
+  ],
+  "cached_at": "2025-06-21T02:04:40.745868",
+  "cache_key": "93636655f1c4a4f11ce2eb15d46043307cd760b59732e84a6a7930c559980eb3",
+  "model": "gpt-41"
+}

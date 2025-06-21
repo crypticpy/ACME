@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local music community",
+    "critique of prioritizing touring acts",
+    "desire for investment in local talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I'd like to see the local music community bolstered",
+    "Bringing in touring acts is great, but it ultimately does nothing for us"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "focus on touring acts over local musicians"
+  ],
+  "solutions_proposed": [
+    "bolster the local music community"
+  ],
+  "cached_at": "2025-06-21T00:44:44.696179",
+  "cache_key": "adc77c92dfa616d9bf5f7241aaf8526b2715e7459d46a61ae3bf8dc4c2ac6123",
+  "model": "gpt-41"
+}

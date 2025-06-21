@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affirmation of current efforts",
+    "housing policy as a priority"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Keep up the work",
+    "focus on housing policy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "focus on housing policy"
+  ],
+  "cached_at": "2025-06-20T10:30:56.741668",
+  "cache_key": "061487ab774a88063d05086655ceeb93357a8f71a8cdbdaad90d6f94a6bb2784",
+  "model": "gpt-41"
+}

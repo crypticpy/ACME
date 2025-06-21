@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "newcomer uncertainty about engagement",
+    "desire to contribute professional skills",
+    "lack of clear pathways for involvement",
+    "shared uncertainty among potential contributors"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I\u2019m new to getting involved with the creative community here in austin",
+    "I want to use my years of design leadership skills form corporate to help grow here but not sure how",
+    "I\u2019m sure others feel the same way but aren\u2019t sure how to do so"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about how to get involved",
+    "lack of guidance for newcomers",
+    "unclear pathways for contributing professional skills"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:28:21.654623",
+  "cache_key": "eecefb63993e065dfc072bacfc343a928cdf8df1e0eecf5666058a155db16927",
+  "model": "gpt-41"
+}

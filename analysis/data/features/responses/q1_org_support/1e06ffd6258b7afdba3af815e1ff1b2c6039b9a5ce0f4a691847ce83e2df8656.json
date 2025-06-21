@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased visibility",
+    "support for organizations and leaders",
+    "platform access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "give them more platforms"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of platforms"
+  ],
+  "solutions_proposed": [
+    "give them more platforms"
+  ],
+  "cached_at": "2025-06-20T10:44:01.209437",
+  "cache_key": "1e06ffd6258b7afdba3af815e1ff1b2c6039b9a5ce0f4a691847ce83e2df8656",
+  "model": "gpt-41"
+}

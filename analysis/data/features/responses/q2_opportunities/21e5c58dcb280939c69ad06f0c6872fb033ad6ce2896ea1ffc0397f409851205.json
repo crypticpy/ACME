@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for greater diversity in arts offerings",
+    "support for experimental and creative spaces",
+    "need for spaces free from commercial and audience pressures",
+    "representation and empowerment of women, LGBTQ+, BIPOC, and other minorities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more diversity in Austin",
+    "different genres, diverse identities of artists",
+    "spaces for experimenting/creativity without the pressure of making money and people-pleasing",
+    "spaces curated by and for women, LGBTQ+ folks, BIPOC folks, and other minorities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pressure of making money",
+    "pressure of people-pleasing",
+    "lack of spaces curated by and for minorities"
+  ],
+  "solutions_proposed": [
+    "create more diverse arts opportunities",
+    "establish spaces for experimentation and creativity without commercial pressure",
+    "develop spaces curated by and for women, LGBTQ+, BIPOC, and other minorities"
+  ],
+  "cached_at": "2025-06-21T00:25:18.330301",
+  "cache_key": "21e5c58dcb280939c69ad06f0c6872fb033ad6ce2896ea1ffc0397f409851205",
+  "model": "gpt-41"
+}

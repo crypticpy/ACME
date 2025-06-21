@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "business support for artists",
+    "modeling after existing business services",
+    "gap in artist infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Small Business Administration for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Small Business Administration"
+  ],
+  "barriers_identified": [
+    "lack of business support services for artists"
+  ],
+  "solutions_proposed": [
+    "Create a program like the Small Business Administration for artists"
+  ],
+  "cached_at": "2025-06-21T01:56:42.620576",
+  "cache_key": "06538d7d7ac90107f4210df10a4c8539c9c26884434eef997ae98b09235b4c3c",
+  "model": "gpt-41"
+}

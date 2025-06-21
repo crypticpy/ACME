@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for small, independent, or community-run venues",
+    "technical and financial assistance for operational sustainability",
+    "preservation of diverse cultural heritage",
+    "inclusion of immigrant and ethnic community spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Small Venue/Space Support Program",
+    "grants or technical assistance specifically for small, independent, or community-run venues",
+    "helping them with operational costs, soundproofing, or equipment upgrades",
+    "Heritage Preservation for Diverse Communities",
+    "expand support for preserving and promoting the unique cultural heritage spaces and traditions",
+    "going beyond historically recognized landmarks",
+    "places important to immigrant and ethnic groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Small Venue/Space Support Program",
+    "Heritage Preservation for Diverse Communities"
+  ],
+  "barriers_identified": [
+    "lack of operational support for small, independent, or community-run venues",
+    "insufficient preservation of spaces important to immigrant and ethnic groups"
+  ],
+  "solutions_proposed": [
+    "Offer grants or technical assistance for small, independent, or community-run venues",
+    "Support with operational costs, soundproofing, or equipment upgrades",
+    "Expand heritage preservation efforts to include spaces and traditions of diverse communities beyond historically recognized landmarks"
+  ],
+  "cached_at": "2025-06-21T02:08:40.506875",
+  "cache_key": "3f9e3b12e044f062b4784077b43a50972bc9ec7ebc059132a3e6a12af6aa7caa",
+  "model": "gpt-41"
+}

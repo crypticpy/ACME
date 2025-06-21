@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost as a barrier to participation",
+    "affordability of cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Events can be extremely expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:21.433055",
+  "cache_key": "c69eea32343ececadd02a114201367dc17639e24e2ff9d8a546850f27aa9fb72",
+  "model": "gpt-41"
+}

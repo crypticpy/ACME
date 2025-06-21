@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "transportation limitations",
+    "lack of awareness of opportunities",
+    "childcare needs",
+    "family-friendly event accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Money",
+    "transportation",
+    "awareness of what's available",
+    "childcare",
+    "ones that are open to kids coming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "money",
+    "transportation",
+    "awareness of what's available",
+    "childcare",
+    "lack of events open to kids"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:19.344492",
+  "cache_key": "bbbc5a880710f03936fce5cd2e9091232f7cb3db03384657590a6ee609da3a41",
+  "model": "gpt-41"
+}

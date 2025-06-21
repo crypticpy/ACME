@@ -1,0 +1,41 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for direct input from organizational leaders",
+    "Importance of partnership and collaboration",
+    "Identifying and addressing obstacles faced by organizations",
+    "Evaluation of laws and regulations impacting support",
+    "Role of ACME as a connector or bridge",
+    "Assessment of representation and diversity among organizations",
+    "Emphasis on tracking and measuring partnership outcomes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "this is a question better asked to the leaders of those organizations",
+    "How would they like to partner with each other or their communities?",
+    "What obstacles are they facing?",
+    "What laws or regulations might need to be adjusted to support them?",
+    "How can ACME be a bridge",
+    "do you have a representative swath of organizations that you're working with?",
+    "How are you tracking those partnerships?",
+    "A lot of opportunity here for in-depth study and iterative improvement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "obstacles are they facing",
+    "laws or regulations might need to be adjusted"
+  ],
+  "solutions_proposed": [
+    "explore with those organizations and others brought on board",
+    "ACME be a bridge to ensuring they meet with the right people and drive those outcomes",
+    "in-depth study and iterative improvement"
+  ],
+  "cached_at": "2025-06-20T10:40:09.814303",
+  "cache_key": "c5eeef7e52f73935ec5b3ee0ce43b63d2f8bef38d9ca44c47d7ac0cda8b55cfd",
+  "model": "gpt-41"
+}

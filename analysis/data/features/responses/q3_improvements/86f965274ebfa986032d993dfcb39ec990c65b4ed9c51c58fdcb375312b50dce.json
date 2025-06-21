@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of transparency in selection process",
+    "concerns about fairness",
+    "desire for accountability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more transparency",
+    "who is selected and why"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in selection"
+  ],
+  "solutions_proposed": [
+    "increase transparency surrounding who is selected and why"
+  ],
+  "cached_at": "2025-06-21T01:07:17.741604",
+  "cache_key": "86f965274ebfa986032d993dfcb39ec990c65b4ed9c51c58fdcb375312b50dce",
+  "model": "gpt-41"
+}

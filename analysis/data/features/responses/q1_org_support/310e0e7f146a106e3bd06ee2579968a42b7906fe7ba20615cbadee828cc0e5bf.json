@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for general operating funding",
+    "direct support to artists and artist communities",
+    "value of non-commercial creative work",
+    "strengthening the creative core"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "general operating funding and resources directly to artists and artist communities",
+    "a strong creative core of makers and creatives",
+    "things that are not commercially successful are still extremely valuable"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of general operating funding",
+    "insufficient support for non-commercially successful creative work"
+  ],
+  "solutions_proposed": [
+    "provide general operating funding and resources directly to artists and artist communities"
+  ],
+  "cached_at": "2025-06-20T01:11:53.863888",
+  "cache_key": "310e0e7f146a106e3bd06ee2579968a42b7906fe7ba20615cbadee828cc0e5bf",
+  "model": "gpt-41"
+}

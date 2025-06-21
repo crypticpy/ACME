@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of available services",
+    "insufficient resources",
+    "insufficient funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "unaware of what is available",
+    "lack of overall resources and funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unaware of what is available",
+    "lack of overall resources",
+    "lack of funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:56.085642",
+  "cache_key": "7223d7b97e7793ada0c1aba16151a3926d7204ab3e05fdac8e99acd7f36db9b7",
+  "model": "gpt-41"
+}

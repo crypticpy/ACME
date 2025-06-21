@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation challenges",
+    "parking difficulties"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "how to get there?",
+    "where to park?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about transportation options",
+    "lack of clear parking solutions"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:34.782594",
+  "cache_key": "90a9c55c44f6931f147d30341125fe378f97d167be45ee6b980586c53963bf57",
+  "model": "gpt-41"
+}

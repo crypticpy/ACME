@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable live music events",
+    "increased access to visual arts workshops",
+    "increased access to writing workshops"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more live music events of moderate admission fee",
+    "more visual arts and writing workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of admission"
+  ],
+  "solutions_proposed": [
+    "more live music events with moderate admission fee",
+    "more visual arts workshops",
+    "more writing workshops"
+  ],
+  "cached_at": "2025-06-21T00:35:22.457993",
+  "cache_key": "cc33213cc726d4e1f0695e032646e7f787c1db3e577ed0b12e1cbb6e110ecfc3",
+  "model": "gpt-41"
+}

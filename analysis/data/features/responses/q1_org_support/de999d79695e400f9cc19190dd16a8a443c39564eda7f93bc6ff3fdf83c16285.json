@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for business logistics support",
+    "interest in artist/business incubator programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Business logistics",
+    "artist/business incubator programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business logistics support",
+    "absence of artist/business incubator programs"
+  ],
+  "solutions_proposed": [
+    "Provide business logistics support",
+    "Create artist/business incubator programs"
+  ],
+  "cached_at": "2025-06-20T10:25:11.628828",
+  "cache_key": "de999d79695e400f9cc19190dd16a8a443c39564eda7f93bc6ff3fdf83c16285",
+  "model": "gpt-41"
+}

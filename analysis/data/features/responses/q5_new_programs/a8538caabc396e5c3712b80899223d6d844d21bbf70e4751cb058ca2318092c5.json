@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "entrepreneurial education for youth",
+    "financial independence pathways",
+    "community role models and mentorship",
+    "mental health acceptance and resources",
+    "network-building for young adults"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "entrepreneurial and educational workshops",
+    "paid members that hold positive influence in the communities",
+    "teaching youth and young adults proper pathways to independence financially",
+    "building a healthy network of relationships",
+    "importance of owning and expressing mental health with ease and security of acceptance",
+    "guidance to resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of entrepreneurial and educational workshops led by influential community members",
+    "insufficient guidance for youth and young adults on financial independence",
+    "lack of safe spaces for mental health expression and acceptance",
+    "limited access to guidance and resources for mental health"
+  ],
+  "solutions_proposed": [
+    "offer entrepreneurial and educational workshops with paid influential community members",
+    "teach youth and young adults pathways to financial independence",
+    "build healthy networks of relationships for young people",
+    "provide programs that support mental health expression with acceptance and security",
+    "offer guidance to mental health resources"
+  ],
+  "cached_at": "2025-06-21T01:51:35.934908",
+  "cache_key": "a8538caabc396e5c3712b80899223d6d844d21bbf70e4751cb058ca2318092c5",
+  "model": "gpt-41"
+}

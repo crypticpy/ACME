@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of awareness about funding opportunities",
+    "ineffective outreach to artists",
+    "communication gaps within the arts community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Tell people about them!",
+    "I work in the arts and am surrounded by artists but none of us know about these grants!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about available grants"
+  ],
+  "solutions_proposed": [
+    "Increase outreach and communication about funding opportunities"
+  ],
+  "cached_at": "2025-06-21T01:09:53.246451",
+  "cache_key": "fe6065cff5795cf9b3780de2920ecccf34b763e4ccbdd2a3f90bb5be3d990032",
+  "model": "gpt-41"
+}

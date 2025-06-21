@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient grant funding",
+    "cost of living pressures in Austin",
+    "direct payment to artists",
+    "basic needs support in grants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more funding included in grants",
+    "basic needs",
+    "Austin cost of living",
+    "paying the artist directly"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient grant funding for basic needs",
+    "high cost of living in Austin",
+    "artists not being paid directly"
+  ],
+  "solutions_proposed": [
+    "increase funding in grants for basic needs",
+    "adjust grants to account for Austin cost of living",
+    "pay artists directly who receive awards"
+  ],
+  "cached_at": "2025-06-21T01:05:26.231221",
+  "cache_key": "db1c3935ae313c08be262fbe4fe6df3bda32141913c439d7ec8b40a5bd952618",
+  "model": "gpt-41"
+}

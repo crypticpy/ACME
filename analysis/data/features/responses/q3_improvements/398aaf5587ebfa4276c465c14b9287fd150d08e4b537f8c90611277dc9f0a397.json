@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived inequity in grant decision-making",
+    "lack of African American grant recipients",
+    "personal experience of exclusion"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "it's not the funding, it's the decision making on who gets the funding",
+    "I rarely if ever in the last 5 Years have seen an African American receive one of these grants including myself"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation of African Americans among grant recipients",
+    "perceived bias or unfairness in funding decisions"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:19:48.611842",
+  "cache_key": "398aaf5587ebfa4276c465c14b9287fd150d08e4b537f8c90611277dc9f0a397",
+  "model": "gpt-41"
+}

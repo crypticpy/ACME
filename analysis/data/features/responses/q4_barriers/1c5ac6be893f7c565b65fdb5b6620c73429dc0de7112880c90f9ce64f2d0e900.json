@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of resources",
+    "personal or community energy limitations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Resources",
+    "energy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources",
+    "lack of energy"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:17.973216",
+  "cache_key": "1c5ac6be893f7c565b65fdb5b6620c73429dc0de7112880c90f9ce64f2d0e900",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to Latino community",
+    "administrative burden of reporting"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Better outreach in Latino community",
+    "easier reporting process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach to Latino community",
+    "complex reporting process"
+  ],
+  "solutions_proposed": [
+    "improve outreach in Latino community",
+    "simplify reporting process"
+  ],
+  "cached_at": "2025-06-21T01:18:32.249139",
+  "cache_key": "e772afc4e6ad95fafac6eb5951e65fe73613342ca39999f02e6d239122bbb1c0",
+  "model": "gpt-41"
+}

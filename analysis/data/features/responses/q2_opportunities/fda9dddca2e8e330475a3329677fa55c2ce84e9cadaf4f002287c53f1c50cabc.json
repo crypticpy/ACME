@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "desire for more theatre opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Dance and Theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:25:07.460436",
+  "cache_key": "fda9dddca2e8e330475a3329677fa55c2ce84e9cadaf4f002287c53f1c50cabc",
+  "model": "gpt-41"
+}

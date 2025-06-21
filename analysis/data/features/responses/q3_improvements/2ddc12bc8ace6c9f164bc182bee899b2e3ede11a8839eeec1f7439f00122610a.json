@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of awareness about funding programs",
+    "limited performance opportunities for artists",
+    "need for improved outreach and communication"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Make artists and the public aware of them!!!",
+    "I am a UT jazz student who loves to perform live.",
+    "I feel like there have been limited opportunities",
+    "I was not aware of these programs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of programs",
+    "limited opportunities for live performance"
+  ],
+  "solutions_proposed": [
+    "increase awareness among artists and the public"
+  ],
+  "cached_at": "2025-06-21T01:16:30.119401",
+  "cache_key": "2ddc12bc8ace6c9f164bc182bee899b2e3ede11a8839eeec1f7439f00122610a",
+  "model": "gpt-41"
+}

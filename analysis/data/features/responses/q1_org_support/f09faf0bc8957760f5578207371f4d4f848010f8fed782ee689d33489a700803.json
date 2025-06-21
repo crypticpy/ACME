@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritizing venues and nonprofits over individual musicians",
+    "perceived self-interest among musicians",
+    "sustainability of organizations versus individuals",
+    "importance of listening to established entities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Listen to the venues and nonprofits who know what to do",
+    "Every musician, including me is out for themselves",
+    "The places that provide the jobs will be around long after a band breaks up or a given musician moves out of town"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "musicians are primarily self-interested"
+  ],
+  "solutions_proposed": [
+    "listen to the venues and nonprofits who know what to do"
+  ],
+  "cached_at": "2025-06-20T10:31:12.386795",
+  "cache_key": "f09faf0bc8957760f5578207371f4d4f848010f8fed782ee689d33489a700803",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic distribution of events",
+    "accessibility for suburban and outskirt residents",
+    "frequency of local cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more events that aren't in central Austin",
+    "more events in south and north Austin",
+    "people who live in the suburbs and outskirts can attend easily/frequently"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "events concentrated in central Austin",
+    "limited access for people in suburbs and outskirts"
+  ],
+  "solutions_proposed": [
+    "hold more events in south and north Austin"
+  ],
+  "cached_at": "2025-06-21T00:33:14.891957",
+  "cache_key": "479565bb922196877ad582104056f943afbbfebdff012a7acaf8c16413c0a4fb",
+  "model": "gpt-41"
+}

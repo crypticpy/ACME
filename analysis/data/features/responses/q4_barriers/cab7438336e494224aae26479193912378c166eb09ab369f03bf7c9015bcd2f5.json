@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient foundation and philanthropic support",
+    "venue scarcity and high rental costs",
+    "threat of venue closures due to rising rents",
+    "loss of local producing companies",
+    "reduced opportunities for writers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Lack of foundation and philanthropic support",
+    "Lack of appropriate venues and high rental costs",
+    "competition for existing venues",
+    "Venues are facing increasing rents",
+    "most are in danger of losing leases or being sold",
+    "Loss of producing companies like Capital T and Theatre En Bloc",
+    "fewer local production opportunities for writers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Capital T",
+    "Theatre En Bloc"
+  ],
+  "barriers_identified": [
+    "Lack of foundation and philanthropic support",
+    "Lack of appropriate venues",
+    "High rental costs",
+    "Competition for existing venues",
+    "Venues facing increasing rents",
+    "Venues in danger of losing leases or being sold",
+    "Loss of producing companies",
+    "Fewer local production opportunities for writers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:09.205664",
+  "cache_key": "cab7438336e494224aae26479193912378c166eb09ab369f03bf7c9015bcd2f5",
+  "model": "gpt-41"
+}

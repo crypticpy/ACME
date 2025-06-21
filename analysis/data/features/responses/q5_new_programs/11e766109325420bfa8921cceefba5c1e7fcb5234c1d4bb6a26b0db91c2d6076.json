@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist-patron relationships",
+    "networking opportunities",
+    "support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Connecting artists with patrons"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection between artists and patrons"
+  ],
+  "solutions_proposed": [
+    "Connecting artists with patrons"
+  ],
+  "cached_at": "2025-06-21T02:09:04.535076",
+  "cache_key": "11e766109325420bfa8921cceefba5c1e7fcb5234c1d4bb6a26b0db91c2d6076",
+  "model": "gpt-41"
+}

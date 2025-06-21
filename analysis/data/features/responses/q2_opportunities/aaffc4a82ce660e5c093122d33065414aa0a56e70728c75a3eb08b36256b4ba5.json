@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in collaborative cultural events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Dance and collaborations!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase dance opportunities",
+    "Encourage collaborations"
+  ],
+  "cached_at": "2025-06-21T00:52:03.645302",
+  "cache_key": "aaffc4a82ce660e5c093122d33065414aa0a56e70728c75a3eb08b36256b4ba5",
+  "model": "gpt-41"
+}

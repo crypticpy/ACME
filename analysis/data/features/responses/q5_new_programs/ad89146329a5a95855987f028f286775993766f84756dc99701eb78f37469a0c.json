@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for nonprofit formation",
+    "capacity-building for sustainability",
+    "educational workshops"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "nonprofit workshop",
+    "those considering creating a nonprofit",
+    "more prepared for longevity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of preparation for nonprofit longevity"
+  ],
+  "solutions_proposed": [
+    "offer a nonprofit workshop for those considering creating a nonprofit"
+  ],
+  "cached_at": "2025-06-21T02:03:31.642614",
+  "cache_key": "ad89146329a5a95855987f028f286775993766f84756dc99701eb78f37469a0c",
+  "model": "gpt-41"
+}

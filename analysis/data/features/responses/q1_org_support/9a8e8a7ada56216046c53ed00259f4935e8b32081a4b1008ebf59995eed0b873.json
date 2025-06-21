@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "instability of cultural arts funding",
+    "detrimental impact of funding changes",
+    "organizational displacement and extinction",
+    "need for foundational and capacity-building support",
+    "resetting city values and funding guidelines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "stablize cultural arts funding",
+    "foundational and capacity building funds for operations and programming support",
+    "value shifts and changes in funding matrix has been detrimental",
+    "causing displacement and extinction of organizations",
+    "reset our city's values and guidelines",
+    "processess for accessing funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "EDD Cutural Arts"
+  ],
+  "barriers_identified": [
+    "instability in funding matrix",
+    "changes in funding guidelines and processes",
+    "lack of foundational and capacity-building support"
+  ],
+  "solutions_proposed": [
+    "stabilize cultural arts funding",
+    "reset city's values and guidelines",
+    "revise processes for accessing funding"
+  ],
+  "cached_at": "2025-06-20T01:16:30.306348",
+  "cache_key": "9a8e8a7ada56216046c53ed00259f4935e8b32081a4b1008ebf59995eed0b873",
+  "model": "gpt-41"
+}

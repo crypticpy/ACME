@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased art funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding for art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase funding for art"
+  ],
+  "cached_at": "2025-06-21T02:14:17.639663",
+  "cache_key": "c1663df52ed1a329ec1082cc1039f76a9843fb89bc4cb72443209fdb9dd4b570",
+  "model": "gpt-41"
+}

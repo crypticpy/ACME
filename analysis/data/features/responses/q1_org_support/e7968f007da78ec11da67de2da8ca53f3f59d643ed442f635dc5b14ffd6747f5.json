@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accountability of organizations",
+    "measurement and evaluation of activities",
+    "transparency in reporting"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Accountability",
+    "How are we measuring what they are saying that they are doing?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear measurement or evaluation"
+  ],
+  "solutions_proposed": [
+    "implement better measurement of organizational claims"
+  ],
+  "cached_at": "2025-06-20T01:16:35.029504",
+  "cache_key": "e7968f007da78ec11da67de2da8ca53f3f59d643ed442f635dc5b14ffd6747f5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased investment in museums",
+    "greater programming in design and architecture",
+    "expanded funding for AIPP (Art in Public Places)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more investment toward museums",
+    "more interest and programming in design and architecture",
+    "more focus and funds for AIPP opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more investment toward museums",
+    "more programming in design and architecture",
+    "more focus and funds for AIPP opportunities"
+  ],
+  "cached_at": "2025-06-21T00:51:54.879467",
+  "cache_key": "77fe90a8547e09325be45265d2553e284877598fc6a843451822a11f53b96e5a",
+  "model": "gpt-41"
+}

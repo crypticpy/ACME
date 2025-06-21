@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "separate funding streams for large institutions",
+    "competition between large and small/mid-size organizations",
+    "supporting growth of small and mid-size organizations",
+    "equitable distribution of city funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "there needs to be a separate fund for large institutions",
+    "so that they don't need to compete for city support/funding up against small to mid size organizations",
+    "allow the small to mid size orgs to grow into the next generation of institutions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition for city support/funding between large and small to mid size organizations"
+  ],
+  "solutions_proposed": [
+    "create a separate fund for large institutions"
+  ],
+  "cached_at": "2025-06-20T10:46:00.337907",
+  "cache_key": "c0035a486bde5d70244cbd7da834854f9526cd80f66e3d799c9a3c8a17eec7cd",
+  "model": "gpt-41"
+}

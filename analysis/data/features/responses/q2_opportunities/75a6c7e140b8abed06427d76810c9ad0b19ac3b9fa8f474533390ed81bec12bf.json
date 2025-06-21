@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "desire for more festivals",
+    "interest in diverse activities",
+    "importance of food at events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Festivals with a diverse range of activities and food are fun"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more festivals with diverse activities and food"
+  ],
+  "cached_at": "2025-06-21T00:28:04.186649",
+  "cache_key": "75a6c7e140b8abed06427d76810c9ad0b19ac3b9fa8f474533390ed81bec12bf",
+  "model": "gpt-41"
+}

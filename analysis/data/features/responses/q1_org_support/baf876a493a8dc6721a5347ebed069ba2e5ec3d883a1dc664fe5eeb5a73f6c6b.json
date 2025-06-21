@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising cost of venues",
+    "artist compensation and cost of living",
+    "community feedback and engagement",
+    "preservation of Austin's cultural identity",
+    "impact of change on local culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "getting feedback from artists, venues, and the citizens of Travis County",
+    "rising cost of venues to stay open",
+    "pay artists receive compared to the rising cost of living",
+    "overall experience",
+    "what made Austin great should not be lost to change",
+    "change is good, but not at the expense of losing the charm"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising cost of venues",
+    "insufficient artist compensation relative to cost of living"
+  ],
+  "solutions_proposed": [
+    "getting feedback from artists, venues, and citizens"
+  ],
+  "cached_at": "2025-06-20T10:30:51.228371",
+  "cache_key": "baf876a493a8dc6721a5347ebed069ba2e5ec3d883a1dc664fe5eeb5a73f6c6b",
+  "model": "gpt-41"
+}

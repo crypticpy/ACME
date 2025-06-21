@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "critique of 'historically underrepresented' terminology",
+    "perception of current overrepresentation",
+    "advocacy for focus on 'newly underrepresented' communities",
+    "identification of communities that are struggling"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "\u201cHistorically underrepresented\u201d does not make sense",
+    "Most of those are currently well represented",
+    "Focus on \u201cnewly underrepresented\u201d",
+    "communities that really struggle"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current focus excludes newly underrepresented communities"
+  ],
+  "solutions_proposed": [
+    "shift focus to newly underrepresented communities"
+  ],
+  "cached_at": "2025-06-21T01:01:43.033072",
+  "cache_key": "722256ef13308a0ba42a41c22c75f98ce1223bb0777ad3b532627856410cb70c",
+  "model": "gpt-41"
+}

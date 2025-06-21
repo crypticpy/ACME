@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration between organizations and leaders",
+    "artist-centered support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "working together",
+    "keeping the needs of the artists front and center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "working together",
+    "keeping the needs of the artists front and center"
+  ],
+  "cached_at": "2025-06-20T10:21:50.117743",
+  "cache_key": "75ae15df238e7c5d12009587ad6be7b5e78ab78214b529969f3a58ec6e0b0505",
+  "model": "gpt-41"
+}

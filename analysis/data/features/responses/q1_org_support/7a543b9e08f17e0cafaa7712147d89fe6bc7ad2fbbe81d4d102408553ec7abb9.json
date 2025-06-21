@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for financial relief",
+    "operating costs as a burden",
+    "support for theaters and live music venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "relief for operating costs",
+    "theaters and live music venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high operating costs for theaters and live music venues"
+  ],
+  "solutions_proposed": [
+    "provide relief for operating costs for theaters and live music venues"
+  ],
+  "cached_at": "2025-06-20T10:42:59.537001",
+  "cache_key": "7a543b9e08f17e0cafaa7712147d89fe6bc7ad2fbbe81d4d102408553ec7abb9",
+  "model": "gpt-41"
+}

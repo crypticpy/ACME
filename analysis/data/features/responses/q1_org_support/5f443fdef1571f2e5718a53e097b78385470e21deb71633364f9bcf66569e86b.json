@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of awareness among artists about opportunities",
+    "need for better communication tools",
+    "amplification of opportunities for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Not sure what media toolkits they get",
+    "more artists need to be aware of opportunities",
+    "anything you can do to help them amplify these"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness among artists about available opportunities"
+  ],
+  "solutions_proposed": [
+    "help artists amplify opportunities",
+    "improve communication or media toolkits"
+  ],
+  "cached_at": "2025-06-20T10:43:17.280877",
+  "cache_key": "5f443fdef1571f2e5718a53e097b78385470e21deb71633364f9bcf66569e86b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for professional business services for musicians",
+    "music industry education (accounting, royalties, marketing)",
+    "collaboration with existing organizations (HAAM)",
+    "city-run promotion and booking agency",
+    "support for established Austin musicians",
+    "showcasing local musical talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Professional business and music industry services",
+    "advice on accounting, music royalties and marketing",
+    "collaborate with HAAM on some of this",
+    "city run promotion and booking agency",
+    "promotes established Austin musicians",
+    "helps them book local shows and tours",
+    "showcase what caliber of musicians Austin is producing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "lack of professional business and industry services for musicians",
+    "insufficient support for booking and promotion of established musicians"
+  ],
+  "solutions_proposed": [
+    "Offer advice on accounting, music royalties and marketing",
+    "Collaborate with HAAM on business and industry services",
+    "Create a city-run promotion and booking agency for established Austin musicians"
+  ],
+  "cached_at": "2025-06-21T02:09:02.550364",
+  "cache_key": "fca9861e59ba3803e600bd151be59c8b09920f4ddd41488f38f4cabe67de209c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for long-term studio spaces",
+    "inclusivity of non-nonprofit entities",
+    "recognition of non-charitable community contributions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funded long term studio spaces would be amazing",
+    "not requiring everyone to be nonprofit",
+    "one does not have to be a charity to be important and helpful to the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "requirement to be a nonprofit to receive support"
+  ],
+  "solutions_proposed": [
+    "Provide funded long-term studio spaces",
+    "Allow support for organizations and leaders who are not nonprofits"
+  ],
+  "cached_at": "2025-06-20T01:12:53.234509",
+  "cache_key": "c63314535569a6902c045ad0e90b18f40544909271b6fe256b207b37d8c09d3b",
+  "model": "gpt-41"
+}

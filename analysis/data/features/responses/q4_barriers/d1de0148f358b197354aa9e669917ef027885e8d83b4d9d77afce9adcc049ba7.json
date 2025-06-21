@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of venues",
+    "restrictive venue policies",
+    "lack of arts inclusion in city growth",
+    "absence of collaboration between developers and arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Expensive, restrictive venues",
+    "growth of Austin has not included arts organizations",
+    "developers are not willing to sit at the table with arts organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive venues",
+    "restrictive venues",
+    "arts organizations excluded from city growth",
+    "lack of partnership or collaboration with developers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:11.506318",
+  "cache_key": "d1de0148f358b197354aa9e669917ef027885e8d83b4d9d77afce9adcc049ba7",
+  "model": "gpt-41"
+}

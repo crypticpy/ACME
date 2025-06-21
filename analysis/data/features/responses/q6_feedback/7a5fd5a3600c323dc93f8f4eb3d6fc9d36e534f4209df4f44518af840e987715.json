@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "commendation of city funding practices",
+    "maximizing legal use of Hotel Occupancy Tax (HOT) for the arts",
+    "recognition of municipal support for the arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Austin should be commended",
+    "maxing out the legal use of HOT for the arts"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:19:32.881744",
+  "cache_key": "7a5fd5a3600c323dc93f8f4eb3d6fc9d36e534f4209df4f44518af840e987715",
+  "model": "gpt-41"
+}

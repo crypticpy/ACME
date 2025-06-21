@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more choral music",
+    "interest in large-scale performances",
+    "emphasis on strong vocal ensembles"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more strong, large choral groups",
+    "performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase strong, large choral groups and performances"
+  ],
+  "cached_at": "2025-06-21T00:34:31.532535",
+  "cache_key": "0925636eeed20c2215b9bdf0c7368fdc978e374cd74e6a4d02d61fd3c2dcf0bc",
+  "model": "gpt-41"
+}

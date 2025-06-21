@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Displacement of annual events due to downtown growth",
+    "Increasing permit and city service fees",
+    "Bureaucratic barriers from permit requirements",
+    "Lack of planning for event relocation",
+    "Loss of historic event spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Protect annual events from being pushed out by changes to the downtown area due to growth",
+    "Stop creating new barriers to events with new permits and increasing fees",
+    "Events now have about 10 permits you have to obtain",
+    "All these permits are very expensive",
+    "Rates are charged for city labor like police, fire, and Ems",
+    "Streets like Congress Ave. and 6th street are being modified in ways that push events out",
+    "No plan to help relocate or save annual events that have taken place for decades"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Increasing number and cost of permits",
+    "High fees for city services (police, fire, EMS)",
+    "Physical changes to event spaces (street modifications)",
+    "Lack of relocation or preservation plans for displaced events"
+  ],
+  "solutions_proposed": [
+    "Protect annual events from displacement",
+    "Stop increasing permit and city service fees",
+    "Stop creating new permit barriers",
+    "Develop plans to help relocate or preserve longstanding events"
+  ],
+  "cached_at": "2025-06-20T10:23:38.082606",
+  "cache_key": "8691b17273df2209efaaca722f62e8b158afbe9bc3771e9d65cc254c038d3de1",
+  "model": "gpt-41"
+}

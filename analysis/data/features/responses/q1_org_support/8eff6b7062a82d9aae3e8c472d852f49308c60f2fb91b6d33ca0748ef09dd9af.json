@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist-led decision making",
+    "disconnect between administrators and artists",
+    "burdensome program requirements",
+    "need for artist-in-residence grants",
+    "suggestion for cultural liaisons/caseworkers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Acme should be guided by the artists themselves",
+    "series of artist in residence grants should be created across all disciplines",
+    "non artists administrators ... can learn more about what it takes to be a working musician or painter or poet or dancer",
+    "creating a cultural liason or 'caseworker' for each artist",
+    "programs designed to help, end up requiring more of the artist than necessary",
+    "without any real regard ... of what an artist has to do all ready just to maintain an independant existance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "programs requiring more of the artist than necessary",
+    "lack of understanding from non-artist administrators",
+    "burdensome justification and codification processes"
+  ],
+  "solutions_proposed": [
+    "artist-led program guidance",
+    "creation of artist-in-residence grants across all disciplines",
+    "opportunities for administrators to learn from working artists",
+    "creation of a cultural liaison or caseworker for each artist"
+  ],
+  "cached_at": "2025-06-20T10:28:04.426510",
+  "cache_key": "8eff6b7062a82d9aae3e8c472d852f49308c60f2fb91b6d33ca0748ef09dd9af",
+  "model": "gpt-41"
+}

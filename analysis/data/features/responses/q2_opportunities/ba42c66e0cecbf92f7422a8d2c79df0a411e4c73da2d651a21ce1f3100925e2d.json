@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "cross-cultural collaboration",
+    "conflict resolution through art",
+    "community building among diverse groups",
+    "international perspectives in local arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Bringing Palestinian and Israelis together",
+    "Bringing Ukrainian and Russians together to create art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Bringing Palestinian and Israelis together to create art",
+    "Bringing Ukrainian and Russians together to create art"
+  ],
+  "cached_at": "2025-06-21T00:36:56.546528",
+  "cache_key": "ba42c66e0cecbf92f7422a8d2c79df0a411e4c73da2d651a21ce1f3100925e2d",
+  "model": "gpt-41"
+}

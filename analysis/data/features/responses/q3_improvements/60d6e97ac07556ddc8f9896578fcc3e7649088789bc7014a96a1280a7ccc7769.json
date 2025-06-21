@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "awareness of funding programs",
+    "access to application resources",
+    "outreach and communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "would love for more people to know about them",
+    "have resources to adequately apply"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "insufficient resources to apply"
+  ],
+  "solutions_proposed": [
+    "increase public awareness of programs",
+    "provide adequate application resources"
+  ],
+  "cached_at": "2025-06-21T01:10:51.838279",
+  "cache_key": "60d6e97ac07556ddc8f9896578fcc3e7649088789bc7014a96a1280a7ccc7769",
+  "model": "gpt-41"
+}

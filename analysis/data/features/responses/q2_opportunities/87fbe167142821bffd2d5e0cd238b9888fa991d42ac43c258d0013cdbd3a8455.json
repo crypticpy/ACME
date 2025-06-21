@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "large scale experimental artwork",
+    "art distributed across multiple city sites",
+    "integration of art into urban fabric"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "large scale experimental artwork",
+    "multiplicity of sites",
+    "across the fabric of the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Install large scale experimental artwork in one or multiple sites throughout the city"
+  ],
+  "cached_at": "2025-06-21T00:40:41.434412",
+  "cache_key": "87fbe167142821bffd2d5e0cd238b9888fa991d42ac43c258d0013cdbd3a8455",
+  "model": "gpt-41"
+}

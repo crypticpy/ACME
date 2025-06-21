@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "policy advocacy",
+    "affordability",
+    "accessibility",
+    "willingness to support unpopular measures"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "advocate for policies",
+    "including unpopular ones",
+    "Air Bn'B restrictions",
+    "advance affordability and accessibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordability",
+    "lack of accessibility"
+  ],
+  "solutions_proposed": [
+    "advocate for policies that advance affordability and accessibility",
+    "consider implementing Air Bn'B restrictions"
+  ],
+  "cached_at": "2025-06-20T10:29:04.480849",
+  "cache_key": "387dab3614ae88be4e3ac3b838d1f1843dd0cdf7564082202917749a9d35e124",
+  "model": "gpt-41"
+}

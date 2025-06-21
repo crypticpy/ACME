@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for African American groups",
+    "equity in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More funding for African American groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for African American groups"
+  ],
+  "solutions_proposed": [
+    "Increase funding for African American groups"
+  ],
+  "cached_at": "2025-06-21T01:16:03.245341",
+  "cache_key": "fc7db7b1d8a738889fd2f65ad5a158edda7f55285a77d5b1631e11e97390e0ed",
+  "model": "gpt-41"
+}

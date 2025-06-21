@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Need for ongoing listening to cultural leaders",
+    "Inclusion of artists and creatives in formal decision-making",
+    "Outreach to less-visible or under-recognized artists",
+    "Recognition of the burdens faced by working artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Continue listening to them",
+    "put them on formal boards if not already",
+    "reach out to more creative individuals",
+    "artists with their heads down more busy doing the work and surviving than being a \u2018cultural leader\u2019",
+    "they\u2019re in the dark corners and can be elusive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists are too busy working and surviving to participate as 'cultural leaders'",
+    "less-visible artists are overlooked",
+    "artists can be elusive and hard to reach"
+  ],
+  "solutions_proposed": [
+    "Continue listening to organizations and cultural leaders",
+    "Include them on formal boards",
+    "Reach out to more creative individuals, especially those not already recognized as leaders"
+  ],
+  "cached_at": "2025-06-20T01:14:36.205231",
+  "cache_key": "a1dfcf00e32a324b9198c8595d93d68ea074f840e8945da3853a680a05c3166a",
+  "model": "gpt-41"
+}

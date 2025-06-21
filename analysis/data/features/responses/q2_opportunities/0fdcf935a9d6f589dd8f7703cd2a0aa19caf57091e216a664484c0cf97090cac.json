@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to taxpayer funding for the arts",
+    "preference for market-driven cultural offerings",
+    "public support as a criterion for arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Whatever the public will support without taxpayer funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "use of taxpayer funds for cultural programming"
+  ],
+  "solutions_proposed": [
+    "Only support arts and entertainment opportunities that are funded by public demand rather than taxpayer money"
+  ],
+  "cached_at": "2025-06-21T00:28:29.027277",
+  "cache_key": "0fdcf935a9d6f589dd8f7703cd2a0aa19caf57091e216a664484c0cf97090cac",
+  "model": "gpt-41"
+}

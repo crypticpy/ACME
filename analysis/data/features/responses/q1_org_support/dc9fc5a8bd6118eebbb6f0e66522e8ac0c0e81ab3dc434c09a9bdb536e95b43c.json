@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "investment in diverse art forms and time periods",
+    "support for organizations aiding large numbers of artists",
+    "empowerment and support for women in Texas",
+    "concern about governmental suppression of women's voices",
+    "importance of informed funding decision-makers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Invest in multiple different types and time periods of art",
+    "Invest in groups that are supporting large numbers of artists",
+    "Invest in women in Texas",
+    "the government is trying to make us silent and small",
+    "decisions about where funding goes should know the field",
+    "decisions are educated and there is necessary context"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "government is trying to make us silent and small",
+    "funding decisions made without sufficient field knowledge"
+  ],
+  "solutions_proposed": [
+    "Invest in multiple different types and time periods of art",
+    "Invest in groups that are supporting large numbers of artists",
+    "Invest in women in Texas",
+    "Ensure decision-makers are knowledgeable about the field"
+  ],
+  "cached_at": "2025-06-20T10:23:56.543765",
+  "cache_key": "dc9fc5a8bd6118eebbb6f0e66522e8ac0c0e81ab3dc434c09a9bdb536e95b43c",
+  "model": "gpt-41"
+}

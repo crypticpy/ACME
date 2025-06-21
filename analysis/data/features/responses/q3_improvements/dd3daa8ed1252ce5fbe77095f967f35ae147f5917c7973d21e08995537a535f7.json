@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bureaucratic barriers",
+    "administrative complexity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "less bureaucracy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "bureaucracy"
+  ],
+  "solutions_proposed": [
+    "less bureaucracy"
+  ],
+  "cached_at": "2025-06-21T00:59:09.519216",
+  "cache_key": "dd3daa8ed1252ce5fbe77095f967f35ae147f5917c7973d21e08995537a535f7",
+  "model": "gpt-41"
+}

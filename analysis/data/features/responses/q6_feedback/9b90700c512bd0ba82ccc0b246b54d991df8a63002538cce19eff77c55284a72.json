@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "skepticism about government role in art",
+    "support for funding established musicians and songwriters",
+    "critique of funding for inexperienced or unproven artists",
+    "emphasis on artistic quality as a draw for audiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Government involvement does not make art better",
+    "Grants to help successfully working musicians and songwriters keep working are good",
+    "Money given to people who just want to give it a go is not helpful",
+    "The better the music, the more people will come here to hear it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding allocated to inexperienced artists is seen as ineffective"
+  ],
+  "solutions_proposed": [
+    "prioritize grants for established, working musicians and songwriters"
+  ],
+  "cached_at": "2025-06-21T02:12:32.575588",
+  "cache_key": "9b90700c512bd0ba82ccc0b246b54d991df8a63002538cce19eff77c55284a72",
+  "model": "gpt-41"
+}

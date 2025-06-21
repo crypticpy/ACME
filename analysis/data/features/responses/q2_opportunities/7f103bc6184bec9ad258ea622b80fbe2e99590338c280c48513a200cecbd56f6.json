@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "celebration of African American culture",
+    "representation of African American experiences",
+    "community uplift through cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "celebrate and uplift the African American experience",
+    "more events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More events that celebrate and uplift the African American experience in Austin"
+  ],
+  "cached_at": "2025-06-21T00:48:23.636224",
+  "cache_key": "7f103bc6184bec9ad258ea622b80fbe2e99590338c280c48513a200cecbd56f6",
+  "model": "gpt-41"
+}

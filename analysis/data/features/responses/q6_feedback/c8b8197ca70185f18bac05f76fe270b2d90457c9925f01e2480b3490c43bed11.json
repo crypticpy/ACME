@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "modernization of marketing for art events",
+    "free and accessible art gallery events",
+    "celebration of successful events at the Carver",
+    "importance of public programming (interviews, talks, conferences)",
+    "aspiration for Austin to be on par with major art cities",
+    "insufficient distribution of available funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More modern marketing for these art events",
+    "No tickets for art gallery events",
+    "Keep them free and accessible to the public",
+    "wonderful openings over the past couple years at the Carver",
+    "Long form interviews, artist talks, conferences, and events",
+    "elevate the conversation to make Austin a respected art city on par with LA and NYC",
+    "Think grander",
+    "There is money here to fund this, but it is barely given out"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Carver"
+  ],
+  "barriers_identified": [
+    "ticketing for art gallery events",
+    "lack of sufficient funding distribution"
+  ],
+  "solutions_proposed": [
+    "implement more modern marketing for art events",
+    "eliminate ticketing for art gallery events",
+    "keep art events free and accessible",
+    "host long form interviews, artist talks, conferences, and events",
+    "increase funding distribution to support grander programming"
+  ],
+  "cached_at": "2025-06-21T02:17:03.937210",
+  "cache_key": "c8b8197ca70185f18bac05f76fe270b2d90457c9925f01e2480b3490c43bed11",
+  "model": "gpt-41"
+}

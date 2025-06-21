@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about loss of support for existing organizations",
+    "opposition to divisive funding practices",
+    "continuity of funding relationships"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "don't abandon the organizations you used to support",
+    "no benefit in pitting groups against one another"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition between groups for funding"
+  ],
+  "solutions_proposed": [
+    "continue supporting previously funded organizations",
+    "avoid creating competition between groups"
+  ],
+  "cached_at": "2025-06-21T02:10:28.122714",
+  "cache_key": "d4eb55dcb87c3ccbef074a3425758c0339b367fe6cf717ed3c6a5ba7a466fd16",
+  "model": "gpt-41"
+}

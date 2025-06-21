@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "trust in cultural center staff",
+    "value of lived community experience",
+    "importance of listening to elders",
+    "need for responsive action from ACME"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Trust the knowledge and wisdom of the employees at the cultural centers",
+    "They've worked with the community for decades",
+    "They know the community",
+    "Listen to them",
+    "Listen also to the elders in our community",
+    "Listen first and show them how you will take action to address their needs and concerns"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AARC",
+    "ESB-MACC",
+    "Carver"
+  ],
+  "barriers_identified": [
+    "lack of trust in staff expertise",
+    "insufficient listening to community and elders",
+    "lack of demonstrated action on community needs"
+  ],
+  "solutions_proposed": [
+    "Trust the knowledge and wisdom of employees at the cultural centers",
+    "Listen to staff and elders",
+    "Show how action will be taken to address needs and concerns"
+  ],
+  "cached_at": "2025-06-20T10:38:55.689461",
+  "cache_key": "1cb5c7ac4e227d4b699c1cdacfbb43302f87b25a6a4b10e583de550a0347b41a",
+  "model": "gpt-41"
+}

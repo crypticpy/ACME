@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "technical barriers to grant applications",
+    "need for accessible application processes",
+    "challenges faced by low income individuals",
+    "lack of technological proficiency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Easier Submission Application info",
+    "assisted Tech Help* filling out submission",
+    "requirements for low income and eligibility",
+    "Many low income People in need of grants are NOT tech/Computer Savvy",
+    "need help to apply"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of submission application",
+    "lack of technical/computer skills among low income applicants",
+    "insufficient assistance with application process"
+  ],
+  "solutions_proposed": [
+    "provide easier submission application information",
+    "offer assisted tech help for filling out submissions"
+  ],
+  "cached_at": "2025-06-21T01:40:20.932427",
+  "cache_key": "b72d1bc02e42f780cd82793c0c635695288087234b3ae95bae85c6cbb4b3046f",
+  "model": "gpt-41"
+}

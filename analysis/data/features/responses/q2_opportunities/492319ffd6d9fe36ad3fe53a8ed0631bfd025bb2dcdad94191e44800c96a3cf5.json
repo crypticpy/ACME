@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "decolonized approaches to history",
+    "centering indigenous history",
+    "centering Black history"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "decolonized history",
+    "centers indigenous and black history"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "decolonized history that centers indigenous and black history"
+  ],
+  "cached_at": "2025-06-21T00:38:20.520935",
+  "cache_key": "492319ffd6d9fe36ad3fe53a8ed0631bfd025bb2dcdad94191e44800c96a3cf5",
+  "model": "gpt-41"
+}

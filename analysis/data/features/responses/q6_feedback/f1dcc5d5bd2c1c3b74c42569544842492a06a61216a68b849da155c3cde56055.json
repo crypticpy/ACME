@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of transparency in funding processes",
+    "concerns about fairness in grading",
+    "specific focus on Live Music Fund"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "increased transparancy on grading",
+    "ALL funding",
+    "especially Live Music Fund"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live Music Fund"
+  ],
+  "barriers_identified": [
+    "lack of transparency on grading for funding"
+  ],
+  "solutions_proposed": [
+    "increased transparency on grading for all funding"
+  ],
+  "cached_at": "2025-06-21T02:20:56.563240",
+  "cache_key": "f1dcc5d5bd2c1c3b74c42569544842492a06a61216a68b849da155c3cde56055",
+  "model": "gpt-41"
+}

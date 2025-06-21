@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "optimism about ACME's future",
+    "interest in collaboration",
+    "community engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thank you for this survey",
+    "looking forward to brainstorming",
+    "collaborating",
+    "creating a better ACME future for Austin"
+  ],
+  "intent": "express_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:41.504845",
+  "cache_key": "f0f9faf83f28b189472ed0d013be8b3344cca98d5470a235731b047fdb0e34fa",
+  "model": "gpt-41"
+}

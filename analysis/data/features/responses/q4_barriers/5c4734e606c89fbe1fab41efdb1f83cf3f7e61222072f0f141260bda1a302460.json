@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial insecurity as a barrier",
+    "lack of promotional support for events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "having financial stability",
+    "having support to promote events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial instability",
+    "lack of support for event promotion"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:05.651830",
+  "cache_key": "5c4734e606c89fbe1fab41efdb1f83cf3f7e61222072f0f141260bda1a302460",
+  "model": "gpt-41"
+}

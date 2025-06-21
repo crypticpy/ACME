@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with students and emerging artists",
+    "partnerships with diverse community organizations",
+    "connections with universities and community colleges",
+    "talent pipeline development",
+    "job opportunities for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more collaboration with students and emerging artists",
+    "collaborating with diverse organizations in the community",
+    "more collaboration with the universities and community colleges art programs",
+    "build a pipeline of talent and job opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration with students and emerging artists",
+    "insufficient partnerships with diverse organizations",
+    "limited connection to university and college art programs"
+  ],
+  "solutions_proposed": [
+    "increase collaboration with students and emerging artists",
+    "collaborate with diverse community organizations",
+    "partner with universities and community colleges' art programs to build a talent pipeline and job opportunities"
+  ],
+  "cached_at": "2025-06-21T02:03:42.062430",
+  "cache_key": "e84a38aa1ea87c856a8ea4023d912853ea7199d1f1a4b724c8fa62a7cb40c92e",
+  "model": "gpt-41"
+}

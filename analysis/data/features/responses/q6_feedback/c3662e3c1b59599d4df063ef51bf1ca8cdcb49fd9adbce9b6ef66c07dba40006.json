@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for engagement",
+    "threats to cultural identity",
+    "impact of rapid growth and rising costs",
+    "risk of cultural erasure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Appreciate yall even taking the time to send the survey",
+    "attempt to approve the cultural creative identity of austin",
+    "such a rapidly growing and expensive town",
+    "It\u2019ll get buried and shoved out otherwise"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rapid growth",
+    "increasing expense",
+    "risk of cultural identity being buried or shoved out"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:16.028064",
+  "cache_key": "c3662e3c1b59599d4df063ef51bf1ca8cdcb49fd9adbce9b6ef66c07dba40006",
+  "model": "gpt-41"
+}

@@ -1,0 +1,55 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Distrust of current advocacy organizations (ACA)",
+    "Need for stable and transparent funding processes",
+    "Importance of listening to experienced staff and the creative community",
+    "Lack of sustainable physical spaces for cultural activity",
+    "Insufficient private sector and philanthropic support",
+    "City's role in leveraging influence for cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Less rapid and unpredictable change of funding programs",
+    "better communication and transparency",
+    "listening to more of the creative community",
+    "trusting the experienced staff in CAD",
+    "Sustainable and reliable funding for physical long term spaces",
+    "better local arts advocacy organization",
+    "ACA speaks on behalf of people it doesn't represent",
+    "city of austin to use its reputation and leverage",
+    "different source of funding outside of HOT tax",
+    "lack of cohesive and trusted advocacy org",
+    "private funding/philanthropy gap"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CAD",
+    "ACA"
+  ],
+  "barriers_identified": [
+    "Rapid and unpredictable change of funding programs",
+    "Lack of communication and transparency",
+    "ACA misrepresenting the community and holding undue influence",
+    "Lack of sustainable funding for physical spaces",
+    "Insufficient private sector and philanthropic involvement",
+    "Lack of a cohesive and trusted advocacy organization"
+  ],
+  "solutions_proposed": [
+    "Stabilize and make funding programs more predictable",
+    "Improve communication and transparency",
+    "Listen to a broader segment of the creative community",
+    "Trust and utilize experienced staff in CAD",
+    "Provide sustainable funding for independent, long-term cultural spaces",
+    "Develop a better local arts advocacy organization",
+    "City should leverage its influence to engage private industry in cultural funding",
+    "Seek funding sources beyond HOT tax"
+  ],
+  "cached_at": "2025-06-20T01:20:15.638513",
+  "cache_key": "5fd999938d8f0154a43bc0ba9700ff838571e33a10d140519077d6d7efca6691",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "high barriers to funding access",
+    "insufficient funding for individuals",
+    "need for more frequent grant opportunities",
+    "gap in support for emerging and new organizers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lower barrier",
+    "less $",
+    "more frequent grants for individuals",
+    "gap in funding in Austin for emerging and new organizers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high financial barriers",
+    "infrequent grant opportunities",
+    "lack of funding for emerging and new organizers"
+  ],
+  "solutions_proposed": [
+    "lower barrier",
+    "less $",
+    "more frequent grants for individuals"
+  ],
+  "cached_at": "2025-06-21T00:28:08.506390",
+  "cache_key": "594758ab5c47d567baa3224115e8e7530cb627359a52dd89f3904c7141604f74",
+  "model": "gpt-41"
+}

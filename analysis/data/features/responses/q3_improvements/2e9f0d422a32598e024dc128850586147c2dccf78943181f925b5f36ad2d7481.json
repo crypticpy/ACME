@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of program awareness",
+    "need for increased promotion",
+    "information accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More promotion/awareness",
+    "I hadn\u2019t heard of most of these"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of cultural funding programs"
+  ],
+  "solutions_proposed": [
+    "More promotion/awareness"
+  ],
+  "cached_at": "2025-06-21T01:11:36.476745",
+  "cache_key": "2e9f0d422a32598e024dc128850586147c2dccf78943181f925b5f36ad2d7481",
+  "model": "gpt-41"
+}

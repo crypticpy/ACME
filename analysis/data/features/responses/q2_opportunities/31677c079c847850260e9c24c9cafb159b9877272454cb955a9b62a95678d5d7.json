@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theatre",
+    "interest in public art installations",
+    "preference for ephemeral art in public spaces",
+    "support for sculpture as public art"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Live theatre",
+    "public art (sculpture, ephemeral art in public spaces)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase live theatre opportunities",
+    "Expand public art, including sculpture and ephemeral art in public spaces"
+  ],
+  "cached_at": "2025-06-21T00:45:12.343928",
+  "cache_key": "31677c079c847850260e9c24c9cafb159b9877272454cb955a9b62a95678d5d7",
+  "model": "gpt-41"
+}

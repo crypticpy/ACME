@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process simplification",
+    "support for first-time and unincorporated applicants",
+    "general operating vs. project-based grants",
+    "shared decision-making and panel diversity",
+    "compensation for panelists",
+    "artist growth and sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "need to be more accessible, equitable, and stable",
+    "shorter, simpler applications",
+    "support for first-time applicants",
+    "general operating grants instead of just project-based ones",
+    "more flexibility for fiscally sponsored or unincorporated groups",
+    "share decision-making power by including diverse, community-rooted panelists and pay them for their time",
+    "help artists grow in Austin, not just compete for one-time checks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "complex and lengthy applications",
+    "lack of support for first-time applicants",
+    "exclusion of fiscally sponsored or unincorporated groups",
+    "limited to project-based grants",
+    "lack of diverse, community-rooted panelists"
+  ],
+  "solutions_proposed": [
+    "shorter, simpler applications",
+    "support for first-time applicants",
+    "offer general operating grants",
+    "increase flexibility for fiscally sponsored or unincorporated groups",
+    "include diverse, community-rooted panelists in decision-making",
+    "pay panelists for their time"
+  ],
+  "cached_at": "2025-06-21T01:00:07.517892",
+  "cache_key": "1b95a25009a32725aea74f43e209e2be8ca1cb6ed5f03ea295a46451729b6e60",
+  "model": "gpt-41"
+}

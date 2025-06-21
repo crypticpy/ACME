@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of funding scope",
+    "support for event logistics",
+    "recognition of behind-the-scenes roles",
+    "funding for marketing and props"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expansion/increase of available funding",
+    "more aspects of event presentations",
+    "those of us who help with logistics",
+    "create props",
+    "design other marketing material"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding for logistics, props, and marketing roles"
+  ],
+  "solutions_proposed": [
+    "expand/increase available funding to cover more aspects of event presentations, including logistics, props, and marketing material"
+  ],
+  "cached_at": "2025-06-21T00:55:14.394061",
+  "cache_key": "1faa07fec6560397d44d9916db5dd9de8902c1308f4503422c1988eb1f221b4f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "recognition of diverse artist communities",
+    "need for improved identification of artist groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Identify better the multiple artist communities in the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient identification of multiple artist communities"
+  ],
+  "solutions_proposed": [
+    "better identification of the multiple artist communities in the city"
+  ],
+  "cached_at": "2025-06-21T00:55:34.656961",
+  "cache_key": "8b7b696caba75ceb2217eee04befc6cdbf3c343917c40c725f04709edaf358fd",
+  "model": "gpt-41"
+}

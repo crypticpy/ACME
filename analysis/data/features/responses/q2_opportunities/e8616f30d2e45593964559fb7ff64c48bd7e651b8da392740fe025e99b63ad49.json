@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of studio spaces for artists",
+    "need for direct financial support (stipends/grants) for emerging artists",
+    "comparison to successful models in other cities (GCAC in Ohio)",
+    "desire for more public and mural art events",
+    "interest in innovative art forms (3D projections, animations)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "difficult it is to find studio spaces in Austin",
+    "Average rental cost is close to $1000",
+    "Could ACME support up and coming artists with studio or material stipends",
+    "GCAC (Greatest Columbus Arts Council) would provide $1200 grants to over 200 emerging artists annually",
+    "facilitated more mural events",
+    "orgs will fund virtual or public mural events where artists are paid a stipend",
+    "3d projected illustrations and animations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "GCAC (Greatest Columbus Arts Council)"
+  ],
+  "barriers_identified": [
+    "difficulty finding studio spaces",
+    "high rental costs for studio spaces"
+  ],
+  "solutions_proposed": [
+    "ACME support up and coming artists with studio or material stipends through annual grant applications",
+    "facilitate more mural events where artists are paid a stipend",
+    "fund virtual or public mural events including 3D projected illustrations and animations"
+  ],
+  "cached_at": "2025-06-21T00:28:11.031276",
+  "cache_key": "e8616f30d2e45593964559fb7ff64c48bd7e651b8da392740fe025e99b63ad49",
+  "model": "gpt-41"
+}

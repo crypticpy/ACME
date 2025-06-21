@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public-private collaboration",
+    "cross-sector partnership"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "collaboration between public and private entities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaboration between public and private entities"
+  ],
+  "cached_at": "2025-06-21T01:12:52.796307",
+  "cache_key": "2e695d413da43c6d8524f1cac0d6104ea961ac5fb86657fa2c976ec9d3be5e28",
+  "model": "gpt-41"
+}

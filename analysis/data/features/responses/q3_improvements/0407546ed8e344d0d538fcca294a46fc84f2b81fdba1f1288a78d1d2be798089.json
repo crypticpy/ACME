@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Increased funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase funding"
+  ],
+  "cached_at": "2025-06-21T01:03:39.217294",
+  "cache_key": "0407546ed8e344d0d538fcca294a46fc84f2b81fdba1f1288a78d1d2be798089",
+  "model": "gpt-41"
+}

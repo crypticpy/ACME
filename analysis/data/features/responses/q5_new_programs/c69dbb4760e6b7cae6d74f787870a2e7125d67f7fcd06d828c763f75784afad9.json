@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial insecurity of full-time creatives",
+    "need for advocacy and protection for creative workers",
+    "brokering fair deals between musicians and venues",
+    "declining wages relative to cost of living",
+    "support for creative arts educators"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "grant aimed at supporting full time creatives and educators",
+    "working as an intermediary entity to broker better deals between musicians and venues",
+    "protecting and advocating for full time creative workers",
+    "providing more financial resources / work opportunities for the formerly full time creative workers",
+    "work is paying them less comparatively given rising prices / housing / etc. while their wage has remained the same"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "declining real wages for creative workers",
+    "rising prices and housing costs",
+    "lack of advocacy for creative workers",
+    "unfair deals between musicians and venues"
+  ],
+  "solutions_proposed": [
+    "create a grant for full time creatives and educators in supporting roles",
+    "act as an intermediary to broker better deals between musicians and venues or other business entities",
+    "protect and advocate for full time creative workers",
+    "provide more financial resources and work opportunities for formerly full time creative workers"
+  ],
+  "cached_at": "2025-06-21T02:06:35.172267",
+  "cache_key": "c69dbb4760e6b7cae6d74f787870a2e7125d67f7fcd06d828c763f75784afad9",
+  "model": "gpt-41"
+}

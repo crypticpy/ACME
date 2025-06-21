@@ -1,0 +1,51 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "flexible funding models",
+    "resource sharing",
+    "long-term partnerships",
+    "collaboration and communication",
+    "amplification of local voices",
+    "capacity-building support",
+    "transparency and impact tracking"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "offering flexible funding",
+    "shared resources",
+    "long-term partnerships",
+    "prioritizing collaboration",
+    "amplifying local voices",
+    "creating two-way communication",
+    "capacity-building support",
+    "transparent impact tracking",
+    "strengthen trust and sustainability"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of flexible funding",
+    "insufficient resource sharing",
+    "limited long-term partnerships",
+    "inadequate collaboration and communication",
+    "insufficient capacity-building support",
+    "lack of transparent impact tracking"
+  ],
+  "solutions_proposed": [
+    "offering flexible funding",
+    "providing shared resources",
+    "establishing long-term partnerships",
+    "prioritizing collaboration",
+    "amplifying local voices",
+    "creating two-way communication",
+    "providing capacity-building support",
+    "implementing transparent impact tracking"
+  ],
+  "cached_at": "2025-06-20T10:24:50.870282",
+  "cache_key": "a41588915c20ae8d96fceca77f4902100f8b138da34c54e998b2ab2f77774553",
+  "model": "gpt-41"
+}

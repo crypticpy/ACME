@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of ACME",
+    "insufficient communication about existing programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I have no idea who you all are",
+    "I don't know what you currently offer"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about ACME and its offerings"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:51:55.949045",
+  "cache_key": "00cd25ad6ada92e094f8c3ba9e27d2489ab19209516c788a93d5939b76992526",
+  "model": "gpt-41"
+}

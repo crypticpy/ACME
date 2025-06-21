@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "City's lack of respect for arts as a profession",
+    "Arts treated as secondary to economic development",
+    "Institutional attitudes as barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "City has treated arts as a hobby",
+    "cute little add on for economic development",
+    "rather than a serious professional field",
+    "primary barrier"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "City treats arts as a hobby, not a profession",
+    "Arts seen as an add-on for economic development"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:47.805244",
+  "cache_key": "6607d670a01b28a412bbb6c807d5a9e7fd8114f55521eae4be42d4ebee9452ae",
+  "model": "gpt-41"
+}

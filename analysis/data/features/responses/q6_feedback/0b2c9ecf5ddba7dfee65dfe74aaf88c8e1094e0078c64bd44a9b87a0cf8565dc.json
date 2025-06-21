@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.7,
+  "themes": [
+    "ethical leadership",
+    "reason-based decision making",
+    "appeal for principled guidance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I beg you to lead",
+    "with ethics and reason as a guiding light"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "lead with ethics and reason"
+  ],
+  "cached_at": "2025-06-21T02:11:39.318138",
+  "cache_key": "0b2c9ecf5ddba7dfee65dfe74aaf88c8e1094e0078c64bd44a9b87a0cf8565dc",
+  "model": "gpt-41"
+}

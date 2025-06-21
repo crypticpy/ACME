@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for adherence to best practices",
+    "staffing concerns",
+    "perceived program shortcomings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "abide by best practices",
+    "new staff is needed",
+    "from everything I've heard"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adherence to best practices",
+    "inadequate or problematic staff"
+  ],
+  "solutions_proposed": [
+    "abide by best practices",
+    "hire new staff"
+  ],
+  "cached_at": "2025-06-21T01:09:37.714498",
+  "cache_key": "7d12a49bd2eded9f1f045a61a70888c15748a368f5edb10c000c0f10c7d72eb1",
+  "model": "gpt-41"
+}

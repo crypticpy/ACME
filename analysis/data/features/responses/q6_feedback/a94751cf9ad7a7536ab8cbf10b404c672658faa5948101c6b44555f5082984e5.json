@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "centralization of services",
+    "coordination among organizations",
+    "concern about effectiveness of consolidation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "one office to address multiple orgs, interests, and ideas",
+    "I hope ... works"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about whether a single office can effectively address diverse needs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:07.430971",
+  "cache_key": "a94751cf9ad7a7536ab8cbf10b404c672658faa5948101c6b44555f5082984e5",
+  "model": "gpt-41"
+}

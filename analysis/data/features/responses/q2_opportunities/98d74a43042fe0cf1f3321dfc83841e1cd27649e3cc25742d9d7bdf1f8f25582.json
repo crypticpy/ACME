@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live performances",
+    "interest in street performances in high traffic areas",
+    "need for nano and micro performance arts venues",
+    "importance of accessibility to arts venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Live performances",
+    "street performances especially in high traffic areas",
+    "more nano and micro performance arts venues",
+    "make these places and performances more accessible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Springdale station"
+  ],
+  "barriers_identified": [
+    "limited accessibility to venues and performances"
+  ],
+  "solutions_proposed": [
+    "increase live and street performances in high traffic areas",
+    "develop more nano and micro performance arts venues",
+    "improve accessibility to performance spaces"
+  ],
+  "cached_at": "2025-06-21T00:25:23.689515",
+  "cache_key": "98d74a43042fe0cf1f3321dfc83841e1cd27649e3cc25742d9d7bdf1f8f25582",
+  "model": "gpt-41"
+}

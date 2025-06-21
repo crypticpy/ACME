@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers to cultural access",
+    "parking limitations impacting participation",
+    "information gaps for non-social media users"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of mass transportation/parking",
+    "Lack of awareness for those not using social media"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mass transportation",
+    "lack of parking",
+    "lack of awareness among non-social media users"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:09.081166",
+  "cache_key": "dcbc89f75c76c99edc4c35691458d22f6638c7042fb4b97f767b481182c89c80",
+  "model": "gpt-41"
+}

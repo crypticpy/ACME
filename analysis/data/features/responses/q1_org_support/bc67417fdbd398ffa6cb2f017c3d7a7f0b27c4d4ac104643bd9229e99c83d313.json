@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "need for funding opportunities",
+    "support for organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Grant opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide grant opportunities"
+  ],
+  "cached_at": "2025-06-20T10:39:10.272900",
+  "cache_key": "bc67417fdbd398ffa6cb2f017c3d7a7f0b27c4d4ac104643bd9229e99c83d313",
+  "model": "gpt-41"
+}

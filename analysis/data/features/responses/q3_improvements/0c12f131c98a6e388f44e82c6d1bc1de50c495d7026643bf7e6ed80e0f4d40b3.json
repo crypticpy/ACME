@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding availability",
+    "private sector engagement",
+    "business community involvement in cultural support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More funds available",
+    "encourage the business community to contribute to cultural funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "lack of business community contribution"
+  ],
+  "solutions_proposed": [
+    "increase available funds",
+    "encourage business community contributions"
+  ],
+  "cached_at": "2025-06-21T00:55:04.227909",
+  "cache_key": "0c12f131c98a6e388f44e82c6d1bc1de50c495d7026643bf7e6ed80e0f4d40b3",
+  "model": "gpt-41"
+}

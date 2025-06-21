@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "need for technical assistance",
+    "support for culturally diverse creatives",
+    "ongoing support beyond grants",
+    "training and mentorship",
+    "feedback mechanisms"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "simplify the application process",
+    "offer technical assistance for first-time applicants",
+    "ensure funding reaches culturally diverse, community-based creatives",
+    "provide ongoing support not just grants",
+    "training, mentorship, and clear feedback mechanisms"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "lack of technical assistance for first-time applicants",
+    "insufficient support for culturally diverse, community-based creatives",
+    "limited support beyond grants"
+  ],
+  "solutions_proposed": [
+    "simplify the application process",
+    "offer technical assistance for first-time applicants",
+    "ensure funding reaches culturally diverse, community-based creatives",
+    "provide ongoing support through training, mentorship, and clear feedback mechanisms"
+  ],
+  "cached_at": "2025-06-21T00:57:13.918933",
+  "cache_key": "c09ab6eccc1c55da13e388a4ace4cf6fc39ddcc8c7576a1fbe616c0b943494f1",
+  "model": "gpt-41"
+}

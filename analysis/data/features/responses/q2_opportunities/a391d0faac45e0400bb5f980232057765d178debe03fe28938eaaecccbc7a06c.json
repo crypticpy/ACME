@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for higher quality/professional arts",
+    "oversaturation of amateur work",
+    "expectation of production standards"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "well produced, professional work",
+    "more than enough amateur level work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "prevalence of amateur level work"
+  ],
+  "solutions_proposed": [
+    "increase well produced, professional work"
+  ],
+  "cached_at": "2025-06-21T00:30:56.768802",
+  "cache_key": "a391d0faac45e0400bb5f980232057765d178debe03fe28938eaaecccbc7a06c",
+  "model": "gpt-41"
+}

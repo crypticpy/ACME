@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of arts and technology",
+    "interest in innovative cultural programming",
+    "desire for events similar to IGNITE Broward and Blink"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Arts and technology initiatives",
+    "like IGNITE Broward and Blink"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "IGNITE Broward",
+    "Blink"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more arts and technology initiatives similar to IGNITE Broward and Blink"
+  ],
+  "cached_at": "2025-06-21T00:47:26.997122",
+  "cache_key": "8b26a1b8584752a304e6d196f825884b57ab57bd4de42c345605965f67c24de1",
+  "model": "gpt-41"
+}

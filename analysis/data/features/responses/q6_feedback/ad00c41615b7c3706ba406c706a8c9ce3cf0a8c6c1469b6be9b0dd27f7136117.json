@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "economic impact of visual artists",
+    "community uplift through the arts",
+    "property value increase linked to arts",
+    "need for increased support for visual artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Visual Artists bring in a lot of revenue",
+    "uplift communities",
+    "increase property values",
+    "We need more support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient support for visual artists"
+  ],
+  "solutions_proposed": [
+    "more support for visual artists"
+  ],
+  "cached_at": "2025-06-21T02:17:07.523393",
+  "cache_key": "ad00c41615b7c3706ba406c706a8c9ce3cf0a8c6c1469b6be9b0dd27f7136117",
+  "model": "gpt-41"
+}

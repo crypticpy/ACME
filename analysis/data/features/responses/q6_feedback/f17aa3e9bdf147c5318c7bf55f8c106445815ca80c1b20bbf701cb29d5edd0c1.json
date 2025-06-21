@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Support for new cultural initiatives",
+    "Concern about maintaining quality of existing programs",
+    "Appreciation for community engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "absolutely a positive",
+    "ensure that the AIPP programming is not watered down or diminished",
+    "slight concern when I heard about this effort",
+    "Thank you for reaching out to better serve the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "Potential dilution of AIPP programming"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:22:24.802651",
+  "cache_key": "f17aa3e9bdf147c5318c7bf55f8c106445815ca80c1b20bbf701cb29d5edd0c1",
+  "model": "gpt-41"
+}

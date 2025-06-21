@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for immersive art and entertainment",
+    "Conversion of idle city properties to cultural use",
+    "Lack of physical venues for cultural programming",
+    "District-based theater infrastructure",
+    "City responsibility in supporting cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Immersive art and entertainment in all its forms",
+    "create / support a physical theater in every city district",
+    "Idle City properties needs to be converted to cultural use",
+    "this pavilion is one of Austin's most important treasures yet today it is off limit. UNACCEPTABLE",
+    "there is nowhere to program in Austin",
+    "The lack of venues stifles cultural innovation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Zach Scott"
+  ],
+  "barriers_identified": [
+    "Idle city properties not accessible for cultural use",
+    "Lack of available venues for programming",
+    "Insufficient supply of industrial buildings"
+  ],
+  "solutions_proposed": [
+    "Create or support a physical theater in every city district",
+    "Donate buildings or sites for cultural use",
+    "Convert specific city properties (2101 Jesse E. Segovia St, 3002 Guadalupe Street, 411 Chicon Street, 1621 Nash Hernandez Senior Rd) to cultural venues"
+  ],
+  "cached_at": "2025-06-21T00:49:17.653134",
+  "cache_key": "a8342ecec521b272bf913dc061eac2ddc2518c1a630ea0b6930bd61f34484f0e",
+  "model": "gpt-41"
+}

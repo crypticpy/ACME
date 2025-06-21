@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of live music opportunities",
+    "geographic disparity in cultural offerings",
+    "limited access to arts in Montopolis"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "very few opportunities for live music",
+    "Montopolis"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "very few opportunities for live music in Montopolis"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:58.272288",
+  "cache_key": "3a65206a8d70e3147a36995b822a15662d8dd9520d6772f0b7245998f8e91d94",
+  "model": "gpt-41"
+}

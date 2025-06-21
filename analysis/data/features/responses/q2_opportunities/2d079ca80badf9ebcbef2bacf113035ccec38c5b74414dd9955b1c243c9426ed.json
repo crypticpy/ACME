@@ -1,0 +1,48 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing and cost of living for artists",
+    "unrestricted and significant compensation for artists",
+    "prioritizing support for Black, Brown, and lifelong Austinites",
+    "streamlined and responsive grant processes",
+    "healthcare and mental health support for artists",
+    "artist-donor/customer relationship management and legal protection"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "offering housing, or housing stipends, rent subsidy",
+    "significant compensation with no restrictions",
+    "going to Black, Brown and lifelong Austinites as a priority",
+    "rolling deadlines with quick responses",
+    "insurance or health care for artists who struggle with mental health and part-time jobs",
+    "connecting artists with donors and customers",
+    "most artists do not have legal resources to navigate contracts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing",
+    "insufficient or restricted compensation",
+    "delayed grant processes",
+    "lack of healthcare and mental health support",
+    "lack of legal resources for artists",
+    "potential exploitation by donors or customers"
+  ],
+  "solutions_proposed": [
+    "offering housing, housing stipends, or rent subsidy",
+    "providing significant compensation with minimal restrictions",
+    "prioritizing Black, Brown, and lifelong Austinites for support",
+    "implementing rolling deadlines with quick responses for grants",
+    "providing insurance or healthcare for artists",
+    "offering caseworkers for artists",
+    "coordinating artist-donor/customer interactions to ensure artist support",
+    "providing legal resources for artists"
+  ],
+  "cached_at": "2025-06-21T00:48:55.066319",
+  "cache_key": "2d079ca80badf9ebcbef2bacf113035ccec38c5b74414dd9955b1c243c9426ed",
+  "model": "gpt-41"
+}

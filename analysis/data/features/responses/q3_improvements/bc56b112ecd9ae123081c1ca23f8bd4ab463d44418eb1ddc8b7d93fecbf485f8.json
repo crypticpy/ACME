@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "perceived undervaluing of Occidental cultural groups",
+    "lack of recognition for traditional cultural organizations",
+    "support for cultural funding efforts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I support the effort",
+    "groups such as the Austin Symphonic Band",
+    "continuing to support the cultural treasures of Occidental culture",
+    "the current process just doesn't recognize any value in what we do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Austin Symphonic Band"
+  ],
+  "barriers_identified": [
+    "current process just doesn't recognize any value in what we do"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:55:30.710708",
+  "cache_key": "bc56b112ecd9ae123081c1ca23f8bd4ab463d44418eb1ddc8b7d93fecbf485f8",
+  "model": "gpt-41"
+}

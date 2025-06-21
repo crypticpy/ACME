@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "organizational collaboration",
+    "shared funding models",
+    "increasing cultural diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Collaboration among the organizations",
+    "shared funding",
+    "more cultural diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration among organizations",
+    "insufficient cultural diversity"
+  ],
+  "solutions_proposed": [
+    "Collaboration among the organizations",
+    "shared funding",
+    "more cultural diversity"
+  ],
+  "cached_at": "2025-06-21T02:08:01.670860",
+  "cache_key": "6ee66082d93293ca4ec02beaa69f236244bac909ab87e510ca403a49e4261df0",
+  "model": "gpt-41"
+}

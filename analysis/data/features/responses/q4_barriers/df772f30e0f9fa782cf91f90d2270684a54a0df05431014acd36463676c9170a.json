@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient grant funding",
+    "challenges for literary arts professionals",
+    "challenges for literary arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "a dearth of grant funding",
+    "literary arts professionals",
+    "literary arts organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant funding for literary arts professionals",
+    "lack of grant funding for literary arts organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:28.875990",
+  "cache_key": "df772f30e0f9fa782cf91f90d2270684a54a0df05431014acd36463676c9170a",
+  "model": "gpt-41"
+}

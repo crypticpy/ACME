@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in sustainable funding",
+    "need for more data transparency",
+    "grants process for ACME programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "curious about how funding can be more sustainable",
+    "when it comes to grants",
+    "if I saw more data I could better answer this question"
+  ],
+  "intent": "information_request",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of data to inform feedback"
+  ],
+  "solutions_proposed": [
+    "provide more data"
+  ],
+  "cached_at": "2025-06-21T02:20:46.439631",
+  "cache_key": "d2bec0a850f7d22374d1a0dfc971d713937c9cfcca4240331708cdbbe6423e70",
+  "model": "gpt-41"
+}

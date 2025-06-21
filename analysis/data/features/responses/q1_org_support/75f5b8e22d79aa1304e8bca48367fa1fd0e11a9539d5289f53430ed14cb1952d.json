@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "funding inequity between art forms",
+    "need for support for theater and visual artists",
+    "expansion of artist health resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Fund theater artists and visual artists to the level you fund musicians",
+    "HAAM for all artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "theater artists and visual artists not funded equally to musicians",
+    "lack of health assistance for non-musician artists"
+  ],
+  "solutions_proposed": [
+    "Fund theater artists and visual artists to the level you fund musicians",
+    "Expand HAAM or similar health assistance to all artists"
+  ],
+  "cached_at": "2025-06-20T10:26:34.778465",
+  "cache_key": "75f5b8e22d79aa1304e8bca48367fa1fd0e11a9539d5289f53430ed14cb1952d",
+  "model": "gpt-41"
+}

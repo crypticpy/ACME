@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more independent film",
+    "support for indie arts",
+    "expansion of film culture"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "True Indie film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more True Indie film opportunities"
+  ],
+  "cached_at": "2025-06-21T00:48:50.875500",
+  "cache_key": "2cc9c14b471d8bf976d5be21d05a35e0b9de862a5663373beb93032b784ad9b9",
+  "model": "gpt-41"
+}

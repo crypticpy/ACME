@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion of established organizations from funding",
+    "value of long-standing organizations in supporting artists",
+    "critique of prioritizing 'emerging' status over sustained impact"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "not leaving them out of the funding process",
+    "organizations that have been making work and providing artists with jobs and opportunities for decades shouldn\u2019t be left out",
+    "just because they aren\u2019t 'emerging' anymore",
+    "they still support emerging artists",
+    "vital pillars of the austin arts communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion from funding due to not being classified as 'emerging'"
+  ],
+  "solutions_proposed": [
+    "do not exclude established organizations from the funding process"
+  ],
+  "cached_at": "2025-06-20T10:38:20.889128",
+  "cache_key": "5ef00785684529489e68313bf98bfd22b89f459bddf5af2b091caa101d93ff14",
+  "model": "gpt-41"
+}

@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for engagement",
+    "no additional feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Not at this time",
+    "Thank you for offering this survey"
+  ],
+  "intent": "acknowledgement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:10.092799",
+  "cache_key": "9f866c71d4623c3f993066ab8738ea1a2834243157102823409acd3ce0333140",
+  "model": "gpt-41"
+}

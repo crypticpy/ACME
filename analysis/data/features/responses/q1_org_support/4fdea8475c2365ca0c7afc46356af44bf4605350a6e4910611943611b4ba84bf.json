@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "diversity awareness",
+    "inclusive support",
+    "understanding affected populations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "diverse population",
+    "those effected"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about diversity among those affected"
+  ],
+  "solutions_proposed": [
+    "knowing a diverse population of those effected"
+  ],
+  "cached_at": "2025-06-20T10:36:36.806842",
+  "cache_key": "4fdea8475c2365ca0c7afc46356af44bf4605350a6e4910611943611b4ba84bf",
+  "model": "gpt-41"
+}

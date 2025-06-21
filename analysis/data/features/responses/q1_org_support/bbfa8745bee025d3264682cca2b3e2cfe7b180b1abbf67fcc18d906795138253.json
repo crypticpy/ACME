@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about ACME",
+    "uncertainty about civic involvement opportunities",
+    "limited awareness of organizational mission and goals"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I suppose I would need more information",
+    "Are there already avenues for civic involvement?",
+    "I don\u2019t really know much about the goals or mission"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about ACME's goals or mission",
+    "unclear opportunities for civic involvement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:21:51.098672",
+  "cache_key": "bbfa8745bee025d3264682cca2b3e2cfe7b180b1abbf67fcc18d906795138253",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased poetry events",
+    "support for independent theatre",
+    "affordable independent music"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more poetry",
+    "independent theatre",
+    "independent music at affordable prices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability of independent music"
+  ],
+  "solutions_proposed": [
+    "more poetry events",
+    "more independent theatre",
+    "more independent music at affordable prices"
+  ],
+  "cached_at": "2025-06-21T00:44:55.346695",
+  "cache_key": "e64eb71d43107b00fd09c89daf2807c2419799a30ade9d8410ccb709a1724408",
+  "model": "gpt-41"
+}

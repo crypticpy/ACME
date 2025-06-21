@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for regular engagement with cultural leaders",
+    "Equitable program development",
+    "Support for small and medium-sized organizations",
+    "Focus on historically marginalized communities",
+    "Negative impacts of overdevelopment",
+    "Dominance of major arts venues over community needs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "meet with cultural leaders regularly",
+    "document reported needs",
+    "create equitable programs",
+    "support small and medium-sized organizations",
+    "serve historically marginalized communities",
+    "negatively impacted by overdevelopment",
+    "priorities of a few major arts venues",
+    "do not meet or represent the cultural needs of all residents"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overdevelopment negatively impacting communities",
+    "priorities of a few major arts venues do not represent all residents",
+    "lack of support for small and medium-sized organizations",
+    "historically marginalized communities underserved"
+  ],
+  "solutions_proposed": [
+    "meet with cultural leaders regularly",
+    "document reported needs",
+    "take actions to create equitable programs",
+    "support small and medium-sized organizations serving marginalized communities"
+  ],
+  "cached_at": "2025-06-20T01:11:43.764910",
+  "cache_key": "78b26a62ea7851c3ecaf8559894e0ebc2f762f693905fd5fa97468941b833eac",
+  "model": "gpt-41"
+}

@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for increased quantity and variety of cultural events",
+    "need for accessibility across diverse communities",
+    "interest in informal and welcoming event formats",
+    "demand for more cultural venues",
+    "spontaneity and everyday access to arts experiences",
+    "representation of diverse cultures and human experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more of everything",
+    "more outdoor and family events that are accessible to various communities",
+    "more informal events that are welcoming to ordinary residents",
+    "more venues",
+    "on any particular day, you could decide to see a new band, or take your friends to a challenging play, or watch a dance show speaking to your own culture and humanity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible events for various communities",
+    "insufficient informal and welcoming events",
+    "not enough venues"
+  ],
+  "solutions_proposed": [
+    "increase outdoor and family events accessible to various communities",
+    "offer more informal events welcoming to ordinary residents",
+    "expand the number of venues",
+    "provide a wider variety of cultural programming available on any day"
+  ],
+  "cached_at": "2025-06-21T00:36:50.657603",
+  "cache_key": "9f2dc91a2de379c20168b7dd27eb5fc474d159c6c49427de86c11f743fb63edc",
+  "model": "gpt-41"
+}

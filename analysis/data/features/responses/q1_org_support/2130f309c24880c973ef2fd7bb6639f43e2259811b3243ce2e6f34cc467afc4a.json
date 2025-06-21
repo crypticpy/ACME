@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable performance spaces",
+    "increased funding for the arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more access to affordable spaces",
+    "performance arts",
+    "funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable spaces for performance arts",
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "provide more access to affordable spaces for performance arts",
+    "increase funding"
+  ],
+  "cached_at": "2025-06-20T10:38:37.508507",
+  "cache_key": "2130f309c24880c973ef2fd7bb6639f43e2259811b3243ce2e6f34cc467afc4a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "accessibility for artists and cultural centers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "make the application systems easier",
+    "for artists and cultural centers to apply"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application systems"
+  ],
+  "solutions_proposed": [
+    "make the application systems easier"
+  ],
+  "cached_at": "2025-06-21T01:03:31.025944",
+  "cache_key": "ae35398ae377e1f47ff5344209222a716ff012a503b457fc013216772c6cf9c5",
+  "model": "gpt-41"
+}

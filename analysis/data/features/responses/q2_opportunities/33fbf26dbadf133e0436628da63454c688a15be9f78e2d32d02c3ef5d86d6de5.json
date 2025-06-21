@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "loss of large-scale community events",
+    "desire for performing arts showcases",
+    "interest in live music events",
+    "nostalgia for past city traditions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "We used to do a big New Year's Eve event along Congress",
+    "showcased performing arts and live music"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "discontinuation of major public events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:49:19.216041",
+  "cache_key": "33fbf26dbadf133e0436628da63454c688a15be9f78e2d32d02c3ef5d86d6de5",
+  "model": "gpt-41"
+}

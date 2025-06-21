@@ -1,0 +1,51 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event scheduling conflicts among cultural organizations",
+    "competition versus collaboration between organizations",
+    "impact of funding disparities on event quality",
+    "visibility and recognition of city-run cultural centers",
+    "city's approach to cultural celebration and authenticity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Help consolidate the opportunities!",
+    "events end up competing with each other",
+    "creating a competitive atmosphere between these organizations",
+    "the market gets saturated with the events and the attendees get lost",
+    "the attendee will choose the one closest to them/better parking or the one that has more activities",
+    "there's a huge difference because of funding",
+    "it's disappointing that the city's own cultural events aren't the biggest and brightest",
+    "this is not the fault of staff at the MACC, it's simply due to lack of funding",
+    "the city choses to celebrate Cinco de Mayo when that is not a true mexican holiday",
+    "these sites should be more known by COA residents"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "COA ESB-MACC",
+    "Mexic-arte's La Fete Cinco de Mayo celebration",
+    "Macc's La Mujer celebration",
+    "AARC",
+    "Carver",
+    "MACC"
+  ],
+  "barriers_identified": [
+    "event scheduling conflicts leading to competition",
+    "market saturation with similar events",
+    "attendees confused about which event to attend",
+    "funding disparities between organizations",
+    "city-run cultural centers less visible than private organizations"
+  ],
+  "solutions_proposed": [
+    "consolidate opportunities to reduce event competition",
+    "increase funding for city-run cultural centers",
+    "raise visibility of city-run sites among residents"
+  ],
+  "cached_at": "2025-06-20T01:18:55.096869",
+  "cache_key": "2a2ad04ce8811e2621de0ecd454c14fa5470484a9e0b9391b570bdfa446369f4",
+  "model": "gpt-41"
+}

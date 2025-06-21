@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "diversification of funding sources",
+    "threats to venues from gentrification",
+    "support for historic venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "increased funding",
+    "broadening of funding base beyond HOT taxes",
+    "venue support (esp in the face of gentrification\u2026",
+    "Hole in the Wall historical venue status"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Hole in the Wall"
+  ],
+  "barriers_identified": [
+    "reliance on HOT taxes",
+    "gentrification threatening venues"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "broaden funding base beyond HOT taxes",
+    "provide venue support",
+    "grant historical venue status (e.g., for Hole in the Wall)"
+  ],
+  "cached_at": "2025-06-20T10:34:17.803122",
+  "cache_key": "ac2eac6cb04788850b7069535eea9ef434d9703130792ad6108b2ce34ce64c17",
+  "model": "gpt-41"
+}

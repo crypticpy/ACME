@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for accessible venues",
+    "availability of grand pianos in venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "accessible venues",
+    "grand piano"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible venues with a grand piano"
+  ],
+  "solutions_proposed": [
+    "offer accessible venues with a grand piano"
+  ],
+  "cached_at": "2025-06-21T02:07:01.792447",
+  "cache_key": "a2bb5775d3a1f34e52d17ce507243f101988d672eb53ad241a840d085ba6100c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "insufficient information to respond",
+    "need for more context before providing feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Can't answer this question",
+    "Need more information"
+  ],
+  "intent": "request_for_information",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:44:13.195548",
+  "cache_key": "04e284eabeac282db76257974230fd66dfefc9c968c326d43d6677ecb3970bcd",
+  "model": "gpt-41"
+}

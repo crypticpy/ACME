@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "aspiration for Austin as a music capital",
+    "funding allocation based on contribution plans",
+    "emphasis on music and entertainment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "my interest as a Music Professional",
+    "Austin claim the title of Music Capital",
+    "Funding should be conmesurate to to those with a solid plan",
+    "making Austin the new Music and Entertaining Capital"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Funding should be commensurate to those with a solid plan to contribute to making Austin the new Music and Entertaining Capital"
+  ],
+  "cached_at": "2025-06-21T01:10:04.212884",
+  "cache_key": "764c081f4c603069cacc6d98f0f30a71920cbca5ea17c24c9b4c762db8d26bb5",
+  "model": "gpt-41"
+}

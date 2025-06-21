@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for artist studio space funding",
+    "desire for artist residency programs",
+    "support for artist travel",
+    "culmination of grants in public exhibition or performance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Grants for artists studio spaces",
+    "a residency program",
+    "or travel",
+    "The grant would be fulfilled in a calendar year",
+    "culmination of an exhibition or performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for studio spaces",
+    "absence of residency programs",
+    "insufficient support for artist travel"
+  ],
+  "solutions_proposed": [
+    "Offer grants for artists studio spaces",
+    "Create a residency program",
+    "Provide grants for artist travel",
+    "Structure grants to culminate in an exhibition or performance within a calendar year"
+  ],
+  "cached_at": "2025-06-21T01:54:50.427777",
+  "cache_key": "0fbc2e26fdb5720d42e4557d6a398d9601debdb9ba257c2ca8ee5c8a82f14261",
+  "model": "gpt-41"
+}

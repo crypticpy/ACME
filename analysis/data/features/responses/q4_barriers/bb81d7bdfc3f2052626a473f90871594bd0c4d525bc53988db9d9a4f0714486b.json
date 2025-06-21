@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost as a barrier to access",
+    "economic exclusion from cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Financial barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Financial barriers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:44.364803",
+  "cache_key": "bb81d7bdfc3f2052626a473f90871594bd0c4d525bc53988db9d9a4f0714486b",
+  "model": "gpt-41"
+}

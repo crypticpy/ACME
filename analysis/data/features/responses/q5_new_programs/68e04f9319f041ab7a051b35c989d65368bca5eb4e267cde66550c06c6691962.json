@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable rehearsal and theater spaces",
+    "economic inaccessibility for Hispanic groups",
+    "need for subsidized or supported venue access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Acceso a lugares de ensayo y teatro",
+    "inaccecibles economicamente para los grupos hispanos",
+    "no podemos pagar los altos costos"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of rehearsal and theater spaces",
+    "economic inaccessibility for Hispanic groups"
+  ],
+  "solutions_proposed": [
+    "Contracting or subsidizing space to make it affordable for Hispanic groups"
+  ],
+  "cached_at": "2025-06-21T02:00:40.145556",
+  "cache_key": "68e04f9319f041ab7a051b35c989d65368bca5eb4e267cde66550c06c6691962",
+  "model": "gpt-41"
+}

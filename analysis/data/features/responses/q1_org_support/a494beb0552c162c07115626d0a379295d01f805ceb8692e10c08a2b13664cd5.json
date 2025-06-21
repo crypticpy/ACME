@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding",
+    "importance of grants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "It's all about funding and grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "insufficient grants"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "provide more grants"
+  ],
+  "cached_at": "2025-06-20T10:30:22.471064",
+  "cache_key": "a494beb0552c162c07115626d0a379295d01f805ceb8692e10c08a2b13664cd5",
+  "model": "gpt-41"
+}

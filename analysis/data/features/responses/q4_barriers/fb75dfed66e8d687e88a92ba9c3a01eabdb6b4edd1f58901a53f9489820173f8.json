@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "transportation and parking challenges",
+    "cost barriers to participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "ticket prices",
+    "parking within austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ticket prices",
+    "parking within Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:07.938175",
+  "cache_key": "fb75dfed66e8d687e88a92ba9c3a01eabdb6b4edd1f58901a53f9489820173f8",
+  "model": "gpt-41"
+}

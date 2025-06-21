@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "centering grassroots voices in decision-making",
+    "capacity-building beyond funding",
+    "equity and long-term support",
+    "amplifying existing successful efforts",
+    "sustained investment rather than replacement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin\u2019s creative identity was built by grassroots organizations and cultural leaders",
+    "Centering their voices in decision-making",
+    "Offering capacity-building tools (not just funding)",
+    "Focusing on equity and long-term support",
+    "Amplifying what\u2019s already working",
+    "Support means listening, investing, and sustaining\u2014not replacing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of voice in decision-making",
+    "overemphasis on funding without capacity-building",
+    "insufficient focus on equity and sustainability"
+  ],
+  "solutions_proposed": [
+    "Centering grassroots organizations and leaders in decision-making",
+    "Providing capacity-building tools in addition to funding",
+    "Focusing on equity and long-term support",
+    "Amplifying existing successful efforts",
+    "Listening, investing, and sustaining rather than replacing"
+  ],
+  "cached_at": "2025-06-20T10:33:06.824907",
+  "cache_key": "85365077f9d5f5c893195ab3034c86296b96bf23f33ab894db8ddf53d5d95a1b",
+  "model": "gpt-41"
+}

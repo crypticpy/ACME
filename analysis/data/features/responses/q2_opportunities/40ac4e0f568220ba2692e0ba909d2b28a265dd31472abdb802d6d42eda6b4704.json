@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for free and casual third spaces",
+    "acknowledgment of event costs",
+    "suggestion for funding support from ACME"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "free & casual third spaces",
+    "as a event curator, i understand that everything costs",
+    "maybe there are ways these expenses can be offset with the support of ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "event costs"
+  ],
+  "solutions_proposed": [
+    "offsetting expenses with the support of ACME"
+  ],
+  "cached_at": "2025-06-21T00:53:18.357487",
+  "cache_key": "40ac4e0f568220ba2692e0ba909d2b28a265dd31472abdb802d6d42eda6b4704",
+  "model": "gpt-41"
+}

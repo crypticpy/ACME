@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Rising cost of living in Austin",
+    "Time constraints for working musicians",
+    "Difficulty of grant application processes",
+    "Loss of Austin's accessible music culture",
+    "Equity and accessibility for blue collar musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Austin is expensive",
+    "no longer the cheap hippie musician college town",
+    "Between gigging all the time or holding down some day work to pay the bills, where is the time to write difficult grant apps",
+    "This isn\u2019t college where you have all the time to focus on homework like that",
+    "how do you balance it out so that it\u2019s accessible, fair and doable for the blue collar working musician"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "High cost of living in Austin",
+    "Lack of time due to multiple jobs or gigging",
+    "Complexity and time-consuming nature of grant applications"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:12.549074",
+  "cache_key": "f8bb12922483c55944a1d29916d542982149c182149c03c80b69ec71dca76df9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "policy engagement",
+    "intersection of housing and culture",
+    "advocacy for housing issues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "get involved in policy on the housing front"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "get involved in policy on the housing front"
+  ],
+  "cached_at": "2025-06-21T02:01:20.344427",
+  "cache_key": "cbe4cc88cbd361f829d9aa80b264d85fff4d4fabc25e6595e4fceb78204a4780",
+  "model": "gpt-41"
+}

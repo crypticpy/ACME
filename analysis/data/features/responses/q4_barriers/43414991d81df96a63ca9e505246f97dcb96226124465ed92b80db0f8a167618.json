@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for arts and culture",
+    "high cost of venues limiting access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "not enough funding available",
+    "venue costs are too high"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough funding available",
+    "venue costs are too high"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:39.858407",
+  "cache_key": "43414991d81df96a63ca9e505246f97dcb96226124465ed92b80db0f8a167618",
+  "model": "gpt-41"
+}

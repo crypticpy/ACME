@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "revitalization of existing cultural programs",
+    "support for visual arts community",
+    "desire for continuity in cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.6,
+  "key_phrases": [
+    "Re-establish and re-invigorate the Austin Studio Tour"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Studio Tour"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Re-establish and re-invigorate the Austin Studio Tour"
+  ],
+  "cached_at": "2025-06-21T00:52:37.802951",
+  "cache_key": "8a3b0aae12a2cde987ab1639e0a6ab5b0ab755b8b061797349f1bd5695795c0b",
+  "model": "gpt-41"
+}

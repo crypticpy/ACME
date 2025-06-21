@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding for organizations and leaders",
+    "greater creative autonomy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More funding",
+    "more creative license"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase funding",
+    "Allow more creative license"
+  ],
+  "cached_at": "2025-06-20T10:25:05.898034",
+  "cache_key": "59aa0c662426132c5ef2790ee7f5cbef627044af96dcff90ec99ac80c1517cff",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for established organizations",
+    "preference for proven track records"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Fund existing organizations",
+    "tried and true"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund existing organizations (tried and true)"
+  ],
+  "cached_at": "2025-06-20T10:29:43.131958",
+  "cache_key": "7c97c28cf89964227fd8c4dec1335d9632a5935c7e8b2609069707df03adf7b6",
+  "model": "gpt-41"
+}

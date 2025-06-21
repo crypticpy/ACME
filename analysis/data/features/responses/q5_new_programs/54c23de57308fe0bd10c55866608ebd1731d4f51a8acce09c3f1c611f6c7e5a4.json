@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for new artists",
+    "collaborative opportunities",
+    "fellowship programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Collaborative fellowships for new artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Collaborative fellowships for new artists"
+  ],
+  "cached_at": "2025-06-21T01:50:28.914914",
+  "cache_key": "54c23de57308fe0bd10c55866608ebd1731d4f51a8acce09c3f1c611f6c7e5a4",
+  "model": "gpt-41"
+}

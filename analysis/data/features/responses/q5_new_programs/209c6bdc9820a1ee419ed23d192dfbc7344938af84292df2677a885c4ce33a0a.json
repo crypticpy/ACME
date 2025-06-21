@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "music programming for city employees",
+    "desire for parity with existing employee programs",
+    "expansion of internal cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Music programming for COA employees",
+    "similar to the PE program"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "PE program"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer music programming for COA employees similar to the PE program"
+  ],
+  "cached_at": "2025-06-21T02:09:30.788131",
+  "cache_key": "209c6bdc9820a1ee419ed23d192dfbc7344938af84292df2677a885c4ce33a0a",
+  "model": "gpt-41"
+}

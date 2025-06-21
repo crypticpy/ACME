@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration among groups with shared goals",
+    "joint production of cultural offerings",
+    "audience development and event attendance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "network groups with common goals together",
+    "joint production of offerings",
+    "help drive attendees to arts events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration among groups",
+    "insufficient attendance at arts events"
+  ],
+  "solutions_proposed": [
+    "network groups with common goals together for joint production",
+    "help drive attendees to arts events"
+  ],
+  "cached_at": "2025-06-20T10:36:58.367274",
+  "cache_key": "9486768d87ddbe0e003ed6cdb19ef415f3ff8af990f37eb704cb6ecd1a3afa48",
+  "model": "gpt-41"
+}

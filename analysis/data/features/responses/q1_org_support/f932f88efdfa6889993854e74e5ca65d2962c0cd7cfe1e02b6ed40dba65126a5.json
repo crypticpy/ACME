@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct financial support",
+    "increased visibility for organizations and leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Give them money!",
+    "Platform their efforts!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide direct funding to organizations and cultural leaders",
+    "Increase public visibility and support for their efforts"
+  ],
+  "cached_at": "2025-06-20T10:45:31.596050",
+  "cache_key": "f932f88efdfa6889993854e74e5ca65d2962c0cd7cfe1e02b6ed40dba65126a5",
+  "model": "gpt-41"
+}

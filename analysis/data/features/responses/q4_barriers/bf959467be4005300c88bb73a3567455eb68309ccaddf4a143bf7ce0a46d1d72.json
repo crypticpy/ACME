@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "political climate as a barrier",
+    "impact of state and national politics on artists",
+    "difficulty securing resources for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The politics of Texas and Trump continue to create barriers",
+    "any artists trying to secure resources"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "politics of Texas",
+    "Trump",
+    "political barriers to securing resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:00.730527",
+  "cache_key": "bf959467be4005300c88bb73a3567455eb68309ccaddf4a143bf7ce0a46d1d72",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preservation of iconic venues",
+    "threat of venue closure",
+    "community cultural heritage"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "keep the iconic venues open"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "risk of iconic venues closing"
+  ],
+  "solutions_proposed": [
+    "find a way to keep the iconic venues open"
+  ],
+  "cached_at": "2025-06-21T02:21:32.853982",
+  "cache_key": "c05a067a6a7952f31db23781a3aa3e678804c2b22eb691171ce80ab58a4e7b3d",
+  "model": "gpt-41"
+}

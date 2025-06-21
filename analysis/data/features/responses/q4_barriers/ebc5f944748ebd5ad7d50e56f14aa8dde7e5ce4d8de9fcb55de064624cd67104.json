@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transportation access",
+    "insufficient funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Transportation",
+    "Funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Transportation",
+    "Funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:32.551903",
+  "cache_key": "ebc5f944748ebd5ad7d50e56f14aa8dde7e5ce4d8de9fcb55de064624cd67104",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for artists",
+    "support for diverse artistic disciplines"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more funding for artists",
+    "artists of all kinds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for artists"
+  ],
+  "solutions_proposed": [
+    "more funding for artists of all kinds"
+  ],
+  "cached_at": "2025-06-21T00:31:36.697281",
+  "cache_key": "e13c0d850ac31f4fafa06cf3758370abc88f91eb5c79af83eab29c2e009da889",
+  "model": "gpt-41"
+}

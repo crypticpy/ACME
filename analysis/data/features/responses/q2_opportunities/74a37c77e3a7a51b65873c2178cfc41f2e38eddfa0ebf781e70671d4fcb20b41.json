@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cultural education",
+    "cultural advocacy"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "cultural educational",
+    "advocacy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:48:32.701881",
+  "cache_key": "74a37c77e3a7a51b65873c2178cfc41f2e38eddfa0ebf781e70671d4fcb20b41",
+  "model": "gpt-41"
+}

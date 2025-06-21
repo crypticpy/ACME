@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "lack of transparency in evaluation",
+    "emotional frustration with bureaucracy",
+    "desire for straightforward criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "crazy application",
+    "makes you feel like the world makes no sense",
+    "just ask about work history and community impact and score accordingly",
+    "all the other stuff was just strange",
+    "gave a sense that there was something else going on"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overly complex application process",
+    "lack of clarity in requirements",
+    "perceived hidden agenda or lack of transparency"
+  ],
+  "solutions_proposed": [
+    "simplify application to focus on work history and community impact",
+    "score applications based on straightforward criteria"
+  ],
+  "cached_at": "2025-06-21T01:09:20.745961",
+  "cache_key": "052432f09f3eedf66b060abe8061ff7c2e678e8acc6619580cf0af38f1979edb",
+  "model": "gpt-41"
+}

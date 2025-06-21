@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of awareness of grant programs",
+    "personal responsibility for information seeking"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I have not heard of these grants previously",
+    "simple lack of research on my part"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of available grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:10:49.002077",
+  "cache_key": "ee2980eac763af9b489a15604f6d6c849eae45454ab855635755f9e57b7c9b0f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more film festivals",
+    "interest in hip hop showcases",
+    "support for multicultural food festivals",
+    "interest in more theatrical plays"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Film festivals",
+    "hip hop showcases",
+    "multicultural food festivals",
+    "plays"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More film festivals",
+    "More hip hop showcases",
+    "More multicultural food festivals",
+    "More plays"
+  ],
+  "cached_at": "2025-06-21T00:48:43.203299",
+  "cache_key": "85722bf598c4c4ff67df03940d4f19429e103e63a11631e739f5ed91a25188cd",
+  "model": "gpt-41"
+}

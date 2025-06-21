@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for cultural diversity",
+    "call for transparency in processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Cultural Diversity",
+    "Transparency"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase cultural diversity",
+    "Improve transparency"
+  ],
+  "cached_at": "2025-06-20T10:43:42.590913",
+  "cache_key": "53a05797c616bc613ae9d306ea19db81cad68ab4a40df1d5431555cb41a36b68",
+  "model": "gpt-41"
+}

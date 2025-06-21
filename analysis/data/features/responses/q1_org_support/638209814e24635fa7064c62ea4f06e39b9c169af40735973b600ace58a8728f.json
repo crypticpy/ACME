@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to real estate development",
+    "perceived threat to cultural organizations from developers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.6,
+  "key_phrases": [
+    "Stop the developers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "impact of developers on cultural organizations"
+  ],
+  "solutions_proposed": [
+    "Stop the developers"
+  ],
+  "cached_at": "2025-06-20T01:21:48.282330",
+  "cache_key": "638209814e24635fa7064c62ea4f06e39b9c169af40735973b600ace58a8728f",
+  "model": "gpt-41"
+}

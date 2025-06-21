@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for educational workshops on funding",
+    "barriers to grant application for marginalized communities",
+    "resource and accessibility challenges",
+    "role of the city in providing support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more workshops and opportunities for people to learn about this funding",
+    "applying to the grants typically takes grand resources, time and energy",
+    "the communities most in need do not have",
+    "more teach-ins or workshops provided by the city would be impactful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "applying to the grants typically takes grand resources, time and energy",
+    "the communities most in need do not have [these resources]"
+  ],
+  "solutions_proposed": [
+    "more workshops and opportunities for people to learn about this funding",
+    "more teach-ins or workshops provided by the city"
+  ],
+  "cached_at": "2025-06-21T01:19:11.927319",
+  "cache_key": "131ab50ec370f1a62493ab0c6dfe61a554aae02e288fd7191ffa3f58e66f01ea",
+  "model": "gpt-41"
+}

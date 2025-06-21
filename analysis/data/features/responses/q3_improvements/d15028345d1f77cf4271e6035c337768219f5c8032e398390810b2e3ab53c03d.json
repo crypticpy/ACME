@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of outreach to underrepresented communities",
+    "unawareness of existing cultural programs",
+    "personal support and participation in the arts",
+    "family connection to arts education"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "do more outreach in the communities, especially under Representative communities",
+    "I was unaware of any of the programs that this organizations or department supported",
+    "I am a strong supporter of the arts",
+    "participate in them on a monthly basis",
+    "my daughter is a Music major at UT Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach",
+    "lack of awareness of programs"
+  ],
+  "solutions_proposed": [
+    "do more outreach in the communities, especially under Representative communities"
+  ],
+  "cached_at": "2025-06-21T01:11:32.063636",
+  "cache_key": "d15028345d1f77cf4271e6035c337768219f5c8032e398390810b2e3ab53c03d",
+  "model": "gpt-41"
+}

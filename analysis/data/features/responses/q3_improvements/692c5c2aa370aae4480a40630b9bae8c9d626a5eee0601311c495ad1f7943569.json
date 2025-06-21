@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "funding eligibility for organizations outside city limits",
+    "affordability of creative spaces",
+    "artist displacement from Austin",
+    "barriers created by geographic funding restrictions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Including funding for orgs outside of city limits that serve Austin artists",
+    "Spaces are cheaper outside of Austin",
+    "people are being pushed out of the city and seeking opportunities elsewhere for a reason"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding restrictions based on city limits",
+    "high cost of spaces within Austin",
+    "artist displacement due to affordability"
+  ],
+  "solutions_proposed": [
+    "Include funding for organizations outside of city limits that serve Austin artists"
+  ],
+  "cached_at": "2025-06-21T00:57:06.311695",
+  "cache_key": "692c5c2aa370aae4480a40630b9bae8c9d626a5eee0601311c495ad1f7943569",
+  "model": "gpt-41"
+}

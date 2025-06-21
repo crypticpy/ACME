@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of performing arts",
+    "international cultural exchange",
+    "diversity and inclusion in the arts",
+    "arts accessibility for differently abled individuals",
+    "arts programming for immunocompromised people",
+    "arts opportunities for parents and very young children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more performing arts",
+    "more art focused on international exchange",
+    "diversity",
+    "differently abled folks",
+    "art for immunocompromised folks",
+    "parents",
+    "very young children"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of arts opportunities for differently abled individuals",
+    "lack of arts opportunities for immunocompromised people",
+    "lack of arts opportunities for parents and very young children"
+  ],
+  "solutions_proposed": [
+    "increase performing arts offerings",
+    "develop art focused on international exchange",
+    "create more diverse and inclusive arts programming",
+    "provide arts opportunities for differently abled individuals",
+    "provide arts opportunities for immunocompromised people",
+    "provide arts opportunities for parents and very young children"
+  ],
+  "cached_at": "2025-06-21T00:50:12.677097",
+  "cache_key": "ead12b169fdf2fddd8308270f507fcff45ca36db5506a13e7ffa9093e54eb880",
+  "model": "gpt-41"
+}

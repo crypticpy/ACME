@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking challenges at venues",
+    "public safety concerns in downtown",
+    "prevalence of drugs in cultural district",
+    "presence of guns in cultural district"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Venue parking",
+    "safety in downtown",
+    "too many drugs & guns in the cultural district"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of parking at venues",
+    "safety concerns in downtown",
+    "drug use in the cultural district",
+    "guns in the cultural district"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:37.082183",
+  "cache_key": "7676253ceadee3eaf8836da3983a0b20877da53cc6f94b80a6732888fe00184b",
+  "model": "gpt-41"
+}

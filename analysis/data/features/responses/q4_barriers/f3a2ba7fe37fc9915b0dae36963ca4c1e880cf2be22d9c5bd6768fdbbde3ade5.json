@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "dominance of third-party and institutional intermediaries",
+    "prioritization of tech and tourism over local arts",
+    "perceived greed in cultural funding ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "3rd parties, creative agencies and institutional groups",
+    "cater more to tech and tourism",
+    "Greed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "influence of third parties and creative agencies",
+    "institutional groups prioritizing tech and tourism",
+    "greed among intermediaries"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:14.730357",
+  "cache_key": "f3a2ba7fe37fc9915b0dae36963ca4c1e880cf2be22d9c5bd6768fdbbde3ade5",
+  "model": "gpt-41"
+}

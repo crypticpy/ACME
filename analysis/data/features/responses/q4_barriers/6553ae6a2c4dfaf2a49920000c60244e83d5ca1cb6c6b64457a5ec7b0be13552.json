@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of diversity in cultural support",
+    "barriers to inclusion"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Lack of diversity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diversity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:23.539546",
+  "cache_key": "6553ae6a2c4dfaf2a49920000c60244e83d5ca1cb6c6b64457a5ec7b0be13552",
+  "model": "gpt-41"
+}

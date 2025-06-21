@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable spaces",
+    "challenges for small performing organizations",
+    "need for municipal intervention"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "very few spaces in Austin that are affordable",
+    "small performing organizations",
+    "please help create more"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "very few affordable spaces for small performing organizations"
+  ],
+  "solutions_proposed": [
+    "create more affordable spaces"
+  ],
+  "cached_at": "2025-06-21T01:22:31.836513",
+  "cache_key": "d37c0a18d516d4c7370041e0ce3390e82efcafbe931d61bcc8d7d277fbdb7af3",
+  "model": "gpt-41"
+}

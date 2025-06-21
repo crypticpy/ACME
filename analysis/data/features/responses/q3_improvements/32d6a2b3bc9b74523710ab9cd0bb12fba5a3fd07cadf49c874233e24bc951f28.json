@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Desire for renewed support of major cultural institutions",
+    "Recognition of the strength of smaller arts organizations",
+    "Concern about the loss or closure of arts groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Return to support of major institutions",
+    "such as the Austin Symphony, Austin Opera, Ballet Austin, Zach Scott Theater",
+    "Strong smaller institutions such as TEMP, La Follia, the now dead Ensemble VIII, Arts on Alexander"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Symphony",
+    "Austin Opera",
+    "Ballet Austin",
+    "Zach Scott Theater",
+    "TEMP",
+    "La Follia",
+    "Ensemble VIII",
+    "Arts on Alexander"
+  ],
+  "barriers_identified": [
+    "Loss of support for major institutions",
+    "Closure of smaller arts organizations (e.g., Ensemble VIII)"
+  ],
+  "solutions_proposed": [
+    "Return to support of major institutions",
+    "Support for strong smaller institutions"
+  ],
+  "cached_at": "2025-06-21T01:01:53.786486",
+  "cache_key": "32d6a2b3bc9b74523710ab9cd0bb12fba5a3fd07cadf49c874233e24bc951f28",
+  "model": "gpt-41"
+}

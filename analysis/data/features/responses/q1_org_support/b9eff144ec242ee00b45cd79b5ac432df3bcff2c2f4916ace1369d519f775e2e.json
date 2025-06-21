@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support for housing",
+    "assistance with living expenses"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "help in housing and expenses"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "housing costs",
+    "general living expenses"
+  ],
+  "solutions_proposed": [
+    "help in housing",
+    "help with expenses"
+  ],
+  "cached_at": "2025-06-20T10:24:06.085516",
+  "cache_key": "b9eff144ec242ee00b45cd79b5ac432df3bcff2c2f4916ace1369d519f775e2e",
+  "model": "gpt-41"
+}

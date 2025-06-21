@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding for nonprofits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Fund nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund nonprofits"
+  ],
+  "cached_at": "2025-06-21T01:16:31.137196",
+  "cache_key": "acae0819baa7c4826509e897ee57e7ff110abf86b678fdf0b536ac1248419b86",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "widespread dissatisfaction with funding programs",
+    "need for increased accountability",
+    "concerns about eligibility criteria",
+    "dependency on city funding",
+    "alignment of evaluation with artistic merit and capacity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Everyone I know is upset about these programs",
+    "even people who got funded",
+    "more accountability",
+    "a higher threshold for eligibility",
+    "reconnecting amounts to budget levels so no one becomes completely dependent on city funding",
+    "questions & scoring actually related to artistic history and production capacity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accountability",
+    "low eligibility threshold",
+    "funding dependency",
+    "evaluation criteria not aligned with artistic history and production capacity"
+  ],
+  "solutions_proposed": [
+    "more accountability",
+    "higher threshold for eligibility",
+    "reconnect funding amounts to budget levels",
+    "ensure questions and scoring are related to artistic history and production capacity"
+  ],
+  "cached_at": "2025-06-21T01:05:17.257499",
+  "cache_key": "c52f8788d72fb069d6542070e0ba7e3931ad282dc449b4dc058a3741a438b5d2",
+  "model": "gpt-41"
+}

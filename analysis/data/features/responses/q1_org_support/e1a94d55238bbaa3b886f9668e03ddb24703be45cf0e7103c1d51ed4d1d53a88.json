@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding",
+    "public art projects",
+    "community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Provide more funding",
+    "public art projects",
+    "community engagement"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide more funding for public art projects focused on community engagement"
+  ],
+  "cached_at": "2025-06-20T10:26:04.152167",
+  "cache_key": "e1a94d55238bbaa3b886f9668e03ddb24703be45cf0e7103c1d51ed4d1d53a88",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "discounted film/TV screening packages",
+    "celebration of award-nominated content",
+    "community award show events",
+    "promotion of Texas-made entertainment",
+    "support for local performers"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "film/TV screenings package discounts",
+    "nominated TV shows movies for the Oscars and Emmy awards",
+    "award show events",
+    "highlighting...Texas made entertainment content",
+    "local performers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer package discounts for screenings of award-nominated films and TV shows",
+    "host award show events",
+    "highlight Texas-made entertainment content and local performers"
+  ],
+  "cached_at": "2025-06-21T00:32:39.932583",
+  "cache_key": "369c137d844d5a6c9335d796e4ba417108f07352c154eb6f4922d6f4dbc1c64b",
+  "model": "gpt-41"
+}

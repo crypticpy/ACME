@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "local artist prioritization",
+    "exclusion of out-of-state artists",
+    "access to funding programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Give access to aipp and other programs to LOCAL artists",
+    "not out of state artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "aipp"
+  ],
+  "barriers_identified": [
+    "access for local artists is restricted",
+    "out of state artists are included in programs"
+  ],
+  "solutions_proposed": [
+    "Restrict program access to local artists"
+  ],
+  "cached_at": "2025-06-21T01:02:19.666295",
+  "cache_key": "d94806c85a3ea44cf1f6a90f589c1ebdd569fd67fe3e4609e5578df07da2912d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about inconsistent city funding",
+    "call for higher standards in funding eligibility",
+    "frustration with current funding practices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Raise standards across the board",
+    "only legit people and orgs get City funding",
+    "make it consistent again",
+    "we can't be sustained by city funding yo-yoing up and down year to year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent city funding",
+    "lack of clear standards for funding eligibility"
+  ],
+  "solutions_proposed": [
+    "Raise standards across the board for funding eligibility",
+    "Make city funding consistent year to year"
+  ],
+  "cached_at": "2025-06-21T02:18:58.006125",
+  "cache_key": "b77fb67c855bd53a83ef235933524fe111d0e3241f70e85a317b85b477e25504",
+  "model": "gpt-41"
+}

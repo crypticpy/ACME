@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Limited communication channels for outreach",
+    "Inconvenient scheduling of City-run events",
+    "Barriers for working adults and caregivers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "shared through the City email and socials, which not everyone follows",
+    "workshops or virtual calls, etc only take place during business hours",
+    "a lot of community members have 9-5 jobs and/or children to care for"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Information about support and services is only shared through City email and social media, which not everyone follows",
+    "Most City-run workshops or virtual calls are scheduled during business hours",
+    "Community members with 9-5 jobs and/or childcare responsibilities cannot attend"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:10.342768",
+  "cache_key": "aeb28efcc9a40f2c90bd34eb6e2e39b3e1938230058222e83a55b86e2a1c9b19",
+  "model": "gpt-41"
+}

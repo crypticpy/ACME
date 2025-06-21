@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "access to free educational opportunities",
+    "community leadership and engagement",
+    "transportation to cultural events",
+    "financial support for small creators",
+    "business and leadership skill development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Free classes",
+    "community leader led panels and discussions",
+    "rides to events",
+    "financing for events (small creators etc)",
+    "business leadership classes and assistance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free educational opportunities",
+    "limited access to transportation",
+    "insufficient financing for small creators",
+    "lack of business leadership support"
+  ],
+  "solutions_proposed": [
+    "Offer free classes",
+    "Organize community leader led panels and discussions",
+    "Provide rides to events",
+    "Provide financing for events (small creators etc)",
+    "Offer business leadership classes and assistance"
+  ],
+  "cached_at": "2025-06-21T01:55:25.840851",
+  "cache_key": "958e4a1b574b86fe686b2402c83c76425577ea0d005c587e414f7c23ddbc9894",
+  "model": "gpt-41"
+}

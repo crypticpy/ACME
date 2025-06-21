@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist workload and burnout",
+    "complexity of sustaining an arts career",
+    "grant application challenges",
+    "nontraditional nature of arts work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "juggle running a studio, releasing music, gigging 4 days a week",
+    "prepping for gigs, learning music, practicing my instrument",
+    "making the industry hang, attempt to apply for grants",
+    "music and the arts unfortunately isn\u2019t a normal business",
+    "it\u2019s a more than a full time job, it\u2019s a lifestyle choice"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overwhelming workload for artists",
+    "difficulty finding time to apply for grants",
+    "arts work not fitting standard business models"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:50:26.993125",
+  "cache_key": "a26ccbfc14c884be44dba20a56156ac173b0fc24d47f7a401f78fd89d46d4b5e",
+  "model": "gpt-41"
+}

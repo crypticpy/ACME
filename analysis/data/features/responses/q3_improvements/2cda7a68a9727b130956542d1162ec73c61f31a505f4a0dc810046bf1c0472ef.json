@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "perceived threat to cultural institutions from current administration",
+    "need for institutional protection",
+    "desire to strengthen cultural institutions",
+    "political context influencing cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "everything we've built is at risk",
+    "would like to see us somehow protect these institutions",
+    "make them even more powerful",
+    "this machine kills fascists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "risk posed by current executive administration"
+  ],
+  "solutions_proposed": [
+    "protect these institutions",
+    "make them even more powerful"
+  ],
+  "cached_at": "2025-06-21T01:12:33.204321",
+  "cache_key": "2cda7a68a9727b130956542d1162ec73c61f31a505f4a0dc810046bf1c0472ef",
+  "model": "gpt-41"
+}

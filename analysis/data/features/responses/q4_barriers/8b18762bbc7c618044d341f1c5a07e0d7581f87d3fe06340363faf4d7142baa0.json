@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural participation",
+    "cost barriers at venues",
+    "economic exclusion from arts and culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "rising costs of tickets",
+    "parking",
+    "drinks/food at venues",
+    "barrier for a lot of community members"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of tickets",
+    "rising costs of parking",
+    "rising costs of drinks/food at venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:21.616232",
+  "cache_key": "8b18762bbc7c618044d341f1c5a07e0d7581f87d3fe06340363faf4d7142baa0",
+  "model": "gpt-41"
+}

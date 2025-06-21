@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process support",
+    "accessibility of funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Help putting togehter the applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty completing applications"
+  ],
+  "solutions_proposed": [
+    "provide help with putting together applications"
+  ],
+  "cached_at": "2025-06-21T01:05:57.596338",
+  "cache_key": "0933739d30dee263d0f5f206dce0d0a6c0ec4dab41e3cb9c137468aed41fed91",
+  "model": "gpt-41"
+}

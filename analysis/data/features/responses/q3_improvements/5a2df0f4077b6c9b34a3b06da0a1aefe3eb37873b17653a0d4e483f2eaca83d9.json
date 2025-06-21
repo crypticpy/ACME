@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process fairness",
+    "transparency in funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "fair and honest application process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived lack of fairness in application process"
+  ],
+  "solutions_proposed": [
+    "implement a fair and honest application process"
+  ],
+  "cached_at": "2025-06-21T01:07:02.403387",
+  "cache_key": "5a2df0f4077b6c9b34a3b06da0a1aefe3eb37873b17653a0d4e483f2eaca83d9",
+  "model": "gpt-41"
+}

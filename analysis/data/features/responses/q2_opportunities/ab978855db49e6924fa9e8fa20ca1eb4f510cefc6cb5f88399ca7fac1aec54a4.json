@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for shared creative experiences",
+    "interest in hands-on participation",
+    "community engagement through arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "shared creative experiences",
+    "hands on"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "opportunities to have shared creative experiences that are hands on"
+  ],
+  "cached_at": "2025-06-21T00:29:27.850183",
+  "cache_key": "ab978855db49e6924fa9e8fa20ca1eb4f510cefc6cb5f88399ca7fac1aec54a4",
+  "model": "gpt-41"
+}

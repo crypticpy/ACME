@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability challenges due to high rent",
+    "decline of downtown as a cultural hub",
+    "loss of Red River cultural/music district"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "High rent",
+    "deteriorating downtown",
+    "red river is dead"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "High rent",
+    "deteriorating downtown",
+    "loss of Red River cultural/music district"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:57.397452",
+  "cache_key": "623787e466fb0936534a415e0650a4166921870204547a9c370cddd1087e85fc",
+  "model": "gpt-41"
+}

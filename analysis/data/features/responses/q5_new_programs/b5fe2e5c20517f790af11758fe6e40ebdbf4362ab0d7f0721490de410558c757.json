@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding",
+    "public art",
+    "murals as underrepresented"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding for public murals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for public murals"
+  ],
+  "solutions_proposed": [
+    "Provide funding for public murals"
+  ],
+  "cached_at": "2025-06-21T02:01:59.422044",
+  "cache_key": "b5fe2e5c20517f790af11758fe6e40ebdbf4362ab0d7f0721490de410558c757",
+  "model": "gpt-41"
+}

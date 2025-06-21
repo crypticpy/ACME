@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for people of color",
+    "diversity in cultural events",
+    "funding and backing cultural initiatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Fund/Back diverse cultural events",
+    "welcome and support people of color"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for people of color"
+  ],
+  "solutions_proposed": [
+    "Fund/Back diverse cultural events to welcome and support people of color"
+  ],
+  "cached_at": "2025-06-20T10:41:25.524181",
+  "cache_key": "18d2945aeda570f6ad5843d1105752c9efe53d627db3ad85750abe8829c203c3",
+  "model": "gpt-41"
+}

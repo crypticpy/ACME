@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "communication of funding opportunities",
+    "awareness and outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More announcements about opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient announcements about opportunities"
+  ],
+  "solutions_proposed": [
+    "More announcements about opportunities"
+  ],
+  "cached_at": "2025-06-21T01:15:31.211412",
+  "cache_key": "ddcfeb1b242990eb00cdf6a298d5a54bd7261ab739477a0fc05db72db14320bc",
+  "model": "gpt-41"
+}

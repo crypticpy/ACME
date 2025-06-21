@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for accessible grant writing assistance",
+    "improving support for applicants",
+    "removing barriers to funding access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more accessible grant writing assistance programs",
+    "a great number"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible grant writing assistance"
+  ],
+  "solutions_proposed": [
+    "more accessible grant writing assistance programs"
+  ],
+  "cached_at": "2025-06-21T01:01:13.966797",
+  "cache_key": "00c9e37052f6cbc2eee13eaf0fdff09253a3245451d1c97b6f5c07e5b099fb52",
+  "model": "gpt-41"
+}

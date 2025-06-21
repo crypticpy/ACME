@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for free and accessible cultural events",
+    "equity between grassroots and upscale events",
+    "central location of events",
+    "inclusion of live music, art, theater, dance, poetry",
+    "sponsorship and free amenities (alcohol)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "free and open to the public",
+    "live music, art exhibits, theater, dance, poetry",
+    "central areas of town",
+    "free sponsored alcohol (Tito's/Deep Eddy)",
+    "grassroots events are just as cool as the upscale rich people events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free and open access to cultural events",
+    "perceived exclusivity of upscale events"
+  ],
+  "solutions_proposed": [
+    "offer free and open to the public cultural events in central areas",
+    "provide free sponsored alcohol to enhance grassroots events"
+  ],
+  "cached_at": "2025-06-21T00:27:42.475865",
+  "cache_key": "927c254404317faac05463e68cbc392cf31d4a7c94fb6dade8f6531cd6336c94",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inaccessibility of funding for LLCs",
+    "affordability of venues and rehearsal spaces",
+    "financial barriers for educational companies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "impossible to receive funding as an LLC educational company",
+    "finding venues and rehearsal space that we can afford",
+    "extremely limited budget",
+    "close to impossible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ineligibility for funding as an LLC",
+    "unaffordable venues and rehearsal spaces",
+    "extremely limited budget"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:34.920854",
+  "cache_key": "ae2ba1f05ff6bdaed9161ac8f1bca34a6675eb5ff40df7ff3848b68546aed8c5",
+  "model": "gpt-41"
+}

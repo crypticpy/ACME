@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for diversity",
+    "representation in arts",
+    "inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Diverse representation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase diverse representation"
+  ],
+  "cached_at": "2025-06-21T00:44:22.742215",
+  "cache_key": "ff2e44960c59436e78eeab89e848b4dc55226f0c49c2928deaf624aa7193637a",
+  "model": "gpt-41"
+}

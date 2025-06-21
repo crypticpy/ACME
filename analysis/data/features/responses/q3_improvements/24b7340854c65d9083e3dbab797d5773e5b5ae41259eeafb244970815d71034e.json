@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved outreach",
+    "communication gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "better outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "better outreach"
+  ],
+  "cached_at": "2025-06-21T01:10:22.968156",
+  "cache_key": "24b7340854c65d9083e3dbab797d5773e5b5ae41259eeafb244970815d71034e",
+  "model": "gpt-41"
+}

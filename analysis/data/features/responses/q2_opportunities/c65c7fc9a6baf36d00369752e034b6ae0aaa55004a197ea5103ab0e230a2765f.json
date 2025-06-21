@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in visual arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Dance",
+    "visual arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more dance opportunities",
+    "more visual arts opportunities"
+  ],
+  "cached_at": "2025-06-21T00:45:40.040552",
+  "cache_key": "c65c7fc9a6baf36d00369752e034b6ae0aaa55004a197ea5103ab0e230a2765f",
+  "model": "gpt-41"
+}

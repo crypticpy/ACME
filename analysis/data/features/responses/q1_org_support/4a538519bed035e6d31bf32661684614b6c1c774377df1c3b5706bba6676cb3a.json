@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "valuing expertise of artists and cultural workers",
+    "community-rooted cultural production",
+    "prioritizing diversity, equity, inclusion, and justice",
+    "collaborative knowledge-sharing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "draw from the vast knowledge of artists, cultural workers, and cultural keepers",
+    "production of cultural arts must also be rooted in community building",
+    "diversity, equity, inclusion, and justice are at the center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "draw from the knowledge of artists, cultural workers, and cultural keepers",
+    "root cultural arts production in community building with diversity, equity, inclusion, and justice at the center"
+  ],
+  "cached_at": "2025-06-20T10:43:15.304876",
+  "cache_key": "4a538519bed035e6d31bf32661684614b6c1c774377df1c3b5706bba6676cb3a",
+  "model": "gpt-41"
+}

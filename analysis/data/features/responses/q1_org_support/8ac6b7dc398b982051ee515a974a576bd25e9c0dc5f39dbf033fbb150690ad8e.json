@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "amplification of existing organizations",
+    "promotion and visibility support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Any Funding available",
+    "being a megaphone for existing orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide any available funding",
+    "Act as a megaphone for existing organizations"
+  ],
+  "cached_at": "2025-06-20T10:33:29.408607",
+  "cache_key": "8ac6b7dc398b982051ee515a974a576bd25e9c0dc5f39dbf033fbb150690ad8e",
+  "model": "gpt-41"
+}

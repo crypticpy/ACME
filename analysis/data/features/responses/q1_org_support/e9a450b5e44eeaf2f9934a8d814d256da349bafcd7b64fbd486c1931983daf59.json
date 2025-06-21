@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "responsive listening to stakeholders",
+    "implementation of stakeholder feedback",
+    "funding increases for affected groups",
+    "support for those impacted by DEI rollbacks"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "continually listening to the organizations and cultural leaders",
+    "implement their feedback",
+    "provide more funding and additional resources",
+    "organizations and groups most affected by DEI rollbacks and cuts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "DEI rollbacks and cuts"
+  ],
+  "solutions_proposed": [
+    "continually listen to organizations and cultural leaders",
+    "implement their feedback",
+    "provide more funding and additional resources to the organizations and groups most affected by DEI rollbacks and cuts"
+  ],
+  "cached_at": "2025-06-20T10:30:16.552492",
+  "cache_key": "e9a450b5e44eeaf2f9934a8d814d256da349bafcd7b64fbd486c1931983daf59",
+  "model": "gpt-41"
+}

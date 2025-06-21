@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accessibility accommodations",
+    "ASL (American Sign Language) inclusion",
+    "event size and accessibility equity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more focus on accomodations",
+    "ASL shouldn't just be at the huge events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility accommodations",
+    "ASL interpretation limited to large events"
+  ],
+  "solutions_proposed": [
+    "increase focus on accommodations",
+    "provide ASL interpretation at more than just large events"
+  ],
+  "cached_at": "2025-06-21T00:44:07.403787",
+  "cache_key": "468ec45298885cc872f41db932b2cbe87c31f22217db40b897ec8a7183df72d7",
+  "model": "gpt-41"
+}

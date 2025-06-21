@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to access",
+    "exclusivity of cultural events",
+    "need for sliding scale pricing"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Financial accessibility",
+    "sliding scale options would be amazing",
+    "Just allowing ppl that make a decent living access to said events is a shame"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial accessibility"
+  ],
+  "solutions_proposed": [
+    "sliding scale options"
+  ],
+  "cached_at": "2025-06-21T01:31:30.229336",
+  "cache_key": "59832a4d3fd7c661fce753339d330dbe82e9933e09903eec6bbcbabab570ddc3",
+  "model": "gpt-41"
+}

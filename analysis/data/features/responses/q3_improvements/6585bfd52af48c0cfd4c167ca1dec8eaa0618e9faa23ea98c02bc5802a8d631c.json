@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding arts access for schoolchildren",
+    "arts education integration",
+    "outreach to schools by arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "increased opportunities",
+    "all schoolchildren",
+    "go to the arts",
+    "have them visit schools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for schoolchildren to access the arts"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for schoolchildren to attend arts events",
+    "bring arts organizations or experiences into schools"
+  ],
+  "cached_at": "2025-06-21T01:15:27.787338",
+  "cache_key": "6585bfd52af48c0cfd4c167ca1dec8eaa0618e9faa23ea98c02bc5802a8d631c",
+  "model": "gpt-41"
+}

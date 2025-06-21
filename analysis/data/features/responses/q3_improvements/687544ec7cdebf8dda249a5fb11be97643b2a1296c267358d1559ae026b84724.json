@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artistic merit as a funding criterion",
+    "implementation of best practices",
+    "prioritization of impact",
+    "return on investment (ROI) in funding strategy",
+    "resource limitations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Return focus to artistic merit",
+    "initiate best practices",
+    "prioritize impact",
+    "Limited funds can be multiplied",
+    "ROI is central to strategy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited funds"
+  ],
+  "solutions_proposed": [
+    "Return focus to artistic merit",
+    "initiate best practices",
+    "prioritize impact",
+    "make ROI central to strategy"
+  ],
+  "cached_at": "2025-06-21T01:10:40.252713",
+  "cache_key": "687544ec7cdebf8dda249a5fb11be97643b2a1296c267358d1559ae026b84724",
+  "model": "gpt-41"
+}

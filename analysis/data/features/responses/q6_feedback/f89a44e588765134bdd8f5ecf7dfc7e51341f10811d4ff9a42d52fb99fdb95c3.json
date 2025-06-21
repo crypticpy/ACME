@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived lack of sincere effort from Austin regarding Afrocentric activities",
+    "ongoing struggle for equity in cultural funding and activities",
+    "personal investment and leadership in creative, sustainable Afrocentric work",
+    "hope as a sustaining force despite systemic challenges",
+    "critique of superficial or insufficient equity measures"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I have been through quite of bit of change as it relates to Afrocentric local activities",
+    "I have been on the forefront of creative and sustainable activities",
+    "I just cannot proclaim yet that Austin has tried hard and sincerely enough",
+    "viewed through the lenses of equity that were never cleaned",
+    "Hope has been the manifestation of the work we have always done"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sincere effort from the city regarding Afrocentric activities",
+    "equity measures that are superficial or ineffective"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:46.516522",
+  "cache_key": "f89a44e588765134bdd8f5ecf7dfc7e51341f10811d4ff9a42d52fb99fdb95c3",
+  "model": "gpt-41"
+}

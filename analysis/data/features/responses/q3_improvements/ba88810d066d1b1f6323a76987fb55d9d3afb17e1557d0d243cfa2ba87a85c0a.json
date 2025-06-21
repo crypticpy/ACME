@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with current programs",
+    "call for increased professionalism among creatives"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "the programs are good",
+    "creatives need to step it up a notch",
+    "operate on a more professional level"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "creatives operate on a more professional level"
+  ],
+  "cached_at": "2025-06-21T00:58:18.849053",
+  "cache_key": "ba88810d066d1b1f6323a76987fb55d9d3afb17e1557d0d243cfa2ba87a85c0a",
+  "model": "gpt-41"
+}

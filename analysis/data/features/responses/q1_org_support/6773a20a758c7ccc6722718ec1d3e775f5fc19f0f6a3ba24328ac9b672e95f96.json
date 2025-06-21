@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "racial equity in funding decisions",
+    "data-driven decision making",
+    "use of tourism-related taxes and fines for arts funding",
+    "economic impact of arts and culture",
+    "redistribution of resources from large to small/lesser known artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "this MUST be done through a lens of equity--specifically racial equity",
+    "Quality of life outcomes in Austin are best predicted by race",
+    "People flock to Austin because of the culture and art",
+    "work more with HOT taxes and fines from Airbnb/VRBO owners",
+    "those events should also subsidize some of the smaller/lesser known opportunities and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "racial inequity in funding and quality of life outcomes",
+    "disproportionate support for large events over smaller artists"
+  ],
+  "solutions_proposed": [
+    "use data to inform decisions through a lens of racial equity",
+    "expand funding for arts and culture",
+    "allocate HOT taxes and fines from Airbnb/VRBO owners to support the arts",
+    "require large events to subsidize smaller/lesser known artists"
+  ],
+  "cached_at": "2025-06-20T10:40:27.718301",
+  "cache_key": "6773a20a758c7ccc6722718ec1d3e775f5fc19f0f6a3ba24328ac9b672e95f96",
+  "model": "gpt-41"
+}

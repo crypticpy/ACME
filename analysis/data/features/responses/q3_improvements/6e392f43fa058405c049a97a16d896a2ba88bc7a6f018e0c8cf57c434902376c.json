@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived bias in grant allocation",
+    "inequity among minority groups",
+    "concerns about fairness in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "bias toward awarding grants/projects",
+    "certain minority groups",
+    "not other minority groups"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived bias in funding distribution"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:13:21.124621",
+  "cache_key": "6e392f43fa058405c049a97a16d896a2ba88bc7a6f018e0c8cf57c434902376c",
+  "model": "gpt-41"
+}

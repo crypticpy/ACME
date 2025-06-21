@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability limits for BIPOC communities",
+    "high venue rental costs in accessible locations",
+    "financial strain on community-oriented event organizers",
+    "challenges in paying fair wages to artists",
+    "trade-offs between accessibility and sustainability of events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "the highest ticket cost that people are willing to pay is about $30 for an event",
+    "high cost of venue rental in Austin (especially in easily accessible locations that are ADA-compliant with free parking)",
+    "desire to pay fair wages to musicians, artists, and other collaborators",
+    "organizers are barely breaking even",
+    "organizers are losing money in order to provide safe spaces that are financially accessible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited willingness/ability to pay for tickets in BIPOC communities",
+    "high venue rental costs in accessible, ADA-compliant locations with free parking",
+    "difficulty paying fair wages to artists and collaborators",
+    "organizers losing money to keep events accessible"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:37.786992",
+  "cache_key": "3186afa7a8877bab8cc99be60073591b5daa29b5d3989cfe239f451975c20717",
+  "model": "gpt-41"
+}

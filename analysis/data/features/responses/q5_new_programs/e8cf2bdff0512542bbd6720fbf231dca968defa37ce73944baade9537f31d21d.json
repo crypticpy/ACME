@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "creation of a Fashion District",
+    "affordable creative workspaces",
+    "support for garment industry infrastructure",
+    "access to local resources and technology"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "creating a Fashion District",
+    "affordable studios",
+    "workplaces (ie - garment factory production, retail space, creative work space)",
+    "local resources for buying things like fabrics",
+    "garment industry technology"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studios",
+    "lack of workplaces for garment production",
+    "insufficient access to local resources for materials",
+    "limited garment industry technology"
+  ],
+  "solutions_proposed": [
+    "create a Fashion District that includes affordable studios, workplaces, retail space, creative work space, local resources for buying materials, and garment industry technology"
+  ],
+  "cached_at": "2025-06-21T02:00:37.473567",
+  "cache_key": "e8cf2bdff0512542bbd6720fbf231dca968defa37ce73944baade9537f31d21d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cuts to arts funding",
+    "threats to arts programming",
+    "financial barriers to cultural support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding is being cut",
+    "important arts programming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding is being cut for important arts programming"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:01.250093",
+  "cache_key": "73295373d0f0429d07dde5904dccc78e0bba337c2c50a34b6bb2fa8881ece093",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about funding discrimination",
+    "critique of DEI-based funding criteria",
+    "advocacy for equitable funding regardless of DEI alignment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "do not withhold funding",
+    "discriminate just because an arts organization does not fit DEI elevation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding withheld due to not fitting DEI elevation"
+  ],
+  "solutions_proposed": [
+    "do not withhold funding based on DEI alignment"
+  ],
+  "cached_at": "2025-06-20T10:35:55.621697",
+  "cache_key": "f20bf1c5c3663db463ca3e76feffd22af4b6ef56ef19d8894bb0749ce3c6f039",
+  "model": "gpt-41"
+}

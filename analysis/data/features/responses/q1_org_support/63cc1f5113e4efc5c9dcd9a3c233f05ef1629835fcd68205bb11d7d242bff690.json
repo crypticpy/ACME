@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "direct financial support for creatives",
+    "advocacy for equity in city policy",
+    "role of ACME in city-level advocacy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Give creatives money",
+    "Advocate at city hall",
+    "more equitable city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide direct funding to creatives",
+    "Advocate for equity at city hall"
+  ],
+  "cached_at": "2025-06-20T10:41:03.737457",
+  "cache_key": "63cc1f5113e4efc5c9dcd9a3c233f05ef1629835fcd68205bb11d7d242bff690",
+  "model": "gpt-41"
+}

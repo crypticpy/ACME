@@ -1,0 +1,88 @@
+{
+  "summary": {
+    "totalResponses": 1187,
+    "responseRate": 100.0,
+    "confidenceLevel": 95,
+    "lastUpdated": "2025-06-19T13:02:48.240562"
+  },
+  "shareOfVoice": {
+    "categories": {
+      "creative": {
+        "count": 803,
+        "percentage": 67.64953664700927,
+        "confidence_interval": {
+          "lower": 64.93497857653536,
+          "upper": 70.25022570875556,
+          "level": 0.95
+        }
+      },
+      "community": {
+        "count": 189,
+        "percentage": 15.922493681550126,
+        "confidence_interval": {
+          "lower": 13.951416002567797,
+          "upper": 18.113428229412225,
+          "level": 0.95
+        }
+      },
+      "organizational": {
+        "count": 144,
+        "percentage": 12.131423757371525,
+        "confidence_interval": {
+          "lower": 10.395203353910214,
+          "upper": 14.111959766670799,
+          "level": 0.95
+        }
+      },
+      "other": {
+        "count": 48,
+        "percentage": 4.043807919123841,
+        "confidence_interval": {
+          "lower": 3.063474923730959,
+          "upper": 5.320635159198838,
+          "level": 0.95
+        }
+      },
+      "uncategorized": {
+        "count": 3,
+        "percentage": 0.2527379949452401,
+        "confidence_interval": {
+          "lower": 0.08599014035589378,
+          "upper": 0.7404388311748966,
+          "level": 0.95
+        }
+      }
+    },
+    "summary": {
+      "total_responses": 1187,
+      "uncategorized": "0"
+    }
+  },
+  "themes": [],
+  "programs": [],
+  "geographic": {
+    "total_responses": 1187,
+    "valid_zip_codes": 1151,
+    "unique_zip_codes": 83,
+    "top_10_zip_codes": {
+      "78745": 96,
+      "78704": 89,
+      "78702": 73,
+      "78723": 70,
+      "78751": 48,
+      "78748": 43,
+      "78741": 42,
+      "78721": 34,
+      "78759": 33,
+      "78757": 30
+    },
+    "geographic_concentration": {
+      "top_5_percentage": 32.667245873153774,
+      "gini_coefficient": 0.6280552269896267
+    },
+    "coverage": {
+      "austin_proper": 1019,
+      "surrounding_areas": 132
+    }
+  }
+}

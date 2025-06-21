@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased technical assistance",
+    "re-evaluation of award criteria",
+    "alignment with accessibility and equity values"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "provide a higher level of technical assistance",
+    "re-evaluate the criteria for awards",
+    "ensure the program(s) intent truly align with the values of accessibility and equity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "award criteria may not align with accessibility and equity"
+  ],
+  "solutions_proposed": [
+    "provide a higher level of technical assistance",
+    "re-evaluate the criteria for awards to ensure alignment with accessibility and equity"
+  ],
+  "cached_at": "2025-06-20T10:37:27.791237",
+  "cache_key": "bf13355b1c8bd55992f92259d66e20bfa273dcbe8254231dc993c1aa6233a9fe",
+  "model": "gpt-41"
+}

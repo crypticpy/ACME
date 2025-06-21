@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial insecurity impacting artists",
+    "difficulty accessing funding for creative work",
+    "cost of living as a barrier to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "financial barriers",
+    "support ourselves in living expenses",
+    "trying to get funding for creative pursuits"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial barriers to living expenses",
+    "lack of funding for creative pursuits"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:26:06.262356",
+  "cache_key": "a40ef80ca88324ec58884db5276c84f76b52556b2d3320ad05a7adb99cb3611f",
+  "model": "gpt-41"
+}

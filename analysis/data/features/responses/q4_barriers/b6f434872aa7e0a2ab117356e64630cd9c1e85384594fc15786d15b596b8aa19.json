@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient support for artists",
+    "need for increased funding",
+    "housing insecurity",
+    "mental health challenges",
+    "physical health needs",
+    "lack of community support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Artists need more support in general",
+    "Funding, housing, mental health, physical health, community support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "housing insecurity",
+    "insufficient mental health support",
+    "insufficient physical health support",
+    "lack of community support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:01.633769",
+  "cache_key": "b6f434872aa7e0a2ab117356e64630cd9c1e85384594fc15786d15b596b8aa19",
+  "model": "gpt-41"
+}

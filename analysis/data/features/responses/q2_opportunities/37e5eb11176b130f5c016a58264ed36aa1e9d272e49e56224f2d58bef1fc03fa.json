@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration between arts organizations",
+    "meaningful engagement",
+    "community-building through arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "collaborative arts between organizations",
+    "on a meaningful level",
+    "things which bring people together"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborative arts between organizations on a meaningful level",
+    "arts opportunities that bring people together"
+  ],
+  "cached_at": "2025-06-21T00:42:09.314902",
+  "cache_key": "37e5eb11176b130f5c016a58264ed36aa1e9d272e49e56224f2d58bef1fc03fa",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "equity between new and established nonprofits",
+    "need for support for emerging organizations",
+    "resource distribution in Austin's cultural sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "New and upcoming nonprofits need support",
+    "just as much as long-standing groups in ATX"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for new and upcoming nonprofits"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:01.395862",
+  "cache_key": "b22abc6a7b7de7e328de93c57bff21a0de79b896fb344d80cd5a0bfe87148bfa",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for clearer information",
+    "application process support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more and better information",
+    "more support for those who want to apply"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information",
+    "insufficient support for applicants"
+  ],
+  "solutions_proposed": [
+    "provide more and better information",
+    "offer more support for those who want to apply"
+  ],
+  "cached_at": "2025-06-21T01:15:24.909723",
+  "cache_key": "1a41ea3fe9c4e1b7fe21eed7e9126fc0a2a9468c34e39b6d09811295fb18d492",
+  "model": "gpt-41"
+}

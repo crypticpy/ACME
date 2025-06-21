@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for increased ethnic representation",
+    "Interest in diverse cultural programming",
+    "Emphasis on historic holiday celebrations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Ethnic and Diverse Cultural and Historic Holiday celebrations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More ethnic and diverse cultural and historic holiday celebrations"
+  ],
+  "cached_at": "2025-06-21T00:48:57.458959",
+  "cache_key": "59bcfcfc1a341bfc595fb496b50c501419b9b99499b65f34bf8e173fadc3ba9f",
+  "model": "gpt-41"
+}

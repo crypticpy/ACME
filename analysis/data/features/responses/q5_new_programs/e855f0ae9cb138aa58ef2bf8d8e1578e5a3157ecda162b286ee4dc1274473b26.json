@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "benchmarking against peer cities",
+    "aspiration for higher artistic standards",
+    "perceived excellence of Houston and Dallas art venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Austin should benchmark itself against Houston and Dallas",
+    "established venues for excellent art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "benchmark itself against Houston and Dallas"
+  ],
+  "cached_at": "2025-06-21T02:05:16.232199",
+  "cache_key": "e855f0ae9cb138aa58ef2bf8d8e1578e5a3157ecda162b286ee4dc1274473b26",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessibility for blind and deaf communities",
+    "siloing of disability communities in the arts",
+    "high cost of ASL interpretation for small organizations",
+    "need for organizational responsibility in access facilitation",
+    "insufficient accessible information for families"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "perhaps ACME can have a program to help better integrate these communities into the arts",
+    "They're still pretty siloed and I think that's unfortunate from artistic and access points of view",
+    "not many organizations think about creating accessible programs or information for them or their families",
+    "hiring ASL interpretation is very expensive for small arts organizations",
+    "Can ACME take on some of the logistical responsibility for helping forge/create this access?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "lack of integration of blind and deaf communities into the arts",
+    "siloing of disability communities",
+    "few organizations create accessible programs or information",
+    "high cost of ASL interpretation for small arts organizations"
+  ],
+  "solutions_proposed": [
+    "ACME can have a program to help better integrate these communities into the arts",
+    "ACME can facilitate connections and supports",
+    "ACME can take on some of the logistical responsibility for helping create access"
+  ],
+  "cached_at": "2025-06-21T01:37:57.389870",
+  "cache_key": "e76c27b769d3d6b6fada6a050c8eacfc20ae1d787940031bfb074c6c1fb58a9d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for inclusive representation",
+    "Overrepresentation of established, white-serving organizations",
+    "Active outreach to overlooked communities",
+    "Leadership renewal and diversification"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "make sure that all voices are being heard",
+    "If the loudest, most long standing orgs are those that primarily serve white Austin",
+    "do the work to get to those who have been overlooked",
+    "Shuffle the deck - let new leaders step forward"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Dominance of established organizations serving primarily white Austin",
+    "Overlooked voices and communities"
+  ],
+  "solutions_proposed": [
+    "Do the work to get to those who have been overlooked",
+    "Shuffle the deck - let new leaders step forward"
+  ],
+  "cached_at": "2025-06-20T10:29:20.613621",
+  "cache_key": "889e15117dcdad54774ee00188b91a499a66702361f05b5dbfad75d691fb7786",
+  "model": "gpt-41"
+}

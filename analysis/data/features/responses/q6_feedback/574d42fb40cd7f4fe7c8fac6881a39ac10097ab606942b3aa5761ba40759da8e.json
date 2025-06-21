@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sustainable equity in cultural arts",
+    "support for ACME's mission",
+    "reference to previous feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Wishing all of you the best of success",
+    "creating sustainable equity across the cultural arts in Austin",
+    "See my previous answers"
+  ],
+  "intent": "support_expression",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:48.530480",
+  "cache_key": "574d42fb40cd7f4fe7c8fac6881a39ac10097ab606942b3aa5761ba40759da8e",
+  "model": "gpt-41"
+}

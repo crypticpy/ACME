@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bilingual art",
+    "multilingual cultural representation",
+    "inclusive arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "bilingual art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more bilingual art"
+  ],
+  "cached_at": "2025-06-21T00:37:31.334465",
+  "cache_key": "ae39a60419cf8e83f7c747d8da2e2efe42035eff8c86831a56775cff3111d76c",
+  "model": "gpt-41"
+}

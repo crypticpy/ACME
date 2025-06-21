@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "disruption of traditional leadership models",
+    "centering of white, male leadership",
+    "need for organizational cooperation",
+    "need for cross-organizational engagement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "disruption of previous models",
+    "center white, male leadership and programming",
+    "cooperation and engagement across organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "previous models that center white, male leadership and programming"
+  ],
+  "solutions_proposed": [
+    "disruption of previous models that center white, male leadership and programming",
+    "cooperation and engagement across organizations"
+  ],
+  "cached_at": "2025-06-20T10:37:53.016863",
+  "cache_key": "739edd92ea83016f4d34d52cdf45e16eab93d9c8bb3f56d4b50666799f31d6ae",
+  "model": "gpt-41"
+}

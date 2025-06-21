@@ -1,0 +1,43 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity and transparency of scoring rubrics",
+    "simplification of application and reporting processes",
+    "criteria alignment with artistic impact",
+    "promotion and accessibility of guidelines",
+    "expansion of eligible funding uses (interior historic improvements)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "A clearer picture of the scoring rubric for the Heritage Preservation grants would be helpful",
+    "Simplified reporting and application process for both awards",
+    "Elevate funding have some criteria that is tied to the artistic impact of the project on the region",
+    "Heritage Preservation guidelines could be simplified and more widely promoted",
+    "funding available for interior historic capital improvements through the Heritage Preservation grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Heritage Preservation grants",
+    "Elevate funding"
+  ],
+  "barriers_identified": [
+    "lack of clarity in scoring rubric",
+    "complex reporting and application process",
+    "limited promotion of guidelines",
+    "ineligibility of interior historic improvements for funding"
+  ],
+  "solutions_proposed": [
+    "provide a clearer picture of the scoring rubric for Heritage Preservation grants",
+    "simplify reporting and application process for both awards",
+    "tie Elevate funding criteria to artistic impact on the region",
+    "simplify and more widely promote Heritage Preservation guidelines",
+    "make funding available for interior historic capital improvements"
+  ],
+  "cached_at": "2025-06-21T01:10:47.831751",
+  "cache_key": "391c21b89c043ed4c70dcfc09029961710fd955d9e0801feb2a40d6c90f45407",
+  "model": "gpt-41"
+}

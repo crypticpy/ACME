@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to accessibility",
+    "cost of interpreters",
+    "desire to improve event accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "make our events more accessible",
+    "cost of interpreters is a big one"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of interpreters"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:38.691037",
+  "cache_key": "113260d223129ef0cb66051ab4bdf3d9191823fbcd0650528af32ae2f8d83332",
+  "model": "gpt-41"
+}

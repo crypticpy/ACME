@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "integration of arts into schools",
+    "local artist development",
+    "race-neutral or ethnicity-neutral approaches"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "work in the schools",
+    "develop artists locally",
+    "without regard to race or ethnicity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "consideration of race or ethnicity in artist development"
+  ],
+  "solutions_proposed": [
+    "work in the schools",
+    "develop artists locally without regard to race or ethnicity"
+  ],
+  "cached_at": "2025-06-21T01:01:58.266854",
+  "cache_key": "40eb98920b131ed0e9a3b6f1c184d248e76b001238fa5d851c80fce81d4f96ef",
+  "model": "gpt-41"
+}

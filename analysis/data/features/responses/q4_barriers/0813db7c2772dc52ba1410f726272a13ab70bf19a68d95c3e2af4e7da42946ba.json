@@ -1,0 +1,49 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable venues",
+    "insufficient housing for artists",
+    "inadequate financial support for artists",
+    "need for business leadership in arts organizations",
+    "competition with high-profile entertainment events",
+    "difficulty attracting local audiences"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "We need venues",
+    "we need housing",
+    "we need support to pay our artists",
+    "tickets needing to cost a gajillion dollars",
+    "business leaders to come sit on our boards",
+    "help us figure out how the hell to keep the doors open",
+    "attract audiences who think the only entertainment in town is Joe Rogan's Comedy Ship, F1, and ACL Festival"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Joe Rogan's Comedy Ship",
+    "F1",
+    "ACL Festival"
+  ],
+  "barriers_identified": [
+    "lack of venues",
+    "lack of affordable housing for artists",
+    "insufficient financial support for artists",
+    "high ticket prices",
+    "lack of business expertise on arts boards",
+    "difficulty competing with major entertainment events",
+    "challenges attracting local audiences"
+  ],
+  "solutions_proposed": [
+    "increase number of venues",
+    "provide housing support for artists",
+    "increase financial support for artists",
+    "involve business leaders on arts boards"
+  ],
+  "cached_at": "2025-06-21T01:37:50.551525",
+  "cache_key": "0813db7c2772dc52ba1410f726272a13ab70bf19a68d95c3e2af4e7da42946ba",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist retention in Austin",
+    "affordability for artists",
+    "guaranteed income for artists",
+    "comparison to other cities/programs",
+    "city wage policy impact"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "guaranteed minimum income program like that with Springboard for the Arts in Minnesota",
+    "If we want to keep artists in Austin, we must make it affordable",
+    "artists struggle to make that and are leaving",
+    "city has done a great job bringing up the minimum wage"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Springboard for the Arts"
+  ],
+  "barriers_identified": [
+    "affordability for artists",
+    "artists struggle to make minimum wage",
+    "artists are leaving Austin"
+  ],
+  "solutions_proposed": [
+    "guaranteed minimum income program for artists"
+  ],
+  "cached_at": "2025-06-21T00:41:25.483624",
+  "cache_key": "daeddb7f2187b0b39430d2526d62da73b4656fc8b642e687271c8d3e11443a2c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "competition among nonprofits and arts groups",
+    "need for collaboration incentives",
+    "veteran perspective on collective action",
+    "funding structures"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "climate of competition amongst new nonprofits and arts groups",
+    "providing more money for collaborations",
+    "many of us veterans already know",
+    "get more done, get more financing together rather than alone"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "climate of competition amongst new nonprofits and arts groups",
+    "lack of funding for collaborations"
+  ],
+  "solutions_proposed": [
+    "providing more money for collaborations"
+  ],
+  "cached_at": "2025-06-21T02:09:29.304311",
+  "cache_key": "72aa151a87c787cfc7bf2d70075ec471c4c3182e8bd0deaf8b136fb0d34a4057",
+  "model": "gpt-41"
+}

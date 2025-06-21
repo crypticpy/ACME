@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship in the arts",
+    "support for emerging artists",
+    "intergenerational knowledge transfer"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Mentorship programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Mentorship programs"
+  ],
+  "cached_at": "2025-06-21T00:26:04.015275",
+  "cache_key": "ae1f50c00ad7dd8ff3d040708546e80b8cddda6e22ff14572e2c92bb3e6630bb",
+  "model": "gpt-41"
+}

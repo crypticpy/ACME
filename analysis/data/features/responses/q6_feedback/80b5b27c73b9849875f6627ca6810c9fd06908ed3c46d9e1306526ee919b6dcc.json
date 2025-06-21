@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about mandatory financial matching",
+    "alternative methods for demonstrating community support",
+    "flexibility in application requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "don't make a match mandatory",
+    "provide alternative pathways",
+    "demonstrate community support without financial matching"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "mandatory financial matching requirement"
+  ],
+  "solutions_proposed": [
+    "provide alternative pathways for applicants to demonstrate community support without financial matching"
+  ],
+  "cached_at": "2025-06-21T02:20:07.612027",
+  "cache_key": "80b5b27c73b9849875f6627ca6810c9fd06908ed3c46d9e1306526ee919b6dcc",
+  "model": "gpt-41"
+}

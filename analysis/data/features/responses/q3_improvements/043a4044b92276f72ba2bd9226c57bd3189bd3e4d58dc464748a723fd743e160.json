@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "misuse of HOT funds",
+    "impact of funding changes on organizations",
+    "loss of opportunities for artists and underrepresented groups",
+    "concern over new funding agenda",
+    "call for adherence to official guidelines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Go back to using the HOT funds as they are supposed to be used",
+    "outlined on the comptroller\u2019s website",
+    "encourage tourism and not this new agenda",
+    "caused organizations to have to close",
+    "gave so many opportunities to up and coming artists and platforms for underrepresented people",
+    "Stop biting off your nose to spite your face"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding changes causing organizations to close",
+    "loss of support for up and coming artists",
+    "loss of platforms for underrepresented people"
+  ],
+  "solutions_proposed": [
+    "Return to using HOT funds according to official guidelines",
+    "Focus HOT funds on encouraging tourism"
+  ],
+  "cached_at": "2025-06-21T01:01:18.533780",
+  "cache_key": "043a4044b92276f72ba2bd9226c57bd3189bd3e4d58dc464748a723fd743e160",
+  "model": "gpt-41"
+}

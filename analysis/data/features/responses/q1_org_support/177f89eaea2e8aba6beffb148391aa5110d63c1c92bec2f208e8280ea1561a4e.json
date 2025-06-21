@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic suppression of the Latino community",
+    "need for expanded financial support",
+    "high costs as a barrier to artistic development",
+    "importance of theater and art for community health"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "ampliando la ayuda economica, que es la mas suprimida",
+    "los altos costos de hacer arte, los impide desarrollarse",
+    "el arte (teatro) es muy importante para tener una comunidad sana"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "altos costos de hacer arte",
+    "falta de ayuda econ\u00f3mica"
+  ],
+  "solutions_proposed": [
+    "ampliando la ayuda economica"
+  ],
+  "cached_at": "2025-06-20T10:29:56.799985",
+  "cache_key": "177f89eaea2e8aba6beffb148391aa5110d63c1c92bec2f208e8280ea1561a4e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more mural festivals",
+    "interest in film festivals",
+    "expansion of public art and film events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "mural festivals",
+    "film festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase mural festivals",
+    "increase film festivals"
+  ],
+  "cached_at": "2025-06-21T00:50:21.275917",
+  "cache_key": "2b1d0fc6bd3ea567bd8d0c1095c040653aee94b7600c267eed9c218f6b091873",
+  "model": "gpt-41"
+}

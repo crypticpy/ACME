@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for diversified arts funding beyond city sources",
+    "Barriers created by insurance requirements for artists",
+    "Collaboration with private foundations and donors",
+    "Cost-prohibitive policies for one-time performers/instructors",
+    "Outdated contractor requirements in city departments"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "severe lack of [funding] outside of current city funding",
+    "natural place to direct private foundations and donors",
+    "Austin has long been lacking in major arts funders outside of the HOT funds and Moody Foundation investments",
+    "review of insurance requirements for artists",
+    "cost prohibitive to one-time performers/instructors",
+    "the cost of insurance exceeding the amount the vendor would be paid by the City"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Community Foundation",
+    "HOT funds",
+    "Moody Foundation",
+    "Day of Dance",
+    "AARC"
+  ],
+  "barriers_identified": [
+    "severe lack of arts funding outside city sources",
+    "cost-prohibitive insurance requirements for artists",
+    "outdated contractor requirements in city departments",
+    "insurance costs exceeding artist/vendor compensation"
+  ],
+  "solutions_proposed": [
+    "ACME work with the Austin Community Foundation to develop a Fund that could expand funding opportunities for the arts",
+    "direct private foundations and donors to new funding mechanisms",
+    "review and update insurance requirements for artists to participate in city programs"
+  ],
+  "cached_at": "2025-06-20T01:17:33.643646",
+  "cache_key": "bb051049cae0a8ed5d3a0980a353c7365c21555972fa8b8f2c57e59e218ea9c0",
+  "model": "gpt-41"
+}

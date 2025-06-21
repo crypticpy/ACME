@@ -1,0 +1,15 @@
+{
+  "content": "2 + 2 = 4",
+  "model": "gpt-41",
+  "tokens_used": {
+    "input_tokens": 29,
+    "output_tokens": 8,
+    "total_tokens": 37
+  },
+  "prompt": "What is 2+2?",
+  "instructions": "You are a helpful assistant. Answer concisely.",
+  "temperature": 0.1,
+  "timestamp": "2025-06-20T00:58:35.856793",
+  "cached_at": "2025-06-20T00:58:35.856841",
+  "cache_key": "958e3a012a9ea67102846f7593d507d8edd23b1e9553fd2c5436bc20a948826d"
+}

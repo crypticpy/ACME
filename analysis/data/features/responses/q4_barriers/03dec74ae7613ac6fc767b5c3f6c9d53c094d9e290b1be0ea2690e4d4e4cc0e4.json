@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to creation",
+    "financial barriers to participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "cost to make",
+    "cost to access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost to make",
+    "cost to access"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:39.522099",
+  "cache_key": "03dec74ae7613ac6fc767b5c3f6c9d53c094d9e290b1be0ea2690e4d4e4cc0e4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of local artists",
+    "representation in funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More inclusion for local artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusion for local artists"
+  ],
+  "solutions_proposed": [
+    "more inclusion for local artists"
+  ],
+  "cached_at": "2025-06-21T01:15:02.511143",
+  "cache_key": "d41c95ccaf2cfeba644c6d06e8f21670fe1752596c38ca862ce5addad725770c",
+  "model": "gpt-41"
+}

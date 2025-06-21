@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of understanding application process",
+    "difficulty identifying appropriate grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "not understanding how to apply",
+    "which grants fits"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not understanding how to apply",
+    "not knowing which grants are appropriate"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:13.090759",
+  "cache_key": "f2b36bea007b427fac6122b5e592222a735e3fa5d6519ace4c9b0a7f15b0edce",
+  "model": "gpt-41"
+}

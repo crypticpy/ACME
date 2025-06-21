@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "senior inclusion",
+    "untapped community talent",
+    "neglect of older adults"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "seniors uplifted in the community",
+    "leaving talent and people behind"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of seniors from cultural opportunities"
+  ],
+  "solutions_proposed": [
+    "uplift seniors in the community"
+  ],
+  "cached_at": "2025-06-21T00:34:18.828080",
+  "cache_key": "0550ff12b42f07ea5b4093fc7c468ac32970c3a26b53ad4c59cd7b34ea8f383e",
+  "model": "gpt-41"
+}

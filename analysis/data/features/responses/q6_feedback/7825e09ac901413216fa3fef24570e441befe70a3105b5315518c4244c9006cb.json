@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Website usability challenges",
+    "Difficulty locating resources",
+    "Confusion about organizational structure",
+    "Recognition of organizational growth phase",
+    "Appreciation for city attention to cultural needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the website about your divisions and everything is a little funky and hard to navigate",
+    "it's hard for community members to locate resources",
+    "confusing how museums and cultural programs and cultural arts are separated",
+    "this is all very new so there are bound to be growing pains",
+    "glad the city is paying attention to the need for ACME"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Website is hard to navigate",
+    "Difficulty locating resources",
+    "Confusing separation of museums, cultural programs, and cultural arts"
+  ],
+  "solutions_proposed": [
+    "Clarify or streamline website divisions and resource locations",
+    "Clarify distinctions or integration between museums, cultural programs, and cultural arts"
+  ],
+  "cached_at": "2025-06-21T02:11:50.856970",
+  "cache_key": "7825e09ac901413216fa3fef24570e441befe70a3105b5315518c4244c9006cb",
+  "model": "gpt-41"
+}

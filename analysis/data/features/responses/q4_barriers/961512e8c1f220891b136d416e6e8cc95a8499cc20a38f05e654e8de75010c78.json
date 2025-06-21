@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "subjectivity in grant evaluation",
+    "lack of evaluator qualifications",
+    "inefficiency of funding processes",
+    "gatekeeping by committee members"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "grant process and evaluation process is subjective and cumbersome",
+    "evaluation committee is not qualified to evaluate arts organizations",
+    "application's success depends greatly on the committee member designated to 'represent' your proposal",
+    "system is flawed and inefficient"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "subjective grant and evaluation process",
+    "unqualified evaluation committee",
+    "dependence on individual committee members for proposal success",
+    "flawed and inefficient system"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:03.020476",
+  "cache_key": "961512e8c1f220891b136d416e6e8cc95a8499cc20a38f05e654e8de75010c78",
+  "model": "gpt-41"
+}

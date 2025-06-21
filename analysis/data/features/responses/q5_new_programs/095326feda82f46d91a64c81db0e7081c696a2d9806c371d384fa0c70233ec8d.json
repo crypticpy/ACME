@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "community partnership building",
+    "advocacy for new cultural infrastructure",
+    "need for multi-event performance spaces",
+    "modeling after successful out-of-city venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "creating a community partnership",
+    "advocate for a multi event performance space",
+    "like MATCH in Houston"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "MATCH in Houston"
+  ],
+  "barriers_identified": [
+    "lack of multi event performance space"
+  ],
+  "solutions_proposed": [
+    "creating a community partnership to advocate for a multi event performance space"
+  ],
+  "cached_at": "2025-06-21T01:55:58.454823",
+  "cache_key": "095326feda82f46d91a64c81db0e7081c696a2d9806c371d384fa0c70233ec8d",
+  "model": "gpt-41"
+}

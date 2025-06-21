@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "individualized support",
+    "community navigation",
+    "underrepresented services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more individualized support",
+    "community navigator program"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "community navigator program"
+  ],
+  "barriers_identified": [
+    "lack of individualized support"
+  ],
+  "solutions_proposed": [
+    "offer more individualized support",
+    "create a community navigator program"
+  ],
+  "cached_at": "2025-06-21T02:06:43.705366",
+  "cache_key": "0f8510507c6299f78ac6eb30839caa3c76c7233fec13ac5abf277b5d5ee081ef",
+  "model": "gpt-41"
+}

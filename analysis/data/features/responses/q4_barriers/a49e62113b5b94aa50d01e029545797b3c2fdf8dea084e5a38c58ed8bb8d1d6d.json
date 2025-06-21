@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "affordability barrier",
+    "cost of participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "too expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "too expensive"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:26:00.379491",
+  "cache_key": "a49e62113b5b94aa50d01e029545797b3c2fdf8dea084e5a38c58ed8bb8d1d6d",
+  "model": "gpt-41"
+}

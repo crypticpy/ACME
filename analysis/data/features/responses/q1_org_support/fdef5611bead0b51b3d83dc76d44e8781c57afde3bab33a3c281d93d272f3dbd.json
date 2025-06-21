@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of organizations in cultural work",
+    "decline in individual artist participation",
+    "need for a healthy arts ecosystem",
+    "institutional and venue resilience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Organizations are the lifeblood of cultural work",
+    "Individual artists come & go (more going than coming it seems lately)",
+    "vital to have a healthy ecosystem of arts nonprofits",
+    "creating opportunities and jobs",
+    "stronger, more resilient institutions and venues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "decline in individual artist participation",
+    "lack of resilient institutions and venues"
+  ],
+  "solutions_proposed": [
+    "need stronger, more resilient institutions and venues"
+  ],
+  "cached_at": "2025-06-20T10:29:17.071256",
+  "cache_key": "fdef5611bead0b51b3d83dc76d44e8781c57afde3bab33a3c281d93d272f3dbd",
+  "model": "gpt-41"
+}

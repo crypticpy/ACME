@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for city government to listen to creative community",
+    "Amplification of artist and cultural leader voices",
+    "Marginalization of creative class in city priorities",
+    "Rising cost of living for artists",
+    "Imbalance between support for arts and business/tech sectors",
+    "Desire to restore Austin's cultural prominence"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "By listening",
+    "By amplifying their/our voices to the rest of the city government",
+    "serious lack of taking the creative class seriously",
+    "Austin gets more and more expensive for artists",
+    "city seems focused on expanding its business and tech sectors",
+    "balance these two ideas",
+    "Austin could become a shining cultural center again"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of city government attention to creative class",
+    "Rising cost of living for artists",
+    "City prioritizing business and tech sectors over arts"
+  ],
+  "solutions_proposed": [
+    "City government should listen to and amplify voices of artists and cultural leaders",
+    "Balance support between arts and business/tech sectors"
+  ],
+  "cached_at": "2025-06-20T10:21:33.532793",
+  "cache_key": "9e3ab5d691bb6123a85742e9bc4f20fd764739f85ffd46785258367b3a2ffc21",
+  "model": "gpt-41"
+}

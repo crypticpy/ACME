@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "minority marginalization",
+    "feeling of exclusion despite diversity efforts",
+    "emotional impact of discrimination",
+    "passing/identity concealment as survival"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "being part of a minority that the entire country is against",
+    "despite a movement to lift other minorities up",
+    "frustrating, gaslighting, frightening experience",
+    "easier to report not being a minority & passing for white"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pervasive discrimination against certain minorities",
+    "exclusion from diversity initiatives",
+    "emotional distress (frustration, gaslighting, fear)",
+    "pressure to conceal minority identity (passing for white)"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:32.867302",
+  "cache_key": "780b1da1a716fe5cafbc16b188bcfdd537b635be6251fb1e88c415d930d9abf7",
+  "model": "gpt-41"
+}

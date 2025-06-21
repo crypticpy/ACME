@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for high-quality, engaging theatre",
+    "need for heavily supported theater infrastructure",
+    "importance of central, beautiful performance spaces",
+    "promotion of both new and traditional theatrical work",
+    "interest in large-scale productions with reach beyond Austin",
+    "creation of arts districts, including multiple community-based districts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "High-quality, engaging theatre like the Alley Theater in Houston",
+    "Heavily supported theater in a beautiful space in a central location",
+    "produces creative work that can be seen beyond Austin",
+    "promotes new work and traditional work on a large scale",
+    "An arts district would be awesome",
+    "several smaller arts districts in various communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Alley Theater"
+  ],
+  "barriers_identified": [
+    "lack of high-quality, centrally located, well-supported theater venues",
+    "absence of arts districts"
+  ],
+  "solutions_proposed": [
+    "create or support high-quality, engaging theatre similar to the Alley Theater",
+    "develop heavily supported theater in a beautiful, central location",
+    "establish an arts district or several smaller arts districts in various communities"
+  ],
+  "cached_at": "2025-06-21T00:44:41.358590",
+  "cache_key": "a2eaad7ff4c0ebd786167edfbcde82e0381bd23e4b848c1400d6dba4a8a92dde",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "focus on smaller, independent arts programming",
+    "support for cultures outside central areas",
+    "geographic concentration of support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "focus specifically on smaller, independent arts programming",
+    "work and cultures that happen outside of the Red River/immediate East Austin area"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "geographic concentration of support in Red River/immediate East Austin"
+  ],
+  "solutions_proposed": [
+    "focus specifically on smaller, independent arts programming",
+    "support work and cultures outside of the Red River/immediate East Austin area"
+  ],
+  "cached_at": "2025-06-20T01:12:26.088873",
+  "cache_key": "ce1103052903991220355be4c8a2ea1a9002ef5c9446dadebe45ece8f77c690d",
+  "model": "gpt-41"
+}

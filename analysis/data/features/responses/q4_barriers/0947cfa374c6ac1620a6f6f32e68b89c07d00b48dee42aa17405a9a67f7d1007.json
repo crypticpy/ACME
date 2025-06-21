@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness among small legacy business owners",
+    "information gaps about funding opportunities",
+    "challenges in preservation support access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "small legacy business owners aren't aware",
+    "different funding and preservation opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of funding opportunities",
+    "lack of awareness of preservation opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:32.398805",
+  "cache_key": "0947cfa374c6ac1620a6f6f32e68b89c07d00b48dee42aa17405a9a67f7d1007",
+  "model": "gpt-41"
+}

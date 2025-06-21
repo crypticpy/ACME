@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "protection of equity-focused funding rubric",
+    "historic cultural bias in Austin arts funding",
+    "lack of inclusivity in major arts organizations",
+    "resource disparities between large and small/culturally specific groups",
+    "validation of community-driven processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the rubric that was developed by many focus groups and strategic planning sessions",
+    "protected and preserved",
+    "blatant cultural bias arts groups have faced in Austin for so long",
+    "Ballet Austin, the Opera and Austin Film Festival will be fine - they have benefitted from that bias for 30-40 years",
+    "failed to create environments of inclusivity amongst their staff and audiences",
+    "groups like Ballet East, The Vortex or Cine Las Americas, AGLIFF and the Austin Asian American International Film Festivals - which did this with a lot less money and resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Ballet Austin",
+    "the Opera",
+    "Austin Film Festival",
+    "Ballet East",
+    "The Vortex",
+    "Cine Las Americas",
+    "AGLIFF",
+    "Austin Asian American International Film Festivals"
+  ],
+  "barriers_identified": [
+    "blatant cultural bias in funding",
+    "lack of inclusivity in major arts organizations",
+    "resource disparities favoring large organizations"
+  ],
+  "solutions_proposed": [
+    "protect and preserve the equity-focused funding rubric developed by community input",
+    "allow the rubric to continue its intended work to address bias"
+  ],
+  "cached_at": "2025-06-21T01:19:51.821913",
+  "cache_key": "bd720a89952c7e612a9941bee5b302dd3604431d51dede4fa68dc995c2f48050",
+  "model": "gpt-41"
+}

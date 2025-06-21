@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of diverse representation in music industry leadership",
+    "ownership and power dynamics in cultural spaces",
+    "barriers for underrepresented communities in business ownership",
+    "need for business knowledge and mentorship for sustainability",
+    "limitations of event-based cultural building"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "get more diverse identities into positions of power in the music industry",
+    "vast majority of venues, studios, labels, and businesses are owned by men by a landslide",
+    "people get stuck from top-down pressures",
+    "representation at the top",
+    "helping underrepresented communities create and/or run venues, music studios, creative or cultural spaces",
+    "providing resources especially in business knowledge",
+    "securing mentorship with more established businesses/orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diverse ownership and leadership in music industry",
+    "top-down pressures preventing change",
+    "insufficient business knowledge and resources for underrepresented communities"
+  ],
+  "solutions_proposed": [
+    "helping underrepresented communities create and/or run venues, music studios, creative or cultural spaces, and other music-related businesses or organizations",
+    "providing resources especially in business knowledge to underrepresented communities",
+    "securing mentorship with more established businesses/orgs"
+  ],
+  "cached_at": "2025-06-21T01:50:37.630161",
+  "cache_key": "8e247993b0dabefbd7b5185a7713a392657102a4a032c24a3b28c2e6f3e212fb",
+  "model": "gpt-41"
+}

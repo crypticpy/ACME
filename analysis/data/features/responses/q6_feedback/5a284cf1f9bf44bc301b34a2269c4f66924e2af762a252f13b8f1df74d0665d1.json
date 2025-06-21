@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Unpredictability of grant deadlines",
+    "Concerns about frequent major program changes",
+    "Need for data-driven decision making",
+    "Support for equity and DEI focus",
+    "Desire for Austin to lead in equity practices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Consistent grant deadlines: it's hard to plan for the future when you're not sure when, or if, a program is going to launch",
+    "Major changes don't need to be made every 2 or 3 years unless something is glaringly wrong",
+    "Major changes without analyzing the results can lead to unintended consequences",
+    "Tweaks or relatively easy to incorporate changes should be done for this round",
+    "The equity focus of the programs is great and I hope that won't go away",
+    "Austin needs to continue being the beacon and example of taking equity seriously and doing it right"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Uncertainty about grant program launch timing",
+    "Frequent major changes causing confusion"
+  ],
+  "solutions_proposed": [
+    "Establish consistent grant deadlines",
+    "Limit major program changes to when necessary and after analysis",
+    "Implement minor tweaks in the current round and reserve major changes for the next round",
+    "Maintain the equity focus of the programs"
+  ],
+  "cached_at": "2025-06-21T02:20:49.837289",
+  "cache_key": "5a284cf1f9bf44bc301b34a2269c4f66924e2af762a252f13b8f1df74d0665d1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,50 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "physical accessibility for mobility-impaired individuals",
+    "high cost and economic exclusion at cultural events",
+    "inequity in access due to premium pricing and special tickets",
+    "prioritization of accessibility and affordability in city-funded events",
+    "critique of city policies that favor wealthy newcomers",
+    "lack of infrastructure (scooters, benches) for disabled and low-income attendees"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "physical access and cost",
+    "pay $150 to get ahead in a line",
+    "$22K to get a special ticket to ACL",
+    "OUTLAW that kind of stuff, and I'm serious about that",
+    "must be accessible and affordable FIRST. But, really, accessible first. first first first first.",
+    "The better you make it for income-impaired, mobility-impaired people, the better you make it for EVERYONE.",
+    "provide scooters like at the grocery store anywhere that there's a huge, city-funded event/property",
+    "Provide more benches in big outdoor spaces",
+    "if you've never been poor and ill, you won't know what I mean, but everyone who has been knows exactly what I mean",
+    "The city shuts down to you"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Trail of Lights",
+    "ACL",
+    "The Long Center"
+  ],
+  "barriers_identified": [
+    "physical inaccessibility for mobility-impaired individuals",
+    "high costs and premium pricing at events",
+    "lack of affordable options for low-income residents",
+    "insufficient infrastructure (e.g., lack of benches, lack of mobility aids like scooters)",
+    "exclusion from both small private venues and large public events"
+  ],
+  "solutions_proposed": [
+    "outlaw premium pricing and special tickets at city-funded or city land events",
+    "require accessibility and affordability as primary conditions for city funding",
+    "provide scooters at large city-funded events and properties",
+    "add more benches in big outdoor spaces"
+  ],
+  "cached_at": "2025-06-21T01:41:15.300323",
+  "cache_key": "ce19444364fd4953f2d6b07720938484d0d2213a2d627ba4fc353f8a8a11a4c6",
+  "model": "gpt-41"
+}

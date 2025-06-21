@@ -1,0 +1,60 @@
+{
+  "load_timestamp": "2025-06-19T01:51:23.018066",
+  "data_sources": {
+    "survey": {
+      "shape": [
+        1187,
+        41
+      ],
+      "columns": 41,
+      "memory_usage": "5.41 MB",
+      "dtypes": {
+        "object": 36,
+        "datetime64[ns]": 2,
+        "int64": 1,
+        "float64": 1,
+        "datetime64[us]": 1
+      }
+    },
+    "working_doc_main": {
+      "shape": [
+        1395,
+        18
+      ],
+      "columns": 18,
+      "memory_usage": "1.34 MB",
+      "dtypes": {
+        "object": 16,
+        "float64": 1,
+        "datetime64[us]": 1
+      }
+    },
+    "working_doc_guide": {
+      "shape": [
+        17,
+        7
+      ],
+      "columns": 7,
+      "memory_usage": "0.01 MB",
+      "dtypes": {
+        "object": 5,
+        "float64": 1,
+        "datetime64[us]": 1
+      }
+    },
+    "working_doc_aipp": {
+      "shape": [
+        43,
+        17
+      ],
+      "columns": 17,
+      "memory_usage": "0.03 MB",
+      "dtypes": {
+        "object": 10,
+        "float64": 5,
+        "datetime64[ns]": 1,
+        "datetime64[us]": 1
+      }
+    }
+  }
+}

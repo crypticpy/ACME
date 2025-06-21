@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for existing visual art galleries",
+    "funding for ongoing programs",
+    "sustaining current cultural infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Provide funding to existing visual art galleries",
+    "support existing programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide funding to existing visual art galleries to support existing programs"
+  ],
+  "cached_at": "2025-06-20T01:20:58.026679",
+  "cache_key": "41f5e4e94a92f088658dbfdb32da8d559e69f12de99ba64ed281931e7432c527",
+  "model": "gpt-41"
+}

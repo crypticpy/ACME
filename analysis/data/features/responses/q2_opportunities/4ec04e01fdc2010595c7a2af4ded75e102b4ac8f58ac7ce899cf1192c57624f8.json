@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for higher quality arts",
+    "need for affordability in arts offerings",
+    "preference for authentic or legitimate arts experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "quality",
+    "affordable",
+    "legit arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable arts opportunities"
+  ],
+  "solutions_proposed": [
+    "increase quality arts offerings",
+    "ensure arts opportunities are affordable",
+    "support legitimate arts experiences"
+  ],
+  "cached_at": "2025-06-21T00:40:13.975623",
+  "cache_key": "4ec04e01fdc2010595c7a2af4ded75e102b4ac8f58ac7ce899cf1192c57624f8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of organizations",
+    "insufficient outreach or communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Don't know",
+    "Never hear about these organization"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:30:18.261802",
+  "cache_key": "c95a48910d80804d9b552fb3488245520725d26ee8e445bd9e9d53640c57df6c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for increased literary arts support",
+    "perceived underrepresentation of literary arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Would love for the literary arts to get more love"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "literary arts are underrepresented"
+  ],
+  "solutions_proposed": [
+    "increase support for literary arts"
+  ],
+  "cached_at": "2025-06-21T01:49:51.154090",
+  "cache_key": "f6d43b6d10abbad36afa0fdbca1117475235ba035e020e3eb41e673736f152c0",
+  "model": "gpt-41"
+}

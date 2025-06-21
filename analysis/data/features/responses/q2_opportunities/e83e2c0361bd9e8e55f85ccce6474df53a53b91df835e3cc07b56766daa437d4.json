@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more food festivals",
+    "interest in street closures for events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Food festivals",
+    "street closures"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More food festivals",
+    "More street closures for cultural events"
+  ],
+  "cached_at": "2025-06-21T00:41:08.267692",
+  "cache_key": "e83e2c0361bd9e8e55f85ccce6474df53a53b91df835e3cc07b56766daa437d4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application and reporting process complexity",
+    "accessibility of grant programs",
+    "need for general operating grants",
+    "clarity and consistency in budget categories"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "SIMPLIFY the application",
+    "make it more accessible",
+    "It takes a LOT of skill and time to get/manage one of these grants",
+    "What do you really need to know from us?",
+    "GENERAL OPERATING GRANTS",
+    "match the budget category titles from the application to the final report",
+    "they do not always match and it's confusing and unhelpful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of application and reporting processes",
+    "requirement for high skill and time to manage grants",
+    "confusing and inconsistent budget category titles"
+  ],
+  "solutions_proposed": [
+    "simplify the application process",
+    "simplify the reporting process (not just by reducing word counts)",
+    "offer general operating grants in larger programs",
+    "match budget category titles between application and final report"
+  ],
+  "cached_at": "2025-06-21T01:09:12.985455",
+  "cache_key": "b8ced4fef037f051c8ad71a508137b84364b3a76fff1b4b8c2f3345158d8f7d3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of Asian-American communities",
+    "lack of funding for Nepali and Afghan communities",
+    "cultural equity in arts funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grossly underrepresented",
+    "Asian-American community",
+    "Nepali and Afghan community",
+    "Austin's arts funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation in arts funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:57:38.273471",
+  "cache_key": "3d945a27e8dde9835b9555a74be08e5460dbddd4464f3944c6ec01b1f213fcbb",
+  "model": "gpt-41"
+}

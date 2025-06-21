@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "attention to underfunded organizations",
+    "support for underrepresented groups",
+    "funding equity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more attention placed on the most underfunded and underrepresented orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underfunding",
+    "underrepresentation"
+  ],
+  "solutions_proposed": [
+    "more attention placed on the most underfunded and underrepresented orgs"
+  ],
+  "cached_at": "2025-06-21T00:50:46.843702",
+  "cache_key": "39c19dd3ddd74ed102d32db985836afe3ca4f656e388ba79567e151767cbc6dc",
+  "model": "gpt-41"
+}

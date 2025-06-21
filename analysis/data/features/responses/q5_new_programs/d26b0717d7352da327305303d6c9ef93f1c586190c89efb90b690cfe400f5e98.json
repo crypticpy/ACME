@@ -1,0 +1,51 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "mentorship opportunities",
+    "micro-grants for artists",
+    "shared creative spaces",
+    "community-based artist residencies",
+    "multilingual outreach",
+    "youth-focused arts education in underserved areas"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more support for emerging artists",
+    "mentorship programs",
+    "micro-grants",
+    "shared studio or performance spaces",
+    "community-based residencies",
+    "multilingual outreach",
+    "youth-focused arts education",
+    "especially in underserved areas",
+    "could make a big impact"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for emerging artists",
+    "underrepresentation of mentorship programs",
+    "insufficient micro-grants",
+    "limited access to shared studio or performance spaces",
+    "lack of community-based residencies",
+    "insufficient multilingual outreach",
+    "underrepresentation of youth-focused arts education in underserved areas"
+  ],
+  "solutions_proposed": [
+    "offer more support for emerging artists",
+    "create mentorship programs",
+    "provide micro-grants",
+    "establish shared studio or performance spaces",
+    "develop community-based residencies",
+    "implement multilingual outreach",
+    "expand youth-focused arts education, especially in underserved areas"
+  ],
+  "cached_at": "2025-06-21T02:08:50.145049",
+  "cache_key": "d26b0717d7352da327305303d6c9ef93f1c586190c89efb90b690cfe400f5e98",
+  "model": "gpt-41"
+}

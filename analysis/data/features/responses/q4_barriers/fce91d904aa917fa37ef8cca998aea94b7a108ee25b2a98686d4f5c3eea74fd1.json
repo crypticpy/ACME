@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers",
+    "physical or logistical accessibility",
+    "cultural or program relevance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cost",
+    "accessibility",
+    "relevance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost",
+    "accessibility",
+    "relevance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:15.842765",
+  "cache_key": "fce91d904aa917fa37ef8cca998aea94b7a108ee25b2a98686d4f5c3eea74fd1",
+  "model": "gpt-41"
+}

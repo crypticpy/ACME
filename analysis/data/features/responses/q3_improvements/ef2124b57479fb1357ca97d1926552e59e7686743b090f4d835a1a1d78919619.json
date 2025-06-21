@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for specific local art tours",
+    "recognition of East and West Austin Studio Tours",
+    "desire for targeted program funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Support of east and west austin studio tours"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "east austin studio tour",
+    "west austin studio tour"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support of east and west austin studio tours"
+  ],
+  "cached_at": "2025-06-21T01:01:41.386294",
+  "cache_key": "ef2124b57479fb1357ca97d1926552e59e7686743b090f4d835a1a1d78919619",
+  "model": "gpt-41"
+}

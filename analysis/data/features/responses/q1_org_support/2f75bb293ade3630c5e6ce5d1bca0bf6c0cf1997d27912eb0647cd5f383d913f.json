@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of cultural organizations",
+    "limited outreach beyond existing networks",
+    "role of public libraries in community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I don't know what these orgs are",
+    "I only found out about this survey from the library"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:22:03.663253",
+  "cache_key": "2f75bb293ade3630c5e6ce5d1bca0bf6c0cf1997d27912eb0647cd5f383d913f",
+  "model": "gpt-41"
+}

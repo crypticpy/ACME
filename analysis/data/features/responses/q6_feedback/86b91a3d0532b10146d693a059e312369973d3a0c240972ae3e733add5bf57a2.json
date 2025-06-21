@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "survey design criticism",
+    "data quality concerns",
+    "effectiveness of feedback collection"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I question this surveys design",
+    "parse good data and feedback",
+    "collect good data overall"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "poor survey design"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:53.256695",
+  "cache_key": "86b91a3d0532b10146d693a059e312369973d3a0c240972ae3e733add5bf57a2",
+  "model": "gpt-41"
+}

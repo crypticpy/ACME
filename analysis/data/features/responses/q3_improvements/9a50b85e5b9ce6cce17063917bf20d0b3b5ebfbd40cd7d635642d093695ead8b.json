@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "slow application processing",
+    "lack of resubmission opportunities",
+    "impact of minor application errors",
+    "desire for applicant communication or clarification"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "quicker turn around times",
+    "give applicants a chance to resubmit their app",
+    "the stated reason i got rejected was for a question that I accidentally marked an answer that I didnt mean to",
+    "It was a tiny oversight on my part",
+    "I wish I could have maybe wrote a paragraph explaining and correcting the mistake"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "slow turnaround times",
+    "no opportunity to correct minor mistakes in applications",
+    "rejection due to accidental errors"
+  ],
+  "solutions_proposed": [
+    "quicker turn around times",
+    "allow applicants to resubmit their application",
+    "provide opportunity to explain and correct mistakes"
+  ],
+  "cached_at": "2025-06-21T01:16:39.072639",
+  "cache_key": "9a50b85e5b9ce6cce17063917bf20d0b3b5ebfbd40cd7d635642d093695ead8b",
+  "model": "gpt-41"
+}

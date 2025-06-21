@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "excessive bureaucracy",
+    "policy obstacles",
+    "lack of direct action"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "tied up into policy and roadblocks",
+    "rather than doing the work",
+    "lots of burocracy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "policy and roadblocks",
+    "bureaucracy"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:30:42.308922",
+  "cache_key": "de8baeb4f84aa9f47498759a6caa8ec45d3f6e34d07fd7e76b723aaa3e1483d2",
+  "model": "gpt-41"
+}

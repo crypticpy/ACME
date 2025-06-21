@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for knowledgeable panelists in Austin theatre",
+    "Insufficient funding",
+    "Limited access to performance space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Better qualified Panelists who understand the current state of Austin theatre",
+    "Funding. Funding. Funding.",
+    "Access to Performance Space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of qualified panelists",
+    "Insufficient funding",
+    "Limited access to performance space"
+  ],
+  "solutions_proposed": [
+    "Use better qualified panelists who understand Austin theatre",
+    "Increase funding",
+    "Improve access to performance space"
+  ],
+  "cached_at": "2025-06-21T01:01:28.668134",
+  "cache_key": "f12b4d4d65b263678eeb7457e80241121c62b990401178f768a7c9d1b2fd4650",
+  "model": "gpt-41"
+}

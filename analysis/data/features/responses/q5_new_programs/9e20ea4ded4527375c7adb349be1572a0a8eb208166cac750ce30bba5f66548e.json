@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased cultural history programming",
+    "modeling after South Austin Museum of Pop Culture",
+    "underrepresentation of cultural history"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More Cultural History",
+    "like South Austin Museum of Pop Culture did"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "South Austin Museum of Pop Culture"
+  ],
+  "barriers_identified": [
+    "underrepresentation of cultural history programs"
+  ],
+  "solutions_proposed": [
+    "offer more cultural history programs modeled after South Austin Museum of Pop Culture"
+  ],
+  "cached_at": "2025-06-21T01:56:29.742380",
+  "cache_key": "9e20ea4ded4527375c7adb349be1572a0a8eb208166cac750ce30bba5f66548e",
+  "model": "gpt-41"
+}

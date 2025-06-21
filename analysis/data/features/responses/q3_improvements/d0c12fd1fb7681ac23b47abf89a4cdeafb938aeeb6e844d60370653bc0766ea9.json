@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "improved marketing and communication of application periods",
+    "dedicated grant opportunities for marginalized groups",
+    "inclusion of ethnic minorities, people with disabilities, and gender/sexuality minorities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "application times to be better marketed and announced",
+    "grant opportunities to be reserved for folks of ethnic minorities",
+    "folks with disabilities",
+    "folks of gender and sexuality minorities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of application times",
+    "insufficient reserved opportunities for marginalized groups"
+  ],
+  "solutions_proposed": [
+    "better marketing and announcement of application times",
+    "reserve some grant opportunities for ethnic minorities",
+    "reserve some grant opportunities for folks with disabilities",
+    "reserve some grant opportunities for gender and sexuality minorities"
+  ],
+  "cached_at": "2025-06-21T01:13:33.075728",
+  "cache_key": "d0c12fd1fb7681ac23b47abf89a4cdeafb938aeeb6e844d60370653bc0766ea9",
+  "model": "gpt-41"
+}

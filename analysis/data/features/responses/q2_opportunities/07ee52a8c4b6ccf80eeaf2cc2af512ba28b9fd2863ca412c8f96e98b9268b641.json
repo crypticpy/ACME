@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for niche productions",
+    "representation of communities of color",
+    "representation of queer communities",
+    "representation of disability communities",
+    "representation of women"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more niche productions",
+    "communities of color",
+    "queer communities",
+    "disability communities",
+    "women"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of niche productions by marginalized communities"
+  ],
+  "solutions_proposed": [
+    "increase niche productions by communities of color, queer communities, disability communities, and women"
+  ],
+  "cached_at": "2025-06-21T00:50:53.136693",
+  "cache_key": "07ee52a8c4b6ccf80eeaf2cc2af512ba28b9fd2863ca412c8f96e98b9268b641",
+  "model": "gpt-41"
+}

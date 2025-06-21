@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "racial inequity in access to funding",
+    "knowledge gap in grant writing",
+    "systemic advantage for white-led organizations",
+    "need for both immediate support and capacity building"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "white led organizations have the playbook on grant writing and access",
+    "black and brown should be given the same",
+    "give fish and teach to fish simultaneously"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "white-led organizations have privileged knowledge and access to grant writing",
+    "black and brown communities lack equal access and resources"
+  ],
+  "solutions_proposed": [
+    "provide both direct support and grant writing education to black and brown communities"
+  ],
+  "cached_at": "2025-06-21T01:31:28.444910",
+  "cache_key": "3ebc16a378b23cc96883a5dc0385e1d596b3f19d363bf9cf185dea8a76b531f0",
+  "model": "gpt-41"
+}

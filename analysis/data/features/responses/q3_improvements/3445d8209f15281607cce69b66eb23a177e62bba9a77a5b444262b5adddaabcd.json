@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "ineffectiveness of funding programs",
+    "exclusion of established arts organizations",
+    "administrative delays and inefficiency",
+    "grant process rigidity and inflexibility",
+    "frustration with bureaucratic requirements"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "so ineffectual to funding the real work of art in this City",
+    "I have no idea how Big Medium, once our premier arts non-profit, could not be funded",
+    "Kafka light in experience",
+    "flagged an error on the insurance COI",
+    "no insurer would issue a policy for a term in the past",
+    "just a frustrating waste of time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "exclusion of prominent arts organizations from funding",
+    "delayed administrative communication",
+    "requirement for insurance for past project periods",
+    "inflexible grant paperwork processes"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:10:26.003330",
+  "cache_key": "3445d8209f15281607cce69b66eb23a177e62bba9a77a5b444262b5adddaabcd",
+  "model": "gpt-41"
+}

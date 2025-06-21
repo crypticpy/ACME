@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for symphony programming",
+    "need for quality grant writing support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Symphony",
+    "Quality grant writing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Symphony"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer symphony programs",
+    "Provide quality grant writing services"
+  ],
+  "cached_at": "2025-06-21T02:03:30.023939",
+  "cache_key": "750175fd7e6ca3971649066e5d84cb9763e6c6b5da7be423311b10aec6abe49a",
+  "model": "gpt-41"
+}

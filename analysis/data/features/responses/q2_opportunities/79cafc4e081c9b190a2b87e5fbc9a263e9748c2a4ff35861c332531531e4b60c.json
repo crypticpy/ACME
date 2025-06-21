@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for more art galleries",
+    "increased support for non-profits",
+    "artist support based on artistic merit",
+    "diverse and knowledgeable panel for judging art",
+    "critique of bureaucratic metrics and decision-makers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more art galleries",
+    "more support for non-profits",
+    "more support for all Austin artists based on their work",
+    "judged by a diverse panel of leaders in the Austin art scene",
+    "not a clueless metric imposed by city bureacrats who don't actually look at art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "clueless metric imposed by city bureacrats",
+    "lack of engagement from decision-makers with the art scene"
+  ],
+  "solutions_proposed": [
+    "increase number of art galleries",
+    "provide more support for non-profits",
+    "support artists based on their work",
+    "use a diverse panel of knowledgeable art leaders for judging"
+  ],
+  "cached_at": "2025-06-21T00:41:02.853847",
+  "cache_key": "79cafc4e081c9b190a2b87e5fbc9a263e9748c2a4ff35861c332531531e4b60c",
+  "model": "gpt-41"
+}

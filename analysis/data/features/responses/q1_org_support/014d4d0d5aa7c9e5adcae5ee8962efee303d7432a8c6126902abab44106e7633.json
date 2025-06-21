@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "support for organizations and cultural leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Increase funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase funding"
+  ],
+  "cached_at": "2025-06-20T10:30:29.774898",
+  "cache_key": "014d4d0d5aa7c9e5adcae5ee8962efee303d7432a8c6126902abab44106e7633",
+  "model": "gpt-41"
+}

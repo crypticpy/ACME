@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community outreach",
+    "awareness of grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More outreach to the community",
+    "grant opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community awareness about grant opportunities"
+  ],
+  "solutions_proposed": [
+    "More outreach to the community about grant opportunities"
+  ],
+  "cached_at": "2025-06-21T01:16:26.270869",
+  "cache_key": "b1a9f4e025198bc91cd0d48c433e542682d88ae61fc422e05f4e22e596b45275",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of performing arts",
+    "city branding beyond live music",
+    "underrepresentation of performing arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Marketing Austin as a destination for the performing arts",
+    "not just live music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "performing arts underrepresented in city marketing"
+  ],
+  "solutions_proposed": [
+    "Market Austin as a destination for the performing arts"
+  ],
+  "cached_at": "2025-06-21T01:51:22.384016",
+  "cache_key": "6fd47b41a158bfaeb682aad67ce353b5885d48bb1e4b0ccbd498112b1d14053a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,137 @@
+{
+  "analysis_date": "2025-06-21T09:28:37.083693",
+  "programs_analyzed": [
+    {
+      "program": "Nexus",
+      "recommendation_count": 19,
+      "survey_mention_count": 805,
+      "top_3_themes": [
+        {
+          "rank": 1,
+          "theme": "Artist Support",
+          "count": 3,
+          "percentage": 15.8
+        },
+        {
+          "rank": 2,
+          "theme": "Transparency",
+          "count": 3,
+          "percentage": 15.8
+        },
+        {
+          "rank": 3,
+          "theme": "Multi-Year Funding",
+          "count": 1,
+          "percentage": 5.3
+        }
+      ]
+    },
+    {
+      "program": "Thrive",
+      "recommendation_count": 16,
+      "survey_mention_count": 745,
+      "top_3_themes": [
+        {
+          "rank": 1,
+          "theme": "Small Org Support",
+          "count": 4,
+          "percentage": 25.0
+        },
+        {
+          "rank": 2,
+          "theme": "Artist Support",
+          "count": 3,
+          "percentage": 18.8
+        },
+        {
+          "rank": 3,
+          "theme": "Increase Funding",
+          "count": 2,
+          "percentage": 12.5
+        }
+      ]
+    },
+    {
+      "program": "Elevate",
+      "recommendation_count": 20,
+      "survey_mention_count": 887,
+      "top_3_themes": [
+        {
+          "rank": 1,
+          "theme": "Artist Support",
+          "count": 9,
+          "percentage": 45.0
+        },
+        {
+          "rank": 2,
+          "theme": "Community Engagement",
+          "count": 1,
+          "percentage": 5.0
+        }
+      ]
+    },
+    {
+      "program": "Austin Live Music Fund",
+      "recommendation_count": 154,
+      "survey_mention_count": 1549,
+      "top_3_themes": [
+        {
+          "rank": 1,
+          "theme": "Artist Support",
+          "count": 42,
+          "percentage": 27.3
+        },
+        {
+          "rank": 2,
+          "theme": "Infrastructure",
+          "count": 22,
+          "percentage": 14.3
+        },
+        {
+          "rank": 3,
+          "theme": "Equity & Access",
+          "count": 21,
+          "percentage": 13.6
+        }
+      ]
+    },
+    {
+      "program": "Art in Public Places",
+      "recommendation_count": 0,
+      "survey_mention_count": 1063,
+      "top_3_themes": [
+        {
+          "rank": 1,
+          "theme": "Artist Support",
+          "count": 508,
+          "percentage": 47.8
+        },
+        {
+          "rank": 2,
+          "theme": "Infrastructure",
+          "count": 410,
+          "percentage": 38.6
+        },
+        {
+          "rank": 3,
+          "theme": "Increase Funding",
+          "count": 142,
+          "percentage": 13.4
+        }
+      ]
+    },
+    {
+      "program": "Creative Space Assistance Program",
+      "recommendation_count": 3,
+      "survey_mention_count": 329,
+      "top_3_themes": [
+        {
+          "rank": 1,
+          "theme": "Infrastructure",
+          "count": 1,
+          "percentage": 33.3
+        }
+      ]
+    }
+  ]
+}

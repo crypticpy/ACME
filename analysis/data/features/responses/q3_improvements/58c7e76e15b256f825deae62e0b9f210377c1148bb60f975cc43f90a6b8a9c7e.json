@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding consistency",
+    "proportional allocation based on budget and merit",
+    "organizational sustainability",
+    "arbitrariness in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "attached to budget size, artistic merit and production capacity/experience",
+    "consistent so orgs can plan",
+    "damaging and arbitrary to give a small org a lot of money one year, than reduce it or eliminate it entirely the next year",
+    "consistent, proportional public funding is key to building a sustainable organization or program"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "arbitrary and inconsistent funding allocations",
+    "inability to plan due to unpredictable funding"
+  ],
+  "solutions_proposed": [
+    "attach funding to budget size, artistic merit, and production capacity/experience",
+    "make funding consistent and proportional"
+  ],
+  "cached_at": "2025-06-21T01:06:48.455388",
+  "cache_key": "58c7e76e15b256f825deae62e0b9f210377c1148bb60f975cc43f90a6b8a9c7e",
+  "model": "gpt-41"
+}

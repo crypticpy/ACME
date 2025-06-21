@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bilingual storytelling",
+    "cultural culinary experiences",
+    "community engagement through arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Builingual storytelling nights",
+    "cultural cooking workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "bilingual storytelling nights",
+    "cultural cooking workshops"
+  ],
+  "cached_at": "2025-06-21T00:46:20.751486",
+  "cache_key": "7c64cadea93678759992565d8b1049763945e3da254391004918406fa5d655d2",
+  "model": "gpt-41"
+}

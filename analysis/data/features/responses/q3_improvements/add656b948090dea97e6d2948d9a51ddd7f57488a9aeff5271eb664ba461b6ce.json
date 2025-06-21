@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for separate grant processes",
+    "differences between individual artists and organizations",
+    "inclusivity in funding structures"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "separate grant application for individual artists",
+    "does not expect them to be operating in the same way as a creative arts organization"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expectation that individual artists operate like organizations"
+  ],
+  "solutions_proposed": [
+    "create a separate grant application for individual artists"
+  ],
+  "cached_at": "2025-06-21T01:03:03.617498",
+  "cache_key": "add656b948090dea97e6d2948d9a51ddd7f57488a9aeff5271eb664ba461b6ce",
+  "model": "gpt-41"
+}

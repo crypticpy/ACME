@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "health insurance access for visual artists",
+    "mental health support for artists",
+    "inequity between musicians and visual artists",
+    "small-scale grant opportunities",
+    "support for emerging artists",
+    "public art project funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Health Insurance and Mental Health for visual artists, not just musicians",
+    "More small scale grants and public art projects for emerging artists (under 30k)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of health insurance for visual artists",
+    "insufficient mental health support for visual artists",
+    "funding inequity favoring musicians over visual artists",
+    "limited access to small-scale grants for emerging artists"
+  ],
+  "solutions_proposed": [
+    "Provide health insurance and mental health support for visual artists",
+    "Offer more small scale grants for emerging artists (under 30k)",
+    "Increase public art project funding for emerging artists"
+  ],
+  "cached_at": "2025-06-21T00:26:56.023092",
+  "cache_key": "bed27dd831d5d59e07328e8eeec2aaecf291a285ec295480d94cfd337ea760df",
+  "model": "gpt-41"
+}

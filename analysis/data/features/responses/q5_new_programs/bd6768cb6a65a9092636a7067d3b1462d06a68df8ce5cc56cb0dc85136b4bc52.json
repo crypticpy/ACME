@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "capital improvements for cultural institutions",
+    "funding for organizations that own their spaces",
+    "support for music venues",
+    "interior capital projects for historic institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "additional investment in capital improvements",
+    "cultural institutions/organizations that own their spaces",
+    "funding for music venues",
+    "funding for interior capital projects for historic institutions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of capital investment for owned spaces",
+    "insufficient funding for music venues",
+    "limited funding for interior projects in historic institutions"
+  ],
+  "solutions_proposed": [
+    "additional investment in capital improvements for cultural institutions/organizations that own their spaces",
+    "funding for music venues",
+    "funding for interior capital projects for historic institutions"
+  ],
+  "cached_at": "2025-06-21T02:02:57.897938",
+  "cache_key": "bd6768cb6a65a9092636a7067d3b1462d06a68df8ce5cc56cb0dc85136b4bc52",
+  "model": "gpt-41"
+}

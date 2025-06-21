@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased representation of African American performances",
+    "ownership and operation of venues by African Americans",
+    "affordable access to major venues for organizations of color",
+    "support for smaller arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More African American performances",
+    "an African American performing arts venue owned and operated by African Americans",
+    "more access to use The Long Center at an affordable rate",
+    "other venues like Bass Concert Hall, Ragsdale Center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Long Center",
+    "Bass Concert Hall",
+    "Ragsdale Center"
+  ],
+  "barriers_identified": [
+    "lack of African American-owned performing arts venues",
+    "limited affordable access to major venues for organizations of color"
+  ],
+  "solutions_proposed": [
+    "create an African American performing arts venue owned and operated by African Americans",
+    "provide more affordable access for smaller arts organizations and operations of color to use major venues"
+  ],
+  "cached_at": "2025-06-21T00:39:43.598718",
+  "cache_key": "6271f881b34ed6f8ed5328110dfa06ed25442aaaa97a3fcbd8d27854ff7e67af",
+  "model": "gpt-41"
+}

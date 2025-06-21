@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of public understanding of artistic value",
+    "financial constraints on cultural work",
+    "insufficient venues for arts and culture",
+    "time pressure due to limited resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "important stories",
+    "small budgets",
+    "short deadlines",
+    "lack of venues and money"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public understanding",
+    "insufficient funding",
+    "limited access to venues",
+    "tight deadlines due to resource constraints"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:24.166722",
+  "cache_key": "f0c0cba91f2eebae48c5182f506ce951cca3c21be48733604a6a9a95c9281278",
+  "model": "gpt-41"
+}

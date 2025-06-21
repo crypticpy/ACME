@@ -1,0 +1,52 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "solidarity economy in the arts",
+    "alternative funding models for creatives",
+    "artist cooperatives and collectives",
+    "community-supported artist systems",
+    "basic needs for artists (food, healthcare, housing)",
+    "artist-run spaces and platform cooperatives",
+    "resource reappropriation for creative empowerment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Arts and Solidarity Economy",
+    "Forming Alternative Funding and Tactics to Reappropriate Resources for Creatives",
+    "Art, Power for the People",
+    "Creativity for Liberation",
+    "How to make an Artist Collective / Cooperative",
+    "Setting up a Community Supported Artist System",
+    "Artists Foraging and Free Food Programs",
+    "Affordable Health Care for Artists",
+    "Affordable Housing for Creatives",
+    "Designing Artist Run Spaces",
+    "Platform Cooperatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of alternative funding for creatives",
+    "inadequate access to affordable health care for artists",
+    "inadequate access to affordable housing for creatives",
+    "insufficient community support systems for artists",
+    "limited artist-run spaces"
+  ],
+  "solutions_proposed": [
+    "forming alternative funding and tactics to reappropriate resources for creatives",
+    "establishing artist collectives and cooperatives",
+    "setting up a community-supported artist system",
+    "creating artists foraging and free food programs",
+    "providing affordable health care for artists",
+    "providing affordable housing for creatives",
+    "designing artist-run spaces",
+    "developing platform cooperatives"
+  ],
+  "cached_at": "2025-06-21T00:27:26.824157",
+  "cache_key": "de3b071cfc161453e9372556f5ad71b3cdc56e45ab580529e0ec1faf5553872f",
+  "model": "gpt-41"
+}

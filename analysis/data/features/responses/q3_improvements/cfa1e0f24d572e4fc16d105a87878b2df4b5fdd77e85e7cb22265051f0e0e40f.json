@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant structure",
+    "funding accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Laddered grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Laddered grants"
+  ],
+  "cached_at": "2025-06-21T01:11:11.072385",
+  "cache_key": "cfa1e0f24d572e4fc16d105a87878b2df4b5fdd77e85e7cb22265051f0e0e40f",
+  "model": "gpt-41"
+}

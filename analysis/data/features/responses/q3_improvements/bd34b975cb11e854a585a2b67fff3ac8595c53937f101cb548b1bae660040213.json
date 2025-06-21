@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding criteria based on artistic merit",
+    "importance of creative vision in funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "awarded solely based on creative vision",
+    "artistic merit"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding based solely on creative vision and artistic merit"
+  ],
+  "solutions_proposed": [
+    "Some project or org funding should be awarded solely based on creative vision and artistic merit"
+  ],
+  "cached_at": "2025-06-21T01:01:47.939474",
+  "cache_key": "bd34b975cb11e854a585a2b67fff3ac8595c53937f101cb548b1bae660040213",
+  "model": "gpt-41"
+}

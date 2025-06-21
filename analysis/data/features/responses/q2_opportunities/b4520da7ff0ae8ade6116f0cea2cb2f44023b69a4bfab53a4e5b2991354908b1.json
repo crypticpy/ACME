@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordability of cultural spaces",
+    "support for small business owners",
+    "need for workshop/event venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more affordable workshop/event spaces",
+    "help small business owners"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable workshop/event spaces"
+  ],
+  "solutions_proposed": [
+    "provide more affordable workshop/event spaces"
+  ],
+  "cached_at": "2025-06-21T00:33:00.645593",
+  "cache_key": "b4520da7ff0ae8ade6116f0cea2cb2f44023b69a4bfab53a4e5b2991354908b1",
+  "model": "gpt-41"
+}

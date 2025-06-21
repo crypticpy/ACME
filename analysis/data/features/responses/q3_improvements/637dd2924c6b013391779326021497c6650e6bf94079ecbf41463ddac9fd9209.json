@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding criteria based on group quality",
+    "community value as a funding metric"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "quality of the groups",
+    "value they add to the Austin community",
+    "should be a factor in who gets funded"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Include quality of groups and their community value as funding criteria"
+  ],
+  "cached_at": "2025-06-21T00:58:04.481208",
+  "cache_key": "637dd2924c6b013391779326021497c6650e6bf94079ecbf41463ddac9fd9209",
+  "model": "gpt-41"
+}

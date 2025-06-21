@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "venue rental cost burden",
+    "need for accessibility funding",
+    "grant program design"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "grant to support venue rentals",
+    "HUGE budget burden",
+    "grants specifically to cover the costs of accessessibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venue rentals as a HUGE budget burden",
+    "costs of accessibility"
+  ],
+  "solutions_proposed": [
+    "grant to support venue rentals",
+    "grants specifically to cover the costs of accessibility"
+  ],
+  "cached_at": "2025-06-21T00:59:28.458240",
+  "cache_key": "fe5c5133857590303bc84ba7f0e6664c79558f12575dc05348906cc7d1f4c902",
+  "model": "gpt-41"
+}

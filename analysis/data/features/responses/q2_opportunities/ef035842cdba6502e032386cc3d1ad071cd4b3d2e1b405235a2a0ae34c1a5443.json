@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of fine art venues",
+    "impact of Big Medium closure",
+    "accessibility of drama productions",
+    "cost barriers",
+    "limited geographic distribution of events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the loss of Big Medium was a blow",
+    "greater accessibility to drama productions",
+    "cost and limited locations are major issues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "cost",
+    "limited locations"
+  ],
+  "solutions_proposed": [
+    "greater accessibility to drama productions"
+  ],
+  "cached_at": "2025-06-21T00:34:53.869625",
+  "cache_key": "ef035842cdba6502e032386cc3d1ad071cd4b3d2e1b405235a2a0ae34c1a5443",
+  "model": "gpt-41"
+}

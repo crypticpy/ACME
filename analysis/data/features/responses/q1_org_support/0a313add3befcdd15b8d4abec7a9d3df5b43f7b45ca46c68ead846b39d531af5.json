@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "cost barriers for audiences and organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "promote reasonable ticket prices",
+    "venue rental costs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high ticket prices",
+    "high venue rental costs"
+  ],
+  "solutions_proposed": [
+    "promote reasonable ticket prices",
+    "promote reasonable venue rental costs"
+  ],
+  "cached_at": "2025-06-20T10:24:23.496399",
+  "cache_key": "0a313add3befcdd15b8d4abec7a9d3df5b43f7b45ca46c68ead846b39d531af5",
+  "model": "gpt-41"
+}

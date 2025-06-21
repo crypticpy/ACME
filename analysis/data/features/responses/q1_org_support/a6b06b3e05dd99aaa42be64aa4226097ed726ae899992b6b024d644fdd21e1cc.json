@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Negative impact of funding restructure on arts organizations",
+    "Inconsistent and unclear panel feedback",
+    "Loss of artistic community and talent in Austin",
+    "Critique of funding priorities focused on 'communities experiencing the threat of erasure'",
+    "Desire for community-driven decision making",
+    "Criticism of using out-of-town consultants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "After the previous restructure, my arts organization has no longer been awarded any funding",
+    "The feedback is utterly inconsistent from the panels",
+    "I devoted countless hours for nothing",
+    "Austin cultural landscape feels post-apocalyptic",
+    "The funding restructure quite literally gutted the cultural ecosystem",
+    "There must be some way to restore some funding to artists",
+    "The prescribed pursuit of serving exclusively communities experiencing 'the threat of erasure' is wholly limiting",
+    "It might be better to listen to the community instead of hiring out-of-town consultant"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Loss of funding due to restructure",
+    "Inconsistent panel feedback",
+    "Funding priorities excluding certain artists",
+    "Decisions made by out-of-town consultants lacking local knowledge"
+  ],
+  "solutions_proposed": [
+    "Restore some funding to artists whose missions are to make performance",
+    "Listen to the community instead of hiring out-of-town consultants"
+  ],
+  "cached_at": "2025-06-20T10:45:04.330670",
+  "cache_key": "a6b06b3e05dd99aaa42be64aa4226097ed726ae899992b6b024d644fdd21e1cc",
+  "model": "gpt-41"
+}

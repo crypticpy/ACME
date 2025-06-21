@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of persons of colour",
+    "representation of marginalized communities",
+    "support for low economic communities",
+    "accessibility for persons with disabilities",
+    "representation within the queer community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More inclusion to persons of colour",
+    "marginalized communities",
+    "low economic communities",
+    "persons w/disabilities",
+    "all representations within the queer community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusion for persons of colour",
+    "lack of representation for marginalized communities",
+    "insufficient support for low economic communities",
+    "inaccessibility for persons with disabilities",
+    "lack of representation within the queer community"
+  ],
+  "solutions_proposed": [
+    "More inclusion to persons of colour",
+    "More inclusion to marginalized communities",
+    "More inclusion to low economic communities",
+    "More inclusion to persons with disabilities",
+    "More inclusion to all representations within the queer community"
+  ],
+  "cached_at": "2025-06-21T01:14:18.271926",
+  "cache_key": "9a68ef445758be2538ba2c49c88828e10612ed046f9d5a9adc2438a21df1abc0",
+  "model": "gpt-41"
+}

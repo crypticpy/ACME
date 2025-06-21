@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "inconsistent City funding for arts",
+    "damage to arts sector from funding missteps",
+    "disproportionate support for new programs and for-profit businesses",
+    "neglect of established cornerstone programs",
+    "concern about City funding outside Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the most prominent barrier is inconsistent City funding over the last several years",
+    "arts nonprofits grow their impact and create more jobs for artists",
+    "my support has only helped them replace lost City support",
+    "the arts sector has been damaged by City funding missteps",
+    "brand new programs and for-profit businesses got large sums while cornerstone foundairtonal program like Zilker Theatre and the East Austin Studio Tour got nothing",
+    "is it true that the City of Austin funded programs taking place in round Rock and Pflugerville?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Zilker Theatre",
+    "East Austin Studio Tour"
+  ],
+  "barriers_identified": [
+    "inconsistent City funding",
+    "replacement of lost City support rather than growth",
+    "funding missteps damaging the sector",
+    "cornerstone programs not receiving funding",
+    "City funding allocated to programs outside Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:56.141227",
+  "cache_key": "46759d328b7471963e806f4d450b4085fa7ff522771f1a3f6573e1eebc103e52",
+  "model": "gpt-41"
+}

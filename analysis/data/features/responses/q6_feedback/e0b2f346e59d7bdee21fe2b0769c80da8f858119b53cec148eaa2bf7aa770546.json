@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "support for ACME",
+    "interest in a unified arts department",
+    "importance of listening to the community",
+    "positive feedback on survey process"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I support ACME",
+    "all the possibilities of a unified arts department",
+    "Listening is key",
+    "you have done a good job with this survey"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:09:56.726788",
+  "cache_key": "e0b2f346e59d7bdee21fe2b0769c80da8f858119b53cec148eaa2bf7aa770546",
+  "model": "gpt-41"
+}

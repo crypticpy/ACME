@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited city support for visual artists",
+    "lack of career development opportunities",
+    "narrow focus of AIPP on outdoor art forms",
+    "exclusion of certain visual art mediums"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "very few opportunities for visual artists to get city support",
+    "expanding their careers and visibility in the art world",
+    "AIPP seems to only be mostly for OUTDOOR vehicles like sculpture and murals",
+    "posing a challenge to myself as a visual artist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "limited city support for visual artists",
+    "AIPP focus on outdoor art forms",
+    "lack of opportunities for non-sculpture/mural visual artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:58:11.837512",
+  "cache_key": "fb30ce4faf8c506123ed377e79fde87723402b1cef795431c6de304e0aa3aa4d",
+  "model": "gpt-41"
+}

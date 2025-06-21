@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding for public concerts",
+    "importance of marketing for cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding for public concerts",
+    "more marketing campaigns"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for public concerts",
+    "lack of marketing for cultural events"
+  ],
+  "solutions_proposed": [
+    "increase funding for public concerts",
+    "implement more marketing campaigns"
+  ],
+  "cached_at": "2025-06-20T10:41:57.931906",
+  "cache_key": "e4cf622273eb71311d646ccb06f4b9bf94077d674b5f8efe115b72c3f910a0b1",
+  "model": "gpt-41"
+}

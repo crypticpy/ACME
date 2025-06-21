@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for both emerging and established artists",
+    "interest in studio tour events",
+    "desire for inclusive cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Events like East/West Austin Studio tours",
+    "support both emerging and established artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "East Austin Studio Tour",
+    "West Austin Studio Tour"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More events like East/West Austin Studio tours that support both emerging and established artists"
+  ],
+  "cached_at": "2025-06-21T00:34:47.268549",
+  "cache_key": "fc0754a41aa90d37eb856f13e143049ca0fb1535c1788a14a1cf1e5670792d83",
+  "model": "gpt-41"
+}

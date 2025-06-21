@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "backlash against grant program changes",
+    "support for thoughtful adjustment process",
+    "need for structural power shift",
+    "concern about premature program termination"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "incredible pushback about the changes to the grants program",
+    "people need to get with the times",
+    "the process of making those adjustments was really thoughtful",
+    "don\u2019t think y\u2019all should let the backlash kill these programs",
+    "usher in the structural power shift they were designed to move toward"
+  ],
+  "intent": "advocacy_support",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "community backlash to program changes"
+  ],
+  "solutions_proposed": [
+    "do not let backlash stop the new programs before they have a chance"
+  ],
+  "cached_at": "2025-06-21T02:10:12.097845",
+  "cache_key": "1ac84b034f757fb3ea4d852e732e3d23c59476893deafb05cc903d8ec04a69c7",
+  "model": "gpt-41"
+}

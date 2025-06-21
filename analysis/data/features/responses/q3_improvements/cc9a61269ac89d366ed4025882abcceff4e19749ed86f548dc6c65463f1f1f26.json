@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding amounts",
+    "desire for enhanced marketing support from City of Austin",
+    "resource allocation to grantees"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Bigger funding amounts",
+    "More marketing resources from COA to grantees"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding amounts",
+    "lack of marketing resources for grantees"
+  ],
+  "solutions_proposed": [
+    "Increase funding amounts",
+    "Provide more marketing resources from COA to grantees"
+  ],
+  "cached_at": "2025-06-21T01:10:58.322991",
+  "cache_key": "cc9a61269ac89d366ed4025882abcceff4e19749ed86f548dc6c65463f1f1f26",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for diverse cultures",
+    "family friendly events",
+    "avant-garde artists",
+    "geographic inclusion of North Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "supporting diverse cultures",
+    "family friendly events",
+    "avante guard artists",
+    "including North Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusion of North Austin"
+  ],
+  "solutions_proposed": [
+    "focus on supporting diverse cultures",
+    "increase family friendly events",
+    "support avant-garde artists",
+    "include North Austin in cultural programming"
+  ],
+  "cached_at": "2025-06-21T00:33:30.821953",
+  "cache_key": "007fba14eeeb94a1f69ac80bd076137e5cd714c9fb2d68b8d3201bf37f9546ab",
+  "model": "gpt-41"
+}

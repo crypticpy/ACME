@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "taking suggestions from organizations and leaders seriously",
+    "encouraging community outreach",
+    "incentivizing engagement with community events",
+    "gathering community feedback"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "take their suggestions seriously",
+    "encourage/incentivize them to focus more on community outreach",
+    "gathering community feedback",
+    "attending community events",
+    "helping to spread word about community events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "suggestions from organizations and leaders not being taken seriously",
+    "insufficient focus on community outreach"
+  ],
+  "solutions_proposed": [
+    "take suggestions from organizations and cultural leaders seriously",
+    "encourage or incentivize organizations and leaders to focus more on community outreach",
+    "gather community feedback",
+    "attend community events",
+    "help spread word about community events"
+  ],
+  "cached_at": "2025-06-20T01:11:48.133357",
+  "cache_key": "911dbea0da73cac059271ccd37da0cb8538a127d27d6591def0cec0ec4f64c62",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of literary events",
+    "cost-free cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Free literary events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of literary events"
+  ],
+  "solutions_proposed": [
+    "Increase free literary events"
+  ],
+  "cached_at": "2025-06-21T00:52:52.451659",
+  "cache_key": "ad015f4791648e6d18e1ff15f9416821ddce020cc5cd878efd6759c0adae6d13",
+  "model": "gpt-41"
+}

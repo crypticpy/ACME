@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for cultural heritage programming",
+    "interest in historic programs",
+    "representation of diverse backgrounds in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cultural heritage/historic programs",
+    "arts representing wide and diverse backgrounds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase cultural heritage/historic programs",
+    "increase arts representing wide and diverse backgrounds"
+  ],
+  "cached_at": "2025-06-21T00:49:36.733771",
+  "cache_key": "27434789136527cc2a6d35063d2332e93f675a59d29d81886e4c5267601bcbdb",
+  "model": "gpt-41"
+}

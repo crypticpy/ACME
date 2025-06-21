@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for localized cultural programming",
+    "Barriers due to transportation and parking",
+    "Growth and demographic change in Austin",
+    "Event size and accessibility concerns",
+    "Staffing and resource needs for ACME",
+    "Equitable access across city regions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "shaking things up and looking again at our population",
+    "events have become too unwieldy, too huge",
+    "transportation and parking is a gigantic barrier",
+    "I\u2019m willing to pay ticket prices if I can get to an event, but sometimes I simply can\u2019t get there",
+    "ACME needs more paid positions",
+    "paid positions should become more localized",
+    "create venues all over - especially in the current venue-desert areas",
+    "provide amazing transportation to and from"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Transportation and parking difficulties",
+    "Event size deterring participation",
+    "Lack of venues in certain areas",
+    "High cost of transportation (Uber) in addition to ticket prices"
+  ],
+  "solutions_proposed": [
+    "More paid positions at ACME",
+    "Localize staff and programming by city region (South, North, East, West Austin)",
+    "Create venues in venue-desert areas",
+    "Improve transportation options to and from events"
+  ],
+  "cached_at": "2025-06-21T02:12:00.613613",
+  "cache_key": "a1498e27cfc282c6cd6f7c129fae1a35fc8a78815544020e9cbd4f37dd0bdac1",
+  "model": "gpt-41"
+}

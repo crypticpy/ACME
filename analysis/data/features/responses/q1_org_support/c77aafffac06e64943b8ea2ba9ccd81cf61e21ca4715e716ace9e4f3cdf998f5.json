@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Concerns about HOT tax funding administration",
+    "Tourism as a funding qualification priority",
+    "Vagueness of current funding rubric",
+    "Impact on legacy organizations and artists",
+    "Need for inclusion of multicultural organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "address how the HOT tax is administered",
+    "current system no longer directly addresses tourism",
+    "current rubric is vague",
+    "legacy organizations and artists... shrink or even dissipate",
+    "opportunity... to create a new process",
+    "encompass legacy art organizations",
+    "support more opportunities for multicultural artistic organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Cultural Arts HOT tax funding",
+    "COA Cultural Arts division"
+  ],
+  "barriers_identified": [
+    "Vague funding rubric",
+    "Current system not prioritizing tourism",
+    "Legacy organizations and artists losing support"
+  ],
+  "solutions_proposed": [
+    "Create a new process for HOT funds that encompasses legacy art organizations and supports more opportunities for multicultural artistic organizations"
+  ],
+  "cached_at": "2025-06-20T10:43:34.077477",
+  "cache_key": "c77aafffac06e64943b8ea2ba9ccd81cf61e21ca4715e716ace9e4f3cdf998f5",
+  "model": "gpt-41"
+}

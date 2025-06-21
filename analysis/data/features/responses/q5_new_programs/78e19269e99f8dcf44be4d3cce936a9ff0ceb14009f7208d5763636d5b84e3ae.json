@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist professional development and growth",
+    "transparency in city funding and income generation",
+    "expansion of services for artists",
+    "equitable grant allocation across art forms",
+    "competition for limited opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "programs that align with an artist\u2019s growth",
+    "provide transparency on how city funds can contribute to generating additional income for self-sufficiency",
+    "expansion of available services",
+    "grants or funds allocated towards artists from various art forms, including music and performance art",
+    "rather than requiring artists to compete with each other for limited opportunities",
+    "all of us deserve equal chances to participate"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists competing with each other for limited opportunities",
+    "lack of transparency on how city funds contribute to income",
+    "insufficient support for diverse art forms"
+  ],
+  "solutions_proposed": [
+    "programs that align with artist growth",
+    "greater transparency on city funding and income generation",
+    "expansion of available services",
+    "grants or funds allocated to various art forms without competition among artists",
+    "ensuring equal chances for participation"
+  ],
+  "cached_at": "2025-06-21T01:59:55.337928",
+  "cache_key": "78e19269e99f8dcf44be4d3cce936a9ff0ceb14009f7208d5763636d5b84e3ae",
+  "model": "gpt-41"
+}

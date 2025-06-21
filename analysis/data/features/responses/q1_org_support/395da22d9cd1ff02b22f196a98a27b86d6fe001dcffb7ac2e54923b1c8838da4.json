@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "limited grant opportunities for filmmakers",
+    "overreliance on a single grant provider (AFS)",
+    "need for representation of local film communities",
+    "lack of grant writing support for filmmakers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Support more film projects that represent the Austin, and surrounding, film communities",
+    "AFS shouldn\u2019t be the only local provider of grants",
+    "provide more grant writing workshops for filmmakers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AFS"
+  ],
+  "barriers_identified": [
+    "limited access to grants for filmmakers",
+    "lack of diversity in grant providers",
+    "insufficient grant writing support"
+  ],
+  "solutions_proposed": [
+    "Support more film projects that represent the Austin, and surrounding, film communities",
+    "Expand grant opportunities beyond AFS",
+    "Provide more grant writing workshops for filmmakers"
+  ],
+  "cached_at": "2025-06-20T10:34:48.116035",
+  "cache_key": "395da22d9cd1ff02b22f196a98a27b86d6fe001dcffb7ac2e54923b1c8838da4",
+  "model": "gpt-41"
+}

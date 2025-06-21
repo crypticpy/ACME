@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for interim support during organizational changes",
+    "concern about funding continuity",
+    "suggestion for interim funding process"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "We need support while these large changes are being made",
+    "create an interim funding process",
+    "chance to access funding for next season"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding access during organizational changes"
+  ],
+  "solutions_proposed": [
+    "create an interim funding process"
+  ],
+  "cached_at": "2025-06-21T02:15:43.015677",
+  "cache_key": "c411aeadf0461696d735ebf58dce4fa67e8ae0b81d847acf1dc04569e041eb06",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "panelist training and competency",
+    "insufficient support for artistic venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Ill-trained panelists",
+    "lack of support for artistic venues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Ill-trained panelists",
+    "lack of support for artistic venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:11.868021",
+  "cache_key": "89875717dd6891e14d12fb3e07c469c0581241e8a8017370cda7455c3ac1bd16",
+  "model": "gpt-41"
+}

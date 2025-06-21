@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "declining pay for gigs",
+    "venue closures",
+    "impact of gentrification on cultural sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Gigs pay less and less in Austin",
+    "Venues closing",
+    "Gentrification"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "declining compensation for artistic work",
+    "loss of performance venues",
+    "displacement due to gentrification"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:33.515533",
+  "cache_key": "55b44fed4c0f81616a0247fb2d9267223df300e4f9ff4216b9af8e66bbfec0b0",
+  "model": "gpt-41"
+}

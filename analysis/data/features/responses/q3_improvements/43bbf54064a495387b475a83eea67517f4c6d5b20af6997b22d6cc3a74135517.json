@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism in selection process",
+    "racial inequity in access",
+    "lack of equal opportunity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Equal opportunities for everyone",
+    "people who know people only get selected",
+    "you mostly have to be white"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "nepotism or insider selection",
+    "racial bias in selection"
+  ],
+  "solutions_proposed": [
+    "Equal opportunities for everyone"
+  ],
+  "cached_at": "2025-06-21T01:17:52.985931",
+  "cache_key": "43bbf54064a495387b475a83eea67517f4c6d5b20af6997b22d6cc3a74135517",
+  "model": "gpt-41"
+}

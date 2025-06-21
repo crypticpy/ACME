@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of centralized information",
+    "difficulty finding support resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "central knowledge base",
+    "learn more about what support exists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "no central knowledge base for support information"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:41.585197",
+  "cache_key": "efb2e6c99ff7a4218d358e1588aade7b5f7df125816dcbfd1abe7477069142b1",
+  "model": "gpt-41"
+}

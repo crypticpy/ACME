@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient support for medium to large organizations",
+    "reliance on unreliable alternative funding",
+    "inadequacy of current grant programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "don't provide adequate support for medium to large sized cultural organizations",
+    "my org having to seek alternate forms of funding",
+    "has proved unreliable"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "inadequate support for medium to large organizations",
+    "need to seek unreliable alternate funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:10:27.444726",
+  "cache_key": "3cd6f59d0f91655195b46659b9fecc4f441568fd09599a14baaf0a23e18b47c0",
+  "model": "gpt-41"
+}

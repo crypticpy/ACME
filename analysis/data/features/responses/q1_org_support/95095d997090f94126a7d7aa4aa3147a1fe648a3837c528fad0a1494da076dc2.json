@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial accessibility for audiences",
+    "support for first-time event participation",
+    "organizational assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "provide tickets, passes",
+    "assist the organizations",
+    "easy to free experience for their first event"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of attending events",
+    "difficulty for organizations to offer free or easy access to first events"
+  ],
+  "solutions_proposed": [
+    "provide tickets, passes",
+    "assist organizations in offering an easy to free experience for their first event"
+  ],
+  "cached_at": "2025-06-20T10:43:47.074593",
+  "cache_key": "95095d997090f94126a7d7aa4aa3147a1fe648a3837c528fad0a1494da076dc2",
+  "model": "gpt-41"
+}

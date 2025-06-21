@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "local artist representation",
+    "community improvement through arts",
+    "diversity in performing arts",
+    "support for residents' creative visions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "strong variety from people who live and work in Austin",
+    "have a vision for making the community a better place",
+    "any and all types of performing arts and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support a strong variety from people who live and work in Austin and have a vision for making the community a better place"
+  ],
+  "cached_at": "2025-06-21T00:46:49.083265",
+  "cache_key": "4998e3fc205ee6f29745102ffb4d089e715c2c9cdc3f2e2863277c5e07a034c9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,103 @@
+name: Run Analysis Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      session_id:
+        description: 'Session ID for the analysis run'
+        required: false
+        type: string
+      
+env:
+  PYTHON_VERSION: '3.12'
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+    
+    - name: Install Poetry
+      uses: snok/install-poetry@v1
+      with:
+        virtualenvs-create: true
+        virtualenvs-in-project: true
+    
+    - name: Cache Poetry dependencies
+      uses: actions/cache@v3
+      with:
+        path: analysis/.venv
+        key: ${{ runner.os }}-poetry-analysis-${{ hashFiles('analysis/poetry.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-poetry-analysis-
+    
+    - name: Install dependencies
+      working-directory: ./analysis
+      run: poetry install --no-interaction
+    
+    - name: Set up environment
+      working-directory: ./analysis
+      run: |
+        cp .env.example .env
+        # Note: In a real deployment, you'd use GitHub Secrets for the API key
+        # echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
+    
+    - name: Copy data files
+      run: |
+        mkdir -p analysis/data/raw
+        # Copy data files if they exist in the repo
+        if [ -d "NEW_Data" ]; then
+          cp NEW_Data/*.xlsx analysis/data/raw/ || true
+        fi
+    
+    - name: Run analysis pipeline
+      working-directory: ./analysis
+      run: |
+        SESSION_ID="${{ github.event.inputs.session_id || format('gh_{0}_{1}', github.run_number, github.run_attempt) }}"
+        poetry run python run_analysis.py run-analysis --session-id "$SESSION_ID"
+      continue-on-error: true
+    
+    - name: Upload analysis results
+      uses: actions/upload-artifact@v3
+      with:
+        name: analysis-results-${{ github.run_number }}
+        path: |
+          analysis/data/results/
+          analysis/data/audit/
+          analysis/logs/
+        retention-days: 30
+    
+    - name: Generate summary
+      if: always()
+      working-directory: ./analysis
+      run: |
+        echo "## Analysis Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        # Check if results exist
+        if [ -d "data/results" ]; then
+          echo "✅ Analysis completed successfully" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Find latest results
+          LATEST=$(ls -td data/results/session_* | head -1)
+          if [ -n "$LATEST" ]; then
+            echo "### Results Location" >> $GITHUB_STEP_SUMMARY
+            echo "- Session: \`$(basename $LATEST)\`" >> $GITHUB_STEP_SUMMARY
+            
+            # Count files
+            echo "- Files generated: $(find $LATEST -type f | wc -l)" >> $GITHUB_STEP_SUMMARY
+          fi
+        else
+          echo "❌ Analysis failed or incomplete" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Artifacts" >> $GITHUB_STEP_SUMMARY
+        echo "Analysis results have been saved as artifacts and will be available for 30 days." >> $GITHUB_STEP_SUMMARY

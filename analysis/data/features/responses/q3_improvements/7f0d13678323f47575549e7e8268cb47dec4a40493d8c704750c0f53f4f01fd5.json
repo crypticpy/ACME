@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Skepticism about effectiveness of grants",
+    "Need for stability in cultural funding",
+    "High property taxes as a burden for creatives",
+    "Perceived inequity in tax policy (Tesla vs. creatives)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I don't know if grants are the right answer",
+    "We need stability",
+    "not taking or refunding these people's massive property taxes",
+    "If it's okay to give Tesla tax breaks it should be okay to give the creative soul of Austin a tax break"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "massive property taxes",
+    "lack of stability in funding"
+  ],
+  "solutions_proposed": [
+    "not taking or refunding property taxes for creatives",
+    "providing tax breaks to the creative community"
+  ],
+  "cached_at": "2025-06-21T00:56:53.302505",
+  "cache_key": "7f0d13678323f47575549e7e8268cb47dec4a40493d8c704750c0f53f4f01fd5",
+  "model": "gpt-41"
+}

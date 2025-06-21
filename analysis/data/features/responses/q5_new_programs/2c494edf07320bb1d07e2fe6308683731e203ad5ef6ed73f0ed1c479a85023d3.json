@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for legal support",
+    "marketing skill development",
+    "networking opportunities",
+    "collaborative creative spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "legal counsel",
+    "marketing training",
+    "networking",
+    "creative thinktanks or collective brainstorming spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer legal counsel",
+    "provide marketing training",
+    "create networking opportunities",
+    "establish creative thinktanks or collective brainstorming spaces"
+  ],
+  "cached_at": "2025-06-21T01:59:12.316168",
+  "cache_key": "2c494edf07320bb1d07e2fe6308683731e203ad5ef6ed73f0ed1c479a85023d3",
+  "model": "gpt-41"
+}

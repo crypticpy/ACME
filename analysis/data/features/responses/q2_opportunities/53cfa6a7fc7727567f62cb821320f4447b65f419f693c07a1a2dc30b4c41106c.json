@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more street art",
+    "support for music culture",
+    "platforms for showcasing local culture",
+    "need for institutional support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I'd love to see",
+    "street art music and culture",
+    "given a platform",
+    "showcased and supported"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of platform for street art, music, and culture"
+  ],
+  "solutions_proposed": [
+    "provide a platform to showcase and support street art, music, and culture"
+  ],
+  "cached_at": "2025-06-21T00:36:05.012311",
+  "cache_key": "53cfa6a7fc7727567f62cb821320f4447b65f419f693c07a1a2dc30b4c41106c",
+  "model": "gpt-41"
+}

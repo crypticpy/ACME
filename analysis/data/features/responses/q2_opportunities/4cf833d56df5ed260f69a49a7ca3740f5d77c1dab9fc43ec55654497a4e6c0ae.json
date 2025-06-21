@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in choral performance",
+    "desire for specific performing arts genres"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Choral performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More choral performance opportunities"
+  ],
+  "cached_at": "2025-06-21T00:51:03.646906",
+  "cache_key": "4cf833d56df5ed260f69a49a7ca3740f5d77c1dab9fc43ec55654497a4e6c0ae",
+  "model": "gpt-41"
+}

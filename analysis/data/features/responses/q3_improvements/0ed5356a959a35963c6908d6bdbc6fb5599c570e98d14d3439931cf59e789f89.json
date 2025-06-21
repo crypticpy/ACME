@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "redistribution of funding",
+    "increased access for artists",
+    "smaller grant sizes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "divide the awards up into smaller dollar amounts",
+    "help a larger number of artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited number of artists benefit from current award structure"
+  ],
+  "solutions_proposed": [
+    "divide the awards up into smaller dollar amounts"
+  ],
+  "cached_at": "2025-06-21T01:19:16.899209",
+  "cache_key": "0ed5356a959a35963c6908d6bdbc6fb5599c570e98d14d3439931cf59e789f89",
+  "model": "gpt-41"
+}

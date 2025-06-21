@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "desire for innovation",
+    "preference for variety",
+    "interest in ongoing change"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "always new things"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer always new things"
+  ],
+  "cached_at": "2025-06-21T01:18:56.074716",
+  "cache_key": "edbdcd70f304d1cf4c566c2249166282b0bbd8dbbd77714c00df930d08e568b9",
+  "model": "gpt-41"
+}

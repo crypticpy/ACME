@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordable access for artists",
+    "multidisciplinary performing arts venues",
+    "community-oriented cultural spaces",
+    "historical reference to Rude Mechs Off Center"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "multidisciplinary performing arts venue",
+    "offered cheap or free to all artists",
+    "like Rude Mechs Off Center back in the day"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Rude Mechs Off Center"
+  ],
+  "barriers_identified": [
+    "lack of affordable or free venues for artists"
+  ],
+  "solutions_proposed": [
+    "create a multidisciplinary performing arts venue that is cheap or free for all artists"
+  ],
+  "cached_at": "2025-06-21T00:35:31.760986",
+  "cache_key": "c0ee69614fe3ad7d1e51dee26a650b9435f1e42bb534a72d9713569aa6058b61",
+  "model": "gpt-41"
+}

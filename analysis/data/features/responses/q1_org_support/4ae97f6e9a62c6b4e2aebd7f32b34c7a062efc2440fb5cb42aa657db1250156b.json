@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable resource allocation",
+    "support for emerging leaders",
+    "balance between established and new organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Allocate funding, resources, and time",
+    "consider emerging leaders and organizations",
+    "alongside with established ones"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consideration for emerging leaders and organizations"
+  ],
+  "solutions_proposed": [
+    "Allocate funding, resources, and time to consider emerging leaders and organizations alongside with established ones"
+  ],
+  "cached_at": "2025-06-20T10:38:08.565529",
+  "cache_key": "4ae97f6e9a62c6b4e2aebd7f32b34c7a062efc2440fb5cb42aa657db1250156b",
+  "model": "gpt-41"
+}

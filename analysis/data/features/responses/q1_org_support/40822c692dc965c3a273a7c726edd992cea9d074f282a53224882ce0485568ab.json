@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "underserved communities lacking access to arts venues",
+    "lack of representation for Asian-American and Indian origin populations",
+    "need for targeted outreach to specific cultural groups",
+    "support for organizations serving underrepresented communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Tap into underserved communities",
+    "underserved in terms of access to performing and visual arts venues",
+    "underserved in terms of representation",
+    "growing Asian-American and Indian origin population",
+    "reach out to cultural organizations within these communities",
+    "provide greater support to arts and cultural organizations serving these communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to performing and visual arts venues",
+    "lack of representation for certain communities"
+  ],
+  "solutions_proposed": [
+    "reach out to cultural organizations within these communities",
+    "provide greater support to arts and cultural organizations serving these communities"
+  ],
+  "cached_at": "2025-06-20T01:14:16.697295",
+  "cache_key": "40822c692dc965c3a273a7c726edd992cea9d074f282a53224882ce0485568ab",
+  "model": "gpt-41"
+}

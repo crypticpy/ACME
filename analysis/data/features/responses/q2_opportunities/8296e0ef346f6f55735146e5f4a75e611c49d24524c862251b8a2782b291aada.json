@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more family-oriented events",
+    "interest in large-scale ambitious cultural events",
+    "preference for ongoing event series in unconventional venues",
+    "accessibility through low-cost tickets",
+    "spontaneity and discovery in cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More family events",
+    "more large scale ambitious events",
+    "more on going series in small and unusual spaces",
+    "venues you knew you could wander into and see something new and maybe amazing",
+    "low cost ticket"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of ongoing series in small and unusual spaces",
+    "limited low-cost ticket options",
+    "insufficient venues for spontaneous cultural discovery"
+  ],
+  "solutions_proposed": [
+    "increase family events",
+    "host more large-scale ambitious events",
+    "develop ongoing series in small and unusual spaces",
+    "establish venues with regular, affordable, and novel programming"
+  ],
+  "cached_at": "2025-06-21T00:32:01.611206",
+  "cache_key": "8296e0ef346f6f55735146e5f4a75e611c49d24524c862251b8a2782b291aada",
+  "model": "gpt-41"
+}

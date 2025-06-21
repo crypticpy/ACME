@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about available services",
+    "awareness barriers to cultural support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Not knowing what services are available"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Not knowing what services are available"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:23.777898",
+  "cache_key": "2c2417bbcf0807a77990998905ce8f582e2349564e26acfd7f8fc58833c49def",
+  "model": "gpt-41"
+}

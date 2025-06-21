@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of smaller nonprofits",
+    "need for research and coordination",
+    "safe and secure creative spaces",
+    "expanding opportunities and resources for creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "actually researching and coordinating with the smaller nonprofits",
+    "providing safe and secure spaces",
+    "plethora of opportunities and resources for creatives, innovators, or change-makers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of research and coordination with smaller nonprofits",
+    "insufficient safe and secure spaces for creatives"
+  ],
+  "solutions_proposed": [
+    "researching and coordinating with smaller nonprofits",
+    "providing safe and secure spaces",
+    "offering a plethora of opportunities and resources for creatives, innovators, or change-makers"
+  ],
+  "cached_at": "2025-06-20T10:25:58.044200",
+  "cache_key": "e9fabdb3b6ce05e664b3d63aa53c8f3cb1a846585b6f6e2c9f372cd7fd564c1d",
+  "model": "gpt-41"
+}

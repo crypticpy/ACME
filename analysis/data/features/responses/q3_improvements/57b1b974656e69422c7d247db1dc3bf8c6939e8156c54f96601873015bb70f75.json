@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "modeling Austin's programs after TCA",
+    "prioritizing organizations with proven track records",
+    "community-building through arts funding",
+    "long-term support for established organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "should be modeled after the TCA's",
+    "fund the organizations that have a proven track record",
+    "building communities and supporting communities",
+    "bringing arts experiences to the community for years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "TCA"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Model Austin's cultural funding programs after the TCA's",
+    "Fund organizations with a proven track record of community building and arts support"
+  ],
+  "cached_at": "2025-06-21T01:06:12.270315",
+  "cache_key": "57b1b974656e69422c7d247db1dc3bf8c6939e8156c54f96601873015bb70f75",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for financial support of arts",
+    "importance of funding for cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funded ones"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [
+    "increase funding for arts and cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:47:44.761258",
+  "cache_key": "4e5beef759d162af649986009dac46c2437cfa6a080c200fa490011b95eedd31",
+  "model": "gpt-41"
+}

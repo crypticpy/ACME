@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient advance outreach to diverse communities",
+    "lack of culturally competent and bilingual trainers",
+    "inadequate language accessibility in program materials and surveys",
+    "superficial approaches to diversity and inclusion",
+    "poor timing and communication about deadlines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "outreach, training, and planning for diverse communities to happen months ahead of the deadlines",
+    "not see information sessions and promotion one week before the due date",
+    "competent trainers who are bilingual and can understand the community",
+    "instead of just hiring interpreters at the last minute",
+    "trainers who do not understand the struggles and the artist's culture",
+    "WHY is this survey not available in Spanish or Vietnamese?",
+    "It is an afterthought to have a one-liner catch phrase to cover diversity",
+    "\"if you have issues, please email me to ask for help\". That is not OUTREACH."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "late outreach and communication",
+    "lack of advance information sessions",
+    "trainers lacking cultural competence",
+    "last-minute use of interpreters",
+    "program materials and surveys not available in Spanish or Vietnamese",
+    "superficial diversity efforts"
+  ],
+  "solutions_proposed": [
+    "outreach, training, and planning for diverse communities to happen months ahead of the deadlines",
+    "use competent, bilingual trainers who understand the community",
+    "make surveys and materials available in Spanish and Vietnamese",
+    "move beyond superficial diversity statements to real outreach"
+  ],
+  "cached_at": "2025-06-21T00:54:03.064427",
+  "cache_key": "15abfec62d2ae7d3b6e899542731290c4bec3d206b9881ba3a3388c85eba4608",
+  "model": "gpt-41"
+}

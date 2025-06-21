@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of dedicated support for women artists",
+    "comparison with other metropolitan areas",
+    "responsibility for gender equity in the arts",
+    "Texas and Austin's poor track record on women's support",
+    "need for specific funding streams for women"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "prioritize building dedicated programs that support women artists",
+    "deeply concerning that...there are currently no programs or funding streams specifically designed to uplift women in the arts",
+    "Austin lacks even a baseline commitment",
+    "Texas already has a poor track record when it comes to supporting women",
+    "Austin has an opportunity\u2014and responsibility\u2014to lead by example and correct this imbalance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "no programs or funding streams specifically designed to uplift women in the arts",
+    "Austin lacks even a baseline commitment to supporting women artists",
+    "Texas's poor track record in supporting women"
+  ],
+  "solutions_proposed": [
+    "prioritize building dedicated programs that support women artists",
+    "create funding streams specifically designed to uplift women in the arts"
+  ],
+  "cached_at": "2025-06-20T01:18:40.001931",
+  "cache_key": "b0d8fee305d41af5d6e84eaa03c47bfdaad1f0e4bbbdb97c550a6af81993cf0d",
+  "model": "gpt-41"
+}

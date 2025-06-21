@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about identity-based funding",
+    "preference for merit-based opportunities",
+    "perceived unfairness in current criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Opportunities based on merit",
+    "Not identity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding decisions based on identity rather than merit"
+  ],
+  "solutions_proposed": [
+    "base opportunities on merit instead of identity"
+  ],
+  "cached_at": "2025-06-21T01:14:09.586906",
+  "cache_key": "13365d21b21ee92b448db789e77392e9fb3653d5a76f6adae079cb3e27cc13ae",
+  "model": "gpt-41"
+}

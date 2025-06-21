@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "marketing support",
+    "venue preservation",
+    "affordability of ticket costs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support marketing",
+    "venue preservation",
+    "support for lower ticket costs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high ticket costs",
+    "lack of marketing support",
+    "venue preservation challenges"
+  ],
+  "solutions_proposed": [
+    "funding should support marketing",
+    "funding should support venue preservation",
+    "funding should support lower ticket costs"
+  ],
+  "cached_at": "2025-06-20T10:31:55.188535",
+  "cache_key": "5f1598eae87bc69a2a2ad29d10f0bb7fa7ce7fa0313d3e480f59dafb8e1b7c5b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "geographic barriers for North Austin residents",
+    "lack of visibility for opportunities",
+    "challenges for emerging artists",
+    "difficulty connecting to the arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "access (e.g. location)",
+    "someone located in north austin",
+    "visibility of opportunities",
+    "emerging artist here",
+    "not full time",
+    "struggling to figure out how to plug in"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "geographic location (North Austin)",
+    "lack of visibility of opportunities",
+    "difficulty for emerging/non-full-time artists to connect"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:51.264636",
+  "cache_key": "ca5e2c8a4d03b688a542ec4bae9528c6446b97e6dc6c6afb7c776e720fea4773",
+  "model": "gpt-41"
+}

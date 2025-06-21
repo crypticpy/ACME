@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased funding",
+    "affordable access to creative spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More funding",
+    "Affordable studio spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studio spaces"
+  ],
+  "solutions_proposed": [
+    "provide more funding",
+    "create affordable studio spaces"
+  ],
+  "cached_at": "2025-06-20T10:43:48.897739",
+  "cache_key": "ce479246e2c8b6384244412050f8451d2e3f88fffd1f23514203239a0a93bd83",
+  "model": "gpt-41"
+}

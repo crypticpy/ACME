@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for small scale and intimate events",
+    "preference for low key cultural experiences",
+    "loss of community-supported events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more small scale and intimate events",
+    "low key events like Sunday Sessions",
+    "I really wish they'd gotten enough support from the community to keep going"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Sunday Sessions"
+  ],
+  "barriers_identified": [
+    "lack of community support for sustaining events"
+  ],
+  "solutions_proposed": [
+    "increase support for small scale and intimate, low key events"
+  ],
+  "cached_at": "2025-06-21T00:46:15.785667",
+  "cache_key": "057e7bf7730abc4980acf4b19ce97a2ab9e4effb26c324b95a67a5aaded313b2",
+  "model": "gpt-41"
+}

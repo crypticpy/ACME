@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased communication",
+    "public solidarity during funding threats",
+    "use of social media for engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more updates on your social pages",
+    "showing solidarity in times of federal cuts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide more updates on social media",
+    "demonstrate solidarity during federal funding cuts"
+  ],
+  "cached_at": "2025-06-21T02:20:06.257113",
+  "cache_key": "a9da8c3f5360ccdf83b3e4ab0b77fdb189d5ce17ad5d031c75580e83b28325ef",
+  "model": "gpt-41"
+}

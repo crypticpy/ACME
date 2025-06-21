@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding funding for artists",
+    "providing free workshops",
+    "increasing opportunities for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "expand funding for artists",
+    "free workshops",
+    "opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "expand funding for artists",
+    "offer free workshops",
+    "increase opportunities"
+  ],
+  "cached_at": "2025-06-20T10:38:51.947555",
+  "cache_key": "8ddc09b46303a950930f18c338442fc22ad9058724eb408cd3fc7ec768e854f0",
+  "model": "gpt-41"
+}

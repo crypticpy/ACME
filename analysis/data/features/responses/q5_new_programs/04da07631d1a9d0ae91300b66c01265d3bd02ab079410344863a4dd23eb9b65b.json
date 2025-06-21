@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more diverse music genres",
+    "call for more geographically distributed events",
+    "concern about socioeconomic exclusivity",
+    "demand for free and accessible programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I want more street festivals",
+    "I want more hip hop",
+    "I want more blues",
+    "I want more small orchestras or concerts",
+    "I want more free events that aren't just downtown",
+    "The people that benefit most from those are wealthy people anyways"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "events concentrated downtown",
+    "benefits limited to wealthy people",
+    "lack of free events in other areas"
+  ],
+  "solutions_proposed": [
+    "offer more street festivals",
+    "increase hip hop programming",
+    "increase blues programming",
+    "increase small orchestra or concert offerings",
+    "provide more free events outside downtown"
+  ],
+  "cached_at": "2025-06-21T01:55:11.841794",
+  "cache_key": "04da07631d1a9d0ae91300b66c01265d3bd02ab079410344863a4dd23eb9b65b",
+  "model": "gpt-41"
+}

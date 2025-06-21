@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased film opportunities",
+    "technical work in media",
+    "expansion of media project roles"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Film opportunities for sure",
+    "Opportunities for technical work on various media projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase film opportunities",
+    "Create opportunities for technical work on media projects"
+  ],
+  "cached_at": "2025-06-21T00:41:56.268553",
+  "cache_key": "779fe429fc541331517e2b46fd37f4ac96e22eab331514c9cbbeabdf62c22bdf",
+  "model": "gpt-41"
+}

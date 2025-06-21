@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased outreach for public art opportunities",
+    "facilitating professional connections in the arts",
+    "support for emerging artists and students",
+    "paid internships as pathways into the arts community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more outreach to network for public art calls",
+    "more guided interactions helping people connect with art as a form of work",
+    "paid internship awards helping new students break into the arts community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach for public art opportunities",
+    "difficulty connecting with art as a professional pathway",
+    "limited access for new students to enter the arts community"
+  ],
+  "solutions_proposed": [
+    "more outreach to network for public art calls",
+    "more guided interactions helping people connect with art as a form of work",
+    "paid internship awards for new students"
+  ],
+  "cached_at": "2025-06-20T10:21:54.023218",
+  "cache_key": "0cbb27752e9aab5dccd6c10db52287505a4006eb40d1aee60aadb93ed66e2502",
+  "model": "gpt-41"
+}

@@ -1,0 +1,52 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "burdensome and time-consuming city processes",
+    "lack of transparency and mismanagement",
+    "community advocacy to protect funding",
+    "tension between music and broader arts funding",
+    "organizational capacity drain",
+    "exhaustion and frustration with city engagement",
+    "need for funding mechanisms beyond grants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "process continuously takes time from our organization",
+    "lack of transparency and mismanagement of the programs",
+    "community is fighting hard to ensure that the City of Austin does not lose access to HOT funds due to noncompliance",
+    "hyper involved to ensure the live music fund does not get swept into more funds for cultural arts",
+    "decades long divide around if arts and culture includes music",
+    "our capacity is put into the City's process, it is taken away from our own ability to build capacity",
+    "We are exhausted",
+    "it does not feel worth it to keep fighting for this",
+    "write off the City as a source for resources because you have not made it easy",
+    "its become a burden if being very honest",
+    "we need more than grants. Incentives, tax rebates, more innovative public private partnerships"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "live music fund",
+    "HOT funds"
+  ],
+  "barriers_identified": [
+    "burdensome and time-consuming city processes",
+    "lack of transparency",
+    "mismanagement of programs",
+    "organizational capacity diverted to city processes",
+    "exhaustion from ongoing advocacy",
+    "historical divide between music and other arts funding",
+    "grant funding insufficient for needs"
+  ],
+  "solutions_proposed": [
+    "incentives",
+    "tax rebates",
+    "more innovative public private partnerships"
+  ],
+  "cached_at": "2025-06-21T01:46:18.544581",
+  "cache_key": "0738e7894d84e6e4a89eba3a6c8be1af080df72ab1a7c14e29f664a5934cdf8f",
+  "model": "gpt-41"
+}

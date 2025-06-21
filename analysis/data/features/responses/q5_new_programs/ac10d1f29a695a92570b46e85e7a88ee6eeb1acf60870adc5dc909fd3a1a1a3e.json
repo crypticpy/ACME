@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding for artists",
+    "increased funding for musicians",
+    "city-supported financial support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more money for artists",
+    "more money for musicians",
+    "funded by the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for artists and musicians"
+  ],
+  "solutions_proposed": [
+    "increase city funding for artists and musicians"
+  ],
+  "cached_at": "2025-06-21T02:01:40.722185",
+  "cache_key": "ac10d1f29a695a92570b46e85e7a88ee6eeb1acf60870adc5dc909fd3a1a1a3e",
+  "model": "gpt-41"
+}

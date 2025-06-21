@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "facilitation over control",
+    "community agency",
+    "role of cultural institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Set the table don't determine what goes on the table"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Facilitate opportunities rather than dictate content or outcomes"
+  ],
+  "cached_at": "2025-06-21T02:11:57.024020",
+  "cache_key": "62473354e598f9ac2c53734dfefa24926c2192b3e4b5e90dfdfddac26f79a92e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for early music (pre-1800)",
+    "commissioning and funding for local composers",
+    "promotion of women-led arts groups",
+    "support for new opera works",
+    "encouragement of collaborative arts projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Early music (before 1800)",
+    "brand new opera",
+    "commissioning funds for Austin-based composers",
+    "women-led arts groups (we have several now that could use support)",
+    "funds for collaborative projects with different organizations or artists coming together in Austin",
+    "we're better together!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for Austin-based composers",
+    "insufficient support for women-led arts groups",
+    "limited resources for collaborative projects"
+  ],
+  "solutions_proposed": [
+    "commissioning funds for Austin-based composers",
+    "provide support for women-led arts groups",
+    "funds for collaborative projects with different organizations or artists"
+  ],
+  "cached_at": "2025-06-21T00:33:03.011803",
+  "cache_key": "2187c39ce30b962a2531378c66bb4ff286c07cede96780a7cdc2288f774ecfdf",
+  "model": "gpt-41"
+}

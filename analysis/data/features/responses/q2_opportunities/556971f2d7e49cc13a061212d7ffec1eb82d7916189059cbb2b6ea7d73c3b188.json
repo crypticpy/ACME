@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased music offerings",
+    "interest in classical music",
+    "interest in choral music"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More music",
+    "especially classical and choral music would be great"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for classical and choral music"
+  ],
+  "cached_at": "2025-06-21T00:51:02.507754",
+  "cache_key": "556971f2d7e49cc13a061212d7ffec1eb82d7916189059cbb2b6ea7d73c3b188",
+  "model": "gpt-41"
+}

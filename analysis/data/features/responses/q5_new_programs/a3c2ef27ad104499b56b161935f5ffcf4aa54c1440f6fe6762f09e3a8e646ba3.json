@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "focus on women",
+    "support for individuals in life transitions",
+    "underrepresentation of specific demographics"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more focus on women",
+    "those making life transitions later in life"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of women",
+    "lack of support for people in life transitions"
+  ],
+  "solutions_proposed": [
+    "increase focus on women",
+    "offer programs for those making life transitions later in life"
+  ],
+  "cached_at": "2025-06-21T02:03:43.448075",
+  "cache_key": "a3c2ef27ad104499b56b161935f5ffcf4aa54c1440f6fe6762f09e3a8e646ba3",
+  "model": "gpt-41"
+}

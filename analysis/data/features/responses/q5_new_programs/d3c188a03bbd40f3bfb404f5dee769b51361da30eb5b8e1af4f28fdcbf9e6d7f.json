@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for arts funding in education",
+    "underrepresentation of school arts programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding for arts programs in schools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for arts in schools"
+  ],
+  "solutions_proposed": [
+    "provide funding for arts programs in schools"
+  ],
+  "cached_at": "2025-06-21T01:56:39.544483",
+  "cache_key": "d3c188a03bbd40f3bfb404f5dee769b51361da30eb5b8e1af4f28fdcbf9e6d7f",
+  "model": "gpt-41"
+}

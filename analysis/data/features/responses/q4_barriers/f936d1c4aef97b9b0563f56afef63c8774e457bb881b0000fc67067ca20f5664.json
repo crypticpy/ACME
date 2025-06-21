@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of support for media artists",
+    "Insufficient funding and venues for media art",
+    "Exclusion of artist-run and self-funded spaces",
+    "Gaps in training and mentorship for public art",
+    "Barriers for early-career and studio-based artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "lack of dedicated support for media artists, arts, and exhibitions",
+    "media art often falls between categories",
+    "isn't consistently supported through funding, venues, or public visibility",
+    "artist-run and self-funded spaces like mine often fall through the cracks",
+    "gap in training and mentorship for public art and funding opportunities",
+    "limits access for studio-based or early-career artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of dedicated support for media artists and exhibitions",
+    "Media art falling between categories and not consistently supported",
+    "Insufficient funding, venues, and public visibility for media art",
+    "Artist-run and self-funded spaces excluded from support programs",
+    "Support programs designed mainly for nonprofits or traditional venues",
+    "Gap in training and mentorship for public art and funding opportunities",
+    "Limited access for studio-based or early-career artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:04.302211",
+  "cache_key": "f936d1c4aef97b9b0563f56afef63c8774e457bb881b0000fc67067ca20f5664",
+  "model": "gpt-41"
+}

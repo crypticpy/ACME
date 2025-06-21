@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "long-term support",
+    "capacity building for small organizations",
+    "planning for organizational growth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Better long range assistance",
+    "enable small organizations",
+    "plan for growth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of long-term assistance for small organizations"
+  ],
+  "solutions_proposed": [
+    "provide better long range assistance to enable small organizations to plan for growth"
+  ],
+  "cached_at": "2025-06-21T01:03:45.136233",
+  "cache_key": "d851650c591b846644016532af7ef0cdda8e41813a85e1693368baf0fe09097e",
+  "model": "gpt-41"
+}

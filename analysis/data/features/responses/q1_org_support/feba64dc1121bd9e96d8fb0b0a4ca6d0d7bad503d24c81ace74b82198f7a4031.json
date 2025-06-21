@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for less bureaucratic interference",
+    "concerns about funding fairness",
+    "perceived unethical practices in grant allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Help but stay out of they way",
+    "eliminate double dipping",
+    "group gets Council budgeted grant funding then also double dips with side deals or other waivers",
+    "Seems cheap and unethical"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "double dipping in funding",
+    "perceived unethical allocation of resources"
+  ],
+  "solutions_proposed": [
+    "eliminate double dipping when a group gets Council budgeted grant funding then also double dips with side deals or other waivers"
+  ],
+  "cached_at": "2025-06-20T10:39:46.077054",
+  "cache_key": "feba64dc1121bd9e96d8fb0b0a4ca6d0d7bad503d24c81ace74b82198f7a4031",
+  "model": "gpt-41"
+}

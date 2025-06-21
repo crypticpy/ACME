@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "support for mission-driven organizations",
+    "preference for general funding grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support the organizations that want to make a difference",
+    "general funding grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support organizations that want to make a difference",
+    "offer general funding grants"
+  ],
+  "cached_at": "2025-06-21T00:56:47.607901",
+  "cache_key": "bbd79faf026713b8e572e8e93d07f664c371089f05f90ec679ebbcb53f2b6b75",
+  "model": "gpt-41"
+}

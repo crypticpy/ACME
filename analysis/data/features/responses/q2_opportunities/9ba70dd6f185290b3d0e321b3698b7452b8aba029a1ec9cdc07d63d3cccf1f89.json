@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more southern hip hop representation",
+    "perceived overemphasis on house, ballet, and contemporary genres",
+    "inclusivity in cultural programming",
+    "neglected or overlooked genres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "it would be inclusive to include more southern hip hop",
+    "individuals that seem to be more in tune with those kind of genres",
+    "there\u2019s a focus of house, ballet, contemporary",
+    "there are some areas that tend to get looked over"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation for southern hip hop",
+    "focus on traditional genres to the exclusion of others"
+  ],
+  "solutions_proposed": [
+    "include more southern hip hop in cultural programming"
+  ],
+  "cached_at": "2025-06-21T00:46:39.656783",
+  "cache_key": "9ba70dd6f185290b3d0e321b3698b7452b8aba029a1ec9cdc07d63d3cccf1f89",
+  "model": "gpt-41"
+}

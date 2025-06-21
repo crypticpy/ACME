@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of creative directories",
+    "desire for resource restoration",
+    "historical reference to past services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "bring back creative directories",
+    "there used to be one"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "creative directories"
+  ],
+  "barriers_identified": [
+    "absence of creative directories"
+  ],
+  "solutions_proposed": [
+    "bring back creative directories"
+  ],
+  "cached_at": "2025-06-21T02:05:56.762440",
+  "cache_key": "188c12dd7db2e8d1fb2a8378f3aace5f1eec7423cc675d0819d6ce1666cf8ac7",
+  "model": "gpt-41"
+}

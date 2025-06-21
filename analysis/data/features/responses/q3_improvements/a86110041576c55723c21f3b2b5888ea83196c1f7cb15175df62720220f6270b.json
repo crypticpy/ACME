@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of application process",
+    "effectiveness of support resources",
+    "burdensome funding requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "easier applications",
+    "Funding application workshops are somewhat helpful",
+    "why do they have to be so difficult to begin with?",
+    "Not just easier to fill out, but easier to fulfill the requirements"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficult application process",
+    "challenging requirements to fulfill"
+  ],
+  "solutions_proposed": [
+    "make applications easier to fill out",
+    "make requirements easier to fulfill"
+  ],
+  "cached_at": "2025-06-21T01:05:21.938418",
+  "cache_key": "a86110041576c55723c21f3b2b5888ea83196c1f7cb15175df62720220f6270b",
+  "model": "gpt-41"
+}

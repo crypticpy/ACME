@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion of artists of color",
+    "preservation of non-Western cultural heritage",
+    "declining accessibility of arts funding",
+    "personal rejection from funding programs",
+    "impact of local policy changes on long-term residents"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "person of color who is preserving an ancient form of dance from Asia",
+    "I have been rejected from cultural funding programs",
+    "born and raised in Austin",
+    "arts funding become less and less accessible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rejection from cultural funding programs",
+    "decreased accessibility of arts funding",
+    "potential bias against artists of color or non-Western art forms"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:03:01.724082",
+  "cache_key": "d4909595dd6750ff2c920cb0e2bce75333779ca7c5e4d85994dad765ffea2682",
+  "model": "gpt-41"
+}

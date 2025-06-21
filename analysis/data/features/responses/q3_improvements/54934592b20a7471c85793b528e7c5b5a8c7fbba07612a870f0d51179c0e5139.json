@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived exclusivity in inclusivity efforts",
+    "Need to amplify underserved voices",
+    "Protection of established cultural organizations",
+    "Balancing support for new and existing groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "created with the best intentions",
+    "they try to create inclusivity in the most exclusive way possible",
+    "amplifying underserved voices must be done",
+    "the city needs to protect the organizations that have made Austin a great place to live",
+    "both can be true at the same time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "Inclusivity efforts perceived as exclusive"
+  ],
+  "solutions_proposed": [
+    "Amplifying underserved voices",
+    "Protecting established organizations"
+  ],
+  "cached_at": "2025-06-21T00:57:56.056230",
+  "cache_key": "54934592b20a7471c85793b528e7c5b5a8c7fbba07612a870f0d51179c0e5139",
+  "model": "gpt-41"
+}

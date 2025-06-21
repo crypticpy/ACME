@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of emerging artists",
+    "public art projects",
+    "support for new talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more integration of emerging artists",
+    "public art projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of integration of emerging artists in public art"
+  ],
+  "solutions_proposed": [
+    "more integration of emerging artists in public art projects"
+  ],
+  "cached_at": "2025-06-21T00:27:11.025445",
+  "cache_key": "de420d8a9edb1e9c5e62febad4a458ea827331a7cdad6c06167191d7321d8e25",
+  "model": "gpt-41"
+}

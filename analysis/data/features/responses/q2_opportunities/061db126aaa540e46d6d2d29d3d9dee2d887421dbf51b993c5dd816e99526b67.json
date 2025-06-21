@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for digital art",
+    "interest in interactive art experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Digital and interactive art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more digital and interactive art opportunities"
+  ],
+  "cached_at": "2025-06-21T00:34:28.187139",
+  "cache_key": "061db126aaa540e46d6d2d29d3d9dee2d887421dbf51b993c5dd816e99526b67",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for start-ups",
+    "funding for ongoing maintenance",
+    "limiting consecutive years of funding",
+    "broadening opportunities for community members"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding for start ups",
+    "Funding for maintaining",
+    "limitation of consecutive years of funding",
+    "create opportunities for all parts of this growing community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities due to repeated funding for the same recipients"
+  ],
+  "solutions_proposed": [
+    "funding for start ups",
+    "funding for maintaining",
+    "limitation of consecutive years of funding"
+  ],
+  "cached_at": "2025-06-21T02:16:25.585536",
+  "cache_key": "4e990ecfe4dc4c3df0aa4400cfc7702bddbba3df0c55114fd67dfcf3a7094c2d",
+  "model": "gpt-41"
+}

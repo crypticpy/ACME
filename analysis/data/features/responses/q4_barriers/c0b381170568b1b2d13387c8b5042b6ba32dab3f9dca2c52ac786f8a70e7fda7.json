@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty understanding available opportunities",
+    "insufficient funding for arts and culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "understanding opportunities",
+    "lack of robust funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty understanding opportunities",
+    "lack of robust funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:50.578358",
+  "cache_key": "c0b381170568b1b2d13387c8b5042b6ba32dab3f9dca2c52ac786f8a70e7fda7",
+  "model": "gpt-41"
+}

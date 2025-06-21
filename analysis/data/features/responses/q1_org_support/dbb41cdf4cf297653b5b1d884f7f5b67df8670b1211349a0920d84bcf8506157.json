@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of clear and comprehensive city leadership",
+    "unorganized and unprofessional cultural funding process",
+    "city staff inadequacy and lack of training",
+    "disregard for artist feedback in system changes",
+    "urgency of cultural funding distribution in 2025",
+    "poor communication and transparency about funding timelines",
+    "erosion of trust in city leadership"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Listen!",
+    "lack of clear and comprehensive leadership from city staff",
+    "Cultural Funding process to be unorganized, unprofessional, and at times deeply humiliating",
+    "city staff paid to advocate for local artists to be unsuitable or not trained",
+    "review the feedback we have already given (over many years)",
+    "Don't ask us to show up and share our feedback if you are not going to listen and take action",
+    "deeply discouraged and have very little faith in city leadership",
+    "Cultural Funding MUST be distributed this year in 2025",
+    "plans to wait and only offer funding for projects that will begin in 2026",
+    "Why were we not told this in 2024?!",
+    "one more example of failed leadership"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear and comprehensive leadership from city staff",
+    "unorganized and unprofessional funding process",
+    "humiliating experiences for local artist leaders",
+    "inadequate training of city staff",
+    "disregard for artist feedback",
+    "lack of communication about funding delays"
+  ],
+  "solutions_proposed": [
+    "review the feedback we have already given",
+    "listen and take action based on what you hear",
+    "distribute Cultural Funding in 2025 as previously expected"
+  ],
+  "cached_at": "2025-06-20T10:35:49.404324",
+  "cache_key": "dbb41cdf4cf297653b5b1d884f7f5b67df8670b1211349a0920d84bcf8506157",
+  "model": "gpt-41"
+}

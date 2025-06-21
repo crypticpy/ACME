@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for international cultural events",
+    "interest in immersive new media art"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "International cultural events",
+    "immersive new media art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more international cultural events",
+    "Increase opportunities for immersive new media art"
+  ],
+  "cached_at": "2025-06-21T00:30:09.942343",
+  "cache_key": "d521072357fe594f7eb95a937ad66ea610cb336b83dfe09479f42dd20827fcfd",
+  "model": "gpt-41"
+}

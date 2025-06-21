@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "activation of underutilized spaces",
+    "increased access for artists",
+    "community gatherings",
+    "expansion of dasa locations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "underutilized becoming available to artists",
+    "community gatherings",
+    "more location added to dasa"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "dasa"
+  ],
+  "barriers_identified": [
+    "lack of available spaces for artists"
+  ],
+  "solutions_proposed": [
+    "make underutilized spaces available to artists for community gatherings",
+    "add more locations to dasa"
+  ],
+  "cached_at": "2025-06-21T00:47:09.033775",
+  "cache_key": "320bd5f1539e8b3259ce48ed224c8c2c553ec9d6d90c029bd15e9e4ec3bccae9",
+  "model": "gpt-41"
+}

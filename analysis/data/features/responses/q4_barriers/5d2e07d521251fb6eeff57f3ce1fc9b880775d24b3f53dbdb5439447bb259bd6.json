@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to entry",
+    "start-up costs for arts ventures"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Start-up costs for arts ventures can be quite high"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high start-up costs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:56.989583",
+  "cache_key": "5d2e07d521251fb6eeff57f3ce1fc9b880775d24b3f53dbdb5439447bb259bd6",
+  "model": "gpt-41"
+}

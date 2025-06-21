@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for micro grants",
+    "professional development opportunities",
+    "local access to workshops and conferences",
+    "support for creative production (recording, videos)",
+    "arts education"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more small micro grants for growth",
+    "workshops",
+    "conferences in town",
+    "education",
+    "recording, videos, etc."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of small micro grants",
+    "insufficient local workshops and conferences",
+    "limited support for recording and video production"
+  ],
+  "solutions_proposed": [
+    "offer more small micro grants for growth",
+    "provide workshops",
+    "host conferences in town",
+    "expand education opportunities",
+    "support recording and video production"
+  ],
+  "cached_at": "2025-06-21T01:54:09.212406",
+  "cache_key": "e033d861b6ab639586237b10e8a7ef2773f3ae9dbb361481de64c025c1383331",
+  "model": "gpt-41"
+}

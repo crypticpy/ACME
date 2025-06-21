@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant and funding access",
+    "support for educational performing arts",
+    "inclusion of for-profit entities (corporations/LLCs)",
+    "exclusion of non-profits from request"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more access to grants and funding",
+    "educational performing arts small businesses",
+    "classified as a corporation or LLC (not non profit)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant and funding access for educational performing arts businesses that are corporations or LLCs"
+  ],
+  "solutions_proposed": [
+    "increase access to grants and funding for educational performing arts small businesses classified as a corporation or LLC"
+  ],
+  "cached_at": "2025-06-21T01:53:08.596316",
+  "cache_key": "075072d02b3ea62bdde4cf8b8ba9c59eb8df3caaae03378277cc11e5bdb003b3",
+  "model": "gpt-41"
+}

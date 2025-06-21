@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for specific grant programs",
+    "interest in public art initiatives"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Tempo art grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Tempo art grants"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More Tempo art grants"
+  ],
+  "cached_at": "2025-06-21T00:26:25.661351",
+  "cache_key": "2d56fe473c8601e97ee4ee0203a27dbb223b85ce5d14f65fe4a65b22ce6fcc8b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient funding for the arts",
+    "sustainability of arts initiatives",
+    "recognition of art's community value"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding and sustainability",
+    "the importance art can contribute to our community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "challenges in sustaining arts initiatives",
+    "underappreciation of art's community impact"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:49.218443",
+  "cache_key": "2c6ffe5cee8bdca0414dd51be60e3570c9107e9dfa1d8e9ef7820fb160f92431",
+  "model": "gpt-41"
+}

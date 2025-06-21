@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Immediate restoration of funding to foundational organizations",
+    "Negative impact of recent funding process changes",
+    "Undermining of support for emerging artists",
+    "Lack of accountability, communication, and transparency from ACME",
+    "Perceived disconnect between city representatives and community needs",
+    "Concerns about malicious or unprofessional behavior by city officials",
+    "Need for ACME to actively support and defend cultural organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "RESTORE THEIR FUNDING IMMEDIATELY!",
+    "shortsighted and irresponsible changes made to the funding process",
+    "gutted these foundational organizations",
+    "damaging their ability to maintain or in some cases even continue supporting the smaller emerging artists",
+    "ACME needs to listen and stand behind them as the community leaders they are",
+    "ACME's boots on the ground",
+    "needs accountability, communication, and transparency",
+    "overt maliciousness, pettiness, greedy childlike behavior from adult professionals",
+    "treating their artists in such a reprehensible manner driving them away in droves"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding cuts to foundational organizations",
+    "Irresponsible changes to funding process",
+    "Lack of support for emerging artists",
+    "Disconnect between city representatives and community needs",
+    "Lack of accountability, communication, and transparency",
+    "Malicious or unprofessional behavior by officials",
+    "Opposition from individuals with agendas seeking to limit or derail arts support"
+  ],
+  "solutions_proposed": [
+    "Restore funding to foundational organizations immediately",
+    "ACME should listen to and stand behind community leaders",
+    "Increase accountability, communication, and transparency",
+    "Stop actions that limit or hamper the needs of the arts and culture community"
+  ],
+  "cached_at": "2025-06-20T01:15:05.396741",
+  "cache_key": "7b7340e4d57be931d6d2018fbea289492f5b04f057f3201e1f172f644678c9f6",
+  "model": "gpt-41"
+}

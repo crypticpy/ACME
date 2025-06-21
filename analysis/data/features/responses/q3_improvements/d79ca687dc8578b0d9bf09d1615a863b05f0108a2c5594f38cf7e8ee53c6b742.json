@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in decision-making",
+    "bias avoidance in funding decisions",
+    "real-time communication between organizations and panels"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more transparent decision-making",
+    "avoiding any kind of biases",
+    "opportunity for organizations to be able to address questions panels may have in real time"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in decision-making",
+    "potential biases in panel decisions",
+    "inability for organizations to address panel questions in real time"
+  ],
+  "solutions_proposed": [
+    "implement more transparent decision-making",
+    "avoid any kind of biases",
+    "provide an opportunity for organizations to address questions from panels in real time"
+  ],
+  "cached_at": "2025-06-21T01:04:30.189174",
+  "cache_key": "d79ca687dc8578b0d9bf09d1615a863b05f0108a2c5594f38cf7e8ee53c6b742",
+  "model": "gpt-41"
+}

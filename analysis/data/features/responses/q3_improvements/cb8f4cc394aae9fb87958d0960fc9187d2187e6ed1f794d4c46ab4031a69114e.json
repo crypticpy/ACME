@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "equity in grant evaluation",
+    "addressing gaps among minority groups",
+    "closing disparities in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more equitable evaluation of funding grants",
+    "consider the gaps within minority groups",
+    "close the gap"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gaps within minority groups"
+  ],
+  "solutions_proposed": [
+    "more equitable evaluation of funding grants",
+    "consider the gaps within minority groups",
+    "close the gap"
+  ],
+  "cached_at": "2025-06-21T01:16:19.960219",
+  "cache_key": "cb8f4cc394aae9fb87958d0960fc9187d2187e6ed1f794d4c46ab4031a69114e",
+  "model": "gpt-41"
+}

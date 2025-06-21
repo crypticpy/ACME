@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "difficulty accessing funding",
+    "complex grant application process",
+    "restrictive funding requirements",
+    "barriers for artists to create community art"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "making funding and applying to grants easier",
+    "less restrictions",
+    "don\u2019t make it difficult for artists to great art for the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficult grant application process",
+    "excessive restrictions on funding"
+  ],
+  "solutions_proposed": [
+    "make funding and grant applications easier",
+    "reduce restrictions on funding"
+  ],
+  "cached_at": "2025-06-20T10:38:14.776491",
+  "cache_key": "00cdbb40f320007dfb7ac747df6d3fbb082bf126b10fa334f6d7955b1e68e21e",
+  "model": "gpt-41"
+}

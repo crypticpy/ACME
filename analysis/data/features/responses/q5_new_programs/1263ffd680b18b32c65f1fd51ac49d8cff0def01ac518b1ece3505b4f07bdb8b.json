@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for larger grant amounts",
+    "support for large-scale collaborative projects",
+    "funding for full seasons"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "larger sized grant money",
+    "really big collaborative projects",
+    "full seasons"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient grant funding for large projects"
+  ],
+  "solutions_proposed": [
+    "make larger sized grant money available for big collaborative projects or full seasons"
+  ],
+  "cached_at": "2025-06-21T01:56:58.983204",
+  "cache_key": "1263ffd680b18b32c65f1fd51ac49d8cff0def01ac518b1ece3505b4f07bdb8b",
+  "model": "gpt-41"
+}

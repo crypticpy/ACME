@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Desire for active institutional engagement",
+    "Frustration with passive listening",
+    "Need for meaningful and lasting change"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More than only listening to concerns",
+    "really taking an active role",
+    "doing something to address those",
+    "make positive and lasting changes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of action beyond listening"
+  ],
+  "solutions_proposed": [
+    "Take an active role in addressing concerns",
+    "Implement positive and lasting changes"
+  ],
+  "cached_at": "2025-06-20T10:25:45.908133",
+  "cache_key": "fbdffcd9c9b16e56a153c242beb5e007bb67a0030dbb0e21281186a38c78b2a9",
+  "model": "gpt-41"
+}

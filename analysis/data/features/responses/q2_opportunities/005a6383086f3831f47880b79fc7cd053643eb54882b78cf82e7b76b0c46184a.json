@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family-friendly events",
+    "affordability of cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "family friendly cultural events",
+    "affordable"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable options"
+  ],
+  "solutions_proposed": [
+    "increase family-friendly cultural events",
+    "make cultural events more affordable"
+  ],
+  "cached_at": "2025-06-21T00:41:52.387253",
+  "cache_key": "005a6383086f3831f47880b79fc7cd053643eb54882b78cf82e7b76b0c46184a",
+  "model": "gpt-41"
+}

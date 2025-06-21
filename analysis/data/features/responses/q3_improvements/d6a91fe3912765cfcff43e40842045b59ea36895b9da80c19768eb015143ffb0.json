@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistent applicant experience",
+    "lack of clarity in review rubric",
+    "underrepresentation of dance",
+    "panel understanding of specific disciplines",
+    "need for diverse review committees",
+    "insufficient applicant support resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "their experience has been inconsistent and frustrating",
+    "the review rubric was not laid out clearly",
+    "their areas (specifically related to dance) were not well represented or understood by the panel",
+    "diversifying the review committees",
+    "offering more resources to help folks prepare their applications"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear review rubric",
+    "lack of representation for dance",
+    "panel's limited understanding of specific disciplines",
+    "insufficient resources for application preparation"
+  ],
+  "solutions_proposed": [
+    "diversifying the review committees",
+    "offering more resources to help folks prepare their applications"
+  ],
+  "cached_at": "2025-06-21T01:05:46.127767",
+  "cache_key": "d6a91fe3912765cfcff43e40842045b59ea36895b9da80c19768eb015143ffb0",
+  "model": "gpt-41"
+}

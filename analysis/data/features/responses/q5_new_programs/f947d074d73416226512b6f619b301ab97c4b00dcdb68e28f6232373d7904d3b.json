@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for digital art offerings",
+    "questioning the necessity of public-only art",
+    "suggestion for online art access"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "digital art",
+    "why does it have to be public?",
+    "Why not have a website that anyone can log in to and view the art there"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited to public art displays"
+  ],
+  "solutions_proposed": [
+    "create a website for digital art that anyone can log in to and view"
+  ],
+  "cached_at": "2025-06-21T02:08:32.742131",
+  "cache_key": "f947d074d73416226512b6f619b301ab97c4b00dcdb68e28f6232373d7904d3b",
+  "model": "gpt-41"
+}

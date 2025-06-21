@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for cultural programming",
+    "positive event experience",
+    "interest in birding and nature-related activities",
+    "recognition of Elisabet Ney as a venue"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "LOVED the event today",
+    "birding at the Elisabet Ney",
+    "Great presentation!!!!"
+  ],
+  "intent": "positive_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "birding at the Elisabet Ney"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:15:08.834426",
+  "cache_key": "da4c6907eee35cedc78692dd858ee6605631a76edc3eaf1289410bfda8c6d4df",
+  "model": "gpt-41"
+}

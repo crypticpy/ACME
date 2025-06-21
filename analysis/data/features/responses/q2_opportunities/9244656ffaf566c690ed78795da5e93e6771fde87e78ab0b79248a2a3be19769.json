@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Imbalance in city branding favoring live music",
+    "Lack of support for theater and dance",
+    "Impact of public awareness on funding allocation",
+    "Private funding following city branding priorities",
+    "Marginalization of non-music art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more support and opportunity for theater and dance",
+    "city has branded itself as the 'Live Music Capital of the World'",
+    "builds public awareness for the music scene",
+    "invisible countereffect",
+    "leaves other art forms like dance, theater, and fine arts left behind",
+    "Private money has followed this focus on live music",
+    "harder for theater and dance organizations to get grant money, donations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "City branding and public awareness focused on music",
+    "Private funding and grants directed primarily to music",
+    "Difficulty for theater and dance organizations to secure funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:43:01.705729",
+  "cache_key": "9244656ffaf566c690ed78795da5e93e6771fde87e78ab0b79248a2a3be19769",
+  "model": "gpt-41"
+}

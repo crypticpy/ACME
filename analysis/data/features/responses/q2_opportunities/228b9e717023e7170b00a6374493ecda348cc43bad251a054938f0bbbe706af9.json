@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for fashion industry",
+    "need for affordable creative workspace",
+    "financial support for small business designers",
+    "creation of a fashion district",
+    "cultural tourism development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "major fashion shows",
+    "grants for small business fashion designers",
+    "affordable creative work space",
+    "fashion district that could become a cultural/tourist area of interest",
+    "funding for ongoing businesses",
+    "factor financing, low interest loans"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable creative work space",
+    "insufficient funding for ongoing businesses"
+  ],
+  "solutions_proposed": [
+    "major fashion shows",
+    "grants for small business fashion designers",
+    "affordable creative work space",
+    "creation of a fashion district",
+    "funding for ongoing businesses",
+    "factor financing",
+    "low interest loans"
+  ],
+  "cached_at": "2025-06-21T00:38:22.473601",
+  "cache_key": "228b9e717023e7170b00a6374493ecda348cc43bad251a054938f0bbbe706af9",
+  "model": "gpt-41"
+}

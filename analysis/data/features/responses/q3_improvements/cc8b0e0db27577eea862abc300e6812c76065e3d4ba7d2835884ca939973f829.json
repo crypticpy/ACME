@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "adherence to legal requirements for HOT funds",
+    "scope creep of program expectations",
+    "opposition to panel-based decision-making",
+    "demand for transparent scoring",
+    "conflict of interest among commissioners"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "They should follow the state statue for HOT funds",
+    "program expectations have become beyond the core function",
+    "No more panels",
+    "Transparent scoring",
+    "Commissioners should not be allowed to vote and info the guidelines and then receive the funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "program expectations exceeding funding source's core function",
+    "lack of transparency in scoring",
+    "potential conflicts of interest with commissioners",
+    "use of panels in decision-making"
+  ],
+  "solutions_proposed": [
+    "Follow the state statute for HOT funds",
+    "Limit program expectations to the core function of the funding source",
+    "Eliminate panels",
+    "Implement transparent scoring",
+    "Prohibit commissioners from voting on guidelines and receiving funding"
+  ],
+  "cached_at": "2025-06-21T01:17:02.970283",
+  "cache_key": "cc8b0e0db27577eea862abc300e6812c76065e3d4ba7d2835884ca939973f829",
+  "model": "gpt-41"
+}

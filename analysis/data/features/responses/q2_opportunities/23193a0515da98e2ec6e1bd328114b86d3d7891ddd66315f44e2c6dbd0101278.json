@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "abundance of cultural opportunities in Austin",
+    "personal resource sufficiency",
+    "time and energy as participation barriers",
+    "availability of free events and festivals",
+    "lack of publicity for free events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "so much Austin has to offer",
+    "I have the resources that I don't feel limited financially",
+    "time/energy is my biggest barrier",
+    "I can find something that would be fun any given week",
+    "a ton of free events and festivals that rarely receive sufficient publicity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time/energy is my biggest barrier",
+    "free events and festivals that rarely receive sufficient publicity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:24:35.702427",
+  "cache_key": "23193a0515da98e2ec6e1bd328114b86d3d7891ddd66315f44e2c6dbd0101278",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Importance of free outdoor concerts",
+    "Cultural identity and community cohesion",
+    "Value of accessible creative events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "form a core tenet of Austin's cultural identity",
+    "Free outdoor concerts are an amazing way to feel part of the creative community"
+  ],
+  "intent": "affirmation_of_value",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Free Week",
+    "Blues on the Green",
+    "The Drop In"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:19:34.459077",
+  "cache_key": "ce7396fbcc0a1611956d96cabaed3156bea3d1d27c6fec71e068e036c5680d0b",
+  "model": "gpt-41"
+}

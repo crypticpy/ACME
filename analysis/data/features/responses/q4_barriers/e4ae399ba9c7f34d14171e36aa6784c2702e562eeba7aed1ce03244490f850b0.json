@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for culturally specific programming",
+    "support for international and immigrant communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "programming tailored specifically to the international and immigrant population"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of programming tailored to international and immigrant population"
+  ],
+  "solutions_proposed": [
+    "more programming tailored specifically to the international and immigrant population"
+  ],
+  "cached_at": "2025-06-21T01:21:25.518402",
+  "cache_key": "e4ae399ba9c7f34d14171e36aa6784c2702e562eeba7aed1ce03244490f850b0",
+  "model": "gpt-41"
+}

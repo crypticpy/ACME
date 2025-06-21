@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Loss of venues and exodus of arts professionals",
+    "Disregard for professional expertise in funding decisions",
+    "Prioritization of amateurs and hobbyists over professionals",
+    "Comparison to other cities' collaborative approaches",
+    "Perceived lack of respect and understanding from program managers",
+    "Resource misallocation and wasted opportunities",
+    "Community division resulting from current funding strategies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "unable to stem the loss of venues and exodus of arts and culture professionals",
+    "disregarding our expertise while prioritizing amateurs and hobbyists",
+    "betraying the people managing these program's complete lack of understanding and respect for the very idea of professional arts",
+    "empowered by their local funders to reach into their grassroots communities",
+    "threw much of its resources at people with no experience or expertise",
+    "wasted money, lost time and missed opportunities",
+    "greater community division"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Disregard for professional expertise",
+    "Resource allocation to inexperienced individuals",
+    "Lack of collaboration with professional sector",
+    "Paternalistic social theories by EDD staff",
+    "Community division"
+  ],
+  "solutions_proposed": [
+    "Listen to and work with the professional arts and culture sector",
+    "Empower professionals to reach grassroots communities and grow audience access and education opportunities"
+  ],
+  "cached_at": "2025-06-21T02:15:55.528868",
+  "cache_key": "d61339496a885d138437bb3cd9395b40ca3e7fef8a7c13620a7ba85ff2db5dee",
+  "model": "gpt-41"
+}

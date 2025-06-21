@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "expansion of opportunities",
+    "growth of cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue to grow the number of opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "grow the number of opportunities"
+  ],
+  "cached_at": "2025-06-21T01:16:40.116628",
+  "cache_key": "cab48062fca9657f257d46f6bdad6a34f0b107725ceeed34334fe23bcd1944eb",
+  "model": "gpt-41"
+}

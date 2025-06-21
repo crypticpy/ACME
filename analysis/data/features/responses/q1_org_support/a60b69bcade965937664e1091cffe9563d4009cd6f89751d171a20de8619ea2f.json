@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire to provide detailed feedback via letter",
+    "Engagement with formal feedback channels",
+    "Organizational leadership perspective"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I will attach a letter I sent to the Arts Commission & ACME",
+    "If attachment is not possible, I will email to Matthew Schmidt",
+    "Dr. Ana Maria Maynard, Executive & Artistic Director",
+    "Puerto Rican Cultural Center"
+  ],
+  "intent": "request_to_submit_detailed_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:15:52.389412",
+  "cache_key": "a60b69bcade965937664e1091cffe9563d4009cd6f89751d171a20de8619ea2f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for creative infrastructure",
+    "access to public recording resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "A Public Recording studio"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public recording studio"
+  ],
+  "solutions_proposed": [
+    "offer a public recording studio"
+  ],
+  "cached_at": "2025-06-21T01:55:23.450664",
+  "cache_key": "53f0548baa5d4787e5100cc67b16db24b739730a6c4eb50b28a62abc1cf0d52d",
+  "model": "gpt-41"
+}

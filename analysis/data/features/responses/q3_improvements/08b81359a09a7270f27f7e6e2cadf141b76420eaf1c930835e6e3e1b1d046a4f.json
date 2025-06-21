@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dissatisfaction with application process",
+    "barriers to applying",
+    "lack of comparative experience"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Questions, scoring, panels all are pretty bad",
+    "Disincentivizes applying",
+    "I ca't say how to do it better since I haven't applied to other programs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "poorly designed questions",
+    "scoring process",
+    "panel process",
+    "discouragement from applying"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:09:41.434568",
+  "cache_key": "08b81359a09a7270f27f7e6e2cadf141b76420eaf1c930835e6e3e1b1d046a4f",
+  "model": "gpt-41"
+}

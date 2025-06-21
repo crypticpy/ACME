@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "decline of music venues and events",
+    "loss of working musicians and creatives",
+    "need for data-driven understanding",
+    "grant support for the music scene"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "venue and event loss",
+    "number of musicians-creatives in Austin working",
+    "how much they are working",
+    "income metric to understand decline",
+    "get Austin to support or give grants to the music scene"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "decline in venues and events",
+    "decrease in working opportunities for musicians and creatives",
+    "lack of income data to understand decline"
+  ],
+  "solutions_proposed": [
+    "track month over month and year over year metrics on venue and event loss",
+    "track number of musicians-creatives working and their income",
+    "use data to inform support or grant funding for the music scene"
+  ],
+  "cached_at": "2025-06-20T10:41:53.880988",
+  "cache_key": "48459711db202f99bc95152a3a13c0a25f3970cc6288ed81306d0aa6081466ca",
+  "model": "gpt-41"
+}

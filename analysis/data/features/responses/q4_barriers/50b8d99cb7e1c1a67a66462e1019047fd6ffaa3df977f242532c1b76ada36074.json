@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of financial support",
+    "insufficient performance venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "financial support",
+    "places to showcase or perform"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support",
+    "lack of places to showcase or perform"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:01.196866",
+  "cache_key": "50b8d99cb7e1c1a67a66462e1019047fd6ffaa3df977f242532c1b76ada36074",
+  "model": "gpt-41"
+}

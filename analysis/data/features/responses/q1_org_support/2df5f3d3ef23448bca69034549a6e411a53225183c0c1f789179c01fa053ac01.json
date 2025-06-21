@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "need for broader community engagement",
+    "lack of inclusive decision-making",
+    "insufficient listening by ACME"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Bring more voices into the conversation",
+    "Listen!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited participation in decision-making",
+    "not being heard by ACME"
+  ],
+  "solutions_proposed": [
+    "bring more voices into the conversation",
+    "listen"
+  ],
+  "cached_at": "2025-06-20T01:23:19.710846",
+  "cache_key": "2df5f3d3ef23448bca69034549a6e411a53225183c0c1f789179c01fa053ac01",
+  "model": "gpt-41"
+}

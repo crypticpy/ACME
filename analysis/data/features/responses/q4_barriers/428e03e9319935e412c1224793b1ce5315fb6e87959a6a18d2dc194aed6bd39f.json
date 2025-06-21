@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "City of Austin's lack of understanding",
+    "Ineffective arts funding",
+    "Equitable opportunities in the arts ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "COA not understanding",
+    "successfully fund the arts ecosystem",
+    "for all to do well and have opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "City of Austin does not understand how to fund the arts ecosystem effectively for equitable opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:07.194715",
+  "cache_key": "428e03e9319935e412c1224793b1ce5315fb6e87959a6a18d2dc194aed6bd39f",
+  "model": "gpt-41"
+}

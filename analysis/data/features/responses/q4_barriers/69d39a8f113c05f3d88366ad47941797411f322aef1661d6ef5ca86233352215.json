@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "abundance of cultural opportunities",
+    "ticket affordability",
+    "gender representation in music"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "plenty of opportunities to see and hear wonderful artists",
+    "tickets need to be more affordable",
+    "would love to see more opportunities for female musicians"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ticket affordability",
+    "limited opportunities for female musicians"
+  ],
+  "solutions_proposed": [
+    "make tickets more affordable",
+    "create more opportunities for female musicians"
+  ],
+  "cached_at": "2025-06-21T01:24:32.850563",
+  "cache_key": "69d39a8f113c05f3d88366ad47941797411f322aef1661d6ef5ca86233352215",
+  "model": "gpt-41"
+}

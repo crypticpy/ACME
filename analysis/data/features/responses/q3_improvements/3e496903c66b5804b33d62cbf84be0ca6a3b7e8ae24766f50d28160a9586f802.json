@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity in program objectives",
+    "community needs assessment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "clear understanding",
+    "ways to best serve the Austin community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "develop a clear understanding of ways to best serve the Austin community"
+  ],
+  "cached_at": "2025-06-21T01:18:01.296040",
+  "cache_key": "3e496903c66b5804b33d62cbf84be0ca6a3b7e8ae24766f50d28160a9586f802",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "space and resource matching",
+    "support for intermediary organizations",
+    "accountability of support organizations",
+    "limitations of city government in direct service"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "space and space need matching",
+    "better support to the orgs that help support artists and musicians",
+    "holding them accountable to doing the work that the City really isn't positioned to do well",
+    "like ATX Musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ATX Musicians"
+  ],
+  "barriers_identified": [
+    "lack of space and space need matching",
+    "insufficient support for intermediary organizations",
+    "lack of accountability for organizations supporting artists and musicians",
+    "city not well-positioned to provide certain direct services"
+  ],
+  "solutions_proposed": [
+    "implement space and space need matching",
+    "provide better support to organizations that support artists and musicians",
+    "hold support organizations accountable for their work"
+  ],
+  "cached_at": "2025-06-21T01:58:31.138164",
+  "cache_key": "3c6687c901bf6833a9d390953aae3b5e08420a250c9378710472576080b0db43",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "music therapy as community engagement",
+    "wellness events for public benefit",
+    "arts programming for the houseless",
+    "humanitarian approaches in cultural services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "music therapy related events",
+    "open to the public",
+    "wellness events curated with the houseless in mind",
+    "humanitarian approaches to the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of arts and wellness events for the houseless",
+    "insufficient humanitarian approaches in arts programming"
+  ],
+  "solutions_proposed": [
+    "offer music therapy events open to the public",
+    "curate wellness events with the houseless in mind",
+    "adopt humanitarian approaches to the arts"
+  ],
+  "cached_at": "2025-06-21T02:07:30.037173",
+  "cache_key": "673fa1a6269a050acc5e2955569a863cb41330efab30d03a07684520a120adda",
+  "model": "gpt-41"
+}

@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient grant opportunities for nontraditional projects",
+    "lack of financial support for writers and audio drama creators",
+    "inability to fairly compensate local artists and production staff",
+    "burden of self-marketing and administrative work",
+    "stress due to financial instability and high cost of living",
+    "limited paid work opportunities for creative professionals"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "There aren\u2019t enough grants for projects that lie outside of the usual categories",
+    "there is not enough support for writers",
+    "we don\u2019t have the money to pay our actors or our production people very much",
+    "Crowd funding is also time consuming\u2014and doesn\u2019t begin to cover all of our expenses",
+    "I have to market the whole thing myself",
+    "All of this is incredibly difficult and stressful",
+    "constantly looking for/doing gig or temp work to pay the bills",
+    "The higher the cost of living, the more stressful it gets",
+    "there isn\u2019t enough work for people to pay the bills"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient grant opportunities for unconventional projects",
+    "lack of support for writers",
+    "inability to adequately pay actors and production staff",
+    "crowdfunding is insufficient and time-consuming",
+    "requirement to self-market without support",
+    "financial stress due to reliance on gig or temp work",
+    "high cost of living",
+    "scarcity of paid work for creative professionals"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:56.592465",
+  "cache_key": "7329bfa1faf4f9366923f59aa0f7fb73f23298932102e0e594a87eeadc089c0e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "preference for supporting local artists with ongoing community engagement",
+    "frustration with outsiders leveraging Austin's culture for personal gain",
+    "desire for well-funded, community-rooted festivals",
+    "concern about lack of authentic community building in cultural programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "well funded one day festival",
+    "only books those acts who play at least 1 show a month in Austin",
+    "tired of those who do not play here regularly",
+    "do not build community here",
+    "using our city and our culture for clout"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "acts who do not play here regularly",
+    "performers not building community",
+    "outsiders using Austin's culture for clout"
+  ],
+  "solutions_proposed": [
+    "fund a one day festival that only books acts who play at least 1 show a month in Austin"
+  ],
+  "cached_at": "2025-06-21T00:24:59.242130",
+  "cache_key": "c42bb559a0afbef6cd909e2092e21776bea222e52c14115a61cd282315f4a111",
+  "model": "gpt-41"
+}

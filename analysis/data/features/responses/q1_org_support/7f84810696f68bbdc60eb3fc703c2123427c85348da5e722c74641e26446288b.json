@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "prioritization of local artists",
+    "concern over external funding",
+    "artist compensation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Focus on hiring/compensating local artists and organizations",
+    "instead of ones from other cities/states/countries"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "preference for non-local artists and organizations"
+  ],
+  "solutions_proposed": [
+    "hire and compensate local artists and organizations instead of those from outside the area"
+  ],
+  "cached_at": "2025-06-20T01:18:01.499812",
+  "cache_key": "7f84810696f68bbdc60eb3fc703c2123427c85348da5e722c74641e26446288b",
+  "model": "gpt-41"
+}

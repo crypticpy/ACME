@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of songwriter performance opportunities",
+    "inclusivity for all songwriters",
+    "overreliance on specific organizations (BMI)",
+    "collaboration with local venues",
+    "support for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more of an emphasis on songwriter performing opportunities",
+    "more songwriter Shows",
+    "not just limited to specific organizations like (BMI)",
+    "inclusive to all songwriters in Austin",
+    "There isn't enough of that",
+    "working with local venues on supporting this would be good for venues and emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "BMI"
+  ],
+  "barriers_identified": [
+    "limited opportunities for songwriters",
+    "exclusivity to specific organizations"
+  ],
+  "solutions_proposed": [
+    "increase songwriter performing opportunities",
+    "create inclusive songwriter shows open to all",
+    "collaborate with local venues to support songwriter events"
+  ],
+  "cached_at": "2025-06-20T10:39:28.049207",
+  "cache_key": "c075c1620d5abf650abbf1f5b1789f3dc44ea4779723502401e7fede017cd864",
+  "model": "gpt-41"
+}

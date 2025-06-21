@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation as a barrier to cultural access",
+    "public infrastructure shortcomings",
+    "priority of transportation issues over other barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "An exceptionally poor public transportation system is number one",
+    "Hard to think of anything that eclipses that, honestly"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exceptionally poor public transportation system"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:39.227179",
+  "cache_key": "045972299e9f20a9745cb42161baccfafd65562ff02f8354e32b4578da08e716",
+  "model": "gpt-41"
+}

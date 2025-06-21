@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Neighborhood change affecting cultural spaces",
+    "Decreased sense of hospitality or welcome",
+    "Impact of urban development on cultural access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Changing neighborhoods",
+    "spaces feel less hospitable"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Changing neighborhoods make some spaces feel less hospitable"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:25.046989",
+  "cache_key": "a3ff48c2276bace2055af43d41d2ccf463cc5b416a59954b85ac8e2391a3be62",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for Indigenous tribes",
+    "support for powwows and Indigenous cultural events",
+    "collaboration with Indigenous Institute and cultural institutions",
+    "reconnecting Latino and Hispanic communities with Indigenous heritage"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more cultural funding for tribes that used to make their home here",
+    "more of an effort to provide powwows with the Indigenous Institute",
+    "other cultural institutions that represent our Native American and Indigenous communities",
+    "an effort to reconnect latinos and hispanic communities with their Indigenous roots",
+    "para la raza y la comunidad"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Indigenous Institute"
+  ],
+  "barriers_identified": [
+    "insufficient funding for Indigenous tribes",
+    "lack of cultural events (powwows) for Indigenous communities",
+    "disconnection between Latino/Hispanic communities and Indigenous roots"
+  ],
+  "solutions_proposed": [
+    "increase cultural funding for local Indigenous tribes",
+    "provide more powwows with the Indigenous Institute and other cultural institutions",
+    "make efforts to reconnect Latino and Hispanic communities with their Indigenous roots"
+  ],
+  "cached_at": "2025-06-21T01:04:40.263563",
+  "cache_key": "9ecc751d2968837ce46878e2fec494affded4c859cd7eea7160e325df63a1f63",
+  "model": "gpt-41"
+}

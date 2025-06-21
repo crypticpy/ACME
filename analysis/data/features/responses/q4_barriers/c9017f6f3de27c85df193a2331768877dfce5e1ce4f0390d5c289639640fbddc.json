@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising costs of living impacting access",
+    "insufficient artmaking facilities",
+    "restrictive funding structures",
+    "lack of state-level support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "rising costs of living",
+    "limited artmaking facilities",
+    "restrictive funding",
+    "lack of support at state level"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of living",
+    "limited artmaking facilities",
+    "restrictive funding",
+    "lack of support at state level"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:48.547359",
+  "cache_key": "c9017f6f3de27c85df193a2331768877dfce5e1ce4f0390d5c289639640fbddc",
+  "model": "gpt-41"
+}

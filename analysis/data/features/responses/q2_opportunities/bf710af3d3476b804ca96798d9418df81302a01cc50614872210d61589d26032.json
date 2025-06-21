@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more poetry events",
+    "interest in comedy opportunities",
+    "support for writing-related activities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "poety",
+    "comedy",
+    "writing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities for poetry",
+    "increase opportunities for comedy",
+    "increase opportunities for writing"
+  ],
+  "cached_at": "2025-06-21T00:44:56.672337",
+  "cache_key": "bf710af3d3476b804ca96798d9418df81302a01cc50614872210d61589d26032",
+  "model": "gpt-41"
+}

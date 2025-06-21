@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist compensation",
+    "financial support for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Pay artists!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of payment for artists"
+  ],
+  "solutions_proposed": [
+    "Pay artists"
+  ],
+  "cached_at": "2025-06-20T10:22:30.794780",
+  "cache_key": "2324c923ca3e8fdf1a291caba361c8156e9771a4950c10a81d47023a2db7365a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for sustained funding",
+    "professional development for organizations",
+    "strategic partnerships and collaboration",
+    "support for grassroots groups",
+    "removal of funding barriers",
+    "increasing visibility and platforms for cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "offering sustained funding",
+    "professional development",
+    "access to strategic partnerships",
+    "grassroots groups are doing impactful work",
+    "need more infrastructure and visibility to grow",
+    "removing barriers to funding",
+    "creating spaces for collaboration",
+    "providing platforms to elevate cultural leaders",
+    "strengthen Austin\u2019s creative ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "barriers to funding",
+    "lack of infrastructure",
+    "lack of visibility"
+  ],
+  "solutions_proposed": [
+    "offering sustained funding",
+    "professional development",
+    "access to strategic partnerships",
+    "removing barriers to funding",
+    "creating spaces for collaboration",
+    "providing platforms to elevate cultural leaders"
+  ],
+  "cached_at": "2025-06-20T10:39:32.478012",
+  "cache_key": "77ddf0098c0f645fd593fef1897f526b08017e9210f9c172485a82ccd9aadf53",
+  "model": "gpt-41"
+}

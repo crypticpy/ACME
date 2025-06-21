@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for small/local music acts",
+    "interest in performance art",
+    "desire for experimental art forms"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more small bands",
+    "more performance art",
+    "more experimental art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities for small bands",
+    "increase opportunities for performance art",
+    "increase opportunities for experimental art"
+  ],
+  "cached_at": "2025-06-21T00:32:50.813852",
+  "cache_key": "1feadec21962de51cd364838c964c59bde0c91507f179ebea11ceca17acfbd1b",
+  "model": "gpt-41"
+}

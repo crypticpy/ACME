@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "difficulty accessing city grants for new nonprofits",
+    "support for underrepresented artists",
+    "perceived inadequacy of grant application feedback"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "has previously applied for city of austin grants but has found barriers in being accepted",
+    "They are fairly new, and hold value in promoting underrepresented artists",
+    "The feedback on their application didn\u2019t seem fully informed on their initial responses"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "barriers in being accepted for the awards",
+    "new nonprofit status",
+    "feedback on application didn\u2019t seem fully informed"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:10.033032",
+  "cache_key": "f11639a2947730de1baab42951e926bd706bf0be60387eb38cd48084721babae",
+  "model": "gpt-41"
+}

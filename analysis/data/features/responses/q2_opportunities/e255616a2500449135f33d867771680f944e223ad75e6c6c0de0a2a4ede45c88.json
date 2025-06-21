@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more classical music",
+    "interest in nationally recognized visual artists",
+    "support for traditional and avant garde improvisational arts",
+    "increased theatre offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Classical music",
+    "visiting visual artists of national renown",
+    "more opportunity for traditional and avant garde improvisers",
+    "theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for classical music",
+    "Host visiting visual artists of national renown",
+    "Provide more opportunities for traditional and avant garde improvisers",
+    "Expand theatre offerings"
+  ],
+  "cached_at": "2025-06-21T00:29:41.316020",
+  "cache_key": "e255616a2500449135f33d867771680f944e223ad75e6c6c0de0a2a4ede45c88",
+  "model": "gpt-41"
+}

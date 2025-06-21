@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of event awareness",
+    "parking difficulties"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "knowing about events",
+    "parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about events",
+    "parking challenges"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:22.576880",
+  "cache_key": "6d1e504adac1bace3e554646097e6aa4078978e4763e1db3b18491b25dcf2b5d",
+  "model": "gpt-41"
+}

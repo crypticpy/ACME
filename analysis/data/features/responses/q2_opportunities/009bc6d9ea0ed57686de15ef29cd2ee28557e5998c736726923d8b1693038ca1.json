@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more fine art offerings",
+    "interest in modern art institutions",
+    "interest in natural history education"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More fine art",
+    "a world class modern art museum",
+    "a natural history museum"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase fine art opportunities",
+    "Establish a world class modern art museum",
+    "Establish a natural history museum"
+  ],
+  "cached_at": "2025-06-21T00:35:00.381899",
+  "cache_key": "009bc6d9ea0ed57686de15ef29cd2ee28557e5998c736726923d8b1693038ca1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more artistic festivals",
+    "interest in film, TV, and commercial production",
+    "preference for touring live shows"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Artistic Festivals",
+    "Film, TV & Commercial work",
+    "Touring Live shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase artistic festivals",
+    "Expand film, TV, and commercial work opportunities",
+    "Bring more touring live shows to Austin"
+  ],
+  "cached_at": "2025-06-21T00:32:36.436626",
+  "cache_key": "0f82e1fe327ee2dd07cddd189acfd2579e9a25d12b977f3ff8f1d91d466efff5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "improved digital distribution of cultural content",
+    "citywide installation of cultural materials",
+    "integration of cultural funding with hotel operations and HOT tax"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Better digital distributions",
+    "Install around city",
+    "Inject in hotels as part of HOT"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited digital distribution",
+    "lack of citywide installation",
+    "insufficient integration with hotels/HOT"
+  ],
+  "solutions_proposed": [
+    "Improve digital distribution of cultural content",
+    "Install cultural materials around the city",
+    "Integrate cultural funding into hotels as part of HOT"
+  ],
+  "cached_at": "2025-06-21T01:05:34.434154",
+  "cache_key": "f2fe45f859e0865b25c248137c5d33b95a142c4acea12781d2794e2e978d5250",
+  "model": "gpt-41"
+}

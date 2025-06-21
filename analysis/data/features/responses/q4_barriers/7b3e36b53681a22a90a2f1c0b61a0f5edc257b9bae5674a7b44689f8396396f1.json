@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "scheduling and time constraints"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Cost is the main barrier",
+    "scheduling"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost",
+    "scheduling"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:49.615390",
+  "cache_key": "7b3e36b53681a22a90a2f1c0b61a0f5edc257b9bae5674a7b44689f8396396f1",
+  "model": "gpt-41"
+}

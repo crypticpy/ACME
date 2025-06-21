@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "perceived inequity in grant distribution",
+    "lack of transparency in funding decisions",
+    "concern for defunded groups",
+    "support for new venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I usually look at the amount of funding that is given to the various arts groups",
+    "including the support provided to new venues (example: Austin Playhouse)",
+    "I don't understand why some grants are gigantic while some groups who used to receive funding get nothing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Austin Playhouse"
+  ],
+  "barriers_identified": [
+    "lack of understanding of funding allocation",
+    "perceived unfairness in grant distribution"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:30.731531",
+  "cache_key": "7ff8d39b3e3f1c521cb58a5695e4cf5f1225154717460443a44f4c1038adb973",
+  "model": "gpt-41"
+}

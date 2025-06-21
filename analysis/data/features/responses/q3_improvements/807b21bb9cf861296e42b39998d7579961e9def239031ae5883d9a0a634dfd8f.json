@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Better accessibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility"
+  ],
+  "solutions_proposed": [
+    "Better accessibility"
+  ],
+  "cached_at": "2025-06-21T01:11:27.570542",
+  "cache_key": "807b21bb9cf861296e42b39998d7579961e9def239031ae5883d9a0a634dfd8f",
+  "model": "gpt-41"
+}

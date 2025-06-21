@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art museums",
+    "interest in dance practice opportunities",
+    "support for public art initiatives",
+    "need for classical music employment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Art museums!",
+    "Dance practices!",
+    "Art in public spaces!",
+    "Classical music jobs!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer art museums",
+    "Provide dance practice opportunities",
+    "Increase art in public spaces",
+    "Create classical music jobs"
+  ],
+  "cached_at": "2025-06-21T02:02:23.434425",
+  "cache_key": "19e3caf58cfd3ce40d07a5371b301009637afda6f91b775589230fdd627b0544",
+  "model": "gpt-41"
+}

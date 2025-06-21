@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "funding allocation based on quality and community impact",
+    "support for underrepresented communities",
+    "cross-community partnerships and collaborations",
+    "arts education in public schools",
+    "fair compensation for artists",
+    "removal of financial barriers for schools"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding decisions based on quality, audiences / communities served (especially underrepresented)",
+    "partnerships and collaborations across communities",
+    "Organizations that provide arts programs could be specifically funded to work in public schools that cannot afford to bring in teaching artists",
+    "performers in Austin must have a 'day job' to live, they must be paid for performing during work/school hours",
+    "School administrators would be more open to inviting high quality arts programs to supplement learning in their classrooms if the organizations came with city funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "public schools cannot afford to bring in teaching artists",
+    "performers must have a 'day job' to live",
+    "lack of payment for performing during work/school hours"
+  ],
+  "solutions_proposed": [
+    "Base funding decisions on quality and communities served",
+    "Fund organizations to provide arts programs in public schools that cannot afford teaching artists",
+    "Pay performers for performing during work/school hours",
+    "Encourage school administrators to invite high quality arts programs by providing city funding"
+  ],
+  "cached_at": "2025-06-21T01:12:59.261401",
+  "cache_key": "8b044725d818e2935e61baf996cd1c14a6364ce18aa303dbfd5df818f3f4a5e2",
+  "model": "gpt-41"
+}

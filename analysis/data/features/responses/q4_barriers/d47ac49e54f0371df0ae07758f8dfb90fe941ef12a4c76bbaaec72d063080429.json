@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "fear of immigration enforcement at public events",
+    "safety concerns in poorer neighborhoods",
+    "impact of ICE presence on cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Safety - if ICE is going to prowl public events",
+    "poorer neighborhoods",
+    "how do you make them safe?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fear of ICE presence at public events",
+    "lack of safety for residents in poorer neighborhoods"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:28.227462",
+  "cache_key": "d47ac49e54f0371df0ae07758f8dfb90fe941ef12a4c76bbaaec72d063080429",
+  "model": "gpt-41"
+}

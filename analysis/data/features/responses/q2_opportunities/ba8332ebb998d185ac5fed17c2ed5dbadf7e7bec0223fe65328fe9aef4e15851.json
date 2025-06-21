@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for more child-friendly cultural offerings",
+    "Sufficiency of event quantity",
+    "Financial sustainability for artists",
+    "Support for existing creative community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I don't feel that Austin suffers from an issue with quantity",
+    "as a parent of young kids I would love to see more offerings that work well for children aged 8 and younger",
+    "finding ways to adequately support the art/artists that already exists",
+    "so that the creative class can find careers that are as financially sustainable as they are emotionally rewarding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of cultural offerings suitable for children aged 8 and younger",
+    "Insufficient financial support for artists"
+  ],
+  "solutions_proposed": [
+    "Increase offerings that work well for children aged 8 and younger",
+    "Find ways to adequately support the art/artists that already exists in the City"
+  ],
+  "cached_at": "2025-06-21T00:37:45.708236",
+  "cache_key": "ba8332ebb998d185ac5fed17c2ed5dbadf7e7bec0223fe65328fe9aef4e15851",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "importance of funding for small organizations",
+    "impact of funding on community work",
+    "concern for inclusion of smaller groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "do not forget about the small art organizations",
+    "your funding programs really make a difference in our budgets",
+    "the work that we do for the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential neglect of small art organizations"
+  ],
+  "solutions_proposed": [
+    "continue supporting small art organizations through funding programs"
+  ],
+  "cached_at": "2025-06-21T02:13:40.354626",
+  "cache_key": "b6b67285fc1547ab029d7680aeabd26cac452a2c35560efaffebe7bc59162596",
+  "model": "gpt-41"
+}

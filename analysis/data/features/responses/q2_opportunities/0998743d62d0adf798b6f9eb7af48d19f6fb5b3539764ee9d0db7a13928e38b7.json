@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for senior-focused entertainment",
+    "age-inclusive cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Entertainment for senior citizens"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More entertainment opportunities for senior citizens"
+  ],
+  "cached_at": "2025-06-21T00:42:59.179211",
+  "cache_key": "0998743d62d0adf798b6f9eb7af48d19f6fb5b3539764ee9d0db7a13928e38b7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about ACME",
+    "desire for direct communication",
+    "importance of community representation",
+    "need for updates and meetings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "this is my first time hearing about the ACME",
+    "if there\u2019s any way I can talk to someone about all of this",
+    "updates and meetings would help me most",
+    "Thank you Stephanie, for being a voice in our community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about ACME",
+    "limited opportunities for direct communication"
+  ],
+  "solutions_proposed": [
+    "offer opportunities to talk to someone",
+    "provide updates and meetings"
+  ],
+  "cached_at": "2025-06-21T02:20:18.924236",
+  "cache_key": "3f358f865a5c0409659588fe87c3d413ac755a61e315af2fc0dfb19685b3e313",
+  "model": "gpt-41"
+}

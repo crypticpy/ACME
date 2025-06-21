@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about ACME's activities",
+    "importance of outreach to minority communities",
+    "efficiency in funding processes"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I do not know enough about what ACME does",
+    "seek out minority communities",
+    "work as efficiently as possible with funding"
+  ],
+  "intent": "general_comment",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about ACME's activities"
+  ],
+  "solutions_proposed": [
+    "seek out minority communities",
+    "work as efficiently as possible with funding"
+  ],
+  "cached_at": "2025-06-20T10:27:28.773104",
+  "cache_key": "fc0c723b0cf536e9fb87d580b3a2268c5238c5753adfdf4b375e6e41e310baec",
+  "model": "gpt-41"
+}

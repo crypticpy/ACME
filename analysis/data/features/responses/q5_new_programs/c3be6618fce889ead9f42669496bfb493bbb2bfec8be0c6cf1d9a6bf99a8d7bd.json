@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for financial stability support for artists",
+    "access to affordable and flexible creative spaces",
+    "improved access to equipment and resources",
+    "difficulty accessing information on city website",
+    "short-term grants for writers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "very small grants for financial stability",
+    "spaces for anyone to use such as theaters",
+    "cooperative practice spaces for musicians/studios for fine artists",
+    "film equipment for rent at a low cost or borrow",
+    "fix your silly city website",
+    "short-term grant program so they can get something finished over a month or so"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Plus One program"
+  ],
+  "barriers_identified": [
+    "lack of accessible information on city website",
+    "insufficient affordable or flexible creative spaces",
+    "limited access to financial stability resources",
+    "lack of short-term grant opportunities for writers",
+    "limited access to low-cost equipment"
+  ],
+  "solutions_proposed": [
+    "offer courses in financial planning",
+    "provide very small grants for financial stability",
+    "create or partner with programs like Plus One",
+    "make spaces such as theaters bookable for six-week periods ending in a performance",
+    "establish cooperative practice spaces for musicians and studios for fine artists",
+    "offer film equipment for rent at low cost or for borrowing",
+    "improve the city website to make information easier to find",
+    "create short-term grant programs for writers to finish projects"
+  ],
+  "cached_at": "2025-06-21T02:04:01.956393",
+  "cache_key": "c3be6618fce889ead9f42669496bfb493bbb2bfec8be0c6cf1d9a6bf99a8d7bd",
+  "model": "gpt-41"
+}

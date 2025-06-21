@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "capacity building for new applicants",
+    "grant application education",
+    "support for organizations unfamiliar with funding processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Pre-competition Workshops",
+    "organizations that have not received funding before",
+    "understand more about the grant applications and uses of funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of understanding of grant applications",
+    "lack of knowledge about uses of funds",
+    "inexperience with funding process"
+  ],
+  "solutions_proposed": [
+    "Pre-competition Workshops for organizations that have not received funding before or would like to understand more about the grant applications and uses of funds"
+  ],
+  "cached_at": "2025-06-21T00:54:31.559289",
+  "cache_key": "94def44b6c9c121d2d9975fce632a1612d4bbd4a77484a78586780d829e3d9dc",
+  "model": "gpt-41"
+}

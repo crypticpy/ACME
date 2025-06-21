@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with AISD for youth opportunities",
+    "geographic inequity in cultural events",
+    "focus on working class families and children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Working with AISD to provide more opportunities tailored for young people",
+    "more focus on the northern part of the city",
+    "fewer events but lots of working class families with kids"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AISD"
+  ],
+  "barriers_identified": [
+    "fewer events in the northern part of the city"
+  ],
+  "solutions_proposed": [
+    "Working with AISD to provide more opportunities tailored for young people",
+    "More focus on the northern part of the city"
+  ],
+  "cached_at": "2025-06-21T00:33:19.877036",
+  "cache_key": "3dd52bee3edf7538ee9bdc189503efacb802e2e18b1183e0b8bac88e9b0aec60",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased opportunities for minority artists",
+    "support for artists from lower incomes",
+    "inclusion of LGBTQ community in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities given to artists",
+    "minorities",
+    "from lower incomes",
+    "those from the LGBTQ community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for minority, low-income, and LGBTQ artists"
+  ],
+  "solutions_proposed": [
+    "continue to see more opportunities given to artists that are either minorities, from lower incomes, or those from the LGBTQ community"
+  ],
+  "cached_at": "2025-06-21T01:16:46.302239",
+  "cache_key": "5743ce3389063f9e5c8d8eb7376c74edaee5f68de7638006194dcfc02884b3ac",
+  "model": "gpt-41"
+}

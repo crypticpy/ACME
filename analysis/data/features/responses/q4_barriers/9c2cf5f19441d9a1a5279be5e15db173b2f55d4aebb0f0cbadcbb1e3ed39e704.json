@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of opportunities for emerging artists",
+    "high cost of space for the arts",
+    "geographic inequity in arts spaces",
+    "limited non-church arts venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "few opportunities for emerging artists",
+    "sky-high prices for space",
+    "very few spaces north of Allandale and south of 290 (that are not churches)"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "few opportunities for emerging artists",
+    "high prices for space",
+    "very few arts spaces in certain geographic areas (north of Allandale and south of 290)",
+    "most available spaces are churches"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:46.046823",
+  "cache_key": "9c2cf5f19441d9a1a5279be5e15db173b2f55d4aebb0f0cbadcbb1e3ed39e704",
+  "model": "gpt-41"
+}

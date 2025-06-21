@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased diversity in cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more diversity overall"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase diversity in cultural arts and entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:48:39.387700",
+  "cache_key": "b66b729bddae741f8a1ae9ab848c45458e5761780788f8fd6e0a802aed4082d7",
+  "model": "gpt-41"
+}

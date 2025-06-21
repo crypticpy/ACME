@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding beyond hotel tax",
+    "simplification of contracting processes",
+    "support for capital investment in organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Dedicated funding for existing organizations beyond hotel tax income",
+    "Simplified contracting process for grantees",
+    "Support capital investment in existing organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reliance on hotel tax income",
+    "complex contracting process",
+    "lack of capital investment support"
+  ],
+  "solutions_proposed": [
+    "dedicated funding for existing organizations beyond hotel tax income",
+    "simplified contracting process for grantees",
+    "support capital investment in existing organizations"
+  ],
+  "cached_at": "2025-06-20T10:33:38.884851",
+  "cache_key": "6bc5b3db358510da987008ba64685d11ccbd26cdfedf2b3694461d779e745e8c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable distribution of funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Evenly distributed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uneven distribution of funding"
+  ],
+  "solutions_proposed": [
+    "Evenly distributed"
+  ],
+  "cached_at": "2025-06-21T01:16:32.588465",
+  "cache_key": "23e74bbb5e9d354cc788e5c3c93fdf8c73657803431553be83746e338e75f0fc",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in live performance",
+    "expansion of cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More dance",
+    "live performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase dance opportunities",
+    "Increase live performance opportunities"
+  ],
+  "cached_at": "2025-06-21T00:49:45.823848",
+  "cache_key": "39f55e7069a39dd74d3f551693dc7b4c6b5d341ed9d67fd1ec465b5162c016b5",
+  "model": "gpt-41"
+}

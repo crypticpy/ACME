@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "visibility of cultural spaces",
+    "access through transportation",
+    "community planning for cultural engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "visibility and access to these spaces",
+    "community planning",
+    "transportation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility of spaces",
+    "limited transportation access"
+  ],
+  "solutions_proposed": [
+    "increase visibility of spaces through community planning",
+    "improve access via transportation"
+  ],
+  "cached_at": "2025-06-20T10:31:01.305733",
+  "cache_key": "f8dbfe23c00b9b7c5aad477a6c9a400b78ac4e78100b5a59e0af3344150b3d8b",
+  "model": "gpt-41"
+}

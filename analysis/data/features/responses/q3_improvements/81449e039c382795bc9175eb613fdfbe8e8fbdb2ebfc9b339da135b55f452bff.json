@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Equity in funding allocation",
+    "Negative impact on legacy organizations",
+    "Insufficient systemic change",
+    "Historical displacement of underrepresented groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "destroyed funding for legacy orgs",
+    "putting in their own equity work",
+    "Austin already pushed out underrepresented groups",
+    "hardly the systemic change needed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Loss of funding for legacy organizations",
+    "Historical displacement of underrepresented groups",
+    "Lack of systemic change to address past inequities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:12:24.378878",
+  "cache_key": "81449e039c382795bc9175eb613fdfbe8e8fbdb2ebfc9b339da135b55f452bff",
+  "model": "gpt-41"
+}

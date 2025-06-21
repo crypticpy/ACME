@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "arts as a tool for urban revitalization",
+    "empowerment of marginalized or vulnerable populations",
+    "broad, inclusive approaches to cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "use the arts to make certain parts of the city more vibrant",
+    "empower people who need help along the way",
+    "we can do a lot with this approach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "use the arts to make certain parts of the city more vibrant",
+    "empower people who need help along the way"
+  ],
+  "cached_at": "2025-06-21T02:14:32.022513",
+  "cache_key": "f187b6c884528b5cb6ad1e50decec00d6eaf57c148c7cfcd45841e9dfc1d8638",
+  "model": "gpt-41"
+}

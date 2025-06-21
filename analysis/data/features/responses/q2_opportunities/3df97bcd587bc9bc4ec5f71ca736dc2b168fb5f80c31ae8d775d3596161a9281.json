@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more international music festivals",
+    "Support for cultural festivals featuring diverse countries",
+    "Opportunities for immigrant or international artists",
+    "Affordability of event space for artists",
+    "Inclusion of visual arts (painting, glass, etc.)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More cultural festivals and smaller music festivals that tailor mostly to music from other countries",
+    "musicians who are from Mexico or Japan, etc who would like to perform but aren't sure where to start",
+    "A small festival or showcase would be fun",
+    "artists (painting, glass, etc) showcasing their items",
+    "artists wouldn't have to pay so much money to use a space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists wouldn't have to pay so much money to use a space",
+    "musicians ... aren't sure where to start"
+  ],
+  "solutions_proposed": [
+    "More cultural festivals and smaller music festivals focused on international music",
+    "Small festival or showcase for international musicians",
+    "Events where artists can showcase without high space costs"
+  ],
+  "cached_at": "2025-06-21T00:31:14.580353",
+  "cache_key": "3df97bcd587bc9bc4ec5f71ca736dc2b168fb5f80c31ae8d775d3596161a9281",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient business sector support",
+    "lack of philanthropic funding for arts",
+    "absence of coordinated regional marketing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of resources from the business world",
+    "not enough philanthropy for arts in general",
+    "no coordinated regional marketings"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources from the business world",
+    "not enough philanthropy for arts in general",
+    "no coordinated regional marketings"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:58.324127",
+  "cache_key": "0a2d2b87af01678271b6e71efff0bb78a32ede0f218ec4aca56bbe7592620fe3",
+  "model": "gpt-41"
+}

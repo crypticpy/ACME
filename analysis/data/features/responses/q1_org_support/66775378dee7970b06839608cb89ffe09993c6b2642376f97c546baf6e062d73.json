@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "career development for cultural workers",
+    "promotion and marketing support",
+    "cultural tourism",
+    "artwork sales support",
+    "affordability and cost of living"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "pathways to careers",
+    "help promotion",
+    "help bring in tourists to see their work",
+    "help sell their work",
+    "reduce cost of living expenses"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living"
+  ],
+  "solutions_proposed": [
+    "create pathways to careers",
+    "provide help with promotion",
+    "attract tourists to see artists' work",
+    "assist with selling artists' work",
+    "reduce cost of living expenses"
+  ],
+  "cached_at": "2025-06-20T10:26:08.777520",
+  "cache_key": "66775378dee7970b06839608cb89ffe09993c6b2642376f97c546baf6e062d73",
+  "model": "gpt-41"
+}

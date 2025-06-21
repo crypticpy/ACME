@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of diverse funding sources",
+    "exclusion of critical organizations",
+    "limitations of city-level funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of diverse funding sources in Austin",
+    "Funding at the City level (now ACME) excludes many organization criticical to the arts ecosystem"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "lack of diverse funding sources",
+    "exclusion of many organizations from city-level funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:24.846320",
+  "cache_key": "d686d84a490698d0aac5711e643ab94f2a95c25b72cafcd4c4170f055f38c56b",
+  "model": "gpt-41"
+}

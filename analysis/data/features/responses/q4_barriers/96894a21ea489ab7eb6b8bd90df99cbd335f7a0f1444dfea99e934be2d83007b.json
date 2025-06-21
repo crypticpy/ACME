@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of event production",
+    "financial barriers to hosting events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "way too expensive to have events",
+    "overall costs are often $10K or more per event"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of hosting events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:47.723213",
+  "cache_key": "96894a21ea489ab7eb6b8bd90df99cbd335f7a0f1444dfea99e934be2d83007b",
+  "model": "gpt-41"
+}

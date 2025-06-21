@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for community-led events",
+    "support for diverse cultural representation",
+    "collaboration between ACME and community",
+    "strengthening community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more opportunities for community-led events",
+    "support or collaborate on events that reflect the diverse interests and cultures of our community",
+    "workshops, cultural festivals, or neighborhood meetups",
+    "strengthen community engagement"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more opportunities for community-led events",
+    "ACME support or collaborate on events reflecting diverse interests and cultures",
+    "host workshops, cultural festivals, or neighborhood meetups"
+  ],
+  "cached_at": "2025-06-21T02:10:25.081594",
+  "cache_key": "f0adb62b099687487a192d4075c4a6a6bcaafb940ecf3b6d78fb6fca81a85a0e",
+  "model": "gpt-41"
+}

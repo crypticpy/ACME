@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "high cost of venues",
+    "limited access to rehearsal space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "financial",
+    "cost of performance venues",
+    "rehearsal space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial",
+    "cost of performance venues",
+    "cost of rehearsal space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:20.830898",
+  "cache_key": "cd500edbe324172fac8912a669451242874e0f5a83be4eb957b637885b37fb32",
+  "model": "gpt-41"
+}

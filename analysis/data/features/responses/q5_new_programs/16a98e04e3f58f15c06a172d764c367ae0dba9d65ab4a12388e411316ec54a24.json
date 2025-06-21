@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for travel funding",
+    "professional development opportunities",
+    "support for artists' career growth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "travel and professional development funds for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of travel funds",
+    "lack of professional development support"
+  ],
+  "solutions_proposed": [
+    "provide travel funds for artists",
+    "offer professional development funds for artists"
+  ],
+  "cached_at": "2025-06-21T01:53:49.739447",
+  "cache_key": "16a98e04e3f58f15c06a172d764c367ae0dba9d65ab4a12388e411316ec54a24",
+  "model": "gpt-41"
+}

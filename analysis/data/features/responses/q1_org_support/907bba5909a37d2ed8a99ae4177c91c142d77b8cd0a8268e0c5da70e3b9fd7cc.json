@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable access to city-owned spaces",
+    "need for administrative support",
+    "mentorship for small non-profits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Reduced rent of City-owned spaces for offices",
+    "administrative support",
+    "mentoring of small non-profits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent for City-owned spaces",
+    "lack of administrative support",
+    "insufficient mentoring for small non-profits"
+  ],
+  "solutions_proposed": [
+    "Reduce rent of City-owned spaces for offices",
+    "Provide administrative support",
+    "Offer mentoring to small non-profits"
+  ],
+  "cached_at": "2025-06-20T10:24:52.392048",
+  "cache_key": "907bba5909a37d2ed8a99ae4177c91c142d77b8cd0a8268e0c5da70e3b9fd7cc",
+  "model": "gpt-41"
+}

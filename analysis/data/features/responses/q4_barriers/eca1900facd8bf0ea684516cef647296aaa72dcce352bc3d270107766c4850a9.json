@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding",
+    "insufficient venues",
+    "transportation challenges",
+    "accessibility for people with disabilities",
+    "feeling undervalued",
+    "community displacement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding",
+    "venues",
+    "transportation",
+    "handicap accessibility",
+    "not being valued",
+    "being displaced from our communities and culture"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "insufficient venues",
+    "transportation barriers",
+    "inadequate handicap accessibility",
+    "feeling undervalued",
+    "displacement from communities and culture"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:46.008363",
+  "cache_key": "eca1900facd8bf0ea684516cef647296aaa72dcce352bc3d270107766c4850a9",
+  "model": "gpt-41"
+}

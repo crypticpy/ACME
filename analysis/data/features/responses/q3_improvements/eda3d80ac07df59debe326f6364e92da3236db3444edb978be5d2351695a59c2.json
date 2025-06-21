@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application language clarity",
+    "selection panel composition",
+    "local cultural understanding",
+    "use of out-of-town consultants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "language of the applications",
+    "selection panel participants selection",
+    "consultants are generally from out of town",
+    "out of touch with the nuance of Austin's history and culture"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "application language is unclear or inappropriate",
+    "selection panels lack local cultural understanding",
+    "consultants are not locally connected"
+  ],
+  "solutions_proposed": [
+    "improve application language",
+    "select panel participants with local knowledge",
+    "use consultants familiar with Austin's history and culture"
+  ],
+  "cached_at": "2025-06-21T01:14:54.075474",
+  "cache_key": "eda3d80ac07df59debe326f6364e92da3236db3444edb978be5d2351695a59c2",
+  "model": "gpt-41"
+}

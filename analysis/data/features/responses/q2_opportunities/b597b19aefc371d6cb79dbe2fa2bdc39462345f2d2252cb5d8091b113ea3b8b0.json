@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "workshops in underserved areas",
+    "artist partnerships with local communities",
+    "fair compensation for artists",
+    "community co-presentation and co-teaching"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "workshops in underserved areas",
+    "partnering (and paying) artists from those areas",
+    "co-present or co-teach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural programming in underserved areas",
+    "insufficient compensation for local artists"
+  ],
+  "solutions_proposed": [
+    "partnering with and paying local artists to co-present or co-teach workshops in underserved areas"
+  ],
+  "cached_at": "2025-06-21T00:40:37.627452",
+  "cache_key": "b597b19aefc371d6cb79dbe2fa2bdc39462345f2d2252cb5d8091b113ea3b8b0",
+  "model": "gpt-41"
+}

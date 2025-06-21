@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "city funding for specific art events",
+    "expanding access to artistic participation",
+    "inclusivity in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "City funding for East and West Austin Studio Tours",
+    "allow everyone in the city to be an artist",
+    "showcase their work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "East Austin Studio Tour",
+    "West Austin Studio Tour"
+  ],
+  "barriers_identified": [
+    "limited access to showcase opportunities for all residents"
+  ],
+  "solutions_proposed": [
+    "City funding for East and West Austin Studio Tours",
+    "allow everyone in the city to be an artist and showcase their work"
+  ],
+  "cached_at": "2025-06-20T01:22:57.015907",
+  "cache_key": "b59bb6d7c0522435abe291039f15a39e54e5677208d81cf4b1f04a6c8c9d9b75",
+  "model": "gpt-41"
+}

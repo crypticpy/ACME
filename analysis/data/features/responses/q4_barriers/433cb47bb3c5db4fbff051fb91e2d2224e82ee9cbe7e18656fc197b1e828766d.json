@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of city funding impacting program capacity",
+    "Reliance on small donors instead of large donors",
+    "Need for city support to restore programming",
+    "Lack of affordable, appropriate concert spaces",
+    "Community and fan base support during crisis"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "loss of City funding",
+    "we don't have large donors (we have many small donors)",
+    "can use city support to bring our programs back up to previous levels",
+    "can also use access to appropriate, relatively low cost concert spaces",
+    "other than churches"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Loss of city funding",
+    "Lack of large donors",
+    "Limited access to affordable, appropriate concert spaces",
+    "Reliance on churches as primary venues"
+  ],
+  "solutions_proposed": [
+    "Increase city support to restore program levels",
+    "Provide access to low cost, appropriate concert spaces beyond churches"
+  ],
+  "cached_at": "2025-06-21T01:39:14.220719",
+  "cache_key": "433cb47bb3c5db4fbff051fb91e2d2224e82ee9cbe7e18656fc197b1e828766d",
+  "model": "gpt-41"
+}

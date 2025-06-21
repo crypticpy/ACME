@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Frustration with repeated funding system overhauls",
+    "Concerns about transparency and openness in process",
+    "Skepticism about use of external consultants",
+    "Critique of current survey methodology",
+    "Inadequate notice for public participation (town halls)",
+    "Uncertainty about funding stability during transitions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Please explain why our entire funding system was overhauled just since COVID and now we are doing it again?",
+    "I'm loathe to start from scratch and need a thorough explanation of what is happening.",
+    "are we going to be frozen at our current funding?",
+    "I'm concerned we are going to pay another out-of-town consultant",
+    "I'm opposed to using focus groups and advisory committees",
+    "the process must be as open and transparent as possible",
+    "Surveys like this one, which don't track who is responding or how many times they've responded aren't particularly scientific / useful.",
+    "we have not received enough notice to attend them",
+    "Please ensure they are planned and notice is sent out at least 3 weeks in advance."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of transparency in funding process",
+    "Insufficient notice for public meetings",
+    "Unscientific survey methodology",
+    "Potential funding freeze during overhaul"
+  ],
+  "solutions_proposed": [
+    "Provide thorough explanation for repeated funding overhauls",
+    "Ensure process is open and transparent",
+    "Avoid use of out-of-town consultants",
+    "Do not rely on focus groups and advisory committees",
+    "Improve survey tracking and methodology",
+    "Send notice for town halls at least 3 weeks in advance"
+  ],
+  "cached_at": "2025-06-21T02:15:02.587744",
+  "cache_key": "80985501e8e66b14ad0351e9a7eb09026d3accdfe9168086843090669e0dca30",
+  "model": "gpt-41"
+}

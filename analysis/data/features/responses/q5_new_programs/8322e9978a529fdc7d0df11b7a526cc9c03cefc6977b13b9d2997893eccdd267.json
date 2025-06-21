@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public awareness of cultural events",
+    "access to media platforms",
+    "free promotional opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "free media time",
+    "announcements on public radio",
+    "bring public awareness"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness"
+  ],
+  "solutions_proposed": [
+    "provide free media time for announcements on public radio"
+  ],
+  "cached_at": "2025-06-21T02:09:08.042047",
+  "cache_key": "8322e9978a529fdc7d0df11b7a526cc9c03cefc6977b13b9d2997893eccdd267",
+  "model": "gpt-41"
+}

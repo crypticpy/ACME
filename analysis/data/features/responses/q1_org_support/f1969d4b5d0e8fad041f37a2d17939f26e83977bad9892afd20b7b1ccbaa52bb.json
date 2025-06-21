@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of author and book representation",
+    "perceived discrimination in grant funding",
+    "exclusion from event programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of author and book representation in event programs",
+    "major issue",
+    "feel discriminated against in city grants as well as state grants"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation in event programs",
+    "discrimination in city and state grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:12:29.302766",
+  "cache_key": "f1969d4b5d0e8fad041f37a2d17939f26e83977bad9892afd20b7b1ccbaa52bb",
+  "model": "gpt-41"
+}

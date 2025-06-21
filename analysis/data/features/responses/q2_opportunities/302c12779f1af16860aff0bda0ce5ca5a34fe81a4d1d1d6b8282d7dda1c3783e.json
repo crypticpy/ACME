@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordability of cultural events",
+    "community access to arts",
+    "desire for inclusivity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more free or low cost events",
+    "for the Austin community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "offer more free or low cost events"
+  ],
+  "cached_at": "2025-06-21T00:33:04.309976",
+  "cache_key": "302c12779f1af16860aff0bda0ce5ca5a34fe81a4d1d1d6b8282d7dda1c3783e",
+  "model": "gpt-41"
+}

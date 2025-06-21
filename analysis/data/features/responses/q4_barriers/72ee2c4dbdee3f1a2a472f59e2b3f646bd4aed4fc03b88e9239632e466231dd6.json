@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "competition for limited funding",
+    "burdensome application process",
+    "lack of government commitment to cultural branding",
+    "community creativity and passion undervalued",
+    "disconnect between city branding and actual support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "so many groups after the same small pot of funding",
+    "a ton of work to apply for a very small amount of money",
+    "you generally have to assume you won't get it",
+    "community is brimming with ideas, passion, and quality performance",
+    "branding in Austin as 'The Live Music Capital of the World' is just a brand",
+    "not a real intention from the government to make that a reality"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high competition for limited funding",
+    "labor-intensive application process for small grants",
+    "low likelihood of receiving funding",
+    "perceived lack of genuine government support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:12.911702",
+  "cache_key": "72ee2c4dbdee3f1a2a472f59e2b3f646bd4aed4fc03b88e9239632e466231dd6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for literary arts",
+    "support for Austin Bat Cave",
+    "equitable access for low income residents",
+    "importance of creative writing programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "increased funding for creating writing",
+    "specifically for Austin Bat Cave and the literary arts",
+    "reach low income residents",
+    "provide more equitable access to creative writing",
+    "critical for progressing equitable access to literary arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Bat Cave"
+  ],
+  "barriers_identified": [
+    "lack of equitable access to creative writing for low income residents"
+  ],
+  "solutions_proposed": [
+    "increased funding for creative writing and literary arts programs",
+    "support for programs that reach low income residents"
+  ],
+  "cached_at": "2025-06-20T10:45:34.319349",
+  "cache_key": "b043a679c891471ca06cbd42b5e92e25c28534e2c0a9207f73c9064792036b3a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased access",
+    "need for more information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More access and information"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access",
+    "lack of information"
+  ],
+  "solutions_proposed": [
+    "increase access",
+    "provide more information"
+  ],
+  "cached_at": "2025-06-21T00:53:54.674399",
+  "cache_key": "24dc7e572bc193eff00923af97a56f5fccb3e54b57b53324bbcf2cf33541830d",
+  "model": "gpt-41"
+}

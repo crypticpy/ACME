@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of creative spaces",
+    "lack of studio and gallery space for visual artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Visual Artists cannot find adorable studio and gallery space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to find affordable studio space",
+    "inability to find affordable gallery space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:49.907823",
+  "cache_key": "d21ec75edd5f17aaba135116234bf5da245af1a7de40196c8e656f6bb7a12526",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial burden on venues",
+    "rent reduction",
+    "tax relief for cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "support venues",
+    "reducing rent",
+    "tax burden"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent",
+    "tax burden"
+  ],
+  "solutions_proposed": [
+    "reduce rent for venues",
+    "reduce tax burden for venues"
+  ],
+  "cached_at": "2025-06-20T10:41:31.896144",
+  "cache_key": "509e99a055b3ed443692a8da1c86c73703b1cdb0e17d63804885e47a3aa98a9a",
+  "model": "gpt-41"
+}

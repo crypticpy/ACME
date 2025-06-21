@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of cultural diversity",
+    "support for existing diverse artists",
+    "value of historical programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "including and increasing existing cultural diversity",
+    "artists and programs that have historically supported such programming",
+    "our community benefits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "include and increase existing cultural diversity",
+    "support artists and programs that have historically supported such programming"
+  ],
+  "cached_at": "2025-06-21T00:46:12.269125",
+  "cache_key": "27515b969c717d489e371ed190642cdb65827e4343e897c153ed627c5c3db031",
+  "model": "gpt-41"
+}

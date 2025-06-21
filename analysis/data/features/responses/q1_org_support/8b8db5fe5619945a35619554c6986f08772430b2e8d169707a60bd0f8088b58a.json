@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for new organizations",
+    "focus on visual arts",
+    "resource allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more support for new visual arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support for new visual arts organizations"
+  ],
+  "cached_at": "2025-06-20T10:33:16.786669",
+  "cache_key": "8b8db5fe5619945a35619554c6986f08772430b2e8d169707a60bd0f8088b58a",
+  "model": "gpt-41"
+}

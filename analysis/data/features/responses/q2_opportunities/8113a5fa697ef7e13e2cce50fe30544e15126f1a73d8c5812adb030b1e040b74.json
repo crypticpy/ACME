@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more art shows",
+    "interest in ceramics classes and studios",
+    "need for affordable art studio spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Art shows",
+    "more ceramics classes and studios",
+    "Cheap art studio spaces for rent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cheap art studio spaces"
+  ],
+  "solutions_proposed": [
+    "more ceramics classes and studios",
+    "cheap art studio spaces for rent"
+  ],
+  "cached_at": "2025-06-21T00:41:35.705542",
+  "cache_key": "8113a5fa697ef7e13e2cce50fe30544e15126f1a73d8c5812adb030b1e040b74",
+  "model": "gpt-41"
+}

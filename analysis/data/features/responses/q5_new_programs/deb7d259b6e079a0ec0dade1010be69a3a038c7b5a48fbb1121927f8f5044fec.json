@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "value of marketing-related seminars",
+    "lack of business skills among creatives",
+    "need for professional development for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I've enjoyed the marketing-related seminars in the past",
+    "creatives don't always have the business-related savviness to highlight their work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business-related savviness among creatives"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:58:02.660115",
+  "cache_key": "deb7d259b6e079a0ec0dade1010be69a3a038c7b5a48fbb1121927f8f5044fec",
+  "model": "gpt-41"
+}

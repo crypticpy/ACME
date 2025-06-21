@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritizing community impact in funding",
+    "broadening public arts participation",
+    "distinction between artist income and public benefit",
+    "sustaining the arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Public funding should focus on community impact",
+    "insure a wide variety arts participation activities for the general public",
+    "public funding should help sustain an ecosystem that create jobs for artists",
+    "public funding's primary purpose is NOT to provide income for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Focus public funding on community impact and broad arts participation",
+    "Use public funding to sustain an arts ecosystem that creates jobs, rather than primarily providing income for artists"
+  ],
+  "cached_at": "2025-06-21T01:00:46.600461",
+  "cache_key": "aa6e35317d7e503988eae07ccb890766253c8e2d29937bb2353fd1cafc9eb0b7",
+  "model": "gpt-41"
+}

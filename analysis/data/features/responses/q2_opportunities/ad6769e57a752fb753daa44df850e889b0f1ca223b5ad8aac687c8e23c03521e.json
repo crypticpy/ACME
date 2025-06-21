@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "fair compensation for artists and musicians",
+    "support for creative expression",
+    "public art (murals)",
+    "artist residencies",
+    "community-based arts education",
+    "inclusive community gatherings",
+    "open access to art and music venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "paying musicians and artists for more creativity in the city",
+    "murals",
+    "artist residencies",
+    "music and art venues",
+    "community classes",
+    "community gatherings",
+    "open mic/ all-welcome art learning and sharing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of compensation for artists and musicians"
+  ],
+  "solutions_proposed": [
+    "organizations paying musicians and artists",
+    "increase in murals",
+    "more artist residencies",
+    "more music and art venues",
+    "more community classes",
+    "more community gatherings",
+    "open mic and all-welcome art learning and sharing opportunities"
+  ],
+  "cached_at": "2025-06-21T00:50:37.639301",
+  "cache_key": "ad6769e57a752fb753daa44df850e889b0f1ca223b5ad8aac687c8e23c03521e",
+  "model": "gpt-41"
+}

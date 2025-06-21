@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "self-sustainability of organizations",
+    "organizational independence"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "self-sustaining as possible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "organizations need to be as self-sustaining as possible"
+  ],
+  "cached_at": "2025-06-20T10:28:48.172119",
+  "cache_key": "3567ef6106a3ee61cd6fc646a71ebc767af1f6d335b9f4efed8b6677717b74c1",
+  "model": "gpt-41"
+}

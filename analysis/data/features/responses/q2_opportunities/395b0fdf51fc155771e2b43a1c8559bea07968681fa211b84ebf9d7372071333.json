@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more culturally-driven entertainment",
+    "representation of Austin's diversity in arts",
+    "reflection of community diversity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More culturally-driven entertainment",
+    "Austin is home to such diversity",
+    "that should be reflected"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase culturally-driven entertainment",
+    "Ensure arts programming reflects community diversity"
+  ],
+  "cached_at": "2025-06-21T00:34:26.612664",
+  "cache_key": "395b0fdf51fc155771e2b43a1c8559bea07968681fa211b84ebf9d7372071333",
+  "model": "gpt-41"
+}

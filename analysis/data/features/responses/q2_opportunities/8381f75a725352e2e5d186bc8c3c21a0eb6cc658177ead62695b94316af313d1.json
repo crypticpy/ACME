@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more cultural opportunities",
+    "emphasis on affordability",
+    "interest in music performances",
+    "interest in theater performances"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "All of them",
+    "Especially affordable music and theater performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability"
+  ],
+  "solutions_proposed": [
+    "increase affordable music and theater performances"
+  ],
+  "cached_at": "2025-06-21T00:33:26.909382",
+  "cache_key": "8381f75a725352e2e5d186bc8c3c21a0eb6cc658177ead62695b94316af313d1",
+  "model": "gpt-41"
+}

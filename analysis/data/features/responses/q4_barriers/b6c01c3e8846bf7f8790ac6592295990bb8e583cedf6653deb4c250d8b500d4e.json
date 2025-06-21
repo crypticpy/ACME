@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "organizational survival challenges",
+    "exclusionary application guidelines",
+    "limited access to funding opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "art organizations are struggling to survive",
+    "not allowed to apply",
+    "will not succeed with an application",
+    "guidelines have been written to exclude them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion from application eligibility",
+    "application guidelines designed to exclude certain artists and organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:19.386899",
+  "cache_key": "b6c01c3e8846bf7f8790ac6592295990bb8e583cedf6653deb4c250d8b500d4e",
+  "model": "gpt-41"
+}

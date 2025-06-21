@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "information accessibility",
+    "community outreach",
+    "equity in information distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "this information should be available to more people",
+    "areas communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to information"
+  ],
+  "solutions_proposed": [
+    "make information available to more people in area communities"
+  ],
+  "cached_at": "2025-06-21T02:11:11.365388",
+  "cache_key": "41d63ea3f898b28dcb1d3b51561daaff7418f0819c790e9d4da60ca39afaddd9",
+  "model": "gpt-41"
+}

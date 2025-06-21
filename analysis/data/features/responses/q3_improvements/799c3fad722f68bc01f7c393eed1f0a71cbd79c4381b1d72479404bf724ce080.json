@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public visibility of cultural programs",
+    "media coverage",
+    "awareness and outreach"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Have them appear on the news"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of media coverage"
+  ],
+  "solutions_proposed": [
+    "Appear on the news"
+  ],
+  "cached_at": "2025-06-21T01:13:07.402004",
+  "cache_key": "799c3fad722f68bc01f7c393eed1f0a71cbd79c4381b1d72479404bf724ce080",
+  "model": "gpt-41"
+}

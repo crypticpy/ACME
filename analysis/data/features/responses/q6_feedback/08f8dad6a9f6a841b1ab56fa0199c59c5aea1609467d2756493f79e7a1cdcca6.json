@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of cultural work",
+    "preservation of cultural integrity",
+    "cultural inclusivity",
+    "enjoyment of culture by all residents"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Your work is impactful",
+    "changing the cultural fabric of this city",
+    "preserve and protect Austin's cultural integrity",
+    "for everyone to enjoy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "preserve and protect Austin's cultural integrity for everyone to enjoy"
+  ],
+  "cached_at": "2025-06-21T02:17:42.848646",
+  "cache_key": "08f8dad6a9f6a841b1ab56fa0199c59c5aea1609467d2756493f79e7a1cdcca6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more concerts",
+    "interest in comedy events",
+    "support for musical theater"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Concerts",
+    "comedy",
+    "musical theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for concerts",
+    "Increase opportunities for comedy",
+    "Increase opportunities for musical theater"
+  ],
+  "cached_at": "2025-06-21T00:40:15.457426",
+  "cache_key": "9e5fd8a1faf9f6a7dd5337da7a5dbf3fc75b23c00f04a19b60e7c379da56781d",
+  "model": "gpt-41"
+}

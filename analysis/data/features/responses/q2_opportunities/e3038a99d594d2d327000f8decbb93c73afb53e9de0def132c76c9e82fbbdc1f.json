@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "scholarship opportunities for cultural events",
+    "celebration of Black history and culture",
+    "support for youth and student participation",
+    "literary and spoken word showcases"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Scholarships for MLK weekend",
+    "Black History",
+    "Juneteenth Month Essays",
+    "Poets, short stories, open Mic showcases",
+    "K-12, undergrad"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of scholarships for cultural participation"
+  ],
+  "solutions_proposed": [
+    "Provide scholarships for MLK weekend",
+    "Offer essay contests for Black History and Juneteenth Month",
+    "Host literary and open mic showcases for K-12 and undergrad students"
+  ],
+  "cached_at": "2025-06-21T00:44:14.648057",
+  "cache_key": "e3038a99d594d2d327000f8decbb93c73afb53e9de0def132c76c9e82fbbdc1f",
+  "model": "gpt-41"
+}

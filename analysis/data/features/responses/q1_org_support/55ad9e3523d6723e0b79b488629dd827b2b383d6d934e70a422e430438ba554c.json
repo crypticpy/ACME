@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for systemic political change",
+    "city-wide approach to cultural support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "supporting broad city wide political change"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "supporting broad city wide political change"
+  ],
+  "cached_at": "2025-06-20T01:23:32.715250",
+  "cache_key": "55ad9e3523d6723e0b79b488629dd827b2b383d6d934e70a422e430438ba554c",
+  "model": "gpt-41"
+}

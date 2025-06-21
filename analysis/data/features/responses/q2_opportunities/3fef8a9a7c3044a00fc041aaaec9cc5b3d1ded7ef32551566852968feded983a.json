@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased programming funding",
+    "support for artist residencies",
+    "need for affordable housing for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Programming funding",
+    "artist in residence",
+    "affordable housing options"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing options"
+  ],
+  "solutions_proposed": [
+    "increase programming funding",
+    "expand artist in residence opportunities",
+    "provide affordable housing options"
+  ],
+  "cached_at": "2025-06-21T00:46:34.791015",
+  "cache_key": "3fef8a9a7c3044a00fc041aaaec9cc5b3d1ded7ef32551566852968feded983a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for reconsideration of city funding",
+    "importance of major institutions",
+    "role of major institutions in arts education",
+    "dependency of smaller institutions on major institutions",
+    "support for emerging artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "City funding needs to be reconsidered",
+    "Major institutions need support",
+    "Without major institutions, the public will not be educated in the arts",
+    "emerging artists will not emerge",
+    "smaller institutions will not have arts supporters to help them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for major institutions",
+    "potential loss of arts education for the public",
+    "lack of support for emerging artists",
+    "smaller institutions lacking supporters"
+  ],
+  "solutions_proposed": [
+    "reconsider city funding",
+    "provide support to major institutions"
+  ],
+  "cached_at": "2025-06-20T10:22:28.178606",
+  "cache_key": "67f2a75bcf4d8c77befd190b5cdb332282239b731564b0ca828da6c88e515636",
+  "model": "gpt-41"
+}

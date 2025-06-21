@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism in funding",
+    "inequitable access to resources",
+    "role of personal connections in awards"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Money is being awarded to orgs and artists based on connections",
+    "They seem to already have money and access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding awarded based on connections",
+    "existing recipients already have resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:10.734548",
+  "cache_key": "b455d791324d504060ad44e928fcbd5b2491e12359a5e5a2bd7870f033da545e",
+  "model": "gpt-41"
+}

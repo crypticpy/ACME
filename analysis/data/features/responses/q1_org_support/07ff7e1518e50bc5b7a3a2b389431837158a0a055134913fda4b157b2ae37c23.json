@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational engagement",
+    "support for local cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "be more engaged in cultural local events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "be more engaged in cultural local events"
+  ],
+  "cached_at": "2025-06-20T10:45:20.698012",
+  "cache_key": "07ff7e1518e50bc5b7a3a2b389431837158a0a055134913fda4b157b2ae37c23",
+  "model": "gpt-41"
+}

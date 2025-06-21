@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "arts community engagement",
+    "connecting artists with the public",
+    "underrepresentation of community outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "a way for the arts community to connect with more citizens"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection between arts community and citizens"
+  ],
+  "solutions_proposed": [
+    "create opportunities for the arts community to connect with more citizens"
+  ],
+  "cached_at": "2025-06-21T02:07:07.637246",
+  "cache_key": "a970a2397c150ed96ac58ec8d20759570fc4a8a31df2e38ffe3b5f4702853819",
+  "model": "gpt-41"
+}

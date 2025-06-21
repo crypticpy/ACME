@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient arts funding",
+    "loss of creative workforce",
+    "lack of venues for emerging visual artists",
+    "closure of small galleries and event spaces",
+    "affordability crisis driving artists out of Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "very little money circulating in the arts",
+    "almost unsustainable for creatives to live and work on their craft here",
+    "very few venues for emerging visual artists",
+    "small galleries and event spaces close due to lack of funding",
+    "creatives have fled to places like smithville and lockhart",
+    "We all just need a bunch of money unfortunately"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for the arts",
+    "insufficient venues for emerging artists",
+    "closure of small galleries and event spaces",
+    "high cost of living driving artists away"
+  ],
+  "solutions_proposed": [
+    "increase funding for the arts"
+  ],
+  "cached_at": "2025-06-21T00:26:50.859821",
+  "cache_key": "da32e8592bb22e6f6ed2d44f9e7c446b96f9dd0e64d01e091a1d03a87687fbcb",
+  "model": "gpt-41"
+}

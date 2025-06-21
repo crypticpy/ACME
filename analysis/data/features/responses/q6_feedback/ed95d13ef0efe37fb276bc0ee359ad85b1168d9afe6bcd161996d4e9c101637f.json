@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "engagement of songwriters in public events",
+    "artist professional development",
+    "educational opportunities in marketing and songwriting",
+    "facilitating artist collaboration"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "reach out to songwriters to perform for events around Austin",
+    "give artists educational opportunities on marketing, songwriting and collaborative opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "reach out to songwriters to perform for events",
+    "give artists educational opportunities on marketing",
+    "give artists educational opportunities on songwriting",
+    "give artists collaborative opportunities"
+  ],
+  "cached_at": "2025-06-21T02:20:21.932955",
+  "cache_key": "ed95d13ef0efe37fb276bc0ee359ad85b1168d9afe6bcd161996d4e9c101637f",
+  "model": "gpt-41"
+}

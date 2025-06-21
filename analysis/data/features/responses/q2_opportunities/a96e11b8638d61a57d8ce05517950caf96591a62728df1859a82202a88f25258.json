@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more public cultural festivals",
+    "interest in museums",
+    "expansion of accessible cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Public cultural festivals",
+    "museums"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase public cultural festivals",
+    "Expand museum offerings"
+  ],
+  "cached_at": "2025-06-21T00:38:43.584444",
+  "cache_key": "a96e11b8638d61a57d8ce05517950caf96591a62728df1859a82202a88f25258",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding as primary support",
+    "empowering organizations through re-granting",
+    "promotion of cross-cultural exchange",
+    "need for external and internal collaboration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fund them!",
+    "Let them run re-granting programs",
+    "encourage them to do cross-cultural exchange with folks in and outside of Austin",
+    "Funding is the main need"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [
+    "Provide direct funding to organizations and cultural leaders",
+    "Allow organizations to run re-granting programs",
+    "Encourage cross-cultural exchange within and outside Austin"
+  ],
+  "cached_at": "2025-06-20T01:22:15.778640",
+  "cache_key": "94f80143b869f81385fa3f8f84b5509c063d499fee5726492031816d11ee04ed",
+  "model": "gpt-41"
+}

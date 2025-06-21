@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "incentives for organizations",
+    "affordable space for creatives",
+    "leveraging organizational expertise",
+    "network information sharing",
+    "business education for cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "offer incentives like subsidized space or rent stipends",
+    "provide affordable space to emerging creatives",
+    "leverage their expertise to share information with their networks",
+    "offer business education"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable space for emerging creatives"
+  ],
+  "solutions_proposed": [
+    "offer incentives like subsidized space or rent stipends",
+    "leverage organizational expertise to share information",
+    "offer business education"
+  ],
+  "cached_at": "2025-06-20T10:35:11.843983",
+  "cache_key": "1d89cd16ef1b3cd58fe5281dd88f25dc510a1179c665e539b0ec3a13a67b80b5",
+  "model": "gpt-41"
+}

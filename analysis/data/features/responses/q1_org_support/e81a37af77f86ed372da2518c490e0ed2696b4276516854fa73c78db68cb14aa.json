@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about increased bureaucracy",
+    "support for existing organizations and leaders",
+    "resistance to unnecessary change",
+    "fear of setbacks due to policy changes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Do not slow them down",
+    "another level of bureaucracy",
+    "continue to support them and grow",
+    "Do not reinvent the wheel",
+    "setting people back another 10 years"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "additional bureaucracy",
+    "policy changes that hinder progress"
+  ],
+  "solutions_proposed": [
+    "Do not slow them down",
+    "Do not change how they do things",
+    "Continue to support them and grow",
+    "Do not reinvent the wheel"
+  ],
+  "cached_at": "2025-06-20T10:36:10.740303",
+  "cache_key": "e81a37af77f86ed372da2518c490e0ed2696b4276516854fa73c78db68cb14aa",
+  "model": "gpt-41"
+}

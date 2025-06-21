@@ -1,0 +1,51 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of major arts organizations and events",
+    "Critique of funding rubrics prioritizing leadership demographics",
+    "Imbalance between private and public funding responsibilities",
+    "Underfunding and lack of advocacy for visual arts",
+    "Disproportionate support for performing arts over visual arts",
+    "Facility design favoring performance over visual arts",
+    "Need for balanced, equity-focused funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "organizations like Big Medium and events like the Austin Studio Tour get killed off",
+    "the rubric for ACME's support would do well to consider the breadth of opportunity",
+    "special population metrics overly focused on leadership demographics",
+    "why private donors have left so much of the responsibility for support of the major arts to the City",
+    "funding for visual arts suffers with respect to other art forms",
+    "performing arts groups... are inherently organized and... provide focused advocacy",
+    "visual arts were shunted off to an upstairs corner in a gallery with less display wall",
+    "a balanced approach would guard against squeaky wheels getting all the grease"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium",
+    "Austin Studio Tour",
+    "Long Center",
+    "DAC"
+  ],
+  "barriers_identified": [
+    "Overemphasis on leadership demographics in funding criteria",
+    "Lack of private donor support for major arts organizations",
+    "Visual arts lack organized advocacy compared to performing arts",
+    "Facility design marginalizes visual arts"
+  ],
+  "solutions_proposed": [
+    "Adjust funding rubric to consider breadth of opportunity for artists",
+    "Require private donors to support major arts infrastructure",
+    "City funding should prioritize organizations lacking access to big donors",
+    "Handicap City support to account for differences in advocacy capacity among art forms",
+    "Fill gaps in the arts landscape rather than reinforcing already-strong sectors",
+    "Adopt a balanced approach to funding and infrastructure"
+  ],
+  "cached_at": "2025-06-20T10:38:33.914923",
+  "cache_key": "06dd5a5042e466617c803ac4150da910f7c32fc6552478ae7853f806613cfc24",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more mid size theater productions",
+    "frequency of cultural events",
+    "support for theater arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Frequency of mid size theater productions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the frequency of mid size theater productions"
+  ],
+  "cached_at": "2025-06-21T00:44:09.499010",
+  "cache_key": "f2a2a6b0b078f56f171ff8aa7c5d2775b46a08cf2af1ae647a9715956c481efe",
+  "model": "gpt-41"
+}

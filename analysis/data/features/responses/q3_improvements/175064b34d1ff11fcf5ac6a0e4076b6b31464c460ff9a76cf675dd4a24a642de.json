@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of application process",
+    "accessibility for artists and organizations",
+    "need for expanded funding",
+    "administrative burden of grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "application process should be more straight forward and streamlined",
+    "simplifying the process further for artists and organizations may increase accessibility",
+    "funding further expanded",
+    "applying for a grant and operating a grant is a complex procedure"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "administrative complexity for artists and organizations"
+  ],
+  "solutions_proposed": [
+    "make the application process more straightforward and streamlined",
+    "simplify the process for artists and organizations",
+    "expand funding"
+  ],
+  "cached_at": "2025-06-21T01:01:02.787822",
+  "cache_key": "175064b34d1ff11fcf5ac6a0e4076b6b31464c460ff9a76cf675dd4a24a642de",
+  "model": "gpt-41"
+}

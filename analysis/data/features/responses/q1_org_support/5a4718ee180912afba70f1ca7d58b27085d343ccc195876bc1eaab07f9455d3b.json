@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued financial support for creative organizations",
+    "value of local creative sector",
+    "role of funding in sustaining cultural organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Keep funding creative organizations in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Keep funding creative organizations in Austin"
+  ],
+  "cached_at": "2025-06-20T10:40:20.926131",
+  "cache_key": "5a4718ee180912afba70f1ca7d58b27085d343ccc195876bc1eaab07f9455d3b",
+  "model": "gpt-41"
+}

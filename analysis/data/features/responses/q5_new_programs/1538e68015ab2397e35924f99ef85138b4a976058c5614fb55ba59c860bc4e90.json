@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable central housing for artists",
+    "affordable studio space",
+    "economic accessibility of cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Affordable central housing to keep artists here",
+    "Affordable studio space",
+    "Events should be affordable to all income levels"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing for artists",
+    "lack of affordable studio space",
+    "high cost of event participation for lower income individuals"
+  ],
+  "solutions_proposed": [
+    "provide affordable central housing for artists",
+    "provide affordable studio space",
+    "ensure events are affordable to all income levels"
+  ],
+  "cached_at": "2025-06-21T02:08:08.913020",
+  "cache_key": "1538e68015ab2397e35924f99ef85138b4a976058c5614fb55ba59c860bc4e90",
+  "model": "gpt-41"
+}

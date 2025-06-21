@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "administrative burden of funding applications",
+    "conflict between art-making and bureaucratic requirements",
+    "balancing multiple life responsibilities",
+    "time constraints for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the time it takes to apply for, maintain, document, and fulfill the requirements for funding",
+    "holding a full time job",
+    "taking care of family",
+    "trying to make art all at the same time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lengthy and complex funding application processes",
+    "difficulty balancing funding requirements with employment",
+    "difficulty balancing funding requirements with family responsibilities",
+    "insufficient time for art-making due to administrative demands"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:27.575645",
+  "cache_key": "31a7e7aa2d3510fc7e6dab94853441d4436ef4deec2b312ed52d68f19dda19a7",
+  "model": "gpt-41"
+}

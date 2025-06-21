@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "allocation of public funding favoring developers",
+    "lack of support for grassroots creativity",
+    "concern over proposed convention center funding",
+    "misdirection of bond loans away from artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding being spent by and for developer interests",
+    "instead of Austin grass roots creativity",
+    "ESPECIALLY THE NEW PROPOSED CONVENTION CENTER",
+    "BILLIONS TIED TO THAT BOND LOAN THAT COULD BE GOING DIRECTLY TO ARTISTS AND ARTISTIC INSTITUTIONS"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "public funding prioritized for developer interests over artists",
+    "large-scale projects (convention center) diverting resources from local artists and institutions"
+  ],
+  "solutions_proposed": [
+    "redirect bond loan funding directly to artists and artistic institutions"
+  ],
+  "cached_at": "2025-06-21T01:46:51.546933",
+  "cache_key": "268491c99316cad8ec5000e6ef883bce07cb647320825ab4a4739340a137e692",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "genre-mixing events",
+    "audience cross-pollination",
+    "exposure to new artists",
+    "diversity of musical genres",
+    "community building across niches"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities to mix genres and audiences",
+    "discover new artists",
+    "events with a wide variety of genre",
+    "from indie classical to rock to jazz",
+    "people from each niche can get to know the Austin scene",
+    "bring new fans to each group participating"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for genre and audience mixing",
+    "lack of exposure to other niches"
+  ],
+  "solutions_proposed": [
+    "create events with a wide variety of genres",
+    "design opportunities for different audiences and artists to interact"
+  ],
+  "cached_at": "2025-06-21T00:38:06.435062",
+  "cache_key": "1481321b61f2169db5afb10bb8366cea088cfe206e8765e1a8427c564cc5d5db",
+  "model": "gpt-41"
+}

@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Innovative funding mechanisms for the arts",
+    "Business responsibility in supporting culture",
+    "Artist visibility in upscale venues",
+    "Donation incentives and recognition",
+    "Sustainable event practices",
+    "Volunteer labor by artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Tax the businesses who receive incentives",
+    "Art Donation block on the DMV forms",
+    "Wallspace in high end restaurants, bars, offices, and secure public places",
+    "artist\u2019s data AND a way to make a donation",
+    "A reward concert for high dollar donations",
+    "Zero Waste, obviously",
+    "Manual labor by artists who volunteer"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited funding sources for Austin Art and Music grants",
+    "Lack of artist visibility in high-end venues"
+  ],
+  "solutions_proposed": [
+    "Tax businesses who receive incentives to support the arts",
+    "Add an art donation option to DMV forms",
+    "Provide wallspace in high-end establishments for artists with donation options",
+    "Host a reward concert for high-dollar donors",
+    "Use dish lending library\u2019s dishes for zero waste events",
+    "Encourage manual labor/volunteering by artists"
+  ],
+  "cached_at": "2025-06-21T02:21:56.331262",
+  "cache_key": "59e2429c90c72b809e6c30c7598ef5ef9148d3a1a9e900ffeb5343a83ab4859d",
+  "model": "gpt-41"
+}

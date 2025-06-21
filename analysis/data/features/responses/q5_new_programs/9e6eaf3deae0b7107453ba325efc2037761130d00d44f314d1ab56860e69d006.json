@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preservation of small performing arts venues",
+    "affordability of cultural spaces",
+    "contrast with large, established venues",
+    "municipal support for new venue creation",
+    "utilization of city property for arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "preserving small, affordable (as opposed to Zach or the Long Center) performing arts venues",
+    "helping to create new ones",
+    "leasing city property that can be converted by ambitious theatermakers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Zach",
+    "Long Center"
+  ],
+  "barriers_identified": [
+    "lack of small, affordable performing arts venues",
+    "dominance of large, established venues"
+  ],
+  "solutions_proposed": [
+    "preserve small, affordable performing arts venues",
+    "help create new venues",
+    "lease city property for conversion by theatermakers"
+  ],
+  "cached_at": "2025-06-21T01:58:47.743438",
+  "cache_key": "9e6eaf3deae0b7107453ba325efc2037761130d00d44f314d1ab56860e69d006",
+  "model": "gpt-41"
+}

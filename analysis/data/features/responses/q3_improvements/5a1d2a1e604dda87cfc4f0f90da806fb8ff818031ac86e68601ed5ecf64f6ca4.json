@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased opportunities",
+    "diversity and inclusion",
+    "community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more opportunities",
+    "diverse community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "create more opportunities for the diverse community"
+  ],
+  "cached_at": "2025-06-21T01:16:59.252041",
+  "cache_key": "5a1d2a1e604dda87cfc4f0f90da806fb8ff818031ac86e68601ed5ecf64f6ca4",
+  "model": "gpt-41"
+}

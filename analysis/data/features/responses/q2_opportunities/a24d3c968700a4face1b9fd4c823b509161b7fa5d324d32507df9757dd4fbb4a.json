@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "intentional inclusion of disabled individuals in arts",
+    "lack of accessibility and support for disabled artists",
+    "need for physically accessible and sensory-considerate spaces",
+    "importance of disability representation in programming and leadership",
+    "public funding for accessibility initiatives",
+    "integrated and inclusive arts education and performance groups",
+    "call for systemic change in defining excellence through equity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "intentionally inclusive of disabled individuals\u2014not just as audience members, but as artists, performers, and creators",
+    "disabled musicians and artists\u2014especially those with complex support needs\u2014are often excluded from meaningful participation",
+    "spaces that are physically accessible, sensory-considerate, and staffed by individuals trained in disability inclusion",
+    "performance venues, festivals, community music programs, and artist residencies that truly welcome disabled creatives",
+    "integrated performance groups, inclusive music education programs, and public funding directed toward accessibility initiatives",
+    "authentic representation of disability in programming, leadership, and public messaging should be a baseline, not a bonus",
+    "missing is infrastructure, commitment, and the courage to redefine excellence through the lens of equity and inclusion"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of disabled artists and musicians from meaningful participation",
+    "lack of physically accessible and sensory-considerate spaces",
+    "staff not trained in disability inclusion",
+    "existing, exclusionary structures in arts programming",
+    "inadequate infrastructure and commitment to accessibility"
+  ],
+  "solutions_proposed": [
+    "create spaces that are physically accessible and sensory-considerate",
+    "staff venues and programs with individuals trained in disability inclusion",
+    "develop integrated performance groups and inclusive music education programs",
+    "direct public funding toward accessibility initiatives in the arts",
+    "make authentic disability representation in programming, leadership, and messaging a baseline",
+    "redefine excellence through the lens of equity and inclusion"
+  ],
+  "cached_at": "2025-06-21T00:51:44.384632",
+  "cache_key": "a24d3c968700a4face1b9fd4c823b509161b7fa5d324d32507df9757dd4fbb4a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "insufficient compensation for cultural work",
+    "financial barriers to participation",
+    "affordability of arts and cultural experiences"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Low pay",
+    "high cost"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "low pay",
+    "high cost"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:24.099171",
+  "cache_key": "4d931ce23f8accede90694f0886f67040f838f8135a6aae0c3c489cb2092dbbe",
+  "model": "gpt-41"
+}

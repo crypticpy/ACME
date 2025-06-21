@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Shift from DEI focus to artistic merit",
+    "Need for knowledgeable grant reviewers",
+    "Support for underrepresented artists in application process",
+    "Evaluation process fairness and bias",
+    "Grant program structure and genre expertise"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "focus on performance, music, bringing arts of all genre's to the community",
+    "prior emphasis on diversity, equity and inclusion, rather than the art",
+    "underrepresented artists do not always have the ability to prepare grant applications",
+    "Cultural Arts Division staff who hold office hours and are happy to help",
+    "interviewers must be familiar with the organization's performance repertoire",
+    "three levels of grant applications (Nexus, Thrive and Elevate) are acceptable",
+    "further breakdown within those levels to insure that the applications are evaluated by knowledgeable reviewers within the genre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Thrive",
+    "Elevate",
+    "Cultural Arts Division"
+  ],
+  "barriers_identified": [
+    "underrepresented artists do not always have the ability to prepare grant applications",
+    "interviewers making assumptions about the organization/performer",
+    "lack of genre-specific knowledge among reviewers"
+  ],
+  "solutions_proposed": [
+    "focus on performance and artistic merit rather than solely on DEI",
+    "maintain staff support (office hours) for application preparation",
+    "require interviewers to be familiar with the organization's repertoire and application",
+    "ensure unbiased interviews based on knowledge of organization and content",
+    "further breakdown of grant levels for genre-specific evaluation by knowledgeable reviewers"
+  ],
+  "cached_at": "2025-06-21T00:57:25.109294",
+  "cache_key": "b4341a8e2bd20633ef5b4cd42a2af2efbf55de4f7ea179d5dd59083e79cb2e1d",
+  "model": "gpt-41"
+}

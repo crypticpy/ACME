@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased school outreach",
+    "lack of cultural programming for young children",
+    "importance of cultural pride and preservation",
+    "intergenerational connection through culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more school outreach!!",
+    "Not enough of that for the young children",
+    "When there is cultural day at these schools, ACME should be there",
+    "instill cultural pride",
+    "foster cultural preservation through teaching the young and bringing together the old"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Not enough school outreach for young children"
+  ],
+  "solutions_proposed": [
+    "ACME should participate in cultural day at schools",
+    "Instill cultural pride and foster preservation by teaching the young and bringing together the old"
+  ],
+  "cached_at": "2025-06-21T01:53:18.992594",
+  "cache_key": "2eea89638b64991fd63c7d1eac0c6830c112bc68658b56818739fe6f1fa296c4",
+  "model": "gpt-41"
+}

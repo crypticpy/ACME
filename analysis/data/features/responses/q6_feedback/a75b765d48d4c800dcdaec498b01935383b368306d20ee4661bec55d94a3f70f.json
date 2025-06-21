@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of ACME",
+    "consideration of Austin's future",
+    "support for cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "keep ACME a priority",
+    "Austin's future top of mind"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "keep ACME a priority with Austin's future top of mind"
+  ],
+  "cached_at": "2025-06-21T02:19:18.303096",
+  "cache_key": "a75b765d48d4c800dcdaec498b01935383b368306d20ee4661bec55d94a3f70f",
+  "model": "gpt-41"
+}

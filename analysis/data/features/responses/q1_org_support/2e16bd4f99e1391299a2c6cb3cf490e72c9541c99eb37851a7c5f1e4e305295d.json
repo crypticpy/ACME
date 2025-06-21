@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking opportunities",
+    "expanded programming",
+    "event promotion and marketing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Networking",
+    "more programming",
+    "event promotion"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Networking",
+    "more programming",
+    "event promotion"
+  ],
+  "cached_at": "2025-06-20T10:26:27.787426",
+  "cache_key": "2e16bd4f99e1391299a2c6cb3cf490e72c9541c99eb37851a7c5f1e4e305295d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for greater diversity among artists",
+    "inclusivity in cultural support",
+    "accessibility for underserved communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "greater diversity and inclusivity",
+    "across artists",
+    "accessibility for underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diversity and inclusivity",
+    "limited accessibility for underserved communities"
+  ],
+  "solutions_proposed": [
+    "greater diversity and inclusivity across artists",
+    "improved accessibility for underserved communities"
+  ],
+  "cached_at": "2025-06-20T10:40:14.822368",
+  "cache_key": "c2a12693eedc509f4bec06cf283c56003783c073d93752c3f4f52e9190c8c122",
+  "model": "gpt-41"
+}

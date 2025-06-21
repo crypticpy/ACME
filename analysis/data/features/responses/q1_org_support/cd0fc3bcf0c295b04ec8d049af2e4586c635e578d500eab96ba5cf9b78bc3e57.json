@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "amplifying existing grassroots and artist-led initiatives",
+    "direct resource and infrastructure support for under-resourced organizations",
+    "redistribution of power through participatory decision-making",
+    "collaborative programming and partnerships",
+    "recognition and visibility for local cultural leaders",
+    "sustainable, long-term funding pathways",
+    "capacity-building and professional development"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "not to reinvent the wheel, but to amplify, resource, and connect the efforts that already exist",
+    "provide direct access to funding, grantwriting assistance, fiscal sponsorship, space-sharing, and administrative infrastructure",
+    "redistribute power and decision-making into the hands of those leading the work on the ground",
+    "co-producing events, exhibitions, festivals, or educational series in collaboration with local orgs and local artists",
+    "highlight the work of local musicians and cultural leaders and organizations through ACME\u2019s platforms",
+    "help organizations move beyond project-based grants by facilitating long-term partnerships, city contracts, and mission-aligned sponsorships",
+    "offer workshops and mentorship in areas like digital strategy, data ownership, audience development, and organizational growth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "under-resourced but high-impact creative orgs",
+    "lack of direct access to funding, grantwriting assistance, fiscal sponsorship, space-sharing, and administrative infrastructure",
+    "limited power and decision-making for those leading work on the ground",
+    "reliance on project-based grants"
+  ],
+  "solutions_proposed": [
+    "provide direct access to funding, grantwriting assistance, fiscal sponsorship, space-sharing, and administrative infrastructure",
+    "host quarterly town halls or listening sessions to redistribute power and decision-making",
+    "act as a convener or strategic partner for co-programming with local orgs and artists",
+    "highlight local musicians and cultural leaders through ACME\u2019s platforms",
+    "facilitate long-term partnerships, city contracts, and mission-aligned sponsorships",
+    "offer workshops and mentorship in digital strategy, data ownership, audience development, and organizational growth"
+  ],
+  "cached_at": "2025-06-20T10:27:05.736406",
+  "cache_key": "cd0fc3bcf0c295b04ec8d049af2e4586c635e578d500eab96ba5cf9b78bc3e57",
+  "model": "gpt-41"
+}

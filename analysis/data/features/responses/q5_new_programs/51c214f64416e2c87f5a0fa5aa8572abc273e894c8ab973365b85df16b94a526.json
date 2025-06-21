@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for education about government impact on arts",
+    "lack of information on federal, state, and city roles",
+    "desire for new or expanded educational programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "education surrounding federal, state, and city impact on the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of education about government impact on the arts"
+  ],
+  "solutions_proposed": [
+    "offer education surrounding federal, state, and city impact on the arts"
+  ],
+  "cached_at": "2025-06-21T01:59:07.566091",
+  "cache_key": "51c214f64416e2c87f5a0fa5aa8572abc273e894c8ab973365b85df16b94a526",
+  "model": "gpt-41"
+}

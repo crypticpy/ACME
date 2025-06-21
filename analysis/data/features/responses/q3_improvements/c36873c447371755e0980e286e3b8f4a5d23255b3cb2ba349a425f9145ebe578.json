@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Caribbean cultural representation",
+    "Diversity in funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More Caribbean representation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of Caribbean representation"
+  ],
+  "solutions_proposed": [
+    "Increase Caribbean representation"
+  ],
+  "cached_at": "2025-06-21T01:04:47.194362",
+  "cache_key": "c36873c447371755e0980e286e3b8f4a5d23255b3cb2ba349a425f9145ebe578",
+  "model": "gpt-41"
+}

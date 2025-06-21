@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for community engagement",
+    "support for initiative"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "thank you for taking the time to learn about the community\u2019s insights",
+    "very cool initiative"
+  ],
+  "intent": "expression_of_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:10.337860",
+  "cache_key": "1381b93b15c9db8f338548f829635aae726c12a2c26417f162ab31aba657dbee",
+  "model": "gpt-41"
+}

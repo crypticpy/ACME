@@ -1,0 +1,47 @@
+{
+  "analysis_date": "2025-06-21T02:23:54.426537",
+  "programs_analyzed": 8,
+  "total_program_mentions": 193,
+  "program_summaries": {
+    "Nexus": {
+      "mentions": 38,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Thrive": {
+      "mentions": 58,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Elevate": {
+      "mentions": 55,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Austin Live Music Fund": {
+      "mentions": 3,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Art in Public Places": {
+      "mentions": 8,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Creative Space Assistance Program": {
+      "mentions": 10,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Cultural Arts Division": {
+      "mentions": 10,
+      "strengths_count": 0,
+      "improvements_count": 0
+    },
+    "Economic Development Department": {
+      "mentions": 11,
+      "strengths_count": 0,
+      "improvements_count": 0
+    }
+  }
+}

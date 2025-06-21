@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for small venues",
+    "local arts infrastructure",
+    "underrepresentation of small arts spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support for small local arts venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for small local arts venues"
+  ],
+  "solutions_proposed": [
+    "support for small local arts venues"
+  ],
+  "cached_at": "2025-06-21T02:07:43.525067",
+  "cache_key": "f7f03fe87adf0e73b7f13d40da74307ba04d1e1f28dc4b5d7cfda6a8cf4a4eef",
+  "model": "gpt-41"
+}

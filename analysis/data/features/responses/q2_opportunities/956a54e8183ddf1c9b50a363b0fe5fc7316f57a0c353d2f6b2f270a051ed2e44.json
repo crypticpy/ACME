@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interactive street art at festivals",
+    "community engagement through performance",
+    "expanded activities in local parks",
+    "cultural programming at swimming pools"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "performance street art at festivals that engage attendees",
+    "more activities in all local parks",
+    "more activities at swimming pools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase performance street art at festivals",
+    "expand activities in local parks",
+    "add more activities at swimming pools"
+  ],
+  "cached_at": "2025-06-21T00:49:55.941456",
+  "cache_key": "956a54e8183ddf1c9b50a363b0fe5fc7316f57a0c353d2f6b2f270a051ed2e44",
+  "model": "gpt-41"
+}

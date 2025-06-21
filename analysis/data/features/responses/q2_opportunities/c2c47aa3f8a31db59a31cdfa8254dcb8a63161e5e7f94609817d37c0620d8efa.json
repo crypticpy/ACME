@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more house music events",
+    "interest in electronic music genres"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "House music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase house music opportunities"
+  ],
+  "cached_at": "2025-06-21T00:35:17.357208",
+  "cache_key": "c2c47aa3f8a31db59a31cdfa8254dcb8a63161e5e7f94609817d37c0620d8efa",
+  "model": "gpt-41"
+}

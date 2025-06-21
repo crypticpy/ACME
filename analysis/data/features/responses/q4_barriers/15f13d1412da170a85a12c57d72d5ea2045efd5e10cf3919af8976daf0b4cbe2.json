@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for arts and culture",
+    "lack of cultural programming in specific neighborhoods",
+    "geographic inequity (78744 zip code)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of funding",
+    "lack of programming in the 78744 zip code"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of funding",
+    "Lack of programming in the 78744 zip code"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:37.637739",
+  "cache_key": "15f13d1412da170a85a12c57d72d5ea2045efd5e10cf3919af8976daf0b4cbe2",
+  "model": "gpt-41"
+}

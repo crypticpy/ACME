@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of city financial support for visual arts",
+    "dominance of private partnership in visual arts",
+    "perceived neglect of public funding responsibilities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "it is shameful",
+    "visual arts have been spearheaded by private partnership",
+    "so little city financial support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city financial support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:08.705828",
+  "cache_key": "5ae29d56588cc55ec3e4eb9c708d03ff9790338a658f083450ced35f8b5f0263",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application accessibility",
+    "visual learning needs",
+    "clarity of communication in grant processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "make the language in grant and project applications more easily understandable",
+    "include visual representations of information",
+    "a lot of artists are visual learners"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex or unclear application language",
+    "lack of visual information for visual learners"
+  ],
+  "solutions_proposed": [
+    "make the language in grant and project applications more easily understandable",
+    "include visual representations of information"
+  ],
+  "cached_at": "2025-06-21T02:11:10.158259",
+  "cache_key": "ac42b68b8bdd117c2b5c5b128afdf9b637f69d03caaf09e409e774a5478b4008",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist affordability and retention",
+    "support for niche and underrepresented communities",
+    "vulnerability of mid-level, artist-run institutions",
+    "impact of federal and state funding cuts",
+    "lack of private philanthropy for small organizations",
+    "need for cultural export opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "improve the ability for artists to live and do their creative work in Austin",
+    "Artist Resource Grants that North Adams, MA did",
+    "expanded support for cultural activities that serve niche communities",
+    "support for critical, mid-level, artist-run institutions in Austin that are at risk",
+    "federal funding cancellation and state funding precarity",
+    "private philanthropy is not here like it is in Houston or Dallas",
+    "resources for Austin-based artists to show their work elsewhere"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Artist Resource Grants (North Adams, MA)"
+  ],
+  "barriers_identified": [
+    "affordability for artists to live and work in Austin",
+    "risk to mid-level, artist-run institutions due to funding cuts",
+    "precarity of state funding",
+    "lack of private philanthropy for smaller-budget organizations"
+  ],
+  "solutions_proposed": [
+    "implement Artist Resource Grants similar to North Adams, MA",
+    "expand support for niche communities and their venues",
+    "increase support for mid-level, artist-run institutions",
+    "city to step up support during funding crisis",
+    "provide resources for Austin-based artists to present work outside the city"
+  ],
+  "cached_at": "2025-06-21T00:38:52.087905",
+  "cache_key": "156f22bd275379a811112aad600dd1c291519f7a32cb497bb5a1d1fcd8d1fe77",
+  "model": "gpt-41"
+}

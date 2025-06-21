@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of diverse grant recipients in process design",
+    "representation in funding decision-making",
+    "process improvement for cultural arts grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Include a mix of current, former, and prospective cultural arts grant recipients",
+    "funding process design"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diverse recipient involvement in process design"
+  ],
+  "solutions_proposed": [
+    "Include a mix of current, former, and prospective cultural arts grant recipients in the funding process design"
+  ],
+  "cached_at": "2025-06-21T01:06:41.335174",
+  "cache_key": "06f2d5a9c447a4963051e9c14051f8091e038de0b1464e124deac52319954a61",
+  "model": "gpt-41"
+}

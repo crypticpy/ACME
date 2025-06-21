@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for higher quality in cultural offerings",
+    "Critique of current artistic standards",
+    "Perceived overrepresentation of white artists lacking depth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Actual quality instead of medium / bad white artists",
+    "lack depth"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Prevalence of medium or bad white artists who lack depth"
+  ],
+  "solutions_proposed": [
+    "Increase actual quality in cultural offerings"
+  ],
+  "cached_at": "2025-06-21T00:25:12.189667",
+  "cache_key": "3d57e474294ba12c563d0751601ac91cba621bd48d199436fe0271ddd9da5584",
+  "model": "gpt-41"
+}

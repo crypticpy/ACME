@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for long-term and stable funding",
+    "support for organizations led by marginalized groups",
+    "simplification and flexibility of funding processes",
+    "capacity-building and organizational development",
+    "community engagement and transparent decision-making"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more stable, long-term funding",
+    "especially for organizations led by people of color, women, and those working in underserved communities",
+    "funding should be simple to apply for and flexible enough to meet real needs",
+    "help with running their organizations",
+    "resources like business training, planning support, and help with things like hiring or writing grants",
+    "keep listening to the community",
+    "advisory groups with local artists and leaders",
+    "regular feedback sessions",
+    "being transparent about decisions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of stable, long-term funding",
+    "complex or inflexible funding applications",
+    "insufficient support for capacity-building",
+    "lack of transparency and community input in decision-making"
+  ],
+  "solutions_proposed": [
+    "offer more stable, long-term funding",
+    "prioritize support for organizations led by people of color, women, and those in underserved communities",
+    "simplify and make funding more flexible",
+    "provide business training, planning support, and assistance with hiring or grant writing",
+    "create advisory groups with local artists and leaders",
+    "hold regular feedback sessions",
+    "increase transparency about decisions"
+  ],
+  "cached_at": "2025-06-20T01:17:55.554448",
+  "cache_key": "38202ffed3ad6db3bd4a71cd832b1ec388597a6ed25ef7bc391ea4805f09485b",
+  "model": "gpt-41"
+}

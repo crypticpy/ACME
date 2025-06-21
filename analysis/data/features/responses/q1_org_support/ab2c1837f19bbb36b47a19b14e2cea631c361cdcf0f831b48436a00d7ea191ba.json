@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived lack of genuine support for arts",
+    "competition and scarcity of funding",
+    "community division due to funding practices",
+    "favoritism toward wealthy or politically connected groups",
+    "failure to follow established policies and commitments"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Austin likes to pat itself on the back for how supportive they are for the arts. It's a myth.",
+    "Artists and the arts community have to fight and scratch for any support, any funding, any cooperation and coordination, and any public awareness.",
+    "Stop the back slapping and come up with creative ways to provide support that don't divide the community.",
+    "Stop catering to any particular group, whether they have lots of money or political weight",
+    "follow the policies and commitments that have been developed over the years with real input, real consultants, and real results."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition for limited support and funding",
+    "lack of cooperation and coordination",
+    "lack of public awareness",
+    "favoritism toward wealthy or politically influential groups",
+    "failure to implement established policies"
+  ],
+  "solutions_proposed": [
+    "come up with creative ways to provide support that don't divide the community",
+    "stop catering to any particular group",
+    "follow the policies and commitments that have been developed over the years"
+  ],
+  "cached_at": "2025-06-20T10:28:07.159933",
+  "cache_key": "ab2c1837f19bbb36b47a19b14e2cea631c361cdcf0f831b48436a00d7ea191ba",
+  "model": "gpt-41"
+}

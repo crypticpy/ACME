@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "access to affordable performance spaces",
+    "use of public (AISD and City) facilities for arts",
+    "loss of grant and funding opportunities",
+    "need for municipal support for arts communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "allowing creative groups to use AISD spaces for limited cost",
+    "encourage performances in City of Austin spaces -- parks, auditoriums, gyms, etc.",
+    "Arts communities have lost many grant and money opportunities recently",
+    "could use some aid there"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of grant and money opportunities",
+    "lack of affordable or accessible performance spaces"
+  ],
+  "solutions_proposed": [
+    "allow creative groups to use AISD spaces for limited cost",
+    "encourage performances in City of Austin spaces (parks, auditoriums, gyms, etc.)",
+    "provide aid to arts communities"
+  ],
+  "cached_at": "2025-06-21T01:58:10.738465",
+  "cache_key": "6a27707969dcd25d44578c0d0ed079028d05465edcad457cafd737eca47b1444",
+  "model": "gpt-41"
+}

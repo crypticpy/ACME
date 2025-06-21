@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "time burden of grant applications",
+    "lack of upfront funding for grantees",
+    "difficulty purchasing materials and renting space due to funding structure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "time needed for grant applications",
+    "funding not always provided up front to grantees",
+    "needed to purchase materials, rent space, etc"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time required to complete grant applications",
+    "lack of upfront funding to cover necessary expenses"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:25.945043",
+  "cache_key": "53ef070371c1b33f69e848b797380561e43835a0a584236180261e59f7f30e51",
+  "model": "gpt-41"
+}

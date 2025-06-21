@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistency in funding cycles",
+    "negative impact of administrative changes",
+    "need for increased arts funding",
+    "pursuit of alternative revenue streams",
+    "advocacy role of ACME"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Be consistent with funding cycles",
+    "numerous pivots, delays, and reimaginings have had a profoundly negative impact",
+    "advocate for more funding for the arts",
+    "actively pursue alternative revenue streams within the City",
+    "funding cycles to be consistent and annual"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent funding cycles",
+    "administrative pivots and delays"
+  ],
+  "solutions_proposed": [
+    "make funding cycles consistent and annual",
+    "advocate for more arts funding",
+    "actively pursue alternative revenue streams within the City"
+  ],
+  "cached_at": "2025-06-20T10:37:05.763303",
+  "cache_key": "3b8615419f8b34f829bd20b9a283975eded1bc429d0274d449092f6160cdf05a",
+  "model": "gpt-41"
+}

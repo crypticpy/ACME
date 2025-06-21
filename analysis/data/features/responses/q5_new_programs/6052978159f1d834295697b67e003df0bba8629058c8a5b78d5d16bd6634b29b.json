@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "difficulty accessing assistance",
+    "lack of consistent point of contact",
+    "frustration with being redirected",
+    "desire for streamlined communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "artists should be able reach out to one person or one department consistently",
+    "questions or needs for assistance",
+    "being bounced through various people to find answers or info to basic questions",
+    "hoping ACME will solve the issue"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "being bounced through various people to find answers or info to basic questions",
+    "lack of a consistent point of contact for assistance"
+  ],
+  "solutions_proposed": [
+    "provide a single point of contact or dedicated department for artist assistance"
+  ],
+  "cached_at": "2025-06-21T01:59:32.725877",
+  "cache_key": "6052978159f1d834295697b67e003df0bba8629058c8a5b78d5d16bd6634b29b",
+  "model": "gpt-41"
+}

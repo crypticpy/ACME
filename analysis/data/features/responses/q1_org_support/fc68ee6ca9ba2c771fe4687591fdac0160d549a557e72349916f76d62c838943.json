@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for regular and stable funding",
+    "event amplification and promotion",
+    "support for organizations and leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Regular and stable funding",
+    "Helping amplify their events to the broader community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of regular and stable funding",
+    "insufficient event amplification to the broader community"
+  ],
+  "solutions_proposed": [
+    "Provide regular and stable funding",
+    "Help amplify events to the broader community"
+  ],
+  "cached_at": "2025-06-20T10:28:30.656767",
+  "cache_key": "fc68ee6ca9ba2c771fe4687591fdac0160d549a557e72349916f76d62c838943",
+  "model": "gpt-41"
+}

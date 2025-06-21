@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.7,
+  "themes": [
+    "need for City commitment",
+    "funding for cultural arts",
+    "promotion of cultural arts",
+    "holistic approach to integration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "commitment from the City of Austin",
+    "provide funding",
+    "promoting",
+    "holistic approach",
+    "integrate cultural arts as part of our City"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "City of Austin should provide funding",
+    "City of Austin should promote cultural arts",
+    "City should take a holistic approach to integrating cultural arts"
+  ],
+  "cached_at": "2025-06-20T01:18:33.514358",
+  "cache_key": "4df42c5979f1411dbc82790b8806112086f26f40f6b66ceaa9930b98c1acaf8e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "appreciation for community input",
+    "endorsement of survey process",
+    "value of stakeholder engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Doing surveys like this is a great start"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue conducting surveys to gather input"
+  ],
+  "cached_at": "2025-06-20T10:32:10.252025",
+  "cache_key": "a75def3fa04ca85c831c2cf641abf577be32dd598cf95690e7a284cdf7cace11",
+  "model": "gpt-41"
+}

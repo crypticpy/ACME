@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of larger cultural institutions in funding",
+    "accountability for use of granted funds",
+    "rigorous selection process for funding recipients"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Opportunities for larger cultural institutions to be funded",
+    "Accountability for funds granted",
+    "More rigor around determining funding/grantees"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding opportunities for larger cultural institutions",
+    "insufficient accountability for funds",
+    "lack of rigor in funding/grantee selection"
+  ],
+  "solutions_proposed": [
+    "provide opportunities for larger cultural institutions to be funded",
+    "increase accountability for funds granted",
+    "implement more rigorous processes for determining funding and grantees"
+  ],
+  "cached_at": "2025-06-21T01:12:09.953287",
+  "cache_key": "f497e08625cd1bf3b729add115708444fa9c95b1efc0ad58adb5fb09394faaff",
+  "model": "gpt-41"
+}

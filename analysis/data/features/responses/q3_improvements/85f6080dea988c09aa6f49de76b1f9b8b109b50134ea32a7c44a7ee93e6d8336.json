@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "late notification of funding opportunities",
+    "insufficient time to prepare applications",
+    "application process burden"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Ensure that more artists know about them ahead of deadlines",
+    "I never get notifications until the last minute",
+    "not enough time to come up with a good application",
+    "applications should be less time-consuming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "late notifications about funding opportunities",
+    "insufficient time to prepare quality applications",
+    "time-consuming application process"
+  ],
+  "solutions_proposed": [
+    "notify artists about funding opportunities earlier",
+    "make applications less time-consuming"
+  ],
+  "cached_at": "2025-06-21T01:11:38.525171",
+  "cache_key": "85f6080dea988c09aa6f49de76b1f9b8b109b50134ea32a7c44a7ee93e6d8336",
+  "model": "gpt-41"
+}

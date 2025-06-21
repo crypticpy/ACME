@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of housing",
+    "limited availability of venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Housing is expensive",
+    "limited venues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive housing",
+    "limited venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:57.990562",
+  "cache_key": "5f6dbb92332622d7605b33d22ed1d1c113c65bab4b558a3b085d6f8e1609afb6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "crisis in local film industry",
+    "impact of external shocks (pandemic, strikes, productions leaving)",
+    "economic instability for filmmakers",
+    "need for direct investment in film and media artists",
+    "importance of preserving Austin's creative identity",
+    "call for tailored grants and incentives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "the reality for local filmmakers today is dire",
+    "the industry has been hit with one crisis after another",
+    "filmmakers in Austin are facing historic levels of instability",
+    "work has dried up, careers are on pause, and some are losing everything",
+    "we need to invest directly in film and media artists",
+    "more grants and programs that are tailored specifically to filmmakers",
+    "stronger incentives to keep film projects here",
+    "preserving the jobs, voices, and stories that make Austin unique"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pandemic disruption",
+    "prolonged strikes by WGA and SAG-AFTRA",
+    "productions moving overseas to cut costs",
+    "lack of local investment and support",
+    "historic levels of instability for filmmakers"
+  ],
+  "solutions_proposed": [
+    "invest directly in film and media artists",
+    "more grants and programs tailored specifically to filmmakers",
+    "more local productions",
+    "stronger incentives to keep film projects in Austin"
+  ],
+  "cached_at": "2025-06-21T00:26:46.381008",
+  "cache_key": "c779f24b4a5684389eee37d18a33be0b569ff8d660354b757b08b4ff813d8d0a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of funding processes",
+    "inconsistency in application guidelines",
+    "lack of administrative capacity",
+    "insufficient technical support for grassroots organizations",
+    "exclusion of culturally specific organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "complexity and inconsistency of funding processes",
+    "lack the administrative capacity or technical support",
+    "lengthy applications, shifting guidelines, or inaccessible review criteria",
+    "excludes the very communities doing the most impactful, community-rooted work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of funding processes",
+    "inconsistency of funding guidelines",
+    "lengthy applications",
+    "inaccessible review criteria",
+    "lack of administrative capacity",
+    "lack of technical support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:01.435920",
+  "cache_key": "61bc5bdbb057bc6b808320003f82e3cccb4a164932ed523c698a60f10fde6be9",
+  "model": "gpt-41"
+}

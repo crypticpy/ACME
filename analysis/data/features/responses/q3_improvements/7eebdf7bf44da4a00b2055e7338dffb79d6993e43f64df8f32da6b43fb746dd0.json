@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable inclusion of all artists and organizations",
+    "concerns about disproportionate funding to inexperienced artists",
+    "need for clear and responsible budgeting",
+    "comparison to national arts funding standards",
+    "recognition of professional achievement in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "funding requirements must be balanced to include all artists and arts organizations",
+    "all cultural/ethnic backgrounds considered",
+    "Distribute funding according to a clear and responsible budget",
+    "Inexperienced artists receiving $80,000 in funding is absurd",
+    "Pulitzer Prize winners receive $15,000",
+    "Austin arts funding distribution should be in scale with standard arts practices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "MET Opera Company"
+  ],
+  "barriers_identified": [
+    "imbalanced funding requirements",
+    "lack of consideration for professional achievement",
+    "disproportionate funding to inexperienced artists"
+  ],
+  "solutions_proposed": [
+    "balance funding requirements to include all artists and organizations",
+    "consider all cultural/ethnic backgrounds",
+    "distribute funding according to a clear and responsible budget",
+    "align Austin arts funding distribution with standard arts practices"
+  ],
+  "cached_at": "2025-06-21T01:06:44.475786",
+  "cache_key": "7eebdf7bf44da4a00b2055e7338dffb79d6993e43f64df8f32da6b43fb746dd0",
+  "model": "gpt-41"
+}

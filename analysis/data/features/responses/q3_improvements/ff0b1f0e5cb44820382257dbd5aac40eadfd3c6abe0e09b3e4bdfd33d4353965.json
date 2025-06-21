@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "equity between small and large organizations",
+    "funding allocation fairness",
+    "efficiency of resource use",
+    "administrative overhead concerns"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "smaller nonprofit arts organization to have the same consideration",
+    "multimillion-dollar organizations with huge budgets",
+    "large numbers of administrators, and overhead larger than the smaller org",
+    "getting a bigger bang for the dollar like most smaller organizations do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equal consideration for small organizations",
+    "disproportionate administrative overhead in large organizations"
+  ],
+  "solutions_proposed": [
+    "give smaller organizations the same consideration as large organizations",
+    "prioritize funding efficiency as demonstrated by smaller organizations"
+  ],
+  "cached_at": "2025-06-21T01:11:58.517468",
+  "cache_key": "ff0b1f0e5cb44820382257dbd5aac40eadfd3c6abe0e09b3e4bdfd33d4353965",
+  "model": "gpt-41"
+}

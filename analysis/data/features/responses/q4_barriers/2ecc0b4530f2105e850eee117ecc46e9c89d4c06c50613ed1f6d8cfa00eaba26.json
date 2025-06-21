@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "overly narrow focus of support/services",
+    "lack of emphasis on quality"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Too narrow a focus",
+    "quality not a priority"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Too narrow a focus",
+    "quality not a priority"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:23.722762",
+  "cache_key": "2ecc0b4530f2105e850eee117ecc46e9c89d4c06c50613ed1f6d8cfa00eaba26",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "arts programming in public parks",
+    "community-driven art events",
+    "encouragement of art gallery attendance",
+    "support for busking and street performance",
+    "creation of neighborhood music festivals",
+    "non-bar live music opportunities for local musicians"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more arts in the parks",
+    "more community art events that encourages visits to art galleries and allows busking",
+    "First Friday in the Crossroads in Kansas City",
+    "create a Front Porch Fest in walkable communities around Austin to feature local bands",
+    "more live show opportunities for local musicians that aren't at bars"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "First Friday in the Crossroads",
+    "Front Porch Fest"
+  ],
+  "barriers_identified": [
+    "limited live show opportunities for local musicians outside of bars"
+  ],
+  "solutions_proposed": [
+    "increase arts programming in parks",
+    "organize community art events that encourage gallery visits and allow busking",
+    "create a Front Porch Fest in walkable communities to feature local bands",
+    "provide more live show opportunities for local musicians in non-bar venues"
+  ],
+  "cached_at": "2025-06-21T00:50:19.168287",
+  "cache_key": "51cf2aabfb1c4f4d067a3b3ffad3d8c3d80a993db4fdb63d5665f989b9508fe0",
+  "model": "gpt-41"
+}

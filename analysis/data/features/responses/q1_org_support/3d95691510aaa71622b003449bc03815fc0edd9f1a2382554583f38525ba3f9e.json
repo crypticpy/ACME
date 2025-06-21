@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism in funding decisions",
+    "lack of support for newer artists and organizations",
+    "entrenchment of established organizations",
+    "concerns about fairness and merit in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "too much politics in Art Music Funding",
+    "it's who you know not always the quality of the art",
+    "organizations that have the name that is entrenched",
+    "not Newer Musicians or Dance Companies",
+    "many artists I talk to say same thing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "politics in funding decisions",
+    "favoritism towards established organizations",
+    "lack of opportunities for newer musicians or dance companies"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:34:02.915089",
+  "cache_key": "3d95691510aaa71622b003449bc03815fc0edd9f1a2382554583f38525ba3f9e",
+  "model": "gpt-41"
+}

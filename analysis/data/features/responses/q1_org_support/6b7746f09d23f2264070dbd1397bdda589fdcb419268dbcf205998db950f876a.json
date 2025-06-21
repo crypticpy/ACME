@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of city support for long-standing cultural centers",
+    "exclusion from municipal facilities",
+    "perceived unfair treatment by city employees",
+    "need for improvement in city processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Cultural Centers that been working in Austin for over 5 years and received 0 City support",
+    "Russian Cultural Center in Austin",
+    "rented municipal facilities at Asian American Resource Center every Saturday during 2023-2024",
+    "staff at AARC made a decision to make facilities unavailable for us",
+    "City of Austin employees actual actions, these are facts and reality we live in",
+    "There is an area for improvement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Russian Cultural Center in Austin",
+    "Asian American Resource Center"
+  ],
+  "barriers_identified": [
+    "lack of city funding for certain cultural centers",
+    "denial of access to municipal facilities",
+    "decisions by city staff limiting facility availability"
+  ],
+  "solutions_proposed": [
+    "Funding can be provided to Cultural Centers that been working in Austin for over 5 years and received 0 City support"
+  ],
+  "cached_at": "2025-06-20T10:23:42.765626",
+  "cache_key": "6b7746f09d23f2264070dbd1397bdda589fdcb419268dbcf205998db950f876a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited time resources",
+    "financial constraints",
+    "challenges in community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "time and money resources",
+    "difficulty engaging the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of time",
+    "lack of money",
+    "difficulty engaging the community"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:30.021976",
+  "cache_key": "43b1933b3346c0565c8c9a59431cdf9aec804e167a2af05011d2e7c71c889bef",
+  "model": "gpt-41"
+}

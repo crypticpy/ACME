@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "capacity-building",
+    "professional development needs",
+    "support for growth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More capacity-building opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More capacity-building opportunities"
+  ],
+  "cached_at": "2025-06-21T01:15:33.945354",
+  "cache_key": "72521013d83fc594d3bbb72cd0db05d5b475275bb5d89617b467c55f8ca7d06d",
+  "model": "gpt-41"
+}

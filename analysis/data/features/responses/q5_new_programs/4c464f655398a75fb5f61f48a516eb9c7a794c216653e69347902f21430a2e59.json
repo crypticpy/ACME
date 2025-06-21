@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of direct funding",
+    "frustration with current offerings",
+    "desire for financial support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Just money."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient direct funding"
+  ],
+  "solutions_proposed": [
+    "provide direct financial support"
+  ],
+  "cached_at": "2025-06-21T01:52:06.896884",
+  "cache_key": "4c464f655398a75fb5f61f48a516eb9c7a794c216653e69347902f21430a2e59",
+  "model": "gpt-41"
+}

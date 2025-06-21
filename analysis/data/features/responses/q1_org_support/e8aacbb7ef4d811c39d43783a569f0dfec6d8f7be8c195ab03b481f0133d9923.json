@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for cultural sector",
+    "need for advocacy for organizations and leaders",
+    "disconnect between Austin's cultural branding and actual support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding and advocacy",
+    "our money doesn't seem to be where our mouth is",
+    "live music capital of the world"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adequate funding",
+    "lack of advocacy"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "increase advocacy"
+  ],
+  "cached_at": "2025-06-20T10:37:00.948222",
+  "cache_key": "e8aacbb7ef4d811c39d43783a569f0dfec6d8f7be8c195ab03b481f0133d9923",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for baseline funding for small and midsize groups",
+    "targeted larger grants to help organizations grow",
+    "venue cost burden on small organizations",
+    "funding being diverted to venue expenses instead of artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "find a baseline for small to midsize groups",
+    "offer target grants of larger sizes for these same groups to level up",
+    "subsidize venues so rent is cheaper",
+    "smaller organizations with funding give most of it to venues to perform instead of paying artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high venue costs for small organizations",
+    "funding primarily spent on venue rental instead of artists"
+  ],
+  "solutions_proposed": [
+    "establish baseline funding for small and midsize groups",
+    "offer larger targeted grants to help groups grow",
+    "increase venue subsidies to reduce rent costs"
+  ],
+  "cached_at": "2025-06-20T01:14:43.991555",
+  "cache_key": "05b3b8a0ac75ad4fd096116848216854fb06d21a4d3ae8e11dc1642387dd774e",
+  "model": "gpt-41"
+}

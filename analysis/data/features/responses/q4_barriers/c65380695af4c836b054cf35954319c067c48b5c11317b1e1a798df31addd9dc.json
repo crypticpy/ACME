@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "inadequate ASL interpretation",
+    "accessibility for Deaf and hard-of-hearing community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "ASL interpretation provided -- not at all, but some"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient ASL interpretation at arts, culture, music and entertainment events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:07.361978",
+  "cache_key": "c65380695af4c836b054cf35954319c067c48b5c11317b1e1a798df31addd9dc",
+  "model": "gpt-41"
+}

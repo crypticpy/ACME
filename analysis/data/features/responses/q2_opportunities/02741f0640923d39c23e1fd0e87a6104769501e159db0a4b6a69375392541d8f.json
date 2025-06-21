@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased creative opportunities for children",
+    "support for youth arts programming",
+    "endorsement of Austin Bat Cave"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities for kids",
+    "scratch their creative itch",
+    "support of Austin Bat Cave",
+    "their programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Bat Cave"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More opportunities for kids to engage in creative activities through support of Austin Bat Cave programming"
+  ],
+  "cached_at": "2025-06-21T00:52:53.801087",
+  "cache_key": "02741f0640923d39c23e1fd0e87a6104769501e159db0a4b6a69375392541d8f",
+  "model": "gpt-41"
+}

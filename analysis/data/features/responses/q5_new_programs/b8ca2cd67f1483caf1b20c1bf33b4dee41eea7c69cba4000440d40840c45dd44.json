@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support for artists",
+    "mentorship and peer support",
+    "property tax relief for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Art microloans with a mentor and support group",
+    "Property tax rebate/ exemption"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to microloans",
+    "insufficient mentorship and support",
+    "financial burden of property taxes"
+  ],
+  "solutions_proposed": [
+    "Art microloans with a mentor and support group",
+    "Property tax rebate/ exemption"
+  ],
+  "cached_at": "2025-06-21T01:52:25.892560",
+  "cache_key": "b8ca2cd67f1483caf1b20c1bf33b4dee41eea7c69cba4000440d40840c45dd44",
+  "model": "gpt-41"
+}

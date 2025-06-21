@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "willingness to contribute ideas",
+    "time constraints limiting participation",
+    "future engagement intention",
+    "appreciation for the opportunity to give feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I have many ideas",
+    "don't have much time right now",
+    "I will share more soon",
+    "thank you so much"
+  ],
+  "intent": "future_engagement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of time to provide feedback"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:28.574292",
+  "cache_key": "821634ab3de9f339e666450b86e166b5d4ba960d672db34502c554d49db6bb48",
+  "model": "gpt-41"
+}

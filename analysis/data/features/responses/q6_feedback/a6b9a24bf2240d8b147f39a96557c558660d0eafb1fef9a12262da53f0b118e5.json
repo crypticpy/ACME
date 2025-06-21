@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "support for new department",
+    "recognition of arts as a municipal priority"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Good luck with the new department",
+    "It\u2019s great to have the arts as a focus for City of Austin administrators"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:22:23.266260",
+  "cache_key": "a6b9a24bf2240d8b147f39a96557c558660d0eafb1fef9a12262da53f0b118e5",
+  "model": "gpt-41"
+}

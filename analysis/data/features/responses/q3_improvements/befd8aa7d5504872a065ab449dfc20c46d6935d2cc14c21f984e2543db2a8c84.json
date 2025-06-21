@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased accessibility",
+    "inclusivity in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more accessible to all"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility"
+  ],
+  "solutions_proposed": [
+    "make programs more accessible to all"
+  ],
+  "cached_at": "2025-06-21T00:55:05.993135",
+  "cache_key": "befd8aa7d5504872a065ab449dfc20c46d6935d2cc14c21f984e2543db2a8c84",
+  "model": "gpt-41"
+}

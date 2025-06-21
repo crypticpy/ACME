@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of funding on visitation",
+    "impact of funding on culture",
+    "effectiveness of funded initiatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "fund initiatives that have more of an impact on visitation and culture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "fund initiatives that have more of an impact on visitation and culture"
+  ],
+  "cached_at": "2025-06-21T01:03:06.020039",
+  "cache_key": "49438a1180a3c0bda439e885ccf086584d28b7f7299a708ea6b1c31704b61778",
+  "model": "gpt-41"
+}

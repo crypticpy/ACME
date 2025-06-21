@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of clear communication from city staff",
+    "absence of creative vision for artist support",
+    "limited support mechanisms beyond HOT funds",
+    "failure to foster partnerships between artists and other stakeholders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of clarity & communication from city staff",
+    "NO creative vision of how to support artists beyond just HOT funds",
+    "Not bringing artists into PARTNERSHIP with other important city stakeholders and business leaders"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "HOT funds"
+  ],
+  "barriers_identified": [
+    "lack of clarity and communication from city staff",
+    "no creative vision for supporting artists",
+    "support limited to HOT funds",
+    "artists not included in partnerships with city stakeholders and business leaders"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:39.049965",
+  "cache_key": "ed0d1055fc9d88cb5ee4f95cc77e5473854aa4d5bcc5da74512ce573a435310b",
+  "model": "gpt-41"
+}

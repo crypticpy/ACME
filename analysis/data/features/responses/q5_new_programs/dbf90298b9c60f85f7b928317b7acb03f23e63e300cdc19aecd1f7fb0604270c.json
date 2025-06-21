@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration across sectors",
+    "addressing cost drivers",
+    "real estate challenges",
+    "insurance costs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "robust collaborations",
+    "real estate",
+    "insurance",
+    "concrete cost drivers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "real estate costs",
+    "insurance costs",
+    "other concrete cost drivers"
+  ],
+  "solutions_proposed": [
+    "robust collaborations involving real estate, insurance and other concrete cost drivers"
+  ],
+  "cached_at": "2025-06-21T01:50:02.804943",
+  "cache_key": "dbf90298b9c60f85f7b928317b7acb03f23e63e300cdc19aecd1f7fb0604270c",
+  "model": "gpt-41"
+}

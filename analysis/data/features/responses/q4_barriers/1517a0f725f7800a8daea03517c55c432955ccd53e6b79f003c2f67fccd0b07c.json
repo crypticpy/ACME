@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "instability of regulations",
+    "high cost of participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "The rules keep changing",
+    "everything is crazy expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "frequent changes in rules",
+    "high costs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:58.267459",
+  "cache_key": "1517a0f725f7800a8daea03517c55c432955ccd53e6b79f003c2f67fccd0b07c",
+  "model": "gpt-41"
+}

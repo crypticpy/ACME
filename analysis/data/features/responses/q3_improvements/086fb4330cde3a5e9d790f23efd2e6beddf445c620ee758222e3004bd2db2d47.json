@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "City outreach to artists",
+    "Mentorship for creative enterprises",
+    "Support for smaller creative enterprises",
+    "Need for ombudsman or guidance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More City outreach to artists",
+    "some sort of ombudsman or mentorship",
+    "especially for smaller creative enterprises"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of outreach to artists",
+    "Insufficient mentorship or guidance for small creative enterprises"
+  ],
+  "solutions_proposed": [
+    "Increase City outreach to artists",
+    "Establish an ombudsman or mentorship program for smaller creative enterprises"
+  ],
+  "cached_at": "2025-06-21T01:17:43.086948",
+  "cache_key": "086fb4330cde3a5e9d790f23efd2e6beddf445c620ee758222e3004bd2db2d47",
+  "model": "gpt-41"
+}

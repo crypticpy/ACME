@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "delays in funding release",
+    "need for updated guidelines",
+    "process efficiency",
+    "urgency of funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "quick update the guidelines",
+    "release the programs",
+    "we can be funded soon",
+    "start asking the questions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "outdated or unclear guidelines",
+    "delayed program release"
+  ],
+  "solutions_proposed": [
+    "ask the questions that will enable a quick update of the guidelines"
+  ],
+  "cached_at": "2025-06-21T02:21:50.235271",
+  "cache_key": "d3e0d9422ec2b6b3b512f9976abc55b637bcec4270f0ff84a64f817bf080d3ea",
+  "model": "gpt-41"
+}

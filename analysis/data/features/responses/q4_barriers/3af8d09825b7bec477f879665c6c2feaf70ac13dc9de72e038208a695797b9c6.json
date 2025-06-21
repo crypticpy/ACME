@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of events",
+    "insufficient marketing",
+    "lack of audience development programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cost of the event",
+    "not enough marketing",
+    "not enough programs to build new audiences"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of the event",
+    "not enough marketing",
+    "not enough programs to build new audiences"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:43.915038",
+  "cache_key": "3af8d09825b7bec477f879665c6c2feaf70ac13dc9de72e038208a695797b9c6",
+  "model": "gpt-41"
+}

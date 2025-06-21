@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased fine arts venues",
+    "support for craft artist spaces",
+    "public art interaction events",
+    "free public access to arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fine arts venues",
+    "craft artist venues",
+    "public art interaction events (free to the public)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of participation"
+  ],
+  "solutions_proposed": [
+    "more fine arts venues",
+    "more craft artist venues",
+    "more public art interaction events that are free to the public"
+  ],
+  "cached_at": "2025-06-21T00:46:52.588175",
+  "cache_key": "6a3fd21755a18fdd280a460b9c2cc915c16d9bc39ccf227622905350395d80ed",
+  "model": "gpt-41"
+}

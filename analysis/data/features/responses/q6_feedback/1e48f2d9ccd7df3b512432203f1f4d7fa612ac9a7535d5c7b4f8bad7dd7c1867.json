@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "connecting artists to opportunities outside the state",
+    "peer-to-peer support among artists",
+    "raising local artists' profiles",
+    "long-term exposure for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "connecting artists to extrastate opportunities /organizations",
+    "via ACME peers",
+    "boost local artist's profiles",
+    "potential launch pad for long-term exposure"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited exposure to opportunities outside the state"
+  ],
+  "solutions_proposed": [
+    "connecting artists to extrastate opportunities/organizations via ACME peers"
+  ],
+  "cached_at": "2025-06-21T02:14:59.588453",
+  "cache_key": "1e48f2d9ccd7df3b512432203f1f4d7fa612ac9a7535d5c7b4f8bad7dd7c1867",
+  "model": "gpt-41"
+}

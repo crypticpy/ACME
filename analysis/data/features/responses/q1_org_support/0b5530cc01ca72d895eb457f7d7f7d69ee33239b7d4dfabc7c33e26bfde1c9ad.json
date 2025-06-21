@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of transparency in grant funding",
+    "insufficient communication about guidelines",
+    "need for feedback on funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "clear communication on processes of grant funding guidelines",
+    "clear followup of why certain funding was not approved"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear grant funding guidelines",
+    "lack of feedback on funding rejections"
+  ],
+  "solutions_proposed": [
+    "clear communication on grant funding guidelines",
+    "clear followup explaining funding decisions"
+  ],
+  "cached_at": "2025-06-20T10:22:34.174820",
+  "cache_key": "0b5530cc01ca72d895eb457f7d7f7d69ee33239b7d4dfabc7c33e26bfde1c9ad",
+  "model": "gpt-41"
+}

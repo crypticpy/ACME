@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "impact of high-profile events on local access",
+    "exclusion of locals from city-supported events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "the more high profile events the city supports year round",
+    "the harder it becomes for locals to be able to afford going",
+    "have access to go"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "increased cost for locals to attend events",
+    "reduced access for locals due to high-profile events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:21.469507",
+  "cache_key": "d9e1a08c7f94669d82fc11544ed2769eef212e298d89e4029304f4ea8696f9f6",
+  "model": "gpt-41"
+}

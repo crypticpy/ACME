@@ -1,0 +1,15 @@
+{
+  "content": "Hello! \ud83d\ude0a How can I help you today?",
+  "model": "gpt-4.1",
+  "tokens_used": {
+    "input_tokens": 18,
+    "output_tokens": 11,
+    "total_tokens": 29
+  },
+  "prompt": "Say hello",
+  "instructions": "You are a friendly assistant",
+  "temperature": 0.5,
+  "timestamp": "2025-06-19T11:11:22.341642",
+  "cached_at": "2025-06-19T11:11:22.341661",
+  "cache_key": "42072f2358c0673130c3c05b14135f8e13c4a43ca66b01c70beed492a18fafc6"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more exhibitions",
+    "interest in fairs and markets",
+    "need for open calls",
+    "request for available space"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Exhibitions",
+    "fairs",
+    "open calls",
+    "markets",
+    "available space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of available space"
+  ],
+  "solutions_proposed": [
+    "more exhibitions",
+    "more fairs",
+    "more open calls",
+    "more markets",
+    "increased available space"
+  ],
+  "cached_at": "2025-06-21T00:32:37.917921",
+  "cache_key": "bfb378b0d31c42911d69780c22412cbc1e42207c020939a6a9f3dcf61f80c78b",
+  "model": "gpt-41"
+}

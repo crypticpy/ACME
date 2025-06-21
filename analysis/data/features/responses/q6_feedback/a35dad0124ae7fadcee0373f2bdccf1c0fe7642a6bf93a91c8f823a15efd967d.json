@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of small grants on emerging artists",
+    "economic benefits to local businesses",
+    "access to resources for music and art creation",
+    "community access to new art and music"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "a small amount $500-$1,000 can really help an emerging artist",
+    "catalyst for recording and releasing a song or purchasing necessary equipment or merch to resale",
+    "lower amounts could also be spent faster within the local Austin economy",
+    "helping small businesses",
+    "give the entire community access to more new music and art that otherwise would not created and/or distributed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of small-scale funding for emerging artists",
+    "limited access to resources for creating and distributing art"
+  ],
+  "solutions_proposed": [
+    "provide small grants ($500-$1,000) to emerging artists"
+  ],
+  "cached_at": "2025-06-21T02:22:43.740509",
+  "cache_key": "a35dad0124ae7fadcee0373f2bdccf1c0fe7642a6bf93a91c8f823a15efd967d",
+  "model": "gpt-41"
+}

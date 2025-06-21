@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "support for building cultural institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "More Funding opportunities",
+    "help build cultural instituions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding opportunities"
+  ],
+  "solutions_proposed": [
+    "provide more funding opportunities to build cultural institutions"
+  ],
+  "cached_at": "2025-06-21T02:06:48.870650",
+  "cache_key": "cf4a8dc67115eccd2d1e5c6851f99261a5c6687efae0ff9cf12b286621c119c0",
+  "model": "gpt-41"
+}

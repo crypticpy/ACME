@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived fairness and clarity of grant process",
+    "backlash and tensions between organizations",
+    "accessibility of application materials and process",
+    "gratitude for transparent review and communication",
+    "concern over entitlement to recurring funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "maintain the level of fairness for grants",
+    "requirements were frankly quite simple",
+    "all the materials ... were available to everyone",
+    "backlash on who did(n't) receive Elevate funding ... was mostly unfounded",
+    "Organizations relied on years of receiving the grant as an expected funding source",
+    "They turned on small organizations like ours",
+    "made us feel like we were undeserving",
+    "we are so grateful to the grant program for being so clear in its expectations",
+    "hope that level of clarity, fairness, and objective review is maintained"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "hostility from established organizations toward new/small grantees",
+    "expectation of recurring funding leading to resentment",
+    "misunderstanding or improper completion of application by some organizations"
+  ],
+  "solutions_proposed": [
+    "maintain clarity, fairness, and objective review in grant processes"
+  ],
+  "cached_at": "2025-06-21T02:16:37.982554",
+  "cache_key": "fc83f92191660ffbaddd287a62e18329ba1044801592afd688723c4fe1528ad9",
+  "model": "gpt-41"
+}

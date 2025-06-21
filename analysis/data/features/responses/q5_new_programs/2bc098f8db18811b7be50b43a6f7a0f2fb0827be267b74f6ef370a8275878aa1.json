@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration between individual artists and organizations",
+    "resource sharing",
+    "funding policy restrictions",
+    "barriers to partnership models"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Allow individual artists to partner and combine resources",
+    "with established or emerging arts/theater organizations",
+    "Right now such an arrangement is considered 'double dipping'"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "arrangement is considered 'double dipping'"
+  ],
+  "solutions_proposed": [
+    "Allow individual artists to partner and combine resources with established or emerging arts/theater organizations to produce work"
+  ],
+  "cached_at": "2025-06-21T01:59:44.536551",
+  "cache_key": "2bc098f8db18811b7be50b43a6f7a0f2fb0827be267b74f6ef370a8275878aa1",
+  "model": "gpt-41"
+}

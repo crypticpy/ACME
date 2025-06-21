@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for financial support",
+    "resource accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Financial assistance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial assistance"
+  ],
+  "solutions_proposed": [
+    "offer financial assistance"
+  ],
+  "cached_at": "2025-06-21T01:54:16.234121",
+  "cache_key": "ffece8ed3f6db35c5362991a85ef7eee61e4af22e14ab1b8c1440bf27d1d88b6",
+  "model": "gpt-41"
+}

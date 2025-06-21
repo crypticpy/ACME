@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of knowledge about current support",
+    "interest in learning more"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I\u2019m not knowledgable on how they currently support these",
+    "would love to learn more"
+  ],
+  "intent": "information_seeking",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about ACME's current support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:33:20.457923",
+  "cache_key": "f010743acf45ced830d2d3588a9f846936d9122fa48dd9dd067c2f2e720e76d0",
+  "model": "gpt-41"
+}

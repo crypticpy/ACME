@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "personal satisfaction with current offerings",
+    "recognition of differing community needs",
+    "importance of diversity in cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "What we have now meets my needs",
+    "may not for other individuals",
+    "Diversity is important"
+  ],
+  "intent": "acknowledgement_of_diverse_needs",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:45:44.741861",
+  "cache_key": "0d8f7692f742c3001edb35e1ce489c9f1133581b56d66aa75612bba2c267d7a7",
+  "model": "gpt-41"
+}

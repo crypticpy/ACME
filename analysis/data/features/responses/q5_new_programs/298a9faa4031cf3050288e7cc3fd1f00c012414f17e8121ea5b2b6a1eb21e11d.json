@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for alternative funding sources",
+    "desire for cross-sector partnerships",
+    "limitations of current HOT Funds"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding apart from HOT Funds",
+    "partnership building with non-arts/business sectors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reliance on HOT Funds",
+    "lack of partnerships with non-arts/business sectors"
+  ],
+  "solutions_proposed": [
+    "provide funding apart from HOT Funds",
+    "build partnerships with non-arts/business sectors"
+  ],
+  "cached_at": "2025-06-21T02:04:17.678185",
+  "cache_key": "298a9faa4031cf3050288e7cc3fd1f00c012414f17e8121ea5b2b6a1eb21e11d",
+  "model": "gpt-41"
+}

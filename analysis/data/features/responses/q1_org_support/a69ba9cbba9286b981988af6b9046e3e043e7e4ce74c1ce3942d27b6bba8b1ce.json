@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding",
+    "support for programming",
+    "access to event space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Money for programming",
+    "event space is always needed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for programming",
+    "insufficient access to event space"
+  ],
+  "solutions_proposed": [
+    "provide more money for programming",
+    "increase support for event space"
+  ],
+  "cached_at": "2025-06-20T10:34:57.544378",
+  "cache_key": "a69ba9cbba9286b981988af6b9046e3e043e7e4ce74c1ce3942d27b6bba8b1ce",
+  "model": "gpt-41"
+}

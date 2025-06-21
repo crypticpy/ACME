@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for long-term sustainability funding",
+    "Resistance to ideological conformity in funding",
+    "Recognition of established leaders and trust-building",
+    "Support for artistic innovation and risk-taking",
+    "Critique of short-term, theme-driven funding models"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "investing in their long-term sustainability",
+    "without forcing them to contort their missions to fit current ideological trends",
+    "recognize leaders who have built trust",
+    "innovated in ways that serve the whole city",
+    "flexible, multi-year funding models",
+    "reward vision, artistic excellence, and thoughtful risk-taking",
+    "rather than short-term projects driven by theme or social alignment"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pressure to contort missions to fit current ideological trends",
+    "short-term, theme or social alignment-driven funding"
+  ],
+  "solutions_proposed": [
+    "invest in long-term sustainability",
+    "offer flexible, multi-year funding models",
+    "reward vision, artistic excellence, and thoughtful risk-taking",
+    "recognize leaders who have built trust and advanced the arts"
+  ],
+  "cached_at": "2025-06-20T01:18:29.463690",
+  "cache_key": "20701f3a7cd389fd867888f68cd1f16a0d44fcf6d77f2c84d71644e1bb77d49f",
+  "model": "gpt-41"
+}

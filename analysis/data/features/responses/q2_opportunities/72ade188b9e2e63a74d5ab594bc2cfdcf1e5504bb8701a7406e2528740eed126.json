@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "prioritizing local residents in cultural events",
+    "affordability of shows and festivals",
+    "support for local talent",
+    "incentivizing venues and promoters"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "prioritize local residents",
+    "discount on ticket/admission fees",
+    "incentives for venues and promoters who hire local talent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of ticket/admission fees",
+    "lack of prioritization for local residents"
+  ],
+  "solutions_proposed": [
+    "discount on ticket/admission fees for local residents",
+    "incentives for venues and promoters who hire local talent"
+  ],
+  "cached_at": "2025-06-21T00:38:08.402336",
+  "cache_key": "72ade188b9e2e63a74d5ab594bc2cfdcf1e5504bb8701a7406e2528740eed126",
+  "model": "gpt-41"
+}

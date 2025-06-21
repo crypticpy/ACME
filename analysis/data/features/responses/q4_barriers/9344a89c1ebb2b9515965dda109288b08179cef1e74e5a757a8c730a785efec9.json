@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability concerns",
+    "parking accessibility",
+    "communication and outreach gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Prices",
+    "parking",
+    "more notifications"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high prices",
+    "parking difficulties",
+    "insufficient notifications"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:45.457201",
+  "cache_key": "9344a89c1ebb2b9515965dda109288b08179cef1e74e5a757a8c730a785efec9",
+  "model": "gpt-41"
+}

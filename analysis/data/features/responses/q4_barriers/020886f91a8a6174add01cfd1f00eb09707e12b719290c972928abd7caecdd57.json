@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of high cost of living on cultural participation",
+    "financial barriers to accessing arts and culture",
+    "limited disposable income for entertainment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "cost of living takes all income",
+    "leaves little to buy tickets or admission"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living",
+    "lack of disposable income for tickets or admission"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:05.824328",
+  "cache_key": "020886f91a8a6174add01cfd1f00eb09707e12b719290c972928abd7caecdd57",
+  "model": "gpt-41"
+}

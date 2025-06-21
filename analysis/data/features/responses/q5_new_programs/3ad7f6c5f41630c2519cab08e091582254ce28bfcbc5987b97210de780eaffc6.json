@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking challenges for musicians",
+    "stress related to gig logistics",
+    "need for municipal support for artists",
+    "loss or reduction of loading zones"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Parking permits for full time musicians would be super helpful",
+    "Parking for gigs can be very stressful sometimes",
+    "maybe loading permits, as this too is very stressful",
+    "They're used to be loading zones for some venues",
+    "loading in from the streets can be very stressful and susceptible to ticketing, which I've experienced"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of parking permits for musicians",
+    "stressful parking for gigs",
+    "insufficient or missing loading zones",
+    "risk of ticketing when loading from the street"
+  ],
+  "solutions_proposed": [
+    "parking permits for full time musicians",
+    "loading permits for musicians"
+  ],
+  "cached_at": "2025-06-21T01:55:56.341566",
+  "cache_key": "3ad7f6c5f41630c2519cab08e091582254ce28bfcbc5987b97210de780eaffc6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of concerts",
+    "representation of artists of color",
+    "desire for gospel music events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Concerts that are affordable to the average person",
+    "Gospel artists of color"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability"
+  ],
+  "solutions_proposed": [
+    "More affordable concerts",
+    "More performances by gospel artists of color"
+  ],
+  "cached_at": "2025-06-21T00:48:49.398236",
+  "cache_key": "e19939b9b18ca635119d74733c4f10a7cdd3f628774d063716ab2e92aacbc853",
+  "model": "gpt-41"
+}

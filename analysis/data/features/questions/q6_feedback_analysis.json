@@ -1,0 +1,322 @@
+{
+  "question_id": "q6_feedback",
+  "question_text": "Do you have any additional ideas, concerns, or feedback you would like to share to help ACME better serve the public?",
+  "response_count": 403,
+  "dominant_themes": [
+    {
+      "theme": "appreciation for ACME's work",
+      "count": 7,
+      "percentage": 1.7369727047146404,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 7
+      },
+      "urgency_score": 0.07142857142857142,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "organization": 1,
+        "artist": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "appreciation for engagement",
+      "count": 5,
+      "percentage": 1.240694789081886,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 4,
+        "mixed": 1
+      },
+      "urgency_score": 0.2,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "support for artists",
+      "count": 4,
+      "percentage": 0.9925558312655087,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 1
+      },
+      "urgency_score": 0.625,
+      "stakeholder_breakdown": {
+        "unknown": 3,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "appreciation for community engagement",
+      "count": 4,
+      "percentage": 0.9925558312655087,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 4
+      },
+      "urgency_score": 0.125,
+      "stakeholder_breakdown": {
+        "resident": 1,
+        "unknown": 3
+      }
+    },
+    {
+      "theme": "affirmation of current efforts",
+      "count": 3,
+      "percentage": 0.7444168734491315,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 3
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 3
+      }
+    },
+    {
+      "theme": "appreciation for public engagement",
+      "count": 3,
+      "percentage": 0.7444168734491315,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 3
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "desire for continuity",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "negative": 1
+      },
+      "urgency_score": 0.25,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "willingness to contribute ideas",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "preservation of local cultural identity",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "mixed": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "support for local artists",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [
+        "support for local artists will continue in Austin"
+      ],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "transparency in grant process",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "preference for in-person discussion",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "appreciation for staff efforts",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "affirmation of current direction",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "reference to previous feedback",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "gratitude for opportunity to provide input",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "cultural inclusivity",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 1,
+        "positive": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "resident": 2
+      }
+    },
+    {
+      "theme": "gratitude for engagement",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "unknown": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "community engagement",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 1
+      },
+      "urgency_score": 0.25,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "desire for direct communication",
+      "count": 2,
+      "percentage": 0.49627791563275436,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 1,
+        "resident": 1
+      }
+    }
+  ],
+  "sentiment_distribution": {
+    "negative": 103,
+    "positive": 164,
+    "neutral": 77,
+    "mixed": 59
+  },
+  "urgency_distribution": {
+    "high": 117,
+    "low": 136,
+    "medium": 150
+  },
+  "stakeholder_distribution": {
+    "organization": 43,
+    "artist": 89,
+    "resident": 89,
+    "unknown": 174,
+    "educator": 3,
+    "venue_operator": 3,
+    "business_owner": 2
+  },
+  "key_insights": [
+    "A significant portion of respondents (29%) raised high urgency issues, indicating that while overall appreciation for ACME's work is present, there are pressing concerns that require immediate attention.",
+    "Support for artists, particularly local artists, and the preservation of local cultural identity are recurring themes with notably high urgency scores (0.50\u20130.62), suggesting these areas are seen as both vulnerable and vital by the community.",
+    "Transparency in the grant process is a repeated concern, with respondents expressing a need for clearer communication and fairness in funding decisions.",
+    "While positive feedback and appreciation for engagement are present, these themes have low urgency scores, indicating that the community values current efforts but is more urgently focused on systemic improvements.",
+    "A majority of feedback (53.6%) is actionable, highlighting a strong community willingness to engage and contribute ideas for improvement."
+  ],
+  "recommendations": [
+    "Prioritize initiatives that directly support local artists and safeguard local cultural identity, such as dedicated grant streams or targeted programming, to address high urgency concerns.",
+    "Enhance transparency in the grant application and decision-making process by publishing clear criteria, timelines, and feedback mechanisms for applicants.",
+    "Establish regular, accessible forums (both in-person and virtual) for community input, ensuring ongoing dialogue and responsiveness to emerging issues.",
+    "Develop and communicate a clear action plan to address the most urgent community-identified issues, with regular progress updates to build trust and accountability.",
+    "Leverage the community's willingness to contribute by creating structured opportunities for public participation in program design and evaluation."
+  ],
+  "contradictions": [],
+  "consensus_points": []
+}

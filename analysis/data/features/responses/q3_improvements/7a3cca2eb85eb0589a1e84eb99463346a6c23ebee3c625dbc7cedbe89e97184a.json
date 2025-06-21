@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of defining underrepresented groups",
+    "perceived negative impact of recent city policies",
+    "ideological considerations harming intended beneficiaries",
+    "lack of objective criteria for fairness and discrimination",
+    "need for redress mechanisms for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "\"Notions of 'fairness' were turned on their head post pandemic\"",
+    "\"ideological considerations seemed to have backfired, and done harm to the very groups it was supposed to help\"",
+    "\"Assessment of artistic excellence were, in some cases, overlooked altogether\"",
+    "\"An objective criteria needs to be established to define fair treatment\"",
+    "\"defining what constitutes discrimination\"",
+    "\"artists allege such treatment, and they obviously deserve a means of redress\""
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of objective criteria for fairness",
+    "overlooking artistic excellence in funding decisions",
+    "absence of clear definitions for discrimination",
+    "no established means of redress for artists"
+  ],
+  "solutions_proposed": [
+    "establish objective criteria to define fair treatment",
+    "define what constitutes discrimination",
+    "create a means of redress for artists alleging discrimination"
+  ],
+  "cached_at": "2025-06-21T01:15:06.407251",
+  "cache_key": "7a3cca2eb85eb0589a1e84eb99463346a6c23ebee3c625dbc7cedbe89e97184a",
+  "model": "gpt-41"
+}

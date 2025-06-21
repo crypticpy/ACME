@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct engagement with venue owners",
+    "monitoring venue well-being",
+    "regular communication between ACME and venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "set up regular meetings",
+    "venue owners",
+    "find out how they are doing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "set up regular meetings with venue owners to find out how they are doing"
+  ],
+  "cached_at": "2025-06-21T02:21:31.325058",
+  "cache_key": "9d8048ce415c9282d5008fdea3c0426bc2d294db3f449347fa2be7e018643458",
+  "model": "gpt-41"
+}

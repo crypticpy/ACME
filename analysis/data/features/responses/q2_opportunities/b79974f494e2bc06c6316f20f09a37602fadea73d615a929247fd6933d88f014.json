@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "representation of women in theatre",
+    "gender equity in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Women in theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for women in theatre"
+  ],
+  "cached_at": "2025-06-21T00:33:36.351221",
+  "cache_key": "b79974f494e2bc06c6316f20f09a37602fadea73d615a929247fd6933d88f014",
+  "model": "gpt-41"
+}

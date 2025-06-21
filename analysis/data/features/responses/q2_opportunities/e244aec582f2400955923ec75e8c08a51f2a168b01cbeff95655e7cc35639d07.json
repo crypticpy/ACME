@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local music",
+    "desire for original artistic content"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More local original music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for local original music"
+  ],
+  "cached_at": "2025-06-21T00:34:37.368600",
+  "cache_key": "e244aec582f2400955923ec75e8c08a51f2a168b01cbeff95655e7cc35639d07",
+  "model": "gpt-41"
+}

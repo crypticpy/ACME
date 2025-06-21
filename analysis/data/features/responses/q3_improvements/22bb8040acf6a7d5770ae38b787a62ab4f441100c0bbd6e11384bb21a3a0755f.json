@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased support during grant process",
+    "complexity or difficulty of grant application",
+    "artist community challenges accessing funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "needs alot of hand holding",
+    "throughout the process",
+    "to actually get a grant"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of guidance or support in grant process"
+  ],
+  "solutions_proposed": [
+    "provide more hands-on assistance to artists during the grant process"
+  ],
+  "cached_at": "2025-06-21T01:03:46.549277",
+  "cache_key": "22bb8040acf6a7d5770ae38b787a62ab4f441100c0bbd6e11384bb21a3a0755f",
+  "model": "gpt-41"
+}

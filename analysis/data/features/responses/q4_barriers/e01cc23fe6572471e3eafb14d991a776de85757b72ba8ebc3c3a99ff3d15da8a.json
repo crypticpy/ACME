@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of music industry infrastructure",
+    "comparison to other cities (L.A.)",
+    "need for professional support organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "need more music type organizations",
+    "like L.A.",
+    "Sync companies, record labels PR etc."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of music type organizations",
+    "absence of sync companies, record labels, PR"
+  ],
+  "solutions_proposed": [
+    "establish more music type organizations similar to those in L.A."
+  ],
+  "cached_at": "2025-06-21T01:42:56.579111",
+  "cache_key": "e01cc23fe6572471e3eafb14d991a776de85757b72ba8ebc3c3a99ff3d15da8a",
+  "model": "gpt-41"
+}

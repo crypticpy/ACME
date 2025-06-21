@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "in-person community building",
+    "collaboration among neighbors",
+    "strengthening local connections"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "bringing together communities of people in real life",
+    "increasing community and collaboration amongst neighbors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Emphasis on bringing together communities of people in real life",
+    "Increasing community and collaboration amongst neighbors"
+  ],
+  "cached_at": "2025-06-21T01:01:15.519681",
+  "cache_key": "ea66d3bd0012c187384ff608a2d9ffe2d37c84fbf3e0fe68d33d51cf6d34ee6f",
+  "model": "gpt-41"
+}

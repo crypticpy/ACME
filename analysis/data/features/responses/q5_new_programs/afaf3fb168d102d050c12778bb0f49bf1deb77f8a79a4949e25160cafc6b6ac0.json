@@ -1,0 +1,41 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "infrastructure support for artists and organizations",
+    "affordability and rising costs",
+    "activation of city-owned vacant properties",
+    "cross-sector innovation and grantmaking",
+    "integration of arts with health, housing, and climate",
+    "community-led marketing and trust rebuilding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "focus on infrastructure, access, and cross-sector innovation\u2014not just programming",
+    "space support for artists and organizations struggling with rising costs",
+    "activation of city-owned vacant properties",
+    "cross-sector grantmaking that connects arts with health, housing, and climate funding",
+    "community-led marketing collaborations",
+    "rebuild trust"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Downtown Austin Alliance"
+  ],
+  "barriers_identified": [
+    "struggling with rising costs",
+    "lack of space support for artists and organizations"
+  ],
+  "solutions_proposed": [
+    "space support for artists and organizations",
+    "activation of city-owned vacant properties",
+    "cross-sector grantmaking connecting arts with health, housing, and climate funding",
+    "community-led marketing collaborations to amplify City programs, local organizations, and rebuild trust"
+  ],
+  "cached_at": "2025-06-21T01:51:17.947522",
+  "cache_key": "afaf3fb168d102d050c12778bb0f49bf1deb77f8a79a4949e25160cafc6b6ac0",
+  "model": "gpt-41"
+}

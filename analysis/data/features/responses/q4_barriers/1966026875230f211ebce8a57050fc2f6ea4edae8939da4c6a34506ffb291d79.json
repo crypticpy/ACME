@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "anticipated reduction in funding opportunities",
+    "increased difficulty accessing funds",
+    "concern for future support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "opportunities will be limited",
+    "artists won't be able to seek funds in the future",
+    "more difficult for them to obtain funds"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for funding",
+    "increased difficulty obtaining funds"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:55.796139",
+  "cache_key": "1966026875230f211ebce8a57050fc2f6ea4edae8939da4c6a34506ffb291d79",
+  "model": "gpt-41"
+}

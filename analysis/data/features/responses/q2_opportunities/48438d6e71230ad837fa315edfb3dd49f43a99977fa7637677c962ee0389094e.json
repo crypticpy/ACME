@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for return of specific cultural event",
+    "community engagement through music",
+    "personalized recommendation (contacting a specific individual)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Bring the Planet Music event series back!",
+    "Talk to Laura Esparza."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Planet Music event series"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Bring the Planet Music event series back",
+    "Talk to Laura Esparza"
+  ],
+  "cached_at": "2025-06-21T00:34:02.281462",
+  "cache_key": "48438d6e71230ad837fa315edfb3dd49f43a99977fa7637677c962ee0389094e",
+  "model": "gpt-41"
+}

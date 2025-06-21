@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "overemphasis on tourism-focused events",
+    "need for increased community involvement",
+    "resource allocation priorities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Less focus on large scale events that bring in tourism",
+    "more focus on direct community involvement"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "priority given to tourism over community needs"
+  ],
+  "solutions_proposed": [
+    "reduce emphasis on large scale tourism events",
+    "increase direct community involvement"
+  ],
+  "cached_at": "2025-06-21T02:13:47.121394",
+  "cache_key": "6607ec2ecbcf705970f75b1bdc542ad21c31bb839afed32f56322b7124525794",
+  "model": "gpt-41"
+}

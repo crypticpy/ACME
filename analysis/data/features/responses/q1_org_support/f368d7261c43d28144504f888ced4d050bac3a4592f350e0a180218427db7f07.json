@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "broadening funding eligibility",
+    "tiered grant allocation by budget size",
+    "matching fund requirements",
+    "grant limits tied to organizational budgets"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Allow all non-profits to apply for city funding",
+    "Separate groups by budget size",
+    "Require a match",
+    "Limit grant amounts to a percentage of budget size--not over 25%"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "restricted eligibility for city funding",
+    "inequitable competition between organizations of different sizes"
+  ],
+  "solutions_proposed": [
+    "Allow all non-profits to apply for city funding",
+    "Separate groups by budget size so different sized organizations can apply for different amounts of money",
+    "Require a match",
+    "Limit grant amounts to a percentage of budget size--not over 25%"
+  ],
+  "cached_at": "2025-06-20T01:21:13.978048",
+  "cache_key": "f368d7261c43d28144504f888ced4d050bac3a4592f350e0a180218427db7f07",
+  "model": "gpt-41"
+}

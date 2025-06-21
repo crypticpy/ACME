@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for specific cultural organizations",
+    "expansion of film and media programming",
+    "resource needs for Cine Las Americas"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More support for Cine Las Americas",
+    "so that it can have MORE programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Cine Las Americas"
+  ],
+  "barriers_identified": [
+    "lack of support for Cine Las Americas"
+  ],
+  "solutions_proposed": [
+    "provide more support for Cine Las Americas"
+  ],
+  "cached_at": "2025-06-21T00:38:34.311035",
+  "cache_key": "8155006e82847d06c3031b5558433335ff7b248b9469061f4e977fd2a4c706c3",
+  "model": "gpt-41"
+}

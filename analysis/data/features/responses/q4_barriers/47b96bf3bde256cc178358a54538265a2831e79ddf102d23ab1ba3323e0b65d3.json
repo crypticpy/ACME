@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "overreliance on HOT (Hotel Occupancy Tax) for arts funding",
+    "funding tied to tourism rather than local artistic value",
+    "lack of respect for artists as professionals",
+    "art's economic and cultural contribution undervalued"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "dependence on HOT as the sole resource for arts funding",
+    "strings attached to fulfilling the expectation to service tourism",
+    "lack of respect for artists as professionals",
+    "art as a huge contributor to the city's economy, vitality, authenticity and reputation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dependence on HOT as the sole resource for arts funding",
+    "expectation to service tourism rather than local art vitality",
+    "lack of respect for artists as professionals",
+    "undervaluing art's contribution to the city's economy and reputation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:21.019286",
+  "cache_key": "47b96bf3bde256cc178358a54538265a2831e79ddf102d23ab1ba3323e0b65d3",
+  "model": "gpt-41"
+}

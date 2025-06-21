@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inter-city collaboration",
+    "arts-driven tourism",
+    "artist exchange",
+    "regional cultural connections"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "collaborating with fellow cities",
+    "direct flights from ABIA",
+    "tourism around the arts",
+    "mutually beneficial",
+    "finding Austin artists from these cities",
+    "share their work and stories",
+    "City fusion"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborate with cities that have direct flights from ABIA",
+    "promote arts tourism with mutually beneficial partnerships",
+    "feature Austin artists from those cities to share their work and stories"
+  ],
+  "cached_at": "2025-06-21T02:19:41.376390",
+  "cache_key": "b9e8cde7ebe8467f388ce2c0c5d87fe875242ef75a92b31e091cc1bb7dbe73ed",
+  "model": "gpt-41"
+}

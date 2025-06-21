@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "More access to funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funds"
+  ],
+  "solutions_proposed": [
+    "increase access to funds"
+  ],
+  "cached_at": "2025-06-21T00:58:45.195313",
+  "cache_key": "8cefde9d56587f580f775fceb171929df7c74fbb24d263b71a97a1278b8d1d8a",
+  "model": "gpt-41"
+}

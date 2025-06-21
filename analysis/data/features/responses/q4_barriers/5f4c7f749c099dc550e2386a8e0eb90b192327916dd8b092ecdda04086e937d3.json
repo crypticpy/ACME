@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "shortage of event venues",
+    "lack of adequate cultural centers",
+    "insufficient facilities",
+    "scarcity of living-wage creative jobs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "run low on event venues",
+    "cultural centers with adequate facilities",
+    "living-wage creative jobs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of event venues",
+    "lack of cultural centers with adequate facilities",
+    "lack of living-wage creative jobs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:05.200555",
+  "cache_key": "5f4c7f749c099dc550e2386a8e0eb90b192327916dd8b092ecdda04086e937d3",
+  "model": "gpt-41"
+}

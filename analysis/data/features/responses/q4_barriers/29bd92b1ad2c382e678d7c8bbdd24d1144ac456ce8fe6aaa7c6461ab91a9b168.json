@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic inequity in cultural offerings",
+    "lack of information about opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lacking in my area",
+    "not all opportunities are known"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient cultural opportunities in respondent's area",
+    "lack of awareness of available opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:21.240851",
+  "cache_key": "29bd92b1ad2c382e678d7c8bbdd24d1144ac456ce8fe6aaa7c6461ab91a9b168",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local artists",
+    "prioritizing local creative community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Support local artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support local artists"
+  ],
+  "cached_at": "2025-06-21T02:12:09.654996",
+  "cache_key": "faa85e3b81c56b8acc46eb009f7b8290dc81917f6c5103d7302d64b348b16d16",
+  "model": "gpt-41"
+}

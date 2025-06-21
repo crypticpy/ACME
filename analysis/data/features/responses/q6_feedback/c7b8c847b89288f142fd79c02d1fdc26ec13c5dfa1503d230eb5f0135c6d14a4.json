@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "fairness in application process",
+    "honesty and transparency",
+    "inclusion and access for all",
+    "enjoyment of local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "be fair and honest about the application process",
+    "include all people",
+    "enjoy the artists in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of fairness in application process",
+    "exclusion of some people from enjoying artists"
+  ],
+  "solutions_proposed": [
+    "be fair and honest about the application process",
+    "include all people to enjoy the artists"
+  ],
+  "cached_at": "2025-06-21T02:16:23.609510",
+  "cache_key": "c7b8c847b89288f142fd79c02d1fdc26ec13c5dfa1503d230eb5f0135c6d14a4",
+  "model": "gpt-41"
+}

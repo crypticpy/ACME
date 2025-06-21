@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased grant opportunities",
+    "perception of limited current grant offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "expanded grant offerings"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient grant offerings"
+  ],
+  "solutions_proposed": [
+    "expand grant offerings"
+  ],
+  "cached_at": "2025-06-21T02:09:13.801388",
+  "cache_key": "8bbd4751dc9eae9126f9eac72c0c0a8fcf97dd9815e26c0d29cd80fb4afa50ab",
+  "model": "gpt-41"
+}

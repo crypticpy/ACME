@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about available services",
+    "uncertainty about eligibility for programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of knowledge about what is offered",
+    "who it applies to"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about available offerings",
+    "uncertainty about eligibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:37.357171",
+  "cache_key": "293d8555d5a41016205c83d3ce9c839813d7f52a2dc8acb61a0d008a15ef6303",
+  "model": "gpt-41"
+}

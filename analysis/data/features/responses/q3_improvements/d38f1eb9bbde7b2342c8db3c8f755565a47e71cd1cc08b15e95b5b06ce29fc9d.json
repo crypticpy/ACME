@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of established organizations with proven impact",
+    "concerns about grant eligibility enforcement",
+    "perceived favoritism or bias in grant awards",
+    "appropriate scaling of grants for new or small organizations",
+    "community feedback being overlooked"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "increased prioritization of arts orgs that have a proven and deep impact",
+    "lower-tier grant such a Nexus would be sufficient for these smaller, unproven orgs",
+    "Thrive did state that applicants must have been in business for at least five years",
+    "this was not adhered to",
+    "certain awardees were granted large awards based on personal relations with EDD staff"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live Music Fund",
+    "Thrive",
+    "Elevate",
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "lack of adherence to eligibility requirements",
+    "perceived favoritism in grant awards",
+    "large grants awarded to unproven or newly formed organizations"
+  ],
+  "solutions_proposed": [
+    "increase prioritization of organizations with proven and deep community impact",
+    "use lower-tier grants like Nexus for smaller, unproven organizations",
+    "enforce eligibility requirements such as minimum years in business"
+  ],
+  "cached_at": "2025-06-21T00:58:09.399765",
+  "cache_key": "d38f1eb9bbde7b2342c8db3c8f755565a47e71cd1cc08b15e95b5b06ce29fc9d",
+  "model": "gpt-41"
+}

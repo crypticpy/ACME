@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "focus of HOT tax fund distribution criteria",
+    "support for arts organizations and individual artists",
+    "link between cultural funding and tourism"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "feel strongly that ACME should ensure",
+    "HOT tax funds distribution criteria",
+    "focused on arts organizations and individual artists",
+    "actively working to encourage more tourism to Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ensure that the HOT tax funds distribution criteria are focused on arts organizations and individual artists who are actively working to encourage more tourism to Austin"
+  ],
+  "cached_at": "2025-06-21T02:22:01.370485",
+  "cache_key": "891569957fecd4aa17ae65262e19368080e6dbc3b49b5be6202a83cf2c488d31",
+  "model": "gpt-41"
+}

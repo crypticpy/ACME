@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial support for organizations",
+    "collaborative event partnerships",
+    "inclusivity in cultural programming",
+    "engagement with Black sororities and fraternities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Financially and collaboratively with events",
+    "being more inclusive",
+    "seek out collaborative partnerships with diverse organizations",
+    "like Black sororities and fraternities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusivity",
+    "insufficient collaboration with diverse organizations"
+  ],
+  "solutions_proposed": [
+    "provide financial support",
+    "collaborate on events",
+    "increase inclusivity",
+    "seek partnerships with Black sororities and fraternities"
+  ],
+  "cached_at": "2025-06-20T10:34:44.696734",
+  "cache_key": "c98ae02f4f4b5dfb40e4084c75a73201e5ca5909dd49017bcf64e8e6696dde98",
+  "model": "gpt-41"
+}

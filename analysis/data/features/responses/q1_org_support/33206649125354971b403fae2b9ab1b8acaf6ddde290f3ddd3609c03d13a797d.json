@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in grant processes",
+    "unclear grant rejection reasons",
+    "communication gaps between funder and applicants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Transparency in grants and funding",
+    "unaware of the actual reasons for project rejections",
+    "recent results of the NEXUS grant"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "NEXUS grant"
+  ],
+  "barriers_identified": [
+    "unawareness of reasons for project rejections",
+    "lack of transparency in funding decisions"
+  ],
+  "solutions_proposed": [
+    "increase transparency in grants and funding"
+  ],
+  "cached_at": "2025-06-20T10:24:28.676185",
+  "cache_key": "33206649125354971b403fae2b9ab1b8acaf6ddde290f3ddd3609c03d13a797d",
+  "model": "gpt-41"
+}

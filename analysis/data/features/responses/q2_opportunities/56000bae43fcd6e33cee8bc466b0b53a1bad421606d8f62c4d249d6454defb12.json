@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "enthusiasm for all cultural opportunities",
+    "non-preferential support for arts and entertainment",
+    "general satisfaction with current offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "All of them",
+    "they are all great"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:29:37.846704",
+  "cache_key": "56000bae43fcd6e33cee8bc466b0b53a1bad421606d8f62c4d249d6454defb12",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for consistent funding",
+    "yearly funding cycles",
+    "avoiding funding interruptions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "ensure cultural arts funding is consistent/yearly",
+    "without breaks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "breaks in funding"
+  ],
+  "solutions_proposed": [
+    "make cultural arts funding consistent and yearly without breaks"
+  ],
+  "cached_at": "2025-06-20T01:21:54.559651",
+  "cache_key": "61c8a58d2d6f6095fb6a29269274e12515bea926f6ba2f1f31863217ded1ba92",
+  "model": "gpt-41"
+}

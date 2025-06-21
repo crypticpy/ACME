@@ -1,0 +1,28 @@
+{
+  "total_transportation_comments": 5856,
+  "percentage_of_total_responses": 493.3,
+  "category_breakdown": {
+    "General Transportation": 4026,
+    "Cost of Transportation": 983,
+    "Parking": 877,
+    "Distance/Location": 564,
+    "Public Transit": 531,
+    "Alternative Transportation": 20,
+    "Traffic": 18
+  },
+  "sample_comments": [
+    {
+      "categories": [
+        "Public Transit"
+      ],
+      "comment": "Artist or creative professional ;Musician or performer ;Small business owner ;Venue owner/manager ;Resident/community member ;"
+    }
+  ],
+  "key_insights": [
+    "Parking is a major concern, mentioned in 877 comments",
+    "Public transit access issues mentioned in 531 comments",
+    "Distance and venue location challenges noted in 564 comments",
+    "Transportation costs are a barrier, mentioned in 983 comments"
+  ],
+  "extraction_date": "2025-06-21T09:29:35.660724"
+}

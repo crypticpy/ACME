@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dedicated funding streams",
+    "exclusive access to resources",
+    "support for organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "creating a fund",
+    "only these organizations can pull from"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of dedicated funding for organizations"
+  ],
+  "solutions_proposed": [
+    "create a fund which only these organizations can pull from"
+  ],
+  "cached_at": "2025-06-20T01:14:26.313011",
+  "cache_key": "6b3a7c7d7fcaa1f11089e2ced40a0466ef2eb0cba170ab75a0bb4f933dbb9d83",
+  "model": "gpt-41"
+}

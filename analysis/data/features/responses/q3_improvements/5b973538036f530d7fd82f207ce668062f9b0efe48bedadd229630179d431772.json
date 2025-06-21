@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "expanding opportunities",
+    "artist inclusion",
+    "access to funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities for more artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for artists"
+  ],
+  "solutions_proposed": [
+    "create more opportunities for more artists"
+  ],
+  "cached_at": "2025-06-21T01:01:00.532129",
+  "cache_key": "5b973538036f530d7fd82f207ce668062f9b0efe48bedadd229630179d431772",
+  "model": "gpt-41"
+}

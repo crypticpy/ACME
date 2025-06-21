@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of communication about reduced cost events",
+    "awareness of affordable cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "If reduced cost events exist I do not hear about them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about reduced cost events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:57:21.241192",
+  "cache_key": "fd23688888c40c52e82d4db490cfc1c18b4cbb2c1fd2bb875ab355f33172e901",
+  "model": "gpt-41"
+}

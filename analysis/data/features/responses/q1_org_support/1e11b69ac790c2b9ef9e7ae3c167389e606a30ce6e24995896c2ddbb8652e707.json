@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for emerging organizations",
+    "continued support for established organizations",
+    "recognition of long-term local arts support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "helping younger grants",
+    "support the more established",
+    "supports local arts for over 10yr"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "helping younger grants",
+    "support the more established",
+    "support organizations that have supported local arts for over 10 years"
+  ],
+  "cached_at": "2025-06-20T01:14:03.557835",
+  "cache_key": "1e11b69ac790c2b9ef9e7ae3c167389e606a30ce6e24995896c2ddbb8652e707",
+  "model": "gpt-41"
+}

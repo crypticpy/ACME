@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "cross-sector communication",
+    "resource sharing",
+    "creative empowerment",
+    "decision-making authority"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "cross communication",
+    "resource sharing",
+    "empowering the creatives in the community",
+    "those knowledgeable about program creation to dictate how they share their work",
+    "rather than CEOs, Directors, Managers deciding for them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "decisions made by CEOs, Directors, Managers instead of creatives"
+  ],
+  "solutions_proposed": [
+    "increase cross communication",
+    "enhance resource sharing",
+    "empower creatives and program creators to dictate event formats and sharing methods"
+  ],
+  "cached_at": "2025-06-20T10:40:37.238671",
+  "cache_key": "d5a7cb05ea816d1d53b0815be89b2f759a7257c3c70d99e5a91f30e06115b051",
+  "model": "gpt-41"
+}

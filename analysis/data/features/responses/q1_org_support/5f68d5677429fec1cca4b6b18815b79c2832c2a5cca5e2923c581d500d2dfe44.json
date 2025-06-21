@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "attention to emerging groups",
+    "inclusion of new organizations",
+    "support for under-recognized cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Take a look at new and upcoming groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Take a look at new and upcoming groups"
+  ],
+  "cached_at": "2025-06-20T10:32:43.834409",
+  "cache_key": "5f68d5677429fec1cca4b6b18815b79c2832c2a5cca5e2923c581d500d2dfe44",
+  "model": "gpt-41"
+}

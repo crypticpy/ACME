@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic isolation of 78717",
+    "lack of visible city support",
+    "youth discouragement from arts careers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Everything is physically far from 78717",
+    "we don't see the City's support",
+    "many kids are discouraged and/or do not pursue art career"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "physical distance from arts and cultural opportunities",
+    "lack of perceived city support for the area",
+    "youth discouraged from pursuing art careers due to these factors"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:21.992205",
+  "cache_key": "ff432195c371076c8cb087dfdd7bf283c5be3be195c4479666d3fb2283daa1bc",
+  "model": "gpt-41"
+}

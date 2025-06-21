@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of financial support",
+    "insufficient community involvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "financial support",
+    "community involvement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial support",
+    "community involvement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:45.533879",
+  "cache_key": "2617e65fa509b51a7e2a4783a215dcc860f45bfbad38409c6bc37e31d8791c49",
+  "model": "gpt-41"
+}

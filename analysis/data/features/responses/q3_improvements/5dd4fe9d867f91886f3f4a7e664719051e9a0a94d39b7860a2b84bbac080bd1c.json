@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of underrepresented communities",
+    "support for legacy organizations",
+    "matrix-based funding approach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "matrix that works with underrepresented communities",
+    "also works with legacy organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for underrepresented communities",
+    "potential exclusion of legacy organizations"
+  ],
+  "solutions_proposed": [
+    "implement a matrix that works with both underrepresented communities and legacy organizations"
+  ],
+  "cached_at": "2025-06-21T00:59:45.914961",
+  "cache_key": "5dd4fe9d867f91886f3f4a7e664719051e9a0a94d39b7860a2b84bbac080bd1c",
+  "model": "gpt-41"
+}

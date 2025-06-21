@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Recognition of external economic challenges",
+    "Affirmation of ACME's current efforts",
+    "Importance of diverse representation",
+    "Encouragement to continue support"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "y'all are doing a great job",
+    "things are collapsing under many economic conditions beyond your control",
+    "keep seeking diverse representation",
+    "supporting as best you can"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "many economic conditions beyond your control"
+  ],
+  "solutions_proposed": [
+    "keep seeking diverse representation",
+    "supporting as best you can"
+  ],
+  "cached_at": "2025-06-20T01:17:59.519559",
+  "cache_key": "34d78db92fa8eec1d12d523e46a25d3cd0150b1ecf6a4e9d86b77a1c44e3a8e5",
+  "model": "gpt-41"
+}

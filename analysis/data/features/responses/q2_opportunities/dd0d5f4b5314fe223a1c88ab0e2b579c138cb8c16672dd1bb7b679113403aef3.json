@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient arts support in public education",
+    "need for increased investment in school arts programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "better support for the arts in public schools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for arts in public schools"
+  ],
+  "solutions_proposed": [
+    "better support for the arts in public schools"
+  ],
+  "cached_at": "2025-06-21T00:52:25.097332",
+  "cache_key": "dd0d5f4b5314fe223a1c88ab0e2b579c138cb8c16672dd1bb7b679113403aef3",
+  "model": "gpt-41"
+}

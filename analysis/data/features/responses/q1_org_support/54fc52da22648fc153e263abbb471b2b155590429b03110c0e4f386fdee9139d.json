@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for amateur organizations",
+    "resident participation in the arts",
+    "focus on smaller and emerging groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "important to support amateur organizations",
+    "allow residents to take part in performances and/or other arts activities",
+    "especially smaller and emerging groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for amateur organizations",
+    "limited opportunities for smaller and emerging groups"
+  ],
+  "solutions_proposed": [
+    "support amateur organizations that allow residents to participate",
+    "focus on smaller and emerging groups"
+  ],
+  "cached_at": "2025-06-20T10:43:29.404718",
+  "cache_key": "54fc52da22648fc153e263abbb471b2b155590429b03110c0e4f386fdee9139d",
+  "model": "gpt-41"
+}

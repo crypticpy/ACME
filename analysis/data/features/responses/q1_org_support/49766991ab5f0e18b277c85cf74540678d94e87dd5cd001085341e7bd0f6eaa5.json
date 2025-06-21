@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "shared resource pools for arts organizations",
+    "affordable access to professional services",
+    "municipal policy initiatives for arts businesses",
+    "rental assistance and real estate subsidies",
+    "integration of arts spaces into city planning"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Create more pooled resources that all the arts organizations could get use of",
+    "financial services, legal services, PR services at a low cost",
+    "pushing policy that has the City take more initiatives that serve arts businesses",
+    "rental assistance",
+    "subsidizing mix-used real estate",
+    "incorporates arts spaces more integrally into their plans"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable access to professional services",
+    "insufficient municipal support for arts businesses",
+    "high rental and real estate costs",
+    "arts spaces not fully integrated into city planning"
+  ],
+  "solutions_proposed": [
+    "create pooled resources for arts organizations to access professional services at low cost",
+    "implement city policies that provide rental assistance for arts businesses",
+    "subsidize mixed-use real estate for arts organizations",
+    "integrate arts spaces more fully into city planning"
+  ],
+  "cached_at": "2025-06-20T01:21:08.159441",
+  "cache_key": "49766991ab5f0e18b277c85cf74540678d94e87dd5cd001085341e7bd0f6eaa5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for arts creators",
+    "lack of affordable space",
+    "ticket prices limiting public access",
+    "financial sustainability challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Lack of funds to sustain the companies and individuals that create the arts",
+    "Lack of space",
+    "Affordability \u2014 specifically lack of funding that puts more onus on ticket sales and prices the public out of accessibility"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funds for arts creators",
+    "lack of space",
+    "high ticket prices due to insufficient funding",
+    "public priced out of accessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:41.684419",
+  "cache_key": "ecb848b68885c1326f5bc248d39ab3d4279e2a95bf49c5be5a0125c8ad820ed4",
+  "model": "gpt-41"
+}

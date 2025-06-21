@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "highlighting Austin's history",
+    "representation of historically Black East Austin",
+    "focus on local cultural heritage"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more focus highlighting history of Austin",
+    "including historically black east austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more focus highlighting history of Austin including historically black east austin"
+  ],
+  "cached_at": "2025-06-21T00:50:30.997402",
+  "cache_key": "254ae609a4a4f3fd890fc5d1b332ea9151c4f37b7eeb49f49966e38396b429bf",
+  "model": "gpt-41"
+}

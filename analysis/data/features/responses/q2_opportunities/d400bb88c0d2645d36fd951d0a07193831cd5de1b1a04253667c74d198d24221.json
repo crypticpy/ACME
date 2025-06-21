@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for internationally recognized art events",
+    "Interest in global artistic exchange",
+    "Request for major fashion events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I would like to see an Art Basel Austin",
+    "bring the best artists here from around the world",
+    "I would like to see a major fashion show here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Art Basel"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Host an Art Basel-style event in Austin",
+    "Organize a major fashion show in Austin"
+  ],
+  "cached_at": "2025-06-21T00:27:19.213305",
+  "cache_key": "d400bb88c0d2645d36fd951d0a07193831cd5de1b1a04253667c74d198d24221",
+  "model": "gpt-41"
+}

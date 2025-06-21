@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "artist compensation",
+    "sustained artistic creation",
+    "funding opportunities for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more ways for artists to get paid",
+    "keep making art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of paid opportunities for artists"
+  ],
+  "solutions_proposed": [
+    "create more ways for artists to get paid"
+  ],
+  "cached_at": "2025-06-21T01:52:05.356352",
+  "cache_key": "257c25b24c60c852bd00b5ef15f74818c50b53e188dc4148b1e0b7443e47235d",
+  "model": "gpt-41"
+}

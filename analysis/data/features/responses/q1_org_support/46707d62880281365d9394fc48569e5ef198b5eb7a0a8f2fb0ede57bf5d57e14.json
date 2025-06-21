@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritizing funding for cultural events",
+    "emphasis on diversity",
+    "emphasis on inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding really needs to focus",
+    "cultural events that celebrate diversity and inclusivity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "focus funding on cultural events that celebrate diversity and inclusivity"
+  ],
+  "cached_at": "2025-06-20T10:41:22.576111",
+  "cache_key": "46707d62880281365d9394fc48569e5ef198b5eb7a0a8f2fb0ede57bf5d57e14",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for more grants for events",
+    "support for skill-building and learning",
+    "affordable and sustainable workshop spaces",
+    "financial sustainability for cultural workers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more grants for events",
+    "get paid to learn new skills",
+    "more space all over that can teach workshops",
+    "at a rate they can pay their employees and self without losing their minds and giving up"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for new events and skill-building",
+    "insufficient affordable workshop spaces",
+    "financial strain on cultural workers and educators"
+  ],
+  "solutions_proposed": [
+    "increase grants for events and skill-building",
+    "create more accessible workshop spaces that pay staff sustainably"
+  ],
+  "cached_at": "2025-06-21T00:37:20.088243",
+  "cache_key": "fd8f21b1e321f605e238b5d57210a6976b1cdeb0c080af5d93e78c2a2022fb77",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable studio space",
+    "support for local artists",
+    "access to creative workspaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "offer space and rent to local artists for studios"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studio space"
+  ],
+  "solutions_proposed": [
+    "offer space and rent to local artists for studios"
+  ],
+  "cached_at": "2025-06-21T02:04:56.380519",
+  "cache_key": "3a7c689406e18774d9e80bb85b75be7d919f5164625f7dd18774e70d8b48be0d",
+  "model": "gpt-41"
+}

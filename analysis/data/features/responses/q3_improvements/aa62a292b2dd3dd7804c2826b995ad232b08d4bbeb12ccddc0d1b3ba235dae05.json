@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "uncertainty about solutions",
+    "lack of suggestions",
+    "possible disengagement or confusion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "I don\u2019t know how to fix this"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about how to improve programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:59:33.149664",
+  "cache_key": "aa62a292b2dd3dd7804c2826b995ad232b08d4bbeb12ccddc0d1b3ba235dae05",
+  "model": "gpt-41"
+}

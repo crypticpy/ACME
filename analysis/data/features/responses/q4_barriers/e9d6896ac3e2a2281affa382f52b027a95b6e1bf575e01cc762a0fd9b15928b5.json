@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Limited scale and ambition of local arts resources",
+    "Need to seek professional opportunities outside Austin",
+    "Perception of Austin as a small town by decision-makers",
+    "Barriers to professional growth for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "difficult to be a professional artist in Austin",
+    "local resources are only thinking small-scale, limited impact",
+    "having to work mostly out of the city and even out of the state",
+    "everything is being run by people who see Austin as a little town"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Local resources focus only on small-scale, limited impact activities",
+    "Necessity to leave Austin or Texas for professional-level opportunities",
+    "Leadership's limited vision of Austin's cultural significance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:26.582559",
+  "cache_key": "e9d6896ac3e2a2281affa382f52b027a95b6e1bf575e01cc762a0fd9b15928b5",
+  "model": "gpt-41"
+}

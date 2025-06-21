@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Economic barriers due to high cost of living",
+    "Lack of healthcare access for cultural participants",
+    "Difficulties for newcomers to enter the arts sector",
+    "Insufficient education or guidance on starting in arts",
+    "Perception that arts careers are not financially viable"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "High cost of living is the biggest one",
+    "lack of health insurance or primary doctor care",
+    "Lack of opportunities to break in if you are new",
+    "Lack of education - people dont know how to begin",
+    "People dont think that can make a living off of it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "High cost of living",
+    "Lack of health insurance",
+    "Lack of primary doctor care",
+    "Lack of opportunities for newcomers",
+    "Lack of education on how to begin",
+    "Belief that making a living in arts is not possible"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:52.034757",
+  "cache_key": "d63fca359355508434ffaec749b1f522dd42c79a50d33ae49f30ba090dc8d9c0",
+  "model": "gpt-41"
+}

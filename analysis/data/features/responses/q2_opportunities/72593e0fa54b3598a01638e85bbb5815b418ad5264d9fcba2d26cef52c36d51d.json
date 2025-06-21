@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of existing cultural offerings",
+    "support for smaller artists and organizations",
+    "enhancing Austin's creative reputation",
+    "increasing opportunities for creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expanding on what we already have here",
+    "Austin is a city rich in creativity",
+    "giving more opportunities to smaller artists/creatives/organizations",
+    "make Austin more attractive to creatives and art lovers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for smaller artists/creatives/organizations"
+  ],
+  "solutions_proposed": [
+    "expand existing cultural offerings",
+    "give more opportunities to smaller artists/creatives/organizations"
+  ],
+  "cached_at": "2025-06-21T00:46:50.940791",
+  "cache_key": "72593e0fa54b3598a01638e85bbb5815b418ad5264d9fcba2d26cef52c36d51d",
+  "model": "gpt-41"
+}

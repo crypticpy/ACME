@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "manipulation of pilot program process",
+    "conflicts of interest within commissions",
+    "internal obstruction to organizational change",
+    "need for best practices and systemic reform",
+    "self-dealing among commission members"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "a small group of people who manipulated and gamed the pilot program process for their own benefit",
+    "current staff within ACME",
+    "actively undermining ACME in the community",
+    "continuing to manipulate the commission system to obstruct change",
+    "arts and music commissions are rife with conflicts of interest and self dealing",
+    "systemic issues that must be rooted out before true transformative, positive change"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "manipulation and gaming of the pilot program process",
+    "conflicts of interest and self-dealing in commissions",
+    "internal staff undermining and obstructing change"
+  ],
+  "solutions_proposed": [
+    "identify best practices and pursue them",
+    "root out systemic issues before transformative change can occur"
+  ],
+  "cached_at": "2025-06-21T02:10:00.496173",
+  "cache_key": "921b5bc24cedafe39ea22c14bc1cc1ff9649be43eef3a81e76e0ee899b1949b7",
+  "model": "gpt-41"
+}

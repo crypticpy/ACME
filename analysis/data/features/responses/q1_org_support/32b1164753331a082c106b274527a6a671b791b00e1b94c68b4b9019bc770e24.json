@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of available resources",
+    "need for information dissemination",
+    "access to organizational support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "We need to know these resources exist",
+    "information on ways we can utilize ACME for support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of resources",
+    "insufficient information on how to access support"
+  ],
+  "solutions_proposed": [
+    "provide information about existing resources",
+    "offer guidance on how to utilize ACME for support"
+  ],
+  "cached_at": "2025-06-20T01:14:41.252848",
+  "cache_key": "32b1164753331a082c106b274527a6a671b791b00e1b94c68b4b9019bc770e24",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved information sharing",
+    "facilitating artist and organization connections",
+    "publicly accessible resources",
+    "partner and neighbor identification"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more information and connection with other artists and arts organizations",
+    "a way to identify partners, neighbors, etc.",
+    "a map, a database\u2026 something accessible to the public"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible information about other artists and organizations",
+    "difficulty identifying potential partners and neighbors"
+  ],
+  "solutions_proposed": [
+    "create a map or database accessible to the public to facilitate connections"
+  ],
+  "cached_at": "2025-06-21T02:11:03.371543",
+  "cache_key": "9fcdaf947545d29fc72be1c3b4752d5c81f147f082376260ff318017e8264853",
+  "model": "gpt-41"
+}

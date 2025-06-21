@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "youth arts programming",
+    "desire for more theater opportunities",
+    "desire for more film opportunities",
+    "desire for more comedy opportunities",
+    "desire for more poetry opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Theater, film, comedy, poetry",
+    "for emerging artists",
+    "for youth programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities in theater, film, comedy, and poetry for emerging artists and youth"
+  ],
+  "cached_at": "2025-06-21T00:46:55.724539",
+  "cache_key": "ca3938dcc6f72022e0128c674c13e232a5c7138c87c32902fb3d2e65bd7eb4b2",
+  "model": "gpt-41"
+}

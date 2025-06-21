@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers",
+    "time constraints",
+    "transportation and parking challenges"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Time",
+    "money",
+    "parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time",
+    "money",
+    "parking"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:23.701472",
+  "cache_key": "60c82a5d29e3cefcaa965df6a3a7b2f56428482716fe3e49c3551091cae39f72",
+  "model": "gpt-41"
+}

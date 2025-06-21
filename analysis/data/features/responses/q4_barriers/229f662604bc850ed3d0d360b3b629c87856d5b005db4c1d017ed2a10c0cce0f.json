@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding challenges for Austin Bat Cave",
+    "impact of political climate on arts funding",
+    "need for prioritization of literary arts",
+    "funding gaps in cultural support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Funding for Austin Bat Cave is challenging right now",
+    "especially with the current political climate",
+    "I would like to see the City of Austin prioritize funding for the literary arts",
+    "help fill some funding gaps"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Bat Cave"
+  ],
+  "barriers_identified": [
+    "Funding for Austin Bat Cave is challenging",
+    "current political climate"
+  ],
+  "solutions_proposed": [
+    "City of Austin prioritize funding for the literary arts",
+    "help fill some funding gaps"
+  ],
+  "cached_at": "2025-06-21T01:49:05.759389",
+  "cache_key": "229f662604bc850ed3d0d360b3b629c87856d5b005db4c1d017ed2a10c0cce0f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for Creative Reset initiative",
+    "importance of arts for Austin's future"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Thank you for working on this Creative Reset",
+    "so crucial to the future of the Arts in Austin"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Creative Reset"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:48.368992",
+  "cache_key": "a80fd8f2fce402f2a22fd2973aec31201a1891ab62be3bd9bfd58f7b3fc81a18",
+  "model": "gpt-41"
+}

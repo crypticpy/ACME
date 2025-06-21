@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic equity in funding",
+    "increased investment in arts",
+    "district-specific needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more art cultural investments",
+    "district 2"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of art cultural investments in district 2"
+  ],
+  "solutions_proposed": [
+    "increase art cultural investments in district 2"
+  ],
+  "cached_at": "2025-06-21T01:10:01.021113",
+  "cache_key": "cf9c2ae5ad9cd0fe411dd9d59f83ddf352d4e028c9caa9e82de5247c9e21cb6f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "balancing equity and sustainability",
+    "destabilization from rapid funding shifts",
+    "need for transitional and bridge funding",
+    "two-tiered funding model for legacy and emerging groups",
+    "transparent communication and criteria",
+    "capacity building for under-resourced organizations",
+    "inclusive decision-making and feedback loops"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "balancing equity with sustainability",
+    "rapid funding shift has destabilized long-standing groups",
+    "implement transitional support, such as bridge grants",
+    "two-tiered funding model",
+    "clearer communication is needed",
+    "capacity building\u2014offering training, mentorship, and operational support",
+    "establish a feedback loop that includes artists and cultural leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "destabilization of long-standing groups due to rapid funding shifts",
+    "lack of transitional support for groups facing sudden cuts",
+    "unclear communication regarding criteria, timelines, and processes",
+    "smaller or under-resourced organizations unable to compete fairly",
+    "top-down decision-making disconnected from community needs"
+  ],
+  "solutions_proposed": [
+    "implement transitional support, such as bridge grants",
+    "conduct regular impact assessments to adjust funding strategies",
+    "adopt a two-tiered funding model for legacy institutions and emerging voices",
+    "provide clearer communication, transparent criteria, and consistent processes",
+    "invest in capacity building: training, mentorship, operational support",
+    "prioritize funding for collaborative projects",
+    "establish a feedback loop including artists and cultural leaders in decision-making"
+  ],
+  "cached_at": "2025-06-20T10:26:21.009284",
+  "cache_key": "7c10a9063c56c7bc3851a010a039093aed0cd958f47863846a9fae108b6742e7",
+  "model": "gpt-41"
+}

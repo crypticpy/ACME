@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Exclusion of long-standing classical music organizations from funding",
+    "Perceived inequity in new funding criteria and process",
+    "Lack of cultural and artistic understanding by review panels",
+    "Negative impact on organizational mission and morale",
+    "Shift in funding priorities towards diversity, equity, and inclusion over artistic merit",
+    "Survival of classical music organizations through alternative funding sources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "many organizations were passed over for funding",
+    "organizations had been funded for over 20 years--and suddenly they don't meet funding criteria",
+    "application for funding focused on diversity, equity and inclusion and was similar to a social services funding application",
+    "interview team knew nothing about the music our organization performs (early music-classical)",
+    "deemed us to be elitist",
+    "no consideration of performance quality, diversity of performers and musicians, and length of service to the Austin Community",
+    "very dispiriting and demeaning to our mission and prior performances",
+    "almost all of the Austin classical music organizations were cut from funding",
+    "How is that equitable?",
+    "the mission of the cultural arts program was to cut funding for classical music in Austin",
+    "We are one of the few surviving organizations, Texas Early Music Project",
+    "We continue to be funded by Texas Commission on the Arts and our very generous donors. But the City of Austin is not among them."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Texas Early Music Project",
+    "Texas Commission on the Arts"
+  ],
+  "barriers_identified": [
+    "New funding criteria excluding classical music organizations",
+    "Review panels lacking understanding of classical/early music",
+    "Perceived bias against classical music as elitist",
+    "No consideration of performance quality or community service"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:18:22.451626",
+  "cache_key": "1b18d133c9fdc61e8e2dd50f8456f960fb8cf2d57491afd631648d37010f0f20",
+  "model": "gpt-41"
+}

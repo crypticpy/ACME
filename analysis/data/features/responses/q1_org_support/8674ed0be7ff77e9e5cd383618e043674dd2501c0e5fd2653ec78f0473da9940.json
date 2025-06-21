@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "annual needs assessment",
+    "identifying pain points",
+    "capacity building and resources",
+    "nontraditional support",
+    "sustaining organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Do an annual needs assessment",
+    "discover current pain points",
+    "funding, capacity building, supplies, space, equipment, technical assistance, professional services",
+    "strengthen & shape critical support",
+    "Nontraditional support goes a long way",
+    "brainstorm flexible nontraditional resources orgs/leaders need to sustain"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding",
+    "capacity building",
+    "supplies",
+    "space",
+    "equipment",
+    "technical assistance",
+    "professional services"
+  ],
+  "solutions_proposed": [
+    "Do an annual needs assessment",
+    "continue to strengthen & shape critical support for orgs & cultural leaders",
+    "brainstorm flexible nontraditional resources orgs/leaders need to sustain"
+  ],
+  "cached_at": "2025-06-20T10:21:39.958789",
+  "cache_key": "8674ed0be7ff77e9e5cd383618e043674dd2501c0e5fd2653ec78f0473da9940",
+  "model": "gpt-41"
+}

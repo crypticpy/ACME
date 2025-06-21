@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event location accessibility",
+    "parking availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "location of some events",
+    "available parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "event locations are difficult to access",
+    "lack of available parking"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:39.767747",
+  "cache_key": "ba6d036d209fef1141131d78681d50d2ca72e2becfa344b7f14e86e314941043",
+  "model": "gpt-41"
+}

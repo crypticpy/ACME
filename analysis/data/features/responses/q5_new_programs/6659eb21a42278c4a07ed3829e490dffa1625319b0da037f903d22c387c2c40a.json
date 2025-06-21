@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for early-stage artist support",
+    "demand for microgrants",
+    "mentorship for artists",
+    "navigational support for city processes",
+    "resource gaps for artists to start and grow",
+    "critique of focus on showcase-ready grants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More early-stage support",
+    "More microgrants",
+    "More mentorship",
+    "More help navigating the city",
+    "Artists need resources to start, grow, and stay in Austin",
+    "not just showcase-ready grants for finished work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of early-stage support",
+    "insufficient microgrants",
+    "lack of mentorship",
+    "difficulty navigating city processes",
+    "overemphasis on showcase-ready grants"
+  ],
+  "solutions_proposed": [
+    "provide more early-stage support",
+    "offer more microgrants",
+    "increase mentorship opportunities",
+    "offer more help navigating the city"
+  ],
+  "cached_at": "2025-06-21T01:54:53.376316",
+  "cache_key": "6659eb21a42278c4a07ed3829e490dffa1625319b0da037f903d22c387c2c40a",
+  "model": "gpt-41"
+}

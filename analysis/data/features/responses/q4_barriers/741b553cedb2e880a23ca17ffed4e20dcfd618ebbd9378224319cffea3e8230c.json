@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived disrespect for professional artists by city programs",
+    "distinction between professional artists and hobbyists",
+    "prioritization of funding for impactful arts nonprofits",
+    "importance of supporting arts organizations that provide jobs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the most impactful barrier is the disrespect shown by the City programs towards the idea of professional arts",
+    "not everyone is an artist just because they think they are, or do art as a hobby",
+    "arts nonprofits who provide jobs for arts professionals and create the greatest impact in the community should be the top priority for public funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "disrespect by City programs towards professional arts",
+    "lack of prioritization for arts nonprofits employing professionals"
+  ],
+  "solutions_proposed": [
+    "make arts nonprofits that provide jobs for arts professionals and create the greatest impact the top priority for public funding"
+  ],
+  "cached_at": "2025-06-21T01:25:03.416980",
+  "cache_key": "741b553cedb2e880a23ca17ffed4e20dcfd618ebbd9378224319cffea3e8230c",
+  "model": "gpt-41"
+}

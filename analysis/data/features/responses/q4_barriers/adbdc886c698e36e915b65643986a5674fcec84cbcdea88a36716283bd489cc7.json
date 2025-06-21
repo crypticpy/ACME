@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic barriers for creative workers",
+    "perceived undervaluing of creative professions",
+    "comparison between creative and tech sector value"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "High rent",
+    "Low wages",
+    "our jobs are deemed less worthy",
+    "there is always a creative class of people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent",
+    "low wages",
+    "social undervaluing of creative work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:52.601400",
+  "cache_key": "adbdc886c698e36e915b65643986a5674fcec84cbcdea88a36716283bd489cc7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for pilot programs",
+    "critique of detractors",
+    "preference for simple program names",
+    "suggestion for program improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Stop listening to the detractors",
+    "the pilots were good and can be improved",
+    "I liked the easy names of the programs",
+    "they made sense to me"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "influence of detractors"
+  ],
+  "solutions_proposed": [
+    "stop listening to the detractors",
+    "improve the pilot programs",
+    "use easy names for programs"
+  ],
+  "cached_at": "2025-06-21T01:17:47.615767",
+  "cache_key": "dcc5a44ed2ad4e8ca36b6673397a7a5f60e5a2d8fb1c0d995b5ec445cc847497",
+  "model": "gpt-41"
+}

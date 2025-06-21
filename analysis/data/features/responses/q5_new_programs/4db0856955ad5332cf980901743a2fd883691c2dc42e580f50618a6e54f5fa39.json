@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about organizational capacity",
+    "preference for supporting existing community efforts",
+    "critique of past administrative overreach",
+    "financial empowerment of grassroots groups",
+    "warning against overextension"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "don't try to do more until you get your current responsibilities in order",
+    "services artists or organizations need are already being provided from within the community",
+    "find those groups and empower them financially",
+    "do not repeat EDD's mistakes of trying to do everything and please everybody",
+    "everything being done poorly and no one being pleased"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "organizational overextension",
+    "ineffective duplication of existing services"
+  ],
+  "solutions_proposed": [
+    "empower existing community groups financially",
+    "focus on current responsibilities before expanding services",
+    "avoid duplicating services already provided by the community"
+  ],
+  "cached_at": "2025-06-21T01:54:30.847840",
+  "cache_key": "4db0856955ad5332cf980901743a2fd883691c2dc42e580f50618a6e54f5fa39",
+  "model": "gpt-41"
+}

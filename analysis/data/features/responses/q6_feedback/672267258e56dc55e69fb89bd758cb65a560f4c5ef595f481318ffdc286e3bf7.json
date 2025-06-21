@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Critique of prioritizing local fine artists over broader talent",
+    "Perceived inferiority of Austin's fine arts compared to other cities",
+    "Support for focusing on music and live performance as Austin's strength",
+    "Comparison to Houston's airport arts program and its broader artist representation",
+    "Concern about provincialism in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "highlighting Austin's fine artists over national/regional artists is provincial and backwards thinking",
+    "for music, I think it makes sense to focus on local artists",
+    "Austin's fine arts community... is substandard borderline amateurish compared to Houston, San Antonio and Dallas",
+    "The City had an airport arts program in partnership with local museums/fine arts organizations",
+    "the art was EXCELLENT and a world class representation",
+    "Austin's fine arts can't match the competition. And that's ok. Focus on our strengths - music and live music performance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "airport arts program"
+  ],
+  "barriers_identified": [
+    "Provincial focus on local fine artists limits quality and diversity"
+  ],
+  "solutions_proposed": [
+    "Focus on music and live music performance as Austin's cultural strength",
+    "Broaden representation in fine arts to include national and international artists"
+  ],
+  "cached_at": "2025-06-21T02:19:53.431480",
+  "cache_key": "672267258e56dc55e69fb89bd758cb65a560f4c5ef595f481318ffdc286e3bf7",
+  "model": "gpt-41"
+}

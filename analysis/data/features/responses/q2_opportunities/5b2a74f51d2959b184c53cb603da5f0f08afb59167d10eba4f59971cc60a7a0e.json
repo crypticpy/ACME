@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "city investment in cultural infrastructure",
+    "need for concert venues",
+    "municipal support for the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "city-supported concert hall"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "city-supported concert hall"
+  ],
+  "cached_at": "2025-06-21T00:25:49.662533",
+  "cache_key": "5b2a74f51d2959b184c53cb603da5f0f08afb59167d10eba4f59971cc60a7a0e",
+  "model": "gpt-41"
+}

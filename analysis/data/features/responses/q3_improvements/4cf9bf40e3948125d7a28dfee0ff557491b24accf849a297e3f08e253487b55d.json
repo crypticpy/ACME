@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "fear of program loss",
+    "value of cultural funding",
+    "dependence on funding for feasibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Please don't take them away",
+    "very helpful",
+    "make these programs feasible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential loss of funding"
+  ],
+  "solutions_proposed": [
+    "Do not eliminate cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T00:58:23.783055",
+  "cache_key": "4cf9bf40e3948125d7a28dfee0ff557491b24accf849a297e3f08e253487b55d",
+  "model": "gpt-41"
+}

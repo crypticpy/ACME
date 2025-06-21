@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for better organization in music scene",
+    "insufficient compensation for musicians",
+    "desire for improved music opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more organized music scene",
+    "higher paying gigs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of organization in music scene",
+    "low pay for gigs"
+  ],
+  "solutions_proposed": [
+    "more organized music scene",
+    "higher paying gigs"
+  ],
+  "cached_at": "2025-06-21T00:49:41.964167",
+  "cache_key": "0967b43eddd2a9a0a66564a3bdef2dbdeeb74a59faaff5996758ca38e72e30e0",
+  "model": "gpt-41"
+}

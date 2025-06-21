@@ -1,0 +1,51 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "long-term, relationship-based partnerships",
+    "flexible, multi-year funding",
+    "capacity-building and organizational sustainability",
+    "prioritizing support for people of color and immigrant-led groups",
+    "facilitating collaboration and networking",
+    "transparency and community co-design",
+    "recognition of grassroots efforts outside traditional institutions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "investing in long-term, relationship-based partnerships",
+    "offering flexible, multi-year funding",
+    "capacity-building opportunities",
+    "resources for organizational sustainability",
+    "prioritize people of color and immigrant-led groups",
+    "facilitating collaboration among cultural leaders and organizations",
+    "clear communication, transparency in funding and decision-making",
+    "community co-design of programs and goals",
+    "recognizing and uplifting grassroots efforts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited capacity for people of color and immigrant-led groups",
+    "lack of long-term support",
+    "insufficient collaboration and networking opportunities",
+    "lack of transparency in funding and decision-making",
+    "grassroots efforts being overlooked by traditional arts institutions"
+  ],
+  "solutions_proposed": [
+    "invest in long-term, relationship-based partnerships",
+    "offer flexible, multi-year funding",
+    "provide capacity-building opportunities",
+    "allocate resources for organizational sustainability",
+    "prioritize support for people of color and immigrant-led groups",
+    "facilitate collaboration through networking events, shared platforms, and cross-sector partnerships",
+    "ensure clear communication and transparency in funding and decision-making",
+    "implement community co-design of programs and goals",
+    "recognize and uplift grassroots efforts outside traditional arts institutions"
+  ],
+  "cached_at": "2025-06-20T10:28:00.860077",
+  "cache_key": "f6d85606e3b1d880d6bb0539479fa865544bd94989d157cfdfc43b9f3523bfd9",
+  "model": "gpt-41"
+}

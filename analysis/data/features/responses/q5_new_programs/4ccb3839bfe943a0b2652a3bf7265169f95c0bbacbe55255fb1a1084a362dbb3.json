@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for authentic public input",
+    "critique of current engagement methods (push polls)",
+    "support for new and underrepresented ideas",
+    "benefits to the arts community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "a stronger public input component",
+    "decidedly more than push polls",
+    "opportunity for both new ideas and under represented ideas to flourish",
+    "benefit the arts community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current public input limited to push polls",
+    "lack of opportunity for new and underrepresented ideas"
+  ],
+  "solutions_proposed": [
+    "implement a stronger public input component that goes beyond push polls",
+    "create opportunities for new and underrepresented ideas to flourish"
+  ],
+  "cached_at": "2025-06-21T02:06:11.943420",
+  "cache_key": "4ccb3839bfe943a0b2652a3bf7265169f95c0bbacbe55255fb1a1084a362dbb3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of free and low-cost space for artists",
+    "expansion of residency programs",
+    "support for exhibition opportunities",
+    "access to equipment and facilities",
+    "collaborative use of community spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Continuing to provide free COA gallery spaces for visual artists",
+    "supporting other exhibition opportunities through cultural arts funding",
+    "expand residency programs for visual and performing artists",
+    "offer free or low cost space for studios and rehearsals/performances",
+    "Providing meeting space for arts organizations through free community rooms",
+    "access to space and equipment is also invaluable for many artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "monetary funding may not be as readily available as it once was",
+    "lack of access to space and equipment"
+  ],
+  "solutions_proposed": [
+    "provide free COA gallery spaces for visual artists",
+    "support exhibition opportunities through cultural arts funding",
+    "expand residency programs for visual and performing artists",
+    "offer free or low cost space for studios and rehearsals/performances",
+    "provide meeting space for arts organizations through free community rooms and collaborative agreements"
+  ],
+  "cached_at": "2025-06-20T10:33:23.358613",
+  "cache_key": "d38b6adc64c2a2495508bbc90324b8229f298b1bc568fe43d2f23b3adf0d1251",
+  "model": "gpt-41"
+}

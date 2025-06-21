@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for diverse and minority groups",
+    "continuity of existing mission",
+    "resistance to external pressure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue with ACME's existing mission",
+    "not back down from initiatives",
+    "particularly support diverse and minority groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue with ACME's existing mission",
+    "not back down from initiatives that particularly support diverse and minority groups"
+  ],
+  "cached_at": "2025-06-20T10:27:16.898903",
+  "cache_key": "811c97d9d15a981a73bfa3e377b2c77f07da5b65a62f49a256acb735017e3b94",
+  "model": "gpt-41"
+}

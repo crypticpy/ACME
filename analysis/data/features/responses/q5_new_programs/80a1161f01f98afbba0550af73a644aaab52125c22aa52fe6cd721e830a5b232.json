@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of venue rentals",
+    "financial barriers for local organizations",
+    "need for subsidy programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "subsidizing the outrageous cost of venue rentals",
+    "local organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "outrageous cost of venue rentals"
+  ],
+  "solutions_proposed": [
+    "subsidizing the cost of venue rentals for local organizations"
+  ],
+  "cached_at": "2025-06-21T01:58:32.535181",
+  "cache_key": "80a1161f01f98afbba0550af73a644aaab52125c22aa52fe6cd721e830a5b232",
+  "model": "gpt-41"
+}

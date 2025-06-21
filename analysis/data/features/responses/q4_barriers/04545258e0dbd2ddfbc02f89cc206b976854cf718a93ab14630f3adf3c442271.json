@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of living in Austin",
+    "financial barriers to practicing music or creating art",
+    "low income for artists and musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "It is expensive to live in Austin",
+    "have a space to practice music or create art adds another expense",
+    "being an artist or musician is not typically a well paying gig"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living",
+    "expense of securing practice or creative space",
+    "low income from artistic or musical work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:09.703136",
+  "cache_key": "04545258e0dbd2ddfbc02f89cc206b976854cf718a93ab14630f3adf3c442271",
+  "model": "gpt-41"
+}

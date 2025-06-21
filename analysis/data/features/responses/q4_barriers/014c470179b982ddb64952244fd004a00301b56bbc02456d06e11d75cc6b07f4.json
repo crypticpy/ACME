@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "threat of external/global events to local arts survival",
+    "need for community support and engagement",
+    "lack of awareness about how to help",
+    "importance of connection for cultural vitality"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "impact of larger world events will make it hard for many artists and organizations to survive the next 5-10 years",
+    "we need help from our community members",
+    "many people and organizations likely want to help keep the arts thriving in Austin, but don't know how or where to look",
+    "connection will be so essential to keep our city unique and thriving"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "impact of larger world events",
+    "lack of knowledge about how or where to help"
+  ],
+  "solutions_proposed": [
+    "increased connection between community members and the arts sector"
+  ],
+  "cached_at": "2025-06-21T01:36:17.597492",
+  "cache_key": "014c470179b982ddb64952244fd004a00301b56bbc02456d06e11d75cc6b07f4",
+  "model": "gpt-41"
+}

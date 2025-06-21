@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking for small businesses and organizations",
+    "mentorship in the creative sector",
+    "sponsorship and funding connections",
+    "program development support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "creative development and sponsorship networking events",
+    "connect small businesses and organizations with mentors and sponsors",
+    "help fund and develop programs",
+    "support missions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connections to mentors and sponsors",
+    "difficulty in funding and developing programs"
+  ],
+  "solutions_proposed": [
+    "creative development and sponsorship networking events to connect small businesses and organizations with mentors and sponsors"
+  ],
+  "cached_at": "2025-06-21T00:36:34.971195",
+  "cache_key": "ef5421d727759cc31384c73b05beb71716aa5928ae0f3ed2adc5f0de8f3190da",
+  "model": "gpt-41"
+}

@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for being asked",
+    "engagement with the feedback process"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thank you for asking!"
+  ],
+  "intent": "acknowledgement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:45.695417",
+  "cache_key": "5a9548192214188c9e412d1883ec8b301b73b846945eec7e408c0023fa1b02f4",
+  "model": "gpt-41"
+}

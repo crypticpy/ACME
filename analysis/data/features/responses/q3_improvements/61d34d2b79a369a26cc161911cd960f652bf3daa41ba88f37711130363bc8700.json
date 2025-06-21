@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "impact of Elevate grant program on organizational growth",
+    "support for underrepresented communities in cultural spaces",
+    "increased compensation for local artists and musicians",
+    "expansion of audience reach"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "game changer for the organization that I represent",
+    "striving to reflect, give voice to, and invite communities that have been underrepresented in cultural spaces",
+    "support through the Elevate program has made it possible for us to grow",
+    "increase pay for musicians and artists (100% local to Austin)",
+    "more than double our audience reach"
+  ],
+  "intent": "program_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elevate grant program"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:14:01.998139",
+  "cache_key": "61d34d2b79a369a26cc161911cd960f652bf3daa41ba88f37711130363bc8700",
+  "model": "gpt-41"
+}

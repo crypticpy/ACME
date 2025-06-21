@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "job stability and fair compensation",
+    "protection of cultural venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Money",
+    "access to stable and well-paid part-time jobs",
+    "protecting venue space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "unstable and low-paid part-time jobs",
+    "threats to venue space"
+  ],
+  "solutions_proposed": [
+    "provide more money",
+    "increase access to stable and well-paid part-time jobs",
+    "protect venue space"
+  ],
+  "cached_at": "2025-06-20T10:37:38.076446",
+  "cache_key": "81b3f42ca5219f838a9ef69a70068b98f2626006e5f580bc2ce5d3de5c3032a7",
+  "model": "gpt-41"
+}

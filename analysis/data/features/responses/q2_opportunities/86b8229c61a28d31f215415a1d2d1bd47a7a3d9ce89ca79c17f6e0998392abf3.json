@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "child and youth-focused cultural events",
+    "collaborative programming among groups",
+    "free outdoor performances",
+    "increased frequency of arts events",
+    "diverse art forms (poetry, theatre, dance)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Events for children and youth",
+    "Several groups in collaboration",
+    "Weekly outdoor free performances of poetry, theatre, dance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More events for children and youth",
+    "Collaborative events between several groups",
+    "Weekly outdoor free performances featuring poetry, theatre, and dance"
+  ],
+  "cached_at": "2025-06-21T00:39:29.574064",
+  "cache_key": "86b8229c61a28d31f215415a1d2d1bd47a7a3d9ce89ca79c17f6e0998392abf3",
+  "model": "gpt-41"
+}

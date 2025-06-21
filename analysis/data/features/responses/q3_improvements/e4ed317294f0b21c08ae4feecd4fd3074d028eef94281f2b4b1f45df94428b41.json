@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "diversity in art forms",
+    "support for experienced artists",
+    "investment in unique artistic vision"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Diversity not just in the cultural background of the artist but the actual art",
+    "Invest in working artists that have years of experience cultivating a unique vision"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diversity in art forms supported",
+    "insufficient recognition of experienced artists with unique vision"
+  ],
+  "solutions_proposed": [
+    "Increase diversity in the types of art funded",
+    "Invest in experienced working artists with unique visions"
+  ],
+  "cached_at": "2025-06-21T00:59:47.863648",
+  "cache_key": "e4ed317294f0b21c08ae4feecd4fd3074d028eef94281f2b4b1f45df94428b41",
+  "model": "gpt-41"
+}

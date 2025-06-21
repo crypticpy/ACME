@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased information dissemination",
+    "support for underrepresented organizations",
+    "challenges faced by less networked community members"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more information and guidance",
+    "underrepresented",
+    "less 'networked' organizations/community members"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information and guidance",
+    "being underrepresented",
+    "not being well networked"
+  ],
+  "solutions_proposed": [
+    "provide more information and guidance for underrepresented and less networked organizations/community members"
+  ],
+  "cached_at": "2025-06-21T01:17:06.066528",
+  "cache_key": "f1db3f04cbbc1ad8e11bf6e11eb16a50e416c741d16427c71ffd3c644c136ec4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support for artists",
+    "grants availability",
+    "economic assistance for creative professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grants and economic assistance for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants",
+    "insufficient economic assistance"
+  ],
+  "solutions_proposed": [
+    "increase grants for artists",
+    "provide more economic assistance for artists"
+  ],
+  "cached_at": "2025-06-21T00:34:25.036548",
+  "cache_key": "fe1fffea7b78e88f582edc8e409ad6c84bd2dc6815dd5357b69750d14a586201",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for art spaces",
+    "support for working artists",
+    "recognition of artists with deep community roots",
+    "daily support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding to art spaces who dedicate time and energy to support artists on a daily basis",
+    "Funding to working artists who have deep roots in the creative community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for art spaces",
+    "insufficient support for working artists with community roots"
+  ],
+  "solutions_proposed": [
+    "Provide funding to art spaces that support artists daily",
+    "Provide funding to working artists who are deeply rooted in the creative community"
+  ],
+  "cached_at": "2025-06-21T01:53:21.715342",
+  "cache_key": "9cc7597f6cc9bf3eeffc3b17c585b53c8ba2711f0bd260a471fc8bef2db26f5e",
+  "model": "gpt-41"
+}

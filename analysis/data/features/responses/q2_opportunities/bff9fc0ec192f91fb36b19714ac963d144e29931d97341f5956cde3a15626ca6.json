@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased grant availability",
+    "year-round funding opportunities",
+    "partnerships with local venues",
+    "support for event producers and community organizers",
+    "affordable or free event production"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more grant opportunities throughout the year",
+    "partnership programs with local venues",
+    "allow event producers and community organizers to produce and launch new events and experiences at low or no-cost"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of year-round grant opportunities",
+    "high cost of producing events"
+  ],
+  "solutions_proposed": [
+    "increase grant opportunities throughout the year",
+    "create partnership programs with local venues to reduce or eliminate costs for event producers and community organizers"
+  ],
+  "cached_at": "2025-06-21T00:44:46.841285",
+  "cache_key": "bff9fc0ec192f91fb36b19714ac963d144e29931d97341f5956cde3a15626ca6",
+  "model": "gpt-41"
+}

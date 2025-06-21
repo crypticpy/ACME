@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible venues for local emerging artists",
+    "dominance of large out-of-town shows in major venues",
+    "geographic concentration of venues downtown",
+    "transportation barriers to accessing cultural events",
+    "comparison to publicly funded arts infrastructure in Bogot\u00e1",
+    "desire for equitable distribution of cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "few spaces where local emerging artists can showcase their talent",
+    "big venues...are mostly used by big out-of-town shows",
+    "astronomical fees they charge for space",
+    "inaccessible to many local groups",
+    "venues are also concentrated downtown",
+    "hard for anyone living above University or below South Congress to access them without a car",
+    "public transportation for them is unreliable and slow",
+    "the arts are heavily funded by public funds",
+    "abundance of venues, great public transportation to and from, and many festivals",
+    "would love to see more venues of all sizes far north and south"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "few spaces for local emerging artists",
+    "high venue rental fees",
+    "venues dominated by out-of-town shows",
+    "venues concentrated downtown",
+    "lack of venues in far north and south",
+    "unreliable and slow public transportation"
+  ],
+  "solutions_proposed": [
+    "more venues of all sizes far north and south",
+    "venues where artists of every caliber can be appreciated"
+  ],
+  "cached_at": "2025-06-20T10:42:52.098499",
+  "cache_key": "a87a5c8c1bc14195a09d8d4b8d1ff588931f481de428e1155626dae51d64d775",
+  "model": "gpt-41"
+}

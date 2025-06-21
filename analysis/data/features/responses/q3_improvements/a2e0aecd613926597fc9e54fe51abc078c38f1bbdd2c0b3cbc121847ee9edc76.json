@@ -1,0 +1,49 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equity and inclusion for marginalized groups",
+    "transparency and clarity in application process",
+    "barriers for small and emerging organizations",
+    "need for general operating support",
+    "intentional community outreach",
+    "streamlining and fairness in funding distribution",
+    "representation across disciplines and neighborhoods"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more equity, transparency, and support",
+    "hard for smaller organizations, emerging artists, or groups led by BIPOC, LGBTQ+, and disabled creatives to access these resources",
+    "intentional outreach to communities that don\u2019t already have connections or development teams",
+    "application process itself also needs to be demystified",
+    "clearer guidelines, more accessible language, and hands-on education",
+    "hosting workshops, offering one-on-one support",
+    "funding options included more general operating support, not just project-based grants",
+    "process should be streamlined and fair",
+    "support should also be more evenly distributed across different disciplines and neighborhoods",
+    "funding process needs to reflect that by being more accessible, more representative, and more aligned with the real needs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "hard for smaller organizations, emerging artists, or groups led by BIPOC, LGBTQ+, and disabled creatives to access these resources",
+    "communities that don\u2019t already have connections or development teams in place",
+    "application process needs to be demystified"
+  ],
+  "solutions_proposed": [
+    "intentional outreach to communities that don\u2019t already have connections or development teams",
+    "clearer guidelines, more accessible language, and hands-on education around how to apply",
+    "hosting workshops",
+    "offering one-on-one support",
+    "making the criteria more transparent",
+    "funding options included more general operating support, not just project-based grants",
+    "process should be streamlined and fair",
+    "support should also be more evenly distributed across different disciplines and neighborhoods"
+  ],
+  "cached_at": "2025-06-21T01:04:12.067598",
+  "cache_key": "a2e0aecd613926597fc9e54fe51abc078c38f1bbdd2c0b3cbc121847ee9edc76",
+  "model": "gpt-41"
+}

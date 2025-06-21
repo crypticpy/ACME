@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for knowledgeable and helpful staff",
+    "community building through the arts",
+    "youth engagement in cultural activities",
+    "collaboration with schools and teachers",
+    "encouragement for broader input"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "staff members who have been very knowledgeable and helpful",
+    "proud of the work and encouragement the arts are able to provide for our community",
+    "building bridges not resentments",
+    "hosted 100 6th and 7th graders from Lively middle school",
+    "assist teacher to tour other museums",
+    "Silk screen workshop next year"
+  ],
+  "intent": "affirmation_and_suggestion",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Harry Ransom Center",
+    "The Blanton",
+    "Mexiarte"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "get more input",
+    "assist teacher to tour other museums"
+  ],
+  "cached_at": "2025-06-21T02:10:39.332207",
+  "cache_key": "b8092199744d25d792b2171e959c561c3fe5cf1de2b7c56fdde4096131bad86b",
+  "model": "gpt-41"
+}

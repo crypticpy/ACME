@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "willingness to contribute recommendations",
+    "prior engagement with city leadership",
+    "desire for collaboration or further input"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I have a long document of recommendations",
+    "I submitted to The Arts Commission, City Council, City Manager and Austin Mayor",
+    "I would love to share the document with you"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:08:56.732054",
+  "cache_key": "558bef4608eaffa1a4e9634aec0dbb8b5469a8c5aed9cf927e5f98b53cf748fc",
+  "model": "gpt-41"
+}

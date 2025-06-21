@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased Asian cultural representation",
+    "interest in classical arts",
+    "cultural diversity in arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Classical arts from Asia"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase offerings of classical arts from Asia"
+  ],
+  "cached_at": "2025-06-21T00:33:52.841210",
+  "cache_key": "c3e1bc43a78994742cc06a2cd535880f43841571e8a5c22b2bf998cf4e69bc7a",
+  "model": "gpt-41"
+}

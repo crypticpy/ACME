@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "generational engagement",
+    "youth programming",
+    "perceived stagnation of cultural reputation",
+    "need for contemporary relevance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more engagement with newer generations",
+    "Austin has a long rich history and reputation but I feel like thats not enough these days",
+    "current and in touch youth programs/events to spark interest"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of engagement with newer generations",
+    "overreliance on historical reputation"
+  ],
+  "solutions_proposed": [
+    "offer current and in touch youth programs/events",
+    "increase engagement with newer generations"
+  ],
+  "cached_at": "2025-06-21T02:03:46.343751",
+  "cache_key": "1c4b8b0edec2e6e0ac899e817d8bbe0bc3cfd1bba06272eec7c6aa05d21e6ed8",
+  "model": "gpt-41"
+}

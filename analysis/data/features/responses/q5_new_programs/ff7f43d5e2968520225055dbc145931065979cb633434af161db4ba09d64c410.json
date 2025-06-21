@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "grant program eligibility restrictions",
+    "exclusion of working musicians from funding",
+    "need for inclusive access to cultural grants",
+    "support for community cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "expansion the Austin Music that does not exclude recipients of other grant programs",
+    "I am not able to apply to a grant the directly benefits my artistic career as a working musician",
+    "producing a community event that enhances the access to culture to my community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Music"
+  ],
+  "barriers_identified": [
+    "exclusion from grant eligibility for recipients of other programs",
+    "inability of working musicians to access direct grant support"
+  ],
+  "solutions_proposed": [
+    "expand Austin Music program eligibility to include recipients of other grant programs"
+  ],
+  "cached_at": "2025-06-21T02:03:55.367166",
+  "cache_key": "ff7f43d5e2968520225055dbc145931065979cb633434af161db4ba09d64c410",
+  "model": "gpt-41"
+}

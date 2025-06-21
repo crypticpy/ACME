@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased AIPP opportunities",
+    "public art expansion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More AIPP opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More AIPP opportunities"
+  ],
+  "cached_at": "2025-06-21T00:26:58.480321",
+  "cache_key": "acef8dd31d9e7b20dda3b3d686e05b8e5fef9e2ab95aed195a60fe3a4a8efdef",
+  "model": "gpt-41"
+}

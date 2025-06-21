@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for meaningful arts experiences",
+    "critique of superficial entertainment",
+    "importance of communal engagement",
+    "concern about social isolation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more actual arts experience",
+    "provoke deeper conversations",
+    "promote communal experiences",
+    "fewer mindless entertainment, parties and such",
+    "deepen social isolation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "prevalence of mindless entertainment",
+    "events that deepen social isolation"
+  ],
+  "solutions_proposed": [
+    "increase arts experiences that provoke deeper conversations",
+    "promote communal experiences",
+    "reduce mindless entertainment and parties"
+  ],
+  "cached_at": "2025-06-21T00:29:53.383883",
+  "cache_key": "d08a7c0a78e22b9bd2ef77ce5a75d3fb2c16df728b7fac5c3c5781805aa6eb10",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for youth arts education",
+    "promotion of school-based arts programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support and promote AISD art programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AISD art programs"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support and promote AISD art programs"
+  ],
+  "cached_at": "2025-06-21T00:49:20.601322",
+  "cache_key": "6278cb6714f2a282206957a58c3a34da263410e1c296bd0033091346cf9b94ee",
+  "model": "gpt-41"
+}

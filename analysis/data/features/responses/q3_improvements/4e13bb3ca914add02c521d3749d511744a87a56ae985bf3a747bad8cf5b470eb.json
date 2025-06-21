@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for Black queer organizations",
+    "cultural resonance and representation",
+    "support for underrepresented communities",
+    "community building and resilience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "increase of funding to black queer organizations",
+    "wider range of offerings that resonate culturally",
+    "hold space for some of the most underrepresented",
+    "see each other connect and build resilience and community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for Black queer organizations",
+    "limited culturally resonant offerings",
+    "underrepresentation in cultural spaces"
+  ],
+  "solutions_proposed": [
+    "increase funding to Black queer organizations",
+    "expand range of culturally resonant offerings",
+    "create spaces for underrepresented groups to connect and build community"
+  ],
+  "cached_at": "2025-06-21T01:13:55.441434",
+  "cache_key": "4e13bb3ca914add02c521d3749d511744a87a56ae985bf3a747bad8cf5b470eb",
+  "model": "gpt-41"
+}

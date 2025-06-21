@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "community benefit as funding priority",
+    "need for informed decision-making",
+    "importance of lived experience in art engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "programs and services to go to organizations that actually uplift and benefit the community",
+    "decisions need to be made by informed individuals",
+    "people that also go and experience art around Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding decisions not made by informed individuals",
+    "lack of emphasis on community benefit"
+  ],
+  "solutions_proposed": [
+    "decisions made by individuals who experience art locally",
+    "prioritize organizations that uplift and benefit the community"
+  ],
+  "cached_at": "2025-06-21T01:52:57.887530",
+  "cache_key": "03d03e30207b84c55cf22979ce77e4f783f132d880b96c9e0e6372f10ac5e3fd",
+  "model": "gpt-41"
+}

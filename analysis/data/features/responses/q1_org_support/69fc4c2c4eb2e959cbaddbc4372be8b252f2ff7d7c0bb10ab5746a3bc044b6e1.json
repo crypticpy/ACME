@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for equitable promotion of all art forms",
+    "Financial struggles of non-profit venues",
+    "Infrastructure support for small venues",
+    "Rising operational costs (taxes, rent, utilities)",
+    "Cross-promotion and awareness of cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "We have a unique opportunity to bring Austin's creative community together",
+    "raise theatre, dance, performance, and literary arts to the same level of awareness as music, film, and sports",
+    "non-profit venues are struggling to stay open with the rising costs of taxes, rents, and utilities",
+    "strengthen that infrastructure and make sure that the venues survive",
+    "ACME needs to establish a venue fund",
+    "support that is received by ZACH and the Long Center for the many small venues",
+    "We will pay $40,000 back to the city for electricity and water this year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ZACH",
+    "Long Center"
+  ],
+  "barriers_identified": [
+    "Rising costs of taxes, rents, and utilities for non-profit venues",
+    "Lack of infrastructure support for small venues",
+    "Insufficient promotion of non-music/film/sports arts"
+  ],
+  "solutions_proposed": [
+    "Establish a venue fund to support small non-profit venues, studios, theatre, and galleries",
+    "Cross-promote all different kinds of opportunities to experience art and culture",
+    "Strengthen infrastructure to ensure venue survival"
+  ],
+  "cached_at": "2025-06-20T10:28:17.296229",
+  "cache_key": "69fc4c2c4eb2e959cbaddbc4372be8b252f2ff7d7c0bb10ab5746a3bc044b6e1",
+  "model": "gpt-41"
+}

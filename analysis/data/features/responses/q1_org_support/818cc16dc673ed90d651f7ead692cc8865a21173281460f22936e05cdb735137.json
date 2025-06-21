@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "organizational and leadership support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Expand funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Expand funding"
+  ],
+  "cached_at": "2025-06-20T10:42:47.909420",
+  "cache_key": "818cc16dc673ed90d651f7ead692cc8865a21173281460f22936e05cdb735137",
+  "model": "gpt-41"
+}

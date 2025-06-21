@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for veterans",
+    "family-inclusive cultural events",
+    "interest in AVAFEST"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "AVAFEST events for veterans and their family members"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AVAFEST"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More AVAFEST events for veterans and their family members"
+  ],
+  "cached_at": "2025-06-21T00:30:20.029973",
+  "cache_key": "549482ec7f49644458baa8e7063b7a5e675c0625fd08da3a65f74364f5a8eee6",
+  "model": "gpt-41"
+}

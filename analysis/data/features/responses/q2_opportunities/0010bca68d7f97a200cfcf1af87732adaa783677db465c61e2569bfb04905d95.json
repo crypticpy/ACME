@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in mural festivals",
+    "desire for more public art"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Mural festival",
+    "Public art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase mural festivals",
+    "Expand public art opportunities"
+  ],
+  "cached_at": "2025-06-21T00:51:45.601333",
+  "cache_key": "0010bca68d7f97a200cfcf1af87732adaa783677db465c61e2569bfb04905d95",
+  "model": "gpt-41"
+}

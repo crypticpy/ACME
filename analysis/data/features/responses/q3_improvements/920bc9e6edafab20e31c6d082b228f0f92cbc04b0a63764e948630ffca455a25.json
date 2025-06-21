@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding amounts",
+    "financial resources for cultural programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Higher dollar amount if possible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "increase dollar amount"
+  ],
+  "cached_at": "2025-06-21T00:54:08.949279",
+  "cache_key": "920bc9e6edafab20e31c6d082b228f0f92cbc04b0a63764e948630ffca455a25",
+  "model": "gpt-41"
+}

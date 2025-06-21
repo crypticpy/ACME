@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "community-driven funding decisions",
+    "prioritization of marginalized groups",
+    "recognition of organizational history and growth",
+    "broad distribution of funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding decisions should be made with input from community members",
+    "prioritizing marginalized groups",
+    "organizations with a documented history of events/performances that are showing growth",
+    "award smaller awards to a greater number of organizations rather than larger awards to fewer organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community input in funding decisions",
+    "potential inequity in award distribution"
+  ],
+  "solutions_proposed": [
+    "Include community members familiar with the Austin arts and culture scene in funding decisions",
+    "Continue prioritizing marginalized groups",
+    "Prioritize organizations with a documented history and growth in turnout",
+    "Distribute smaller awards to more organizations rather than larger awards to fewer"
+  ],
+  "cached_at": "2025-06-21T01:06:54.449628",
+  "cache_key": "bd44ae52b3e66a0c419c8107c3480336af583c2e5dcb5818ab79fddd2a638e3f",
+  "model": "gpt-41"
+}

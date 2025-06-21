@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for non-prescriptive art",
+    "value of 'art for art's sake'",
+    "flexibility in cultural programming",
+    "compatibility with support for underserved communities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Happy to see 'art for arts sake' when possible",
+    "not necessarily tailored to a particular cultural rubric",
+    "can happen in any number of contexts",
+    "needn't be at odds with supporting underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Include opportunities for 'art for art's sake' that are not strictly tied to specific cultural rubrics"
+  ],
+  "cached_at": "2025-06-21T00:39:53.651277",
+  "cache_key": "c1a3d20eae2cf2e2ac2180625b0d40dfe8488a0a66f57f6d27b18ed5ca37cb84",
+  "model": "gpt-41"
+}

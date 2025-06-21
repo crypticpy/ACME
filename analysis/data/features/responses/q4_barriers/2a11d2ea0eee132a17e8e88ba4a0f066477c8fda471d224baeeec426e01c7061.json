@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "cost of access to cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Admission fees"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Admission fees"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:32.087272",
+  "cache_key": "2a11d2ea0eee132a17e8e88ba4a0f066477c8fda471d224baeeec426e01c7061",
+  "model": "gpt-41"
+}

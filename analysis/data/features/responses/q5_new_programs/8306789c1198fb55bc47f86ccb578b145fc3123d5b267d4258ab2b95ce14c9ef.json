@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant writing skill development",
+    "accessibility of program scheduling",
+    "organizational transparency",
+    "community communication",
+    "public reporting of organizational activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "grant writing workshops that are at accessible hours for working artists/creatives",
+    "sharing updates from ACME and what they are working on",
+    "making it public to the austin community",
+    "yearly report of what they have worked on and goals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inaccessible hours for working artists/creatives"
+  ],
+  "solutions_proposed": [
+    "offer grant writing workshops at accessible hours",
+    "share updates from ACME with the Austin community",
+    "publish a yearly report of activities and goals"
+  ],
+  "cached_at": "2025-06-21T01:50:12.023200",
+  "cache_key": "8306789c1198fb55bc47f86ccb578b145fc3123d5b267d4258ab2b95ce14c9ef",
+  "model": "gpt-41"
+}

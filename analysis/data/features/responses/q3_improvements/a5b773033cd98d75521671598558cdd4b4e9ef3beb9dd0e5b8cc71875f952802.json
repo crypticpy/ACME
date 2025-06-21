@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived unfairness in grant distribution",
+    "lack of recognition for established artists",
+    "concern over funding for lesser-known recipients",
+    "critique of funding 'vanity projects'",
+    "preference for achievement-based rewards"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "a bunch of people no one has heard of got lots of money",
+    "well known folks were largely shut out",
+    "grants should reward achievement",
+    "not fund vanity projects"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of recognition for established or well-known artists",
+    "perceived misallocation of funds to unknown recipients"
+  ],
+  "solutions_proposed": [
+    "grants should reward achievement"
+  ],
+  "cached_at": "2025-06-21T01:08:55.420671",
+  "cache_key": "a5b773033cd98d75521671598558cdd4b4e9ef3beb9dd0e5b8cc71875f952802",
+  "model": "gpt-41"
+}

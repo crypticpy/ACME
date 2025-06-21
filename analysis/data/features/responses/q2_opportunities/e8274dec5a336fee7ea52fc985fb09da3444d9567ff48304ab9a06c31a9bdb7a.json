@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for local cultural offerings",
+    "critique of tourist-focused events",
+    "desire for authentic community connection"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more of things with a local connection",
+    "less with a higher profile/tourist appeal"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase cultural opportunities with a local connection",
+    "decrease focus on high profile/tourist appeal events"
+  ],
+  "cached_at": "2025-06-21T00:48:09.306149",
+  "cache_key": "e8274dec5a336fee7ea52fc985fb09da3444d9567ff48304ab9a06c31a9bdb7a",
+  "model": "gpt-41"
+}

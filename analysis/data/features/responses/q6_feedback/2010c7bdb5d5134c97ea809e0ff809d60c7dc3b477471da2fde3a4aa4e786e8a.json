@@ -1,0 +1,21 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for ACME's work"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thanks for all that you do!"
+  ],
+  "intent": "express_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:15.342168",
+  "cache_key": "2010c7bdb5d5134c97ea809e0ff809d60c7dc3b477471da2fde3a4aa4e786e8a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "residency requirements in funding decisions",
+    "equity in access to cultural funding",
+    "administrative eligibility criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Not basing place of residence of arts administrator factor in to funding received"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "residence of arts administrator affects funding eligibility"
+  ],
+  "solutions_proposed": [
+    "Do not base funding received on place of residence of arts administrator"
+  ],
+  "cached_at": "2025-06-21T00:59:20.016387",
+  "cache_key": "ae6406bfaedc33985157c824460cd0f5908e6cbd84da67609a54cd221b1dea18",
+  "model": "gpt-41"
+}

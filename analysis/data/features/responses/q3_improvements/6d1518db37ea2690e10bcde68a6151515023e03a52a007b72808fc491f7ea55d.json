@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for ongoing, year-round training",
+    "application process accessibility",
+    "peer-led training by experienced grantees",
+    "diversity of voices in training and outreach",
+    "timing and communication of funding opportunities",
+    "marketing and outreach improvements"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "consistent, on-going training prior to the applications coming out",
+    "the clock starts clicking and people have to find the opportunity, learn how to fill out their application, seek help and meet the deadline very quickly",
+    "on-going training about how to apply, how to choose a venue, how to make your events more accessible, how to market your events, how to create a budget, etc year round",
+    "ideally taught by organizations or individuals who have received grants and are experienced with this",
+    "the City should apply funding towards this instead of teaching everything in house",
+    "this would make it more accessible to different demographics because there would be a lot of voices in the mix",
+    "this can also apply to how these opportunities are marketed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "short timeframe to find and apply for opportunities",
+    "lack of accessible, ongoing training",
+    "limited perspectives in current training (city-run only)",
+    "difficulty accessing help before deadlines",
+    "insufficient outreach/marketing to diverse demographics"
+  ],
+  "solutions_proposed": [
+    "provide consistent, year-round training before applications are released",
+    "offer training on application process, venue selection, event accessibility, marketing, and budgeting",
+    "have trainings led by experienced grantees or organizations rather than only city staff",
+    "allocate funding for peer-led training instead of in-house only",
+    "increase diversity of trainers and perspectives",
+    "improve marketing and outreach for funding opportunities"
+  ],
+  "cached_at": "2025-06-21T01:11:51.430220",
+  "cache_key": "6d1518db37ea2690e10bcde68a6151515023e03a52a007b72808fc491f7ea55d",
+  "model": "gpt-41"
+}

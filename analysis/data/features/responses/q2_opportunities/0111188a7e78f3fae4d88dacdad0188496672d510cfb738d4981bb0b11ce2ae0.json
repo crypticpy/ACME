@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for Black arts opportunities",
+    "desire for African arts opportunities",
+    "representation of Black and African cultures"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Black and African Arts opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more Black and African Arts opportunities"
+  ],
+  "cached_at": "2025-06-21T00:27:00.393106",
+  "cache_key": "0111188a7e78f3fae4d88dacdad0188496672d510cfb738d4981bb0b11ce2ae0",
+  "model": "gpt-41"
+}

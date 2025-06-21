@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "art as community-building",
+    "opposition to art for tourism",
+    "prioritization of local impact"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support art as a tool to build community",
+    "NOT as a tourism mechanism"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "art being used primarily for tourism"
+  ],
+  "solutions_proposed": [
+    "Support art as a tool to build community"
+  ],
+  "cached_at": "2025-06-20T10:37:41.088270",
+  "cache_key": "c23ffb69aebf460adc03b639f703c699fba46139b60ad8f6ce98a77802681b52",
+  "model": "gpt-41"
+}

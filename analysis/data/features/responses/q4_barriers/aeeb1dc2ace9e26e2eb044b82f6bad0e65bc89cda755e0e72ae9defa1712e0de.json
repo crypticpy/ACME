@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient paid opportunities for artists",
+    "city interference with venues and community spaces",
+    "lack of accessible information and outreach",
+    "perceived favoritism in support distribution",
+    "need for engagement with new and street-level creatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Lack of paid opportunities from the city",
+    "city interference with venue operations and community space potential",
+    "lack of information accessibility and outreach",
+    "favoritism of artists at times",
+    "need to reach out to the community and the new artists, creatives, and community leaders on the streets of Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of paid opportunities from the city",
+    "city interference with venue operations",
+    "city interference with community space potential",
+    "lack of information accessibility",
+    "lack of outreach",
+    "favoritism of artists"
+  ],
+  "solutions_proposed": [
+    "reach out to the community and the new artists, creatives, and community leaders on the streets of Austin"
+  ],
+  "cached_at": "2025-06-21T01:33:50.927365",
+  "cache_key": "aeeb1dc2ace9e26e2eb044b82f6bad0e65bc89cda755e0e72ae9defa1712e0de",
+  "model": "gpt-41"
+}

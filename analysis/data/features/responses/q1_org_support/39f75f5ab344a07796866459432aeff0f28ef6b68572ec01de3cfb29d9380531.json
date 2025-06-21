@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in operations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Be more transparent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency"
+  ],
+  "solutions_proposed": [
+    "be more transparent"
+  ],
+  "cached_at": "2025-06-20T10:27:37.915351",
+  "cache_key": "39f75f5ab344a07796866459432aeff0f28ef6b68572ec01de3cfb29d9380531",
+  "model": "gpt-41"
+}

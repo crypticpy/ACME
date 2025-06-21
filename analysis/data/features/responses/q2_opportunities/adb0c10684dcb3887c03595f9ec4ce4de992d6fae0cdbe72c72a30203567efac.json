@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for live music venues",
+    "increased dance opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support for live music venues",
+    "dance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support for live music venues",
+    "Support for dance"
+  ],
+  "cached_at": "2025-06-21T00:47:21.451701",
+  "cache_key": "adb0c10684dcb3887c03595f9ec4ce4de992d6fae0cdbe72c72a30203567efac",
+  "model": "gpt-41"
+}

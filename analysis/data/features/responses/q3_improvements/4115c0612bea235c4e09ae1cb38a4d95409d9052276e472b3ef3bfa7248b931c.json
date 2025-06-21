@@ -1,0 +1,47 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of accountability for panelists",
+    "insufficient transparency in feedback and decision-making",
+    "poor communication about funding changes",
+    "exclusion of programs from funding cycles",
+    "perceived disrespect and lack of support for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Professional panelists who are held accountable to the stated guidelines",
+    "the SAME panelist TWO years in a row",
+    "Lack of transparency",
+    "I was never given any of the data that was collected from those sessions",
+    "I did not receive any explanation of how our feedback was going to be included",
+    "no funding in 2025 for programs running Oct - Dec of 2025",
+    "Our major program this year is in November. It did not qualify for funding last round, and now it is going to be 'skipped'",
+    "Please get organized",
+    "Don't ask us to give you more feedback if you haven't read all of the feedback WE HAVE ALREADY given you",
+    "DON'T CHANGE FUNDING GUIDELINES with less than a year of warning",
+    "Treat artists with respect and professionalism"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "repeat assignment of unprofessional panelists",
+    "lack of transparency in how feedback is used",
+    "poor communication about funding cycles and changes",
+    "exclusion of programs from funding due to scheduling",
+    "last-minute changes to funding guidelines"
+  ],
+  "solutions_proposed": [
+    "Hold panelists accountable to guidelines",
+    "Increase transparency by sharing data and explaining how feedback is used",
+    "Provide timely and direct communication about funding changes",
+    "Avoid last-minute changes to funding guidelines",
+    "Treat artists with respect and professionalism"
+  ],
+  "cached_at": "2025-06-21T01:12:15.876933",
+  "cache_key": "4115c0612bea235c4e09ae1cb38a4d95409d9052276e472b3ef3bfa7248b931c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,51 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for clear vision and planning",
+    "transparency and communication of scope",
+    "artist/creative-centered approach",
+    "citywide alignment and advocacy",
+    "financial accountability and reporting",
+    "cost reduction and funding control",
+    "governance and responsiveness to Arts Commission"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Have a cohesive vision with timelines, deliverables & projects",
+    "Communicate this plan on what is in scope and not in scope",
+    "Execute extremely well",
+    "Work from the artist/creative perspective",
+    "Advocate and organize the city side to be aligned",
+    "Track every civic $ that the city spends on the creative community and report that like you are the CFO",
+    "Work to increase that or decrease costs for creatives",
+    "Be responsive to the Arts Commission"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear vision and planning",
+    "insufficient communication about scope",
+    "misalignment between city and creative community",
+    "lack of financial transparency",
+    "high costs for creatives",
+    "insufficient responsiveness to Arts Commission"
+  ],
+  "solutions_proposed": [
+    "Develop a cohesive vision with timelines, deliverables, and projects",
+    "Clearly communicate what is in scope and not in scope",
+    "Execute plans extremely well",
+    "Adopt an artist/creative-centered perspective",
+    "Align and organize city efforts to support creative community goals",
+    "Track and report all civic spending on the creative community",
+    "Work to increase funding or decrease costs for creatives",
+    "Give more control over funding to ACME",
+    "Ensure responsiveness to the Arts Commission as a governing board"
+  ],
+  "cached_at": "2025-06-20T10:44:10.948512",
+  "cache_key": "8758180dfaaafd0427993f160e3ea846d1b7cf703d4ad6bbda4f905edbf93c04",
+  "model": "gpt-41"
+}

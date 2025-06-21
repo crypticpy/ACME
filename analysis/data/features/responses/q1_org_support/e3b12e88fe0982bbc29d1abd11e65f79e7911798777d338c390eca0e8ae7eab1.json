@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "systemic undervaluing of the arts",
+    "inequity in institutional funding priorities",
+    "comparison of arts funding to sports funding",
+    "call for mandated funding parity",
+    "arts as essential to society"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "arts as non-negotiable",
+    "struggle for funding",
+    "should be required to fund",
+    "levels equal to their top-producing programs",
+    "if a university fully funds its football team, then its marching band should receive comparable support",
+    "equity in funding reflects equity in value"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "societal undervaluing of the arts",
+    "lack of mandated funding parity",
+    "preference for funding other disciplines (e.g., sports) over the arts"
+  ],
+  "solutions_proposed": [
+    "require school districts, universities, and community organizations to fund or seek funding for the arts at levels equal to their top-producing programs in other disciplines",
+    "equitable funding for arts programs such as marching bands when compared to sports teams"
+  ],
+  "cached_at": "2025-06-20T10:22:50.314986",
+  "cache_key": "e3b12e88fe0982bbc29d1abd11e65f79e7911798777d338c390eca0e8ae7eab1",
+  "model": "gpt-41"
+}

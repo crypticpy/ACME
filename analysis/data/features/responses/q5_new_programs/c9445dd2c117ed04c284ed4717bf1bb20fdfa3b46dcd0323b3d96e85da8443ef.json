@@ -1,0 +1,44 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship and skill-sharing across cultural and generational lines",
+    "mobile and neighborhood-based arts programming",
+    "support for interdisciplinary and experimental art",
+    "increasing access for underrepresented communities",
+    "grant navigation and application accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "programs that focus on mentorship and skill-sharing between established and emerging artists",
+    "across cultural and generational lines",
+    "mobile or neighborhood-based arts programs",
+    "bring creative experiences directly into underrepresented communities",
+    "support for interdisciplinary and experimental work",
+    "hybrid digital/physical projects",
+    "simplified, hands-on grant navigation workshops",
+    "available in multiple languages and formats",
+    "improve access and equity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mentorship and skill-sharing opportunities",
+    "limited access to arts programs in underrepresented communities",
+    "insufficient support for interdisciplinary and experimental work",
+    "complexity of grant navigation",
+    "language and format barriers in accessing grant information"
+  ],
+  "solutions_proposed": [
+    "offer programs focused on mentorship and skill-sharing between established and emerging artists",
+    "create mobile or neighborhood-based arts programs",
+    "increase support for interdisciplinary and experimental work, including hybrid digital/physical projects",
+    "provide simplified, hands-on grant navigation workshops in multiple languages and formats"
+  ],
+  "cached_at": "2025-06-21T01:58:19.851165",
+  "cache_key": "c9445dd2c117ed04c284ed4717bf1bb20fdfa3b46dcd0323b3d96e85da8443ef",
+  "model": "gpt-41"
+}

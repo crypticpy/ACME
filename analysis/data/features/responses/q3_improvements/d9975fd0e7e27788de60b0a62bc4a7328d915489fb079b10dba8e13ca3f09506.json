@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness among artists about funding programs",
+    "eligibility requirements exclude those most in need",
+    "impact of high rents and affordability crisis on artists",
+    "perceived misuse or lack of transparency in nonprofit funding",
+    "exclusion of individual artists in favor of organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "make sure artist know about them",
+    "I've been an artist here for over 50 years and only heard about a couple of them",
+    "one has to already have a commercial space. Well many artists simply cannot afford a commercial space",
+    "she has to share a home to keep a roof over her head and all her art supplies and paintings are in storage",
+    "Austin is missing their artists in part for this reason",
+    "lots of money is going to nefarious non-profit groups that are not transparent and are taking advantage of this system of grants",
+    "Let's fund some of the little people!!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Creative Space grant"
+  ],
+  "barriers_identified": [
+    "lack of awareness of funding programs among artists",
+    "eligibility requirements that require a commercial space",
+    "inability to afford commercial or studio space due to high rents",
+    "funding going to non-transparent or exploitative nonprofit groups"
+  ],
+  "solutions_proposed": [
+    "increase outreach and awareness so artists know about funding programs",
+    "change eligibility requirements to include artists without commercial space",
+    "direct funding to individual artists and 'the little people' instead of only organizations"
+  ],
+  "cached_at": "2025-06-21T01:18:18.377028",
+  "cache_key": "d9975fd0e7e27788de60b0a62bc4a7328d915489fb079b10dba8e13ca3f09506",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "targeted outreach to underrepresented groups",
+    "direct communication with small businesses and artists",
+    "equitable distribution of funding",
+    "community representation among awardees"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more advertisement of these programs/opportunities directly to small businesses, underrepresented artists, organizations, and communities",
+    "a set percentage of all awardees should reside, work in and/or are constituents of these communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct advertisement to intended communities",
+    "insufficient representation of target communities among awardees"
+  ],
+  "solutions_proposed": [
+    "increase advertisement and outreach directly to small businesses, underrepresented artists, organizations, and communities",
+    "establish a set percentage of awardees who are residents, workers, or constituents of these communities"
+  ],
+  "cached_at": "2025-06-21T01:04:45.629043",
+  "cache_key": "f05b880614d8177a75b0cec7a4c3172663a2c8fdae60c4492e9ab95bd334a35e",
+  "model": "gpt-41"
+}

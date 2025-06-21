@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "administrative burden of grant applications",
+    "lack of expertise in grant writing",
+    "time constraints for accessing funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "time for writing and reporting on grants",
+    "expertise in this same area"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time required for grant writing and reporting",
+    "lack of expertise in grant writing and reporting"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:52.341562",
+  "cache_key": "cff90bf6cbc7a27a444f0f0ab56a281cbbd146f223a795d6465e56c425049167",
+  "model": "gpt-41"
+}

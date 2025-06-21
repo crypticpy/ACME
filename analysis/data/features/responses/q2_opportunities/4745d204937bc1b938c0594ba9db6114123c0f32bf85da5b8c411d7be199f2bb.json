@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in cultural events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance",
+    "cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more dance opportunities",
+    "more cultural events"
+  ],
+  "cached_at": "2025-06-21T00:45:38.732674",
+  "cache_key": "4745d204937bc1b938c0594ba9db6114123c0f32bf85da5b8c411d7be199f2bb",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for immersive art experiences",
+    "interest in the intersection of art and technology",
+    "support for electronic music events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Immersive art",
+    "Art and technology",
+    "Electronic music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more immersive art",
+    "more art and technology opportunities",
+    "more electronic music events"
+  ],
+  "cached_at": "2025-06-21T00:50:39.310534",
+  "cache_key": "204dd740a5c47a5aee05354f834952e763030e1c674b95c72738db829ef9da9c",
+  "model": "gpt-41"
+}

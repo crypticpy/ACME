@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of Thrive grants on small organizations",
+    "capacity building for organizations",
+    "support for Austin artists",
+    "improved production value of cultural events",
+    "desire for continuation of specific grant programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "The thrive grants have helped smaller organizations thrive",
+    "capacity building",
+    "paying Austin artists",
+    "increasing the production value of cultural events",
+    "Would like to see the continuation of thrive, elevate and nexus"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "thrive",
+    "elevate",
+    "nexus"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continuation of thrive, elevate and nexus"
+  ],
+  "cached_at": "2025-06-21T01:16:17.581604",
+  "cache_key": "ebc0cc568da6c3c3c34520934155ad8279324db1f6625c07d6f7df5bda2d2a4c",
+  "model": "gpt-41"
+}

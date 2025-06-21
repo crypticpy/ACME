@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of emphasis on literary arts",
+    "insufficient literacy advocacy",
+    "public education funding challenges",
+    "risk of subpar literacy rates"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "not as much emphasis or priority focused on the literary arts",
+    "literacy advocacy",
+    "public education in Texas is facing new funding challenges",
+    "subpar literacy rates are an ongoing risk"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of emphasis or priority on literary arts",
+    "insufficient literacy advocacy",
+    "public education funding challenges",
+    "ongoing risk of subpar literacy rates"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:18.181789",
+  "cache_key": "75fa23b7be2ea5b92a121acccb866c6d9920e910e99792d385cb1b1941ae2209",
+  "model": "gpt-41"
+}

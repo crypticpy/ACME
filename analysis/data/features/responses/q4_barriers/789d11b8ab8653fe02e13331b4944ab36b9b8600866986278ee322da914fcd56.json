@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of available services",
+    "information barriers to access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "lack of knowledge of these services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge of these services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:22.359905",
+  "cache_key": "789d11b8ab8653fe02e13331b4944ab36b9b8600866986278ee322da914fcd56",
+  "model": "gpt-41"
+}

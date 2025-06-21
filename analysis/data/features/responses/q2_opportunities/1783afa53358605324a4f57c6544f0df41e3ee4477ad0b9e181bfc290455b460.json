@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased live music opportunities",
+    "interest in more live music venues/bars"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more live music",
+    "live music bars"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase live music events",
+    "create or support more live music bars"
+  ],
+  "cached_at": "2025-06-21T00:31:03.247099",
+  "cache_key": "1783afa53358605324a4f57c6544f0df41e3ee4477ad0b9e181bfc290455b460",
+  "model": "gpt-41"
+}

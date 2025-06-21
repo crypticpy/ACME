@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived decline in quality of funded work",
+    "funding allocation favors new applicants over experienced producers",
+    "lowering of experience standards for creatives",
+    "incentivizing self-identification as creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "higher quality work across the board",
+    "folks who know how to produce such work have often been overlooked for CoA funding",
+    "in favor of new applicants",
+    "created incentives for more people to identify as 'creatives'",
+    "lowered the bar for experience in producing quality work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "experienced producers overlooked for funding",
+    "lower experience standards for funding eligibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:41:43.742260",
+  "cache_key": "7f2b34a059aa4f550da2ddfa4492b54b2510251ae63c422bf0c3b4d029223e43",
+  "model": "gpt-41"
+}

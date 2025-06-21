@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for permanent funding for cornerstone organizations",
+    "limitations of current grant structures (e.g., Thrive grant restrictions)",
+    "support for culturally specific organizations (Latino/indigenous representation)",
+    "importance of Cine Las Americas as a unique cultural asset"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "be a more permanent partner with some of our city\u2019s cornerstone organizations",
+    "Cine Las Americas. Our city\u2019s ONLY Latino/indigenous film festival",
+    "requires funding",
+    "only allowing it to be given something like the thrive grant for so many years and not back to back is not great",
+    "Permanently fund cornerstone organizations like this one"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Cine Las Americas",
+    "thrive grant"
+  ],
+  "barriers_identified": [
+    "ineligibility for back-to-back funding through current grant structures",
+    "lack of permanent funding for cornerstone organizations"
+  ],
+  "solutions_proposed": [
+    "permanently fund cornerstone organizations like Cine Las Americas",
+    "be a more permanent partner with cornerstone organizations"
+  ],
+  "cached_at": "2025-06-20T10:30:09.719396",
+  "cache_key": "6af4362f837f6147d3fd6972f77adad6d4f637e1243dfa435346b1dbb4f7f338",
+  "model": "gpt-41"
+}

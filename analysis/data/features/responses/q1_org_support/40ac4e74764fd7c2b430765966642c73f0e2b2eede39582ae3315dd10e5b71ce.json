@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "accessibility for Deaf and Hard of Hearing community",
+    "professional development for instructional artists",
+    "communication inclusivity",
+    "resource allocation for interpreters"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funded continued education courses for instructional artists",
+    "new communication avenues",
+    "sign language courses for deaf and Hard of Hearing community members",
+    "interpreters available on rotating schedule for businesses to 'book'"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of communication access for Deaf and Hard of Hearing community",
+    "limited availability of interpreters"
+  ],
+  "solutions_proposed": [
+    "Funded continued education courses for instructional artists",
+    "sign language courses for Deaf and Hard of Hearing community members",
+    "interpreters available on rotating schedule for businesses to book"
+  ],
+  "cached_at": "2025-06-20T10:33:41.648055",
+  "cache_key": "40ac4e74764fd7c2b430765966642c73f0e2b2eede39582ae3315dd10e5b71ce",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "living wage for performers",
+    "financial barriers for dancers",
+    "diversity and inclusion in participation",
+    "importance of adequate funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Funding is how we can pay performers",
+    "the more that pay can reflect an actual living wage",
+    "dancers from diverse backgrounds don\u2019t have to sacrifice livelyhood to participate"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inadequate pay for performers",
+    "financial sacrifice required for participation"
+  ],
+  "solutions_proposed": [
+    "increase funding to enable living wages for performers"
+  ],
+  "cached_at": "2025-06-20T10:41:16.163966",
+  "cache_key": "be51095ca7258c3ef46833455f1fe189bc7ab24e2159725d115057e7a02e4453",
+  "model": "gpt-41"
+}

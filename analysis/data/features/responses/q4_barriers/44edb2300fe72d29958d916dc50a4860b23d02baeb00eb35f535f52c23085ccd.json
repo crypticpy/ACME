@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threat of governmental budget cuts",
+    "vulnerability of LGBTQIA+ and DEI-focused organizations",
+    "importance of access and equity in arts programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "constant threat of governmental budget cuts",
+    "especially in current times for programming such as LGBTQIA+ and cultural organizations",
+    "organizations that have a DEI target on them",
+    "give the community access and equity to arts programming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "governmental budget cuts to arts programming",
+    "increased targeting of LGBTQIA+ and DEI-focused organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:56.211721",
+  "cache_key": "44edb2300fe72d29958d916dc50a4860b23d02baeb00eb35f535f52c23085ccd",
+  "model": "gpt-41"
+}

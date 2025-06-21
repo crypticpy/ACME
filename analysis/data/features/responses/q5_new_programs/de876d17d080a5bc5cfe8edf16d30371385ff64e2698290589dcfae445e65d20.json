@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for first-time grant applicants",
+    "need for guidance and orientation",
+    "accessibility of grant processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "introductions and guidance",
+    "first time grant applicants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of guidance for first-time grant applicants"
+  ],
+  "solutions_proposed": [
+    "introductions and guidance for first time grant applicants"
+  ],
+  "cached_at": "2025-06-21T01:56:00.988977",
+  "cache_key": "de876d17d080a5bc5cfe8edf16d30371385ff64e2698290589dcfae445e65d20",
+  "model": "gpt-41"
+}

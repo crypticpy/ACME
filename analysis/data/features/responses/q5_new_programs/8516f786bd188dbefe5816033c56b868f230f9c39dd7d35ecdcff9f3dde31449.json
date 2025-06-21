@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to cultural participation",
+    "impact of local taxation on residents",
+    "declining cultural engagement due to affordability",
+    "perceived disconnect between city policy and resident experience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "The City is not reading the room",
+    "Austinites are taxed out of spending money",
+    "I used to be heavily involved going to SXSW and ACL",
+    "Travis has taxed me out of it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "SXSW",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "high local taxes reducing disposable income",
+    "affordability of participating in cultural events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:06:41.187042",
+  "cache_key": "8516f786bd188dbefe5816033c56b868f230f9c39dd7d35ecdcff9f3dde31449",
+  "model": "gpt-41"
+}

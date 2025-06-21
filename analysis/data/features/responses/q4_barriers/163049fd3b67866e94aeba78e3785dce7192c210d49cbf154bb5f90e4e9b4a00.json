@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of venues",
+    "cost barriers to participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Venue pricing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Venue pricing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:07.425829",
+  "cache_key": "163049fd3b67866e94aeba78e3785dce7192c210d49cbf154bb5f90e4e9b4a00",
+  "model": "gpt-41"
+}

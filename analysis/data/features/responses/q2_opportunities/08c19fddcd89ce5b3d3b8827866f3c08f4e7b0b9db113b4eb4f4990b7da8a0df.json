@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more community theater",
+    "interest in local performing arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More community theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase community theater opportunities"
+  ],
+  "cached_at": "2025-06-21T00:33:24.441980",
+  "cache_key": "08c19fddcd89ce5b3d3b8827866f3c08f4e7b0b9db113b4eb4f4990b7da8a0df",
+  "model": "gpt-41"
+}

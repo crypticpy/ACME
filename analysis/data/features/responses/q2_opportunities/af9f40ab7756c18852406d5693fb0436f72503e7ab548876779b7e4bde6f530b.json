@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "pop-up visual arts galleries",
+    "geographic distribution of arts opportunities",
+    "bringing arts to underserved neighborhoods"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "visual arts gallery does a pop up",
+    "neighborhood where there aren\u2019t a lot of galleries",
+    "East Austin based gallery pops up in a south Austin neighborhood"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of galleries in certain neighborhoods"
+  ],
+  "solutions_proposed": [
+    "pop-up galleries from one part of the city in neighborhoods with fewer galleries"
+  ],
+  "cached_at": "2025-06-21T00:28:43.800068",
+  "cache_key": "af9f40ab7756c18852406d5693fb0436f72503e7ab548876779b7e4bde6f530b",
+  "model": "gpt-41"
+}

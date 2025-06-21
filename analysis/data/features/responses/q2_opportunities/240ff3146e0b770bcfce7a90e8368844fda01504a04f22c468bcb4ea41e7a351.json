@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in site-specific performances",
+    "desire for interdisciplinary collaboration",
+    "emphasis on dance and music integration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More site specific work",
+    "More dance and music collaborations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase site specific work",
+    "Promote dance and music collaborations"
+  ],
+  "cached_at": "2025-06-21T00:48:52.046700",
+  "cache_key": "240ff3146e0b770bcfce7a90e8368844fda01504a04f22c468bcb4ea41e7a351",
+  "model": "gpt-41"
+}

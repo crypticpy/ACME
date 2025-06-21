@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient operational funding for venues",
+    "high cost of city utilities",
+    "lack of resources for programming",
+    "venue maintenance challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Funding is a major, major issue",
+    "folks who run venues",
+    "a large chunk of the funding we get for operations go right back to the city for our utilities",
+    "not much left over for programming or the maintenance of the venue"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "most operational funding spent on city utilities",
+    "insufficient funds remaining for programming",
+    "insufficient funds remaining for venue maintenance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:25:04.517404",
+  "cache_key": "ad17dd10928518eb950485d065f65d23615c98a5abe2bf4fa087859c71993d47",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of cultural infrastructure",
+    "geographic equity in cultural access",
+    "suburban cultural development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "build more museums",
+    "venues in the suburbs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of museums and venues in the suburbs"
+  ],
+  "solutions_proposed": [
+    "build more museums and venues in the suburbs"
+  ],
+  "cached_at": "2025-06-20T10:25:26.047417",
+  "cache_key": "1a5794d6292946931f873b2c66f904d81866b1c33e72587a62180b051d009a5b",
+  "model": "gpt-41"
+}

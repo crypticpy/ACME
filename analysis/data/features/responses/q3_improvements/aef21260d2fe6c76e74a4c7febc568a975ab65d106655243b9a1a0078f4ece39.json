@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion of non-BIPOC artists",
+    "concerns about fairness in funding allocation",
+    "demographic representation in grant access",
+    "support for underrepresented artists with reservations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "impossible to get these grants unless you are a part of the BIPOC community",
+    "seems skewed since over 40% of Austin is non-hispanic white",
+    "all artists that fall in this demographic don't have any access to funding",
+    "allotting funding for historically underrepresented artists",
+    "withholding funding from the rest of the artist community feels like wrong"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to funding for non-BIPOC artists",
+    "perceived exclusive focus on BIPOC-centered projects"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:08:49.769370",
+  "cache_key": "aef21260d2fe6c76e74a4c7febc568a975ab65d106655243b9a1a0078f4ece39",
+  "model": "gpt-41"
+}

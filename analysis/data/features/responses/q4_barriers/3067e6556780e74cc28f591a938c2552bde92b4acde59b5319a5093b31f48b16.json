@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of accessible city-owned festival venues",
+    "decline of Austin's festival culture",
+    "prohibitive and exclusionary venue pricing",
+    "outsourcing of valuable sites to conservancies",
+    "limited availability of both outdoor and indoor venues",
+    "perceived lack of city support for live music"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "no readily available City owned venues",
+    "Austin's old vibrant festival culture is disappearing",
+    "lack of innovation and prohibitive costs",
+    "farmed out to conservancies with exclusionary pricing",
+    "Fiesta Gardens West End ... is not available",
+    "not a single venue in Austin other than Palmer Auditorium",
+    "If the City of Austin would be serious about live music - it would have rentable venues to support it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Fiesta Gardens West End",
+    "Palmer Auditorium"
+  ],
+  "barriers_identified": [
+    "no readily available City owned venues for festivals of 600-1000 people",
+    "valuable sites farmed out to conservancies with exclusionary pricing",
+    "Fiesta Gardens West End is not available",
+    "not a single indoor venue other than Palmer Auditorium",
+    "prohibitive costs"
+  ],
+  "solutions_proposed": [
+    "City of Austin should provide rentable venues to support live music"
+  ],
+  "cached_at": "2025-06-21T01:46:08.653793",
+  "cache_key": "3067e6556780e74cc28f591a938c2552bde92b4acde59b5319a5093b31f48b16",
+  "model": "gpt-41"
+}

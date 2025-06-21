@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for educational talks",
+    "interest in craft workshops",
+    "accessibility for working people",
+    "preference for evening scheduling"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more educational talks",
+    "craft workshops",
+    "held in the evenings",
+    "accessible to working people"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of evening scheduling limits access for working people"
+  ],
+  "solutions_proposed": [
+    "hold educational talks and craft workshops in the evenings"
+  ],
+  "cached_at": "2025-06-21T00:47:39.100755",
+  "cache_key": "4dc01254b094df0526d22623c181a87c9e4a6cbc1d78663c7537e86ebce57147",
+  "model": "gpt-41"
+}

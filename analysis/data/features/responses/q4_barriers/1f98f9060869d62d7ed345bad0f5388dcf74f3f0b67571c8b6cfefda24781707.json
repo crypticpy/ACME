@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "frustration with city bid program",
+    "preference for local companies",
+    "lack of direct artist support",
+    "airport decisions disadvantaging artists",
+    "outsourcing to non-local vendors"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Bid program with city",
+    "companies like ford AV win projects when they\u2019re not HQ\u2019d here",
+    "This is Bs",
+    "Airport shot down a program to pay artists for sync media",
+    "instead bought radio playback",
+    "They could have supported the artists directly"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "city bid program favoring non-local companies",
+    "airport rejecting direct artist payment for sync media",
+    "preference for purchasing radio playback over supporting artists"
+  ],
+  "solutions_proposed": [
+    "support artists directly through payment for sync media"
+  ],
+  "cached_at": "2025-06-21T01:34:37.615402",
+  "cache_key": "1f98f9060869d62d7ed345bad0f5388dcf74f3f0b67571c8b6cfefda24781707",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of midsize performance venues",
+    "accessibility of cultural spaces",
+    "parking availability for events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more midsize performance spaces",
+    "200-400 seats",
+    "easy access and parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient midsize performance spaces",
+    "difficulty accessing venues",
+    "lack of convenient parking"
+  ],
+  "solutions_proposed": [
+    "increase the number of midsize performance spaces with easy access and parking"
+  ],
+  "cached_at": "2025-06-21T01:32:56.491831",
+  "cache_key": "534cb6d7fbc6b677d07d000a33ce757c3e8330e9134453e25126996119d4686b",
+  "model": "gpt-41"
+}

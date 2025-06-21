@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "City Council decision-making as a barrier",
+    "Perceived underrepresentation of local artists",
+    "Allocation of public funds to non-local artists",
+    "Insult to local artistic community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The City Council is a barrier",
+    "$15 million dollar foreign artists program for our airport",
+    "drastically underrepresents local artists",
+    "should have been ONLY local artists",
+    "an insult to Austin artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "City Council decisions favoring foreign artists over local artists",
+    "Lack of representation of local artists in major public art programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:10.933840",
+  "cache_key": "5c8ae5166b2ff88fbf0c0b974771c4761cf858c93e5cf521faf0dd11f4a31fff",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interdisciplinary arts experiences",
+    "integration of poetry and dance",
+    "aerial performance art",
+    "live visual art creation",
+    "live music collaborations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Poetry crossovers with dance",
+    "aerial performances",
+    "live painting",
+    "live music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for poetry crossovers with dance",
+    "Offer more aerial performances",
+    "Provide more live painting events",
+    "Expand live music events"
+  ],
+  "cached_at": "2025-06-21T00:43:24.989995",
+  "cache_key": "4f7af9b9a094d9e7a75c8af4bdffdd62c2e1800a4695a3864c74b68d6c9580d0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "competition between music and visual arts sectors",
+    "need for separate funding streams",
+    "inequity in current funding structure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "separate funding opportunities for music and visual arts",
+    "should not be competing for the same funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "music and visual arts sectors competing for the same funds"
+  ],
+  "solutions_proposed": [
+    "separate funding opportunities for music and visual arts"
+  ],
+  "cached_at": "2025-06-20T10:45:37.206975",
+  "cache_key": "5a41ce7619601e339e23565049de1e8de59b3e38cb030a45b37d5eaa044d561f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dedicated funding for service organizations",
+    "support for economic success of artists",
+    "enhancing quality of life for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "dedicated funding for service organizations",
+    "enhance economic success",
+    "quality of life for Austin's artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of dedicated funding for service organizations"
+  ],
+  "solutions_proposed": [
+    "provide dedicated funding for service organizations who work to enhance economic success and quality of life for Austin's artists"
+  ],
+  "cached_at": "2025-06-21T02:08:45.968725",
+  "cache_key": "1558b3c589587b7fd05eb7ce9a3bda4edfb462bf5565185a897de90a2447b4ea",
+  "model": "gpt-41"
+}

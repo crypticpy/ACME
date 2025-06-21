@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable access for marginalized organizations",
+    "support for smaller and grassroots groups",
+    "streamlining application processes",
+    "multilingual and technical assistance",
+    "flexible funding for operational and capacity needs",
+    "support for culturally specific programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more equitable access to cultural funding programs",
+    "especially for smaller, grassroots, and people of color organizations",
+    "streamlining the application process",
+    "offering multilingual support",
+    "providing technical assistance or grant-writing workshops",
+    "more flexible funding that supports operational costs",
+    "long-term capacity building",
+    "culturally specific programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inequitable access for smaller, grassroots, and people of color organizations",
+    "complex application process",
+    "lack of multilingual support",
+    "insufficient technical assistance"
+  ],
+  "solutions_proposed": [
+    "streamlining the application process",
+    "offering multilingual support",
+    "providing technical assistance or grant-writing workshops",
+    "more flexible funding for operational costs",
+    "funding for long-term capacity building",
+    "support for culturally specific programming"
+  ],
+  "cached_at": "2025-06-21T01:06:23.486298",
+  "cache_key": "d3834c255db31d83bb72628ff1f3c9acfb699035c324e4403c629ea1f009ceff",
+  "model": "gpt-41"
+}

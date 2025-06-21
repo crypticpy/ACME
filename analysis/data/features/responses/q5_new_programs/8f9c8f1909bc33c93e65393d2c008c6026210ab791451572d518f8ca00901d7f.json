@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for newly marginalized groups",
+    "need for targeted grant funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grants for newly marginslized"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant opportunities for newly marginalized groups"
+  ],
+  "solutions_proposed": [
+    "offer grants for newly marginalized"
+  ],
+  "cached_at": "2025-06-21T01:56:02.690822",
+  "cache_key": "8f9c8f1909bc33c93e65393d2c008c6026210ab791451572d518f8ca00901d7f",
+  "model": "gpt-41"
+}

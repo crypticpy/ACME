@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of information about organizations and leaders",
+    "need for increased transparency or communication",
+    "hesitancy to suggest improvements without more knowledge"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Unsure",
+    "it would be good to know more about those organizations and cultural leaders first"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about organizations and cultural leaders"
+  ],
+  "solutions_proposed": [
+    "provide more information about organizations and cultural leaders"
+  ],
+  "cached_at": "2025-06-20T10:26:46.543576",
+  "cache_key": "0ced07b89f922ec1c848c51bba97ef132851573cbde8f3a263dfc100200131e5",
+  "model": "gpt-41"
+}

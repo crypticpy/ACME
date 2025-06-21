@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for dedicated funding for art spaces",
+    "Importance of everyday spaces for artists",
+    "Insufficiency of annual events for artist sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Art spaces need their own branch of funding opportunities",
+    "without art spaces artists have no place to work/showcase/gather",
+    "Artists need more than annual events to thrive in society",
+    "they need everyday spaces to work, showcase, and sell"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of dedicated funding for art spaces",
+    "Insufficient everyday spaces for artists to work, showcase, and sell"
+  ],
+  "solutions_proposed": [
+    "Create a separate branch of funding opportunities specifically for art spaces"
+  ],
+  "cached_at": "2025-06-21T00:28:06.504046",
+  "cache_key": "880fc7135a7c9a9d1356ec226487ec6c0b54569b0d22638347f2a584f03d1956",
+  "model": "gpt-41"
+}

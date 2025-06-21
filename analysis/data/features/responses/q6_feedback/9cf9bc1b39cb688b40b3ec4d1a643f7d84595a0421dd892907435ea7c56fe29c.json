@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "accusations of financial misconduct",
+    "distrust of nonprofit organizations",
+    "demand for leadership accountability",
+    "call for investigations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "These non profits days are over.",
+    "The theft of all this money is over!!!",
+    "Anyone on the boards needs to be removed!!!!",
+    "Investigations need to happen!!!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived corruption or theft in nonprofit organizations",
+    "lack of trust in board leadership"
+  ],
+  "solutions_proposed": [
+    "removal of current board members",
+    "conducting investigations into financial practices"
+  ],
+  "cached_at": "2025-06-21T02:17:15.455587",
+  "cache_key": "9cf9bc1b39cb688b40b3ec4d1a643f7d84595a0421dd892907435ea7c56fe29c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more cultural arts festivals",
+    "interest in multicultural music concerts",
+    "support for diverse dance opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Cultural arts festival",
+    "concerts that celebrate different types of music and cultures",
+    "dance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More cultural arts festivals",
+    "More concerts that celebrate different types of music and cultures",
+    "More dance opportunities"
+  ],
+  "cached_at": "2025-06-21T00:43:50.144873",
+  "cache_key": "c70a19a80f2acb39abba5cfda27c7361211ab409c0e2693722b43cd0e3bb196b",
+  "model": "gpt-41"
+}

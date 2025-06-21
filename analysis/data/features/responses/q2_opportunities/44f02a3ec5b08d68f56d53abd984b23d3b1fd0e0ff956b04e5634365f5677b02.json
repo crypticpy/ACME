@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for diverse communities",
+    "inclusion in cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support for diverse communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support for diverse communities"
+  ],
+  "cached_at": "2025-06-21T00:38:49.234252",
+  "cache_key": "44f02a3ec5b08d68f56d53abd984b23d3b1fd0e0ff956b04e5634365f5677b02",
+  "model": "gpt-41"
+}

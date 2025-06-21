@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "building bridges between groups",
+    "improving access to funding information",
+    "support for emerging artists",
+    "enhancing communication with public and artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "strong bridge between groups",
+    "easy access and understanding of funding opportunities",
+    "encouraging emerging artists",
+    "good communication out to the public and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of easy access and understanding of funding opportunities",
+    "insufficient communication to public and artists"
+  ],
+  "solutions_proposed": [
+    "build strong bridge between groups",
+    "make funding opportunities easy to access and understand",
+    "encourage emerging artists",
+    "improve communication to public and artists"
+  ],
+  "cached_at": "2025-06-20T10:21:24.111593",
+  "cache_key": "279102b6c0805134bb9e7de74c2df6ebc5d22a26e020aaba78ce2a5628691a69",
+  "model": "gpt-41"
+}

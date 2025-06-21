@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of historically excluded organizations",
+    "preservation of legacy organizations",
+    "innovation in funding approaches"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "find new and creative ways",
+    "organizations historically left out of the funding conversation",
+    "included",
+    "preserving legacy organizations that make Austin great"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "organizations historically left out of the funding conversation"
+  ],
+  "solutions_proposed": [
+    "find new and creative ways to ensure organizations historically left out of the funding conversation are included",
+    "preserving legacy organizations"
+  ],
+  "cached_at": "2025-06-20T01:20:28.407924",
+  "cache_key": "837576c35c47e03a54284813476d349e45b2db6c1f16b5c3fa93f73eec5341f2",
+  "model": "gpt-41"
+}

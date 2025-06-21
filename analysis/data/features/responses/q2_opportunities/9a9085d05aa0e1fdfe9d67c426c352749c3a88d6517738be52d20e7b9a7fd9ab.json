@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for more professional-level theatre",
+    "Funding shortages and rising costs",
+    "Lack of mid-to-high paying opportunities for artists",
+    "Barriers to organizational growth",
+    "Creative talent drain due to affordability crisis",
+    "Role of universities in supplying artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more higher level art in Austin",
+    "only ZACH that is able to produce professional-level theatre",
+    "low-and-mid-budget organizations do INCREDIBLE work for very little money comparatively",
+    "everything is getting more expensive at a time where funding is drying up",
+    "grow more mid-to-high paying theatrical opportunities for gig artists and technicians",
+    "squeeze out the currently small companies that want to grow",
+    "lack of work here, tied with the increasing affordability crisis",
+    "intense drain of our creative class"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ZACH"
+  ],
+  "barriers_identified": [
+    "Funding is drying up",
+    "Everything is getting more expensive",
+    "Lack of mid-to-high paying opportunities",
+    "Small companies being squeezed out",
+    "Affordability crisis",
+    "Creative talent leaving for other markets"
+  ],
+  "solutions_proposed": [
+    "Grow more mid-to-high paying theatrical opportunities for gig artists and technicians",
+    "Support small companies that want to grow into larger institutions",
+    "Increase competition and access to decent-paying art jobs"
+  ],
+  "cached_at": "2025-06-21T00:31:01.114363",
+  "cache_key": "9a9085d05aa0e1fdfe9d67c426c352749c3a88d6517738be52d20e7b9a7fd9ab",
+  "model": "gpt-41"
+}

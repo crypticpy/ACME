@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for smaller, affordable events",
+    "Critique of large, corporate-branded festivals",
+    "Nostalgia for 'old Austin' music scene",
+    "Support for local artists",
+    "Accessibility through lower pricing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More smaller, free/cheaper events",
+    "We don\u2019t need any more weekend-long corporate branded events that feel like a giant advertisement",
+    "people would gladly pay $15-$20 for smaller events with local artists",
+    "Not everything has to be a $300 festival",
+    "people really, really miss that 'old Austin' music scene from 20+ years ago",
+    "That was the heart and soul of the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "High cost of large festivals",
+    "Prevalence of corporate-branded events"
+  ],
+  "solutions_proposed": [
+    "Increase number of smaller, free or cheaper events",
+    "Offer more events featuring local artists at $15-$20 price point",
+    "Reduce emphasis on large, corporate-branded festivals"
+  ],
+  "cached_at": "2025-06-21T00:32:21.233129",
+  "cache_key": "cc3c8a00c440f6f66bdd9a1ec47a0384d4ab3a068256649025482a3410ba6af1",
+  "model": "gpt-41"
+}

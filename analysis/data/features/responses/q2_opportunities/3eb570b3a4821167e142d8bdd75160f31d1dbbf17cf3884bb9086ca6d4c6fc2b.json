@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "merit-based funding",
+    "City of Austin (COA) arts grants",
+    "fairness in grant allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "COA art grants based purely on merit"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "COA art grants"
+  ],
+  "barriers_identified": [
+    "current grant allocation not based purely on merit"
+  ],
+  "solutions_proposed": [
+    "art grants based purely on merit"
+  ],
+  "cached_at": "2025-06-21T00:52:57.985438",
+  "cache_key": "3eb570b3a4821167e142d8bdd75160f31d1dbbf17cf3884bb9086ca6d4c6fc2b",
+  "model": "gpt-41"
+}

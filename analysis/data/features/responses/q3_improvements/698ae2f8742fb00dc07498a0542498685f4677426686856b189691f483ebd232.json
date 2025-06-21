@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for small organizations",
+    "recognition of excellence among smaller companies",
+    "funding equity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support of small but still excellent companies"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for small companies"
+  ],
+  "solutions_proposed": [
+    "increase support for small but excellent companies"
+  ],
+  "cached_at": "2025-06-21T00:56:20.612359",
+  "cache_key": "698ae2f8742fb00dc07498a0542498685f4677426686856b189691f483ebd232",
+  "model": "gpt-41"
+}

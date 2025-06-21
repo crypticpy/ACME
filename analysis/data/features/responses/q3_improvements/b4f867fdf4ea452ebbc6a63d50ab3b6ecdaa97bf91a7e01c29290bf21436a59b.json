@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threat to independent music venues",
+    "impact of rising property costs (tax, rent, insurance)",
+    "allocation of HOT funds",
+    "economic return of venues vs. individual grants",
+    "role of venues in city's cultural identity and tourism"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "imminent risk of closure due to property tax, rent, and insurance increases",
+    "venues need a larger share of the HOT collections",
+    "proven track record of generating a return on investment",
+    "grants to individuals for one off projects do not"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HOT funds"
+  ],
+  "barriers_identified": [
+    "property tax increases",
+    "rent increases",
+    "insurance increases",
+    "insufficient share of HOT funds for venues"
+  ],
+  "solutions_proposed": [
+    "venues need a larger share of the HOT collections"
+  ],
+  "cached_at": "2025-06-21T01:15:42.894625",
+  "cache_key": "b4f867fdf4ea452ebbc6a63d50ab3b6ecdaa97bf91a7e01c29290bf21436a59b",
+  "model": "gpt-41"
+}

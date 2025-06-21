@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "inconsistent funding",
+    "financial barriers to access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Lack of consistent funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of consistent funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:26:13.716993",
+  "cache_key": "aec263c29707986a368493565fb2686119e38c81a357da874226b6110126c97e",
+  "model": "gpt-41"
+}

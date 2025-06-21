@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased availability of art spaces",
+    "accessibility of cultural venues",
+    "support for artist studios",
+    "community gathering and education spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "increased availability and accessibility of art spaces",
+    "artist studios",
+    "galleries",
+    "music and performance venues",
+    "community gathering/popular education spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited availability of art spaces",
+    "limited accessibility of cultural venues"
+  ],
+  "solutions_proposed": [
+    "increase availability and accessibility of art spaces",
+    "support more artist studios, galleries, music and performance venues, and community gathering/education spaces"
+  ],
+  "cached_at": "2025-06-21T00:44:58.202041",
+  "cache_key": "e59ec4cd3cc20da2708494aaf62f4aa1bb3886ebd44fca32743dd5f5647940a9",
+  "model": "gpt-41"
+}

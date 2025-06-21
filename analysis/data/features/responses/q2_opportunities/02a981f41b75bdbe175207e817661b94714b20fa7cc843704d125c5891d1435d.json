@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for increased ethnic diversity in cultural offerings",
+    "interest in immigrant-oriented arts and entertainment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More ethnicity",
+    "immigrant orientation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase ethnicity and immigrant orientation in cultural arts and entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:52:09.531842",
+  "cache_key": "02a981f41b75bdbe175207e817661b94714b20fa7cc843704d125c5891d1435d",
+  "model": "gpt-41"
+}

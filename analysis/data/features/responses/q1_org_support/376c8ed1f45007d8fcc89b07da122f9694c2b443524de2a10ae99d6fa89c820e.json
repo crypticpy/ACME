@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of support for underground and alternative art",
+    "diversity in Austin's art community",
+    "lack of acknowledgment of certain art communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "very diverse underground and alternative art community",
+    "don't see that funded",
+    "not supported or even acknowledged"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of support",
+    "lack of acknowledgment"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:27:11.810432",
+  "cache_key": "376c8ed1f45007d8fcc89b07da122f9694c2b443524de2a10ae99d6fa89c820e",
+  "model": "gpt-41"
+}

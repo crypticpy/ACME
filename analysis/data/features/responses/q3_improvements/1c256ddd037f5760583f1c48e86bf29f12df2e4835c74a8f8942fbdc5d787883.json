@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "panel/jurying process fairness",
+    "scoring rubric challenges for diverse organizations",
+    "eligibility of for-profit venues for funding",
+    "lack of oversight for fund allocation",
+    "ensuring funds reach musicians and creative workers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "panel/jurying process for the cultural art programs needed to be addressed",
+    "the rubric which the panelists had to score from resulted in challenging situations",
+    "organizations that served a wide demographic of the community",
+    "unclear to me why for-profit venues and bars are eligible for city funds",
+    "Live Music program dollars should be reserved for musicians and individual creatives",
+    "without an oversight team to ensure those monies are going directly to musicians, production staff, creative workers",
+    "what guarantee is there that those funds will actually support the music industry workers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "cultural art programs",
+    "Live Music program"
+  ],
+  "barriers_identified": [
+    "scoring rubric disadvantages organizations serving wide demographics",
+    "funding eligibility for for-profit venues and bars",
+    "lack of oversight for fund distribution"
+  ],
+  "solutions_proposed": [
+    "address the panel/jurying process",
+    "implement an oversight team to ensure funds go directly to musicians, production staff, and creative workers",
+    "reserve Live Music program dollars for musicians and individual creatives"
+  ],
+  "cached_at": "2025-06-21T01:19:58.575571",
+  "cache_key": "1c256ddd037f5760583f1c48e86bf29f12df2e4835c74a8f8942fbdc5d787883",
+  "model": "gpt-41"
+}

@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with current offerings",
+    "lack of additional suggestions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I like what I\u2019ve seen",
+    "don\u2019t have any suggestions at this time"
+  ],
+  "intent": "expression_of_satisfaction",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:40:52.563313",
+  "cache_key": "cd46153eeb257ba22544aef8bb7a88c4f67a9e57ffda697c337100a17650f994",
+  "model": "gpt-41"
+}

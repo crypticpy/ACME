@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theater",
+    "need for increased support to creative artists",
+    "support for creative professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Live theater",
+    "support to creative artists and professionals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more live theater",
+    "increased support to creative artists and professionals"
+  ],
+  "cached_at": "2025-06-21T00:39:05.141188",
+  "cache_key": "b4a4eaa7b807150545b316ce70cce944503937666487801a1d7046e16badc123",
+  "model": "gpt-41"
+}

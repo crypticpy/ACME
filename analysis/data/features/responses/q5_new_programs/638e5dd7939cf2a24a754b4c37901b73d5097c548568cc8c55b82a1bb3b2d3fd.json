@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "threats to public school art/music programs",
+    "impact of budget deficits on cultural education",
+    "need for increased funding to underrepresented communities",
+    "support for community-based organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "better support for public school art/music",
+    "cuts due to deficits",
+    "funding support to underrepresented communities",
+    "existing groups working with these communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cuts due to deficits",
+    "underrepresentation of certain communities"
+  ],
+  "solutions_proposed": [
+    "better support for public school art/music",
+    "funding support to underrepresented communities via existing groups"
+  ],
+  "cached_at": "2025-06-21T02:08:56.869676",
+  "cache_key": "638e5dd7939cf2a24a754b4c37901b73d5097c548568cc8c55b82a1bb3b2d3fd",
+  "model": "gpt-41"
+}

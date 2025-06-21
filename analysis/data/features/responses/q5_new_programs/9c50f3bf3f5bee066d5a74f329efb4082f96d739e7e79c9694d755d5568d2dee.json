@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for artist support tools",
+    "programs for performers",
+    "resources for educators"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "tools and programs for artists",
+    "performers",
+    "educators"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer tools and programs for artists",
+    "offer tools and programs for performers",
+    "offer tools and programs for educators"
+  ],
+  "cached_at": "2025-06-21T01:54:03.243514",
+  "cache_key": "9c50f3bf3f5bee066d5a74f329efb4082f96d739e7e79c9694d755d5568d2dee",
+  "model": "gpt-41"
+}

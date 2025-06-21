@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration",
+    "investment in partnerships",
+    "support for collective action"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "search and invest in Collaborative spirits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "search and invest in Collaborative spirits"
+  ],
+  "cached_at": "2025-06-20T10:27:52.812635",
+  "cache_key": "630b999a63d616d2d8660371283fb009bc8c2fdea627a1f7bd09b5c50630e61f",
+  "model": "gpt-41"
+}

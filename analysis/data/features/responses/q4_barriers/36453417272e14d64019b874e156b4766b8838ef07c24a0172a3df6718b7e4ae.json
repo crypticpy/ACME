@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "systemic racism as a barrier",
+    "structural inequity in cultural access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Systemic racism"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "systemic racism"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:03.844151",
+  "cache_key": "36453417272e14d64019b874e156b4766b8838ef07c24a0172a3df6718b7e4ae",
+  "model": "gpt-41"
+}

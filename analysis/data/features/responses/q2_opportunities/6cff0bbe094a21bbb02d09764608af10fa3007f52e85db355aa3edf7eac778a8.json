@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "communal creation",
+    "collaborative arts experiences",
+    "community engagement in the arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "communal creation opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more communal creation opportunities"
+  ],
+  "cached_at": "2025-06-21T00:29:33.465041",
+  "cache_key": "6cff0bbe094a21bbb02d09764608af10fa3007f52e85db355aa3edf7eac778a8",
+  "model": "gpt-41"
+}

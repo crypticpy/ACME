@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "limited scope of existing public art programs",
+    "desire for more diverse public art opportunities",
+    "critique of AIPP's constraints"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "public art opportunities outside of AIPP",
+    "very limited scope"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "very limited scope of AIPP"
+  ],
+  "solutions_proposed": [
+    "offer public art opportunities beyond AIPP"
+  ],
+  "cached_at": "2025-06-21T01:59:10.339332",
+  "cache_key": "a38709df6ff768f882b2fd653ae833abb0d7e48c903ca2b7f3c10412aa818e28",
+  "model": "gpt-41"
+}

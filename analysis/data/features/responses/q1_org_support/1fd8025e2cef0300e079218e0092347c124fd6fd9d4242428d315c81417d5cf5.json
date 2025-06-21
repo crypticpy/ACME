@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "resource allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Provide More Funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [
+    "Provide more funds"
+  ],
+  "cached_at": "2025-06-20T10:44:43.302396",
+  "cache_key": "1fd8025e2cef0300e079218e0092347c124fd6fd9d4242428d315c81417d5cf5",
+  "model": "gpt-41"
+}

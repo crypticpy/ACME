@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of awareness of ACME",
+    "promotion and outreach needs",
+    "experience supporting creatives in Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I\u2019m not knowledgeable about your organization",
+    "I\u2019ve been on the ground working for creatives for Austin over 7 years",
+    "promote yourselfs and services"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of ACME's organization and services"
+  ],
+  "solutions_proposed": [
+    "promote yourselves and services"
+  ],
+  "cached_at": "2025-06-20T01:12:32.811158",
+  "cache_key": "b3f9648ca7b3391cf8cb205682269e111a5d1d22e6d4053c14ca0600957ed335",
+  "model": "gpt-41"
+}

@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "importance of cultural funding for arts and culture",
+    "challenge of securing recurring funding for ongoing projects",
+    "barriers for repeat grant recipients",
+    "need for longer-term support for annual events",
+    "balance between funding new and existing projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "how vital these programs are for arts and culture in Austin",
+    "securing consistent access to funding for a consistent project",
+    "my project Babestock Music Festival is an annually reoccurring event",
+    "not being able to apply for a grant 2 years in a row",
+    "losing points for being a previous grant recipient",
+    "some projects require funding for a longer period of time before becoming stable"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Babestock Music Festival"
+  ],
+  "barriers_identified": [
+    "inability to apply for a grant two years in a row",
+    "penalization for being a previous grant recipient",
+    "lack of consistent funding for recurring projects"
+  ],
+  "solutions_proposed": [
+    "allow funding for longer periods for projects that need time to become stable",
+    "consider ongoing support for annually recurring events"
+  ],
+  "cached_at": "2025-06-21T00:54:54.999523",
+  "cache_key": "e956d18c744d1c75c54406d71638e1a61cf6e1beacf3c761d4d2754e72152307",
+  "model": "gpt-41"
+}

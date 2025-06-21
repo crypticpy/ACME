@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for diversity in music genres and cultural offerings",
+    "Appreciation for accessible, affordable classical and opera events",
+    "Barriers to participation due to venue environment (loudness, migraines)",
+    "Need for adult participation opportunities in the arts",
+    "Critique of audience-as-consumer mindset in local arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I don't want music in Austin to have to be just one thing",
+    "We have such a great jazz, indie-classical, classical scene",
+    "I personally love what KMFA has built",
+    "I have migraine and struggle with super loud venues",
+    "I also love the opera and symphony and really appreciate when they do affordable tickets",
+    "more support go to organizations that provide access for everyday adult Austinites to PARTICIPATE in the arts and not just watch them",
+    "local 'audiences' are seen just as consumers and not possible participants too",
+    "non-professional adults get really left out of the creation, which can be so healing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "KMFA"
+  ],
+  "barriers_identified": [
+    "super loud venues",
+    "lack of opportunities for non-professional adults to participate in arts creation",
+    "audiences viewed only as consumers"
+  ],
+  "solutions_proposed": [
+    "more support for organizations that provide access for everyday adult Austinites to participate in the arts",
+    "affordable tickets for opera and symphony"
+  ],
+  "cached_at": "2025-06-21T00:39:47.592459",
+  "cache_key": "0bd59be05f13f2b7484de7d71f0cca563b3cecb3f055d567c2598322a57e04a8",
+  "model": "gpt-41"
+}

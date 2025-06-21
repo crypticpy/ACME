@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about conflict of interest",
+    "interest in participating in future conversations",
+    "uncertainty about eligibility for involvement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "city employee that will potentially be working under ACME",
+    "unsure if my participation is a conflict of interest",
+    "if I am able to join any future conversations I would love to do so"
+  ],
+  "intent": "express_interest",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about conflict of interest for city employees"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:55.507353",
+  "cache_key": "47bc50d8569c7fcede938a165b739687bb62265c3909239c4d0b5cc502c25009",
+  "model": "gpt-41"
+}

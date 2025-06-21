@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "limitations of survey design",
+    "importance of cultural preservation",
+    "need for access to funding",
+    "support for artists and organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "some of the questions limiting (only allowing to select up to 3 options)",
+    "it by no means means that the other items are less important",
+    "cultural preservation, so important",
+    "so is access to funding",
+    "supporting artists and organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "survey restricts respondents to only 3 options, limiting expression of priorities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:10.666089",
+  "cache_key": "493046f5aaf130bd29cdf8afd5de47f44105375fde001aa28fb34f900896f316",
+  "model": "gpt-41"
+}

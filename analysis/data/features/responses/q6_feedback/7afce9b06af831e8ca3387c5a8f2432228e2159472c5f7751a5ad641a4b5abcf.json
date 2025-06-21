@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for industry infrastructure (publishing reps, booking agents, radio promoters)",
+    "Focus on growing the music economy",
+    "Sustainable livelihoods for musicians",
+    "Critique of individual grants to amateurs",
+    "Advocacy for systemic, collective benefit"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Think big picture",
+    "local publishing reps, booking agents, radio promoters etc are needed",
+    "Build a music industry that grows the music economy",
+    "musicians can make a real living being based in Austin",
+    "Individual grants to amateur promoters and aspiring musicians don't grow the pie",
+    "Grow the pie and everyone eats"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of industry infrastructure (publishing reps, booking agents, radio promoters)",
+    "Fragmented support through individual grants to amateurs"
+  ],
+  "solutions_proposed": [
+    "Invest in building industry infrastructure (publishing reps, booking agents, radio promoters)",
+    "Grow the music economy as a whole rather than focusing on individual grants"
+  ],
+  "cached_at": "2025-06-21T02:17:19.832600",
+  "cache_key": "7afce9b06af831e8ca3387c5a8f2432228e2159472c5f7751a5ad641a4b5abcf",
+  "model": "gpt-41"
+}

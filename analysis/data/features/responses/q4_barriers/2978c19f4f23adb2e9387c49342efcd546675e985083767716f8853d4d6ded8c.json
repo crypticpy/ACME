@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived inequity in funding distribution",
+    "systemic favoritism toward established organizations",
+    "challenges for smaller organizations to grow"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "those who have more, get more",
+    "funding being awarded based primarily on income",
+    "the bigger your spoon, the more pie you can get",
+    "the smaller your spoon, you are always going to get less",
+    "this makes it hard to grow an organization"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "City of Austin's Economic Development Department"
+  ],
+  "barriers_identified": [
+    "funding awarded based primarily on income",
+    "systemic bias favoring larger or wealthier organizations",
+    "difficulty for smaller organizations to access sufficient funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:41.222760",
+  "cache_key": "2978c19f4f23adb2e9387c49342efcd546675e985083767716f8853d4d6ded8c",
+  "model": "gpt-41"
+}

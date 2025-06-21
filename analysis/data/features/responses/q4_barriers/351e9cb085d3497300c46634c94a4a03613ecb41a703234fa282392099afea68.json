@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "stringent requirements as barriers",
+    "alienation of artists",
+    "love of music versus administrative burden"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "meeting requirements",
+    "just playing music because we love it",
+    "stringent requirements",
+    "you've alienated many artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "stringent requirements for support or services",
+    "administrative burden alienating artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:00.358073",
+  "cache_key": "351e9cb085d3497300c46634c94a4a03613ecb41a703234fa282392099afea68",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for mobility-impaired individuals",
+    "event inclusivity",
+    "physical access to cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "easily accessible for people who are mobility impaired"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility for people who are mobility impaired"
+  ],
+  "solutions_proposed": [
+    "have events that are easily accessible for people who are mobility impaired"
+  ],
+  "cached_at": "2025-06-21T01:11:41.529103",
+  "cache_key": "5f62ad56cb4853ec258cdc0a58b253b6c31bdaf459ca5a56ead6730859e7dbba",
+  "model": "gpt-41"
+}

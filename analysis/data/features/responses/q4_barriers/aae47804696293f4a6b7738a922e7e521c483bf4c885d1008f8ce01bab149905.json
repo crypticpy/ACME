@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural participation",
+    "downtown accessibility challenges",
+    "impact of rising costs on community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "rising costs of venues",
+    "rising costs of parking",
+    "especially downtown"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of venues",
+    "rising costs of parking",
+    "cost barriers in downtown area"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:42.584348",
+  "cache_key": "aae47804696293f4a6b7738a922e7e521c483bf4c885d1008f8ce01bab149905",
+  "model": "gpt-41"
+}

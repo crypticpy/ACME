@@ -1,0 +1,44 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "flexible and accessible artist residencies",
+    "support services for artists (stipends, childcare, transportation)",
+    "shared creative spaces with professional tools",
+    "mentorship integration in creative spaces",
+    "cross-genre artist networking and collaboration",
+    "community-building among artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "local, part-time, or flexible residencies with stipends, childcare, or transportation support",
+    "shared spaces with professional tools for music, film, visual art, and digital media",
+    "spaces where mentorship is built-in",
+    "bridge the gap for artists without their own equipment or training",
+    "connect artists across genres",
+    "spark innovation and help build community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Film Society"
+  ],
+  "barriers_identified": [
+    "lack of flexible residencies",
+    "insufficient financial and logistical support (stipends, childcare, transportation)",
+    "limited access to professional tools and equipment",
+    "lack of mentorship opportunities",
+    "difficulty connecting across artistic genres"
+  ],
+  "solutions_proposed": [
+    "offer local, part-time, or flexible residencies with stipends, childcare, or transportation support",
+    "create more shared spaces with professional tools for music, film, visual art, and digital media",
+    "integrate mentorship into creative spaces",
+    "develop programs or conferences that connect artists across genres"
+  ],
+  "cached_at": "2025-06-21T02:00:18.245301",
+  "cache_key": "9bdb3fcc926043651ec597bc94d89fd0aca46e8c892e2fd8748d7e70bf4e96c7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about definition of diversity",
+    "opposition to eliminating established organizations",
+    "call for broader funding distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Diverse means diverse",
+    "It doesn't mean elimination of established organizations",
+    "Diversify funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential exclusion of established organizations in the name of diversity"
+  ],
+  "solutions_proposed": [
+    "diversify funding"
+  ],
+  "cached_at": "2025-06-21T01:18:04.915002",
+  "cache_key": "57a65670592928b53e41f9ca3b2660e8e730c192b3602c0ded3f72e3bec339ef",
+  "model": "gpt-41"
+}

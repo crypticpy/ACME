@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "value of experienced staff",
+    "helpfulness in the grant process",
+    "negative impact of frequent procedural changes",
+    "confusion caused by changing rules"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Keep staff that has lots of experience",
+    "they are so helpful",
+    "Peggy and Anne-Marie have both helped me a lot in the grant process",
+    "changing things all the time - like facebook does - reslly sucks for us artist",
+    "we are lost and dont understand the ever-changing rules of engagement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "frequent changes to procedures",
+    "lack of understanding due to ever-changing rules"
+  ],
+  "solutions_proposed": [
+    "retain experienced staff",
+    "reduce frequency of procedural changes"
+  ],
+  "cached_at": "2025-06-20T10:30:11.685706",
+  "cache_key": "eca8931d16eafb4fe8d9ac55a6aa2ac7ee206319a24b46636ed47e2b98851bf9",
+  "model": "gpt-41"
+}

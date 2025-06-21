@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for increased opportunities for Black artists",
+    "Impact of housing crisis and gentrification on Black community",
+    "National climate of anti-affirmative action and anti-DEI",
+    "Stereotyping and marginalization of Black people",
+    "Importance of supporting Black stories and culture",
+    "Appreciation for the Elevate Grant program"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more opportunities for Black artists in Austin",
+    "Austin's Black community--and culture--is not only actively shrinking because of the housing crisis and gentrification",
+    "We are actively under attack nationwide",
+    "Everyone knows what anti-affirmative action and anti-DEI means for us",
+    "We are not the model minority",
+    "to far too many we are still the scapegoats, the thugs, the political troublemakers",
+    "I feel grateful that Austin has a literal Elevate Grant",
+    "support for us as we wade through the great Blacklash of a post-Black Lives Matter society",
+    "our stories have never been more important"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elevate Grant"
+  ],
+  "barriers_identified": [
+    "housing crisis",
+    "gentrification",
+    "national anti-affirmative action and anti-DEI policies",
+    "stereotyping and marginalization"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:51:37.742711",
+  "cache_key": "ab768e7ff391fceacb07025bc902f5000bff229acc4c32cb1d756393f2e01d99",
+  "model": "gpt-41"
+}

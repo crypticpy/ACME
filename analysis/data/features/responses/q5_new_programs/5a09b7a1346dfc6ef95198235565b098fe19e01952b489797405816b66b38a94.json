@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dissatisfaction with current grant programs",
+    "priority of fixing existing funding mechanisms",
+    "threat to nonprofit venues",
+    "concern about loss of cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fix the grant programs before worrying about what else you can do",
+    "strengthen funding for nonprofit venues",
+    "before we lose more of them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for nonprofit venues",
+    "ineffective or problematic grant programs"
+  ],
+  "solutions_proposed": [
+    "strengthen funding for nonprofit venues",
+    "fix the grant programs"
+  ],
+  "cached_at": "2025-06-21T01:55:44.146029",
+  "cache_key": "5a09b7a1346dfc6ef95198235565b098fe19e01952b489797405816b66b38a94",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for predictability and stability in funding",
+    "recognition of diverse organizational models",
+    "equity and diversity in cultural funding",
+    "importance of both 'big-tent' and culturally-specific organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More predictable and stable",
+    "value organizations that have grown and attracted diverse communities through 'big-tent' community-building",
+    "not only organization that were founded with the explicit purpose of supporting communities at risk of cultural erasure",
+    "BOTH important types of organizations to further aims of equity and diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of predictability and stability in funding",
+    "limited recognition of organizations that serve diverse communities but are not explicitly founded for at-risk groups"
+  ],
+  "solutions_proposed": [
+    "Make funding programs more predictable and stable",
+    "Value both 'big-tent' community-building organizations and those founded to support communities at risk of cultural erasure"
+  ],
+  "cached_at": "2025-06-21T01:12:07.468903",
+  "cache_key": "f996f6795d6860465e1e5b97d504cda64d8c1b15c4ec783cd97db8bf7614c4f1",
+  "model": "gpt-41"
+}

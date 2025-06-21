@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "burdensome administrative requirements",
+    "frustration with bureaucracy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Give us more money",
+    "WITH LESS LOOPHOLES AND PAPERWORK",
+    "for the love of god"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "excessive loopholes",
+    "too much paperwork"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "reduce administrative barriers"
+  ],
+  "cached_at": "2025-06-20T01:14:01.948091",
+  "cache_key": "da2bfb8a42e8bce884c650234048be86610e2829f5dadff73df1fa3c5f1bc8db",
+  "model": "gpt-41"
+}

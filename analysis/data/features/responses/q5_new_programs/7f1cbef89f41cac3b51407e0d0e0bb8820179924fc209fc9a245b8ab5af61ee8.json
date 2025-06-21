@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of existing programs",
+    "ineffective marketing and outreach",
+    "need for intentional communication",
+    "support for underrepresented communities and emerging artists",
+    "accessibility of information about offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I\u2019m not fully aware of the programs ACME currently offers beyond grants",
+    "highlights a key issue",
+    "aren\u2019t being marketed effectively",
+    "clearer, more intentional outreach",
+    "underrepresented communities, emerging artists, and smaller arts orgs",
+    "improving visibility and communication",
+    "support reaches the people who need it most"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "grants"
+  ],
+  "barriers_identified": [
+    "lack of awareness of existing programs",
+    "ineffective marketing to target groups"
+  ],
+  "solutions_proposed": [
+    "clearer, more intentional outreach",
+    "improving visibility and communication around ACME\u2019s offerings"
+  ],
+  "cached_at": "2025-06-21T01:57:49.525354",
+  "cache_key": "7f1cbef89f41cac3b51407e0d0e0bb8820179924fc209fc9a245b8ab5af61ee8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for institutional listening",
+    "artist inclusion in decision-making"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "please listen to local artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of listening to local artists"
+  ],
+  "solutions_proposed": [
+    "listen to local artists"
+  ],
+  "cached_at": "2025-06-21T02:21:08.320843",
+  "cache_key": "bd779e313b292d82ed03ab38203ab7de3af67c25c85cb255255c3d0fc807b435",
+  "model": "gpt-41"
+}

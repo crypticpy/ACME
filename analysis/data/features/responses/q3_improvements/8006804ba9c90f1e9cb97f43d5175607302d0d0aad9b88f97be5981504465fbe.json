@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "targeted marketing",
+    "equitable access",
+    "awareness of funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "marketing efforts reach the people who can actually benefit most"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of effective outreach to potential beneficiaries"
+  ],
+  "solutions_proposed": [
+    "improve marketing efforts to better reach intended beneficiaries"
+  ],
+  "cached_at": "2025-06-21T01:04:33.149656",
+  "cache_key": "8006804ba9c90f1e9cb97f43d5175607302d0d0aad9b88f97be5981504465fbe",
+  "model": "gpt-41"
+}

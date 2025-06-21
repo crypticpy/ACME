@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for project feedback",
+    "increased publicity for funding projects",
+    "community awareness and support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Feedback on the projects",
+    "Publicity so other can support the funding projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of feedback on projects",
+    "insufficient publicity for funding projects"
+  ],
+  "solutions_proposed": [
+    "Provide feedback on the projects",
+    "Increase publicity so others can support the funding projects"
+  ],
+  "cached_at": "2025-06-21T01:18:39.858360",
+  "cache_key": "33dbef34e385d3d98cc0cc02fb7c0720507595cc47f542f6c040f3724f40fb10",
+  "model": "gpt-41"
+}

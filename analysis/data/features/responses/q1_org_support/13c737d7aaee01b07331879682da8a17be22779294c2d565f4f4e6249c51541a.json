@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for cultural organizations",
+    "greater promotion and advertising of cultural activities",
+    "improved transportation access to cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more funding",
+    "more advertising",
+    "better transportation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "lack of advertising",
+    "transportation challenges"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "increase advertising",
+    "improve transportation"
+  ],
+  "cached_at": "2025-06-20T10:38:59.699072",
+  "cache_key": "13c737d7aaee01b07331879682da8a17be22779294c2d565f4f4e6249c51541a",
+  "model": "gpt-41"
+}

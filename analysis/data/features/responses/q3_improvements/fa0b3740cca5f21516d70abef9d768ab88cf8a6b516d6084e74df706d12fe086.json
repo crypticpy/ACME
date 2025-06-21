@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for in-person networking opportunities",
+    "need for structured collaboration among grant recipients",
+    "importance of community-building in grant programs",
+    "value of facilitated events for artists and organizers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more structured opportunities for in person connection",
+    "I would have appreciated more chances to meet and network with fellow recipients",
+    "face-to-face without feeling like I\u2019m chasing people down",
+    "facilitated meet ups, mixers or creative labs",
+    "grants have the power to foster community and collective projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin live music fund"
+  ],
+  "barriers_identified": [
+    "lack of structured in-person networking opportunities",
+    "networking currently feels uncoordinated and burdensome"
+  ],
+  "solutions_proposed": [
+    "facilitated meet ups",
+    "mixers",
+    "creative labs for artists, venues, and organizers to build relationships and brainstorm"
+  ],
+  "cached_at": "2025-06-21T01:07:58.911131",
+  "cache_key": "fa0b3740cca5f21516d70abef9d768ab88cf8a6b516d6084e74df706d12fe086",
+  "model": "gpt-41"
+}

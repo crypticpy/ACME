@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of creative expression and entrepreneurship",
+    "support for underrepresented artists and cultural leaders",
+    "need for technical assistance with grant applications",
+    "capacity-building and mentorship",
+    "navigation of funding opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "programs that combine creative expression with entrepreneurship training",
+    "underrepresented artists and community-based cultural leaders",
+    "technical assistance for grant applications",
+    "capacity-building workshops",
+    "mentorship programs",
+    "funding navigation",
+    "currently missing and deeply needed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of technical assistance for grant applications",
+    "absence of capacity-building workshops",
+    "missing mentorship programs",
+    "difficulty navigating funding"
+  ],
+  "solutions_proposed": [
+    "programs that combine creative expression with entrepreneurship training",
+    "technical assistance for grant applications",
+    "capacity-building workshops",
+    "mentorship programs",
+    "funding navigation services"
+  ],
+  "cached_at": "2025-06-21T01:52:45.985024",
+  "cache_key": "0c475723e8a54791d201f2ff36992dfb686ac9f63f9ef4ea1fd01bb0b0a35caf",
+  "model": "gpt-41"
+}

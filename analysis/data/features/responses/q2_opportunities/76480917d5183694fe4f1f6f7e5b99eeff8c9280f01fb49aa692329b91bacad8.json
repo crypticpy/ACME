@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for the blind and visually impaired",
+    "tactile and hands-on cultural experiences",
+    "inclusive arts programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "high tactile / hands-on displays",
+    "for the blind and visually impaired"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of tactile/hands-on displays for the blind and visually impaired"
+  ],
+  "solutions_proposed": [
+    "provide high tactile / hands-on displays for the blind and visually impaired"
+  ],
+  "cached_at": "2025-06-21T00:41:38.872302",
+  "cache_key": "76480917d5183694fe4f1f6f7e5b99eeff8c9280f01fb49aa692329b91bacad8",
+  "model": "gpt-41"
+}

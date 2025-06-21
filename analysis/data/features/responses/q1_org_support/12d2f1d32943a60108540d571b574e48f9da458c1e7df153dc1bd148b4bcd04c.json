@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "insufficient funding",
+    "decline of the arts scene",
+    "urgency of financial support",
+    "survival of organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "increasing funding amounts",
+    "struggling to survive on 1/5 of the city funding",
+    "when the arts scene was thriving",
+    "it is dying",
+    "it is a deathbed scenario"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "drastic reduction in city funding"
+  ],
+  "solutions_proposed": [
+    "increase funding amounts"
+  ],
+  "cached_at": "2025-06-20T01:17:36.458116",
+  "cache_key": "12d2f1d32943a60108540d571b574e48f9da458c1e7df153dc1bd148b4bcd04c",
+  "model": "gpt-41"
+}

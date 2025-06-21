@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient outreach",
+    "awareness of opportunities",
+    "communication improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more extensive advertising",
+    "about opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about opportunities"
+  ],
+  "solutions_proposed": [
+    "more extensive advertising about opportunities"
+  ],
+  "cached_at": "2025-06-21T01:00:36.180955",
+  "cache_key": "05bdc35e82ae82fdee6bdd2ec6116d484db8173f872f78d2272469de117aead0",
+  "model": "gpt-41"
+}

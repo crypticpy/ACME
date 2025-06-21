@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency about which organizations are supported",
+    "concern about insider favoritism",
+    "questioning representation and diversity among funded organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "'Existing organizations'? Who are they?",
+    "Are they well-represented in Austin",
+    "is it the same organizations that are in the inside track?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential insider favoritism",
+    "lack of clarity about which organizations are supported",
+    "possible underrepresentation of diverse organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:34:38.757852",
+  "cache_key": "f2e92148e250c3c93aa6d83e365bf3222e717ef52630f6bd287889fbd8a1f8a8",
+  "model": "gpt-41"
+}

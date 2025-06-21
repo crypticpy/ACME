@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for events centering Queer, Trans, Black, and disabled communities",
+    "Desire for non-alcohol-centered cultural spaces",
+    "Advocacy for a 'night mayor' position",
+    "Call for late-night venues and public spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Events for Queer and Trans people",
+    "events that center Black people, and disabled people",
+    "night mayor especially",
+    "create and subsidize spaces and venues that are not centered around alcohol consumption and sales",
+    "more venues and public cultural spaces open past 2am"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of events centering marginalized communities",
+    "Limited non-alcohol-centered venues",
+    "Insufficient late-night cultural spaces"
+  ],
+  "solutions_proposed": [
+    "Create and subsidize spaces and venues that are not centered around alcohol consumption and sales",
+    "Establish a night mayor",
+    "Open more venues and public cultural spaces past 2am"
+  ],
+  "cached_at": "2025-06-21T00:35:45.624388",
+  "cache_key": "22b83014e43becbca8693a7d9a5b3ba95f9564066a6ee9c7f682dadaf4284cee",
+  "model": "gpt-41"
+}

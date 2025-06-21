@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "consultation with executive directors",
+    "engagement with established organizations",
+    "seeking expert guidance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Contact Executive directors",
+    "established art cultural organizations",
+    "in depth consultation and guidance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Contact Executive directors of established art cultural organizations for in depth consultation and guidance"
+  ],
+  "cached_at": "2025-06-21T02:11:14.328399",
+  "cache_key": "ba53e4d2d64d45a32bd18d4da305c74ceff85ce5ac5dd90b3ba7883839990b14",
+  "model": "gpt-41"
+}

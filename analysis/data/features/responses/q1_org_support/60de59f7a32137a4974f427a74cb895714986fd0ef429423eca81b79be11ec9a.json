@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "direct financial support for artists' cost of living",
+    "expansion of artist support programs",
+    "advocacy for divestment from oil and gas",
+    "improvement of public transportation infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expand programs that help artists",
+    "giving the fund for cost of living",
+    "advocate for divestment from oil/gas",
+    "encourage a robust public transportation system"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living for artists",
+    "lack of robust public transportation"
+  ],
+  "solutions_proposed": [
+    "expand programs that help artists",
+    "provide funding for cost of living",
+    "advocate for divestment from oil/gas",
+    "encourage a robust public transportation system all over Austin"
+  ],
+  "cached_at": "2025-06-20T10:26:48.659118",
+  "cache_key": "60de59f7a32137a4974f427a74cb895714986fd0ef429423eca81b79be11ec9a",
+  "model": "gpt-41"
+}

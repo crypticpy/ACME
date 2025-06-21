@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased funding for grassroots initiatives",
+    "support for community organizers",
+    "expansion of small grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more small grants",
+    "community organizers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient small grant funding for community organizers"
+  ],
+  "solutions_proposed": [
+    "provide more small grants for community organizers"
+  ],
+  "cached_at": "2025-06-21T00:35:47.963755",
+  "cache_key": "5de92d8e4ff8159f33a073ad02ac9c6bfc168191f1c1b23c25fd8ff9fbb9c888",
+  "model": "gpt-41"
+}

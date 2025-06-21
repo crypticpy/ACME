@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threat to the DAC",
+    "call for preservation",
+    "community concern for cultural infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Save the DAC!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "DAC"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Save the DAC"
+  ],
+  "cached_at": "2025-06-21T02:09:58.314779",
+  "cache_key": "6cd7e6963e9eeda31623d255daff26dc6cc9c7baed0d2b1ce74996971d6e740c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "market oversaturation by low-paying gigs",
+    "lack of diverse funding sources",
+    "gentrification and rising costs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "saturation of the market",
+    "those who inadvertently undercut the market by accepting low-paying gigs",
+    "lack of funding source diversity",
+    "gentrification/cost of doing business"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "market oversaturation",
+    "undercutting by low-paying gigs",
+    "lack of diverse funding sources",
+    "gentrification",
+    "high cost of doing business"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:16.492542",
+  "cache_key": "de9326fdf4fb71d6c2dc84e7dc23015dc7b39cc1deba3040c35561e0ce16bd8b",
+  "model": "gpt-41"
+}

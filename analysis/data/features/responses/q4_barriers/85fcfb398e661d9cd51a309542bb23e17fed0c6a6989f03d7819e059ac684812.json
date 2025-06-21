@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "work schedule conflicts with event access",
+    "lack of awareness of cultural events",
+    "language barriers limiting participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "access to events due to work",
+    "lack of awareness of events",
+    "language barrier for some"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "work schedule conflicts",
+    "lack of awareness of events",
+    "language barrier"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:04.518941",
+  "cache_key": "85fcfb398e661d9cd51a309542bb23e17fed0c6a6989f03d7819e059ac684812",
+  "model": "gpt-41"
+}

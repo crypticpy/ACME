@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for cultural events and experiences",
+    "support for local audiences",
+    "promotion of cultural tourism"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities that fund events, experiences, exhibits and bodies of work",
+    "designed for local visitorship",
+    "as well as cultural tourism"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "fund events, experiences, exhibits and bodies of work for local visitorship and cultural tourism"
+  ],
+  "cached_at": "2025-06-21T00:46:44.891180",
+  "cache_key": "0105cd94070fe472d7f7e1317eef418b4c4cd481553cadf731a3f598e2038fb3",
+  "model": "gpt-41"
+}

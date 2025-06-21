@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "restriction of public funding to nonprofits",
+    "opposition to funding for-profit creative businesses",
+    "emphasis on mission-driven, public service orientation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Restrict cultural funding to arts nonprofits",
+    "For profit 'creative businesses' are not mission driven",
+    "should not receive public funding to build private companies"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "public funding being allocated to private, for-profit companies"
+  ],
+  "solutions_proposed": [
+    "Restrict cultural funding to arts nonprofits"
+  ],
+  "cached_at": "2025-06-20T01:22:25.743281",
+  "cache_key": "fa668bdd0d0e8dd847a3b36e0f48b8ec2b391d7671898eacc39c3c6f0f021947",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for professional development",
+    "support for creatives",
+    "underrepresentation of career advancement services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Any and all professional development services",
+    "for creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of professional development services for creatives"
+  ],
+  "solutions_proposed": [
+    "offer professional development services for creatives"
+  ],
+  "cached_at": "2025-06-21T02:08:59.908727",
+  "cache_key": "744e299597f048ecbda7d99bf21b6f00b5aeb468e1092fe9cf89b25253ec4b6b",
+  "model": "gpt-41"
+}

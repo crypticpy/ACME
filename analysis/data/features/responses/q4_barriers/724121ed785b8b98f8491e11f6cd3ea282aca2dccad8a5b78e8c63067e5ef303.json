@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient government support for arts organizations",
+    "financial instability of arts organizations",
+    "defunding of arts education in schools",
+    "parking as a logistical barrier"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Parking",
+    "Lack of government support that puts organizations in life support mode",
+    "Defunding of arts in schools"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking",
+    "lack of government support",
+    "defunding of arts in schools"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:39.941369",
+  "cache_key": "724121ed785b8b98f8491e11f6cd3ea282aca2dccad8a5b78e8c63067e5ef303",
+  "model": "gpt-41"
+}

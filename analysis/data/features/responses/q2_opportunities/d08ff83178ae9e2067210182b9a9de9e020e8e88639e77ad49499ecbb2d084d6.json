@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for solo performances",
+    "support for musicians and artists",
+    "performance opportunities in nontraditional venues",
+    "impact of funding on artist livelihoods"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I'd love to see more funding for solo shows",
+    "at the airport, bars, restaurants, farmers markets, etc.",
+    "That has been a huge help for me as an Austin musician / artist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for solo shows"
+  ],
+  "solutions_proposed": [
+    "more funding for solo shows at the airport, bars, restaurants, farmers markets, etc."
+  ],
+  "cached_at": "2025-06-21T00:31:31.214324",
+  "cache_key": "d08ff83178ae9e2067210182b9a9de9e020e8e88639e77ad49499ecbb2d084d6",
+  "model": "gpt-41"
+}

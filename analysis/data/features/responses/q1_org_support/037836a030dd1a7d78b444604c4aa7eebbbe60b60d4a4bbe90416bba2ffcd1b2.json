@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding assistance",
+    "organizational support",
+    "support for cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Assist with their funding needs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding needs"
+  ],
+  "solutions_proposed": [
+    "Assist with their funding needs"
+  ],
+  "cached_at": "2025-06-20T10:35:02.997161",
+  "cache_key": "037836a030dd1a7d78b444604c4aa7eebbbe60b60d4a4bbe90416bba2ffcd1b2",
+  "model": "gpt-41"
+}

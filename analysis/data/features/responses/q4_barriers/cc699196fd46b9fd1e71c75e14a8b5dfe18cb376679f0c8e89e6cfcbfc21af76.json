@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of affordable theater spaces",
+    "negative impact of city arts funding process",
+    "insufficient funding for local arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "embarrassing lack of affordable theaters",
+    "tearing down of the local arts ecosystem",
+    "city's arts funding process",
+    "lack of funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable theaters",
+    "harmful changes to city arts funding process",
+    "lack of funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:11.195357",
+  "cache_key": "cc699196fd46b9fd1e71c75e14a8b5dfe18cb376679f0c8e89e6cfcbfc21af76",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threat of venue closures",
+    "affordability of creative spaces",
+    "artists and musicians being priced out",
+    "need for community rehearsal/art spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "focus on actually keeping venues open",
+    "protecting them",
+    "keeping them affordable",
+    "musicians and artists are getting priced out",
+    "community band rehearsal / art space would make all the difference"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues closing",
+    "lack of affordable spaces",
+    "artists and musicians being priced out"
+  ],
+  "solutions_proposed": [
+    "keep venues open",
+    "protect venues",
+    "keep venues affordable",
+    "provide a community band rehearsal/art space"
+  ],
+  "cached_at": "2025-06-20T10:21:07.267706",
+  "cache_key": "892900157ea26bff4375dccffd5180878450b5e53adbe90af5633a0386dbb260",
+  "model": "gpt-41"
+}

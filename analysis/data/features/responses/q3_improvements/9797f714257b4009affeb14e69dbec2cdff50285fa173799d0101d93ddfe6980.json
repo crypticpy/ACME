@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for underserved youth in arts education",
+    "gap in AISD's ability to provide intensive arts opportunities",
+    "need for simplified application processes",
+    "importance of multi-year grants",
+    "capacity-building for small organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "IACF is working to fill a gap AISD can\u2019t fully meet",
+    "providing intensive, high-quality arts education and leadership opportunities for underserved youth",
+    "simplifying applications",
+    "offering multi-year grants",
+    "providing capacity-building resources",
+    "help smaller organizations sustain and expand their impact"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Innovative Arts Conservatory Foundation (IACF)"
+  ],
+  "barriers_identified": [
+    "complex application processes",
+    "lack of multi-year funding",
+    "insufficient capacity-building resources for small organizations"
+  ],
+  "solutions_proposed": [
+    "simplifying applications",
+    "offering multi-year grants",
+    "providing capacity-building resources"
+  ],
+  "cached_at": "2025-06-21T01:15:13.957674",
+  "cache_key": "9797f714257b4009affeb14e69dbec2cdff50285fa173799d0101d93ddfe6980",
+  "model": "gpt-41"
+}

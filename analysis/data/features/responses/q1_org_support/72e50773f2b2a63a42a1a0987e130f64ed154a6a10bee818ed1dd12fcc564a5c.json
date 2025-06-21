@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "leadership development for arts professionals",
+    "increased funding across arts disciplines"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Leadership development for arts professionals",
+    "additional funding for all different arts disciplines"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Leadership development for arts professionals",
+    "Additional funding for all different arts disciplines"
+  ],
+  "cached_at": "2025-06-20T10:39:01.113674",
+  "cache_key": "72e50773f2b2a63a42a1a0987e130f64ed154a6a10bee818ed1dd12fcc564a5c",
+  "model": "gpt-41"
+}

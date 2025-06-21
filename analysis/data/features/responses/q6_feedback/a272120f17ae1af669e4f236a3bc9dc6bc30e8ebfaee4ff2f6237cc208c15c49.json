@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "attention to minorities",
+    "representation of marginalized groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Voltear a ver a las minorias"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of attention to minorities"
+  ],
+  "solutions_proposed": [
+    "pay attention to minorities"
+  ],
+  "cached_at": "2025-06-21T02:16:46.805496",
+  "cache_key": "a272120f17ae1af669e4f236a3bc9dc6bc30e8ebfaee4ff2f6237cc208c15c49",
+  "model": "gpt-41"
+}

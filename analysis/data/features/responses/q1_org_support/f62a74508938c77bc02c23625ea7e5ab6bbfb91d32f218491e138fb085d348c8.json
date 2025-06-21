@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "public advocacy for the arts",
+    "recognition of arts' societal and economic benefits",
+    "financial support for arts ecosystem participants",
+    "challenges of sustaining arts organizations in Austin",
+    "importance of a thriving arts and culture scene"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "unapologetically and publicly advocating for the arts",
+    "societal and economic benefits",
+    "vital to our city",
+    "advocating for and helping facilitate public financial support",
+    "individuals and organizations who directly contribute to the arts ecosystem",
+    "help offset the costs of sustaining a healthy, thriving arts and culture scene",
+    "many challenges these groups face in operating in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "costs of sustaining a healthy, thriving arts and culture scene",
+    "many challenges these groups face in operating in Austin"
+  ],
+  "solutions_proposed": [
+    "unapologetically and publicly advocating for the arts",
+    "advocating for and helping facilitate public financial support for individuals and organizations in the arts ecosystem"
+  ],
+  "cached_at": "2025-06-20T10:39:57.459047",
+  "cache_key": "f62a74508938c77bc02c23625ea7e5ab6bbfb91d32f218491e138fb085d348c8",
+  "model": "gpt-41"
+}

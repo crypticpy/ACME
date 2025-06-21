@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "lack of community awareness",
+    "insufficient funding",
+    "need for community-oriented projects"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more community awareness",
+    "mor funding",
+    "create projects for the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community awareness",
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "increase community awareness",
+    "provide more funding for community projects"
+  ],
+  "cached_at": "2025-06-20T01:21:23.019550",
+  "cache_key": "26b659917cbeaa722eea9bc3ee0750aab64ed01b303d50cdf0f4e5b86407abeb",
+  "model": "gpt-41"
+}

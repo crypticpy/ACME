@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "support for live theater",
+    "resource allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "increase support for live theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase support for live theater"
+  ],
+  "cached_at": "2025-06-21T01:07:11.980540",
+  "cache_key": "614f702a70a863cf4786f344aba5af643019a02ea6af112006b17922baae314a",
+  "model": "gpt-41"
+}

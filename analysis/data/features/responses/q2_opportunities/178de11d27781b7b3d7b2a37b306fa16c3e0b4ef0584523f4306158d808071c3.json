@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of arts programming for children under 5",
+    "Positive experience with library-based performances",
+    "Desire for inclusive family/kid programming",
+    "Age gaps in current offerings",
+    "Interest in 'Mommy + Me' style activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "More kid-friendly Arts/Entertainment activities/performances",
+    "My daughter is only 1, so I am still learning what kid-friendly options there are",
+    "I took her to see a harp player at my local library (Lake Travis in Lakeway) and she LOVED IT",
+    "performances that welcome children",
+    "the DAC has a lot of great kid friendly arts programming, but it is all for older kids",
+    "Maybe something Mommy + Me related where parents are welcome to bring their younger kids",
+    "most kid friendly things are all geared toward ages 5+ so I just have this 5 year black hole"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Lake Travis Library",
+    "DAC"
+  ],
+  "barriers_identified": [
+    "Most kid friendly things are all geared toward ages 5+",
+    "Lack of programming for children under 5",
+    "Limited awareness of options for very young children"
+  ],
+  "solutions_proposed": [
+    "More performances that welcome children",
+    "Programming for parents with younger kids (e.g., Mommy + Me activities)"
+  ],
+  "cached_at": "2025-06-21T00:40:10.253541",
+  "cache_key": "178de11d27781b7b3d7b2a37b306fa16c3e0b4ef0584523f4306158d808071c3",
+  "model": "gpt-41"
+}

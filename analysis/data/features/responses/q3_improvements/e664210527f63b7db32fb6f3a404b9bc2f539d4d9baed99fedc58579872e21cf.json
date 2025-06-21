@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing public awareness of programs",
+    "prioritizing diversity in representation",
+    "support for local artists and businesses"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More awareness",
+    "Prioritize diversity in representation",
+    "local artists / businesses"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "insufficient diversity in representation"
+  ],
+  "solutions_proposed": [
+    "increase awareness",
+    "prioritize diversity in representation",
+    "prioritize local artists and businesses"
+  ],
+  "cached_at": "2025-06-21T01:10:34.242619",
+  "cache_key": "e664210527f63b7db32fb6f3a404b9bc2f539d4d9baed99fedc58579872e21cf",
+  "model": "gpt-41"
+}

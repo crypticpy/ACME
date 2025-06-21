@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanded access to city spaces for arts",
+    "artist co-working opportunities",
+    "cross-departmental partnerships for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expanded access to use of city spaces for the arts",
+    "co-working hours or spots for artists",
+    "partnerships across city departments for opportunities for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to city spaces for the arts",
+    "lack of co-working opportunities for artists",
+    "insufficient collaboration across city departments"
+  ],
+  "solutions_proposed": [
+    "expand access to city spaces for the arts",
+    "provide co-working hours or spots for artists",
+    "create partnerships across city departments for artist opportunities"
+  ],
+  "cached_at": "2025-06-21T00:27:20.901634",
+  "cache_key": "edb6cc27aec7320e146b3ba0899fab668885434ec5fd3cc24f7fc2fec3cb9c51",
+  "model": "gpt-41"
+}

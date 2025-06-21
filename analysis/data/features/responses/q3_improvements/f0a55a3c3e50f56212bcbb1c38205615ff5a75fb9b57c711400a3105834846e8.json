@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "attention to emerging creatives",
+    "inclusion of creative organizations and businesses",
+    "expansion of funding focus"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "look more into emerging creatives",
+    "creative organizations/businesses"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "look more into emerging creatives and creative organizations/businesses"
+  ],
+  "cached_at": "2025-06-21T01:17:08.890476",
+  "cache_key": "f0a55a3c3e50f56212bcbb1c38205615ff5a75fb9b57c711400a3105834846e8",
+  "model": "gpt-41"
+}

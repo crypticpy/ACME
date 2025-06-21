@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more music opportunities",
+    "interest in dance events",
+    "support for crafts",
+    "visual arts representation",
+    "emphasis on reflecting diverse communities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "music",
+    "dance",
+    "crafts",
+    "visual arts that reflects our diverse communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase music, dance, crafts, and visual arts opportunities that reflect diverse communities"
+  ],
+  "cached_at": "2025-06-21T00:30:08.541986",
+  "cache_key": "09114e27c56b39c1c12a9d5f09bba14d56841e3564ff208a740fb0f160968b8f",
+  "model": "gpt-41"
+}

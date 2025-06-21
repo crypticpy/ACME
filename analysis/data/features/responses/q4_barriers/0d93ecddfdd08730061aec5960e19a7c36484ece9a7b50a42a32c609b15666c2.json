@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of visibility and information access",
+    "exclusion of newer or independent artists",
+    "financial barriers (studio space, exhibition fees)",
+    "limited access to funding and mentorship",
+    "need for inclusive outreach",
+    "importance of open calls"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "lack of visibility and access to information",
+    "opportunities often circulate within small, established circles",
+    "hard for newer or independent artists to break in",
+    "high costs of studio space, exhibition fees",
+    "limited access to funding or mentorship",
+    "more inclusive outreach, financial support, and open calls would help bridge this gap"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility and access to information",
+    "opportunities limited to small, established circles",
+    "difficulty for newer or independent artists to access opportunities",
+    "high costs of studio space",
+    "exhibition fees",
+    "limited access to funding",
+    "limited access to mentorship"
+  ],
+  "solutions_proposed": [
+    "more inclusive outreach",
+    "financial support",
+    "open calls"
+  ],
+  "cached_at": "2025-06-21T01:49:18.154219",
+  "cache_key": "0d93ecddfdd08730061aec5960e19a7c36484ece9a7b50a42a32c609b15666c2",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased public awareness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Greater awareness"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness"
+  ],
+  "solutions_proposed": [
+    "greater awareness"
+  ],
+  "cached_at": "2025-06-21T01:05:55.545157",
+  "cache_key": "fb61b0f580b7a6c36273c174b9ed2d718100bc36911446aa683de6e9e96a3526",
+  "model": "gpt-41"
+}

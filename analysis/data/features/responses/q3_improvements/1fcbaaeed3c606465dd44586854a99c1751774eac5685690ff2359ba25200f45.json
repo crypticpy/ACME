@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "administrative burden",
+    "complexity of reporting",
+    "bureaucratic obstacles"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "simplify the reporting",
+    "minimize red tape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex reporting requirements",
+    "excessive red tape"
+  ],
+  "solutions_proposed": [
+    "simplify the reporting",
+    "minimize red tape"
+  ],
+  "cached_at": "2025-06-21T01:04:53.119810",
+  "cache_key": "1fcbaaeed3c606465dd44586854a99c1751774eac5685690ff2359ba25200f45",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accessibility of free cultural events",
+    "need for robust support and infrastructure",
+    "transportation as a barrier",
+    "funding models for free experiences",
+    "civic pride and ownership in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Free ones should be truly free",
+    "robust support and good transportation",
+    "ideas about how to fund these in a curated way",
+    "give Austin more civic pride/ownership of free experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of truly free events",
+    "insufficient support for free events",
+    "inadequate transportation to cultural opportunities"
+  ],
+  "solutions_proposed": [
+    "ensure free events are genuinely free",
+    "provide robust support for free events",
+    "improve transportation to cultural events",
+    "curated funding models to increase civic pride and ownership"
+  ],
+  "cached_at": "2025-06-21T00:26:21.861107",
+  "cache_key": "5034c629717d4eb9c1b1516fbd7c23bc0222e791f11100956104f48a91b7b500",
+  "model": "gpt-41"
+}

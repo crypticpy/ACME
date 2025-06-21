@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "recognition of ACME's efforts",
+    "perception of progress or initiation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "ACME is a good first step"
+  ],
+  "intent": "general_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:38.073947",
+  "cache_key": "05f703ce5d1cba09acc7fe28e7b476ecac00f14e89bf25445e96708454e7efe3",
+  "model": "gpt-41"
+}

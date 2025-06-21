@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for non-Hollywood community film festivals",
+    "Interest in pop-up dance and music performances",
+    "Preference for events in nontraditional or public spaces",
+    "Utilization of diverse venues across the city"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Community Film fests that aren\u2019t Hollywood geared",
+    "Pop up dance and music performances in non traditional spaces",
+    "UT campus, Domain, galleria, Diller great lawn, millennium youth complex, film studios on 51st, public parks, pedestrian bridges"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of non-Hollywood focused film festivals",
+    "Limited cultural events in nontraditional or public spaces"
+  ],
+  "solutions_proposed": [
+    "Increase community film festivals that are not Hollywood oriented",
+    "Host pop-up dance and music performances in a variety of nontraditional and public venues"
+  ],
+  "cached_at": "2025-06-21T00:33:28.863664",
+  "cache_key": "c8abe7c779795aa874b54da68f003abfef8a67b81c5ce508e12702a06d52184a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art accessibility",
+    "mobility inclusion",
+    "underrepresentation of accessible programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "public art that supports access",
+    "people with mobility issues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible public art for people with mobility issues"
+  ],
+  "solutions_proposed": [
+    "public art that supports access for people with mobility issues"
+  ],
+  "cached_at": "2025-06-21T01:56:15.785105",
+  "cache_key": "ab817aae0f0c15000ced44170a8f787c34e58cb958ca5281955ad90b2a15ff42",
+  "model": "gpt-41"
+}

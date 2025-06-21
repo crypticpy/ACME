@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist networking",
+    "community-building through festivals",
+    "collaborative arts creation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "creating more connections between artist",
+    "more smal or big festivals",
+    "create community arts together"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connections between artists"
+  ],
+  "solutions_proposed": [
+    "creating more connections between artist",
+    "more small or big festivals to create community arts together"
+  ],
+  "cached_at": "2025-06-20T10:42:36.215834",
+  "cache_key": "7088809b1131aa45b01f6484443333a99e5c25ca9aa8f7c5da38855004c3caf2",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist support for dance",
+    "affordable rehearsal space",
+    "studio access",
+    "grant funding for facilities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Artist in residence programs for dance",
+    "Rehearsal space grants for studios",
+    "offer $10 an hour rehearsal space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable rehearsal space"
+  ],
+  "solutions_proposed": [
+    "Artist in residence programs for dance",
+    "Rehearsal space grants for studios to offer $10 an hour rehearsal space"
+  ],
+  "cached_at": "2025-06-21T02:05:38.908210",
+  "cache_key": "398d6b984829a33de379d04186049891f4532dafb3b3c5747af51d12b032bd59",
+  "model": "gpt-41"
+}

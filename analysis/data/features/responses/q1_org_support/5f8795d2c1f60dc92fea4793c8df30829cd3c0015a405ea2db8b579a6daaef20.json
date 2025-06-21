@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "support for diversity, equity, and inclusion",
+    "appreciation of dynamic arts offerings",
+    "interest in arts from diverse communities",
+    "endorsement of current strategic direction"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "valuing diversity, equity and inclusion",
+    "more dynamic arts offerings throughout the City of Austin",
+    "I like this strategic direction and framing",
+    "I like exploring arts from diverse communities"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:24:44.572906",
+  "cache_key": "5f8795d2c1f60dc92fea4793c8df30829cd3c0015a405ea2db8b579a6daaef20",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for alternative sports events",
+    "preservation of Austin's unique culture",
+    "interest in non-mainstream entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Roller derby bouts",
+    "Things that keep Austin weird"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Roller derby"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More roller derby bouts",
+    "More events that keep Austin weird"
+  ],
+  "cached_at": "2025-06-21T00:41:54.162932",
+  "cache_key": "280dd8688d63c0398e74701b40e5b2e7671d8b81a5f438275353ca7ffb381b70",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of limited funding",
+    "risk of displacement for organizations",
+    "support for Black and Brown creatives",
+    "focus on smaller organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "orgs that need it most",
+    "most at risk of displacement",
+    "smaller orgs led by Black and Brown creatives",
+    "primarily support Black and Brown artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "risk of displacement",
+    "limited grant funding"
+  ],
+  "solutions_proposed": [
+    "Provide what limited grant funding you have to the orgs that need it most and are most at risk of displacement, such as smaller orgs led by Black and Brown creatives and/or primarily support Black and Brown artists"
+  ],
+  "cached_at": "2025-06-20T10:21:29.198069",
+  "cache_key": "4f9cee2c6206ae7e1dcbdf05a6b64a304ae9b5cd464126e7cd43c5534db8e85f",
+  "model": "gpt-41"
+}

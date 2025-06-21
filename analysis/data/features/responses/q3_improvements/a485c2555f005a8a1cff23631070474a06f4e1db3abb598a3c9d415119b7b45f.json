@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived bias in grant review process",
+    "lack of reviewer impartiality",
+    "subjectivity in evaluation criteria",
+    "requests for transparency and fairness",
+    "trust in institutional processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "deep concern regarding the review process and the panel members",
+    "the review process extremely biased and reveals a significant lack of impartiality",
+    "reviewers assessing our application claimed there was a lack of information, despite the fact that the requested details were clearly and explicitly provided",
+    "did not meet her personal 'holistic' requirements",
+    "raises serious questions about the objectivity and fairness of the evaluation process",
+    "subjective assessment not only deviates from the established guidelines",
+    "formally requesting that our application undergoes a re-evaluation by a panel of unbiased reviewers",
+    "imperative that the review process be conducted in a fair and transparent manner",
+    "restore trust in its processes and provide equitable opportunities for all applicants"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Cultural Funding Team at the City of Austin Economic Development Department (Cultural Arts Division)",
+    "Russian Cultural Center in Austin"
+  ],
+  "barriers_identified": [
+    "biased and subjective review process",
+    "lack of impartiality among panel members",
+    "deviation from established grant evaluation guidelines"
+  ],
+  "solutions_proposed": [
+    "re-evaluation by a panel of unbiased reviewers",
+    "adherence to official grant requirements",
+    "conducting the review process in a fair and transparent manner"
+  ],
+  "cached_at": "2025-06-21T01:02:54.229424",
+  "cache_key": "a485c2555f005a8a1cff23631070474a06f4e1db3abb598a3c9d415119b7b45f",
+  "model": "gpt-41"
+}

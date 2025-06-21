@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more literary events",
+    "arts accessibility in neighborhood parks",
+    "bringing arts directly to communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More literary events",
+    "more events in neighborhood parks",
+    "bring the arts to the people"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to arts in neighborhoods"
+  ],
+  "solutions_proposed": [
+    "increase literary events",
+    "host arts events in neighborhood parks",
+    "bring the arts to the people"
+  ],
+  "cached_at": "2025-06-21T00:47:13.179868",
+  "cache_key": "82935611e43298faadb49498ed575af89fa9df62fb8701b8c5c4952924d99e00",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic pressures on venues",
+    "loss of cultural spaces",
+    "impact of rising costs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "rising costs",
+    "putting good venues out of business"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs",
+    "venues going out of business"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:25.737197",
+  "cache_key": "f080867a10f1217ddf4e3e52d6574aa2a78f4d151a28977477d8829b0293c68f",
+  "model": "gpt-41"
+}

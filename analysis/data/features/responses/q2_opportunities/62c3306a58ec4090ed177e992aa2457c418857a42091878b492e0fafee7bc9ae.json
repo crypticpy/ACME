@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community-wide events",
+    "free access to cultural opportunities",
+    "informative programming",
+    "inclusivity in arts and entertainment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "community events for all",
+    "free",
+    "informative",
+    "inclusive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free opportunities",
+    "limited inclusivity"
+  ],
+  "solutions_proposed": [
+    "offer more community events for all",
+    "ensure events are free",
+    "make events informative",
+    "prioritize inclusivity"
+  ],
+  "cached_at": "2025-06-21T00:45:58.590199",
+  "cache_key": "62c3306a58ec4090ed177e992aa2457c418857a42091878b492e0fafee7bc9ae",
+  "model": "gpt-41"
+}

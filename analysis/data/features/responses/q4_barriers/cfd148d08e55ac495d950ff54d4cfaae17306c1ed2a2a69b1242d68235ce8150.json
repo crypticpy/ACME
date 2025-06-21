@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "isolation of visual artists",
+    "expense of studio space",
+    "gatekeeping and access barriers",
+    "contrast between visual art and music communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "used to working alone",
+    "expense of studio space",
+    "apprehension of approaching gatekeepers",
+    "visual artist",
+    "musician, which generally a more community-oriented endeavor"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "isolation as a visual artist",
+    "high cost of studio space",
+    "apprehension towards gatekeepers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:51.751832",
+  "cache_key": "cfd148d08e55ac495d950ff54d4cfaae17306c1ed2a2a69b1242d68235ce8150",
+  "model": "gpt-41"
+}

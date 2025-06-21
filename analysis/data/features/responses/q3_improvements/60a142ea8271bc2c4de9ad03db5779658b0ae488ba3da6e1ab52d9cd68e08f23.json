@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "program simplification",
+    "equity for marginalized communities",
+    "transparency and accountability",
+    "support for long-term infrastructure",
+    "funding for both artists and venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Simplify programs",
+    "offer guidance",
+    "build flexibility",
+    "Maintain intentional focus on marginalized communities",
+    "Share data, metrics, and clear decision-making processes",
+    "Fund both people and places\u2014artists and the venues/spaces they fill",
+    "sustains and strengthens its diverse cultural ecosystems"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of programs",
+    "lack of guidance",
+    "inflexibility",
+    "insufficient equity focus",
+    "lack of transparency and accountability",
+    "insufficient support for infrastructure"
+  ],
+  "solutions_proposed": [
+    "Simplify programs",
+    "offer guidance",
+    "build flexibility",
+    "Maintain intentional focus on marginalized communities\u2014through both funding design and panel selection",
+    "Share data, metrics, and clear decision-making processes",
+    "Fund both people and places\u2014artists and the venues/spaces they fill"
+  ],
+  "cached_at": "2025-06-21T01:18:59.401190",
+  "cache_key": "60a142ea8271bc2c4de9ad03db5779658b0ae488ba3da6e1ab52d9cd68e08f23",
+  "model": "gpt-41"
+}

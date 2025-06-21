@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for multicultural events",
+    "celebration of cultural diversity",
+    "interest in traditional celebrations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more events that celebrate various cultures and traditions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more events that celebrate various cultures and traditions"
+  ],
+  "cached_at": "2025-06-21T00:46:16.980567",
+  "cache_key": "70a59a75fdc8ee7572142f14762f4b0e979628fd65c8d72e961de422cfe9bb49",
+  "model": "gpt-41"
+}

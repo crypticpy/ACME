@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding free cultural events in public spaces",
+    "geographic equity in programming (beyond auditorium shores)",
+    "children's access to theater and arts",
+    "citywide access to art education",
+    "mentorship for cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more free shows in parks",
+    "not just auditorium shores",
+    "a summer program for children's theater",
+    "art classes city wide",
+    "a mentor program"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited locations for free shows",
+    "lack of children's theater programming",
+    "insufficient citywide art classes",
+    "absence of mentorship opportunities"
+  ],
+  "solutions_proposed": [
+    "offer more free shows in parks",
+    "expand programming beyond auditorium shores",
+    "create a summer program for children's theater",
+    "provide art classes citywide",
+    "establish a mentor program"
+  ],
+  "cached_at": "2025-06-20T10:37:20.729203",
+  "cache_key": "aead9f9370b486e3dbd5bb98b53081a51815e16a4e801bc2decf3d8e051ad4e5",
+  "model": "gpt-41"
+}

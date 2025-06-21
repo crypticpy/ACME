@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "eco art opportunities",
+    "environmental focus in arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More eco art opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More eco art opportunities"
+  ],
+  "cached_at": "2025-06-21T00:31:28.935945",
+  "cache_key": "df200636e64aa15d0945ce3adab6c99a315d787fb64c46da84ed674b69e36f93",
+  "model": "gpt-41"
+}

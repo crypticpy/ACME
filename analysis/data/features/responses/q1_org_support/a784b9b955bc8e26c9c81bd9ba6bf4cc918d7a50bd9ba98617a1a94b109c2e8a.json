@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency about supported organizations",
+    "alignment of organizational goals with community goals",
+    "need for accessible information for decision-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I don\u2019t know which organizations ACME supports",
+    "how the it\u2019s goals align with those organizations",
+    "Information of that would be valuable to me",
+    "as I make decisions for my own businesses",
+    "hopefully align with the greater community goals"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about ACME's supported organizations",
+    "unclear alignment between ACME and organizations' goals"
+  ],
+  "solutions_proposed": [
+    "provide information about which organizations ACME supports and how its goals align with those organizations"
+  ],
+  "cached_at": "2025-06-20T01:18:47.992762",
+  "cache_key": "a784b9b955bc8e26c9c81bd9ba6bf4cc918d7a50bd9ba98617a1a94b109c2e8a",
+  "model": "gpt-41"
+}

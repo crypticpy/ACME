@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable spaces",
+    "cost barriers to participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Affordable spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordable spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:58.066753",
+  "cache_key": "215120a45bf205b1ebf1fb11827e796cb0e1b401f66de0e036da841f4d5ef24b",
+  "model": "gpt-41"
+}

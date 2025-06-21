@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "audience development",
+    "board development",
+    "funding allocation priorities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding needs to support audience development",
+    "Funding needs to support board development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Funding should support audience development",
+    "Funding should support board development"
+  ],
+  "cached_at": "2025-06-21T01:06:58.799786",
+  "cache_key": "15ce4a603c3bd5e64648c714cd9aa92d734570d2ad803fe2bafd69139051e472",
+  "model": "gpt-41"
+}

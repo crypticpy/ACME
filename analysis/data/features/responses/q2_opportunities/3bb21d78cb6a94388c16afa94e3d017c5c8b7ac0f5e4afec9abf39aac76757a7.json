@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "existing opportunities are sufficient for some",
+    "need for higher quality events",
+    "focus on underserved communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lots of opportunities",
+    "more quality events",
+    "for underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of quality events for underserved communities"
+  ],
+  "solutions_proposed": [
+    "more quality events for underserved communities"
+  ],
+  "cached_at": "2025-06-21T00:39:49.324969",
+  "cache_key": "3bb21d78cb6a94388c16afa94e3d017c5c8b7ac0f5e4afec9abf39aac76757a7",
+  "model": "gpt-41"
+}

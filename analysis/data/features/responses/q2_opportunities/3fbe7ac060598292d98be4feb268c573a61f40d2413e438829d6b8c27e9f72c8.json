@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for outdoor cultural spaces",
+    "interest in live music experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Outdoor venues for music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Outdoor venues for music"
+  ],
+  "cached_at": "2025-06-21T00:49:22.695979",
+  "cache_key": "3fbe7ac060598292d98be4feb268c573a61f40d2413e438829d6b8c27e9f72c8",
+  "model": "gpt-41"
+}

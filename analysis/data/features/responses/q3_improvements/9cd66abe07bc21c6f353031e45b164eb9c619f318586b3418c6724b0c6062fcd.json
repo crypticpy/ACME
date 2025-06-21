@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for more program information",
+    "clarity about grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More information about each program and grant"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about programs and grants"
+  ],
+  "solutions_proposed": [
+    "provide more information about each program and grant"
+  ],
+  "cached_at": "2025-06-21T01:02:44.710267",
+  "cache_key": "9cd66abe07bc21c6f353031e45b164eb9c619f318586b3418c6724b0c6062fcd",
+  "model": "gpt-41"
+}

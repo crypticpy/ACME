@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased financial support for artists",
+    "access to rehearsal and performance times",
+    "mentorship for emerging artists",
+    "health and medical support for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More money to support artists",
+    "more time available for evening rehearsals and performances",
+    "Mentor programs for upcoming artists",
+    "Medical support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for artists",
+    "limited access to rehearsal and performance times",
+    "lack of mentorship opportunities",
+    "lack of medical support"
+  ],
+  "solutions_proposed": [
+    "increase funding for artists",
+    "provide more evening rehearsal and performance times",
+    "establish mentor programs for upcoming artists",
+    "offer medical support for artists"
+  ],
+  "cached_at": "2025-06-21T01:02:58.396427",
+  "cache_key": "60fa35d762cf20a87a8f5c75fa5352ddef052bed0f118cc9d591bf1a7411ac66",
+  "model": "gpt-41"
+}

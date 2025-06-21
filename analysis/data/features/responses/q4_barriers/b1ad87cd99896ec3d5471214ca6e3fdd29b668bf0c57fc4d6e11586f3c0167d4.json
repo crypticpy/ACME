@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient resources",
+    "lack of awareness of support/services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of resources",
+    "lack of awareness"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources",
+    "lack of awareness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:41.482817",
+  "cache_key": "b1ad87cd99896ec3d5471214ca6e3fdd29b668bf0c57fc4d6e11586f3c0167d4",
+  "model": "gpt-41"
+}

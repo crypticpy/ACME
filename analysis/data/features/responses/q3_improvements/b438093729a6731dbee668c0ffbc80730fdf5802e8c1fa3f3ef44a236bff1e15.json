@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased number of cultural funding programs",
+    "affordability in cultural access",
+    "equity in funding distribution",
+    "diversity and inclusion in programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "MORE cultural funding programs",
+    "more affordability",
+    "equity",
+    "diversity",
+    "inclusion"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordability",
+    "insufficient equity",
+    "lack of diversity",
+    "lack of inclusion"
+  ],
+  "solutions_proposed": [
+    "increase the number of cultural funding programs",
+    "improve affordability",
+    "enhance equity",
+    "promote diversity and inclusion"
+  ],
+  "cached_at": "2025-06-21T01:07:37.804348",
+  "cache_key": "b438093729a6731dbee668c0ffbc80730fdf5802e8c1fa3f3ef44a236bff1e15",
+  "model": "gpt-41"
+}

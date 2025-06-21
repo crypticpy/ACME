@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for Iranian cultural representation",
+    "interest in seasonal or traditional events",
+    "multicultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Iranian seasonal events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more Iranian seasonal events"
+  ],
+  "cached_at": "2025-06-21T00:52:44.857713",
+  "cache_key": "ba6a7e298e8d5cdf97f028303e6014d40971ac68a0151139c532649acc100c6c",
+  "model": "gpt-41"
+}

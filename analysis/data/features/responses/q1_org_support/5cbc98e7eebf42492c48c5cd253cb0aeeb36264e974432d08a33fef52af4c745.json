@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "strategic ecosystem development",
+    "network building tools",
+    "capacity building",
+    "collaboration versus individual investment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Focus on strategic ecosystem",
+    "Building investments",
+    "Invest in network building tools",
+    "capacity building and collaboration",
+    "as much as investing in individual organizations and spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Invest in network building tools",
+    "Invest in capacity building",
+    "Invest in collaboration",
+    "Balance investment between ecosystem-level supports and individual organizations/spaces"
+  ],
+  "cached_at": "2025-06-20T10:26:30.840370",
+  "cache_key": "5cbc98e7eebf42492c48c5cd253cb0aeeb36264e974432d08a33fef52af4c745",
+  "model": "gpt-41"
+}

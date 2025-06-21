@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "direct funding for artists",
+    "insufficient support for individual artists and art groups",
+    "critique of funding intermediaries (event organizers, agencies, nonprofits)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Direct funding for artists and art projects",
+    "more support being offered directly to artists and art groups",
+    "not just for 'event organizers' or 3rd party creative agencies or non profits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding routed through event organizers, agencies, or nonprofits instead of directly to artists"
+  ],
+  "solutions_proposed": [
+    "offer more support directly to artists and art groups"
+  ],
+  "cached_at": "2025-06-21T00:39:06.857644",
+  "cache_key": "a15b6c4c3c229a56681d1c0acb9391b257c2230b780d4a5be32f7d8941fe48ed",
+  "model": "gpt-41"
+}

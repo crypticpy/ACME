@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "collaboration",
+    "partnership between organizations and leaders"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Working together"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Working together"
+  ],
+  "cached_at": "2025-06-20T10:37:35.859722",
+  "cache_key": "e6461c0a443b8be42a783d64b6b12dab837d79bf626d30329b6910a948548876",
+  "model": "gpt-41"
+}

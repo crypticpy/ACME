@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritizing funding for small and mid-sized organizations",
+    "support for local artists and communities",
+    "addressing economic disparities in arts funding",
+    "long-term and professional opportunities for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "focus on funding for small and mid-sized arts organizations",
+    "create professional and long-term opportunities for local artists",
+    "local communities that don't have the same economic opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of economic opportunities for certain local communities"
+  ],
+  "solutions_proposed": [
+    "focus funding on small and mid-sized arts organizations and their leaders",
+    "support organizations creating professional and long-term opportunities for local artists and communities with fewer economic opportunities"
+  ],
+  "cached_at": "2025-06-20T01:18:27.229812",
+  "cache_key": "4ed0699bf90fb13fc09d99efcb0f7d7a7cc99773db4416f15d21f1e6302a11ad",
+  "model": "gpt-41"
+}

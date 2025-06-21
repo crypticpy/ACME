@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "formal recognition of musicians",
+    "financial support for basic needs",
+    "parking access for working musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Registration of Austin Full time Musicans like ID",
+    "discounts and get Parker permit for downtown parking while working",
+    "credit card with monthly amounts to help for food and rent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of formal identification for musicians",
+    "difficulty accessing affordable parking while working downtown",
+    "insufficient financial support for food and rent"
+  ],
+  "solutions_proposed": [
+    "Registration of Austin full time musicians with an ID",
+    "discounts and parking permit for downtown parking while working",
+    "credit card with monthly amounts to help for food and rent"
+  ],
+  "cached_at": "2025-06-21T01:04:07.807156",
+  "cache_key": "119b929800a4a463f8e44c69cd0a43803545d52f5ac96d4785ec8fc4c7824140",
+  "model": "gpt-41"
+}

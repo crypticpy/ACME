@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased access to free theater and dance",
+    "enhanced arts education for all ages",
+    "importance of teaching for artists' income"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More free theater and dance",
+    "greatly enhanced arts education programs for both children and adults",
+    "Teaching is a key part of most artists incomes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free theater and dance opportunities",
+    "insufficient arts education programs"
+  ],
+  "solutions_proposed": [
+    "provide more free theater and dance",
+    "greatly enhance arts education programs for both children and adults"
+  ],
+  "cached_at": "2025-06-21T00:32:32.114292",
+  "cache_key": "6a0285afca88518c5bcdf9bd4af5bec67cf9d4916ac417ec77d3834c50f8b366",
+  "model": "gpt-41"
+}

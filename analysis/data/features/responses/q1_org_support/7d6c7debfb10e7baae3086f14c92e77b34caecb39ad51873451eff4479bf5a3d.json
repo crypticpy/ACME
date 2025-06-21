@@ -1,0 +1,50 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration over competition",
+    "support for grassroots/BIPOC/queer/women-led initiatives",
+    "operational resources and accessible funding",
+    "platforms for visibility",
+    "resource redistribution",
+    "relationship-building within the arts community",
+    "recognizing and uplifting existing successful efforts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "focus on collaboration over competition",
+    "directly supporting the grassroots cultural leaders and organizations",
+    "especially BIPOC-, queer-, and women-led initiatives",
+    "offering operational resources, accessible funding, and platforms for visibility",
+    "uplift what\u2019s already working",
+    "building real relationships",
+    "redistributing resources",
+    "serving as a connector across the arts community",
+    "invest in those who\u2019ve built the foundation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition over collaboration",
+    "lack of direct support for grassroots/BIPOC/queer/women-led initiatives",
+    "insufficient operational resources and accessible funding",
+    "lack of visibility platforms"
+  ],
+  "solutions_proposed": [
+    "focus on collaboration over competition",
+    "direct support for grassroots and underrepresented leaders/organizations",
+    "offer operational resources",
+    "provide accessible funding",
+    "create platforms for visibility",
+    "build real relationships within the arts community",
+    "redistribute resources",
+    "serve as a connector rather than creating new systems",
+    "uplift existing successful efforts"
+  ],
+  "cached_at": "2025-06-20T10:38:49.471933",
+  "cache_key": "7d6c7debfb10e7baae3086f14c92e77b34caecb39ad51873451eff4479bf5a3d",
+  "model": "gpt-41"
+}

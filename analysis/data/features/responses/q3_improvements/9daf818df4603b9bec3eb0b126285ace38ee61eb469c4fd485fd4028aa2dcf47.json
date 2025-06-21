@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Unpredictable and late funding timelines",
+    "Skipped or canceled funding cycles",
+    "Barriers for individual visual artists",
+    "Mandatory community engagement requirements",
+    "Lack of direct support for artists' needs (equipment, disaster prep)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "Timelines for Nexus are VERY difficult",
+    "you don't know if you have funding for an event until right before",
+    "makes it impossible to plan",
+    "The cycle I planned to apply for was also skipped last year",
+    "It still seems really hard to apply for anything as an individual visual artist",
+    "Everything also has to include some sort of community aspect",
+    "there should be some funding to just help artists, such as able to buy equipment, prep for disasters (like the CERF+ grant)"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "CERF+ grant"
+  ],
+  "barriers_identified": [
+    "Unpredictable funding notification timelines",
+    "Skipped or unannounced application cycles",
+    "Difficulty applying as an individual visual artist",
+    "Requirement for community aspect in all grants"
+  ],
+  "solutions_proposed": [
+    "Provide funding that helps artists directly (e.g., equipment, disaster prep)",
+    "Offer grants that do not require a community aspect"
+  ],
+  "cached_at": "2025-06-21T01:10:32.818295",
+  "cache_key": "9daf818df4603b9bec3eb0b126285ace38ee61eb469c4fd485fd4028aa2dcf47",
+  "model": "gpt-41"
+}

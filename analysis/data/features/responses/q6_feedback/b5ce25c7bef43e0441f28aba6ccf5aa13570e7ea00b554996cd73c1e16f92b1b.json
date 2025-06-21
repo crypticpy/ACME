@@ -1,0 +1,48 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Exclusion of disabled individuals from cultural life",
+    "Need for accessibility beyond physical accommodations",
+    "Representation and leadership of disabled artists",
+    "Structural barriers in arts institutions",
+    "Importance of partnerships with disability-led organizations",
+    "Call for systemic change in policy and practice"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "expand its definition of 'serving the public' to explicitly include disabled individuals",
+    "access should not be limited to ramps and captions",
+    "disabled artists deserve not only to be welcomed, but to be centered",
+    "prioritize building long-term, trust-based partnerships with disability-led organizations",
+    "ensure that accessibility is baked into the design of any new program or space\u2014not retrofitted afterward",
+    "examine the policies and practices across arts venues and institutions in Austin that continue to exclude disabled people",
+    "equity in the arts won\u2019t happen through outreach alone\u2014it requires structural change"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Exclusion of disabled individuals with complex support needs",
+    "Limited definition of accessibility (focused only on ramps and captions)",
+    "Lack of representation and leadership opportunities for disabled artists",
+    "Cost barriers",
+    "Inflexible behavior expectations",
+    "Lack of staff training",
+    "Policies and practices that exclude disabled people"
+  ],
+  "solutions_proposed": [
+    "Expand definition of 'serving the public' to explicitly include disabled individuals",
+    "Ensure accessibility extends to programming, leadership, funding, and representation",
+    "Center disabled artists as creators, collaborators, and contributors",
+    "Build long-term, trust-based partnerships with disability-led organizations and communities",
+    "Integrate accessibility into the initial design of programs and spaces",
+    "Examine and change exclusionary policies and practices in arts venues and institutions",
+    "Pursue structural change rather than relying solely on outreach"
+  ],
+  "cached_at": "2025-06-21T02:22:14.754921",
+  "cache_key": "b5ce25c7bef43e0441f28aba6ccf5aa13570e7ea00b554996cd73c1e16f92b1b",
+  "model": "gpt-41"
+}

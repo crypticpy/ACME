@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency for non-traditional arts groups",
+    "racial and cultural inequity in funding",
+    "need for language accessibility",
+    "comparison to other cities' diversity in funding",
+    "underrepresentation of marginalized voices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "be more transparent in your communication to artists outside of the 'traditional' (coded white) arts groups",
+    "language accessibility would also be key",
+    "our art community isn't as diverse in funding as cities like Houston and Dallas that elevate voices",
+    "the current funding numbers speak VOLUMES about this inequity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency for non-traditional arts groups",
+    "language inaccessibility",
+    "racial and cultural inequity in funding"
+  ],
+  "solutions_proposed": [
+    "increase transparency in communication to non-traditional arts groups",
+    "improve language accessibility"
+  ],
+  "cached_at": "2025-06-21T01:03:59.576972",
+  "cache_key": "0608a7f5f9b0eed6964c9463e4dfe56b71b1b9aec9740c63dbbd2e4a96e3cfa2",
+  "model": "gpt-41"
+}

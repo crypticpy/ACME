@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of time as a barrier",
+    "insufficient funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Time",
+    "funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Time",
+    "funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:02.782179",
+  "cache_key": "d3f7e4e81aa00760c5a249f997264e9dcb8525a50037efc1dec4e67e5e3f68fc",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "financial barriers as primary obstacle",
+    "political threats to cultural communities",
+    "impact of state and federal administration on access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Money. At the core of everything, it is money.",
+    "communities are facing direct, overt threat from both federal and state political administration's here in Texas"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of money",
+    "direct, overt threat from federal and state political administrations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:53.259153",
+  "cache_key": "1b4fcbfe6e9e35757c856d0e707531e761b1f4e0aa93ee8b68a646111b6a939f",
+  "model": "gpt-41"
+}

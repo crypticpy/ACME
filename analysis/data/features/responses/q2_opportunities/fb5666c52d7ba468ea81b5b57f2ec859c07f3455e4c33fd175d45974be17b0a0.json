@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural venues",
+    "parking accessibility for entertainment",
+    "support for service industry employees"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "affordable rent for venues",
+    "FREE PARKING DOWNTOWN FOR ENTERTAINMENT AND SERVICE INDUSTRY EMPLOYEES"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent for venues",
+    "lack of free parking downtown"
+  ],
+  "solutions_proposed": [
+    "affordable rent for venues",
+    "free parking downtown for entertainment and service industry employees"
+  ],
+  "cached_at": "2025-06-21T00:38:41.105540",
+  "cache_key": "fb5666c52d7ba468ea81b5b57f2ec859c07f3455e4c33fd175d45974be17b0a0",
+  "model": "gpt-41"
+}

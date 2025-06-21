@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers",
+    "time constraints"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "money",
+    "time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "money",
+    "time"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:02.036654",
+  "cache_key": "d18f07db831c43b4d0f05ee1f7b192246d61d788aee71140b287ce933b90f9cc",
+  "model": "gpt-41"
+}

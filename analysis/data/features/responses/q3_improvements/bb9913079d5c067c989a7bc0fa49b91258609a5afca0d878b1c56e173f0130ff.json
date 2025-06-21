@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "evaluation criteria for funding applications",
+    "artistic quality versus DEI priorities",
+    "perceived imbalance in scoring system"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "evaluation of artistic quality in the application",
+    "I certainly value support of DEI initiatives",
+    "currently there is little to no points awarded for artistic quality"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "little to no points awarded for artistic quality"
+  ],
+  "solutions_proposed": [
+    "increase evaluation of artistic quality in the application process"
+  ],
+  "cached_at": "2025-06-21T00:55:01.964802",
+  "cache_key": "bb9913079d5c067c989a7bc0fa49b91258609a5afca0d878b1c56e173f0130ff",
+  "model": "gpt-41"
+}

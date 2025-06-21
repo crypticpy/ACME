@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic precarity of artists",
+    "time constraints due to multiple jobs",
+    "disconnect between city services and artist needs",
+    "artist burnout"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "very few people can afford to be artists in this community",
+    "forced to have day jobs to make ends meet",
+    "very little time for artists to access programs",
+    "disconnect between city staff HAVING services to help us and us actually being able to move them",
+    "Burnout is real"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial instability for artists",
+    "need to work day jobs",
+    "lack of time to access support programs",
+    "disconnect between available services and artists' ability to use them",
+    "burnout"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:59.370691",
+  "cache_key": "a2080514bd9418ac284e9131ced3a8e8690be7b1470ab09983ade2f0c00e6b96",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for women artists",
+    "age inclusivity (40+)",
+    "support for mothers and caregivers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more programs for women artists",
+    "especially 40+",
+    "mothers/caregivers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of women artists 40+",
+    "lack of programs for mothers/caregivers"
+  ],
+  "solutions_proposed": [
+    "offer more programs for women artists, especially 40+ and mothers/caregivers"
+  ],
+  "cached_at": "2025-06-21T01:52:11.332990",
+  "cache_key": "1741d37074fde8fc3d6da797d748f0c1a00b288113cbc0a6aa61e87632fffac5",
+  "model": "gpt-41"
+}

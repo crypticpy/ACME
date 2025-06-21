@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural arts",
+    "financial barriers to participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more affordability",
+    "for all cultural arts and entertainment opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordability"
+  ],
+  "solutions_proposed": [
+    "increase affordability for all cultural arts and entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:38:12.296816",
+  "cache_key": "732a726b46a9e6ecda60eb10caffc6673cfb405308c9115080b5873152f3f87c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "wellness-focused arts",
+    "mental health support through culture",
+    "community building via arts",
+    "educational arts opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "support wellness",
+    "mental health",
+    "community building",
+    "education"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase arts and entertainment that support wellness",
+    "Increase arts and entertainment that support mental health",
+    "Increase arts and entertainment that foster community building",
+    "Increase arts and entertainment that provide education"
+  ],
+  "cached_at": "2025-06-21T00:41:45.231586",
+  "cache_key": "2cca7fabaf7c7d1f357a95a4787847e03819f935a747ad53e5e7bb84faa88f3d",
+  "model": "gpt-41"
+}

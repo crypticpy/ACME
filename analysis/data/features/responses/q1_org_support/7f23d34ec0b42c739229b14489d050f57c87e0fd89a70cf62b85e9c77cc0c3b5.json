@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased public awareness",
+    "community engagement with organizations",
+    "visibility of cultural organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Better public awareness that the organizations exist",
+    "how the community can engage with them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness of organizations",
+    "unclear pathways for community engagement"
+  ],
+  "solutions_proposed": [
+    "increase public awareness of organizations",
+    "inform the community how to engage with organizations"
+  ],
+  "cached_at": "2025-06-20T10:23:06.299675",
+  "cache_key": "7f23d34ec0b42c739229b14489d050f57c87e0fd89a70cf62b85e9c77cc0c3b5",
+  "model": "gpt-41"
+}

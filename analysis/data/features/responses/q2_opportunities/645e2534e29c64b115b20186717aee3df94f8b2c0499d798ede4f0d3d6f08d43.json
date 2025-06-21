@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Recognition of cultural producers' achievements",
+    "Burnout among cultural producers",
+    "Financial precarity in the cultural sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cultural producers are already making great things",
+    "everyone I know is on the verge of energetic burnout",
+    "monetary collapse"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "energetic burnout",
+    "monetary collapse"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:25:05.444328",
+  "cache_key": "645e2534e29c64b115b20186717aee3df94f8b2c0499d798ede4f0d3d6f08d43",
+  "model": "gpt-41"
+}

@@ -1,0 +1,217 @@
+{
+  "analysis_timestamp": "2025-06-19T09:25:10.268609",
+  "basic_counts": {
+    "survey_responses": {
+      "count": 1187,
+      "completed": "1187",
+      "completion_rate": 1.0,
+      "confidence_interval": null,
+      "data_type": "census"
+    },
+    "focus_groups": {
+      "sessions": 17,
+      "total_entries": 362,
+      "estimated_participants": {
+        "estimated": 136,
+        "range_low": 102,
+        "range_high": 170,
+        "confidence_note": "Based on standard focus group sizes"
+      },
+      "confidence_level": 0.9
+    },
+    "one_on_ones": {
+      "count": 224,
+      "unique_sources": 17,
+      "date_range": {
+        "start": "1970-01-01",
+        "end": "2025-06-24",
+        "span_days": 20262
+      }
+    },
+    "total_engagement": {
+      "survey_responses": 1187,
+      "qualitative_feedback": 586,
+      "total": 1773,
+      "unique_touchpoints": 3
+    }
+  },
+  "share_of_voice": {
+    "categories": {
+      "creative": {
+        "count": 803,
+        "percentage": 67.64953664700927,
+        "confidence_interval": {
+          "lower": 64.93497857653536,
+          "upper": 70.25022570875556,
+          "level": 0.95
+        }
+      },
+      "community": {
+        "count": 189,
+        "percentage": 15.922493681550126,
+        "confidence_interval": {
+          "lower": 13.951416002567797,
+          "upper": 18.113428229412225,
+          "level": 0.95
+        }
+      },
+      "organizational": {
+        "count": 144,
+        "percentage": 12.131423757371525,
+        "confidence_interval": {
+          "lower": 10.395203353910214,
+          "upper": 14.111959766670799,
+          "level": 0.95
+        }
+      },
+      "other": {
+        "count": 48,
+        "percentage": 4.043807919123841,
+        "confidence_interval": {
+          "lower": 3.063474923730959,
+          "upper": 5.320635159198838,
+          "level": 0.95
+        }
+      },
+      "uncategorized": {
+        "count": 3,
+        "percentage": 0.2527379949452401,
+        "confidence_interval": {
+          "lower": 0.08599014035589378,
+          "upper": 0.7404388311748966,
+          "level": 0.95
+        }
+      }
+    },
+    "summary": {
+      "total_responses": 1187,
+      "uncategorized": "0"
+    }
+  },
+  "geographic_distribution": {
+    "total_responses": 1187,
+    "valid_zip_codes": 1151,
+    "unique_zip_codes": 83,
+    "top_10_zip_codes": {
+      "78745": 96,
+      "78704": 89,
+      "78702": 73,
+      "78723": 70,
+      "78751": 48,
+      "78748": 43,
+      "78741": 42,
+      "78721": 34,
+      "78759": 33,
+      "78757": 30
+    },
+    "geographic_concentration": {
+      "top_5_percentage": 32.667245873153774,
+      "gini_coefficient": 0.6280552269896267
+    },
+    "coverage": {
+      "austin_proper": 1019,
+      "surrounding_areas": 132
+    }
+  },
+  "engagement_metrics": {
+    "focus_group_interest": {
+      "yes": 517,
+      "maybe": 0,
+      "no": 198,
+      "participation_potential": 517.0
+    },
+    "email_signup": {
+      "interested": 0,
+      "percentage": 0.0
+    },
+    "response_quality": {
+      "avg_response_length": 42.734496458801175,
+      "median_response_length": 10.0,
+      "high_engagement_responses": 918
+    }
+  },
+  "data_quality_metrics": {
+    "survey": {
+      "total_records": 1187,
+      "complete_records": 0,
+      "completeness_rate": 0.0,
+      "missing_data_by_column": {
+        "id": 0,
+        "start_time": 0,
+        "completion_time": 0,
+        "email": 0,
+        "name": 1187,
+        "language": 0,
+        "how_would_you_describe_your_role_or_relationship_with_austins_creative_community_select_all_that_apply": 3,
+        "which_types_of_arts_and_culture_experiences_do_you_most_enjoy_select_all_that_apply": 3,
+        "which_austinbased_venues_or_cultural_spaces_do_you_frequently_visit_for_arts_culture_and_entertainment": 135,
+        "how_do_you_typically_learn_about_arts_music_and_cultural_events_in_austin_select_all_that_apply": 7,
+        "what_is_your_preferred_language_for_receiving_information_and_participating_in_discussions": 6,
+        "what_zip_code_do_you_reside_in": 30,
+        "what_austin_city_council_district_do_you_live_in": 53,
+        "cultural_funding_grant_applicants_are_eligible_to_apply_within_austins_extraterritorial_jurisdiction_do_you_live_within_any_of_the_counties_below": 385,
+        "how_often_do_you_attend_or_participate_in_arts_cultural_or_entertainment_events_in_austin": 5,
+        "how_important_is_it_to_you_that_austin_preserves_and_supports_its_local_arts_culture_music_scene_and_historic_character": 5,
+        "do_you_feel_that_all_austin_residents_have_equal_access_to_arts_cultural_music_and_entertainment_opportunities": 6,
+        "what_barriers_if_any_prevent_you_from_participating_in_arts_and_culture_events_in_austin_select_all_that_apply": 54,
+        "what_do_you_believe_are_the_biggest_challenges_facing_austins_arts_culture_and_music_scene_select_up_to_3": 10,
+        "austins_creative_community_has_built_a_strong_foundation_of_existing_organizations_that_informs_acmes_goals_and_mission_how_do_you_believe_acme_should_better_support_these_organizations_and_cul": 295,
+        "what_type_of_cultural_arts_or_entertainment_opportunities_would_you_like_to_see_more_of_in_austin": 252,
+        "prior_to_this_survey_were_you_aware_of_the_following_programs_administered_by_the_city_of_austinacme_select_all_that_you_are_aware_of_checkboxes_for_each_program": 19,
+        "have_you_ever_applied_for_or_received_funding_from_any_of_these_programs": 18,
+        "if_yes_please_specify_which_program": 726,
+        "how_would_you_rate_your_level_of_satisfaction_with_these_programs_overall": 35,
+        "how_accessible_do_you_think_these_programs_are_for_historically_underrepresented_artists_organizations_and_communities": 29,
+        "what_improvements_would_you_like_to_see_in_these_cultural_funding_programs": 396,
+        "what_values_do_you_believe_should_guide_acmes_mission_and_vision_select_up_to_3": 23,
+        "what_barriers_do_you_or_your_community_face_in_accessing_support_or_services_related_to_arts_culture_music_and_entertainment": 361,
+        "what_should_acme_prioritize_as_its_top_goals_over_the_next_five_years_select_up_to_3": 16,
+        "what_outcomes_or_impacts_would_you_most_like_to_see_from_acmes_work_select_up_to_3": 24,
+        "what_kinds_of_programs_or_services_would_you_like_acme_to_offer_that_currently_do_not_exist_or_are_underrepresented": 602,
+        "would_you_be_interested_in_participating_in_focus_groups_or_community_discussions_to_help_shape_policies_and_initiatives_supporting_austins_creative_scene": 22,
+        "how_would_you_like_to_stay_informed_and_involved_with_acme_initiatives_and_planning_efforts_select_all_that_apply": 78,
+        "would_you_like_to_participate_in_our_upcoming_focus_groups_to_discuss_the_future_of_acme_cultural_funding_programs": 85,
+        "if_yes_please_include_your_email_address_below": 513,
+        "do_you_have_any_additional_ideas_concerns_or_feedback_you_would_like_to_share_to_help_acme_better_serve_the_public": 754,
+        "source_file": 0,
+        "load_timestamp": 0,
+        "record_type": 0,
+        "record_id": 0
+      },
+      "duplicate_records": "0",
+      "response_time_stats": {
+        "mean_minutes": 18.69433186490455,
+        "median_minutes": 12.533333333333333,
+        "percentile_25": 7.591666666666667,
+        "percentile_75": 22.366666666666667,
+        "completion_rate": 1.0
+      }
+    },
+    "working_doc_main": {
+      "total_records": 1395,
+      "complete_records": 205,
+      "completeness_rate": 0.14695340501792115,
+      "missing_data_by_column": {
+        "program": 84,
+        "no": 83,
+        "date": 536,
+        "recommendation": 84,
+        "source": 85,
+        "status": 871,
+        "details": 965,
+        "impact": 85,
+        "unnamed_8": 55,
+        "unnamed_9": 36,
+        "unnamed_10": 173,
+        "unnamed_11": 20,
+        "unnamed_12": 7,
+        "unnamed_13": 56,
+        "source_file": 0,
+        "source_sheet": 0,
+        "load_timestamp": 0,
+        "record_id": 0
+      },
+      "duplicate_records": "0"
+    }
+  }
+}

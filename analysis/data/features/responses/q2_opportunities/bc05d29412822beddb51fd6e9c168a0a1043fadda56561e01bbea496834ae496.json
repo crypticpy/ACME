@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for artists and venues",
+    "better wages for local performers",
+    "support for local festivals to prioritize local talent",
+    "incentives for hiring Austin area musicians over touring acts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more funding for artists and venues",
+    "more support/incentive for local festivals to hire and pay local performers better wages",
+    "more incentive for Austin area local governments and venues to hire Austin area musicians as opposed to touring acts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for artists and venues",
+    "local performers not being paid adequately",
+    "preference for touring acts over local musicians"
+  ],
+  "solutions_proposed": [
+    "increase funding for artists and venues",
+    "provide more support/incentives for local festivals to hire and pay local performers better wages",
+    "create incentives for local governments and venues to hire Austin area musicians instead of touring acts"
+  ],
+  "cached_at": "2025-06-21T00:26:06.188868",
+  "cache_key": "bc05d29412822beddb51fd6e9c168a0a1043fadda56561e01bbea496834ae496",
+  "model": "gpt-41"
+}

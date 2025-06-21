@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "systemic economic barriers",
+    "critique of capitalism",
+    "broad societal impact on access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Late Stage Capitalism",
+    "every bad thing in society",
+    "exploitative empire"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Late Stage Capitalism",
+    "exploitative economic system"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:35.420800",
+  "cache_key": "79ed462d9bf452c449f161150f80453e88be0bb650e2507e83d6407ab17c82af",
+  "model": "gpt-41"
+}

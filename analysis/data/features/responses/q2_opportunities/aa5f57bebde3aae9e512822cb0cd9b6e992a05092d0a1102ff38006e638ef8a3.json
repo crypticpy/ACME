@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interdisciplinary and immersive experiences",
+    "community-driven and collaborative events",
+    "pop-up art installations",
+    "outdoor performance festivals",
+    "culturally diverse showcases blending music, dance, storytelling, and tech",
+    "spotlighting underrepresented voices",
+    "bringing art into everyday spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more interdisciplinary, immersive, and community-driven experiences",
+    "pop-up art installations",
+    "outdoor performance festivals",
+    "culturally diverse showcases that blend music, dance, storytelling, and tech",
+    "events that spotlight underrepresented voices",
+    "foster local collaboration",
+    "bring art into everyday spaces",
+    "make the city\u2019s creative scene even more vibrant and inclusive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase interdisciplinary, immersive, and community-driven experiences",
+    "organize pop-up art installations",
+    "host outdoor performance festivals",
+    "create culturally diverse showcases blending music, dance, storytelling, and tech",
+    "develop events that spotlight underrepresented voices",
+    "foster local collaboration",
+    "bring art into everyday spaces"
+  ],
+  "cached_at": "2025-06-21T00:33:45.514591",
+  "cache_key": "aa5f57bebde3aae9e512822cb0cd9b6e992a05092d0a1102ff38006e638ef8a3",
+  "model": "gpt-41"
+}

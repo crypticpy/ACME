@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased live music events",
+    "interest in more professional sports opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more live music",
+    "more professional sports"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more live music",
+    "more professional sports"
+  ],
+  "cached_at": "2025-06-21T00:44:53.957516",
+  "cache_key": "17517558bc78cf6ed5d5ffe712f449c2ecfaf061f6c0329d4fddfe49f02875d7",
+  "model": "gpt-41"
+}

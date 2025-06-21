@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public awareness",
+    "outreach and communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Advertise more publicly"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness"
+  ],
+  "solutions_proposed": [
+    "Advertise more publicly"
+  ],
+  "cached_at": "2025-06-21T00:58:20.033029",
+  "cache_key": "addb650fa0217e2b8f3a6880229d280b726e88cd2616f90d37dd3de5c8c6b394",
+  "model": "gpt-41"
+}

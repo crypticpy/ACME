@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for alternative performance arts",
+    "inclusivity across age groups",
+    "interest in non-mainstream art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Aerial, pole, drag, circus art",
+    "Inclusive art for all-ages"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusive art for all-ages"
+  ],
+  "solutions_proposed": [
+    "more aerial, pole, drag, circus art opportunities",
+    "increase inclusive art for all-ages"
+  ],
+  "cached_at": "2025-06-21T00:40:23.083642",
+  "cache_key": "f062aecca1b617e9627165b82632d276c1ad5aa0e880b88cad25058af63cda13",
+  "model": "gpt-41"
+}

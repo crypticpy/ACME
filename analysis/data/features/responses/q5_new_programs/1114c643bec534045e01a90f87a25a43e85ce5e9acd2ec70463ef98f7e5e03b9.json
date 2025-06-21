@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "divide between large and small arts groups",
+    "inequity in funding and resources",
+    "need for differentiated funding approaches",
+    "importance of supporting small arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "clear divide between the large, established arts groups",
+    "the difference in the size of the budgets between these different categories of arts groups is vast",
+    "each category needs to be approached differently",
+    "the big groups like ZACH, the Ballet, etc. should probably participate in a different program altogether",
+    "the competitive grant program that the other, smaller arts groups really need to survive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ZACH Theatre",
+    "the Symphony",
+    "Ballet"
+  ],
+  "barriers_identified": [
+    "vast difference in size of budgets between large and small arts groups",
+    "current funding programs do not differentiate between organization sizes"
+  ],
+  "solutions_proposed": [
+    "Large arts groups should participate in a different program than the competitive grant program for smaller groups",
+    "Approach each category of arts group differently in funding programs"
+  ],
+  "cached_at": "2025-06-21T02:03:53.543424",
+  "cache_key": "1114c643bec534045e01a90f87a25a43e85ce5e9acd2ec70463ef98f7e5e03b9",
+  "model": "gpt-41"
+}

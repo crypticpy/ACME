@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "overemphasis on bureaucratic requirements",
+    "need for prioritizing artistic quality",
+    "frustration with administrative processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Focus more on the art",
+    "trying to check boxes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "bureaucratic box-checking"
+  ],
+  "solutions_proposed": [
+    "prioritize art over administrative requirements"
+  ],
+  "cached_at": "2025-06-20T01:23:30.685646",
+  "cache_key": "1574c60349ebcb6e919232eefea47dce85a8b4f36c8d27984e7e8270fa0f3eb1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "audience development",
+    "promotion of art events",
+    "support for cultural organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "building a new audience",
+    "encorage and promote art events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "build a new audience",
+    "encourage and promote art events"
+  ],
+  "cached_at": "2025-06-20T10:28:42.556313",
+  "cache_key": "7aeab686c07d10bef5ba10af4e3f1bc1470d60e13e1cc89e5dc01569e3dc52ea",
+  "model": "gpt-41"
+}

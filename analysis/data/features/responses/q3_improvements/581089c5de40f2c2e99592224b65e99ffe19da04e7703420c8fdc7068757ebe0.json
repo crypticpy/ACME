@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for people with disabilities",
+    "physical access to cultural programs",
+    "need for mobility support at events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "All programs needs to be more accessible",
+    "Golf carts for the physically disabled would be helpful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility for physically disabled individuals"
+  ],
+  "solutions_proposed": [
+    "provide golf carts for the physically disabled"
+  ],
+  "cached_at": "2025-06-21T01:04:58.800945",
+  "cache_key": "581089c5de40f2c2e99592224b65e99ffe19da04e7703420c8fdc7068757ebe0",
+  "model": "gpt-41"
+}

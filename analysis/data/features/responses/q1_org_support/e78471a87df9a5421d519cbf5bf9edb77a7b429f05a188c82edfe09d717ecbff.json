@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with city-funded cultural and arts events",
+    "need for fostering connections between likeminded organizations",
+    "visibility of collaboration efforts in the arts sector"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "never been disappointed when attending one of those events",
+    "fostering connections between likeminded organizations is something that I haven't seen",
+    "the slice of the arts world I see"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visible connections between likeminded organizations"
+  ],
+  "solutions_proposed": [
+    "foster connections between likeminded organizations"
+  ],
+  "cached_at": "2025-06-20T01:21:37.314791",
+  "cache_key": "e78471a87df9a5421d519cbf5bf9edb77a7b429f05a188c82edfe09d717ecbff",
+  "model": "gpt-41"
+}

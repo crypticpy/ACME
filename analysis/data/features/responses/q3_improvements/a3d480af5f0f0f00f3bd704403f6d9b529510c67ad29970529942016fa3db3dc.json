@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to musicians",
+    "partnership with musician support organizations",
+    "awareness of grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Partner with HAAM and SIMS",
+    "let more musicians know about the grants that are available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM",
+    "SIMS"
+  ],
+  "barriers_identified": [
+    "lack of awareness among musicians about available grants"
+  ],
+  "solutions_proposed": [
+    "Partner with HAAM and SIMS to increase awareness of grants"
+  ],
+  "cached_at": "2025-06-21T01:13:47.919794",
+  "cache_key": "a3d480af5f0f0f00f3bd704403f6d9b529510c67ad29970529942016fa3db3dc",
+  "model": "gpt-41"
+}

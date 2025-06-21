@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for individual artists",
+    "career sustainability for artists",
+    "income-based grant eligibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "grants that are only open to individual artists",
+    "rely on their income coming from their art practice",
+    "career artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant opportunities specifically for career artists"
+  ],
+  "solutions_proposed": [
+    "offer grants exclusively for individual career artists"
+  ],
+  "cached_at": "2025-06-21T01:51:11.103075",
+  "cache_key": "1cb44d782b585c645fc4f2381af1990e3aacb616504c1ace061ab7abffb4b69a",
+  "model": "gpt-41"
+}

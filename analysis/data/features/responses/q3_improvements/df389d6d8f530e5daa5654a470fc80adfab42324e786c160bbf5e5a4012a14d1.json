@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient outreach about funding opportunities",
+    "lack of awareness of application timelines",
+    "reliance on informal communication channels"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more outreach at the application level",
+    "spreading awareness of opportunities and when to apply",
+    "if I wasn't on several email lists, I would never know"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of proactive outreach",
+    "information only accessible through email lists"
+  ],
+  "solutions_proposed": [
+    "increase outreach at the application level",
+    "spread awareness of opportunities and application timelines"
+  ],
+  "cached_at": "2025-06-21T01:13:22.809512",
+  "cache_key": "df389d6d8f530e5daa5654a470fc80adfab42324e786c160bbf5e5a4012a14d1",
+  "model": "gpt-41"
+}

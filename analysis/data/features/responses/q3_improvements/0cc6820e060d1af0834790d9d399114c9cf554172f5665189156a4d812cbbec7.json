@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for increased funding",
+    "recognition of funding challenges"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More money for all",
+    "Thats a tough one I know"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty in increasing funding"
+  ],
+  "solutions_proposed": [
+    "More money for all"
+  ],
+  "cached_at": "2025-06-21T00:56:44.761560",
+  "cache_key": "0cc6820e060d1af0834790d9d399114c9cf554172f5665189156a4d812cbbec7",
+  "model": "gpt-41"
+}

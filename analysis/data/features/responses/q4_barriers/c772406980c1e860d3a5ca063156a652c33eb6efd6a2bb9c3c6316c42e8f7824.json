@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic barriers to participation",
+    "high venue and staffing costs",
+    "insufficient funding opportunities",
+    "challenges in public outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Economic barriers (venue costs and staffing costs, minimal funding opportunities)",
+    "getting the word out to the public"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venue costs",
+    "staffing costs",
+    "minimal funding opportunities",
+    "difficulty getting the word out to the public"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:19.767575",
+  "cache_key": "c772406980c1e860d3a5ca063156a652c33eb6efd6a2bb9c3c6316c42e8f7824",
+  "model": "gpt-41"
+}

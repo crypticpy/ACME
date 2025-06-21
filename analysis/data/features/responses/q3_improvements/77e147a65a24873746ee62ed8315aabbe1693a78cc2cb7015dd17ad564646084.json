@@ -1,0 +1,52 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived inequity in funding allocation",
+    "Negative impact of recent program changes on established organizations",
+    "Disability organizations underfunded and marginalized",
+    "Problems with panel review process and applicant representation",
+    "Concerns about exclusive identity-based funding priorities",
+    "Lack of applicant voice in correcting misinformation during review"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "should be reconsidered and redesigned",
+    "no longer equitable",
+    "changes that we have seen in the last 5 years have been detrimental",
+    "discriminated against valuable organizations",
+    "Disability is deemed a value in the new programming, but do the math",
+    "less than 1% and less than 4 organizations are funded this year",
+    "exclusive funding model prioritizes color, race, and LBTGQ over disability",
+    "program was designed too far from the center of the spectrum",
+    "panel process should also be considered for re-design",
+    "applicant has no voice to correct their errors",
+    "panelists from out of town are summarizing our projects",
+    "panelists selected to check boxes on equity",
+    "ask applicants to create a paragraph to represent their application"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "Exclusive funding criteria based on identity groups",
+    "Disability organizations required to meet additional identity criteria",
+    "Panelists sharing misinformation with no applicant recourse",
+    "Panelists from outside the community lacking local context"
+  ],
+  "solutions_proposed": [
+    "Reconsider and redesign funding programs",
+    "Redesign the panel process",
+    "Assign panelists with relevant lived experience to corresponding applicants",
+    "Allow applicants to submit a paragraph to be read by the primary reviewer"
+  ],
+  "cached_at": "2025-06-21T00:56:15.267497",
+  "cache_key": "77e147a65a24873746ee62ed8315aabbe1693a78cc2cb7015dd17ad564646084",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "time constraints limiting access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "financial constraints",
+    "limited time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial constraints",
+    "limited time"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:14.443682",
+  "cache_key": "de7da0ee458ef01dd1da790c29708fc7a6519ac4610c7f7cb975b2e01971a363",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "ease of community organization",
+    "access as a limiting factor"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Literally just money and access",
+    "Actually creating the community effort or maintaining it is really easy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "money",
+    "access"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:53.169929",
+  "cache_key": "0d4324825c871e4375024c7d88b8149c711b14c7c74c68360e11b0e99b8e82bb",
+  "model": "gpt-41"
+}

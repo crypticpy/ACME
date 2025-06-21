@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved grant application support",
+    "concern about restrictive grant criteria limiting creativity",
+    "exclusion of artists/events not serving specific populations",
+    "expansion of Creative Space Assistance Program eligibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "help organizations to apply successfully",
+    "grants are great but they limit artists",
+    "curbs creativity even though it has good intent",
+    "punishes those who have events or activities that don't serve a specific underserved population",
+    "expand the Creative Space Assistance Program to individual artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Creative Space Assistance Program"
+  ],
+  "barriers_identified": [
+    "grant criteria limit artists to serving certain populations",
+    "creativity is curbed by restrictive requirements",
+    "events or activities not serving a specific underserved population are punished"
+  ],
+  "solutions_proposed": [
+    "make more programs that can help organizations apply successfully",
+    "expand the Creative Space Assistance Program to individual artists"
+  ],
+  "cached_at": "2025-06-21T01:10:37.712033",
+  "cache_key": "c7a6530d8fde54bef6d41f92e7996b45b5bd7c09933a59e84f53067d6dbdbdae",
+  "model": "gpt-41"
+}

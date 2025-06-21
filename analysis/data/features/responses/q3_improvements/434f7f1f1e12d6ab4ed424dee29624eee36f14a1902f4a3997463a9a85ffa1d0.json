@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about number of qualifying organizations",
+    "perceived oversaturation of established organizations",
+    "desire for stricter eligibility criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "reduce the number of qualifying organizations",
+    "established their existence in cultural activities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "too many organizations qualifying for funding"
+  ],
+  "solutions_proposed": [
+    "reduce the number of qualifying organizations"
+  ],
+  "cached_at": "2025-06-21T01:03:47.873985",
+  "cache_key": "434f7f1f1e12d6ab4ed424dee29624eee36f14a1902f4a3997463a9a85ffa1d0",
+  "model": "gpt-41"
+}

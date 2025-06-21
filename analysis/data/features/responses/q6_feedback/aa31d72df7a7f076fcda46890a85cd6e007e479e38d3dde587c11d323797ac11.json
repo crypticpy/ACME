@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for ACME's work",
+    "gratitude towards cultural services"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thank you for everything you do!"
+  ],
+  "intent": "expression_of_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:23.547079",
+  "cache_key": "aa31d72df7a7f076fcda46890a85cd6e007e479e38d3dde587c11d323797ac11",
+  "model": "gpt-41"
+}

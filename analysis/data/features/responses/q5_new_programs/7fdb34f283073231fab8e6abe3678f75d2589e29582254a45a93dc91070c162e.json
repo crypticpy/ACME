@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for social support for artists",
+    "healthcare access for artists",
+    "childcare support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more social support for artists",
+    "healthcare",
+    "childcare"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of healthcare for artists",
+    "lack of childcare for artists"
+  ],
+  "solutions_proposed": [
+    "provide more social support for artists",
+    "offer healthcare for artists",
+    "offer childcare for artists"
+  ],
+  "cached_at": "2025-06-21T02:01:38.601699",
+  "cache_key": "7fdb34f283073231fab8e6abe3678f75d2589e29582254a45a93dc91070c162e",
+  "model": "gpt-41"
+}

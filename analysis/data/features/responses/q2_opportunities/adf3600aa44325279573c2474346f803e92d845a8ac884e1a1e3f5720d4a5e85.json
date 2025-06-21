@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "representation of diverse histories and stories",
+    "increased cultural plays and musicals",
+    "support for the creative Hip Hop community",
+    "need for performance, education, and artistic development spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more cultural plays and musicals that reflect the diverse histories and stories of Austin\u2019s communities",
+    "more platforms dedicated to uplifting the creative Hip Hop community",
+    "providing space for performance, education, and artistic development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of platforms for Hip Hop community",
+    "insufficient representation of diverse histories in cultural programming"
+  ],
+  "solutions_proposed": [
+    "increase cultural plays and musicals reflecting diverse histories",
+    "create more platforms for the Hip Hop community focused on performance, education, and artistic development"
+  ],
+  "cached_at": "2025-06-21T00:39:01.263861",
+  "cache_key": "adf3600aa44325279573c2474346f803e92d845a8ac884e1a1e3f5720d4a5e85",
+  "model": "gpt-41"
+}

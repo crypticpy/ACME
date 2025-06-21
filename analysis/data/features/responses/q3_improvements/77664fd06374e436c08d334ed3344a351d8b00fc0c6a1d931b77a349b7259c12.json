@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "strategic engagement with artists",
+    "organizational development support",
+    "capacity building for growth",
+    "incubation and management modeling",
+    "training for visual artists on public art contracts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more strategic engagement",
+    "more opportunities for artists and organizational development",
+    "led by staff or other subject matter experts",
+    "in-depth knowledge on how to scale and grow capacities",
+    "seeding/incubating organizations to model management types/styles",
+    "support sustainable business practices",
+    "workshops or other types of trainings",
+    "manage deliverables and construction schedules for public art contracts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of in-depth knowledge on scaling and growing capacities",
+    "insufficient support for sustainable business practices",
+    "visual artists lack training on managing deliverables and construction schedules for public art contracts"
+  ],
+  "solutions_proposed": [
+    "more strategic engagement",
+    "opportunities for organizational development led by experts",
+    "incubating organizations to model management types/styles",
+    "workshops or trainings for visual artists on managing deliverables and construction schedules for public art contracts"
+  ],
+  "cached_at": "2025-06-21T01:09:17.316111",
+  "cache_key": "77664fd06374e436c08d334ed3344a351d8b00fc0c6a1d931b77a349b7259c12",
+  "model": "gpt-41"
+}

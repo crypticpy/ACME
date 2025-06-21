@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mural preservation",
+    "corporate public art partnerships",
+    "collaboration with local visual arts organizations",
+    "sustainable visual arts scene",
+    "city's role as funder not leader"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "mural preservation",
+    "corporate public art partnerships",
+    "deep collaboration with the Contemporary, Women and Their Work, dada lab, Co-Lab",
+    "build a sustainable visual arts scene",
+    "the City must provide funding and support, not try to lead in an area where it has no experience"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "the Contemporary",
+    "Women and Their Work",
+    "dada lab",
+    "Co-Lab"
+  ],
+  "barriers_identified": [
+    "City tries to lead in an area where it has no experience"
+  ],
+  "solutions_proposed": [
+    "City must provide funding and support, not try to lead",
+    "deep collaboration with local visual arts organizations",
+    "establish corporate public art partnerships",
+    "focus on mural preservation"
+  ],
+  "cached_at": "2025-06-21T01:55:19.423600",
+  "cache_key": "d3dc5523aa0801ba0d329697370914429e142c81430776d1c9a2338f9ce2462f",
+  "model": "gpt-41"
+}

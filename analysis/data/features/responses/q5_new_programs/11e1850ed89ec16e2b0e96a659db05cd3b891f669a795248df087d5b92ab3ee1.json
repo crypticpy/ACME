@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of food and culture",
+    "need for space rentals",
+    "increased support for performing arts",
+    "greater focus on theatre"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Food & culture",
+    "space rentals",
+    "more focus on performing arts and theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer programs connecting food and culture",
+    "Provide space rentals",
+    "Increase focus on performing arts and theatre"
+  ],
+  "cached_at": "2025-06-21T02:07:21.822607",
+  "cache_key": "11e1850ed89ec16e2b0e96a659db05cd3b891f669a795248df087d5b92ab3ee1",
+  "model": "gpt-41"
+}

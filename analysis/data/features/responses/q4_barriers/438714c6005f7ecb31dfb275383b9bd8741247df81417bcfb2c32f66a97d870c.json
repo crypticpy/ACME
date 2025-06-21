@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of centralized event information",
+    "difficulty finding event schedules",
+    "communication gaps in arts and culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "not a great central hub for information",
+    "when events are happening"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of a central hub for event information"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:50.027843",
+  "cache_key": "438714c6005f7ecb31dfb275383b9bd8741247df81417bcfb2c32f66a97d870c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for genre-specific music festivals",
+    "frustration with mixed-genre festival lineups",
+    "preference for niche music communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More specialized music festivals",
+    "synthwave only or goth only or industrial body music",
+    "I don't like having to go to a festival and have it listen to a cover band, a rock band and country band before the artist I want to see comes on"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of specialized festivals for niche genres",
+    "requirement to sit through unrelated acts to see preferred artists"
+  ],
+  "solutions_proposed": [
+    "offer more specialized, single-genre music festivals"
+  ],
+  "cached_at": "2025-06-21T00:29:23.490097",
+  "cache_key": "ee010ac9b2dcc3272d4d71cd9b8ecef067d9cf6c212c85fc903cd0bcbbbd1832",
+  "model": "gpt-41"
+}

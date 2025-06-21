@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for the arts",
+    "support for creative projects",
+    "housing support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more funding for growth",
+    "creative projects",
+    "housing credits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "lack of housing support"
+  ],
+  "solutions_proposed": [
+    "increase funding for growth",
+    "fund creative projects",
+    "provide housing credits"
+  ],
+  "cached_at": "2025-06-21T00:29:21.736272",
+  "cache_key": "1693362d39731126fab0a1d5278ade20235d1e3da4d8b9a3682be008bb899dcc",
+  "model": "gpt-41"
+}

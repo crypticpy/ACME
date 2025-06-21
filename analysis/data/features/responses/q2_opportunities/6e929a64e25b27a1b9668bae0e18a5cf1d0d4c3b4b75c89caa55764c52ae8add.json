@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "self-awareness of privilege in cultural discourse",
+    "decentering dominant voices in cultural funding",
+    "broad support for diverse cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Everything.",
+    "I'm a white girl.",
+    "My opinion shouldn't matter as much as it does."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overrepresentation of privileged voices in decision-making"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:49:50.347793",
+  "cache_key": "6e929a64e25b27a1b9668bae0e18a5cf1d0d4c3b4b75c89caa55764c52ae8add",
+  "model": "gpt-41"
+}

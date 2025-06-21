@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Mental health awareness",
+    "Educational programming",
+    "Underrepresented topics in cultural services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Mental Health awareness events",
+    "educational forums"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer Mental Health awareness events",
+    "Provide educational forums"
+  ],
+  "cached_at": "2025-06-21T01:58:12.485198",
+  "cache_key": "8e030d12dffa0554665fc93f2d146d1da99eca69e7292fd1f2f20de2ddab62b5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "cross-cultural collaboration",
+    "need for free rehearsal spaces",
+    "need for free performance spaces",
+    "financial barriers to producing arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more cross cultural and collaborative experiences",
+    "develop some free rehearsal / performance spaces",
+    "most outstanding financial roadblocks to producing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free rehearsal spaces",
+    "lack of free performance spaces",
+    "financial roadblocks to producing"
+  ],
+  "solutions_proposed": [
+    "develop some free rehearsal / performance spaces"
+  ],
+  "cached_at": "2025-06-21T00:36:47.774640",
+  "cache_key": "658c3053fecdec3e304e779376e0430e05a0d700dd341ad33b795e002dbd2bac",
+  "model": "gpt-41"
+}

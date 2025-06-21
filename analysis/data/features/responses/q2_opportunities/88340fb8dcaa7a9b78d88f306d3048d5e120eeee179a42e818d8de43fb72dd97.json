@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more music opportunities",
+    "desire for more film opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Music and film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:40:42.514243",
+  "cache_key": "88340fb8dcaa7a9b78d88f306d3048d5e120eeee179a42e818d8de43fb72dd97",
+  "model": "gpt-41"
+}

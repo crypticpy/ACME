@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural spaces",
+    "need for gathering spaces for creatives",
+    "third spaces for creative community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "affordable venues",
+    "third spaces",
+    "creatives to gather"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable venues",
+    "insufficient gathering spaces for creatives"
+  ],
+  "solutions_proposed": [
+    "increase affordable venues",
+    "create more third spaces for creatives to gather"
+  ],
+  "cached_at": "2025-06-21T00:38:16.106219",
+  "cache_key": "799a95314b3f9ca8a041218b9e3391e427e1e5b33d29274d3e748c7246a6b7dd",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding to creators",
+    "critique of corporate and tech influence",
+    "cost of living pressures on artists",
+    "prioritizing local talent",
+    "economic displacement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Inject money directly to creators",
+    "not to corporate co funded events",
+    "Bring back local talent to the forefront",
+    "Slow down growth of unnecessary tech companies",
+    "raising the cost of living",
+    "Artists can create and do things but not if we have to spend all our time working to jus exist in this city"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding routed to corporate events instead of creators",
+    "rising cost of living due to tech company growth",
+    "artists forced to work excessively to afford living in Austin"
+  ],
+  "solutions_proposed": [
+    "Inject money directly to creators",
+    "Bring back local talent to the forefront",
+    "Slow down growth of unnecessary tech companies"
+  ],
+  "cached_at": "2025-06-20T01:22:01.592983",
+  "cache_key": "70ad5c7925d10ed9377b88d1e8bc1d292f4739919dc34405b03e83296771690e",
+  "model": "gpt-41"
+}

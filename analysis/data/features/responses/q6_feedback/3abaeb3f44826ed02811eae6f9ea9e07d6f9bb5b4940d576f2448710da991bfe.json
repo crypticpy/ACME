@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "departmental consolidation",
+    "cross-department collaboration",
+    "support for the creative community",
+    "reassessment of procedures for city-owned spaces",
+    "integration of feedback from multiple divisions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "combining all these separate departments under one umbrella initiative",
+    "better combine their efforts and work together",
+    "support the Austin creative community",
+    "Entertainment branch, with feedback from the arts, cultural arts, and music divisions",
+    "reassess their procedures and policies regarding city-owned spaces",
+    "better support local artists and organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current procedures and policies regarding city-owned spaces may not adequately support local artists and organizations"
+  ],
+  "solutions_proposed": [
+    "reassess procedures and policies regarding city-owned spaces to better support local artists and organizations",
+    "combine efforts and work together across departments"
+  ],
+  "cached_at": "2025-06-21T02:09:50.413052",
+  "cache_key": "3abaeb3f44826ed02811eae6f9ea9e07d6f9bb5b4940d576f2448710da991bfe",
+  "model": "gpt-41"
+}

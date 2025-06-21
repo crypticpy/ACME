@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for program reform",
+    "focus on AIPP (Art in Public Places)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Revamp AIPP"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Revamp AIPP"
+  ],
+  "cached_at": "2025-06-20T01:22:21.873566",
+  "cache_key": "158fabe2522a9543706fd000643f4224e585d6c09091a3840d344d7e83ce74d7",
+  "model": "gpt-41"
+}

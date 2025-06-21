@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Funding equity for emerging and lesser-known artists",
+    "Overconcentration of support for already successful bands",
+    "Need for more diverse artistic voices",
+    "Insufficient venues and support for non-mainstream arts",
+    "Activation and utilization of existing cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Mostly with money & make sure it doesn't JUST go to the most successful bands and no one else",
+    "Emerging or lesser known work HAS to be supported",
+    "If a band already has an audience, let them cook with that",
+    "We need more voices, all the time",
+    "We need a lot more venues for plays, painters, filmmaking, writing, and other less rah-rah exciting rock 'n' roll type arts in this town",
+    "ESPECIALLY in the Zilker Hillside Theater and Zach Scott and other already existing programs that should be active---OVERactive---every day of the year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Zilker Hillside Theater",
+    "Zach Scott"
+  ],
+  "barriers_identified": [
+    "Funding disproportionately directed to most successful bands",
+    "Lack of support for emerging or lesser-known artists",
+    "Insufficient venues for non-mainstream arts"
+  ],
+  "solutions_proposed": [
+    "Distribute funding beyond the most successful bands",
+    "Prioritize support for emerging and lesser-known work",
+    "Increase the number and activity of venues for diverse art forms",
+    "Ensure existing programs and venues are active every day of the year"
+  ],
+  "cached_at": "2025-06-20T10:35:15.131379",
+  "cache_key": "12a6f408fccadf674fd33415cf9062cac6b290b43e844c0e47def6e6ac158e7c",
+  "model": "gpt-41"
+}

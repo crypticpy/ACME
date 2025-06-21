@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable representation",
+    "equal access to opportunities",
+    "organizational size disparities",
+    "funding disparities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Equity in voice",
+    "opportunity regardless of organizational size and funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "organizational size",
+    "funding level"
+  ],
+  "solutions_proposed": [
+    "Equity in voice and opportunity regardless of organizational size and funding"
+  ],
+  "cached_at": "2025-06-20T10:27:08.708390",
+  "cache_key": "76ad3579d7b52c1ab6b909126a7144574f6f1ca9a8f3fd37fadb3f102f3cf1c3",
+  "model": "gpt-41"
+}

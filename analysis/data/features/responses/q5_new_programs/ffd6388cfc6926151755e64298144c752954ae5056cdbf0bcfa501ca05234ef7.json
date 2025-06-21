@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "cultural acceptance",
+    "equal opportunities",
+    "affordability and price gouging prevention"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Cultural acceptance",
+    "Equal opportunities",
+    "Prevent price gourging"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural acceptance",
+    "inequitable opportunities",
+    "price gouging"
+  ],
+  "solutions_proposed": [
+    "increase cultural acceptance",
+    "ensure equal opportunities",
+    "prevent price gouging"
+  ],
+  "cached_at": "2025-06-21T02:06:57.594249",
+  "cache_key": "ffd6388cfc6926151755e64298144c752954ae5056cdbf0bcfa501ca05234ef7",
+  "model": "gpt-41"
+}

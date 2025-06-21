@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of effective communication",
+    "information barriers to access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Communication around them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "communication around them"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:10.522528",
+  "cache_key": "2cb6fe621b418dbcbaf8ba8a28158bb515b38cb5384e956b1f1cd4e5c8e440a6",
+  "model": "gpt-41"
+}

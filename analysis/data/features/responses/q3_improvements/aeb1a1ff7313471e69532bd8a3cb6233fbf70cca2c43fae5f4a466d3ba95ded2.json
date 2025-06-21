@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "confusion over funding decisions",
+    "defunding of acclaimed artists",
+    "impact on longstanding arts groups and venues",
+    "lack of transparency in city goals",
+    "concern for underrepresented artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "so excited when the Thrive grant was introduced",
+    "I've seen great work come from some of those grants",
+    "baffled by some of the decisions",
+    "why was Zell Miller...completely defunded",
+    "Elevate grants failed to fund or sharply underfunded longstanding arts groups",
+    "catastrophic",
+    "very confused about what the city has been doing and what their goals are"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Thrive grant",
+    "Elevate grants"
+  ],
+  "barriers_identified": [
+    "defunding of established and acclaimed artists",
+    "underfunding of longstanding arts groups and venues",
+    "lack of clarity in city funding goals"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:05:28.628078",
+  "cache_key": "aeb1a1ff7313471e69532bd8a3cb6233fbf70cca2c43fae5f4a466d3ba95ded2",
+  "model": "gpt-41"
+}

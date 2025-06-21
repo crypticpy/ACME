@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "challenge of fostering offline connection in the digital age",
+    "need to prioritize in-person engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "hard to give people offline options to connect",
+    "focus on that"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty providing offline connection options in the digital age"
+  ],
+  "solutions_proposed": [
+    "focus on providing offline options to connect"
+  ],
+  "cached_at": "2025-06-21T00:57:15.272850",
+  "cache_key": "5324f84b9709158da02a316f7cfa3eca75c5aa3400689c2e554b0177af435f57",
+  "model": "gpt-41"
+}

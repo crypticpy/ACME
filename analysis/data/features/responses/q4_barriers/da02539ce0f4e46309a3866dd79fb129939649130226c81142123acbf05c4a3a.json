@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient staffing for grant applications",
+    "challenges in fundraising capacity",
+    "need for networking support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "lack of enough staffing to apply for grants",
+    "do other fundraising",
+    "tips to network with other orgs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of staffing to apply for grants",
+    "insufficient capacity for fundraising"
+  ],
+  "solutions_proposed": [
+    "tips to network with other orgs"
+  ],
+  "cached_at": "2025-06-21T01:44:05.201360",
+  "cache_key": "da02539ce0f4e46309a3866dd79fb129939649130226c81142123acbf05c4a3a",
+  "model": "gpt-41"
+}

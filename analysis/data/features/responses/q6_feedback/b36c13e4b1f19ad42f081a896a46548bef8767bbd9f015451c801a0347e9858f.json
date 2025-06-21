@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Longstanding underachievement in Austin's arts scene",
+    "Loss and impact of COVID-19 on arts organizations",
+    "Lack of support for children's theatre",
+    "Disillusionment with funding processes",
+    "Shifting away from arts due to perceived ineffectiveness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "thank you for continuing to support the arts at all in Austin",
+    "we have not met our potential these past 30 odd years",
+    "our theatre company (Pollyanna) folded during COVID",
+    "never supported a major professional resident children's theatre",
+    "tired of processes that don't seem to end up making a difference"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Pollyanna"
+  ],
+  "barriers_identified": [
+    "Lack of sustained support for children's theatre",
+    "Funding and administrative processes that feel ineffective",
+    "Impact of COVID-19 leading to closure of arts organizations",
+    "Disillusionment causing artists to leave the sector"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:17.160506",
+  "cache_key": "b36c13e4b1f19ad42f081a896a46548bef8767bbd9f015451c801a0347e9858f",
+  "model": "gpt-41"
+}

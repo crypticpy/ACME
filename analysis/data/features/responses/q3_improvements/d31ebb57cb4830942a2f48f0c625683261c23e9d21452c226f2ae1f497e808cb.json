@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "demographic representation in funding",
+    "use of equity as a practical tool",
+    "equitable programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding mandate which mirror demographics",
+    "emphasis on using equity as an actual tool",
+    "equitable programing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of demographic representation in funding",
+    "equity not being used as a practical tool"
+  ],
+  "solutions_proposed": [
+    "funding mandate which mirror demographics",
+    "using equity as an actual tool for equitable programming"
+  ],
+  "cached_at": "2025-06-21T01:05:51.727207",
+  "cache_key": "d31ebb57cb4830942a2f48f0c625683261c23e9d21452c226f2ae1f497e808cb",
+  "model": "gpt-41"
+}

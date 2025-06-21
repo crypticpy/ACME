@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "transportation challenges",
+    "parking difficulties",
+    "event scheduling conflicts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "COST: tickets; transportation; parking; hours of events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of tickets",
+    "cost or availability of transportation",
+    "cost or availability of parking",
+    "event hours not accessible"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:48.307352",
+  "cache_key": "e0f56db5086592a15c0dc298f0efb39460b9706afec1d965ac0106af51c16550",
+  "model": "gpt-41"
+}

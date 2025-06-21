@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient support for artists to make a living",
+    "difficulty advancing beyond the emerging stage",
+    "gratitude for specific program recognition (TEMPO)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "the environment in Austin for me has not been supportive enough",
+    "allow me to make a living as an artist",
+    "move beyond the 'emerging' stage",
+    "grateful for the two TEMPO wins"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "TEMPO"
+  ],
+  "barriers_identified": [
+    "not been supportive enough to allow me to make a living as an artist",
+    "not able to move beyond the 'emerging' stage"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:50.169479",
+  "cache_key": "dac3d02e55a46bfeafbc59077711b6e96e323ac60a978f66cb93aa99266c1b58",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct funding to artists",
+    "effectiveness of Live Music Fund",
+    "preference for artist-centered support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "your initiative with the Live Music Fund was the closest thing",
+    "what I think the city should be doing",
+    "Directly funding artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live Music Fund"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Directly funding artists"
+  ],
+  "cached_at": "2025-06-20T10:21:17.648003",
+  "cache_key": "471f78d8caacff6841f50037e0ded8537f71f9b23ba7424d7c5b71be12301280",
+  "model": "gpt-41"
+}

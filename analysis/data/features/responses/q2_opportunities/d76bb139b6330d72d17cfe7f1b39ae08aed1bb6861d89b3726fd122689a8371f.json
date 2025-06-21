@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for adults-only cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Adults only plans"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more adults-only cultural or entertainment plans"
+  ],
+  "cached_at": "2025-06-21T00:52:59.615143",
+  "cache_key": "d76bb139b6330d72d17cfe7f1b39ae08aed1bb6861d89b3726fd122689a8371f",
+  "model": "gpt-41"
+}

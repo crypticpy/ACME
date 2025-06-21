@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for financial tools beyond grants",
+    "recognition of subjective impact",
+    "access to physical spaces for events",
+    "support for short-term events leading to long-term activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "financial tools that are stronger than grants",
+    "reflect the impact of an organization or cultural leaders in more subjective outputs",
+    "leasing out spaces to organizations and organizers",
+    "short term events that have the potential outcomes to develop long term activities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited financial tools (reliance on grants)",
+    "lack of access to spaces for events"
+  ],
+  "solutions_proposed": [
+    "create financial tools that are stronger than grants",
+    "lease out spaces to organizations and organizers for short term events"
+  ],
+  "cached_at": "2025-06-20T01:22:31.851441",
+  "cache_key": "8232f64a327099b92604231db7bc196ae47ab812570d95b6446329424ec604d0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with for-profit venues",
+    "reducing parking costs for artists' events",
+    "reducing ticket costs for artists' events",
+    "support for historically marginalized communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "collaborations with for-profit venues",
+    "reduce parking and ticket costs",
+    "artists' events",
+    "historically marginalized communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking costs",
+    "ticket costs"
+  ],
+  "solutions_proposed": [
+    "collaborations with for-profit venues to reduce parking and ticket costs for artists' events"
+  ],
+  "cached_at": "2025-06-20T10:40:03.379076",
+  "cache_key": "7e6323c704420dcdfa038dc016b8c3c61e4411cbf5bdf8589937115815267605",
+  "model": "gpt-41"
+}

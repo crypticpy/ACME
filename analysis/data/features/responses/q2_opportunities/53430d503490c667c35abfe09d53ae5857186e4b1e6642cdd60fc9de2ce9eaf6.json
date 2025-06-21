@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Elevating women artists as leaders and curators",
+    "Need for intersectional and community-informed initiatives",
+    "Addressing systemic exclusion of women in the arts",
+    "Support for emerging and mid-career women artists",
+    "Focus on identity, equity, and social change in programming",
+    "Mentorship and visibility for women artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "cultural programming that centers women artists",
+    "not just as participants, but as leaders, curators, and storytellers",
+    "create residencies, exhibitions, performance series, and festivals specifically dedicated to elevating women\u2019s voices",
+    "more funding, mentorship, and visibility for emerging and mid-career women artists",
+    "initiatives should be intersectional, community-informed, and designed to address the systemic gaps",
+    "historically excluded women from access and recognition in the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "systemic gaps that have historically excluded women from access and recognition in the arts",
+    "lack of funding, mentorship, and visibility for emerging and mid-career women artists"
+  ],
+  "solutions_proposed": [
+    "create residencies, exhibitions, performance series, and festivals specifically dedicated to elevating women\u2019s voices",
+    "provide more funding, mentorship, and visibility for emerging and mid-career women artists",
+    "ensure initiatives are intersectional and community-informed"
+  ],
+  "cached_at": "2025-06-21T00:27:59.177880",
+  "cache_key": "53430d503490c667c35abfe09d53ae5857186e4b1e6642cdd60fc9de2ce9eaf6",
+  "model": "gpt-41"
+}

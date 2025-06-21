@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of small businesses and artists",
+    "expansion of organizational support",
+    "broadening funding eligibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "expand the foundation of existing organizations",
+    "include newer small businesses/artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of newer small businesses/artists from support"
+  ],
+  "solutions_proposed": [
+    "expand the foundation of existing organizations to include newer small businesses/artists"
+  ],
+  "cached_at": "2025-06-20T10:26:02.423537",
+  "cache_key": "216bdc9799fdf5f59a2cdaa2cfb9e6bc787995fad3638e2ee4f8d49e18f13f33",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for mid-career and legacy artists",
+    "focus on jazz and cultural preservation",
+    "archival and education-focused funding",
+    "technical assistance for small organizations",
+    "youth mentorships and artist residencies",
+    "affordable rehearsal and performance spaces",
+    "support for historically underrepresented disciplines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "programs that support mid-career and legacy artists",
+    "particularly in jazz, cultural preservation, and historically underrepresented disciplines",
+    "archival and education-focused funding for initiatives like HPPAA",
+    "technical assistance for small orgs (grant writing, production, digital media)",
+    "create youth mentorships and artist residencies that pair emerging talent with experienced creatives",
+    "prioritize low-cost rehearsal and performance spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HPPAA"
+  ],
+  "barriers_identified": [
+    "lack of support for mid-career and legacy artists",
+    "insufficient archival and education-focused funding",
+    "limited technical assistance for small organizations",
+    "lack of affordable rehearsal and performance spaces"
+  ],
+  "solutions_proposed": [
+    "offer programs supporting mid-career and legacy artists",
+    "provide archival and education-focused funding",
+    "offer technical assistance for small organizations (grant writing, production, digital media)",
+    "create youth mentorships and artist residencies pairing emerging talent with experienced creatives",
+    "prioritize low-cost rehearsal and performance spaces"
+  ],
+  "cached_at": "2025-06-21T02:02:41.378929",
+  "cache_key": "82e9668da2eba74a2b948fe04c75925583486c0931fb5500a64e0020c7769d47",
+  "model": "gpt-41"
+}

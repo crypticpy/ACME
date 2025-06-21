@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for broader support across all arts sectors",
+    "Interest in expanding beyond film, music, and comedy festivals",
+    "Call for greater visibility of literary arts, dance, theatre, and multi-disciplinary performance",
+    "Emphasis on Austin's reputation for world premiere original art",
+    "Concern about lack of public awareness of new work premiering in Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "It would be lovely to see all sectors of the arts uplifted",
+    "In addition to film, music, and comedy festivals, we would love literary arts, dance, theatre, multi-disciplinary performance",
+    "I wonder how we might uplift Austin's reputation for the creation and performance of world premiere original art",
+    "So much exciting new work premieres in Austin every year",
+    "I don't think that people realize that"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of public awareness of new work premiering in Austin"
+  ],
+  "solutions_proposed": [
+    "Uplift all sectors of the arts",
+    "Increase visibility for literary arts, dance, theatre, and multi-disciplinary performance",
+    "Promote Austin's reputation for world premiere original art"
+  ],
+  "cached_at": "2025-06-21T00:37:00.383863",
+  "cache_key": "7efc441283175492efade50fd1c46bdbf7163d81b55bdfbeb14052739ca81a23",
+  "model": "gpt-41"
+}

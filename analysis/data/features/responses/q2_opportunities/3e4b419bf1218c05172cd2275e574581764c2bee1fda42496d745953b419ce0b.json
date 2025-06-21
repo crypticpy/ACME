@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "museum exhibitions",
+    "quality of cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Better museum exhibitions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Better museum exhibitions"
+  ],
+  "cached_at": "2025-06-21T00:28:44.981011",
+  "cache_key": "3e4b419bf1218c05172cd2275e574581764c2bee1fda42496d745953b419ce0b",
+  "model": "gpt-41"
+}

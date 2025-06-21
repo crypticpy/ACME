@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cross-disciplinary collaboration",
+    "integration of music, dance, and visual arts",
+    "diversity of musical genres"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "collaborations between musicians of all genres",
+    "with dance and visual arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborations between musicians of all genres with dance and visual arts"
+  ],
+  "cached_at": "2025-06-21T00:25:04.125172",
+  "cache_key": "96913551872167c125ab4b16a73d12104a73a046a047494a11b16d44eed88d4e",
+  "model": "gpt-41"
+}

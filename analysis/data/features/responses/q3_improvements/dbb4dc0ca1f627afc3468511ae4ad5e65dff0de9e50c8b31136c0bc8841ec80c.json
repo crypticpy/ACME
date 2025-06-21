@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to tourism-focused funding criteria",
+    "prioritization of art and community-building",
+    "critique of diversity requirements based on leadership/staff composition",
+    "focus on audiences and community served"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Make the funding criteria about art and community-building NOT about generating tourism revenue",
+    "Prioritize audiences and community served",
+    "not the forced diversity criteria that prioritizes ethnic composition of leadership and staff"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding criteria focused on tourism revenue",
+    "diversity criteria prioritizing ethnic composition of leadership and staff"
+  ],
+  "solutions_proposed": [
+    "Make the funding criteria about art and community-building",
+    "Prioritize audiences and community served instead of diversity criteria based on leadership/staff composition"
+  ],
+  "cached_at": "2025-06-21T01:13:53.613488",
+  "cache_key": "dbb4dc0ca1f627afc3468511ae4ad5e65dff0de9e50c8b31136c0bc8841ec80c",
+  "model": "gpt-41"
+}

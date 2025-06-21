@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in grant process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more transparency in the grant process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in the grant process"
+  ],
+  "solutions_proposed": [
+    "more transparency in the grant process"
+  ],
+  "cached_at": "2025-06-21T02:15:48.635672",
+  "cache_key": "aa6859b637e2b63aa053bbbfbd5fc922b8c8ced749a574acd60c5b76ced766bc",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "deterioration of cultural spaces",
+    "potential of arts centers",
+    "underutilization of creative infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "spaces around the city are falling into severe disrepair",
+    "Dougherty Arts Center",
+    "could be a bustling epicenter for Austin's creative scene"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Dougherty Arts Center"
+  ],
+  "barriers_identified": [
+    "severe disrepair of cultural spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:53:52.971703",
+  "cache_key": "6a42c1118a70582f0606c99410d0882d45097eb1ad1cae461271a21e2f0660ec",
+  "model": "gpt-41"
+}

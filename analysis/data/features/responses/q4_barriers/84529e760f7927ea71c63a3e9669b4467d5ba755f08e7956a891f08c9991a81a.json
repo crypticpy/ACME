@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of local access to arts and culture",
+    "geographic inaccessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "There are none nearby"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "No arts, culture, music, or entertainment services nearby"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:26.540456",
+  "cache_key": "84529e760f7927ea71c63a3e9669b4467d5ba755f08e7956a891f08c9991a81a",
+  "model": "gpt-41"
+}

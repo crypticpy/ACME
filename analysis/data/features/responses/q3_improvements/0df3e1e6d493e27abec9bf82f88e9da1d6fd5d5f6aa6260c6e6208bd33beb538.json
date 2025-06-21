@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of nuance in program evaluation",
+    "differences in program management across departments",
+    "recent drastic changes in programs",
+    "frustration with survey questions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "questions 18 and 19 are ridiculous (no offense)",
+    "programs are extremely different in how they are run, managed, evaluated, shared etc...",
+    "all city departments have had a different approach",
+    "this question lacks any nuance to speak about this",
+    "Even in the last 4 years these programs have all drastically changed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "survey questions lack nuance",
+    "inconsistent approaches across city departments"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:57:52.005756",
+  "cache_key": "0df3e1e6d493e27abec9bf82f88e9da1d6fd5d5f6aa6260c6e6208bd33beb538",
+  "model": "gpt-41"
+}

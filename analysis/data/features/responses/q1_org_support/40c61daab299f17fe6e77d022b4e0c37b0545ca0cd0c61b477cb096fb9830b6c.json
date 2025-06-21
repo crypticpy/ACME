@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "facilitating partnerships among established organizations",
+    "supporting emerging local artists",
+    "prioritizing native artists",
+    "broadening cultural impact",
+    "diversifying artistic investments"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "identify complimentary partnerships to further support interdependence of established organizations",
+    "provide meaningful resources and opportunities for emerging local artists to grow and gain exposure",
+    "especially those native to the area",
+    "broaden cultural impact through diversifying artistic investments"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "identify complimentary partnerships to further support interdependence of established organizations",
+    "provide meaningful resources and opportunities for emerging local artists to grow and gain exposure, especially those native to the area",
+    "broaden cultural impact through diversifying artistic investments"
+  ],
+  "cached_at": "2025-06-20T10:32:26.915573",
+  "cache_key": "40c61daab299f17fe6e77d022b4e0c37b0545ca0cd0c61b477cb096fb9830b6c",
+  "model": "gpt-41"
+}

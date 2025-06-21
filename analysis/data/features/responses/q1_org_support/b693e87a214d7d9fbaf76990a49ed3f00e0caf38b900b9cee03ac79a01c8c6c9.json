@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of coherent funding strategy",
+    "concern about diverting funding from cultural institutions",
+    "reliance of organizations on annual funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "No coherent strategy in funding the arts",
+    "diverting funding from cultural institutions isn\u2019t the answer",
+    "those same orgs rely on funding every year"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of coherent funding strategy",
+    "diversion of funding from cultural institutions"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:32:41.544602",
+  "cache_key": "b693e87a214d7d9fbaf76990a49ed3f00e0caf38b900b9cee03ac79a01c8c6c9",
+  "model": "gpt-41"
+}

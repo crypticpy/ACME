@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "leadership by longstanding arts nonprofits",
+    "professional opportunities for artists",
+    "alignment with national best practices",
+    "commitment to antiracism, social justice, and diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Let longstanding arts nonprofits lead the way",
+    "they create the professional opportunities for artists",
+    "they stay in tune with national best practices",
+    "they have always been at the vanguard of antiracism, social justice and diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Let longstanding arts nonprofits lead the way"
+  ],
+  "cached_at": "2025-06-20T10:21:25.538970",
+  "cache_key": "7c61342cb986adfe77fd7cbea3d458e1e9aaa1bc6124ed653f211cb3692ff685",
+  "model": "gpt-41"
+}

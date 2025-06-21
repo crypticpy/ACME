@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty finding information about events",
+    "insufficient marketing by organizations",
+    "missed opportunities for attendance",
+    "perception of broad opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "opportunities are broad and vast",
+    "you have to look",
+    "organizations need to do a much better job of marketing themselves",
+    "I can't tell you how many times something happened in Austin and I didn't know about till it was over",
+    "I hear the event wasn't well attended"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of effective marketing",
+    "insufficient event awareness"
+  ],
+  "solutions_proposed": [
+    "organizations need to do a much better job of marketing themselves"
+  ],
+  "cached_at": "2025-06-21T00:33:16.565948",
+  "cache_key": "acc4534ddc16ab9bfd95752813a518409b5021bfc5b628dcb82ed1633e4aef01",
+  "model": "gpt-41"
+}

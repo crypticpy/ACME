@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for youth services",
+    "focus on adolescents",
+    "underrepresentation of programs for young people"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more services for young people",
+    "specially adolescents"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of services for adolescents"
+  ],
+  "solutions_proposed": [
+    "offer more services for young people, especially adolescents"
+  ],
+  "cached_at": "2025-06-21T01:53:57.143755",
+  "cache_key": "a017faa332ef52b02c5b262b55b93d9d688091e23e98da8807936f42d6e65a19",
+  "model": "gpt-41"
+}

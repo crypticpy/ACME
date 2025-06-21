@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "capacity building for small organizations",
+    "support for emerging organizations",
+    "professional development for visual artists",
+    "public art engagement",
+    "networking and convening opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "management incubation for emerging to small organizations",
+    "organizations that need help",
+    "annual convening and regular trainings for visual artists interested in public art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of management support for small or emerging organizations",
+    "insufficient training and convening opportunities for visual artists interested in public art"
+  ],
+  "solutions_proposed": [
+    "management incubation for emerging to small organizations",
+    "annual convening and regular trainings for visual artists interested in public art"
+  ],
+  "cached_at": "2025-06-21T02:01:53.209421",
+  "cache_key": "f44e13f3d7f91bb1cb784dc76f7b482164ac5b76374293dcbe4041d51c8490ec",
+  "model": "gpt-41"
+}

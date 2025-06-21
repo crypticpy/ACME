@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for increased LGBTQIA+ representation",
+    "desire for increased Black cultural events",
+    "intersectionality in cultural programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More lgbtqia+ black events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More lgbtqia+ black events"
+  ],
+  "cached_at": "2025-06-21T00:45:17.130643",
+  "cache_key": "e97c85f2439cb0a8ae1617271e60e5f510470a825901311040afad334ef2cdc6",
+  "model": "gpt-41"
+}

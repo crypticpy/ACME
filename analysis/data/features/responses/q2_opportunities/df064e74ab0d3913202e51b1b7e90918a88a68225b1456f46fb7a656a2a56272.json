@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more literary events",
+    "interest in author talks",
+    "support for book-focused programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More literary events",
+    "More readings",
+    "author talks",
+    "book focused events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More literary events",
+    "More readings",
+    "More author talks",
+    "More book focused events"
+  ],
+  "cached_at": "2025-06-21T00:41:13.487145",
+  "cache_key": "df064e74ab0d3913202e51b1b7e90918a88a68225b1456f46fb7a656a2a56272",
+  "model": "gpt-41"
+}

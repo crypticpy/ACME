@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more events",
+    "interest in Oro dance company",
+    "support for specific cultural organizations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More events from Oro dance company"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro dance company"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More events from Oro dance company"
+  ],
+  "cached_at": "2025-06-21T00:47:32.407596",
+  "cache_key": "f7964f1039e4918c74a7739690a77ee1e5d8a3bf599529f6e4b1247dea28c0ca",
+  "model": "gpt-41"
+}

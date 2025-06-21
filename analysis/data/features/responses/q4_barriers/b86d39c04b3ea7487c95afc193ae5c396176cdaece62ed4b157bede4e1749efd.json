@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising cost of living and property taxes driving out artists",
+    "impact of screen culture and digital isolation on arts engagement",
+    "critique of economic development framing for the arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Property taxes are so high that artists can't afford to live here",
+    "The rise of screen culture",
+    "too many ways to stay at home and not engage face-to-face",
+    "Arts that foster isolation of individuals or exist largely for screen-based entertainment are not healthy",
+    "It's a mistake to view arts through the lens of economic development",
+    "It should be like education: an investment we make to build our society"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising cost of living",
+    "high property taxes",
+    "prevalence of screen-based entertainment leading to social isolation",
+    "arts being valued primarily for economic development rather than societal investment"
+  ],
+  "solutions_proposed": [
+    "treat arts funding as an investment similar to education"
+  ],
+  "cached_at": "2025-06-21T01:31:43.994148",
+  "cache_key": "b86d39c04b3ea7487c95afc193ae5c396176cdaece62ed4b157bede4e1749efd",
+  "model": "gpt-41"
+}

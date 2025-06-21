@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "gratitude for city support",
+    "appreciation of arts team",
+    "sense of community belonging"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "enormous feeling of gratitude for the city",
+    "incredible team that has been created",
+    "all you do for the arts",
+    "making me a part of this vibrant community"
+  ],
+  "intent": "express_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:49.799369",
+  "cache_key": "2fbde5dd0e36c76128af8214dc0dd1736d710f8142ecd190e6b5373da6f6bcd6",
+  "model": "gpt-41"
+}

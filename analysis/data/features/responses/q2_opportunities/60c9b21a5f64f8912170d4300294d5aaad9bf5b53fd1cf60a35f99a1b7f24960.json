@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "intergenerational education",
+    "access for low income residents",
+    "school-based cultural programming",
+    "workshops as cultural engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "educational workshops",
+    "younger generation in our schools",
+    "older generation in low income housing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of educational workshops for youth in schools",
+    "lack of cultural opportunities for older adults in low income housing"
+  ],
+  "solutions_proposed": [
+    "provide educational workshops in schools for youth",
+    "offer educational workshops in low income housing for older adults"
+  ],
+  "cached_at": "2025-06-21T00:26:16.868494",
+  "cache_key": "60c9b21a5f64f8912170d4300294d5aaad9bf5b53fd1cf60a35f99a1b7f24960",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness",
+    "information barriers",
+    "access to opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Not being aware of opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Not being aware of opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:14.066429",
+  "cache_key": "8f0f26fe2659f32e293500b3e18bf59ff22810740df50bf9179b63d0aedbbe9e",
+  "model": "gpt-41"
+}

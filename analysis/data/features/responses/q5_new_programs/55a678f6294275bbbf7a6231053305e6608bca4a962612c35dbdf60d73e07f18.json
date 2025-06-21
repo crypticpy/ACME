@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of organizational visibility",
+    "ineffective marketing and outreach",
+    "comparison to better-known organizations",
+    "community awareness deficits"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "really invest in making their presence known throughout the City",
+    "Laymen know what HAMM or SAG is... because those orgs market everywhere",
+    "it won't matter what ACME creates if no one knows who or what they are",
+    "the announcement of its own launch was so quiet and weak, many of us thought it was spam",
+    "Marketing!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAMM",
+    "SAG"
+  ],
+  "barriers_identified": [
+    "lack of public awareness of ACME",
+    "insufficient marketing and outreach",
+    "confusion or skepticism about legitimacy due to poor communication"
+  ],
+  "solutions_proposed": [
+    "invest in making their presence known throughout the City",
+    "improve marketing efforts"
+  ],
+  "cached_at": "2025-06-21T01:51:05.817250",
+  "cache_key": "55a678f6294275bbbf7a6231053305e6608bca4a962612c35dbdf60d73e07f18",
+  "model": "gpt-41"
+}

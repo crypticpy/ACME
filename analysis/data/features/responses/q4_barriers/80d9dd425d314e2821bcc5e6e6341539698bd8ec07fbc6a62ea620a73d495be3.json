@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost of parking",
+    "venue admission expenses"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Parking and venue admission costs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking costs",
+    "venue admission costs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:49.668897",
+  "cache_key": "80d9dd425d314e2821bcc5e6e6341539698bd8ec07fbc6a62ea620a73d495be3",
+  "model": "gpt-41"
+}

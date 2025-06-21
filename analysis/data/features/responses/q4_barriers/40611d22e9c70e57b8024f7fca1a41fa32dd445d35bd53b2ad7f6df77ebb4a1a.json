@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "gentrification driving community displacement",
+    "decline of Black population in Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Gentrification",
+    "Black people are leaving austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gentrification",
+    "displacement of Black residents"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:30.541655",
+  "cache_key": "40611d22e9c70e57b8024f7fca1a41fa32dd445d35bd53b2ad7f6df77ebb4a1a",
+  "model": "gpt-41"
+}

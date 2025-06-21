@@ -1,0 +1,47 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for arts and culture",
+    "difficulty discovering cultural events in a fragmented media environment",
+    "inadequate public transportation infrastructure",
+    "overreliance on cars and parking issues",
+    "urban sprawl and lack of walkability",
+    "need for human-centered urban design"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "there's never enough money",
+    "fragmented media environment, how to discover what's out there?",
+    "our shitty public transportation infrastructure is also an issue",
+    "our cars are the only viable way of getting somewhere",
+    "precious real estate is cannibalized by parking lots",
+    "feeds sprawl and isolation",
+    "we need walkability, accessibility and viable alternatives to driving",
+    "Art needs proximity. Art needs visibility",
+    "we need to rethink our city for human-centered design"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for arts and culture",
+    "overwhelming and fragmented information about events",
+    "poor public transportation infrastructure",
+    "dependence on cars due to lack of alternatives",
+    "parking taking up valuable real estate",
+    "urban sprawl and isolation",
+    "lack of walkability and accessibility"
+  ],
+  "solutions_proposed": [
+    "increase walkability",
+    "improve accessibility",
+    "provide viable alternatives to driving",
+    "rethink city design for human-centered urban planning"
+  ],
+  "cached_at": "2025-06-21T01:43:13.880116",
+  "cache_key": "eb8252d863397796820bf0a48a3e5108aaabf8572121b64f788a24f2ca5b54cd",
+  "model": "gpt-41"
+}

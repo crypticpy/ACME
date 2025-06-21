@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more opera performances",
+    "interest in international music acts",
+    "strong demand for Spanish-language theater"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More opera",
+    "more international bands",
+    "A LOT MORE THEATER IN SPANISH"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opera offerings",
+    "Bring more international bands to Austin",
+    "Significantly expand theater productions in Spanish"
+  ],
+  "cached_at": "2025-06-21T00:27:22.885916",
+  "cache_key": "f599863d1e201ea3c81e40343bb44c6c4e08c8a1ddbd5770229854ffaeb8e14e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient funding for artist spaces",
+    "inadequate salaries for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "much more funding for space",
+    "much more funding for salaries for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for space",
+    "lack of funding for artist salaries"
+  ],
+  "solutions_proposed": [
+    "increase funding for space",
+    "increase funding for salaries for artists"
+  ],
+  "cached_at": "2025-06-21T01:05:12.141223",
+  "cache_key": "061147fdf6569770a04716f2e2d8270cff2f66dc0688fef7c05f90b3fdacdab4",
+  "model": "gpt-41"
+}

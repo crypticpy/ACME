@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more visual arts events",
+    "interest in expanding cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More visual arts events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the number of visual arts events"
+  ],
+  "cached_at": "2025-06-21T00:36:32.005119",
+  "cache_key": "8ea51da6740ef646a438878ef3753641324811371f2bf2a2d80b8acdfa3f0cc1",
+  "model": "gpt-41"
+}

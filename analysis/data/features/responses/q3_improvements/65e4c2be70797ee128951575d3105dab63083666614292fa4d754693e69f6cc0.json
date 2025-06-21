@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sustained support for artists",
+    "impact measurement of funding",
+    "lack of education and support",
+    "artist and organizational sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "artists who are really going to make an impact",
+    "see how the funding helps them make more funding",
+    "so that way that they can continue showing up again and again",
+    "a one time fun and no education or support really cripples the artist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "one-time funding",
+    "lack of education or support"
+  ],
+  "solutions_proposed": [
+    "provide ongoing support and education for artists",
+    "structure funding to enable artists to generate further funding"
+  ],
+  "cached_at": "2025-06-21T01:06:56.709570",
+  "cache_key": "65e4c2be70797ee128951575d3105dab63083666614292fa4d754693e69f6cc0",
+  "model": "gpt-41"
+}

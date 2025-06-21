@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "art as economic investment",
+    "importance of funding for the arts",
+    "lack of affordable and available space for artists",
+    "underutilized city spaces",
+    "arts as value-add and enrichment",
+    "need for programmatic focus on creative arts' added value"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Art is a good investment",
+    "not providing space, programs, and funding for the arts is leaving money on the table",
+    "Funding is primary for obvious reasons",
+    "Space to work is expensive and hard to come by",
+    "the city has empty and underused spaces",
+    "programing with a focus on the added value of the creative arts",
+    "Art can and should be a value add to an organization, city, or culture",
+    "Facilitating the organizations that add value far and above their level of funding is the best way to support the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "expensive and hard to find work space",
+    "city has empty and underused spaces"
+  ],
+  "solutions_proposed": [
+    "provide funding for the arts",
+    "make city-owned empty and underused spaces available for artists",
+    "develop programming focused on the added value of creative arts",
+    "facilitate organizations that provide high value relative to their funding"
+  ],
+  "cached_at": "2025-06-20T10:24:40.955459",
+  "cache_key": "e65d31537b7f14b1d0b6ba728b83613812ad568397c236adfab72dfaabd50a8b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "evaluation of organizational impact",
+    "effectiveness of HOT funds usage",
+    "attendance as a metric for funding",
+    "restoration of previous funding levels",
+    "impact of funding relative to organization size"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "look at what each individual group is accomplishing",
+    "How effective are they at using the HOT funds provided",
+    "How many people are actually attending productions",
+    "Get funding levels back to 2018",
+    "30k to a 100k org is very impactful. 30k to a 500k org not so much"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current funding amounts are not impactful for larger organizations",
+    "funding levels have decreased since 2018"
+  ],
+  "solutions_proposed": [
+    "evaluate each group based on accomplishments and reach",
+    "assess effectiveness of HOT funds usage",
+    "consider actual attendance in funding decisions",
+    "restore funding levels to 2018 amounts",
+    "scale funding impact relative to organization size"
+  ],
+  "cached_at": "2025-06-20T01:12:55.786243",
+  "cache_key": "d9f1f060e2db703255656d296e891ff3db2b5af463bfa00062dbe18696e9c8da",
+  "model": "gpt-41"
+}

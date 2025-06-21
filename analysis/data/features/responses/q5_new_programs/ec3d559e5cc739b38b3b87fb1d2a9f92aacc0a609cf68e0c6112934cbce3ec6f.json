@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for ongoing, regular programming",
+    "need for family-friendly after-school spaces",
+    "preference for informal, low-barrier activities",
+    "utilization of existing arts and culture center spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More ongoing, weekly drop-in classes",
+    "arts and culture centers that have the space",
+    "regular after-school space I could bring my kids",
+    "like the library, but with different activities and workshops",
+    "don't need a lot of instruction"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of regular, accessible after-school programs for families",
+    "limited informal activity options at arts and culture centers"
+  ],
+  "solutions_proposed": [
+    "offer more ongoing, weekly drop-in classes",
+    "create regular after-school spaces with diverse activities and workshops that require minimal instruction"
+  ],
+  "cached_at": "2025-06-21T01:57:15.338608",
+  "cache_key": "ec3d559e5cc739b38b3b87fb1d2a9f92aacc0a609cf68e0c6112934cbce3ec6f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "better resource distribution",
+    "support for intersecting marginalized identities",
+    "focus on Black queer communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more funding and support",
+    "better distributing resources",
+    "intersecting marginalized identities",
+    "black queer folks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "inequitable resource distribution",
+    "lack of support for intersecting marginalized identities"
+  ],
+  "solutions_proposed": [
+    "provide more funding and support",
+    "better distribute resources to those of intersecting marginalized identities like black queer folks"
+  ],
+  "cached_at": "2025-06-20T10:37:45.035060",
+  "cache_key": "e6d4fbd1fb248420183db7adee21061714cbd3eb3241f4b73ec137e82f58cfd9",
+  "model": "gpt-41"
+}

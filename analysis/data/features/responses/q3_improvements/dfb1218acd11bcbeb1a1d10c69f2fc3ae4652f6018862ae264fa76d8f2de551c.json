@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to underserved communities",
+    "awareness of cultural events",
+    "equity in access to information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more outreach to underserved communities",
+    "inform of these types of events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to underserved communities",
+    "insufficient information about events"
+  ],
+  "solutions_proposed": [
+    "more outreach to underserved communities to inform of these types of events"
+  ],
+  "cached_at": "2025-06-21T01:19:19.779263",
+  "cache_key": "dfb1218acd11bcbeb1a1d10c69f2fc3ae4652f6018862ae264fa76d8f2de551c",
+  "model": "gpt-41"
+}

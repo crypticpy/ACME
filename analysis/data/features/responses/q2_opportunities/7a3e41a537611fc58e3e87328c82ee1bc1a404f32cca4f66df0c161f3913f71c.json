@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Desire for TEMPO program to return to AIPP",
+    "Support for emerging artists' professional development",
+    "Critique of current program administration (Trail Conservancy contract)",
+    "Value of onboarding tools for permanent public art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Bring TEMPO back to AIPP",
+    "out of the Trail Conservancy's contract",
+    "very successful on-boarding tool for emerging artists",
+    "qualified for permanent public art opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "TEMPO",
+    "AIPP",
+    "Trail Conservancy"
+  ],
+  "barriers_identified": [
+    "TEMPO program not administered by AIPP",
+    "Loss of onboarding opportunities for emerging artists"
+  ],
+  "solutions_proposed": [
+    "Return TEMPO to AIPP administration",
+    "Remove TEMPO from Trail Conservancy's contract"
+  ],
+  "cached_at": "2025-06-21T00:33:23.157495",
+  "cache_key": "7a3e41a537611fc58e3e87328c82ee1bc1a404f32cca4f66df0c161f3913f71c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "concern about major changes",
+    "desire for continuity",
+    "opposition to restarting processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Don't start over from scratch"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Do not start over from scratch"
+  ],
+  "cached_at": "2025-06-21T02:19:00.340820",
+  "cache_key": "b87aed8ad9293d6cc7a550075f1d1a39059bd50db22336254b338c59a7f8a696",
+  "model": "gpt-41"
+}

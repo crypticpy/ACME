@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "representation of people of colour",
+    "visibility for marginalized communities",
+    "inclusion of persons with disabilities",
+    "full inclusion of queer people"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more events highlighting people of colour",
+    "marginalized communities",
+    "persons w/disabilities",
+    "the full inclusion of queer people"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of events highlighting marginalized groups",
+    "insufficient inclusion of people with disabilities",
+    "insufficient inclusion of queer people"
+  ],
+  "solutions_proposed": [
+    "more events highlighting people of colour",
+    "more events for marginalized communities",
+    "more events for persons with disabilities",
+    "full inclusion of queer people in events"
+  ],
+  "cached_at": "2025-06-21T00:45:41.996070",
+  "cache_key": "cce01f26f398181702f75a19883dcf0754ef5a7ac59c1dc8b3c40af83440277f",
+  "model": "gpt-41"
+}

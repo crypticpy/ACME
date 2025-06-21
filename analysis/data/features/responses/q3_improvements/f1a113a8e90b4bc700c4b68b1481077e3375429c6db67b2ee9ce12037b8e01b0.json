@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion of long-standing organizations",
+    "stringent funding guidelines",
+    "misalignment between application parameters and organizational practices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "organizations, like mine, who have actively created works for 20+ years, were not considered for funding",
+    "more stringent guidelines that apply to .19",
+    "we don't necessarily fit into the expected parameters in the applications"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "stringent guidelines excluding experienced organizations",
+    "application parameters not accommodating all types of organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:59:53.495234",
+  "cache_key": "f1a113a8e90b4bc700c4b68b1481077e3375429c6db67b2ee9ce12037b8e01b0",
+  "model": "gpt-41"
+}

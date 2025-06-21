@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "age-related accessibility",
+    "timing of cultural programming",
+    "elder inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I\u2019m an elder",
+    "earlier programming",
+    "evening programming is always more accessible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "late scheduling of programming limits accessibility for elders"
+  ],
+  "solutions_proposed": [
+    "offer earlier programming"
+  ],
+  "cached_at": "2025-06-21T01:20:29.092301",
+  "cache_key": "818630ce03fed2e149e3779e5696c85f40ad8cc6eba5c0b2704fe6323c885071",
+  "model": "gpt-41"
+}

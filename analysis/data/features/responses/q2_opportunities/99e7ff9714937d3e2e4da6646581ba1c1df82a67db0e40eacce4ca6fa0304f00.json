@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "representation of Black business stories",
+    "history of segregation in Austin",
+    "promotion of hip hop culture",
+    "original film content"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Film \ud83c\udfa5 original stories of black business in Austin",
+    "segregation in Austin",
+    "hip hop in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Film original stories of black business in Austin",
+    "Film stories about segregation in Austin",
+    "Film stories about hip hop in Austin"
+  ],
+  "cached_at": "2025-06-21T00:26:09.147198",
+  "cache_key": "99e7ff9714937d3e2e4da6646581ba1c1df82a67db0e40eacce4ca6fa0304f00",
+  "model": "gpt-41"
+}

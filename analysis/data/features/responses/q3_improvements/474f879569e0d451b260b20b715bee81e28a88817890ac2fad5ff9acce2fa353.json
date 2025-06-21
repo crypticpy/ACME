@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for smaller opportunities",
+    "accessibility of funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "smaller opps"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of smaller opportunities"
+  ],
+  "solutions_proposed": [
+    "offer smaller opportunities"
+  ],
+  "cached_at": "2025-06-21T01:07:06.636606",
+  "cache_key": "474f879569e0d451b260b20b715bee81e28a88817890ac2fad5ff9acce2fa353",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cultural diversity in arts programming",
+    "community-based events",
+    "support for underserved neighborhoods",
+    "integration of arts and economic empowerment",
+    "entrepreneurship in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "culturally diverse, community-based arts and entrepreneurship events",
+    "underserved neighborhoods",
+    "combine creative expression with economic empowerment"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities in underserved neighborhoods"
+  ],
+  "solutions_proposed": [
+    "more opportunities for culturally diverse, community-based arts and entrepreneurship events",
+    "events that combine creative expression with economic empowerment"
+  ],
+  "cached_at": "2025-06-21T00:27:37.321425",
+  "cache_key": "59486c8017d695e0f7361a41f400101192de5d70eb5acb896332ca65877b16d8",
+  "model": "gpt-41"
+}

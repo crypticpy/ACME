@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for community engagement",
+    "recognition of feedback process"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Thank you for beginning the process of collecting community feedback"
+  ],
+  "intent": "expression_of_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:22:06.960597",
+  "cache_key": "2f19a707b17c0c2182462b0f12b125ac6ce4c46d58fb64f221a725dd5873c28f",
+  "model": "gpt-41"
+}

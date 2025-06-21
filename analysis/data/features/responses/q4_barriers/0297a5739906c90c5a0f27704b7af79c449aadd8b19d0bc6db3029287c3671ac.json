@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of financial support",
+    "comparative generosity of Austin residents",
+    "historical underfunding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Financial support",
+    "Austinites historically do not give as much as other cities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support",
+    "lower giving culture in Austin compared to other cities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:59.203518",
+  "cache_key": "0297a5739906c90c5a0f27704b7af79c449aadd8b19d0bc6db3029287c3671ac",
+  "model": "gpt-41"
+}

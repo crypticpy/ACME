@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high costs of performance venues",
+    "insufficient funding for artists",
+    "limited parking for events",
+    "production and staffing expenses"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Costs of venues for performances",
+    "limited parking",
+    "production (paying staff)",
+    "Lack of funding to pay all artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Costs of venues for performances",
+    "limited parking",
+    "production (paying staff)",
+    "Lack of funding to pay all artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:16.349113",
+  "cache_key": "9a3df7b27e4934750a38173b95fa9d02db2f98dc204164abebe3102f64871cb6",
+  "model": "gpt-41"
+}

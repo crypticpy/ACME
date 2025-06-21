@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for in-person training on application and reporting",
+    "Partnership with Equity Office for training",
+    "Access issues with city-run art galleries",
+    "MACC gallery closure and lack of access before renovation",
+    "Venue fee structures and affordability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "In person training sessions about how to apply and complete final reports",
+    "partner with Equity office to hold one",
+    "Better access to city run art galleries",
+    "the gallery was always closed",
+    "fees at city venues should be on a sliding scale based on size of the organization's/artist's budget"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "MACC"
+  ],
+  "barriers_identified": [
+    "Lack of in-person training on application and reporting processes",
+    "Limited access to city-run art galleries",
+    "MACC gallery was always closed before renovation",
+    "Venue fees not scaled to organization or artist budget"
+  ],
+  "solutions_proposed": [
+    "Offer in-person training sessions about how to apply and complete final reports",
+    "Partner with Equity office to hold training",
+    "Provide better access to city-run art galleries",
+    "Implement sliding scale fees at city venues based on size of organization's/artist's budget"
+  ],
+  "cached_at": "2025-06-21T02:08:30.521517",
+  "cache_key": "f00cfe4f3ef3f690aa6558ab60836572930bf9eee0e1a1fabfd916d130246fb4",
+  "model": "gpt-41"
+}

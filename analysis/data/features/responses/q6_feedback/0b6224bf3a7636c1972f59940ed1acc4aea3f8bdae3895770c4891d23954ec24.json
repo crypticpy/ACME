@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "importance of continued arts funding",
+    "gratitude for grant support",
+    "impact of Elevate Grant on organizational sustainability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Keep funding the arts!",
+    "We are honored to be recipients of the Elevate Grant the past two years.",
+    "Our organization would not be what it is without the grant funding."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate Grant"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Keep funding the arts"
+  ],
+  "cached_at": "2025-06-21T02:14:23.781414",
+  "cache_key": "0b6224bf3a7636c1972f59940ed1acc4aea3f8bdae3895770c4891d23954ec24",
+  "model": "gpt-41"
+}

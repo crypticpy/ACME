@@ -1,0 +1,48 @@
+{
+  "generated_at": "2025-06-19T13:02:12.614617",
+  "report_type": "Executive Summary",
+  "key_metrics": {
+    "total_responses": 0,
+    "response_rate": 0,
+    "geographic_coverage": 0,
+    "themes_identified": 10,
+    "programs_analyzed": 6
+  },
+  "top_themes": [
+    {
+      "theme": "Lack of funding for artists and creatives",
+      "count": 50,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "theme": "Rising costs of venues and performance spaces",
+      "count": 45,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "theme": "Limited opportunities for emerging artists",
+      "count": 30,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "theme": "Transportation and parking issues",
+      "count": 25,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "theme": "Cost of tickets or admission fees",
+      "count": 25,
+      "sentiment": "negative",
+      "urgency": "medium"
+    }
+  ],
+  "recommendations_summary": {
+    "immediate": 3,
+    "short_term": 3,
+    "long_term": 3
+  }
+}

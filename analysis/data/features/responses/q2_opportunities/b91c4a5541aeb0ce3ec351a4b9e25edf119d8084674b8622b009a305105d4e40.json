@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for more public art",
+    "interest in collaborative opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Public art",
+    "collaboration opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more public art",
+    "more collaboration opportunities"
+  ],
+  "cached_at": "2025-06-21T00:27:16.407597",
+  "cache_key": "b91c4a5541aeb0ce3ec351a4b9e25edf119d8084674b8622b009a305105d4e40",
+  "model": "gpt-41"
+}

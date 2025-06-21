@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient funding",
+    "accessibility of funds",
+    "administrative barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more money",
+    "easier to get"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing funds"
+  ],
+  "solutions_proposed": [
+    "increase available funding",
+    "simplify application or access process"
+  ],
+  "cached_at": "2025-06-21T00:56:09.693918",
+  "cache_key": "7ce09f5a9ac7ee15132ea9afce120b48421af7031a0ff8781c8eb98d9730fac5",
+  "model": "gpt-41"
+}

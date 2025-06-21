@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "recipient-centered funding",
+    "conflict between funder agendas and recipient needs",
+    "skepticism about feasibility of change"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding\u2019s purpose be oriented towards the needs and goals of worthy recipients",
+    "vs the agendas of the source of funding",
+    "not realistic, I know"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding priorities set by funders rather than recipients"
+  ],
+  "solutions_proposed": [
+    "orient funding purpose towards recipient needs and goals rather than funder agendas"
+  ],
+  "cached_at": "2025-06-21T00:58:48.167501",
+  "cache_key": "5d6137b0395b2a1baad7fdf7a92ffff253a951e17f132c099605d736bb28a46b",
+  "model": "gpt-41"
+}

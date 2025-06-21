@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of program awareness",
+    "timeliness of information",
+    "application accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More awareness!",
+    "I think they\u2019re great",
+    "when I do find out it\u2019s normally word of mouth",
+    "then it\u2019s too late to apply"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach or publicity",
+    "reliance on word of mouth",
+    "late notification about opportunities"
+  ],
+  "solutions_proposed": [
+    "increase awareness of programs"
+  ],
+  "cached_at": "2025-06-21T00:59:31.717312",
+  "cache_key": "4f446e654c23393c6845ef6379651f02feb3b91bf96c0bbcb49c98089d77547e",
+  "model": "gpt-41"
+}

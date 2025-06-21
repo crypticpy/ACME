@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for in-person discussion",
+    "limitations of survey format"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I do but my rebuttal would be more suitable for a focus group"
+  ],
+  "intent": "preference_expression",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "survey format not suitable for detailed feedback"
+  ],
+  "solutions_proposed": [
+    "use focus groups for more nuanced feedback"
+  ],
+  "cached_at": "2025-06-21T02:12:50.327047",
+  "cache_key": "400d5e3aa875c4b20a3b378e2a99034a86ae504eb78b73107c66d174ef822612",
+  "model": "gpt-41"
+}

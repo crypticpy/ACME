@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "environmental impact of service expansion",
+    "integration of environmental considerations in planning",
+    "artist connection to nature",
+    "personal expertise in environmental issues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "the environmental impact of expanding services can be costly",
+    "I hope that any expansions or changes will be informed by environmental considerations",
+    "as an artist that finds refuge in nature (and has environmental degrees)",
+    "I cannot stress how important this is"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential environmental costs of service expansion"
+  ],
+  "solutions_proposed": [
+    "ensure expansions or changes are informed by environmental considerations"
+  ],
+  "cached_at": "2025-06-21T02:13:09.048575",
+  "cache_key": "65534e343c40b083f49991a8b6f7f486f03cefe043db379185b4ecb0a32eb169",
+  "model": "gpt-41"
+}

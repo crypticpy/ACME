@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic distribution of cultural venues",
+    "access to live music outside central Austin",
+    "expansion of entertainment infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more live music venues",
+    "outside of central Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited live music venues outside central Austin"
+  ],
+  "solutions_proposed": [
+    "increase live music venues in areas beyond central Austin"
+  ],
+  "cached_at": "2025-06-21T00:49:15.045391",
+  "cache_key": "75093ef4847a6f7c44a77a1f8997a7ba8e9b75f289627516d276ec391ffee781",
+  "model": "gpt-41"
+}

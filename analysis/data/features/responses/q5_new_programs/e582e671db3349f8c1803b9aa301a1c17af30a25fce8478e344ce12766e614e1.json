@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for increased partnerships",
+    "artist engagement",
+    "program expansion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more partnerships",
+    "more artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more partnerships with more artists"
+  ],
+  "cached_at": "2025-06-21T01:52:03.618843",
+  "cache_key": "e582e671db3349f8c1803b9aa301a1c17af30a25fce8478e344ce12766e614e1",
+  "model": "gpt-41"
+}

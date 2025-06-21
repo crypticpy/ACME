@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "corporate engagement in the arts",
+    "public-private partnerships",
+    "board participation by business leaders",
+    "learning from other cities' models",
+    "cross-sector collaboration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "create more pathways for big corporations in town to directly contribute/partner/serve on the boards of arts non-profits",
+    "other cities, like Miami, have had success",
+    "specific task forces/groups that try to bring tech/biz leaders in direct contact with arts leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct engagement between corporations and arts non-profits",
+    "insufficient connection between tech/business leaders and arts leaders"
+  ],
+  "solutions_proposed": [
+    "create more pathways for big corporations to contribute, partner, or serve on arts non-profit boards",
+    "establish specific task forces or groups to connect tech/business leaders with arts leaders"
+  ],
+  "cached_at": "2025-06-21T02:19:30.564529",
+  "cache_key": "2e4006a7b311179897510aceb0246c28ca43233934670409c8a90e506ddc0206",
+  "model": "gpt-41"
+}

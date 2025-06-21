@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "application process complexity",
+    "competitive review panel concerns",
+    "support for organizations during application"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "friction free application processes",
+    "limit the hunger games style review panels",
+    "uplift organizations through the application processes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex and burdensome application processes",
+    "overly competitive review panels"
+  ],
+  "solutions_proposed": [
+    "implement friction free application processes",
+    "limit the hunger games style review panels",
+    "provide support to organizations during application"
+  ],
+  "cached_at": "2025-06-21T01:05:09.213025",
+  "cache_key": "207d3c46fd4d3fb20b89732ca2ebfaf4a20753b703f50e7343989a549f1e729f",
+  "model": "gpt-41"
+}

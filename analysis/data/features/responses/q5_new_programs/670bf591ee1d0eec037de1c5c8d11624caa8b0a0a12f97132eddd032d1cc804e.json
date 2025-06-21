@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "frustration with grant process",
+    "need for administrative improvement",
+    "prioritization of basic funding operations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "get the grants straight first"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ineffective or confusing grant process"
+  ],
+  "solutions_proposed": [
+    "improve or fix the grant process before adding new programs"
+  ],
+  "cached_at": "2025-06-21T02:02:14.948714",
+  "cache_key": "670bf591ee1d0eec037de1c5c8d11624caa8b0a0a12f97132eddd032d1cc804e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance, theatre, and opera",
+    "need for affordable performance spaces",
+    "interest in arts education"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Dance, theatre, opera.",
+    "Affordable performance spaces.",
+    "Arts education"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable performance spaces"
+  ],
+  "solutions_proposed": [
+    "affordable performance spaces",
+    "increased arts education"
+  ],
+  "cached_at": "2025-06-21T00:36:01.746621",
+  "cache_key": "7a04365c4ec2981689187ae84a9f869892fa74a5ea951a3e039a1ebf08706815",
+  "model": "gpt-41"
+}

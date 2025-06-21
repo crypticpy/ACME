@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "importance of event marketing",
+    "support for organizers and cultural leaders",
+    "expanding opportunities for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "need to have more funding",
+    "create events with better marketing",
+    "opportunities for our artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "inadequate marketing for events"
+  ],
+  "solutions_proposed": [
+    "provide more funding to organizers and cultural leaders",
+    "improve marketing for events"
+  ],
+  "cached_at": "2025-06-20T10:23:25.202426",
+  "cache_key": "847a866e36b8f43ff0388ab864ea4d5b4686acbc3b26f7db130f7bba71acc02a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "annual downtown art fair",
+    "showcasing local Austin artists",
+    "use of upscale venues for cultural events",
+    "drawing visitors and tourism through arts",
+    "aspiration for Art Basel-style event"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "A downtown art fair at an upscale hotel, conference center, or event space",
+    "showcase its artists in an annual event",
+    "draws visitors (like Art Basel in Miami)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Art Basel"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create a downtown art fair at an upscale hotel, conference center, or event space",
+    "Host an annual event to showcase Austin artists and attract visitors"
+  ],
+  "cached_at": "2025-06-21T02:04:39.190636",
+  "cache_key": "2fca2c0924bc237bd8dfb566e86b562e95175bb67ea24f37fd42540f6ac9bfe4",
+  "model": "gpt-41"
+}

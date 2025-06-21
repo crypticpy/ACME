@@ -1,0 +1,55 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for public art and murals",
+    "burdensome administrative processes and payout schedules",
+    "lack of protection for existing public artworks",
+    "inconsistent and unclear grant application processes",
+    "problems with grant review panel engagement and evaluation criteria",
+    "lack of recognition of artist identity and lived experience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "AIPP budgets, particularly for murals, are unreasonably low",
+    "extended timelines and stratified payout schedules place an undue burden on artists",
+    "unsustainable",
+    "AIPP intended to allow works in their archive to be demolished without protection",
+    "community and artist advocacy halted this",
+    "Nexus grant process was inconsistent and frustrating",
+    "review process was also extended multiple times",
+    "review panel disengaged",
+    "feedback was not only inaccurate but offensive",
+    "box-checking took precedence over meaningful evaluation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "Nexus",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "low budgets for public art relative to cost of living",
+    "extended project timelines",
+    "stratified payout schedules",
+    "risk of demolition of archived works",
+    "inconsistent and unclear grant application requirements",
+    "delayed review and announcement timelines",
+    "disengaged and potentially biased review panels",
+    "lack of recognition of artist's community identity"
+  ],
+  "solutions_proposed": [
+    "increase AIPP budgets for murals to reflect Austin's cost of living",
+    "streamline or improve payout schedules to reduce burden on artists",
+    "ensure permanent protection for works in the AIPP archive",
+    "maintain consistent and meaningful grant application requirements",
+    "improve review panel engagement and accuracy of feedback",
+    "prioritize meaningful evaluation over box-checking"
+  ],
+  "cached_at": "2025-06-21T01:08:25.712641",
+  "cache_key": "32425260d23472ff906148aa386b8de17ecb0a22fddd6b57b4394d05c0a2cb6a",
+  "model": "gpt-41"
+}

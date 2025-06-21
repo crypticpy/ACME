@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "multi-year grant funding",
+    "organizational stability",
+    "capacity building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "grant funding awards should be for a minimum of three years",
+    "allow the group to build a solid foundations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "short-term grant funding limits ability to build solid foundations"
+  ],
+  "solutions_proposed": [
+    "grant funding awards should be for a minimum of three years"
+  ],
+  "cached_at": "2025-06-21T01:18:12.087129",
+  "cache_key": "b31c4a294797ef2e5507792df00cf329a954f188db560bbc4cf5e3466f401708",
+  "model": "gpt-41"
+}

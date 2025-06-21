@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about repeat funding recipients",
+    "desire for equitable distribution of funds",
+    "support for emerging artists",
+    "comparison to practices in other cities (Nashville)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Don\u2019t give funding to people/peoples year after year",
+    "No repeats please",
+    "there\u2019s too many emerging artists here to not spread the wealth",
+    "like Nashville"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "repeat funding to the same recipients limits opportunities for emerging artists"
+  ],
+  "solutions_proposed": [
+    "Do not give funding to the same people year after year",
+    "Spread the wealth to emerging artists"
+  ],
+  "cached_at": "2025-06-21T00:54:29.917050",
+  "cache_key": "e50e9e8527f98faf65ec2fe0267a912f6ee3eaa8dce15156670a3dd0c8031d84",
+  "model": "gpt-41"
+}

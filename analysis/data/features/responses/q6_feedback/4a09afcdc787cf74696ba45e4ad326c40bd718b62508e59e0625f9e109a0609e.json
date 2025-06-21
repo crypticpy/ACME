@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "survey length as a deterrent",
+    "perceived barriers to participation",
+    "distrust in survey intent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "This survey is too long",
+    "feels like yall are trying deter people from filling it out"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "survey length deters participation",
+    "perceived intentional discouragement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:21:06.214825",
+  "cache_key": "4a09afcdc787cf74696ba45e4ad326c40bd718b62508e59e0625f9e109a0609e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of health insurance for artists",
+    "financial barriers due to expensive insurance",
+    "seasonal nature of arts work not accommodated"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "access to health insurance and benefits for artists",
+    "the market is extremely expensive",
+    "doesn't take into account the seasonal nature of work in the arts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "health insurance is extremely expensive",
+    "insurance options do not account for seasonal nature of arts work"
+  ],
+  "solutions_proposed": [
+    "offer access to health insurance and benefits for artists"
+  ],
+  "cached_at": "2025-06-21T02:07:38.300100",
+  "cache_key": "67f3e3c2e7d6ba7652d9a43533f5c39de220fbd037f36456fee1e5f0fa5f58f4",
+  "model": "gpt-41"
+}

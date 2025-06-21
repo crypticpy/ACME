@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of city-run venue rentals",
+    "impact of hidden and added fees",
+    "insufficient funding for production costs",
+    "difficulty paying artists/actors"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Non profits are unable to afford the rising costs of venue rentals",
+    "specifically city run spaces",
+    "added/hidden fees",
+    "barently any funding to cover production costs",
+    "including paying actors"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of venue rentals",
+    "added/hidden fees",
+    "lack of funding for production costs",
+    "inability to pay actors"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:22:13.921106",
+  "cache_key": "12f5b1d9a218381507a4303014400e6a5a0d02a6770858ac07eb69bcd973a5e5",
+  "model": "gpt-41"
+}

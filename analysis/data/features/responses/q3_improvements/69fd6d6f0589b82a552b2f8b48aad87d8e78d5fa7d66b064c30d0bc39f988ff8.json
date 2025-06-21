@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of support for local record labels",
+    "overemphasis on new artists",
+    "limited musical genre representation",
+    "misconceptions about Austin's music scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "open to supporting local record labels more generally",
+    "rather than focussing on new artists",
+    "be more open to different music styles",
+    "Austin isn't just country, punk and rock 'n roll"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "focus on new artists to the exclusion of established local record labels",
+    "narrow focus on specific music genres"
+  ],
+  "solutions_proposed": [
+    "support local record labels more generally",
+    "be more open to different music styles"
+  ],
+  "cached_at": "2025-06-21T00:59:05.094854",
+  "cache_key": "69fd6d6f0589b82a552b2f8b48aad87d8e78d5fa7d66b064c30d0bc39f988ff8",
+  "model": "gpt-41"
+}

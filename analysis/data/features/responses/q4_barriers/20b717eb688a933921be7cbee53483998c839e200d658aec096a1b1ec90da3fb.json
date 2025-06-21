@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability crisis for creative spaces",
+    "artist displacement due to rising costs",
+    "closure of venues and organizations",
+    "need for cultural sector stabilization"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "lack of affordable spaces to produce and show artistic work",
+    "increased costs all around driving artists out of Austin",
+    "closing venues and organizations",
+    "stabilization of the cultural sector"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable spaces",
+    "increased costs driving artists out",
+    "closure of venues and organizations"
+  ],
+  "solutions_proposed": [
+    "stabilization of the cultural sector"
+  ],
+  "cached_at": "2025-06-21T01:41:54.228335",
+  "cache_key": "20b717eb688a933921be7cbee53483998c839e200d658aec096a1b1ec90da3fb",
+  "model": "gpt-41"
+}

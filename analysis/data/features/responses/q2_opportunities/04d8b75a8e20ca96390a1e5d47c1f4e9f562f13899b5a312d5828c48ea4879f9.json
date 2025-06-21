@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community-rooted cultural heritage programming",
+    "intergenerational and intercultural engagement",
+    "social dance as a tool for community building",
+    "low-barrier, inclusive events",
+    "multidisciplinary gatherings (music, dance, food, visual art)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More cultural heritage programming rooted in community",
+    "active, place-based engagement",
+    "events that bring people together across generations and cultures",
+    "Social dance is one of the most powerful tools for this",
+    "lowest barrier to entry and cost or risk to produce",
+    "events where families and hundreds of neighbors can gather around live music, dance, food, and visual art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of low-barrier, community-led cultural events"
+  ],
+  "solutions_proposed": [
+    "increase cultural heritage programming rooted in community",
+    "create more opportunities for active, place-based engagement",
+    "host events that bring people together across generations and cultures",
+    "organize social dance events",
+    "facilitate gatherings with live music, dance, food, and visual art in shared spaces"
+  ],
+  "cached_at": "2025-06-21T00:31:05.653417",
+  "cache_key": "04d8b75a8e20ca96390a1e5d47c1f4e9f562f13899b5a312d5828c48ea4879f9",
+  "model": "gpt-41"
+}

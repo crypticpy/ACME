@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial precarity of independent arts workers",
+    "impact of Austin's rising cost of living on cultural participation",
+    "intersection of low-income status with racial/ethnic minority exclusion",
+    "geographic displacement from cultural venues",
+    "lack of access to wealthy networks and patrons",
+    "barriers to securing unearned income and city contracts",
+    "role of the Thrive program in addressing access issues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "primarily faces financial barriers",
+    "receiving fairly low wages relative to cost of living",
+    "increasingly priced out of living within a reasonable distance to venues",
+    "lack of social networks that include wealthy patrons or investors",
+    "lack of knowledge or experience in securing unearned income",
+    "City of Austin cultural contracts",
+    "the Thrive program is most specifically designed to address this last set of barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Thrive program"
+  ],
+  "barriers_identified": [
+    "financial barriers/low wages",
+    "high cost of living in Austin",
+    "geographic displacement from venues",
+    "lack of social networks with wealthy patrons or investors",
+    "lack of knowledge or experience in securing unearned income",
+    "difficulty accessing City of Austin cultural contracts",
+    "historical exclusion of racial/ethnic minorities and low-income people"
+  ],
+  "solutions_proposed": [
+    "Thrive program designed to address barriers to unearned income and access to support"
+  ],
+  "cached_at": "2025-06-21T01:25:38.086187",
+  "cache_key": "db730903763b2a0874c92ccc7d7e7d62b78d01d8d830093c2d6b301b540bf7fe",
+  "model": "gpt-41"
+}

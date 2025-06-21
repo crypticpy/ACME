@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable spaces",
+    "barriers to performance opportunities",
+    "barriers to rehearsal opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Finding affordable performance and rehearsal spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability of performance spaces",
+    "affordability of rehearsal spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:04.632013",
+  "cache_key": "cd4028d6e527c1af757740000a8248b0aa7cca3784a12a36376c2b661c95a13f",
+  "model": "gpt-41"
+}

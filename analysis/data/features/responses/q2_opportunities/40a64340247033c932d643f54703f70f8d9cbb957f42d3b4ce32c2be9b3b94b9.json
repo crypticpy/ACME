@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for greater cultural diversity in events",
+    "interest in Indian Classical Music",
+    "expansion of cultural event offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "a variety of different cultural events",
+    "Indian Classical Music for example"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer a variety of different cultural events",
+    "include Indian Classical Music"
+  ],
+  "cached_at": "2025-06-21T00:38:04.151276",
+  "cache_key": "40a64340247033c932d643f54703f70f8d9cbb957f42d3b4ce32c2be9b3b94b9",
+  "model": "gpt-41"
+}

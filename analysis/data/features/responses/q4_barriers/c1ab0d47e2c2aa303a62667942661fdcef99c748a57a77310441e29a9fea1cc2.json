@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "high operational costs",
+    "staff compensation challenges",
+    "marketing and outreach expenses"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Money.",
+    "Advertising costs.",
+    "Rent.",
+    "Staff Pay."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of money",
+    "high advertising costs",
+    "expensive rent",
+    "inadequate staff pay"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:48.545270",
+  "cache_key": "c1ab0d47e2c2aa303a62667942661fdcef99c748a57a77310441e29a9fea1cc2",
+  "model": "gpt-41"
+}

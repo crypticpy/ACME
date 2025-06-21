@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of basic urban infrastructure for culture",
+    "need for venue support for grassroots festivals",
+    "demand for venues supporting 600-1000 visitors",
+    "clarity and policies for use of major public spaces",
+    "revitalizing Austin's cultural reputation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the most basic urban infrastructure is missing",
+    "desperately need venue support for grassroots festivals and new cultural innovations",
+    "ANY indoor and outdoor venue that can host 600-1000 visitors",
+    "rentable through either ACE or PARD",
+    "allow to put Austin back on the map",
+    "Clear policies on the usage of Zilker Park, Auditorium Shores and Fiesta Gardens West End"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "missing basic urban infrastructure",
+    "lack of venues for 600-1000 visitors",
+    "unclear policies for use of public spaces"
+  ],
+  "solutions_proposed": [
+    "provide venue support for grassroots festivals and new cultural innovations",
+    "create indoor and outdoor venues for 600-1000 visitors rentable through ACE or PARD",
+    "establish clear policies for usage of Zilker Park, Auditorium Shores, and Fiesta Gardens West End"
+  ],
+  "cached_at": "2025-06-21T02:07:12.551011",
+  "cache_key": "e0edd576b32e23e39db76ede621b8b13b1586f7c98b6205c088d0b8ef64d20d6",
+  "model": "gpt-41"
+}

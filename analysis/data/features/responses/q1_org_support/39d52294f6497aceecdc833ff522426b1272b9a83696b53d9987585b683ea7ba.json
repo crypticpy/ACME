@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local initiatives",
+    "focus on Austin-based organizations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Support local, Austin based initiatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support local, Austin based initiatives"
+  ],
+  "cached_at": "2025-06-20T01:21:00.997854",
+  "cache_key": "39d52294f6497aceecdc833ff522426b1272b9a83696b53d9987585b683ea7ba",
+  "model": "gpt-41"
+}

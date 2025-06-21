@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "downtown accessibility",
+    "urban infrastructure challenges",
+    "parking limitations",
+    "space constraints"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "it is pretty great as it is in the thick of downtown",
+    "just the regular issues of a large city",
+    "Parking and space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking",
+    "space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:17.954585",
+  "cache_key": "6a02e371e1c7de158ae5f5d59bc4ef9bc65d4705ea05e2c35fb9c60594e38996",
+  "model": "gpt-41"
+}

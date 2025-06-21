@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of barriers faced by others",
+    "cost as a barrier to access",
+    "transportation as a barrier to access",
+    "personal lack of barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I personally don\u2019t face barriers",
+    "cost and transportation likely impact many communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost",
+    "transportation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:38.128567",
+  "cache_key": "4c5c42a00af907c25682153ce4a5074f0710a52b5f21849ee1e8934ee425b363",
+  "model": "gpt-41"
+}

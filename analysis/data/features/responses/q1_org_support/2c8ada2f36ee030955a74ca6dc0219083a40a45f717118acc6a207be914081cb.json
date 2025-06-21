@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inter-organizational cooperation",
+    "resource sharing",
+    "event promotion support",
+    "organizational efficiency training",
+    "youth cultural leadership development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "building cooperation between organizations",
+    "encourage organizations to share resources",
+    "help with promoting events",
+    "providing training to help make organizations more efficient",
+    "create a cultural leadership program, particularly among youth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cooperation between organizations",
+    "insufficient resource sharing",
+    "limited event promotion support",
+    "inefficiency in organizations",
+    "lack of youth leadership programs"
+  ],
+  "solutions_proposed": [
+    "build cooperation between organizations",
+    "encourage resource sharing",
+    "assist with event promotion",
+    "provide efficiency training for organizations",
+    "create a youth-focused cultural leadership program"
+  ],
+  "cached_at": "2025-06-20T10:42:45.275590",
+  "cache_key": "2c8ada2f36ee030955a74ca6dc0219083a40a45f717118acc6a207be914081cb",
+  "model": "gpt-41"
+}

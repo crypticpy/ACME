@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising cost of living impacting access",
+    "loss of arts-related jobs",
+    "insufficient access to creative spaces",
+    "limited access to arts education"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Rising cost of living",
+    "less access to classes and spaces due to higher costs",
+    "I have always worked in ceramic production",
+    "two of my major jobs I held for 5 + years go away with no replacement",
+    "If there was better access to space and education more jobs like this could exist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising cost of living",
+    "higher costs for classes and spaces",
+    "loss of arts-related jobs",
+    "insufficient access to space",
+    "insufficient access to education"
+  ],
+  "solutions_proposed": [
+    "better access to space and education"
+  ],
+  "cached_at": "2025-06-21T01:39:46.481813",
+  "cache_key": "60839e08fdbc9c0d7a1f64cfeac8bc953a154cd6ef9f9c44eeffdfbd474a5f8f",
+  "model": "gpt-41"
+}

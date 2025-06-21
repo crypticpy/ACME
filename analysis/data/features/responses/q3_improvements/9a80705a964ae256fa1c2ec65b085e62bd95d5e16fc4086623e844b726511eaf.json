@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased financial support",
+    "donations to cultural programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more money donated",
+    "support them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "more money donated to support them"
+  ],
+  "cached_at": "2025-06-21T01:03:11.581277",
+  "cache_key": "9a80705a964ae256fa1c2ec65b085e62bd95d5e16fc4086623e844b726511eaf",
+  "model": "gpt-41"
+}

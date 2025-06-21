@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community engagement through listening sessions",
+    "representation of local needs in programming",
+    "transparency in funding decisions",
+    "collaboration with grassroots groups",
+    "sustained (not one-time) support",
+    "centering equity in organizational structure and strategy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "deeper community engagement",
+    "holding regular listening sessions across diverse neighborhoods",
+    "ensuring programs reflect local needs",
+    "transparency in funding decisions",
+    "more collaboration with grassroots groups",
+    "sustained support (not just one-time grants)",
+    "center equity not just in words, but in structure, staffing, and strategy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in funding decisions",
+    "insufficient collaboration with grassroots groups",
+    "limited or one-time support instead of sustained funding",
+    "equity not fully integrated into structure, staffing, and strategy"
+  ],
+  "solutions_proposed": [
+    "hold regular listening sessions across diverse neighborhoods",
+    "ensure programs reflect local needs",
+    "increase transparency in funding decisions",
+    "collaborate more with grassroots groups",
+    "provide sustained support rather than one-time grants",
+    "center equity in structure, staffing, and strategy"
+  ],
+  "cached_at": "2025-06-21T02:22:38.363188",
+  "cache_key": "2e11f46c941b8b269c7377f8075e9e028f0a27d2807cf80dbd41f6346023fcdb",
+  "model": "gpt-41"
+}

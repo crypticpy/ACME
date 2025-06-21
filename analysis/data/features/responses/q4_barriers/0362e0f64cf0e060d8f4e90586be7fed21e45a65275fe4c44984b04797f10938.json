@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "absence of personal barriers",
+    "awareness of privilege/luck"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I don't face any",
+    "I am lucky"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:41.541355",
+  "cache_key": "0362e0f64cf0e060d8f4e90586be7fed21e45a65275fe4c44984b04797f10938",
+  "model": "gpt-41"
+}

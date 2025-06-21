@@ -1,0 +1,49 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "unstable funding for legacy organizations",
+    "shrinking employment opportunities for arts workers",
+    "lack of affordable performance and rehearsal facilities",
+    "rising operational and facility costs",
+    "leadership gaps and community fragmentation",
+    "devaluation of art and quality",
+    "tension between established and new arrivals in the arts sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "not guaranteeing us stable funding",
+    "must continue to shrink",
+    "reduces employment opportunities for artists, technicians, designers, etc.",
+    "lack of performance and rehearsal facilities is criminal",
+    "cost of doing business for us has increased approximately 30%",
+    "empty commercial real estate in the city",
+    "leadership from the former arts-related offices within the city of Austin and the arts community is lacking",
+    "fractured arts community where everyone is pitched against everyone else",
+    "stop making 'art' and 'quality' dirty words",
+    "displaced by new arrivals with no connection to the city and no meaningful experience in the profession"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unstable funding for legacy organizations",
+    "lack of affordable performance and rehearsal facilities",
+    "increased facility and operational costs",
+    "leadership gaps in city and arts community",
+    "community fragmentation and competition",
+    "devaluation of established art and quality",
+    "displacement by newcomers lacking local ties or experience"
+  ],
+  "solutions_proposed": [
+    "convert empty commercial real estate into performance spaces",
+    "bring people together to reduce competition within the arts community",
+    "restore or improve leadership from arts-related city offices",
+    "stop devaluing 'art' and 'quality'"
+  ],
+  "cached_at": "2025-06-20T01:15:38.475632",
+  "cache_key": "c57239b5d9f70663e60102f7294a9ee229da8440945a5aee220c40ed3a618a30",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of nearby cultural events",
+    "seasonal inaccessibility due to extreme heat",
+    "high cost of concert tickets",
+    "insufficient promotion for local musicians",
+    "need for city-sponsored live music venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Not things nearby",
+    "things happening outside only during super hot months",
+    "expensive concert tickets",
+    "not enough local musicians / bands *and* no way for them to get the word out",
+    "need more city sponsored live music venues and events to get the word out about local artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of nearby events",
+    "events only scheduled during extremely hot months",
+    "expensive concert tickets",
+    "not enough local musicians or bands",
+    "lack of promotional opportunities for local artists"
+  ],
+  "solutions_proposed": [
+    "more city sponsored live music venues",
+    "more city sponsored events to promote local artists"
+  ],
+  "cached_at": "2025-06-21T01:25:44.055565",
+  "cache_key": "7d4c78452ae97ac47276cf360c00fa15da36ce8ed3496e910939e015cbe1ff6a",
+  "model": "gpt-41"
+}

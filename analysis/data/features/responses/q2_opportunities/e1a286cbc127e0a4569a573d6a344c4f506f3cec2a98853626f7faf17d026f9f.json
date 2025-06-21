@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of music events",
+    "increased access to art galleries"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Affordable music",
+    "Art galleries"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability"
+  ],
+  "solutions_proposed": [
+    "more affordable music opportunities",
+    "more art galleries"
+  ],
+  "cached_at": "2025-06-21T00:29:51.622773",
+  "cache_key": "e1a286cbc127e0a4569a573d6a344c4f506f3cec2a98853626f7faf17d026f9f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for maker spaces",
+    "gap in current program offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Maker spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer maker spaces"
+  ],
+  "cached_at": "2025-06-21T01:54:41.008882",
+  "cache_key": "cb73df5e3f269d991060b7cd8c2c7e23c6a42c5c2d0c152618c188a41d9c0051",
+  "model": "gpt-41"
+}

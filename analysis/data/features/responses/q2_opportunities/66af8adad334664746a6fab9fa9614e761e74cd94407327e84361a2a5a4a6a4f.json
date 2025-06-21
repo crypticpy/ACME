@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "tiered grant opportunities",
+    "support for emerging artists",
+    "incentives for experienced artists",
+    "variety in funding mechanisms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Grants at various levels",
+    "emerging artists an opportunity",
+    "more experienced artists strive for large projects",
+    "more variety in grants",
+    "more opportunities depending on experience"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "limited grant variety restricts opportunities based on experience"
+  ],
+  "solutions_proposed": [
+    "offer grants at various levels",
+    "increase variety in grants to match artist experience"
+  ],
+  "cached_at": "2025-06-21T00:43:06.348876",
+  "cache_key": "66af8adad334664746a6fab9fa9614e761e74cd94407327e84361a2a5a4a6a4f",
+  "model": "gpt-41"
+}

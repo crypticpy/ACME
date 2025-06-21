@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "promotion of underrepresented communities",
+    "affordability of educational programs",
+    "support for low income communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "program that promotes underrepresented communities",
+    "making educational programs more affordable",
+    "for low income communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of programs for underrepresented communities",
+    "cost of educational programs for low income communities"
+  ],
+  "solutions_proposed": [
+    "promote underrepresented communities",
+    "make educational programs more affordable for low income communities"
+  ],
+  "cached_at": "2025-06-21T02:04:15.033264",
+  "cache_key": "17bed0a109363e5d7ff914b6d3172b8f2d5537f963c36d4a5ada6860ac612731",
+  "model": "gpt-41"
+}

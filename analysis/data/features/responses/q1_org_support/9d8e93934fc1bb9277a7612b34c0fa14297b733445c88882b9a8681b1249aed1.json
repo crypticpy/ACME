@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support",
+    "funding needs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Financially"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide financial support"
+  ],
+  "cached_at": "2025-06-20T10:35:29.783016",
+  "cache_key": "9d8e93934fc1bb9277a7612b34c0fa14297b733445c88882b9a8681b1249aed1",
+  "model": "gpt-41"
+}

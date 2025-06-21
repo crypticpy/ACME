@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist visibility",
+    "artist storytelling",
+    "platforms for artists",
+    "community engagement through artist narratives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "artist talks/showcases",
+    "give artists the platform",
+    "show their arts",
+    "talk about their artistry and journey"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of platforms for artists to share their work and stories"
+  ],
+  "solutions_proposed": [
+    "more artist talks/showcases that give artists the platform to show their arts and talk about their artistry and journey"
+  ],
+  "cached_at": "2025-06-21T00:50:44.643263",
+  "cache_key": "8b9aa70d7ba5c509d488895eeb62bb7c01f721cc52e96ef4674e2c92d1560b05",
+  "model": "gpt-41"
+}

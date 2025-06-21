@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for an arts district",
+    "distinction between arts and cultural districts",
+    "collaboration among facilities and organizations",
+    "creating a destination for residents and visitors"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "considerate effort to establish an arts district",
+    "different from a cultural district",
+    "aligns, brings together, multiple facilities and organizations",
+    "destination for residents and visitors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of a unified arts district"
+  ],
+  "solutions_proposed": [
+    "establish an arts district that aligns multiple facilities and organizations as a destination"
+  ],
+  "cached_at": "2025-06-21T00:39:51.387328",
+  "cache_key": "09cf2d434262280bd953eb22958ce1f53cca46ded076dc4388174b4e1e239c14",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "street music festivals",
+    "open and inclusive events",
+    "community access to cultural activities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "street music festival",
+    "open to all"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of open and inclusive street music festivals"
+  ],
+  "solutions_proposed": [
+    "organize street music festivals that are open to all"
+  ],
+  "cached_at": "2025-06-21T00:25:13.431930",
+  "cache_key": "7d3a82a3548dfa99712c6dc046f16285938703bbe7236ed642ef82d6e82b40a7",
+  "model": "gpt-41"
+}

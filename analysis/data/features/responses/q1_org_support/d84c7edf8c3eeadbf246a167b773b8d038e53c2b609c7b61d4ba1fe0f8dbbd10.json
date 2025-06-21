@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about funding cuts",
+    "desire for funding expansion",
+    "protection of existing resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "don\u2019t eliminate funding",
+    "take away what we already have",
+    "work to expand on them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential loss of existing funding"
+  ],
+  "solutions_proposed": [
+    "do not eliminate funding",
+    "expand on existing funding"
+  ],
+  "cached_at": "2025-06-20T10:38:42.344368",
+  "cache_key": "d84c7edf8c3eeadbf246a167b773b8d038e53c2b609c7b61d4ba1fe0f8dbbd10",
+  "model": "gpt-41"
+}

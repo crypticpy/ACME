@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "networking and collaboration",
+    "reducing competition among organizations",
+    "referral support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Networking events",
+    "help referrals",
+    "over competition"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition among organizations"
+  ],
+  "solutions_proposed": [
+    "Networking events to help referrals over competition"
+  ],
+  "cached_at": "2025-06-20T01:16:54.897356",
+  "cache_key": "8260d2afd13802f208688b465750eee2411c656824223e7f37d31aa79413badf",
+  "model": "gpt-41"
+}

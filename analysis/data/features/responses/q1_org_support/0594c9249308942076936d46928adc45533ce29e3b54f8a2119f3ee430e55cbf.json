@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "threat of corporate interests to arts",
+    "need for protection of art spaces",
+    "conflict between profit and cultural values"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "protecting arts and art spaces",
+    "corporate short interests",
+    "short term profit over culture"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "corporate short interests focused on short term profit"
+  ],
+  "solutions_proposed": [
+    "protecting arts and art spaces against corporate short interests"
+  ],
+  "cached_at": "2025-06-20T10:24:42.557071",
+  "cache_key": "0594c9249308942076936d46928adc45533ce29e3b54f8a2119f3ee430e55cbf",
+  "model": "gpt-41"
+}

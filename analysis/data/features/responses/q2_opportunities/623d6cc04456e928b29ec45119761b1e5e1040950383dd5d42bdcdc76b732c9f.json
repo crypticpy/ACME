@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more diverse music opportunities",
+    "lack of cultural representation in music funding",
+    "venues favoring limited genres",
+    "insufficient support for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more diverse music opportunities",
+    "exploring and showcasing other cultures through music",
+    "funding goes to country, punk and jazz",
+    "venues catering to those bands",
+    "not enough of a push to get emerging artists involved"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding concentrated on specific genres",
+    "venues catering to limited types of bands",
+    "lack of support for emerging artists"
+  ],
+  "solutions_proposed": [
+    "exploring and showcasing other cultures through music",
+    "more push to get emerging artists involved"
+  ],
+  "cached_at": "2025-06-21T00:49:40.482189",
+  "cache_key": "623d6cc04456e928b29ec45119761b1e5e1040950383dd5d42bdcdc76b732c9f",
+  "model": "gpt-41"
+}

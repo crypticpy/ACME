@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "perceived unfairness in applicant selection",
+    "lack of community engagement among some recipients",
+    "need for improved vetting processes",
+    "secondhand information influencing perceptions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "better vetting of applicants",
+    "many hard working artists get denied",
+    "people who don\u2019t actively engage in the community",
+    "don\u2019t even have a band/play live shows in Austin receive funding",
+    "it\u2019s all hearsay so maybe take it with a grain of salt"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "hard working artists get denied",
+    "recipients not actively engaging in the community",
+    "recipients not participating in local live shows"
+  ],
+  "solutions_proposed": [
+    "better vetting of applicants"
+  ],
+  "cached_at": "2025-06-21T01:08:36.105874",
+  "cache_key": "b2b5e6301feaf2f773c02dc92708fc58c3efc4760ef5414942d2dbf3667d7608",
+  "model": "gpt-41"
+}

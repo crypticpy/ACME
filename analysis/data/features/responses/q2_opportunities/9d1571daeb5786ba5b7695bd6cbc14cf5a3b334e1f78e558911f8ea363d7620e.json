@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "geographic equity in cultural programming",
+    "representation of the Black community",
+    "limitations of current cultural offerings to East Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "catering to the black community",
+    "spaces other than east Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural opportunities for the Black community outside East Austin"
+  ],
+  "solutions_proposed": [
+    "expand cultural programming for the Black community beyond East Austin"
+  ],
+  "cached_at": "2025-06-21T00:52:47.733162",
+  "cache_key": "9d1571daeb5786ba5b7695bd6cbc14cf5a3b334e1f78e558911f8ea363d7620e",
+  "model": "gpt-41"
+}

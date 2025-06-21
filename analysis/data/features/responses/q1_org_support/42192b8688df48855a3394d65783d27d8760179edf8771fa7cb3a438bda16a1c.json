@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support for cultural spaces facing relocation",
+    "preservation of staple cultural venues",
+    "development of new program opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Help finance staple spaces that have to move",
+    "like Hideout",
+    "Develop calls for programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Hideout"
+  ],
+  "barriers_identified": [
+    "staple spaces that have to move"
+  ],
+  "solutions_proposed": [
+    "Help finance staple spaces that have to move",
+    "Develop calls for programs"
+  ],
+  "cached_at": "2025-06-20T10:43:44.206338",
+  "cache_key": "42192b8688df48855a3394d65783d27d8760179edf8771fa7cb3a438bda16a1c",
+  "model": "gpt-41"
+}

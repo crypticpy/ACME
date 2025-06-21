@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "BIPOC exclusion",
+    "lack of awareness",
+    "need for education",
+    "systemic inequity",
+    "community engagement deficit",
+    "insufficient outreach",
+    "need for individualized support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "BIPOC continue to be left behind",
+    "less awareness, education, and systemic issues",
+    "more community engagement, outreach, and individual support is needed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "less awareness",
+    "lack of education",
+    "systemic issues"
+  ],
+  "solutions_proposed": [
+    "more community engagement",
+    "increased outreach",
+    "individual support"
+  ],
+  "cached_at": "2025-06-21T01:45:27.490399",
+  "cache_key": "65bc0560ccb30c9f3a9bcc0a68e7efa9f2e798f1bb3e4ba6eef6a6f831cfd441",
+  "model": "gpt-41"
+}

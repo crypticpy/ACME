@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for resources",
+    "need for support"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "resources and support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide resources",
+    "provide support"
+  ],
+  "cached_at": "2025-06-20T10:37:43.308975",
+  "cache_key": "53ad887d2c0c11ccf9cd76b57fd937d31f32f1352457804b0d88639ca7eeb648",
+  "model": "gpt-41"
+}

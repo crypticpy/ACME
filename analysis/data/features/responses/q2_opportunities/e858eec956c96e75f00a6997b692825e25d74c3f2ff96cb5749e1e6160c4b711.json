@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of performance venues",
+    "impact of rising rents on arts spaces",
+    "threat from new construction",
+    "restrictive city regulations",
+    "need for municipal support of venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "MORE VENUES",
+    "lost several spaces over the last few years",
+    "in danger of losing more as rents increase and new construction looms",
+    "encourage and support more performance spaces",
+    "get rid of hidebound regulations that limit access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising rents",
+    "new construction",
+    "hidebound regulations that limit access to spaces"
+  ],
+  "solutions_proposed": [
+    "encourage and support more performance spaces",
+    "get rid of hidebound regulations that limit access to spaces"
+  ],
+  "cached_at": "2025-06-21T00:44:48.597722",
+  "cache_key": "e858eec956c96e75f00a6997b692825e25d74c3f2ff96cb5749e1e6160c4b711",
+  "model": "gpt-41"
+}

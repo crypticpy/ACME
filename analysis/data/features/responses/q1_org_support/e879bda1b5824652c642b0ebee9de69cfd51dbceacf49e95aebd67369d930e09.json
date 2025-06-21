@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "recognition of long-term local artists",
+    "resistance to unnecessary change",
+    "value of existing community knowledge"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Pay closer attention to the artists who have been working here for years",
+    "Don\u2019t reinvent the wheel"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of attention to long-term local artists"
+  ],
+  "solutions_proposed": [
+    "pay closer attention to established local artists",
+    "avoid unnecessary programmatic changes"
+  ],
+  "cached_at": "2025-06-20T10:28:50.991460",
+  "cache_key": "e879bda1b5824652c642b0ebee9de69cfd51dbceacf49e95aebd67369d930e09",
+  "model": "gpt-41"
+}

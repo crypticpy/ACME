@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Black flight and displacement in East Austin",
+    "Cultural heritage preservation",
+    "Impact of revitalization on Black communities",
+    "Importance of Blues, Jazz, and Gospel music traditions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Black flight in east Austin",
+    "revitalization is going to happen",
+    "we can save the culture heritage that was once there",
+    "preserving rich tradition of Blues Jazz and Gospel music"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Black flight in east Austin",
+    "Loss of cultural heritage due to revitalization"
+  ],
+  "solutions_proposed": [
+    "Preserving rich tradition of Blues Jazz and Gospel music"
+  ],
+  "cached_at": "2025-06-21T01:21:17.104694",
+  "cache_key": "40f7b6c069c269062887ecc0c51a518bed60f0718317dc84c3112f4b70d03184",
+  "model": "gpt-41"
+}

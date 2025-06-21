@@ -1,0 +1,42 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of program awareness",
+    "need for centralized information",
+    "website usability and accessibility",
+    "promotion and outreach",
+    "collaboration with local institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I haven't heard of most of these",
+    "having your own website would be helpful on the city page",
+    "find right away on the home page without having to click a lot of links",
+    "one stop shop for grants, artist information, upcoming events",
+    "advertising these grants more",
+    "teaming up with museum or venue newsletters"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "lack of awareness of programs",
+    "difficulty finding information online",
+    "insufficient promotion of grants"
+  ],
+  "solutions_proposed": [
+    "create a dedicated website or webpage on the city page",
+    "feature the site on the home page for easy access",
+    "provide a one stop shop for grants, artist information, and events",
+    "increase advertising of grants",
+    "partner with museum or venue newsletters to promote programs"
+  ],
+  "cached_at": "2025-06-21T01:01:08.455926",
+  "cache_key": "6fa942057de94b268d2fb015099aee276cc8ac7614e0a135504a47cf1211be3c",
+  "model": "gpt-41"
+}

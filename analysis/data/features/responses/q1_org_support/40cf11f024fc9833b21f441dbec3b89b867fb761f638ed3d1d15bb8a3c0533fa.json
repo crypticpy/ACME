@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for local nonprofits and arts organizations",
+    "importance of free and accessible community opportunities",
+    "concern about diminishing federal funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding local nonprofits and arts organizations",
+    "provide free and accessible opportunities to the community",
+    "essential, especially in these times of diminishing federal funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "diminishing federal funding"
+  ],
+  "solutions_proposed": [
+    "funding local nonprofits and arts organizations, especially those that provide free and accessible opportunities to the community"
+  ],
+  "cached_at": "2025-06-20T01:11:50.159671",
+  "cache_key": "40cf11f024fc9833b21f441dbec3b89b867fb761f638ed3d1d15bb8a3c0533fa",
+  "model": "gpt-41"
+}

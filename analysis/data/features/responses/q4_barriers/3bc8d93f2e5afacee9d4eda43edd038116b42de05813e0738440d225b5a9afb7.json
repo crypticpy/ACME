@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of timely information",
+    "missed opportunities",
+    "communication barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Lack of awareness",
+    "find out about events/opportunities after it\u2019s too late"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of events and opportunities",
+    "information received too late"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:21.453028",
+  "cache_key": "3bc8d93f2e5afacee9d4eda43edd038116b42de05813e0738440d225b5a9afb7",
+  "model": "gpt-41"
+}

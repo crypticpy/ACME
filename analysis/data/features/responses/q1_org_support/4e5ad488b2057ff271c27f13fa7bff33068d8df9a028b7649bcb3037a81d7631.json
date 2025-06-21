@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of knowledge",
+    "uncertainty about subject matter"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.1,
+  "key_phrases": [
+    "Don\u2019t know much about science books",
+    "dont know much about French I took"
+  ],
+  "intent": "expressing lack of knowledge",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information or familiarity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:44:48.622699",
+  "cache_key": "4e5ad488b2057ff271c27f13fa7bff33068d8df9a028b7649bcb3037a81d7631",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of studio space",
+    "lack of event space",
+    "need for storefronts in high traffic areas"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Studio and event space",
+    "storefront in high traffic areas"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of studio space",
+    "lack of event space",
+    "lack of storefronts in high traffic areas"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:30.429274",
+  "cache_key": "53ce03205174c24d525b55005a81c07ad0b4e15ef76a906c0b494738364bd838",
+  "model": "gpt-41"
+}

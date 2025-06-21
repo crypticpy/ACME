@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of local artists",
+    "support for established Austin organizations",
+    "funding allocation preferences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Consider established Austin based artists and organizations before others"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of prioritization for local established artists and organizations"
+  ],
+  "solutions_proposed": [
+    "Prioritize established Austin based artists and organizations in funding decisions"
+  ],
+  "cached_at": "2025-06-21T02:17:36.573575",
+  "cache_key": "6e5676aa7f64a73f2eed34c4d35974468dd716c97b83066e10d9abb8374bc0d3",
+  "model": "gpt-41"
+}

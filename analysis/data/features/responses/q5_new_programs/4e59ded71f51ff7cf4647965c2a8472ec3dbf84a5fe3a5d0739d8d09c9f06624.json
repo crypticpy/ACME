@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of awareness of existing programs"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Not sure what all programs and services offered"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about available programs and services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:00:53.851426",
+  "cache_key": "4e59ded71f51ff7cf4647965c2a8472ec3dbf84a5fe3a5d0739d8d09c9f06624",
+  "model": "gpt-41"
+}

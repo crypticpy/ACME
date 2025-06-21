@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for small scale festivals",
+    "need for adequate funding and budgeting",
+    "emphasis on culturally important artists",
+    "documentation through livestreams and filmmaking"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "small scale festivals",
+    "enough funding / budget",
+    "draw culturally important artists",
+    "document the event through livestreams and filmmaking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding or budget for small scale festivals"
+  ],
+  "solutions_proposed": [
+    "provide enough funding/budget to attract culturally important artists",
+    "document events through livestreams and filmmaking"
+  ],
+  "cached_at": "2025-06-21T00:35:09.602856",
+  "cache_key": "dbaee2d45dfe6fa324aa69f52247f580f39800f43a39efd4016434b58c94ec4b",
+  "model": "gpt-41"
+}

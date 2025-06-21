@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusivity",
+    "representation of POC artists",
+    "support for underrepresented communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "being more inclusive",
+    "including POC or under represented community artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusion of POC or underrepresented community artists"
+  ],
+  "solutions_proposed": [
+    "be more inclusive",
+    "include POC or under represented community artists"
+  ],
+  "cached_at": "2025-06-20T10:23:54.124393",
+  "cache_key": "9cffb979c42621d3d7c6948817331feb5b61d578afc51bcd4ca0ff3aa90ee1eb",
+  "model": "gpt-41"
+}

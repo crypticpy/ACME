@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for administrative support",
+    "difficulty with financial reporting processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Happy to have the administrative support you provide",
+    "wish your financial reporting was a little less difficult"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial reporting was a little less difficult"
+  ],
+  "solutions_proposed": [
+    "make financial reporting less difficult"
+  ],
+  "cached_at": "2025-06-21T01:48:02.242186",
+  "cache_key": "5dd6f699fd97c4edd348ae98ec406d1de2534031397611dbcf709ad59dca7375",
+  "model": "gpt-41"
+}

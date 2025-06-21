@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "integration of new artists",
+    "community connection",
+    "support for creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "connect new artists and creatives",
+    "into the communities here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection for new artists and creatives"
+  ],
+  "solutions_proposed": [
+    "ways to connect new artists and creatives into the communities"
+  ],
+  "cached_at": "2025-06-21T00:37:06.084899",
+  "cache_key": "12b5b41848c7f0bb01e33f3be631d5ac2f005432476f02ae5f3fc83967864da6",
+  "model": "gpt-41"
+}

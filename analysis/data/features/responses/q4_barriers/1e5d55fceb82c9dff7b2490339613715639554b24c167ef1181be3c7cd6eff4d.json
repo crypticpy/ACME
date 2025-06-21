@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "disregard for community input by department",
+    "disrespectful treatment by city staff",
+    "high permitting costs",
+    "challenges with street closures",
+    "insufficient grant awards for mid-to-large organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "continuously ignored our input",
+    "feedback and in fact were disrespectful",
+    "permitting costs",
+    "street closures",
+    "grant awards are too small for middle to big organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "department ignores input and feedback",
+    "disrespectful treatment by department",
+    "high permitting costs",
+    "difficulties with street closures",
+    "grant awards too small for mid-to-large organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:40.370281",
+  "cache_key": "1e5d55fceb82c9dff7b2490339613715639554b24c167ef1181be3c7cd6eff4d",
+  "model": "gpt-41"
+}

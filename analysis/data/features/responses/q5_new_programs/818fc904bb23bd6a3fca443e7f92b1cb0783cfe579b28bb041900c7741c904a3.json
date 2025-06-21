@@ -1,0 +1,40 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "holistic support for cultural participants",
+    "cross-departmental awareness and coordination",
+    "ongoing education and skill building",
+    "basic needs support (transportation, housing, food security, childcare)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "holistic support",
+    "awareness of existing support in other City departments",
+    "ongoing education and skill building",
+    "transportation",
+    "housing",
+    "food security",
+    "childcare"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of existing support",
+    "insufficient support for transportation",
+    "insufficient support for housing",
+    "insufficient support for food security",
+    "insufficient support for childcare"
+  ],
+  "solutions_proposed": [
+    "provide holistic support that includes ongoing education and skill building",
+    "increase awareness of support available in other City departments",
+    "offer or coordinate support for transportation, housing, food security, and childcare"
+  ],
+  "cached_at": "2025-06-21T02:02:12.370212",
+  "cache_key": "818fc904bb23bd6a3fca443e7f92b1cb0783cfe579b28bb041900c7741c904a3",
+  "model": "gpt-41"
+}

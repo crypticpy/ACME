@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about application process",
+    "need for clearer grant application guidance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Need to know how to apply for these grants"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear application process"
+  ],
+  "solutions_proposed": [
+    "provide information on how to apply for grants"
+  ],
+  "cached_at": "2025-06-21T00:59:56.058387",
+  "cache_key": "2d9fc04351965ff9fc4822c8d57cdcccc46a3c7665d32b52c46742167ea8e7d8",
+  "model": "gpt-41"
+}

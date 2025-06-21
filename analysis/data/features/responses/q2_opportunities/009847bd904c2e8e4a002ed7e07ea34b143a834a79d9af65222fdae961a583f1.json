@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for arts organizations",
+    "support for artists through paid opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding for arts organizations already doing on-the-ground work",
+    "Paid opportunities for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for arts organizations",
+    "insufficient paid opportunities for artists"
+  ],
+  "solutions_proposed": [
+    "increase funding for arts organizations already doing on-the-ground work",
+    "provide more paid opportunities for artists"
+  ],
+  "cached_at": "2025-06-21T00:32:25.327340",
+  "cache_key": "009847bd904c2e8e4a002ed7e07ea34b143a834a79d9af65222fdae961a583f1",
+  "model": "gpt-41"
+}

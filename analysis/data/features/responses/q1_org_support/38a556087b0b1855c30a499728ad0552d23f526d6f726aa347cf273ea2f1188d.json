@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "exclusive access to ACME leadership",
+    "lack of transparency in funding decisions",
+    "impact of matching fund requirements",
+    "barriers for low-income and under-resourced groups",
+    "privileging of wealthy organizations",
+    "threats to free community arts events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "a small group of arts representatives have dominated access",
+    "the rest of the community learning only recently",
+    "lobbying ACME for changes to how arts funding is distributed",
+    "50% matching funds for COA funding is back on the table",
+    "huge barrier to groups that don\u2019t have wealthy donors",
+    "specifically discourages FREE events",
+    "requiring arts to charge in order to match",
+    "serve our low income communities",
+    "keeps the arts in the hands of a privileged minority"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusive access to decision-makers",
+    "requirement for 50% matching funds",
+    "lack of wealthy donors among some groups",
+    "pressure to charge for events",
+    "financial barriers for low-income communities"
+  ],
+  "solutions_proposed": [
+    "eliminate or reconsider the 50% matching fund requirement"
+  ],
+  "cached_at": "2025-06-20T01:13:50.900497",
+  "cache_key": "38a556087b0b1855c30a499728ad0552d23f526d6f726aa347cf273ea2f1188d",
+  "model": "gpt-41"
+}

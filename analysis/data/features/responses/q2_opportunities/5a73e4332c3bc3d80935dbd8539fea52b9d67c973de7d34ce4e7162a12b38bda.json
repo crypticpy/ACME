@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in poetry events",
+    "desire for music in public spaces",
+    "support for cultural programming in parks"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Poetry",
+    "music/events in public spaces and parks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more poetry events",
+    "more music/events in public spaces and parks"
+  ],
+  "cached_at": "2025-06-21T00:29:58.061908",
+  "cache_key": "5a73e4332c3bc3d80935dbd8539fea52b9d67c973de7d34ce4e7162a12b38bda",
+  "model": "gpt-41"
+}

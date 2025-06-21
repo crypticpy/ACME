@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for smaller organizations",
+    "capacity building",
+    "growth opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "opportunities for smaller organizations to grow"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of growth opportunities for smaller organizations"
+  ],
+  "solutions_proposed": [
+    "focus on opportunities for smaller organizations to grow"
+  ],
+  "cached_at": "2025-06-21T01:18:33.388418",
+  "cache_key": "4769506cc5be6c96cbaa33139e07372b4277dfa2f8cedf24994c9df2b41db351",
+  "model": "gpt-41"
+}

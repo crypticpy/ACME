@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for disabled people",
+    "intersectionality (class, race, queer identity)",
+    "need for training on inclusivity",
+    "over-reliance on tourism metrics in funding",
+    "focus on local communities vs. tourists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "the arts are not always accessible to me",
+    "more arts organizations and artists to be required to learn about how to make their events/programs more accessible",
+    "I'm also working class, a person of color, and a queer person",
+    "providing training in these realms would be great",
+    "there's an over-reliance on tourism",
+    "for all city grants we have to track tourists",
+    "I make programs for locals, and that should be fine"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility for disabled people",
+    "insufficient inclusivity for working class, people of color, and queer individuals",
+    "requirement to track tourists for city grants"
+  ],
+  "solutions_proposed": [
+    "require more arts organizations and artists to learn about accessibility",
+    "provide training on accessibility, class, race, and queer inclusion for artists and arts organizations",
+    "allow programs focused on locals to be eligible for city grants without tracking tourists"
+  ],
+  "cached_at": "2025-06-21T01:38:21.520775",
+  "cache_key": "f60bef192b7dfb26f96f1846c857949bb6138c50d5b8ed666d928cba8a7b376d",
+  "model": "gpt-41"
+}

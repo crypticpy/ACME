@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "overextension of funding resources",
+    "lack of transparency in funding criteria",
+    "competition among nonprofits",
+    "administrative burden on applicants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Stop trying to fund 600 organizations",
+    "make the criteria for cultural funding from HOT taxes transparent",
+    "nonprofits don't spend excessive time",
+    "get pitted against each other"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in funding criteria",
+    "excessive time spent by nonprofits",
+    "nonprofits pitted against each other"
+  ],
+  "solutions_proposed": [
+    "reduce the number of organizations funded",
+    "make funding criteria from HOT taxes transparent"
+  ],
+  "cached_at": "2025-06-20T10:37:32.175664",
+  "cache_key": "1ba607cc0cfdfbf1b033519aeb698fdaeabc283716262eb630fd118ba465f16a",
+  "model": "gpt-41"
+}

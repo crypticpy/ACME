@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability of professional development",
+    "access to training for performers",
+    "networking opportunities in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "free/low-cost training",
+    "networking opportunities for performers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of training",
+    "lack of affordable networking opportunities"
+  ],
+  "solutions_proposed": [
+    "provide free/low-cost training and networking opportunities for performers"
+  ],
+  "cached_at": "2025-06-21T00:37:17.707554",
+  "cache_key": "7d87806209307961068e37b42870344511d294ee46b4ed49df5aa5c6f0ade75d",
+  "model": "gpt-41"
+}

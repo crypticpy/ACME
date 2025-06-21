@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "prioritization of experienced organizations",
+    "recognition of longstanding community leaders",
+    "importance of mission alignment",
+    "funding allocation preferences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "AUSTIN BOASTS A STRONG GROUP OF ORGANIZATIONS THAT ARE DOING GREAT WORK",
+    "FUND THESE ORGANIZATION FIRST",
+    "EFFORTS BEING MADE BY LONG TIME AUSTIN LEADERS WITH THE APPROPRIATE EXPERIENCE",
+    "EXPERIENCE NEEDS TO BE PRIORITIZED ABOVE ANY OTHER CATEGORY"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of prioritization for experienced organizations"
+  ],
+  "solutions_proposed": [
+    "fund organizations with experience first",
+    "prioritize experience above other categories in funding decisions"
+  ],
+  "cached_at": "2025-06-20T10:29:39.821123",
+  "cache_key": "19b9ee99e7dae56f9c3dd7fd9e012c5716d3e57e068378640624fdb1e4177ea3",
+  "model": "gpt-41"
+}

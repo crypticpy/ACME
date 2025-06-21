@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable opportunities for artists",
+    "inaccessibility of opportunities",
+    "insufficient community building",
+    "disconnect between opportunities and artist awareness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "lack of affordable and accessible opportunities for artists",
+    "lack of community building",
+    "disconnect between opportunities and the average artists awareness"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable opportunities for artists",
+    "lack of accessible opportunities for artists",
+    "lack of community building",
+    "disconnect between opportunities and artist awareness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:02.459918",
+  "cache_key": "91869f793413ce7f51ef41394e73e635e15b6461c3dc9bf38be8585d97695f1f",
+  "model": "gpt-41"
+}

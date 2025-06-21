@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited awareness of funding opportunities",
+    "inconsistent support for jazz and legacy arts",
+    "complex application processes",
+    "barriers for smaller or underrepresented organizations",
+    "need for more outreach and transparency",
+    "desire for streamlined access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Limited awareness of funding opportunities",
+    "inconsistent support for jazz and legacy arts",
+    "complex application processes that deter smaller or underrepresented organizations",
+    "more outreach, transparency, and streamlined access would help"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited awareness of funding opportunities",
+    "inconsistent support for jazz and legacy arts",
+    "complex application processes",
+    "application processes that deter smaller or underrepresented organizations"
+  ],
+  "solutions_proposed": [
+    "more outreach",
+    "transparency",
+    "streamlined access"
+  ],
+  "cached_at": "2025-06-21T01:39:23.091852",
+  "cache_key": "02501edd20e5ae5b9139670ea651e597b4d7da2b8cf7a082eb77fb2c2e27b3b1",
+  "model": "gpt-41"
+}

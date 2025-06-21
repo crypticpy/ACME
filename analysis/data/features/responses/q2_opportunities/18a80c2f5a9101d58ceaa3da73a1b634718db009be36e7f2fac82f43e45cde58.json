@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "need for artist grants",
+    "desire for more events and exhibitions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grants for emerging artists",
+    "opportunities for events and exhibitions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide grants for emerging artists",
+    "create more opportunities for events and exhibitions"
+  ],
+  "cached_at": "2025-06-21T00:31:08.776289",
+  "cache_key": "18a80c2f5a9101d58ceaa3da73a1b634718db009be36e7f2fac82f43e45cde58",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high costs limiting access",
+    "parking challenges",
+    "overcrowding due to population growth",
+    "lack of recurring or consistent cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Costs",
+    "parking",
+    "too many people in Austin taking spaces",
+    "not enough reoccurring/consistent events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "costs",
+    "parking",
+    "overcrowding",
+    "insufficient recurring events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:36.374505",
+  "cache_key": "04e283d8e27e90594a6fbe67cb89e062b77b776737a706317eb24dffb26168b2",
+  "model": "gpt-41"
+}

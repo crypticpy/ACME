@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct support for specific institution",
+    "visibility of local museums",
+    "funding allocation recommendation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Support The Museum of Fine Arts, Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Museum of Fine Arts, Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support The Museum of Fine Arts, Austin"
+  ],
+  "cached_at": "2025-06-21T01:20:03.382695",
+  "cache_key": "ed0f2eef33422ce41fbc5f15bacbbe54bf18a21bc815128d14b1ff3dbc3bbe5b",
+  "model": "gpt-41"
+}

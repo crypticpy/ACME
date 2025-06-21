@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "community access to arts",
+    "venue practices and policies"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I really enjoy how Moody Amphitheater offers free/discounted tickets for the community",
+    "I wish other venues could do that as well"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Moody Amphitheater"
+  ],
+  "barriers_identified": [
+    "lack of free/discounted tickets at other venues"
+  ],
+  "solutions_proposed": [
+    "other venues could offer free/discounted tickets for the community"
+  ],
+  "cached_at": "2025-06-21T00:42:34.823854",
+  "cache_key": "b9b3b4259d872b1ec155dc7b5da1de6394c646b47aae4eb0e235077eb66d176f",
+  "model": "gpt-41"
+}

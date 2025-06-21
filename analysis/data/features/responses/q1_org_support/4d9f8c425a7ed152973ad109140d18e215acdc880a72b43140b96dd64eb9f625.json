@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of grassroots organizations",
+    "critique of institutional consolidation",
+    "long-term funding for community-based groups",
+    "empowerment of cultural leaders from the community",
+    "opposition to infrastructure-based funding allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Support should go to the cultural leaders who\u2019ve built Austin\u2019s creative community from the ground up",
+    "not just the orgs with the most infrastructure",
+    "prioritize grassroots orgs, artist collectives, and community-based networks",
+    "Fund them long-term",
+    "Let them lead",
+    "stop deferring to institutions whose influence comes from consolidation, not consensus"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding preference for organizations with the most infrastructure",
+    "deference to consolidated institutions over community consensus"
+  ],
+  "solutions_proposed": [
+    "prioritize grassroots orgs, artist collectives, and community-based networks",
+    "provide long-term funding to these groups",
+    "allow community leaders to lead decision-making",
+    "stop deferring to consolidated institutions"
+  ],
+  "cached_at": "2025-06-20T01:23:07.259768",
+  "cache_key": "4d9f8c425a7ed152973ad109140d18e215acdc880a72b43140b96dd64eb9f625",
+  "model": "gpt-41"
+}

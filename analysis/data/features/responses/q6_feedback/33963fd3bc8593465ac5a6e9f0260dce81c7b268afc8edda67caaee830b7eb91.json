@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for diverse community representation",
+    "Overrepresentation of middle-class white voices",
+    "Importance of inclusive outreach methods",
+    "Essential input from marginalized groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "include people from all backgrounds in discussions",
+    "plenty of middle-class white voices like mine",
+    "Input from our Black, Latino, Asian, disabled, non-English-speaking, and under-21 neighbors is essential",
+    "requiring multiple channels for outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of diverse representation in discussions",
+    "Overrepresentation of middle-class white voices",
+    "Insufficient outreach to marginalized groups"
+  ],
+  "solutions_proposed": [
+    "Include people from all backgrounds in discussions",
+    "Use multiple channels for outreach to marginalized groups"
+  ],
+  "cached_at": "2025-06-21T02:15:31.461912",
+  "cache_key": "33963fd3bc8593465ac5a6e9f0260dce81c7b268afc8edda67caaee830b7eb91",
+  "model": "gpt-41"
+}

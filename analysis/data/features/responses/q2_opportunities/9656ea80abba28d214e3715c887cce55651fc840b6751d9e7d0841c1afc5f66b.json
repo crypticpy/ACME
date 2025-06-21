@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more museums",
+    "interest in community-based art"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Museums",
+    "community based art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more museums",
+    "more community based art"
+  ],
+  "cached_at": "2025-06-21T00:42:43.140671",
+  "cache_key": "9656ea80abba28d214e3715c887cce55651fc840b6751d9e7d0841c1afc5f66b",
+  "model": "gpt-41"
+}

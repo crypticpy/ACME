@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for unconventional or unique cultural offerings",
+    "preservation and encouragement of Austin's 'weird' cultural identity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More weird stuff"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase unconventional or 'weird' cultural arts and entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:25:10.761182",
+  "cache_key": "8509c2adc28b4b0fca58920e35032ec45e75f152231bfea6f94bf26397130cd5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "accessibility services",
+    "inclusion for Deaf and hard of hearing communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "ASL interpreters",
+    "captioning services"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of ASL interpreters",
+    "lack of captioning services"
+  ],
+  "solutions_proposed": [
+    "provide ASL interpreters",
+    "offer captioning services"
+  ],
+  "cached_at": "2025-06-21T01:54:22.652836",
+  "cache_key": "fb0c8600e8309785f57adf881df5c28ad1c661b86b0f3a13f4eb54db9d55feb3",
+  "model": "gpt-41"
+}

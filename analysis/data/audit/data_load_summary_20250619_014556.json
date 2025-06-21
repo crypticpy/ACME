@@ -1,0 +1,12 @@
+{
+  "load_timestamp": "2025-06-19T01:45:56.496908",
+  "data_sources": {
+    "survey": {
+      "shape": [
+        1187,
+        41
+      ],
+      "columns": 41,
+      "memory_usage": "5.41 MB",
+      "dtypes": {
+        

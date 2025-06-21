@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for the survey",
+    "gratitude for opportunity to participate"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "This survey is a good one",
+    "I'm glad I saw it and participated"
+  ],
+  "intent": "express_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:25.120122",
+  "cache_key": "bfc0050333fa793de7b7b785d6e57a2c8988ab1a29bc92e0edd01cc84459e66b",
+  "model": "gpt-41"
+}

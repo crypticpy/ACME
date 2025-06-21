@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in funding processes",
+    "clarity of scoring criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more transparency with scoring"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in scoring"
+  ],
+  "solutions_proposed": [
+    "increase transparency with scoring"
+  ],
+  "cached_at": "2025-06-21T01:11:22.657350",
+  "cache_key": "2e20c8ed56ba9bffb37daaf61f38dab5830261eee34e7313b371bab16d7038c2",
+  "model": "gpt-41"
+}

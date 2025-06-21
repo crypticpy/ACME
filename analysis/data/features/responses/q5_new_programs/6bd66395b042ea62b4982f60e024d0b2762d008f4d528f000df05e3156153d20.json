@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of funding opportunities",
+    "desire for reinstatement of specific grant",
+    "perceived gap in current program offerings"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Bring back the CORE grant"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CORE grant"
+  ],
+  "barriers_identified": [
+    "absence of the CORE grant"
+  ],
+  "solutions_proposed": [
+    "bring back the CORE grant"
+  ],
+  "cached_at": "2025-06-21T01:50:05.144702",
+  "cache_key": "6bd66395b042ea62b4982f60e024d0b2762d008f4d528f000df05e3156153d20",
+  "model": "gpt-41"
+}

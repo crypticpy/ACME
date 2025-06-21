@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding opportunities",
+    "desire for more financial support",
+    "underrepresentation of grants and sponsorships"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more grants and sponsorship"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants and sponsorship"
+  ],
+  "solutions_proposed": [
+    "offer more grants",
+    "offer more sponsorship"
+  ],
+  "cached_at": "2025-06-21T02:03:33.604474",
+  "cache_key": "fb6094f2689cf642eb95caec9aed4376e09d932ab73d622833a5351d2a815c2e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of large ethnic groups",
+    "lack of outreach to marginalized communities",
+    "inadequate access to resources",
+    "need for creative engagement strategies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "large ethnic groups in ATX that are extremely under represented and under resourced",
+    "little to no outreach done to bring them into the fold",
+    "give them the adequate access needed to thrive",
+    "developing creative ways to connect with those groups",
+    "enhance the cultural arts in our community greatly"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of large ethnic groups",
+    "lack of outreach",
+    "insufficient access to resources"
+  ],
+  "solutions_proposed": [
+    "developing creative ways to connect with those groups"
+  ],
+  "cached_at": "2025-06-20T10:45:11.935504",
+  "cache_key": "1cea023c7b48eedcd11fde74693ea3babd5582ad735707123e9baf6ae1efaffd",
+  "model": "gpt-41"
+}

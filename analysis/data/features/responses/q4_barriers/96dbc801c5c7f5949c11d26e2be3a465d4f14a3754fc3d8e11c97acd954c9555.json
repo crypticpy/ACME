@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "time constraints limiting engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "time and money",
+    "focus on doing or attending these events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of time",
+    "lack of money"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:19.157833",
+  "cache_key": "96dbc801c5c7f5949c11d26e2be3a465d4f14a3754fc3d8e11c97acd954c9555",
+  "model": "gpt-41"
+}

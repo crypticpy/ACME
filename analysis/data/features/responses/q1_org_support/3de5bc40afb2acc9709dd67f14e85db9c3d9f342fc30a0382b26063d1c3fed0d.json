@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived favoritism toward white-led organizations",
+    "unfair contract practices",
+    "lack of inclusivity for people of color",
+    "barriers to entry for new and diverse voices",
+    "concern about whitewashing and perpetuating systemic inequity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "listen to all voices--not just white-led organizations",
+    "contracts that give these same organizations unfair advantages",
+    "huge event discounts that allow them to stifle new, diverse voices",
+    "watered-down, repetitive hogwash that can be accessed anywhere",
+    "whitewash and continue to uphold systems that idolize whiteness",
+    "favorable contracts or secret workshop group meetings that exclude people of color"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unfair contract advantages for established, white-led organizations",
+    "event discounts that stifle new, diverse voices",
+    "exclusion of people of color from workshop group meetings"
+  ],
+  "solutions_proposed": [
+    "listen to all voices--not just white-led organizations",
+    "address contracts that give unfair advantages"
+  ],
+  "cached_at": "2025-06-20T10:25:09.781007",
+  "cache_key": "3de5bc40afb2acc9709dd67f14e85db9c3d9f342fc30a0382b26063d1c3fed0d",
+  "model": "gpt-41"
+}

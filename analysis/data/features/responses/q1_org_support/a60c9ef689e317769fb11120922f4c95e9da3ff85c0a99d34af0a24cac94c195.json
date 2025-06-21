@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "core funding for arts organizations",
+    "support for proven-value organizations",
+    "sustaining arts venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "provide adequate core funding",
+    "organizations and venues",
+    "regularly proven their value",
+    "within the arts community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adequate core funding"
+  ],
+  "solutions_proposed": [
+    "provide adequate core funding for organizations and venues that have regularly proven their value within the arts community"
+  ],
+  "cached_at": "2025-06-20T10:39:44.239030",
+  "cache_key": "a60c9ef689e317769fb11120922f4c95e9da3ff85c0a99d34af0a24cac94c195",
+  "model": "gpt-41"
+}

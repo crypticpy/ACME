@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "emergency financial support",
+    "support for artists in crisis",
+    "support for organizations in crisis",
+    "financial hardship in the arts sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "emergency funding for artists",
+    "organizations that are experiencing financial hardship"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial hardship"
+  ],
+  "solutions_proposed": [
+    "emergency funding for artists or organizations experiencing financial hardship"
+  ],
+  "cached_at": "2025-06-21T02:00:22.109888",
+  "cache_key": "f802895cc995ebc73245374edf5294ca17fd692410a30c1154dd98c071e05cee",
+  "model": "gpt-41"
+}

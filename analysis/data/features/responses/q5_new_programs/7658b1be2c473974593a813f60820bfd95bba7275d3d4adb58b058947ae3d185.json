@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "structural support for artists",
+    "critique of individual grant funding",
+    "ecosystem/infrastructure building",
+    "partnerships with nonprofits for healthcare",
+    "concerns about self-interest in funding",
+    "need for systemic change over incremental fixes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expand healthcare access",
+    "address the structural issues facing working artists",
+    "drown out the noise of all the self dealing individuals",
+    "strengthening the overall cultural ecosystem/infrastructure",
+    "creating entitlements and paternalistic dependency",
+    "money has no multiplier effects",
+    "concentrate the funds into systemic efforts",
+    "make Austin's cultural scene a world class cultural destination",
+    "the reset need to reimagine not put new bandaids on old wounds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "structural issues facing working artists",
+    "self-dealing individuals grasping for their own money",
+    "faulty city grant processes",
+    "spreading City fund so thin that everyone feels entitled"
+  ],
+  "solutions_proposed": [
+    "Partner with nonprofits to expand healthcare access",
+    "Reduce insurance costs",
+    "Strengthen the overall cultural ecosystem/infrastructure",
+    "Foster an opportunity structure that creates more good paying work for artists",
+    "Concentrate funds into systemic efforts rather than individual grants",
+    "Attract money from the corporate sector",
+    "Reimagine the funding system instead of incremental fixes"
+  ],
+  "cached_at": "2025-06-21T01:58:36.529961",
+  "cache_key": "7658b1be2c473974593a813f60820bfd95bba7275d3d4adb58b058947ae3d185",
+  "model": "gpt-41"
+}

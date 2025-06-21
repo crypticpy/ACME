@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for high-profile performing artists",
+    "interest in new theatrical works",
+    "focus on stage-based performance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "nationally and internationally acclaimed performing artists",
+    "theatre makers that create new work for the stage"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "bring more nationally and internationally acclaimed performing artists to Austin",
+    "support theatre makers who create new work for the stage"
+  ],
+  "cached_at": "2025-06-21T00:35:07.554313",
+  "cache_key": "0eef76d01c91c15fb25c5b81dda8e293e7194095002e55ba379a76b777df5e4e",
+  "model": "gpt-41"
+}

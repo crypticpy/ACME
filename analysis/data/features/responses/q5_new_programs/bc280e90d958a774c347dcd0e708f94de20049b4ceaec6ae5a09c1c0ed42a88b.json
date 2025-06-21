@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for well-paying jobs for artists",
+    "desire for job consistency in the arts sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more well-paying and consistent job opportunities for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of well-paying and consistent job opportunities for artists"
+  ],
+  "solutions_proposed": [
+    "offer more well-paying and consistent job opportunities for artists"
+  ],
+  "cached_at": "2025-06-21T01:53:41.403717",
+  "cache_key": "bc280e90d958a774c347dcd0e708f94de20049b4ceaec6ae5a09c1c0ed42a88b",
+  "model": "gpt-41"
+}

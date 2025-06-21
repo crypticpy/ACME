@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more classical vocal music",
+    "interest in expanding musical offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More classical vocal music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for classical vocal music"
+  ],
+  "cached_at": "2025-06-21T00:32:41.883623",
+  "cache_key": "b24dd02a028d0d84bc2db1bff200e374258e4830c8dcc180ac6a27c215f2db3d",
+  "model": "gpt-41"
+}

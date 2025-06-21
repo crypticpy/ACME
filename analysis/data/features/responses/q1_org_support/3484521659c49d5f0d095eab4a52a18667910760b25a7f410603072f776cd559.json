@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of opinion or knowledge",
+    "uncertainty about support strategies"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Oh, I have no idea."
+  ],
+  "intent": "expressing uncertainty",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:42:17.734890",
+  "cache_key": "3484521659c49d5f0d095eab4a52a18667910760b25a7f410603072f776cd559",
+  "model": "gpt-41"
+}

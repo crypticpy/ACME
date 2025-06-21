@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for for-profit arts business support",
+    "unsatisfactory small business assistance experience",
+    "staff attitude impacting service quality",
+    "limited funding options for arts businesses"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "for-profit arts business planning and assistance",
+    "small business assistance I received by video call was very uninspired",
+    "she seemed cynical and uninterested in helping me explore funding options",
+    "options are so limited"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uninspired and uninterested assistance",
+    "cynical staff attitude",
+    "limited funding options"
+  ],
+  "solutions_proposed": [
+    "offer for-profit arts business planning and assistance"
+  ],
+  "cached_at": "2025-06-21T02:01:32.341746",
+  "cache_key": "14d4b0dd4330bc614bf85f202bf35e1e8df66d910940807751ddaf0c0cafc843",
+  "model": "gpt-41"
+}

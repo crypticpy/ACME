@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for artists and educators",
+    "financial barriers to participation",
+    "lack of awareness about available services"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding and fare payment for artist and educators",
+    "Lack of knowledge about the services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for artists and educators",
+    "lack of knowledge about available services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:37.195078",
+  "cache_key": "0da082d054701291af34cdd0a26c2b6d3e8b634954126e2665f7e29d430f34f2",
+  "model": "gpt-41"
+}

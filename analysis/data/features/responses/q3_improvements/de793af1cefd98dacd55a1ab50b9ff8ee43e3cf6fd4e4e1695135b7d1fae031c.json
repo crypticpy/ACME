@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding tied to measurable cultural value",
+    "community-wide impact of programming",
+    "attracting national and international visitors",
+    "alignment with Austin's economic future"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Funding needs to be tied to cultural value creation",
+    "measured in metrics that matters for the entire population",
+    "Does programming serve the whole community?",
+    "Does programming attract national, international visitors?",
+    "Does programming facilitate new insights to Austin's upcoming economy?"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of metrics that matter for the entire population",
+    "potential misalignment between programming and community/economic needs"
+  ],
+  "solutions_proposed": [
+    "Tie funding to cultural value creation measured by relevant metrics",
+    "Assess whether programming serves the whole community",
+    "Evaluate if programming attracts national and international visitors",
+    "Determine if programming facilitates insights for Austin's upcoming economy"
+  ],
+  "cached_at": "2025-06-21T01:16:55.185492",
+  "cache_key": "de793af1cefd98dacd55a1ab50b9ff8ee43e3cf6fd4e4e1695135b7d1fae031c",
+  "model": "gpt-41"
+}

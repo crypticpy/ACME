@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sustainable funding",
+    "revenue reliability",
+    "long-term planning challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "having enough sustainable and reliable revenue",
+    "feel confident in long-term (5+ years) decision making"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustainable and reliable funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:24.190999",
+  "cache_key": "32f5eca99a236daf39f8dde6c19cb5691e2f1eb019235b9ad15c40be02b0befd",
+  "model": "gpt-41"
+}

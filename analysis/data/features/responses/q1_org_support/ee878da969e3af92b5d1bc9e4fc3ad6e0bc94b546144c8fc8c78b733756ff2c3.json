@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing public visibility for cultural organizations",
+    "strategic placement of cultural promotion in high-traffic areas",
+    "improved use of banners and signage for awareness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Visibility in public areas",
+    "areas where people run/walk",
+    "more/better use of the banners and lighted signage on major throughways"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility for organizations and cultural leaders in public spaces"
+  ],
+  "solutions_proposed": [
+    "increase visibility in public areas",
+    "use banners and lighted signage on major throughways",
+    "focus on areas where people run/walk"
+  ],
+  "cached_at": "2025-06-20T10:24:30.428614",
+  "cache_key": "ee878da969e3af92b5d1bc9e4fc3ad6e0bc94b546144c8fc8c78b733756ff2c3",
+  "model": "gpt-41"
+}

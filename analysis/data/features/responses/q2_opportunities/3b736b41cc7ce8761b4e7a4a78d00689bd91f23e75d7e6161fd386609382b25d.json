@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with current cultural offerings",
+    "desire for increased quantity of arts opportunities",
+    "need for financial support for creative professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I love what we have",
+    "I just want more of it",
+    "a city that can financially support a working creative class"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support for working creative class"
+  ],
+  "solutions_proposed": [
+    "city financial support for a working creative class"
+  ],
+  "cached_at": "2025-06-21T00:24:25.995393",
+  "cache_key": "3b736b41cc7ce8761b4e7a4a78d00689bd91f23e75d7e6161fd386609382b25d",
+  "model": "gpt-41"
+}

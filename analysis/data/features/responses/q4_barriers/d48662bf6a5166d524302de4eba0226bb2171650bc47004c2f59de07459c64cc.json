@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "prohibitive costs",
+    "financial barriers to access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "egregious fees"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "egregious fees"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:26:10.763318",
+  "cache_key": "d48662bf6a5166d524302de4eba0226bb2171650bc47004c2f59de07459c64cc",
+  "model": "gpt-41"
+}

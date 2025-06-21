@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accountability in grant funding",
+    "economic impact of arts and culture",
+    "incentives and tools for cultural programs",
+    "protection of Hotel Occupancy Tax (HOT) funds"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "incentives, tools, economic based arts and culture",
+    "if a grant applicant receives funds and cannot demonstrate a threshold of impact",
+    "the City is not doing their job to protect the HOT"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of demonstrated impact from grant recipients"
+  ],
+  "solutions_proposed": [
+    "implement incentives and tools for economic-based arts and culture",
+    "require grant recipients to demonstrate a threshold of impact"
+  ],
+  "cached_at": "2025-06-21T02:07:18.099096",
+  "cache_key": "58cbe5e67d88a10b86a75fc653f990e6cb244f6bff5a983b63e9e9f52df9903b",
+  "model": "gpt-41"
+}

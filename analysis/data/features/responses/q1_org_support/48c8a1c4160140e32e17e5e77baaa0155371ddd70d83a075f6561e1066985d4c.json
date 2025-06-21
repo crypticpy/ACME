@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of Austin's cultural personality",
+    "decline of accessible art and music spaces",
+    "impact of urban development and gentrification",
+    "transportation barriers to cultural participation",
+    "lack of safe and inviting downtown environments",
+    "need for neighborhood-based cultural activation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Austin needs to double down on art and music spaces",
+    "bring back the dillo",
+    "the city has lost its personality",
+    "too many energy sucking condos and big buildings",
+    "downtown sucks now",
+    "Red river and 6th for young kids not anything safe down there",
+    "look how Rainey street is now ruined",
+    "no place to park",
+    "absolute nothingness in neighborhood places like deep eddy Hyde park",
+    "create districts where people can walk or do the dillo",
+    "give places small stage set ups for any place"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "dillo"
+  ],
+  "barriers_identified": [
+    "lack of accessible transportation to art and music spaces",
+    "loss of parking",
+    "unsafe and poorly lit downtown areas",
+    "gentrification and corporate takeover of cultural districts",
+    "absence of neighborhood cultural venues"
+  ],
+  "solutions_proposed": [
+    "bring back the dillo with routes for simple access to art and music drop off spots",
+    "create districts where people can walk or use the dillo",
+    "provide small stage setups for any place (gas station, church parking lot, restaurant) to host events"
+  ],
+  "cached_at": "2025-06-20T10:42:57.919173",
+  "cache_key": "48c8a1c4160140e32e17e5e77baaa0155371ddd70d83a075f6561e1066985d4c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for sustainable artist support",
+    "Critique of one-off funding",
+    "Desire for holistic artist development",
+    "Administrative burden on artists",
+    "Proposal for incubator-style programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "ensure your artists have supports to sustain their visions and artistry",
+    "incubator style approach",
+    "coach an artist holistically",
+    "take things off their plate (marketing, accounting, project management, etc)",
+    "no reason an artist also has to be a jack of all trades"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists required to handle multiple non-artistic tasks",
+    "lack of sustained support for artists"
+  ],
+  "solutions_proposed": [
+    "develop an incubator style approach for artists",
+    "provide holistic coaching for artists",
+    "offer administrative support (marketing, accounting, project management) so artists can focus on art"
+  ],
+  "cached_at": "2025-06-21T00:56:04.457719",
+  "cache_key": "994b942c89d671999811edf12ac1cca3f092ccbf615b50eb41a2e53a533e71c4",
+  "model": "gpt-41"
+}

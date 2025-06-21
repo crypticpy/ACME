@@ -1,0 +1,51 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Unaffordable city-owned venue rental rates",
+    "Restrictive and non-negotiable venue policies",
+    "Exclusive catering requirements increasing costs",
+    "Barriers for small/local organizations",
+    "Underutilization of public event spaces due to event caps"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "access to affordable space",
+    "excessive fees and stipulations to book city-owned venues",
+    "non-negotiable to use catering options outside the exclusive in-house catering business",
+    "prices are congruent with those of a five-star hotel",
+    "prevent many smaller local organizations from being able to access and make use of these city-owned spaces",
+    "booking space at city-owned recreation centers costs more than $200 per hour",
+    "fees for additional staff, custodial services, and utilities are added at the discretion of the venue",
+    "rental rates higher than private venues in some cases",
+    "caps on the number of events that can be hosted",
+    "space lies vacant most of the year",
+    "blocks smaller organizations from accessing some of the most flexible and affordable city-owned spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Palmer Events Center",
+    "Pavilion near Fiesta Gardens"
+  ],
+  "barriers_identified": [
+    "High rental costs for city-owned venues",
+    "Mandatory use of expensive in-house catering",
+    "Non-negotiable and excessive fees and stipulations",
+    "Additional discretionary fees (staff, custodial, utilities)",
+    "Event caps limiting access to certain spaces",
+    "Prioritization of larger, grandfathered events",
+    "Lack of access for smaller/local organizations"
+  ],
+  "solutions_proposed": [
+    "Allow outside catering options at city-owned venues",
+    "Reduce or make negotiable venue rental fees",
+    "Increase transparency and flexibility in additional fees",
+    "Remove or adjust event caps to allow more frequent use by smaller organizations"
+  ],
+  "cached_at": "2025-06-21T01:20:16.325842",
+  "cache_key": "da6a95cf051fff07313eb7c3b6fd37e05787b4415f60ec47c63551646e159d23",
+  "model": "gpt-41"
+}

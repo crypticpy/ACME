@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for legacy organizations and artists",
+    "perceived penalization for previous grant recipients",
+    "need for separate applications for individuals and organizations",
+    "challenges for individual artists in meeting program criteria"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "support legacy orgs and artists",
+    "don\u2019t punish people for having gotten grants before",
+    "PLEASE have a separate application for individual art and musicians versus organizations",
+    "very hard for an individual artist to represent tourism and diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "individual artists being penalized for previous grant awards",
+    "difficulty for individual artists to represent tourism and diversity",
+    "lack of separate application processes for individuals and organizations"
+  ],
+  "solutions_proposed": [
+    "support legacy organizations and artists",
+    "do not penalize previous grant recipients",
+    "create separate application processes for individual artists/musicians and organizations"
+  ],
+  "cached_at": "2025-06-21T00:54:11.390038",
+  "cache_key": "16a1603931a73b6b229e828c53cd10b4c1a46ae21765ca184969fbbbdc9e6e78",
+  "model": "gpt-41"
+}

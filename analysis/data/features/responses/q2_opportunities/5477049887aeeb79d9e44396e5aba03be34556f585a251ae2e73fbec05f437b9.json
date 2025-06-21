@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for more dance performances"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Dance performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more dance performances"
+  ],
+  "cached_at": "2025-06-21T00:47:05.354138",
+  "cache_key": "5477049887aeeb79d9e44396e5aba03be34556f585a251ae2e73fbec05f437b9",
+  "model": "gpt-41"
+}

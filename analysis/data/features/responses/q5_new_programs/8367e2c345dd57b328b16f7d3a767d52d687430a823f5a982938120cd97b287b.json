@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for venue operations",
+    "support for venue maintenance",
+    "investment in venue development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "funding for venue operations",
+    "maintenance",
+    "development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for venue operations, maintenance, and development"
+  ],
+  "solutions_proposed": [
+    "provide funding for venue operations, maintenance, and development"
+  ],
+  "cached_at": "2025-06-21T02:04:23.913426",
+  "cache_key": "8367e2c345dd57b328b16f7d3a767d52d687430a823f5a982938120cd97b287b",
+  "model": "gpt-41"
+}

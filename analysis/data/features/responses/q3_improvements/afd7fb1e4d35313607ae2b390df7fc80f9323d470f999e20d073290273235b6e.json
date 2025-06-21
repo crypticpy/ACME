@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with economic development organizations",
+    "partnerships with minority chambers",
+    "alignment with state-level strategic plans",
+    "promotion of Austin's creative community nationally"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "increased cooperation with economic development organizations",
+    "partner with Governor Abbott's Bigger Better Texas strategic plan",
+    "partnering with the local chambers and the Texas Economic Development and Tourism office",
+    "America needs to be constantly reminded of Austin's creative community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Opportunity Austin",
+    "Austin Chamber of Commerce",
+    "various minority chambers",
+    "Governor Abbott's Bigger Better Texas strategic plan",
+    "Texas Economic Development and Tourism office"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase cooperation with economic development organizations",
+    "partner with minority chambers",
+    "align with the Bigger Better Texas strategic plan",
+    "collaborate with the Texas Economic Development and Tourism office"
+  ],
+  "cached_at": "2025-06-21T01:16:14.414721",
+  "cache_key": "afd7fb1e4d35313607ae2b390df7fc80f9323d470f999e20d073290273235b6e",
+  "model": "gpt-41"
+}

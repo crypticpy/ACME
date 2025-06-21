@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "structural exclusion of disabled individuals",
+    "inaccessibility of cultural venues and programs",
+    "financial barriers to participation",
+    "lack of inclusive and adaptive programming",
+    "discriminatory policies impacting neurodivergent and disabled people",
+    "tokenistic or performative inclusion",
+    "absence of disabled representation in leadership and programming",
+    "gatekeeping in arts education for disabled students"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "multiple, overlapping barriers",
+    "physical and sensory inaccessibility of venues and programs",
+    "financial barriers, including the high cost of private lessons, event admission, and accessible transportation",
+    "lack of inclusive program design",
+    "discriminatory policies, such as zero-tolerance behavior rules",
+    "cultural attitudes that treat inclusion as charity or performance",
+    "scarcity of authentic representation",
+    "gatekeeping in education",
+    "structurally excluded from both the making and experiencing of art",
+    "extraordinary talent in this community",
+    "without intentional efforts to dismantle these barriers, it will continue to go unseen and unheard"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "physical and sensory inaccessibility of venues and programs",
+    "financial barriers (high cost of private lessons, event admission, accessible transportation)",
+    "lack of inclusive program design for disabled participants",
+    "discriminatory policies (zero-tolerance behavior rules)",
+    "cultural attitudes treating inclusion as charity or performance",
+    "scarcity of authentic representation of disability in leadership and programming",
+    "gatekeeping in arts education for disabled students"
+  ],
+  "solutions_proposed": [
+    "intentional efforts to dismantle these barriers"
+  ],
+  "cached_at": "2025-06-21T01:47:55.950137",
+  "cache_key": "9dbb1eb5fb2bd288e3a6784b6ab5924a36b42fcff0d601f34117f92cd4667977",
+  "model": "gpt-41"
+}

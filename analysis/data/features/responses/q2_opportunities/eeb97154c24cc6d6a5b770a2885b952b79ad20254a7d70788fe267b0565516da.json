@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging and developing artists",
+    "financial security and career development for artists",
+    "economic opportunities in the arts",
+    "equitable access to cultural events for vulnerable populations",
+    "affordability of tickets for at-risk groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "supports artists who are developing and emerging",
+    "helping them to make money in the arts",
+    "establish professional practices that build security in career development",
+    "offers reduced tickets to special, vulnerable or at risks populations",
+    "equal access to events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial security for emerging artists",
+    "cost of event tickets for vulnerable or at-risk populations",
+    "unequal access to cultural events"
+  ],
+  "solutions_proposed": [
+    "programming that supports developing and emerging artists to make money and build professional practices",
+    "programming that offers reduced tickets to special, vulnerable or at-risk populations"
+  ],
+  "cached_at": "2025-06-21T00:26:48.488335",
+  "cache_key": "eeb97154c24cc6d6a5b770a2885b952b79ad20254a7d70788fe267b0565516da",
+  "model": "gpt-41"
+}

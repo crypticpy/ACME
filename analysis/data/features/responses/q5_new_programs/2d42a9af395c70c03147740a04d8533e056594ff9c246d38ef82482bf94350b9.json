@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of African American audiences",
+    "need for culturally specific live theater",
+    "lack of diversity in current programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more live theater options",
+    "geared towards African Americans"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of live theater options for African Americans"
+  ],
+  "solutions_proposed": [
+    "offer more live theater options geared towards African Americans"
+  ],
+  "cached_at": "2025-06-21T02:06:51.296759",
+  "cache_key": "2d42a9af395c70c03147740a04d8533e056594ff9c246d38ef82482bf94350b9",
+  "model": "gpt-41"
+}

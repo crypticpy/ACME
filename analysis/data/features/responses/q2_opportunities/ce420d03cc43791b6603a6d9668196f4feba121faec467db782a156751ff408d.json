@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for hyper-local cultural representation",
+    "concern about loss of authentic Austin culture",
+    "critique of large-scale events disconnecting from community values",
+    "impact of city growth on cultural identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More things related to our hyper local culture",
+    "Austin has gotten a bit watered down with recent growth",
+    "things that represent our roots, soul, and essence",
+    "ACL is the worst offender",
+    "totally disconnected from Austin's soul and community values"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "ACL"
+  ],
+  "barriers_identified": [
+    "recent growth watering down local culture",
+    "large events disconnected from community values"
+  ],
+  "solutions_proposed": [
+    "more opportunities representing Austin's roots, soul, and essence"
+  ],
+  "cached_at": "2025-06-21T00:33:50.382078",
+  "cache_key": "ce420d03cc43791b6603a6d9668196f4feba121faec467db782a156751ff408d",
+  "model": "gpt-41"
+}

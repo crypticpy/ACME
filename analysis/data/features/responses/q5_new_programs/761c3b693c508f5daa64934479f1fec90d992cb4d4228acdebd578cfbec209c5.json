@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "loss of national funding sources",
+    "need for increased local support",
+    "risk of marginalized arts communities disappearing",
+    "cultural heritage representation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "collapse of National funding sources",
+    "increased support for marginalized arts communities",
+    "so they don't disappear",
+    "rich in cultural arts and heritage representation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "collapse of National funding sources",
+    "insufficient support for marginalized arts communities"
+  ],
+  "solutions_proposed": [
+    "increased support for marginalized arts communities"
+  ],
+  "cached_at": "2025-06-21T01:51:31.169487",
+  "cache_key": "761c3b693c508f5daa64934479f1fec90d992cb4d4228acdebd578cfbec209c5",
+  "model": "gpt-41"
+}

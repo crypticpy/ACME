@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "publicity of support",
+    "visibility for organizations and leaders"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "increase the publicity",
+    "surrounding the support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicity for support"
+  ],
+  "solutions_proposed": [
+    "increase the publicity surrounding the support"
+  ],
+  "cached_at": "2025-06-20T01:12:01.222293",
+  "cache_key": "68b7ed202b9e11155227fc7ea5b543b82570a0afc08afec29cad1962759df74c",
+  "model": "gpt-41"
+}

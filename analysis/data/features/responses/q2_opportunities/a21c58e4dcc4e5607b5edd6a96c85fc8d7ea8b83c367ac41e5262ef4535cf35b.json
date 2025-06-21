@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration opportunities for visual artists",
+    "fair compensation for artists",
+    "networking and connection among artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more chances for visual artists to collaborate",
+    "be paid for their work",
+    "connect"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of paid opportunities for visual artists",
+    "insufficient collaboration platforms",
+    "limited avenues for artist connection"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for visual artists to collaborate",
+    "ensure artists are paid for their work",
+    "create more ways for artists to connect"
+  ],
+  "cached_at": "2025-06-21T00:31:21.070009",
+  "cache_key": "a21c58e4dcc4e5607b5edd6a96c85fc8d7ea8b83c367ac41e5262ef4535cf35b",
+  "model": "gpt-41"
+}

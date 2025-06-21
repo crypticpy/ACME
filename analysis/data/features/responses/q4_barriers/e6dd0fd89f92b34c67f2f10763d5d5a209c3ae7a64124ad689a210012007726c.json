@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising cost of living in Austin",
+    "difficulty earning income as an artist/musician",
+    "need for more financial opportunities for artists",
+    "desire for cost of living subsidies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Austin is getting increasingly more expensive",
+    "it's hard to get paid as a musician/artist",
+    "more opportunities for artists to make money",
+    "subsidize their cost of living would be much appreciated"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "increasing cost of living in Austin",
+    "difficulty getting paid as a musician/artist"
+  ],
+  "solutions_proposed": [
+    "more opportunities for artists to make money",
+    "subsidize their cost of living"
+  ],
+  "cached_at": "2025-06-21T01:41:56.814375",
+  "cache_key": "e6dd0fd89f92b34c67f2f10763d5d5a209c3ae7a64124ad689a210012007726c",
+  "model": "gpt-41"
+}

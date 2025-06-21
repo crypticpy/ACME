@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for non-profit arts organizations",
+    "inclusivity of all sizes and disciplines",
+    "general need for increased support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "non-profit arts organizations of all sizes and disciplines supported more"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for non-profit arts organizations"
+  ],
+  "solutions_proposed": [
+    "support non-profit arts organizations of all sizes and disciplines more"
+  ],
+  "cached_at": "2025-06-21T00:51:11.628295",
+  "cache_key": "01602765802bd83059f5ce06b5a5eefa766fec352517e0628583416f1e884483",
+  "model": "gpt-41"
+}

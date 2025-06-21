@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Rising cost of living displacing artists and venues",
+    "Inequitable access to funding and institutional support",
+    "Marginalization of grassroots and underrepresented creatives",
+    "Shortage of affordable, accessible, and safe venues",
+    "Artist burnout and instability due to lack of sustained support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "The cost of living in Austin continues to rise, pushing out artists, musicians, and small venues",
+    "Many can\u2019t afford studio space, rehearsal rooms, or even tickets",
+    "Access to funding, media attention, and institutional support often favors larger or more established organizations",
+    "leaving out grassroots initiatives especially those led by BIPOC, queer, disabled, and immigrant creatives",
+    "shortage of affordable, accessible, and safe venues",
+    "stifles hyperlocal cultural expression and disconnects artists from their own communities",
+    "artists operate without long-term stability or institutional backing",
+    "many burn out or leave Austin altogether"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Rising cost of living",
+    "Unaffordable studio space, rehearsal rooms, and tickets",
+    "Funding and support favoring larger organizations",
+    "Marginalization of BIPOC, queer, disabled, and immigrant creatives",
+    "Shortage of affordable, accessible, and safe venues",
+    "Lack of long-term stability or institutional backing",
+    "Artists forced to juggle multiple roles and side jobs",
+    "Artist burnout and exodus from Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:41.766826",
+  "cache_key": "de43a3a03152dc31e2abda6741c3ce82e4f28f7cf2ba9ae86a28f3a83f09a944",
+  "model": "gpt-41"
+}

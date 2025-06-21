@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for volunteer-run instrumental music groups",
+    "recognition of established community music ensembles",
+    "underrepresentation of certain music groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities",
+    "established volunteer-run instrumental music groups",
+    "recognized and supported by our community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of recognition and support for volunteer-run instrumental music groups"
+  ],
+  "solutions_proposed": [
+    "provide more opportunities for established volunteer-run instrumental music groups to be recognized and supported"
+  ],
+  "cached_at": "2025-06-21T01:51:01.288749",
+  "cache_key": "bf3c1551c46a13c9237a475785ca2830fd096b842bdd13c86667ba096714b19a",
+  "model": "gpt-41"
+}

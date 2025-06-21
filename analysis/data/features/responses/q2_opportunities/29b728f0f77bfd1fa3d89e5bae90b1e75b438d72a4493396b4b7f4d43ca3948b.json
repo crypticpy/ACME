@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Desire for more diverse jazz venues",
+    "Interest in private funding for world music",
+    "Need for artistic residencies supporting creative production"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Jazz gigs that aren\u2019t at the 3 places",
+    "Privately funded grants for world music projects",
+    "Artistic residencies for personal creative projects live recording and producing their works"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited jazz venues (only 3 places)",
+    "Lack of private funding for world music projects",
+    "Insufficient artistic residencies for creative production"
+  ],
+  "solutions_proposed": [
+    "Increase number of jazz venues",
+    "Provide privately funded grants for world music projects",
+    "Create artistic residencies for personal creative projects, live recording, and production"
+  ],
+  "cached_at": "2025-06-21T00:30:31.318366",
+  "cache_key": "29b728f0f77bfd1fa3d89e5bae90b1e75b438d72a4493396b4b7f4d43ca3948b",
+  "model": "gpt-41"
+}

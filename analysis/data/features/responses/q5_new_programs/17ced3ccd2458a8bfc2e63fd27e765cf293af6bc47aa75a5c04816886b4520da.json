@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "board development and training needs",
+    "collaboration with tourism sector",
+    "capacity building for organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Board development training",
+    "coordination with Visit Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Visit Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Board development training",
+    "coordination with Visit Austin"
+  ],
+  "cached_at": "2025-06-21T01:59:57.537135",
+  "cache_key": "17ced3ccd2458a8bfc2e63fd27e765cf293af6bc47aa75a5c04816886b4520da",
+  "model": "gpt-41"
+}

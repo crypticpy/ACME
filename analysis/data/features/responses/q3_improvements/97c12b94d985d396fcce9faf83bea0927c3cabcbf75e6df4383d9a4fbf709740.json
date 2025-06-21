@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased publicity",
+    "community awareness of funding programs",
+    "information sharing for eligibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more publicity and outreach",
+    "community is aware of these programs",
+    "good to have awareness of the detail",
+    "opportunity for info share to those that may qualify"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicity and outreach",
+    "community unawareness of program details"
+  ],
+  "solutions_proposed": [
+    "increase publicity and outreach",
+    "provide detailed information to the community",
+    "create opportunities for information sharing to those who may qualify"
+  ],
+  "cached_at": "2025-06-21T01:17:49.256014",
+  "cache_key": "97c12b94d985d396fcce9faf83bea0927c3cabcbf75e6df4383d9a4fbf709740",
+  "model": "gpt-41"
+}

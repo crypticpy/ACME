@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty with grant proposal writing",
+    "lack of knowledge about grant application process",
+    "access barriers for underserved communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Writing a proposal to get a grant",
+    "Many communities cannot or do not know how to even begin writing one"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty writing grant proposals",
+    "lack of knowledge on how to start grant applications"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:18.650990",
+  "cache_key": "00ecdab4f2562bd9db6bd9f54a8104ee61de651cb8e8535bfaa839c2159b3d14",
+  "model": "gpt-41"
+}

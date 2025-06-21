@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of art programs in schools",
+    "youth access to creative industries",
+    "economic accessibility to art resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more art programs for schools",
+    "more opportunities for young people to enter the industry",
+    "accessibility to art resources for low-income families"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility to art resources for low-income families",
+    "limited opportunities for young people to enter the industry"
+  ],
+  "solutions_proposed": [
+    "more art programs for schools",
+    "more opportunities for young people to enter the industry",
+    "increase accessibility to art resources for low-income families"
+  ],
+  "cached_at": "2025-06-21T00:32:44.299031",
+  "cache_key": "3e05ae116f0728bdbb008fa7d4c19b34bed6b45c793416c4c3bb216795f743c2",
+  "model": "gpt-41"
+}

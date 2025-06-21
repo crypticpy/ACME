@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "concern for longstanding organizations",
+    "support for non-established artists, galleries, and curators",
+    "desire for equitable distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more money to distribute",
+    "dollars aren\u2019t taken from other longstanding orgs",
+    "given to the non established artists and galleries and curators"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding leading to competition between established and non-established groups"
+  ],
+  "solutions_proposed": [
+    "increase the total amount of funding available"
+  ],
+  "cached_at": "2025-06-21T00:55:28.974244",
+  "cache_key": "3d8b96e3dd29520505b3789e88f1f0becf85aee59ccf432e5f2420c8b583a4c4",
+  "model": "gpt-41"
+}

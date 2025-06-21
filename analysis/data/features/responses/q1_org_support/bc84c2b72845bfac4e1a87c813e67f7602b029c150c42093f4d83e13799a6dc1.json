@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "separation of funding streams for legacy and emerging organizations",
+    "importance of legacy organizations for community stability",
+    "interdependence between legacy organizations and emerging artists",
+    "loss of significant arts organizations as a warning"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "arts funding might be split into two different funds",
+    "one for legacy organizations and their ongoing programming and one for emerging artists and their projects",
+    "legacy orgs support emerging artists",
+    "Legacy organization are important to the stability of the arts in Austin",
+    "Losing Big Medium was a tragedy that should have been avoided"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "risk of losing legacy organizations due to insufficient support"
+  ],
+  "solutions_proposed": [
+    "split arts funding into separate funds for legacy organizations and emerging artists",
+    "allow legacy organizations to apply for project-specific funding from the emerging artists fund"
+  ],
+  "cached_at": "2025-06-20T10:33:59.837139",
+  "cache_key": "bc84c2b72845bfac4e1a87c813e67f7602b029c150c42093f4d83e13799a6dc1",
+  "model": "gpt-41"
+}

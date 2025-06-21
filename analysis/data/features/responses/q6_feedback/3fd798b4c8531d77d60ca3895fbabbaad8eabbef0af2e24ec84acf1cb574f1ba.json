@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parent engagement in arts",
+    "support for student artists",
+    "increasing participation through outreach"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "involve parents of students who are in the arts",
+    "I am a parent of a junior at UT Austin who is a music major",
+    "get more support and participation from people like me"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "involve parents of students who are in the arts"
+  ],
+  "cached_at": "2025-06-21T02:18:42.744526",
+  "cache_key": "3fd798b4c8531d77d60ca3895fbabbaad8eabbef0af2e24ec84acf1cb574f1ba",
+  "model": "gpt-41"
+}

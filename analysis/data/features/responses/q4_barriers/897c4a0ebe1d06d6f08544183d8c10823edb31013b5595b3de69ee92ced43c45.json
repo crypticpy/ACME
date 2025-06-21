@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited funding for small creative businesses",
+    "resource scarcity",
+    "barriers for small creative enterprises"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "limited access to funding",
+    "limited access to resources",
+    "for small creative business"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funding",
+    "limited access to resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:52.896136",
+  "cache_key": "897c4a0ebe1d06d6f08544183d8c10823edb31013b5595b3de69ee92ced43c45",
+  "model": "gpt-41"
+}

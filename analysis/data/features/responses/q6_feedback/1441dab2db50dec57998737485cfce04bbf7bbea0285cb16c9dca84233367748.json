@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "city funding prioritizes sports over arts",
+    "decaying infrastructure at Dougherty Arts Center",
+    "need for advocacy for the arts",
+    "perceived lack of city support for arts",
+    "public influence follows city leadership",
+    "arts as underdog in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "we can talk talk talk, but it all comes down to money",
+    "Arts are the underdog",
+    "the Dougherty Arts Center a badly needed new building instead of the rodent-infested, decaying one",
+    "COA has shown what it values and the citizens follow",
+    "ACME must be an advocate that convinces the city that the time to show and prove has arrived",
+    "The arts are dying here and we need their support much more than well-sponsored and frequented endeavors, such as sports do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Dougherty Arts Center"
+  ],
+  "barriers_identified": [
+    "lack of funding for arts",
+    "city prioritizing sports and newer facilities over arts",
+    "decaying and inadequate arts infrastructure",
+    "perceived lack of advocacy for arts"
+  ],
+  "solutions_proposed": [
+    "ACME must be an advocate that convinces the city to support the arts"
+  ],
+  "cached_at": "2025-06-21T02:17:17.764212",
+  "cache_key": "1441dab2db50dec57998737485cfce04bbf7bbea0285cb16c9dca84233367748",
+  "model": "gpt-41"
+}

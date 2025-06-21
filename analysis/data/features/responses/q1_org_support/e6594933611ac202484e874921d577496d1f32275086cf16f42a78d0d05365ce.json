@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with current support",
+    "endorsement of existing efforts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "keep doing it"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:21:34.699489",
+  "cache_key": "e6594933611ac202484e874921d577496d1f32275086cf16f42a78d0d05365ce",
+  "model": "gpt-41"
+}

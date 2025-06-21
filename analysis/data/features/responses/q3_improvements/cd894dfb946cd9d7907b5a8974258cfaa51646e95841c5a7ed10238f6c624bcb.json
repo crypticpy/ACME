@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Broadening definitions of artistic value and impact",
+    "Overemphasis on trendy or hardship-based art",
+    "Need for support of skilled, process-driven, and reflective work",
+    "Under-recognition of long-time local artists",
+    "Sustaining the creative foundation and arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "broaden their definition of impact and artistic value",
+    "funding seems to go toward work that is loud, trendy, or tied to hardship narratives",
+    "space for skilled, process-driven, and reflective work",
+    "naturalist and landscape art",
+    "doesn't rely on shock value but still deeply contributes",
+    "funding that supports long-time local artists, not just emerging voices or those new to Austin",
+    "quietly building the creative foundation of this city",
+    "thoughtful investment in our continued work would strengthen the entire arts ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Narrow definitions of impact and artistic value in funding decisions",
+    "Preference for trendy or hardship narrative-driven work",
+    "Lack of support for established, long-time local artists"
+  ],
+  "solutions_proposed": [
+    "Broaden the definition of impact and artistic value in funding criteria",
+    "Create space and funding for skilled, process-driven, and reflective work (e.g., naturalist and landscape art)",
+    "Increase funding support for long-time local artists, not just emerging or new-to-Austin artists",
+    "Invest thoughtfully in the continued work of established artists to strengthen the arts ecosystem"
+  ],
+  "cached_at": "2025-06-21T01:08:43.537781",
+  "cache_key": "cd894dfb946cd9d7907b5a8974258cfaa51646e95841c5a7ed10238f6c624bcb",
+  "model": "gpt-41"
+}

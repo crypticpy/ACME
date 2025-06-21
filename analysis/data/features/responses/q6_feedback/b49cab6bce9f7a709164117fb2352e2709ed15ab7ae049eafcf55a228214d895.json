@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of ACME's actions on funding perceptions",
+    "future implications of funding decisions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "actions of ACME should certainly have profound impacts",
+    "how funding is viewed moving forward"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:19:19.438880",
+  "cache_key": "b49cab6bce9f7a709164117fb2352e2709ed15ab7ae049eafcf55a228214d895",
+  "model": "gpt-41"
+}

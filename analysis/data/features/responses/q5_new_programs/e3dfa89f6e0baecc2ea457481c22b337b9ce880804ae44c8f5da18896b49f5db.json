@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "teaching partnerships between artists and schools",
+    "event-based educational programming",
+    "collaboration among multi-disciplinary artists",
+    "curated group exhibitions",
+    "increased opportunities for artist participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "teaching partnerships with artists and local schools (event based, not full-time position)",
+    "collaboration opportunities with multi-disciplinary artists",
+    "more call for artists group shows that are curated"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "teaching partnerships with artists and local schools (event based, not full-time position)",
+    "collaboration opportunities with multi-disciplinary artists",
+    "more call for artists group shows that are curated"
+  ],
+  "cached_at": "2025-06-21T02:01:29.624437",
+  "cache_key": "e3dfa89f6e0baecc2ea457481c22b337b9ce880804ae44c8f5da18896b49f5db",
+  "model": "gpt-41"
+}

@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved communication",
+    "desire for quick, visible progress",
+    "clarity about ACME's role and limitations",
+    "concerns about consultant spending",
+    "valuing internal staff expertise",
+    "learning from successful city teams"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Start communicating.",
+    "You don't need a year.",
+    "Pick a few early quick wins.",
+    "Outline what ACME is NOT, so the ecosystem can adapt and fill those gaps.",
+    "If ACME is successful, how will we know.",
+    "Don't waste a bunch of money on consultants.",
+    "They staff knows.",
+    "Ask Austin's 311 team how they do things. They are sensational."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin's 311 team"
+  ],
+  "barriers_identified": [
+    "lack of communication",
+    "potential delays in action",
+    "unclear organizational boundaries",
+    "overreliance on external consultants"
+  ],
+  "solutions_proposed": [
+    "Start communicating immediately",
+    "Pursue early quick wins",
+    "Clearly outline what ACME is not responsible for",
+    "Define success metrics and visible differences",
+    "Rely on internal staff expertise instead of consultants",
+    "Learn from Austin's 311 team"
+  ],
+  "cached_at": "2025-06-21T02:22:18.301385",
+  "cache_key": "9d40cbb35fa65cb7fef5ffc750e066f2500e82ad704e5c57e5bfe9c12a54037b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration with impactful organizations",
+    "value of longevity in cultural work",
+    "prioritizing proven track records"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "collaborate with those who have proven impact over time",
+    "longevity is good"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborate with those who have proven impact over time",
+    "prioritize longevity"
+  ],
+  "cached_at": "2025-06-20T10:25:47.434481",
+  "cache_key": "5d4a3ee3fefd472d83c2e4cd1f6a2c2c4a8ff12261d1df4ebaab0ba7a9bfd79d",
+  "model": "gpt-41"
+}

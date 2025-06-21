@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "declining artist pay",
+    "impact of high cost of living on artists",
+    "loss of vital music venues",
+    "need for more artist opportunities",
+    "migration of artists out of Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "cost of living is far too high",
+    "artists pay is decreasing",
+    "growing costs associated with operating the venues",
+    "lower musician pay",
+    "losing some of our most vital venues",
+    "provide more spaces for artists that pay enough",
+    "we dont all move to Lockhart"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living",
+    "decreasing artist pay",
+    "increasing venue operating costs",
+    "loss of performance venues"
+  ],
+  "solutions_proposed": [
+    "provide more spaces for artists that pay enough"
+  ],
+  "cached_at": "2025-06-21T00:28:42.171239",
+  "cache_key": "cdecf9d65c9e8cdcf802a820be617be63e3292d7372d0c0ccfea2f5da85d5e92",
+  "model": "gpt-41"
+}

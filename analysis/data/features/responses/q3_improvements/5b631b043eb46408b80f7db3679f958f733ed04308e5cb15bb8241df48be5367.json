@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of artistic merit over recipient identity",
+    "perceived overemphasis on identity factors in funding",
+    "concern for community-wide value",
+    "critique of current grant evaluation criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funds rewarded more on the basis of content, quality, and value to the community",
+    "less on the identity of the recipient",
+    "over emphasis on skin color or identity of grant recipients",
+    "sacrificing artistic merit and value to the community at large"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overemphasis on recipient identity in grant decisions",
+    "artistic merit and community value being deprioritized"
+  ],
+  "solutions_proposed": [
+    "reward funds more on the basis of content, quality, and value to the community",
+    "reduce emphasis on the identity of the recipient in funding decisions"
+  ],
+  "cached_at": "2025-06-21T01:02:37.342339",
+  "cache_key": "5b631b043eb46408b80f7db3679f958f733ed04308e5cb15bb8241df48be5367",
+  "model": "gpt-41"
+}

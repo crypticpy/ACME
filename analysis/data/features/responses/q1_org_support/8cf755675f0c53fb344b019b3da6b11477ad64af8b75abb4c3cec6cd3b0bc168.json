@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Vital role of city grants for small, longstanding organizations",
+    "Lack of foundation support and increasing exclusivity of private funding",
+    "Improvements and remaining gaps in recent grant program",
+    "Need for community-building among arts nonprofits",
+    "Challenges due to rising venue rents"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "City grants are absolutely vital for small but longstanding organizations to survive in Austin",
+    "We just don't have the foundations other major cities have",
+    "invite only applications",
+    "the last round of your grant program sought to repair major issues",
+    "holes that program had around not supporting long-standing or artistically-impactful organizations",
+    "helped build community among the arts nonprofits in the city",
+    "communication WITH and facilitating connection BETWEEN the people creating the arts community",
+    "Venues (even churches) are really jacking up rents"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of foundation support compared to other major cities",
+    "Foundations moving to invite-only applications",
+    "Grant program scoring systems not supporting long-standing or artistically-impactful organizations",
+    "Difficulty in building community among arts nonprofits",
+    "Rising venue rents"
+  ],
+  "solutions_proposed": [
+    "Help build community among the arts nonprofits in the city",
+    "Facilitate communication and connection between people creating the arts community"
+  ],
+  "cached_at": "2025-06-20T10:31:33.725844",
+  "cache_key": "8cf755675f0c53fb344b019b3da6b11477ad64af8b75abb4c3cec6cd3b0bc168",
+  "model": "gpt-41"
+}

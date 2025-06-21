@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about grant outcomes",
+    "uncertainty about grant recipient selection",
+    "preference for supporting full-time local artists"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "It's hard to say without really knowing the results",
+    "I've yet to get the grants and I don't know who is getting the grants",
+    "hopefully it's full time musicians / artists in the Austin area",
+    "If that's the case, then these programs are doing a great job"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency about grant recipients",
+    "lack of personal experience with receiving grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:01:25.199068",
+  "cache_key": "d2dad4b0d5d2cb1210a831a1d65221522f816d66c311fc89735462b75f510fbf",
+  "model": "gpt-41"
+}

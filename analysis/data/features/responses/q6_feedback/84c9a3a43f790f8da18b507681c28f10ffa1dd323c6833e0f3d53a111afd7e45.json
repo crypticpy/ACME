@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived exclusion of local artists",
+    "allocation of public funding to non-local artists",
+    "representation of Austin artists in city projects",
+    "city council decision-making and priorities",
+    "community identity and pride"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "$15 million foreign artists program for our airport",
+    "drastically underrepresents local artists",
+    "should have been ONLY local artists",
+    "It's an insult to Austin artists",
+    "gives the impression that our City Council feels Austin has no good artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation for local artists in major city-funded projects"
+  ],
+  "solutions_proposed": [
+    "funding for airport art should be exclusively for local artists"
+  ],
+  "cached_at": "2025-06-21T02:21:22.403586",
+  "cache_key": "84c9a3a43f790f8da18b507681c28f10ffa1dd323c6833e0f3d53a111afd7e45",
+  "model": "gpt-41"
+}

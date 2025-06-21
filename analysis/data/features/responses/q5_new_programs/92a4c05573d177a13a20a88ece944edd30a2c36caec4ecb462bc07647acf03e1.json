@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with current programming",
+    "international recognition of Austin's music scene",
+    "support for local artists and businesses",
+    "promotion of Austin as a global music hub",
+    "use of media (documentaries, recordings, magazines) for promotion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "your doing a good job right now",
+    "like to see it continue",
+    "our fest is bringing in people from all over the world",
+    "support locals artist & business",
+    "promoting Austin as the music cap of the world through out the world",
+    "with documentaries, recordings, touring (EU/Jap), interview in magazines all around the world"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:50:34.088615",
+  "cache_key": "92a4c05573d177a13a20a88ece944edd30a2c36caec4ecb462bc07647acf03e1",
+  "model": "gpt-41"
+}

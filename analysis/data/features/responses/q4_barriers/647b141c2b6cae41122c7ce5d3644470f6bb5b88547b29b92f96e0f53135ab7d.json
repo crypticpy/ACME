@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Geographic inequity in cultural access",
+    "Desire for local arts infrastructure in North Austin",
+    "Barriers created by traffic and parking",
+    "Perceived lack of cultural vibrancy in north central neighborhoods",
+    "Personal willingness to participate and volunteer if access improves"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "it feels suburban and far removed from the culture that is offered downtown",
+    "it would be great to have some culture available along the 183 corridor",
+    "bring some art and culture to 183 and Ohlen Road",
+    "The north central area of Austin is so down-trodden and sad",
+    "give those local residents the opportunity to experience art and culture in their area",
+    "I never visit the Doughtery Arts Center because of the location",
+    "if we had a version of that in North Austin, I would be very active in taking classes",
+    "Traffic and lack of parking make it difficult for me to be motivated to go downtown",
+    "lack of enthusiasm for going downtown or even crossing the river to go to events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Doughtery Arts Center"
+  ],
+  "barriers_identified": [
+    "Physical distance from downtown cultural offerings",
+    "Traffic congestion",
+    "Lack of parking",
+    "Absence of local arts and culture venues in North Austin",
+    "Perceived lack of vibrancy in north central neighborhoods"
+  ],
+  "solutions_proposed": [
+    "Bring art and culture to 183 and Ohlen Road",
+    "Establish a version of the Doughtery Arts Center in North Austin"
+  ],
+  "cached_at": "2025-06-21T01:38:46.821705",
+  "cache_key": "647b141c2b6cae41122c7ce5d3644470f6bb5b88547b29b92f96e0f53135ab7d",
+  "model": "gpt-41"
+}

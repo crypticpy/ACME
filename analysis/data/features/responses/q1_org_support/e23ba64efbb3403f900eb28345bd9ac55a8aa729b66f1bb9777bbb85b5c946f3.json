@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for existing grants",
+    "need for more creative spaces",
+    "role of the City beyond ACME",
+    "support for artists and creators"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I love that there are grants",
+    "allowed for more kinds of spaces",
+    "where artists and creators could work, perform, and show off their work",
+    "the City (as a whole rather than ACME itself, but also ACME itself can work on this!)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces for artists and creators to work, perform, and show their work"
+  ],
+  "solutions_proposed": [
+    "allow for more kinds of spaces where artists and creators could work, perform, and show off their work"
+  ],
+  "cached_at": "2025-06-20T10:30:49.010003",
+  "cache_key": "e23ba64efbb3403f900eb28345bd9ac55a8aa729b66f1bb9777bbb85b5c946f3",
+  "model": "gpt-41"
+}

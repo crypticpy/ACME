@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for established organizations",
+    "support for new organizations",
+    "funding for journalism and media projects",
+    "ecosystem-wide funding approach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Fund the organizations that have been doing the work",
+    "Fund new organizations",
+    "especially journalism and media projects",
+    "the ecosystem as a whole"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund the organizations that have been doing the work",
+    "Fund new organizations, especially journalism and media projects",
+    "Fund the ecosystem as a whole"
+  ],
+  "cached_at": "2025-06-21T02:02:44.278441",
+  "cache_key": "c660bd7b548c2a17e03f0dca57d0ad7dcf34ae85fedb919df4efb65ad5e922ca",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for consistent funding",
+    "superficial diversity efforts",
+    "gatekeeping by white men",
+    "lack of genuine community representation",
+    "exclusion of marginalized groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "need consistent funding",
+    "focus on diversity",
+    "gate kept by white men",
+    "put their own agendas ahead of the needs of the community",
+    "diversified on paper but in reality still cater to this demographic",
+    "prevent others from access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping by white men",
+    "superficial diversity",
+    "organizations prevent others from access"
+  ],
+  "solutions_proposed": [
+    "provide consistent funding",
+    "focus on genuine diversity"
+  ],
+  "cached_at": "2025-06-20T10:42:41.679918",
+  "cache_key": "edfa5455dff6f2c8186f3148e0a7fe3818df64e8ff368985a1ca278035219f99",
+  "model": "gpt-41"
+}

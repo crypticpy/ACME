@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "uncertainty about funding eligibility and continuity",
+    "need for increased facility and venue support",
+    "financial strain of venue upkeep and overhead",
+    "inaccessibility of art due to high ticket prices",
+    "importance of art and community in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "We need Thrive level funding (or beyond)",
+    "very uncertain whether we'll be eligible for more of that funding without a gap",
+    "As we run a venue, that would be devastating for us",
+    "more focus on the importance of the art and the communities we serve in the funding process",
+    "We desperately need facility and venue support",
+    "The financial drain of upkeep and overhead is so real",
+    "art makers can't charge a ticket price that would support that without making the art completely unaccessible to large pockets of our communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "uncertainty about funding continuity",
+    "lack of facility and venue support",
+    "financial drain of upkeep and overhead",
+    "inability to set ticket prices that cover costs without excluding community members"
+  ],
+  "solutions_proposed": [
+    "more focus on the importance of the art and the communities we serve in the funding process",
+    "increased facility and venue support"
+  ],
+  "cached_at": "2025-06-21T01:03:55.280539",
+  "cache_key": "4a3ddf135d6e1c312e2b165062e9b3950754fe1edfadc192ee3d7ca8fa20ee97",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "language accessibility",
+    "support for Spanish-speaking artists",
+    "grant application process barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Language support for spanish speaking artists",
+    "grant applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of language support on grant applications for Spanish-speaking artists"
+  ],
+  "solutions_proposed": [
+    "Provide language support for Spanish-speaking artists on the grant applications"
+  ],
+  "cached_at": "2025-06-21T01:07:31.219608",
+  "cache_key": "995baae4514ab974f35b5b86c1ab03fb16404e77924496553a4cf43b9e0b021b",
+  "model": "gpt-41"
+}

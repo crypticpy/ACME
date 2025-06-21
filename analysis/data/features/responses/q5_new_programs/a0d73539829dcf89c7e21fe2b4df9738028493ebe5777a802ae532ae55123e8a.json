@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of African American art",
+    "desire for increased cultural diversity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More African American art exhibits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of African American art exhibits"
+  ],
+  "solutions_proposed": [
+    "offer more African American art exhibits"
+  ],
+  "cached_at": "2025-06-21T02:06:42.508520",
+  "cache_key": "a0d73539829dcf89c7e21fe2b4df9738028493ebe5777a802ae532ae55123e8a",
+  "model": "gpt-41"
+}

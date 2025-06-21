@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for community fellowship",
+    "inclusivity in cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "community fellowship",
+    "feels inclusive to anyone"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusivity"
+  ],
+  "solutions_proposed": [
+    "create opportunities for community fellowship that are inclusive"
+  ],
+  "cached_at": "2025-06-21T00:41:40.359580",
+  "cache_key": "f4a3aa673ee9555cb00130b4d73800d876182062b7eb43875902bf668c498517",
+  "model": "gpt-41"
+}

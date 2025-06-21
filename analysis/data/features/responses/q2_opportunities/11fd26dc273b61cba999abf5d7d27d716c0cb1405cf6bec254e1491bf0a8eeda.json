@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for multicultural events",
+    "interest in dance performances",
+    "interest in music events",
+    "interest in diverse food experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Dances music",
+    "food from the different cltural groups in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More dances, music, and food events representing different cultural groups in Austin"
+  ],
+  "cached_at": "2025-06-21T00:50:15.746328",
+  "cache_key": "11fd26dc273b61cba999abf5d7d27d716c0cb1405cf6bec254e1491bf0a8eeda",
+  "model": "gpt-41"
+}

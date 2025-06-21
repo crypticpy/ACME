@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grant writing education",
+    "support for beginner program coordinators",
+    "increased arts funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grant writing workshops",
+    "City assistance or collaboration for programming for beginner coordinators",
+    "greater funding for the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing skills",
+    "insufficient support for beginner coordinators",
+    "inadequate arts funding"
+  ],
+  "solutions_proposed": [
+    "offer grant writing workshops",
+    "provide City assistance or collaboration for programming for beginner coordinators",
+    "increase funding for the arts"
+  ],
+  "cached_at": "2025-06-21T01:59:20.092261",
+  "cache_key": "038d29b399f6661f0785f20c67d053e678c5c83959fee6c604563b5f03e6d913",
+  "model": "gpt-41"
+}

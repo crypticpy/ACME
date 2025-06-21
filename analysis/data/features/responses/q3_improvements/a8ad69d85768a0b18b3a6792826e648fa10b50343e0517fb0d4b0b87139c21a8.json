@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for application support",
+    "need for legal documentation support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "application assistance",
+    "legal document assistance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of application assistance",
+    "lack of legal document assistance"
+  ],
+  "solutions_proposed": [
+    "provide application assistance",
+    "provide legal document assistance"
+  ],
+  "cached_at": "2025-06-21T01:06:15.843427",
+  "cache_key": "a8ad69d85768a0b18b3a6792826e648fa10b50343e0517fb0d4b0b87139c21a8",
+  "model": "gpt-41"
+}

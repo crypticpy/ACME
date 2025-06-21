@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for individual and micro business funding",
+    "competition disadvantages for small entities",
+    "lack of tailored grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grant or funding opportunity that is geared towards individuals and micro businesses",
+    "difficult for those to compete with SME"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty for individuals and micro businesses to compete with SMEs for funding"
+  ],
+  "solutions_proposed": [
+    "create grant or funding opportunities specifically for individuals and micro businesses"
+  ],
+  "cached_at": "2025-06-21T02:00:23.769789",
+  "cache_key": "f234a63738325a788da1428f10ee365a7a9bf7a73a01274cfef79a7e6540e1c8",
+  "model": "gpt-41"
+}

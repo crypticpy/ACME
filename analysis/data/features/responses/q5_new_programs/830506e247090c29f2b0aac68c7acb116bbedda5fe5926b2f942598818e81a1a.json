@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for long-term funded creative spaces",
+    "inclusivity across income levels",
+    "reference to successful models in other cities",
+    "concern about accessibility for non-white-collar individuals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "long term funded spaces for makers of all kinds",
+    "something like the ArtGym in Denver would be amazing",
+    "it has to be accessible for people of various incomes",
+    "not just white collar folks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ArtGym in Denver"
+  ],
+  "barriers_identified": [
+    "lack of accessibility for people of various incomes",
+    "spaces currently favor white collar folks"
+  ],
+  "solutions_proposed": [
+    "create long-term funded spaces for makers of all kinds",
+    "ensure these spaces are accessible for people of various incomes"
+  ],
+  "cached_at": "2025-06-21T01:50:21.353317",
+  "cache_key": "830506e247090c29f2b0aac68c7acb116bbedda5fe5926b2f942598818e81a1a",
+  "model": "gpt-41"
+}

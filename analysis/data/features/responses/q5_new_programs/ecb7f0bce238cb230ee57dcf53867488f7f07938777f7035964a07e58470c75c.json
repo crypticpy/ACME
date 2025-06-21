@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for sustained funding",
+    "support for legacy institutions",
+    "community-wide impact"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more sustained funding",
+    "legacy institutions",
+    "ensure lasting, community-wide impact"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustained funding for legacy institutions"
+  ],
+  "solutions_proposed": [
+    "provide more sustained funding for legacy institutions"
+  ],
+  "cached_at": "2025-06-21T02:05:35.788246",
+  "cache_key": "ecb7f0bce238cb230ee57dcf53867488f7f07938777f7035964a07e58470c75c",
+  "model": "gpt-41"
+}

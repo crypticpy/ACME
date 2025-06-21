@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of publicity for local events",
+    "awareness of free cultural options",
+    "need for accessible event information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "PR for local events",
+    "checklist form",
+    "so people know what free options are available"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient publicity for local events",
+    "lack of awareness of free cultural options"
+  ],
+  "solutions_proposed": [
+    "provide PR for local events",
+    "offer information in a checklist form"
+  ],
+  "cached_at": "2025-06-21T01:42:35.118723",
+  "cache_key": "c5d721fca090e67b40a9c95c2197a67c51e6f0e1fb0c5d32cae20d7acc28cd92",
+  "model": "gpt-41"
+}

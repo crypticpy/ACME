@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of performance spaces for small music organizations",
+    "lack of suitable secular venues for small groups",
+    "barriers to audience attendance in religious spaces",
+    "limitations on event activities (e.g., alcohol at receptions)",
+    "inappropriateness of large venues for certain music genres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "help smaller music organizations afford to perform in secular spaces",
+    "cannot afford the Long Center or the AISD Performing Arts Center",
+    "music inappropriate for such large spaces",
+    "left with little option than to perform in churches",
+    "difficult to entice audiences who are unchurched to go into a church",
+    "secular space would make many things easier",
+    "ability to have after-concert receptions that include alcohol"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center",
+    "AISD Performing Arts Center"
+  ],
+  "barriers_identified": [
+    "high cost of large performance venues",
+    "lack of affordable secular spaces",
+    "genre inappropriateness for large venues",
+    "audience discomfort with church venues",
+    "restrictions on event activities in church spaces"
+  ],
+  "solutions_proposed": [
+    "City to help smaller music organizations afford to perform in secular spaces"
+  ],
+  "cached_at": "2025-06-21T01:51:40.778119",
+  "cache_key": "64c830e712d3c2a753cfa427b00ce8bf9c9dc4c9eb2c79481532ab2f26e348a4",
+  "model": "gpt-41"
+}

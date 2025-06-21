@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community division",
+    "desire for equity",
+    "emotional exhaustion with process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "The community is divided",
+    "all things should be equal",
+    "I am exhausted by it all"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "community division",
+    "emotional exhaustion"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:13.512743",
+  "cache_key": "59ca6433204a600503d0cc0e5a8192651fa0441e95ef6e4f7c1b4316111a51a6",
+  "model": "gpt-41"
+}

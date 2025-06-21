@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of rehearsal space",
+    "infrastructure limitations for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Rehearsal space availability"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Rehearsal space availability"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:58.266011",
+  "cache_key": "1fe3cd339aeae3533fb45de5f8d43ddb6549bab1bdfe70eeb4e11d6aef408e47",
+  "model": "gpt-41"
+}

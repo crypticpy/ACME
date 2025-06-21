@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for new and emerging artists",
+    "accessibility for the deaf community",
+    "ASL interpretation at cultural events",
+    "inclusivity in Austin's cultural scene"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "a clear focus on opportunities for new artists and emerging artists",
+    "more support for ASL interpreted shows",
+    "the deaf community (of which is huge here in Austin) should feel welcome"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of ASL interpreted shows",
+    "deaf community not feeling welcome"
+  ],
+  "solutions_proposed": [
+    "more support for ASL interpreted shows",
+    "a clear focus on opportunities for new artists and emerging artists",
+    "make the deaf community feel welcome"
+  ],
+  "cached_at": "2025-06-21T01:12:45.864560",
+  "cache_key": "a4abb79716a00375dcb9e719fa8de2de34c13111bcb6785c5209a4b26352c376",
+  "model": "gpt-41"
+}

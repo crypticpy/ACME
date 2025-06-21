@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for marketing support",
+    "support for educational programming",
+    "financial assistance for ticket costs",
+    "emphasis on measurable outcomes for grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grants for marketing",
+    "educational programs",
+    "grants to support ticket costs",
+    "measurable outcomes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for marketing",
+    "insufficient support for educational programs",
+    "high ticket costs"
+  ],
+  "solutions_proposed": [
+    "offer grants for marketing",
+    "offer grants for educational programs",
+    "offer grants to support ticket costs",
+    "ensure grants have measurable outcomes"
+  ],
+  "cached_at": "2025-06-21T02:01:57.873477",
+  "cache_key": "d40180e405e02383df5ab1510467fc001b5bcd8a0b34ca5f08aec6fbc25f99fc",
+  "model": "gpt-41"
+}

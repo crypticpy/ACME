@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of creative spaces",
+    "tightening of funding for creative communities",
+    "challenges in artistic recognition"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "no one can afford spaces right now",
+    "funding is much tighter right now",
+    "it's hard for creative communities to pay for themselves",
+    "it can be difficult to be recognized that the work you do is art"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford creative spaces",
+    "insufficient funding",
+    "lack of recognition for artistic work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:46.069537",
+  "cache_key": "e2cc9ac341bddfaa7ca6d79537489c257bee20d8f33f6f2e20309f7d22997b4f",
+  "model": "gpt-41"
+}

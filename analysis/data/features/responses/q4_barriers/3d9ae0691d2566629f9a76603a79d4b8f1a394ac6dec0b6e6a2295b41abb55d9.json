@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient opportunities for organizations and leaders",
+    "lack of institutional support",
+    "absence of accountability in cultural institutions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "lack of opportunity and support for orgs and leaders",
+    "lack of accountability for institutions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunity for organizations and leaders",
+    "lack of support for organizations and leaders",
+    "lack of accountability for institutions"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:22.249038",
+  "cache_key": "3d9ae0691d2566629f9a76603a79d4b8f1a394ac6dec0b6e6a2295b41abb55d9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for structural support beyond funding",
+    "centralization and accessibility for artists",
+    "visibility and outreach to struggling artists",
+    "metaphorical framing of support systems"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "stable ground that artists can utilize instead of just funding",
+    "build structure that elevates the artists",
+    "centralized hub for them to find",
+    "services that float drift away from those struggling to find a life raft",
+    "islands are easier to spot, find and swim to",
+    "build a metaphorical lighthouse of awareness",
+    "draw in those most in need"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of stable, accessible support structures",
+    "difficulty for struggling artists to find and access services"
+  ],
+  "solutions_proposed": [
+    "create a stable, structured support system beyond just funding",
+    "establish a centralized hub for artists",
+    "increase visibility and awareness through a 'lighthouse' approach to outreach"
+  ],
+  "cached_at": "2025-06-21T01:06:31.911031",
+  "cache_key": "02e92861c13ac29a9cd501b471d545d816cb105b89b29e18ded025b740dd0ac3",
+  "model": "gpt-41"
+}

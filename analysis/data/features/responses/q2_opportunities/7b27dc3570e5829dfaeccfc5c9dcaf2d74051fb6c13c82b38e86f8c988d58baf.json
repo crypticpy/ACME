@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "birding as cultural engagement",
+    "native plant appreciation",
+    "ethical rainwater collection",
+    "ecological sustainability in small spaces"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Birding",
+    "native plants",
+    "ethical rain water collection",
+    "creating viable ecological environments within small spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "birding opportunities",
+    "native plant initiatives",
+    "ethical rainwater collection programs",
+    "ecological environment creation in small spaces"
+  ],
+  "cached_at": "2025-06-21T00:35:24.155199",
+  "cache_key": "7b27dc3570e5829dfaeccfc5c9dcaf2d74051fb6c13c82b38e86f8c988d58baf",
+  "model": "gpt-41"
+}

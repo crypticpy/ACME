@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "lack of transparency in funding",
+    "challenges in program planning due to funding uncertainty"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "We need funding",
+    "transparency regarding funding",
+    "so we can plan our programming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of transparency regarding funding"
+  ],
+  "solutions_proposed": [
+    "provide more funding",
+    "increase transparency regarding funding"
+  ],
+  "cached_at": "2025-06-20T10:40:32.237252",
+  "cache_key": "79850fb28aa2279a6d9bd7f9b222dafc8eaeeae0e0809d02490323ed93699978",
+  "model": "gpt-41"
+}

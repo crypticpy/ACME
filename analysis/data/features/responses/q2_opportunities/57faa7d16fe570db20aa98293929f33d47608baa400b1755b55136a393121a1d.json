@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for increased LGBTQIA programming",
+    "Desire for increased BIPOC programming",
+    "Need for more inclusive cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more LGBTQIA Bipoc programing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase LGBTQIA programming",
+    "Increase BIPOC programming"
+  ],
+  "cached_at": "2025-06-21T00:26:11.518216",
+  "cache_key": "57faa7d16fe570db20aa98293929f33d47608baa400b1755b55136a393121a1d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for free art-making events",
+    "Use of libraries and underutilized spaces for arts",
+    "Geographic equity in cultural programming",
+    "Transportation and parking barriers to downtown access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Free events for art making at libraries",
+    "activation of underutilized spaces (empty spaces that are for rent, warehouses, etc.) across the City, not just downtown",
+    "Parking is hard downtown",
+    "buses take 1+ hours from outlying areas to get into downtown"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Parking is hard downtown",
+    "buses take 1+ hours from outlying areas to get into downtown"
+  ],
+  "solutions_proposed": [
+    "Free events for art making at libraries",
+    "Activation of underutilized spaces (empty spaces that are for rent, warehouses, etc.) across the City, not just downtown"
+  ],
+  "cached_at": "2025-06-21T00:47:58.286083",
+  "cache_key": "8f09e67b4c46e42490ce2978849b99d44803a0188e75cfe773d26c93a9750733",
+  "model": "gpt-41"
+}

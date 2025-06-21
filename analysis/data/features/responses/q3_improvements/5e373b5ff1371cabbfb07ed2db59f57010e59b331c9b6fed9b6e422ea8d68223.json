@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in judging",
+    "clarity in scoring methodology"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more transparency in the judging",
+    "clarity in the scoring methodology"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in judging",
+    "unclear scoring methodology"
+  ],
+  "solutions_proposed": [
+    "increase transparency in judging",
+    "provide clarity in scoring methodology"
+  ],
+  "cached_at": "2025-06-21T01:15:46.301836",
+  "cache_key": "5e373b5ff1371cabbfb07ed2db59f57010e59b331c9b6fed9b6e422ea8d68223",
+  "model": "gpt-41"
+}

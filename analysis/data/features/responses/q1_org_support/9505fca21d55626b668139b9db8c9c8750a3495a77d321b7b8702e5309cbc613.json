@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for legal support",
+    "importance of labor rights education",
+    "organizational capacity building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Legal representation",
+    "union education"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of legal representation",
+    "lack of union education"
+  ],
+  "solutions_proposed": [
+    "Provide legal representation",
+    "Offer union education"
+  ],
+  "cached_at": "2025-06-20T10:27:46.041022",
+  "cache_key": "9505fca21d55626b668139b9db8c9c8750a3495a77d321b7b8702e5309cbc613",
+  "model": "gpt-41"
+}

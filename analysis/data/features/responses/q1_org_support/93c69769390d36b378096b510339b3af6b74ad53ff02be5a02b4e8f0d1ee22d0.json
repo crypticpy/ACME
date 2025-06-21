@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "access to city venues",
+    "performance and rehearsal space",
+    "funding opportunities",
+    "information about funding sources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "better access to city venues for performance and rehearsal",
+    "more funding opportunities",
+    "information on other local, regional and national funding sources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to city venues",
+    "lack of information on funding sources"
+  ],
+  "solutions_proposed": [
+    "provide better access to city venues for performance and rehearsal",
+    "offer more funding opportunities",
+    "share information on other local, regional and national funding sources"
+  ],
+  "cached_at": "2025-06-20T10:31:31.000733",
+  "cache_key": "93c69769390d36b378096b510339b3af6b74ad53ff02be5a02b4e8f0d1ee22d0",
+  "model": "gpt-41"
+}

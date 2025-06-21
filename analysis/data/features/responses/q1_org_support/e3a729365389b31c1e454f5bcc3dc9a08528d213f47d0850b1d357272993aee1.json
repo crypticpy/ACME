@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "historic inequity in arts funding",
+    "positive impact of recent funding reforms",
+    "disparity between White-led and BIPOC-led organizations",
+    "importance of continued equitable funding",
+    "capacity building for marginalized organizations",
+    "role of marginalized communities in Austin's cultural identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "astounding for marginalized and lesser represented arts groups",
+    "efforts to equalize funding was breathtaking",
+    "left behind in funding for DECADES",
+    "over $30M has been given to White led, White serving arts organizations just since 2010 as compared to $5 for Latinos",
+    "my own organization, impacted by the deficit in equitable funding, just got a development director in 2019 for the first time in nearly 20 years",
+    "Latinitas and it has been able to meet capacity needs because the city took the time to acknowledge groups like ours",
+    "over 40,000 girls and teens in Latinitas have experienced filmmaking, writing, podcasting, graphic and web design and other STEAM activities",
+    "Black and Latino community being the center of Austin's coolness, even still while it gets more gentrified"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Latinitas"
+  ],
+  "barriers_identified": [
+    "historic underfunding of BIPOC-led organizations",
+    "lack of development staff due to funding deficits",
+    "White-led organizations having more resources and development capacity",
+    "gentrification impacting marginalized communities"
+  ],
+  "solutions_proposed": [
+    "continue the campaign that was started to equalize funding",
+    "city's economic development should maintain focus on equitable support"
+  ],
+  "cached_at": "2025-06-20T10:45:56.001921",
+  "cache_key": "e3a729365389b31c1e454f5bcc3dc9a08528d213f47d0850b1d357272993aee1",
+  "model": "gpt-41"
+}

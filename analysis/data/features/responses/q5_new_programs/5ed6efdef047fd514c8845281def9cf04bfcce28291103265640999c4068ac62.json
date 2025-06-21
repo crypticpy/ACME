@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "immersive cultural experiences",
+    "representation of Austin\u2019s diversity",
+    "amplifying neighborhood-based creatives",
+    "accessibility of culturally rooted programs",
+    "celebration and elevation of local talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "immersive cultural experiences through art, music, and theatrical arts",
+    "reflect the rich diversity of Austin\u2019s communities",
+    "greater local visibility and platforms that amplify neighborhood-based creatives",
+    "accessible, culturally rooted programs",
+    "celebrate and elevate local talent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of local visibility and platforms for neighborhood-based creatives",
+    "underrepresentation of accessible, culturally rooted programs"
+  ],
+  "solutions_proposed": [
+    "offer more programs that create immersive cultural experiences",
+    "develop programs reflecting Austin\u2019s community diversity",
+    "create platforms to amplify neighborhood-based creatives",
+    "provide accessible, culturally rooted programs that celebrate and elevate local talent"
+  ],
+  "cached_at": "2025-06-21T02:01:06.143797",
+  "cache_key": "5ed6efdef047fd514c8845281def9cf04bfcce28291103265640999c4068ac62",
+  "model": "gpt-41"
+}

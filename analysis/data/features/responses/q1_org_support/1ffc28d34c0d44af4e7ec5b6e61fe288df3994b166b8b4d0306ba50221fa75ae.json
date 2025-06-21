@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for direct communication with arts organizations",
+    "importance of public forums and transparency in funding",
+    "loss of Austin's music capital reputation post-COVID and tech boom",
+    "community and city collaboration to restore cultural identity",
+    "role of large companies in supporting local culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More direct communication with arts organizations",
+    "public forums, and transparency when it comes to funding, planning, and goals",
+    "restore Austin's reputation as a music capital",
+    "that title has been lost since COVID and the big tech boom",
+    "Large companies should be incentivized to invest in the community and culture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in funding, planning, and goals",
+    "diminished reputation as a music capital since COVID and tech boom",
+    "insufficient investment from large companies in local culture"
+  ],
+  "solutions_proposed": [
+    "More direct communication with arts organizations",
+    "public forums",
+    "transparency in funding, planning, and goals",
+    "community and city collaboration",
+    "incentivize large companies to invest in the community and culture"
+  ],
+  "cached_at": "2025-06-20T10:29:24.766301",
+  "cache_key": "1ffc28d34c0d44af4e7ec5b6e61fe288df3994b166b8b4d0306ba50221fa75ae",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "overcrowding at popular events",
+    "discomfort with large crowds",
+    "accessibility of well-promoted events",
+    "suggestions for crowd management"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "well-promoted events are so busy and crowded",
+    "I don't want to go",
+    "larger venues",
+    "crowd control methods like timed entry"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overcrowding at events",
+    "lack of effective crowd control"
+  ],
+  "solutions_proposed": [
+    "use larger venues",
+    "implement crowd control methods like timed entry"
+  ],
+  "cached_at": "2025-06-21T01:32:34.505361",
+  "cache_key": "f5b999dfb22fe36c5c2c2f465fa29fb99b886807e10d42cc3a88c4f504b9c0a0",
+  "model": "gpt-41"
+}

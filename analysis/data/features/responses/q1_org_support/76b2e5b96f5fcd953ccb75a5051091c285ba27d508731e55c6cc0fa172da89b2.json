@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for organizations",
+    "support for marginalized and underrepresented groups",
+    "focus on Asian and Black communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Increase funding for organizations and cultural leaders",
+    "especially those who are marginalized and underrepresented",
+    "such as the Asian and Black communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "marginalization and underrepresentation of Asian and Black communities"
+  ],
+  "solutions_proposed": [
+    "Increase funding for organizations and cultural leaders, especially those who are marginalized and underrepresented such as the Asian and Black communities"
+  ],
+  "cached_at": "2025-06-20T10:39:34.459856",
+  "cache_key": "76b2e5b96f5fcd953ccb75a5051091c285ba27d508731e55c6cc0fa172da89b2",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more homegrown/local festivals",
+    "nostalgia for unique and quirky Austin events",
+    "concern about exclusivity and commercialization",
+    "barriers to access due to cost and amenities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More homegrown festivals",
+    "rare, quirky events that built on (and built up) the character of Austin",
+    "It shouldn't require valet parking and a VIP+ ticket to have have great experiences"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "FunFunFun Fest",
+    "Eeyore's Picnic",
+    "Honk!TX",
+    "SXSW unofficial parties"
+  ],
+  "barriers_identified": [
+    "require valet parking",
+    "require a VIP+ ticket",
+    "cost and exclusivity limiting access"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:49:13.258659",
+  "cache_key": "c2ec9da845a3bf2248575a19d24c33a065e6de54d515e1ebb57c5b1a14213005",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preference for local and homegrown cultural events",
+    "critique of corporate-dominated events",
+    "desire for funding prioritization for grassroots initiatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "local funding for lots of home grown things",
+    "not just big corporate sterilized Livenation type events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dominance of big corporate events",
+    "lack of funding for local/homegrown initiatives"
+  ],
+  "solutions_proposed": [
+    "increase local funding for homegrown events"
+  ],
+  "cached_at": "2025-06-21T00:26:43.243661",
+  "cache_key": "868381d1b32e42ed1007e103004215704e928e7175191afdf225f8b14adac285",
+  "model": "gpt-41"
+}

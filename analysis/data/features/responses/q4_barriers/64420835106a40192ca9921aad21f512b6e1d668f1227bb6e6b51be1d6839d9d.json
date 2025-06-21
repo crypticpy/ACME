@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic disparity in cultural offerings",
+    "lack of local arts and culture events",
+    "underserved South Austin community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "lack of arts and culture events in South Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of arts and culture events in South Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:02.715000",
+  "cache_key": "64420835106a40192ca9921aad21f512b6e1d668f1227bb6e6b51be1d6839d9d",
+  "model": "gpt-41"
+}

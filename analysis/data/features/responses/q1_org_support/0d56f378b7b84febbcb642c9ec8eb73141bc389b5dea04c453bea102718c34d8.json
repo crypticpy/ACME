@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "intentional coalition-building",
+    "resource sharing",
+    "sustainable financial development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "strategic coalition-forming",
+    "intentional about resource sharing",
+    "sustainable financial development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "strategic coalition-forming",
+    "intentional resource sharing",
+    "sustainable financial development"
+  ],
+  "cached_at": "2025-06-20T10:34:26.701532",
+  "cache_key": "0d56f378b7b84febbcb642c9ec8eb73141bc389b5dea04c453bea102718c34d8",
+  "model": "gpt-41"
+}

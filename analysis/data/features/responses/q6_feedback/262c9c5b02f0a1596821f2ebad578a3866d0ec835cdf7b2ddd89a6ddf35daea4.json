@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for cultural centers",
+    "enhancement of existing cultural institutions",
+    "culturally enabled leadership"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support and enhance the work of cultural centers",
+    "like the Carver Museum, The ESB MACC and the AARC",
+    "provide culturally enabled leadership"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Carver Museum",
+    "The ESB MACC",
+    "the AARC"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support and enhance the work of cultural centers",
+    "provide culturally enabled leadership"
+  ],
+  "cached_at": "2025-06-21T02:18:47.309290",
+  "cache_key": "262c9c5b02f0a1596821f2ebad578a3866d0ec835cdf7b2ddd89a6ddf35daea4",
+  "model": "gpt-41"
+}

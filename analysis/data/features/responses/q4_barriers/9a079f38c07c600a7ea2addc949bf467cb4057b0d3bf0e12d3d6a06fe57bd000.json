@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient funding for non-performance aspects",
+    "need for holistic support in the creative process",
+    "limitations of current funding scope"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "additional funding to cover more aspects of the creative process",
+    "not just the performance itself",
+    "other tangibles that help to bring the work to life"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding limited to performance aspects",
+    "lack of support for other tangible elements of creative work"
+  ],
+  "solutions_proposed": [
+    "provide additional funding to cover more aspects of the creative process beyond performance"
+  ],
+  "cached_at": "2025-06-21T01:21:47.384562",
+  "cache_key": "9a079f38c07c600a7ea2addc949bf467cb4057b0d3bf0e12d3d6a06fe57bd000",
+  "model": "gpt-41"
+}

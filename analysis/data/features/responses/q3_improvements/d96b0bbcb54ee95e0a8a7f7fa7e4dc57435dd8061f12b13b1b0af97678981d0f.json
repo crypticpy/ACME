@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived inequity in grant allocation",
+    "Use of professional grant writers",
+    "Corporate sponsorship and financial need",
+    "Low compensation for local artists",
+    "Event scheduling disadvantaging local artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Some applicants that received the ALMF have had professional grant writers",
+    "host regular, well attended events with deep corporate sponsorships",
+    "They host F1 music events, have their own music festival twice a year with international artists",
+    "book local artists, with very very little pay and place them far away from peak attendance time",
+    "They did not need the grant at all"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "ALMF"
+  ],
+  "barriers_identified": [
+    "Preference for applicants with professional grant writers",
+    "Low pay and poor scheduling for local artists",
+    "Grants awarded to organizations with significant corporate sponsorship"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:10:56.559434",
+  "cache_key": "d96b0bbcb54ee95e0a8a7f7fa7e4dc57435dd8061f12b13b1b0af97678981d0f",
+  "model": "gpt-41"
+}

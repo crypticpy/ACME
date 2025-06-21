@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "listening to artists and organizations",
+    "needs assessment",
+    "designing funding opportunities",
+    "support for art performance and sharing",
+    "understanding the local arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Listen and assess their needs",
+    "Design and provide funding opportunities to perform and share art",
+    "Better understand the ecosystem for artists in the area"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of needs assessment",
+    "insufficient understanding of the artist ecosystem"
+  ],
+  "solutions_proposed": [
+    "Listen and assess their needs",
+    "Design and provide funding opportunities to perform and share art",
+    "Better understand the ecosystem for artists in the area"
+  ],
+  "cached_at": "2025-06-20T01:16:48.896860",
+  "cache_key": "07480ce45970bb9a4776a3d26e9b6fdace1690807cbcda271fef89daef4dd6c3",
+  "model": "gpt-41"
+}

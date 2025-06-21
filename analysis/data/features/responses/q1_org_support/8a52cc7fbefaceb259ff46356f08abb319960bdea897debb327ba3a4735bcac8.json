@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Exclusivity of nonprofit organizations in leadership roles",
+    "Financial barriers to forming nonprofits",
+    "Lack of support for aspiring cultural leaders",
+    "Resource allocation and funding distribution"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Only the .orgs are allowed to be leaders.",
+    "I do not have money for a nonprofit nor all the people to put on my board.",
+    "Why can\u2019t the .orgs receive less to give aspiring leaders at least state filing fees for an organization?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Financial cost of establishing a nonprofit",
+    "Requirement to form a board",
+    "Exclusion of individuals who are not part of organizations from leadership opportunities"
+  ],
+  "solutions_proposed": [
+    ".orgs receive less to give aspiring leaders at least state filing fees for an organization"
+  ],
+  "cached_at": "2025-06-20T10:25:27.977940",
+  "cache_key": "8a52cc7fbefaceb259ff46356f08abb319960bdea897debb327ba3a4735bcac8",
+  "model": "gpt-41"
+}

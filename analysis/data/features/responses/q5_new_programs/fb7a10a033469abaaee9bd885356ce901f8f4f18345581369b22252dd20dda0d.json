@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable professional art education",
+    "master-to-student knowledge transmission",
+    "broad community access to arts learning",
+    "international models for local programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I took many, many FONCA art courses/workshops in Mexico City and in Merida for almost no cost (just for the materials)",
+    "fantastic teachers, professional artists, master printmakers",
+    "programs like the one mentioned... 'create school'",
+    "knowledge is transmitted from professionals (masters) to the next generations, and to a wide audience",
+    "the reach is immense"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "FONCA"
+  ],
+  "barriers_identified": [
+    "lack of affordable, high-quality art courses/workshops led by professionals"
+  ],
+  "solutions_proposed": [
+    "offer low-cost art courses/workshops with professional artists and master practitioners",
+    "implement programs that facilitate intergenerational knowledge transfer in the arts"
+  ],
+  "cached_at": "2025-06-21T01:58:25.611652",
+  "cache_key": "fb7a10a033469abaaee9bd885356ce901f8f4f18345581369b22252dd20dda0d",
+  "model": "gpt-41"
+}

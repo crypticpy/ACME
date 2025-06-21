@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding opportunities",
+    "application assistance",
+    "broader support distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more opportunities to receive funding",
+    "assistance applying",
+    "guarantee support to more places"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing funding",
+    "challenges with application process"
+  ],
+  "solutions_proposed": [
+    "increase opportunities to receive funding",
+    "provide assistance with applications"
+  ],
+  "cached_at": "2025-06-21T01:02:43.248829",
+  "cache_key": "eae5ad0b6382ef91f0a522b1d48e4868e8ec8c4d715f271d7a4b3262d7f9aaa8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "consecutive years of funding limits",
+    "federal grant status considerations",
+    "policy reconsideration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "please reconsider the limits for consecutive years of funding",
+    "with the federal grant status in mind"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limits for consecutive years of funding"
+  ],
+  "solutions_proposed": [
+    "reconsider the limits for consecutive years of funding with the federal grant status in mind"
+  ],
+  "cached_at": "2025-06-21T00:56:23.441714",
+  "cache_key": "9e048d74cc6a69df1a6b29cd07093a7cf4bd970dcc2e9e0ef526fc6b3c48e73e",
+  "model": "gpt-41"
+}

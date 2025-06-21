@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient outreach and publicity",
+    "lack of transparency among recipients",
+    "exclusion of long-term local artists",
+    "information hoarding within artist community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "improve the outreach section",
+    "I am only just now hearing about them",
+    "the prize was covetted and kept secret",
+    "never have grant programs like these come across my desk"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "poor outreach and communication",
+    "lack of awareness among eligible artists",
+    "intentional secrecy by previous recipients"
+  ],
+  "solutions_proposed": [
+    "improve the outreach section"
+  ],
+  "cached_at": "2025-06-21T00:56:17.758464",
+  "cache_key": "70b126d42d8e420f96c29a99890c231ff6453eddbcce0e5911c7d7094fcf0c3e",
+  "model": "gpt-41"
+}

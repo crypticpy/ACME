@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for free creative spaces",
+    "accessibility of art venues",
+    "affordability in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Free art spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free art spaces"
+  ],
+  "solutions_proposed": [
+    "offer free art spaces"
+  ],
+  "cached_at": "2025-06-21T01:51:07.579315",
+  "cache_key": "700f11a994916a9d117e05a01b6d569dc00671caafedbfac4fbe15688f487648",
+  "model": "gpt-41"
+}

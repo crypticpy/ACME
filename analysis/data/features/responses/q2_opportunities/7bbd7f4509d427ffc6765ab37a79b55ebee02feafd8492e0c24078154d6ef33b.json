@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased visual art opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More visual art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More visual art"
+  ],
+  "cached_at": "2025-06-21T00:51:22.986016",
+  "cache_key": "7bbd7f4509d427ffc6765ab37a79b55ebee02feafd8492e0c24078154d6ef33b",
+  "model": "gpt-41"
+}

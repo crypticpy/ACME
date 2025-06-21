@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for Central American cultural representation",
+    "interest in cultural diversity",
+    "community inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Central American events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase Central American events"
+  ],
+  "cached_at": "2025-06-21T00:37:21.358328",
+  "cache_key": "50559e48b6f622e89ecd719d96a148ce637661f1b5af06c4d9188e640844f3c3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for greater exposure",
+    "need for increased representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Exposure and representation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase exposure",
+    "Increase representation"
+  ],
+  "cached_at": "2025-06-20T10:42:08.961047",
+  "cache_key": "1da561c906e67022e963dafb84109de60075ecf7d45464f44c2bd1033f8523ea",
+  "model": "gpt-41"
+}

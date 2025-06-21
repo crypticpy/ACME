@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of paid opportunities for performance artists",
+    "economic hardship and cost of living pressures",
+    "inaccessibility of venues and performance spaces",
+    "inequity in support across different types of artists",
+    "basic needs insecurity among artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "distinctive lack of venues willing to work with performance artists",
+    "performers can be paid appropriately",
+    "wages stagnate, costs of living skyrocket",
+    "audience members become increasingly cautious to buy tickets",
+    "not accessible for artists without sponsors or a personal savings",
+    "struggle with basic needs like health insurance, food, rent",
+    "all energy is spent trying to survive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "lack of venues willing to provide budgets for performers",
+    "inadequate compensation for performance artists",
+    "rising cost of living",
+    "stagnant wages",
+    "decreased audience willingness to purchase tickets",
+    "requirement for personal savings or sponsorship to access opportunities",
+    "lack of access to basic needs (health insurance, food, rent)"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:33.827321",
+  "cache_key": "5c3cd37e2a5f5fdaaf11244999d6e421ca8d797582976bb3c8352a6ae5026638",
+  "model": "gpt-41"
+}

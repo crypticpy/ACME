@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for venue owners",
+    "advocacy for grants",
+    "tax incentives for cultural spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Assist Venue owners",
+    "advocating for grants",
+    "tax incentives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for venue owners in accessing grants and tax incentives"
+  ],
+  "solutions_proposed": [
+    "Assist venue owners in advocating for grants",
+    "Assist venue owners in advocating for tax incentives"
+  ],
+  "cached_at": "2025-06-20T01:21:32.104153",
+  "cache_key": "c8d180c5938b79f42b21f886ee50868094b6edb86a830a9a86d03f9c7d2663c6",
+  "model": "gpt-41"
+}

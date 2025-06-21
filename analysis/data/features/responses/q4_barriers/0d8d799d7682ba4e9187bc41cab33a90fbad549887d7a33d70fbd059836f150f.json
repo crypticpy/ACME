@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty accessing venues",
+    "infrastructure barriers for arts and culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Finding venues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty finding venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:35.201229",
+  "cache_key": "0d8d799d7682ba4e9187bc41cab33a90fbad549887d7a33d70fbd059836f150f",
+  "model": "gpt-41"
+}

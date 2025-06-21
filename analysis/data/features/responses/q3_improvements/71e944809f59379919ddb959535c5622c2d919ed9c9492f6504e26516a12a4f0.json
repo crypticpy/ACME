@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for author publicity",
+    "marketing support for participants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Author publicity",
+    "Marketing assistance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicity for authors",
+    "insufficient marketing assistance"
+  ],
+  "solutions_proposed": [
+    "provide author publicity",
+    "offer marketing assistance"
+  ],
+  "cached_at": "2025-06-21T01:02:39.389508",
+  "cache_key": "71e944809f59379919ddb959535c5622c2d919ed9c9492f6504e26516a12a4f0",
+  "model": "gpt-41"
+}

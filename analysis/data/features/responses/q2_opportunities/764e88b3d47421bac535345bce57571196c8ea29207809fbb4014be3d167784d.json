@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "fair compensation for artists",
+    "support structures for musicians",
+    "labor rights in the arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Artists being paid a decent wage for their craft",
+    "a musicians union that helps all musicians that are members"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists not being paid a decent wage",
+    "lack of union support for musicians"
+  ],
+  "solutions_proposed": [
+    "pay artists a decent wage",
+    "establish a musicians union that helps all members"
+  ],
+  "cached_at": "2025-06-21T00:48:07.362007",
+  "cache_key": "764e88b3d47421bac535345bce57571196c8ea29207809fbb4014be3d167784d",
+  "model": "gpt-41"
+}

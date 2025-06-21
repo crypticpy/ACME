@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of grant opportunities",
+    "clarity in grant processes",
+    "need for broader funding options"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "broader accessible clear grant opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible grant opportunities",
+    "unclear grant processes"
+  ],
+  "solutions_proposed": [
+    "broader accessible clear grant opportunities"
+  ],
+  "cached_at": "2025-06-21T00:31:55.268939",
+  "cache_key": "7dd1b819011fd4d079704022d6cf908f3f65169368563e04a1c611d25f027116",
+  "model": "gpt-41"
+}

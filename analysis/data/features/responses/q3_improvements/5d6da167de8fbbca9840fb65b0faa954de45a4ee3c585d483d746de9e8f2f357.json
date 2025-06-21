@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for constructive feedback",
+    "support for unsuccessful applicants",
+    "capacity building for future applications"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more proactive feedback for applicants",
+    "don't receive the funding",
+    "so they can improve in the future"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of feedback for unsuccessful applicants"
+  ],
+  "solutions_proposed": [
+    "provide more proactive feedback for applicants who don't receive funding"
+  ],
+  "cached_at": "2025-06-21T00:58:43.905174",
+  "cache_key": "5d6da167de8fbbca9840fb65b0faa954de45a4ee3c585d483d746de9e8f2f357",
+  "model": "gpt-41"
+}

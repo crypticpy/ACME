@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about loss of federal funding",
+    "sustainability of city grant funding",
+    "financial stability of cultural funding sources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Loss of federal funding is of course a concern",
+    "sustainability of grant funding from the city is a major concern"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of federal funding",
+    "uncertainty about sustainability of city grant funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:53.442613",
+  "cache_key": "21d772c2823e01aa3aacb4c222574405a415f470c527a45a9ecfd53d46a98387",
+  "model": "gpt-41"
+}

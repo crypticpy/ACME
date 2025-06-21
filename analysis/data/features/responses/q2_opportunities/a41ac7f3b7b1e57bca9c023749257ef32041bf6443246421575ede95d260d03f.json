@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for higher quality theatre",
+    "interest in expanding theatre offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More quality theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the availability of quality theatre"
+  ],
+  "cached_at": "2025-06-21T00:30:44.939160",
+  "cache_key": "a41ac7f3b7b1e57bca9c023749257ef32041bf6443246421575ede95d260d03f",
+  "model": "gpt-41"
+}

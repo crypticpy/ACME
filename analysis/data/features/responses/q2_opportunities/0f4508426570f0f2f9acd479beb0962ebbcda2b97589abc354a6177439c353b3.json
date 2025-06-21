@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "access to free music events",
+    "infrastructure support for musicians (parking)",
+    "pay equity for performers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More free music events",
+    "More designated parking for musicians to load into venues downtown",
+    "Pay equity for performers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of designated parking for musicians",
+    "pay inequity for performers"
+  ],
+  "solutions_proposed": [
+    "increase free music events",
+    "provide designated parking for musicians at downtown venues",
+    "ensure pay equity for performers"
+  ],
+  "cached_at": "2025-06-21T00:32:10.993326",
+  "cache_key": "0f4508426570f0f2f9acd479beb0962ebbcda2b97589abc354a6177439c353b3",
+  "model": "gpt-41"
+}

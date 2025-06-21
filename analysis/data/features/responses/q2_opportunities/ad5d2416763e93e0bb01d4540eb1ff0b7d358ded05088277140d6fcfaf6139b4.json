@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "infrastructure development",
+    "protection of local venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "greater foundation and infrastructure for emerging artists",
+    "protection of local venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for emerging artists",
+    "threats to local venues"
+  ],
+  "solutions_proposed": [
+    "greater foundation and infrastructure for emerging artists",
+    "protection of local venues"
+  ],
+  "cached_at": "2025-06-21T00:32:47.342334",
+  "cache_key": "ad5d2416763e93e0bb01d4540eb1ff0b7d358ded05088277140d6fcfaf6139b4",
+  "model": "gpt-41"
+}

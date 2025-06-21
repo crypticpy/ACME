@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking difficulties",
+    "venue accessibility",
+    "high costs",
+    "age-focused programming",
+    "commercialization of culture",
+    "prioritization of visitors over locals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Parking, venue access, costs.",
+    "music and entertainment is focused and catered to young people",
+    "money making",
+    "out of town visitors"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking",
+    "venue access",
+    "costs",
+    "focus on young people",
+    "focus on money making",
+    "focus on out of town visitors"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:41.143279",
+  "cache_key": "43a0f2cc7e42a6631b8bf101ca270f9e9d5940984bc73b6258d878e2c49cd11c",
+  "model": "gpt-41"
+}

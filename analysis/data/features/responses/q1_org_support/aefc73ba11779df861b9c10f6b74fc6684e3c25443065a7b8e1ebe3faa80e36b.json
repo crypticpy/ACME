@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "information dissemination",
+    "political influence",
+    "support for organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "spread information",
+    "spans to the political influence"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information reaching political influencers"
+  ],
+  "solutions_proposed": [
+    "spread information that spans to the political influence"
+  ],
+  "cached_at": "2025-06-20T10:36:46.485283",
+  "cache_key": "aefc73ba11779df861b9c10f6b74fc6684e3c25443065a7b8e1ebe3faa80e36b",
+  "model": "gpt-41"
+}

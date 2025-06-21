@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "focus on communities of color",
+    "equity in cultural funding",
+    "outreach and inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more focus on reaching POC folks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of focus on POC communities"
+  ],
+  "solutions_proposed": [
+    "increase focus on reaching POC folks"
+  ],
+  "cached_at": "2025-06-21T01:14:34.097782",
+  "cache_key": "c0548878554046276c9fb2557d9283eb2957590b76f7fdccb27dd1f53579daa6",
+  "model": "gpt-41"
+}

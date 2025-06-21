@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased performance opportunities",
+    "artistic freedom for musicians",
+    "support for top local talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more gigs/shows",
+    "top musicians in the area",
+    "play whatever they want"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for top musicians to perform freely"
+  ],
+  "solutions_proposed": [
+    "have more gigs/shows where the top musicians in the area get to play whatever they want"
+  ],
+  "cached_at": "2025-06-20T10:42:10.433300",
+  "cache_key": "96a23f597dde2d9c21eddb5e52434f4d670fb2994e555cd167ccdfbe4856d0a4",
+  "model": "gpt-41"
+}

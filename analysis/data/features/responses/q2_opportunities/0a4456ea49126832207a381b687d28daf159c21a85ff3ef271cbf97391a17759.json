@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in more art opportunities",
+    "interest in more music opportunities",
+    "interest in more dance opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Art, music and dance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:35:49.085036",
+  "cache_key": "0a4456ea49126832207a381b687d28daf159c21a85ff3ef271cbf97391a17759",
+  "model": "gpt-41"
+}

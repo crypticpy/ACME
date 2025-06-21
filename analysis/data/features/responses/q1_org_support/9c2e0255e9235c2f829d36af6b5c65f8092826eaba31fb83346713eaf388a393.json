@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration versus competition for funding",
+    "protection of live music industry",
+    "support for local venues",
+    "support for local musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "foster more collaboration and less competition for funding and resources",
+    "protection of the live music industry",
+    "local venues and musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition for funding and resources"
+  ],
+  "solutions_proposed": [
+    "foster more collaboration and less competition for funding and resources",
+    "protection of the live music industry"
+  ],
+  "cached_at": "2025-06-20T10:23:40.309211",
+  "cache_key": "9c2e0255e9235c2f829d36af6b5c65f8092826eaba31fb83346713eaf388a393",
+  "model": "gpt-41"
+}

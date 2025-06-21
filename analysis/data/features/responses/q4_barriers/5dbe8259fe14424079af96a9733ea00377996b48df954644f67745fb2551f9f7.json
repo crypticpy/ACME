@@ -1,0 +1,19 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "see response above"
+  ],
+  "intent": "refer_to_previous_response",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:42.104095",
+  "cache_key": "5dbe8259fe14424079af96a9733ea00377996b48df954644f67745fb2551f9f7",
+  "model": "gpt-41"
+}

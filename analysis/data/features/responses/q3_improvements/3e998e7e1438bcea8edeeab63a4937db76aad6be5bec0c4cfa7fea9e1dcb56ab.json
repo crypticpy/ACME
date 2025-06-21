@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "responsiveness of program staff",
+    "attention to historically disenfranchised communities",
+    "panelist selection and local knowledge",
+    "funding cuts to legacy organizations",
+    "balancing support for legacy and new/diverse organizations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the team is very aware and active and working hard to make the program responsive",
+    "communities who are historically disenfranchised",
+    "some legacy organizations have been upset about the people who serve on panels not being from Austin",
+    "about their funds getting cuts",
+    "balance that needs to be met between continuing to nurture important legacy orgs and also to support new and diverse arts organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "panelists not being from Austin and being unaware of the scene or contributions",
+    "funding cuts to legacy organizations"
+  ],
+  "solutions_proposed": [
+    "balance between nurturing legacy organizations and supporting new and diverse arts organizations"
+  ],
+  "cached_at": "2025-06-21T01:02:24.932820",
+  "cache_key": "3e998e7e1438bcea8edeeab63a4937db76aad6be5bec0c4cfa7fea9e1dcb56ab",
+  "model": "gpt-41"
+}

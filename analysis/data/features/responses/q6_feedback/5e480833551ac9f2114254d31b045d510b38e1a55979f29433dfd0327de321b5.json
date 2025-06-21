@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "current difficulties in the community",
+    "optimism about ACME's role",
+    "need for citywide improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Things are tough out here",
+    "ACME is a great first step",
+    "citywide improvement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "Things are tough out here"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:41.048932",
+  "cache_key": "5e480833551ac9f2114254d31b045d510b38e1a55979f29433dfd0327de321b5",
+  "model": "gpt-41"
+}

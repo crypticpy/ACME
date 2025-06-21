@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived neglect of authors by the city",
+    "disparity in support between musicians and authors",
+    "lack of institutional support for author groups",
+    "barriers for third-party NGOs in cultural programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "lack of support for the 5K authors in the city is pathetic",
+    "city of Austin is great about supporting musicians and live music",
+    "Even the library will not support author groups that are third-party NGOs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city support for authors",
+    "library does not support author groups that are third-party NGOs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:46.527351",
+  "cache_key": "9ad3ef5316aa7f0bc5d7306a95f83d3599d0a8533b85807a00479050e76ac875",
+  "model": "gpt-41"
+}

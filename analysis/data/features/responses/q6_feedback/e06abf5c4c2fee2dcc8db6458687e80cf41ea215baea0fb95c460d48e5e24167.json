@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "optimism about the future of Austin arts",
+    "anticipation for change or renewal",
+    "gratitude towards ACME"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Looking forward to a new Austin arts era",
+    "Thank you"
+  ],
+  "intent": "express_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:12.516610",
+  "cache_key": "e06abf5c4c2fee2dcc8db6458687e80cf41ea215baea0fb95c460d48e5e24167",
+  "model": "gpt-41"
+}

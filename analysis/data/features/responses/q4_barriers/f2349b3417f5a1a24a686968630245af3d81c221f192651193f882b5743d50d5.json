@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of participation",
+    "lack of accessible studio space",
+    "limited performance venues",
+    "challenges in marketing",
+    "need for recognition"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Prices, prices, prices...",
+    "Studio space",
+    "Performance Venues",
+    "Marketing",
+    "Recognition"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high prices",
+    "lack of affordable studio space",
+    "insufficient performance venues",
+    "difficulty with marketing",
+    "lack of recognition"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:41.211183",
+  "cache_key": "f2349b3417f5a1a24a686968630245af3d81c221f192651193f882b5743d50d5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for visual arts",
+    "underrepresentation of visual arts events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support for visual arts events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of visual arts events"
+  ],
+  "solutions_proposed": [
+    "support for visual arts events"
+  ],
+  "cached_at": "2025-06-21T02:02:46.513804",
+  "cache_key": "c013cf27e6c750ea2590d632a37efcc24213a988e13032611d341652aca2bcf0",
+  "model": "gpt-41"
+}

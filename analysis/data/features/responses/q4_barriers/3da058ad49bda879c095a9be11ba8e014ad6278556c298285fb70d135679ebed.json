@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational barriers",
+    "lack of coordination"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of organization"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of organization"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:49.272039",
+  "cache_key": "3da058ad49bda879c095a9be11ba8e014ad6278556c298285fb70d135679ebed",
+  "model": "gpt-41"
+}

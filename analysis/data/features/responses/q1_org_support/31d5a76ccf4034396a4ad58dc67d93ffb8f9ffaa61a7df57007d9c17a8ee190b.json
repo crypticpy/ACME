@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial insecurity of middle-class musicians",
+    "artist retention in Austin",
+    "need for targeted funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fund middle-class musicians",
+    "afford to stay in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for middle-class musicians",
+    "affordability challenges for musicians in Austin"
+  ],
+  "solutions_proposed": [
+    "Fund middle-class musicians"
+  ],
+  "cached_at": "2025-06-20T10:32:59.255991",
+  "cache_key": "31d5a76ccf4034396a4ad58dc67d93ffb8f9ffaa61a7df57007d9c17a8ee190b",
+  "model": "gpt-41"
+}

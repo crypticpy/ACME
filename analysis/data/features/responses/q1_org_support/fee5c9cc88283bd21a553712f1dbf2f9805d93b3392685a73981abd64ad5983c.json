@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "request for increased funding",
+    "resource allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More funding please"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "increase funding"
+  ],
+  "cached_at": "2025-06-20T10:24:02.357666",
+  "cache_key": "fee5c9cc88283bd21a553712f1dbf2f9805d93b3392685a73981abd64ad5983c",
+  "model": "gpt-41"
+}

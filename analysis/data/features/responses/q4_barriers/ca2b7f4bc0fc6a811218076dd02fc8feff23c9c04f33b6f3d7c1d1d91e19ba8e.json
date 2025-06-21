@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "lack of adequate spaces",
+    "lack of information on resources",
+    "challenges recovering programmatic funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding",
+    "adequate and abundant spaces",
+    "enough information of resources and opportunities to recover programmatic funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "insufficient spaces",
+    "insufficient information about resources and opportunities",
+    "difficulty recovering programmatic funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:06.898853",
+  "cache_key": "ca2b7f4bc0fc6a811218076dd02fc8feff23c9c04f33b6f3d7c1d1d91e19ba8e",
+  "model": "gpt-41"
+}

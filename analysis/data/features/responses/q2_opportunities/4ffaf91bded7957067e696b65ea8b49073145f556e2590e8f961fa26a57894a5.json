@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of cultural spaces",
+    "Impact of development on arts communities",
+    "Need for City support beyond funding",
+    "Threat to existing arts and culture",
+    "Disappearance of arts across disciplines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "our spaces are disappearing over night",
+    "The City has allowed developers to continually rip through communities",
+    "decimating the places where once there was a thriving arts/culture presence",
+    "I'd just be happy to see the few that are still here across ALL disciplines shored up not just financially but in deed and voice at the City",
+    "What good is more money and building if the things that are driving the growth in the City to disappear"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Loss of physical spaces for arts and culture",
+    "City policies enabling unchecked development",
+    "Insufficient non-financial support from the City"
+  ],
+  "solutions_proposed": [
+    "Shore up remaining arts and culture spaces across all disciplines not just financially but in deed and voice at the City"
+  ],
+  "cached_at": "2025-06-21T00:25:57.338881",
+  "cache_key": "4ffaf91bded7957067e696b65ea8b49073145f556e2590e8f961fa26a57894a5",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "creation of arts-specific career opportunities",
+    "free community arts events",
+    "dedicated creative spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "creative arts specific career positions",
+    "free events",
+    "curate a space to create"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of arts-specific career positions",
+    "insufficient free creative events",
+    "limited dedicated spaces for creation"
+  ],
+  "solutions_proposed": [
+    "create more creative arts specific career positions",
+    "offer free events to curate a space to create"
+  ],
+  "cached_at": "2025-06-20T10:42:34.342343",
+  "cache_key": "cf29988e228e9ae99c154323a8d831f7a796c644b9685c1ad600510a5d4ac745",
+  "model": "gpt-41"
+}

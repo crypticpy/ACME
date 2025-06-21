@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased monetary support",
+    "transparency in funding guidelines",
+    "clarity in access to services"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Monetary support",
+    "Transparent guidelines for access to money and services provided by ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparent guidelines for access to money and services"
+  ],
+  "solutions_proposed": [
+    "provide more monetary support",
+    "establish transparent guidelines for access to money and services"
+  ],
+  "cached_at": "2025-06-20T10:32:52.542949",
+  "cache_key": "68b2e941e0c3200af5610c409f70e6b0668a3421ed3367d87f59b3676d096410",
+  "model": "gpt-41"
+}

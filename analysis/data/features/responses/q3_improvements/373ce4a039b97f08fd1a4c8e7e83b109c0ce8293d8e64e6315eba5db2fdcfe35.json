@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about sustainability of funding",
+    "uncertainty in future funding and program eligibility",
+    "risk of losing staff positions and spaces",
+    "need for operational support for nonprofits with venues",
+    "balancing art quality with support for at-risk communities",
+    "importance of supporting educational and artist service organizations",
+    "measuring impact on tourism and communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "deeply concerned that we are hiring staff, building out spaces, and expanding programing that may ultimately have funding reduced or eliminated",
+    "so much uncertainty about how much funding will be available in the future",
+    "Will we have to eliminate the positions or abandon the spaces when we no longer have this generous city support?",
+    "How do we plan seasons of work when we don't know what program we will qualify for and if we will make the cut for the 30 orgs that will get Thrive?",
+    "Can we graduate from Thrive and still be funded at a reasonable level?",
+    "Can we add a supplement to support non-profits with venues cover their utility bills and maintenance?",
+    "How do we center the quality of the art in addition to the at-risk of erasure communities?",
+    "Educational and artist service organizations deserve financial support even though they do not target tourists."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "uncertainty about future funding levels",
+    "potential loss of staff positions and spaces due to funding cuts",
+    "lack of operational support for nonprofits with venues",
+    "difficulty planning due to unclear program eligibility",
+    "limited support for organizations not focused on tourism"
+  ],
+  "solutions_proposed": [
+    "add a supplement to support non-profits with venues cover their utility bills and maintenance",
+    "measure the impact to tourism and communities",
+    "continue financial support for educational and artist service organizations even if they do not target tourists"
+  ],
+  "cached_at": "2025-06-21T01:06:39.518728",
+  "cache_key": "373ce4a039b97f08fd1a4c8e7e83b109c0ce8293d8e64e6315eba5db2fdcfe35",
+  "model": "gpt-41"
+}

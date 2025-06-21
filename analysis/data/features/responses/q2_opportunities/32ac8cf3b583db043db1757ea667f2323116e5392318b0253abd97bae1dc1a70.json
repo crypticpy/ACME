@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for increased funding for live music",
+    "preference for jazz and blues genres",
+    "perceived overrepresentation of singer-songwriter/rock/pop genres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More funding for live music projects",
+    "jazz/blues and not singer songwriter/rock/pop"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for jazz/blues live music projects"
+  ],
+  "solutions_proposed": [
+    "increase funding for live music projects in jazz and blues genres"
+  ],
+  "cached_at": "2025-06-21T00:29:56.567010",
+  "cache_key": "32ac8cf3b583db043db1757ea667f2323116e5392318b0253abd97bae1dc1a70",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for seasoned local artists",
+    "performance opportunities",
+    "access to reputable platforms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities for seasoned local artists",
+    "perform in front of creditable entities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for seasoned local artists to perform before reputable organizations"
+  ],
+  "solutions_proposed": [
+    "create more opportunities for seasoned local artists to perform in front of credible entities"
+  ],
+  "cached_at": "2025-06-21T00:30:05.119898",
+  "cache_key": "662728ed5c9535c94617cd726251bd5f15709960f0169614b713586c1ff57475",
+  "model": "gpt-41"
+}

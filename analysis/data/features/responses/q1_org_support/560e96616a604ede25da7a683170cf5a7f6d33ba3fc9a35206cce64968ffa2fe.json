@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "valuing organizational capacity-building",
+    "reducing reliance on city funding",
+    "broadening public engagement with the arts",
+    "importance of youth participation in arts",
+    "long-term sustainability of arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "comprehensive attempt to listen to those organizations and leaders",
+    "emphasis on growing organizational capacity",
+    "grow beyond a reliance on funding from the City of Austin",
+    "expanding the circle of people who see the arts as important, relevant, and worthy of support",
+    "ensuring that kids have active and ongoing ways of participating in arts and cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "limited engagement of broader public with arts",
+    "lack of ongoing opportunities for children to participate in arts and cultural events"
+  ],
+  "solutions_proposed": [
+    "ensure that kids have active and ongoing ways of participating in arts and cultural events"
+  ],
+  "cached_at": "2025-06-20T10:29:08.990385",
+  "cache_key": "560e96616a604ede25da7a683170cf5a7f6d33ba3fc9a35206cce64968ffa2fe",
+  "model": "gpt-41"
+}

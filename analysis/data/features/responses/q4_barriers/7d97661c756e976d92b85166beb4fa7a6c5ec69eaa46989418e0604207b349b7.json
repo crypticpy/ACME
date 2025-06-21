@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of access to sound equipment",
+    "need for professional engineering support",
+    "difficulty accessing growth-oriented venues",
+    "challenges for smaller music artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "access to sound equipment and engineers",
+    "access to venues that will help us grow",
+    "smaller music artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to sound equipment",
+    "lack of access to sound engineers",
+    "limited access to supportive venues for smaller artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:43.977362",
+  "cache_key": "7d97661c756e976d92b85166beb4fa7a6c5ec69eaa46989418e0604207b349b7",
+  "model": "gpt-41"
+}

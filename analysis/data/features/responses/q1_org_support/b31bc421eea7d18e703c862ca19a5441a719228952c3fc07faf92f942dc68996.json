@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding mechanisms",
+    "sponsorship support",
+    "underwriting as financial support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding via sponsorship and underwriting"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide funding through sponsorship",
+    "Provide funding through underwriting"
+  ],
+  "cached_at": "2025-06-20T10:34:36.795232",
+  "cache_key": "b31bc421eea7d18e703c862ca19a5441a719228952c3fc07faf92f942dc68996",
+  "model": "gpt-41"
+}

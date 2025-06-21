@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "barriers for emerging artists",
+    "lack of accessible information",
+    "need for mentorship",
+    "financial pressures on artists",
+    "importance of outreach to diverse communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "it feels like there is a barrier to entry",
+    "you have to know where to look for these opportunities",
+    "some require a business or track record",
+    "how to build a proposal",
+    "trying to make ends meet financially",
+    "mentorships, informational events, and outreach...would be helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of opportunities",
+    "timing of application cycles",
+    "requirements for business or track record",
+    "lack of knowledge on proposal building",
+    "difficulty following through with ambitious projects",
+    "financial strain"
+  ],
+  "solutions_proposed": [
+    "mentorships",
+    "informational events",
+    "outreach to a wide variety of communities"
+  ],
+  "cached_at": "2025-06-21T01:00:32.922600",
+  "cache_key": "a2da06b8a36521384ed7a2e99c026587f118642719a05b683f30dcf8f9b2df6a",
+  "model": "gpt-41"
+}

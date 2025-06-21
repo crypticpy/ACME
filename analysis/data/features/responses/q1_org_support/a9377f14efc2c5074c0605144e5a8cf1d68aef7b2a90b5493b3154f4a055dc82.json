@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "meaningful collaboration",
+    "ecosystem-led decision making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "collaborate in a meaningful way",
+    "allowing the ecosystem to lead"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborate in a meaningful way",
+    "allow the ecosystem to lead"
+  ],
+  "cached_at": "2025-06-20T10:25:41.877552",
+  "cache_key": "a9377f14efc2c5074c0605144e5a8cf1d68aef7b2a90b5493b3154f4a055dc82",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "prioritizing legacy organizations in funding",
+    "recognition of established community service",
+    "evolution and creativity of legacy organizations",
+    "accountability and staying power"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "keep the needs of legacy organizations in mind for funding",
+    "established track records of service to and investment in the community",
+    "staying power and accountability",
+    "constantly evolving and thinking creatively to welcome new audiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "keep the needs of legacy organizations in mind for funding"
+  ],
+  "cached_at": "2025-06-20T10:29:14.267985",
+  "cache_key": "2762ad7892bbdf9fc3f3da53f780ffa7579927a2f1554b1783e6df56d8746f31",
+  "model": "gpt-41"
+}

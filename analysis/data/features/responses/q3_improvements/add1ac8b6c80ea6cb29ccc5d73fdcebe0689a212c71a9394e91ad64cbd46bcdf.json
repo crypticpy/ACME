@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "family engagement",
+    "access to quality music and art",
+    "opportunities for families"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more family opportunities",
+    "engage with good quality music and art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of family opportunities to engage with quality music and art"
+  ],
+  "solutions_proposed": [
+    "provide more family opportunities to engage with good quality music and art"
+  ],
+  "cached_at": "2025-06-21T01:18:22.366142",
+  "cache_key": "add1ac8b6c80ea6cb29ccc5d73fdcebe0689a212c71a9394e91ad64cbd46bcdf",
+  "model": "gpt-41"
+}

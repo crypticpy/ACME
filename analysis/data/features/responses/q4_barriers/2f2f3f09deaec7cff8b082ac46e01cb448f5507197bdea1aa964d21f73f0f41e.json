@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient rehearsal rental space",
+    "application process complexity",
+    "barriers for musicians and dancers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more rehearsal rental space for musicians and dancers",
+    "current application for the Creative Spaces is very lengthy",
+    "could be consolidated"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Creative Spaces"
+  ],
+  "barriers_identified": [
+    "lack of rehearsal rental space",
+    "lengthy application process for Creative Spaces"
+  ],
+  "solutions_proposed": [
+    "consolidate the application for Creative Spaces"
+  ],
+  "cached_at": "2025-06-21T01:20:54.605304",
+  "cache_key": "2f2f3f09deaec7cff8b082ac46e01cb448f5507197bdea1aa964d21f73f0f41e",
+  "model": "gpt-41"
+}

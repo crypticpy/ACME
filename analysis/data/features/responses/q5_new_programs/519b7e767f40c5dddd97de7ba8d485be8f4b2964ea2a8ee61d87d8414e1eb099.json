@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local film and TV production",
+    "funding opportunities for creators",
+    "employment of local Austin talent",
+    "competitions as a means of project selection"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "script writing contests for TV and Film",
+    "winner gets funding to make their project",
+    "in the local Austin area",
+    "hire local Austin talent, crew, producers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of script writing contests with production funding",
+    "limited opportunities to hire local talent through funded projects"
+  ],
+  "solutions_proposed": [
+    "create script writing contests for TV and Film",
+    "provide funding for winning projects to be produced locally",
+    "require hiring of local Austin talent, crew, and producers"
+  ],
+  "cached_at": "2025-06-21T01:56:44.776499",
+  "cache_key": "519b7e767f40c5dddd97de7ba8d485be8f4b2964ea2a8ee61d87d8414e1eb099",
+  "model": "gpt-41"
+}

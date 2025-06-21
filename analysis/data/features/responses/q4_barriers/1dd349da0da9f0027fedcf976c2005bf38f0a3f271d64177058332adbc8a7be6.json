@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "political shifts impacting funding",
+    "inaccessibility of program funds",
+    "stakeholder engagement efforts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Shifts in the political landscape lead to program funding cuts",
+    "intentional efforts to engage stakeholders who feel program funds are inaccessible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "program funding cuts due to political changes",
+    "perceived inaccessibility of program funds"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:52.712878",
+  "cache_key": "1dd349da0da9f0027fedcf976c2005bf38f0a3f271d64177058332adbc8a7be6",
+  "model": "gpt-41"
+}

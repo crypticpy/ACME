@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "fear of program elimination",
+    "impact on community cultural life",
+    "value of unique arts programming",
+    "concern about restructuring consequences"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I would hate for them to leave",
+    "do not eliminate these opportunities",
+    "their disappearance would have effects in the Austin community beyond what's imaginable",
+    "creating a cultural and art desert where once unique forms of arts thrived"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential elimination of cultural programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:01:32.102140",
+  "cache_key": "d9bbd31b55a58567a224e623199c7e64fed3c6cd0c0235a44f6375e3a9c2f047",
+  "model": "gpt-41"
+}

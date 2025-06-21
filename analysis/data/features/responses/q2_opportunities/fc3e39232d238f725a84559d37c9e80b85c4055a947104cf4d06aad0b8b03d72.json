@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more performing arts",
+    "interest in immersive experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "performing arts",
+    "imersive experience"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more performing arts",
+    "more immersive experience opportunities"
+  ],
+  "cached_at": "2025-06-21T00:50:09.808002",
+  "cache_key": "fc3e39232d238f725a84559d37c9e80b85c4055a947104cf4d06aad0b8b03d72",
+  "model": "gpt-41"
+}

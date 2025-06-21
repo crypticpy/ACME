@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for ACME's work",
+    "desire for expansion of services",
+    "support for investment in diverse arts and cultures"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Thank you for all of your hard and good work!",
+    "I hope your services continue to expand",
+    "offer more opportunities to invest in the diverse arts and cultures in Austin"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:21:12.878789",
+  "cache_key": "d2b47eea8bfe2b120211bf2b197f860f28724a2582b2536a435f78f86e4839e7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant application language barriers",
+    "misalignment of qualifications with community needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "grant application language",
+    "qualifications are misaligned",
+    "needs of the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "grant application language is a barrier",
+    "qualifications do not match community needs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:07.365353",
+  "cache_key": "2058f3a5258a3fed95485e0abef7fff2d8c0fe42e387cd69b6f838e294cabe69",
+  "model": "gpt-41"
+}

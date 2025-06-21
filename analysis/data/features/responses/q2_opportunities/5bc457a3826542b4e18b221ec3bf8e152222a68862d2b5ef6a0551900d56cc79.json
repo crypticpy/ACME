@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth music engagement",
+    "live performance opportunities",
+    "talent development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "program for middle school/high school musicians",
+    "play live gigs",
+    "grow the talent here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of live performance opportunities for youth musicians"
+  ],
+  "solutions_proposed": [
+    "create a program for middle school/high school musicians to play live gigs"
+  ],
+  "cached_at": "2025-06-21T00:31:53.809784",
+  "cache_key": "5bc457a3826542b4e18b221ec3bf8e152222a68862d2b5ef6a0551900d56cc79",
+  "model": "gpt-41"
+}

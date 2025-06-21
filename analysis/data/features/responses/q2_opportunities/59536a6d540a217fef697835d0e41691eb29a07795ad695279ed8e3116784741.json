@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in intellectual or educational events",
+    "desire for discussion-based programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Civilization discussion"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:51:34.619200",
+  "cache_key": "59536a6d540a217fef697835d0e41691eb29a07795ad695279ed8e3116784741",
+  "model": "gpt-41"
+}

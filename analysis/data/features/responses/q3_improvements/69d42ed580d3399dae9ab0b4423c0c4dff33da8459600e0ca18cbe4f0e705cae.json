@@ -1,0 +1,39 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient advertising of grant opportunities",
+    "lack of visibility in arts and cultural spaces",
+    "unclear pathways to information about grants",
+    "suggestions for targeted outreach in public venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "all of these programs should be advertised better",
+    "I've never seen anything about grants",
+    "unsure how anyone would find these grants unless they went out of their way to visit the cities website",
+    "should be advertised in spaces like the Alamo or Austin Film Society during the previews",
+    "cultural centers should have information on display within their lobbies"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Alamo",
+    "Austin Film Society"
+  ],
+  "barriers_identified": [
+    "lack of advertising in physical arts spaces",
+    "information only available on the city's website",
+    "low visibility of grant opportunities"
+  ],
+  "solutions_proposed": [
+    "advertise grant opportunities in galleries and arts spaces",
+    "display information at cultural centers' lobbies when deadlines approach",
+    "promote grants at venues like the Alamo or Austin Film Society during previews"
+  ],
+  "cached_at": "2025-06-21T00:57:54.379720",
+  "cache_key": "69d42ed580d3399dae9ab0b4423c0c4dff33da8459600e0ca18cbe4f0e705cae",
+  "model": "gpt-41"
+}

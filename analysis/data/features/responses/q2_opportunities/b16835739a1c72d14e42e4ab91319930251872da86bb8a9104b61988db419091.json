@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "decline of live music venues for smaller artists",
+    "shift from live music to DJ performances",
+    "loss of Austin's unique music identity",
+    "comparison to Nashville's vibrant music scene",
+    "nostalgia for Austin's past cultural vibrancy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "music venues for smaller artists",
+    "when I moved here, it seemed like there was live music coming from every venue on 6th street",
+    "now its all DJs",
+    "embarrassing to live in the 'live music capital' and not find a place to hear live music",
+    "when I visited Nashville recently, that was what Austin USED to be like",
+    "music from everywhere, in every venue and restaurant"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of live music venues for smaller artists",
+    "prevalence of DJ performances over live music"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:37:41.522738",
+  "cache_key": "b16835739a1c72d14e42e4ab91319930251872da86bb8a9104b61988db419091",
+  "model": "gpt-41"
+}

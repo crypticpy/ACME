@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of federal funding",
+    "gentrification and displacement",
+    "exploitation of artists by corporations",
+    "empty condos impacting neighborhoods",
+    "performative support for the arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "loss of federal funding",
+    "neighborhoods being co-opted by empty condos",
+    "performatively use the labor and status of artists",
+    "self aggrandize their corporate brand"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of federal funding",
+    "neighborhoods being co-opted by empty condos",
+    "corporate exploitation of artists' labor and status"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:17.913214",
+  "cache_key": "bf1f61420c75dfba8ce757bf4a6e4b5c4f97c2f98037be1b7ad548c9ebd538e6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers to cultural sites",
+    "accessibility of specific venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Transportation to sites such as Laguna Gloria"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Laguna Gloria"
+  ],
+  "barriers_identified": [
+    "transportation to sites such as Laguna Gloria"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:52.617363",
+  "cache_key": "aed580468723c4589ccc961f22f9451a1acdff63b68916095b68624dacc28efc",
+  "model": "gpt-41"
+}

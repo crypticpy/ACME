@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity in funding criteria",
+    "transparency in evaluation",
+    "improvement of application process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "very clear grading rubrics",
+    "funding opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear grading rubrics"
+  ],
+  "solutions_proposed": [
+    "implement very clear grading rubrics for funding opportunities"
+  ],
+  "cached_at": "2025-06-21T01:14:51.804356",
+  "cache_key": "780ae2508b51e7c95ae5b9b085003ceb657050f3094e967727a9eb93ccf3a73b",
+  "model": "gpt-41"
+}

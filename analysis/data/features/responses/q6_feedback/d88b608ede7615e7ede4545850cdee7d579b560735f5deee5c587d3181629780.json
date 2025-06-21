@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "reference to additional feedback",
+    "intention to provide detailed input via email"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "See my letter.",
+    "Will email as promised."
+  ],
+  "intent": "defer_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:51.279088",
+  "cache_key": "d88b608ede7615e7ede4545850cdee7d579b560735f5deee5c587d3181629780",
+  "model": "gpt-41"
+}

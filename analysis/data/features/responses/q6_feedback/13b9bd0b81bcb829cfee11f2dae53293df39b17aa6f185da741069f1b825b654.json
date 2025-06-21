@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived unfairness in funding allocation",
+    "Need for qualified and knowledgeable panelists",
+    "Insufficient financial support for venues",
+    "Recognition of artistic merit not reflected in funding",
+    "Hope for organizational reform"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "The current system is broken",
+    "Merit and history seem to be unimportant",
+    "we must have better trained and knowledgeable panelists",
+    "more financial support for the limited number of venues we still have in the city",
+    "The Austin Critics Awards recently nominated six plays for outstanding production. Three of the six were performed at our venue. And yet, we received only the minimum amount of funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Critics Awards"
+  ],
+  "barriers_identified": [
+    "Lack of merit-based funding",
+    "Insufficiently trained or knowledgeable panelists",
+    "Limited financial support for venues"
+  ],
+  "solutions_proposed": [
+    "Better trained and knowledgeable panelists",
+    "More financial support for venues"
+  ],
+  "cached_at": "2025-06-21T02:20:09.940403",
+  "cache_key": "13b9bd0b81bcb829cfee11f2dae53293df39b17aa6f185da741069f1b825b654",
+  "model": "gpt-41"
+}

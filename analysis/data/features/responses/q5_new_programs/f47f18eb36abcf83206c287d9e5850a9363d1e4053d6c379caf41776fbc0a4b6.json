@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of cultural venues",
+    "impact of rising costs on arts infrastructure",
+    "desire for restoration of displaced spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "bring back our venues",
+    "priced out of Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues priced out of Austin"
+  ],
+  "solutions_proposed": [
+    "bring back our venues that were priced out of Austin"
+  ],
+  "cached_at": "2025-06-21T02:00:14.553954",
+  "cache_key": "f47f18eb36abcf83206c287d9e5850a9363d1e4053d6c379caf41776fbc0a4b6",
+  "model": "gpt-41"
+}

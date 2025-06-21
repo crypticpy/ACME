@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for balanced support across artistic styles and generations",
+    "Long-time local artists being overlooked",
+    "Preservation of Austin's cultural depth",
+    "Importance of clear outreach and communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "balance support across different styles and generations",
+    "long-time, local artists create thoughtful, skill-based work that often gets overlooked",
+    "preserve Austin\u2019s cultural depth\u2014not just its future",
+    "clearer outreach and communication would also help more artists access opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Long-time, local artists being overlooked",
+    "Lack of clear outreach and communication"
+  ],
+  "solutions_proposed": [
+    "Balance support across different styles and generations",
+    "Clearer outreach and communication"
+  ],
+  "cached_at": "2025-06-21T02:17:10.392369",
+  "cache_key": "0f1902a16dce73e8f97d00f9be335a7681fdc8791d6ed32d0e7c8df7d340adb1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of organizations and leaders",
+    "visibility of cultural actors"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Let them know of their existence"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of organizations and cultural leaders"
+  ],
+  "solutions_proposed": [
+    "Let them know of their existence"
+  ],
+  "cached_at": "2025-06-20T10:41:09.769239",
+  "cache_key": "66c4983283b3a8c445a1b0ad78c2616353c892f5a0e02db0273f05dbc4fc2a25",
+  "model": "gpt-41"
+}

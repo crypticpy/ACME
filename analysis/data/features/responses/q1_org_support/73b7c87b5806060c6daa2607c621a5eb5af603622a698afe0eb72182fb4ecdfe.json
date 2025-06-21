@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "adequate compensation for organizational members",
+    "sustaining cultural work through resources",
+    "recognition of time and effort"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "adequately compensated for their time and effort",
+    "help them feel supported",
+    "give them the resources to continue their work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adequate compensation"
+  ],
+  "solutions_proposed": [
+    "ensure members of organizations are adequately compensated"
+  ],
+  "cached_at": "2025-06-20T10:40:11.350666",
+  "cache_key": "73b7c87b5806060c6daa2607c621a5eb5af603622a698afe0eb72182fb4ecdfe",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist autonomy in funding",
+    "reciprocal community benefit",
+    "integration of art education",
+    "international program modeling",
+    "collaboration between state, civil society, and artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "funding program for artists to do their work in a total free way",
+    "pay back by providing free classes/workshops to Austin residents",
+    "win-win situation for artists and the public",
+    "model of Mexico for 'Fondo Nacional para la Cultura y las Artes' (FONCA)",
+    "proven fantastic way to both support artists and promote art education",
+    "combine the efforts and resources of the State, civil society, and the artistic community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Fondo Nacional para la Cultura y las Artes",
+    "FONCA"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create a funding program that allows artists to work freely and 'pay back' by offering free classes or workshops to residents",
+    "Adopt a model similar to Mexico's FONCA, combining efforts of the state, civil society, and artists to incentivize high-quality artistic and cultural production"
+  ],
+  "cached_at": "2025-06-21T01:05:04.249594",
+  "cache_key": "8ca2cbda8af690b02c799d60178a9d2e9c137d42e2d5519f74c8a56ad67a134c",
+  "model": "gpt-41"
+}

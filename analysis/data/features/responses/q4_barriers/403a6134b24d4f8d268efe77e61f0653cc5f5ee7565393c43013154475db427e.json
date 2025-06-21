@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of communication about opportunities",
+    "insufficient resources for visual artists",
+    "inequity between support for visual artists and musicians"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "knowing when opportunities are open",
+    "lack of resources specific to visual artists",
+    "in comparison to those available to musicians"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of timely information about opportunities",
+    "fewer resources for visual artists compared to musicians"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:38.282179",
+  "cache_key": "403a6134b24d4f8d268efe77e61f0653cc5f5ee7565393c43013154475db427e",
+  "model": "gpt-41"
+}

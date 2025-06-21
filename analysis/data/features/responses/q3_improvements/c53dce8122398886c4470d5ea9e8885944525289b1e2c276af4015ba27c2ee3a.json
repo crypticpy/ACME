@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in grant allocation",
+    "accountability in fund usage",
+    "equitable distribution of funds",
+    "city collaboration in funded projects",
+    "advisory input from creative workers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "who get the grants vs the people who don\u2019t, and why that is",
+    "more scrutiny / guidelines on how the money is spent on the backend",
+    "clearer communication as to who is getting what money and why",
+    "less money per person, given to more people",
+    "city becomes involved as a collaborator",
+    "large, rotating pool of advisors who are full time creative workers",
+    "serve the city with insights 'from the ground floor'"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in grant decisions",
+    "insufficient oversight of fund usage",
+    "inequitable distribution of funds"
+  ],
+  "solutions_proposed": [
+    "implement clearer communication on grant allocation",
+    "increase scrutiny and guidelines on fund usage",
+    "reduce grant amounts per recipient to reach more people",
+    "require city collaboration for large grants",
+    "create a rotating pool of creative worker advisors who are ineligible for grants while serving"
+  ],
+  "cached_at": "2025-06-21T01:15:52.758369",
+  "cache_key": "c53dce8122398886c4470d5ea9e8885944525289b1e2c276af4015ba27c2ee3a",
+  "model": "gpt-41"
+}

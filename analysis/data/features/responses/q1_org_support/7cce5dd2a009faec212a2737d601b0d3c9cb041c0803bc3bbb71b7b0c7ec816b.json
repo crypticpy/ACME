@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "partnership between city and arts nonprofits",
+    "role of nonprofits as community service providers",
+    "mission-driven delivery of cultural services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Arts nonprofits are the mission driven community service providers",
+    "the City should partner with",
+    "deliver cultural services to the public"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "City should partner with arts nonprofits to deliver cultural services"
+  ],
+  "cached_at": "2025-06-20T10:28:29.090548",
+  "cache_key": "7cce5dd2a009faec212a2737d601b0d3c9cb041c0803bc3bbb71b7b0c7ec816b",
+  "model": "gpt-41"
+}

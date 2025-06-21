@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more theater opportunities",
+    "interest in live music events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Theater and live music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more theater",
+    "more live music"
+  ],
+  "cached_at": "2025-06-21T00:34:23.232812",
+  "cache_key": "cde9938ea846270db16797f094b65c1407c7aad31e94b9943f9a24c98f63a562",
+  "model": "gpt-41"
+}

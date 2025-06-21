@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible venues",
+    "public relations challenges",
+    "difficulty attracting consistent audiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Venues and PR",
+    "consistent audiences"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient or inaccessible venues",
+    "lack of effective public relations",
+    "inconsistent audience attendance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:40.808521",
+  "cache_key": "aadfd501233ff4f6f882033576821cd5c5c9043d0dea7f92ae42b61af2b30402",
+  "model": "gpt-41"
+}

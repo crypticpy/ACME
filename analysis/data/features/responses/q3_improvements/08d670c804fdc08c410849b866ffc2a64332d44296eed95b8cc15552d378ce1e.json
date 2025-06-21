@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for long-term/perpetual funding",
+    "annual evaluation for continued support",
+    "transition planning for organizations/artists leaving funding",
+    "capacity-building and sustainability education",
+    "city involvement in long-term planning"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "long-term, as in, in perpetuity (or at least for 2+ years)",
+    "passes a yearly evaluation of some sort",
+    "connect them with education to make their organizations/art practice more long-standing",
+    "development director of each org given long-term funding should be required to meet with a city personnel",
+    "create a long-term plan so that they're not left underfunded once their city funding runs out",
+    "help artists and art organizations become feasible long-term"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "organizations/artists left underfunded after city funding ends",
+    "lack of long-term sustainability planning"
+  ],
+  "solutions_proposed": [
+    "make funding long-term or in perpetuity, with annual evaluations",
+    "require development directors to meet with city personnel in their last year of funding to create long-term plans",
+    "provide education to help organizations and artists become sustainable after city funding ends"
+  ],
+  "cached_at": "2025-06-21T01:09:33.100110",
+  "cache_key": "08d670c804fdc08c410849b866ffc2a64332d44296eed95b8cc15552d378ce1e",
+  "model": "gpt-41"
+}

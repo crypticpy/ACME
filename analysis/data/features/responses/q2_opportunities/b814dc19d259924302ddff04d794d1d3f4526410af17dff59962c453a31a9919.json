@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of R&B and soul opportunities",
+    "demand for specific genres",
+    "difficulty accessing funding for productions",
+    "need for venues for R&B and soul"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Opportunities for R&B, soul artists and venues",
+    "This is in demand but rarely found",
+    "I have applied several times to get funding for video & album productions, venue establishment"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rarely found opportunities for R&B and soul artists",
+    "difficulty obtaining funding for video & album productions",
+    "difficulty establishing venues"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for R&B and soul artists and venues",
+    "improve funding access for video & album productions and venue establishment"
+  ],
+  "cached_at": "2025-06-21T00:53:10.127648",
+  "cache_key": "b814dc19d259924302ddff04d794d1d3f4526410af17dff59962c453a31a9919",
+  "model": "gpt-41"
+}

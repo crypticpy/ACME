@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased community awareness",
+    "importance of education about funding opportunities",
+    "communication gaps in cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "increased community awareness",
+    "education around what these cultural funding opportunities provide"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community awareness",
+    "insufficient education about funding opportunities"
+  ],
+  "solutions_proposed": [
+    "increase community awareness",
+    "provide education about what cultural funding opportunities provide"
+  ],
+  "cached_at": "2025-06-21T01:19:09.109842",
+  "cache_key": "6b186d40a4cd873f7ab57820597566403faab04a467152698ce8e0f3c74914e5",
+  "model": "gpt-41"
+}

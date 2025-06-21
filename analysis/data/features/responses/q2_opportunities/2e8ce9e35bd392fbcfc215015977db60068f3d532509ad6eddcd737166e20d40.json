@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for specific art forms",
+    "support for comedy",
+    "support for experimental theater"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more funding for comedy",
+    "more funding for experimental theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more funding for comedy",
+    "more funding for experimental theater"
+  ],
+  "cached_at": "2025-06-21T00:39:59.396392",
+  "cache_key": "2e8ce9e35bd392fbcfc215015977db60068f3d532509ad6eddcd737166e20d40",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of investment in comedy",
+    "lack of recognition of comedy as art",
+    "marginalization of specific art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "lack of investment in/ acknowledgement of comedy as a legitimate art form"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of investment in comedy",
+    "lack of acknowledgement of comedy as a legitimate art form"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:16.485319",
+  "cache_key": "14acedfc3c4a53388644cbdedd4937cc0e3752f5b2555ff3de2d70fd4f14faeb",
+  "model": "gpt-41"
+}

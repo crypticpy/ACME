@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community building",
+    "family-like atmosphere",
+    "artist compensation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "come together as a family",
+    "not just a show",
+    "they need to be compensated well"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adequate compensation",
+    "lack of sense of community"
+  ],
+  "solutions_proposed": [
+    "foster a family-like community",
+    "ensure fair compensation"
+  ],
+  "cached_at": "2025-06-21T01:05:41.794694",
+  "cache_key": "83c5149786634559d69d7daaeb49d09ebeeaa71d0488b0fe22307664fbb87b94",
+  "model": "gpt-41"
+}

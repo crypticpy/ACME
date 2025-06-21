@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for immersive new media experiences",
+    "interest in innovative art spaces",
+    "comparison to offerings in other cities",
+    "highlighting specific successful programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More immersive new media spaces and events",
+    "such as Mesmerize, dadaLab, Wonderspaces, the Creek Show, WaterWork",
+    "Houston now has Artechouse and ArtClubHTX"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Mesmerize",
+    "dadaLab",
+    "Wonderspaces",
+    "the Creek Show",
+    "WaterWork",
+    "Artechouse",
+    "ArtClubHTX"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase immersive new media spaces and events in Austin"
+  ],
+  "cached_at": "2025-06-21T00:35:43.399428",
+  "cache_key": "8ebab57fcea79e6455e7f3bc95f0799142952c3a14803969e744ca874884bc51",
+  "model": "gpt-41"
+}

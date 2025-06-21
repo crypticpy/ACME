@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "burdensome application process",
+    "insufficient funding amounts",
+    "need for proactive outreach",
+    "artist motivation and inspiration",
+    "impact-based recognition"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "It's like applying for a job, but end of the day it's for like $5K.",
+    "This is not a good way.",
+    "I think you should have scouts.",
+    "Bring the artists the opportunities.",
+    "This will inspire artists to get out there and create more.",
+    "With good scouts and time, you will be able to find who is making an impact."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex and demanding application process",
+    "low financial reward relative to effort"
+  ],
+  "solutions_proposed": [
+    "use scouts to proactively identify and connect with artists",
+    "bring opportunities directly to artists"
+  ],
+  "cached_at": "2025-06-21T01:22:58.250268",
+  "cache_key": "fc2df8b114767870629cb61c30349cf32486a8ed4bec4fa9b6b407ea7bd871eb",
+  "model": "gpt-41"
+}

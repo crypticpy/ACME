@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "core funding for arts groups",
+    "local artist and organization prioritization",
+    "alignment with city\u2019s art destination goals",
+    "exclusion of non-local artists from support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support arts groups with core funding",
+    "allow them to develop programs that compliment the city\u2019s goal",
+    "Support Austin artists and organizations only",
+    "not artists who live and work outside of Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding provided to non-local artists and organizations"
+  ],
+  "solutions_proposed": [
+    "Provide core funding to arts groups",
+    "Allow local groups to develop programs aligned with city goals",
+    "Restrict support to Austin-based artists and organizations"
+  ],
+  "cached_at": "2025-06-21T02:06:22.451324",
+  "cache_key": "e1ff80a34f04a99f63a3ad4f47abc1ddab9ac3010ad206a1325df055197a8468",
+  "model": "gpt-41"
+}

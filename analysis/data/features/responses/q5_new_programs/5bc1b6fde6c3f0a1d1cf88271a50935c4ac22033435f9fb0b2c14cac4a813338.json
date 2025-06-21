@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased grant funding",
+    "support for consistently active artists",
+    "resource accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more opportunities for grant funds",
+    "artists who consistently make work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient grant opportunities for consistently active artists"
+  ],
+  "solutions_proposed": [
+    "provide more grant funding opportunities for artists who consistently make work"
+  ],
+  "cached_at": "2025-06-21T02:05:41.198500",
+  "cache_key": "5bc1b6fde6c3f0a1d1cf88271a50935c4ac22033435f9fb0b2c14cac4a813338",
+  "model": "gpt-41"
+}

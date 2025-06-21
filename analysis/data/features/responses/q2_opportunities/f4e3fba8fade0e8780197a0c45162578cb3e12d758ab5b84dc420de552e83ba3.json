@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Spanish-language theater",
+    "Multilingual cultural offerings",
+    "Representation of Spanish-speaking communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Theater in Spanish"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of theater in Spanish"
+  ],
+  "solutions_proposed": [
+    "Increase theater in Spanish"
+  ],
+  "cached_at": "2025-06-21T00:39:40.485070",
+  "cache_key": "f4e3fba8fade0e8780197a0c45162578cb3e12d758ab5b84dc420de552e83ba3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for Zilker theater productions",
+    "interest in local outdoor theater"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I love the zilker theater productions!"
+  ],
+  "intent": "expression_of_preference",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "zilker theater productions"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:33:46.885990",
+  "cache_key": "dc315b16cb0b868ba0d2d103a2c3662a7da0c9358d416cd9a519fb64550f3ea3",
+  "model": "gpt-41"
+}

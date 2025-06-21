@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion of non-underrepresented groups",
+    "application barriers related to identity requirements",
+    "concerns about equity versus inclusivity",
+    "criteria focused on benefiting specific neighborhoods or ethnicities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Those who are not historically underrepresented are often excluded",
+    "requirement to speak to your own underrepresented experience",
+    "how I'm going to specifically benefit certain neighborhoods or ethnicities",
+    "I've looked at applying for things before and dismissed it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of applicants not from underrepresented groups",
+    "requirement to demonstrate underrepresented experience",
+    "requirement to show benefit to certain neighborhoods or ethnicities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:19:55.322430",
+  "cache_key": "bc7c9d57afbb868c9683fdd5a8d09a00e9c36f2d00b54c13156d9c2fe3dba85a",
+  "model": "gpt-41"
+}

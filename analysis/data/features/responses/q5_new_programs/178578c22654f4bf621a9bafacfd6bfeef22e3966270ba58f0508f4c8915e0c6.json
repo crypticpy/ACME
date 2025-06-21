@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of jazz/blues",
+    "support for historically American/Texan music",
+    "need for dedicated live music funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Live music fund for jazz/blues",
+    "Historically American/Texan music",
+    "under-represented"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "under-representation of jazz/blues and historically American/Texan music"
+  ],
+  "solutions_proposed": [
+    "Create a live music fund specifically for jazz/blues"
+  ],
+  "cached_at": "2025-06-21T01:54:36.087496",
+  "cache_key": "178578c22654f4bf621a9bafacfd6bfeef22e3966270ba58f0508f4c8915e0c6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preservation of Austin's unique identity",
+    "support for local and independent artistic community",
+    "concern about cultural change or loss of uniqueness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "help protect what has made Austin unique",
+    "a thriving, local, independent, artistic community",
+    "Keep Austin Weird",
+    "is it really all that weird anymore?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of uniqueness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:06.449196",
+  "cache_key": "cf7f460efe395f3ae9a73f83ccc432a6414c7d5cf26ebfee6770f67f0fbdf206",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability challenges",
+    "lack of artist and operational representation",
+    "weak organizational-community communication"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Affordability",
+    "lack of representation of artists and in operations",
+    "lack of connection between organizations and communities to inform of shows"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Affordability",
+    "lack of representation of artists",
+    "lack of representation in operations",
+    "lack of connection between organizations and communities",
+    "insufficient communication about shows"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:34.844856",
+  "cache_key": "211a89bfd709fa0056d4f751e54a96d22d263dca1c6db3ef6dbe65b587e5c2bb",
+  "model": "gpt-41"
+}

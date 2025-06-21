@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of African American artists",
+    "underrepresentation of Latino/Hispanic artists",
+    "underrepresentation of LGBTQ artists",
+    "underrepresentation of people with mental illnesses and in recovery",
+    "need for increased visibility for marginalized groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "African American artists highlighted more",
+    "along with Latino/ Hispanic, LGBTQ, people with mental illnesses and in recovery"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation for African American, Latino/Hispanic, LGBTQ, and people with mental illnesses and in recovery"
+  ],
+  "solutions_proposed": [
+    "highlight African American artists more",
+    "highlight Latino/Hispanic artists more",
+    "highlight LGBTQ artists more",
+    "highlight people with mental illnesses and in recovery more"
+  ],
+  "cached_at": "2025-06-21T01:58:05.613653",
+  "cache_key": "6be2c40da3f2c2cbc11aa4a63261b8f5f632f2dd761dd089fa754728efde0ebc",
+  "model": "gpt-41"
+}

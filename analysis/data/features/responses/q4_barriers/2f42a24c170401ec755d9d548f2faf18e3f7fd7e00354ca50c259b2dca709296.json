@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of clarity in funding access",
+    "inaccessible application process",
+    "barriers due to low literacy",
+    "confusing forms"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "unclear way to access funding",
+    "application process is not accessible",
+    "due to low literacy",
+    "forms are confusing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear way to access funding",
+    "application process not accessible for people with low literacy",
+    "confusing forms"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:48.326368",
+  "cache_key": "2f42a24c170401ec755d9d548f2faf18e3f7fd7e00354ca50c259b2dca709296",
+  "model": "gpt-41"
+}

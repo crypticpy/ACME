@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "neighborhood-based cultural events",
+    "literary arts access",
+    "community inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Book festivals in all neighborhoods"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of book festivals in all neighborhoods"
+  ],
+  "solutions_proposed": [
+    "Organize book festivals in all neighborhoods"
+  ],
+  "cached_at": "2025-06-21T00:40:35.813594",
+  "cache_key": "f825f5dfa3eee287c891ea275a7e6ee030b0f9617c1c46647b4ca30b2e2fe478",
+  "model": "gpt-41"
+}

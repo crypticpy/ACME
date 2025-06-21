@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial insecurity among local artists and musicians",
+    "need for basic needs support (food, utilities)",
+    "suggestion of non-cash assistance (gift cards, bill supplements)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "supplement local artists and musicians",
+    "donated gift cards from H\u2011E\u2011B for groceries",
+    "help us feed our families",
+    "supplement our city of Austin bill for electricity and trash",
+    "help lower bills"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty affording groceries",
+    "difficulty paying utility and trash bills"
+  ],
+  "solutions_proposed": [
+    "provide donated gift cards for groceries and restaurants",
+    "supplement city utility bills for electricity and trash"
+  ],
+  "cached_at": "2025-06-21T02:03:16.527464",
+  "cache_key": "33a9930c1ec7f19299737e071eeb91af549d66dd88675fd199d7566ccfe7a84b",
+  "model": "gpt-41"
+}

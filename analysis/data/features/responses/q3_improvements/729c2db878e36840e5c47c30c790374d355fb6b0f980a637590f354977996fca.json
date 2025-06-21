@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "protection of local venues",
+    "historic site preservation",
+    "maintenance of unique artistic spaces",
+    "support for local music and arts communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Greater protection of local venues and historic sites",
+    "Maintenance and preservation of Austin's unique, local, artistic and music places and people"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Greater protection of local venues and historic sites",
+    "Maintenance and preservation of Austin's unique, local, artistic and music places and people"
+  ],
+  "cached_at": "2025-06-21T01:02:51.278865",
+  "cache_key": "729c2db878e36840e5c47c30c790374d355fb6b0f980a637590f354977996fca",
+  "model": "gpt-41"
+}

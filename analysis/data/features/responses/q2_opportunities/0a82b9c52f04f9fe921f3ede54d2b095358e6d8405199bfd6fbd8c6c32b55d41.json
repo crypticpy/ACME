@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased jazz programming",
+    "artist recognition by Council district"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Jazz events",
+    "Highlight artist in each Council district"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase jazz events",
+    "Highlight artist in each Council district"
+  ],
+  "cached_at": "2025-06-21T00:43:26.758136",
+  "cache_key": "0a82b9c52f04f9fe921f3ede54d2b095358e6d8405199bfd6fbd8c6c32b55d41",
+  "model": "gpt-41"
+}

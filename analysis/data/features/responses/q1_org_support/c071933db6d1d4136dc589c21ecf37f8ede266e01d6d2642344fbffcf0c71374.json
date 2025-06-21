@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of communication from ACME",
+    "awareness of opportunities",
+    "information accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Haciendo comunicados donde nos enteremos de lo que esta pasando",
+    "Yo no sabia de ustedes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about ACME",
+    "insufficient communication"
+  ],
+  "solutions_proposed": [
+    "Haciendo comunicados donde nos enteremos de lo que esta pasando"
+  ],
+  "cached_at": "2025-06-20T10:34:59.004994",
+  "cache_key": "c071933db6d1d4136dc589c21ecf37f8ede266e01d6d2642344fbffcf0c71374",
+  "model": "gpt-41"
+}

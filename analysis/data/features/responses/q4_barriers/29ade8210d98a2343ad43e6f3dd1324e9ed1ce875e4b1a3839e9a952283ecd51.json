@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "lack of affordable performance spaces",
+    "need for well-equipped venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding",
+    "reasonable priced well equipped Performance Space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of reasonably priced, well-equipped performance spaces"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "provide more affordable, well-equipped performance spaces"
+  ],
+  "cached_at": "2025-06-21T01:30:53.882929",
+  "cache_key": "29ade8210d98a2343ad43e6f3dd1324e9ed1ce875e4b1a3839e9a952283ecd51",
+  "model": "gpt-41"
+}

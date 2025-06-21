@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preservation of existing cultural events",
+    "concern about loss of current opportunities",
+    "skepticism about need for new events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Don't need new events",
+    "just need to save the ones we have"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "threat to existing events"
+  ],
+  "solutions_proposed": [
+    "prioritize saving existing events over creating new ones"
+  ],
+  "cached_at": "2025-06-21T00:32:45.874164",
+  "cache_key": "6ad10646b5adee4a3c8987980eede4048eaed0e368b1a9760a5fcc3370354317",
+  "model": "gpt-41"
+}

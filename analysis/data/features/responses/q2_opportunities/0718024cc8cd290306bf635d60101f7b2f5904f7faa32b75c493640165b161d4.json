@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more Celtic music",
+    "interest in Bluegrass music",
+    "preference for Classical music in intimate venues"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More Celtic music",
+    "More Bluegrass",
+    "More Classical music in small settings like Chamber Music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for Celtic music",
+    "Increase opportunities for Bluegrass music",
+    "Offer more Classical music performances in small settings such as Chamber Music"
+  ],
+  "cached_at": "2025-06-21T00:32:17.129949",
+  "cache_key": "0718024cc8cd290306bf635d60101f7b2f5904f7faa32b75c493640165b161d4",
+  "model": "gpt-41"
+}

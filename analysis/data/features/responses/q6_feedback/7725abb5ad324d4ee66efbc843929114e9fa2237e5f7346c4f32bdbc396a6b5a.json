@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Non-resident professional engagement in Austin arts",
+    "Continued investment in local arts and culture by non-residents",
+    "Recognition of a broader community beyond city residents"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Not a current Austin resident",
+    "still professionally active in the area",
+    "invested in the arts and culture",
+    "I know I'm not the only one"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:13:04.758238",
+  "cache_key": "7725abb5ad324d4ee66efbc843929114e9fa2237e5f7346c4f32bdbc396a6b5a",
+  "model": "gpt-41"
+}

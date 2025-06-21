@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased literary arts opportunities",
+    "free public cultural events",
+    "support for student musicians",
+    "showcasing youth talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Literary arts",
+    "free public events",
+    "showcasing of/giving performance opportunities for student musicians",
+    "AISD has some exceptional student musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AISD"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more literary arts events",
+    "more free public events",
+    "more performance opportunities for student musicians"
+  ],
+  "cached_at": "2025-06-21T00:24:27.491599",
+  "cache_key": "f0d7d7eb8c8df8e08e3ffef5b1ce42d01c187b3ba8f06349e978908ac923f058",
+  "model": "gpt-41"
+}

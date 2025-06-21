@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "centering under-represented art communities",
+    "interest in Afro-Latin folkloric dance",
+    "desire for more workshops, classes, and performances",
+    "value of local dance teams"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "workshops, classes, and performances centering under-represented art communities",
+    "particular interest in and passion for Afro-Latin folkloric dance",
+    "cherish training with Austin teams such as Oro Dance Company and Lux Mambo"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro Dance Company",
+    "Lux Mambo"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more workshops, classes, and performances centering under-represented art communities"
+  ],
+  "cached_at": "2025-06-21T00:46:05.144488",
+  "cache_key": "4a24a498999c1a9387a351436a36f9e402374f205dc8d8ed5d9f8d24d77c3c67",
+  "model": "gpt-41"
+}

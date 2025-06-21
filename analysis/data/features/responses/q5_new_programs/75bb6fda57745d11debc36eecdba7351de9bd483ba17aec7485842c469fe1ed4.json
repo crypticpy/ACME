@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for accessible creative classes",
+    "difficulty accessing grants",
+    "desire for improved organizational processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "creative classes that are accessible to all",
+    "easier ways to find/ receive grants for all",
+    "more organization"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible creative classes",
+    "difficulty finding and receiving grants",
+    "insufficient organizational structure"
+  ],
+  "solutions_proposed": [
+    "offer more creative classes that are accessible to all",
+    "make it easier to find and receive grants",
+    "increase organizational support"
+  ],
+  "cached_at": "2025-06-21T02:07:51.854916",
+  "cache_key": "75bb6fda57745d11debc36eecdba7351de9bd483ba17aec7485842c469fe1ed4",
+  "model": "gpt-41"
+}

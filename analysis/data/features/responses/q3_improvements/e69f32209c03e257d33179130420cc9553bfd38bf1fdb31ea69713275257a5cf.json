@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to communities of color",
+    "equity in cultural funding promotion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Greater promotion to communities of color"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient promotion to communities of color"
+  ],
+  "solutions_proposed": [
+    "greater promotion to communities of color"
+  ],
+  "cached_at": "2025-06-21T01:16:50.263711",
+  "cache_key": "e69f32209c03e257d33179130420cc9553bfd38bf1fdb31ea69713275257a5cf",
+  "model": "gpt-41"
+}

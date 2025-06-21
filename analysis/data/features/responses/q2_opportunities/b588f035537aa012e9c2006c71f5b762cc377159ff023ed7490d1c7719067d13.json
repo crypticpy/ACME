@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of AIPP program",
+    "desire for public art beyond new construction",
+    "limitations of current AIPP implementation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More AIPP",
+    "not just with new builds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "AIPP limited to new builds"
+  ],
+  "solutions_proposed": [
+    "Expand AIPP beyond new construction projects"
+  ],
+  "cached_at": "2025-06-21T00:51:48.909482",
+  "cache_key": "b588f035537aa012e9c2006c71f5b762cc377159ff023ed7490d1c7719067d13",
+  "model": "gpt-41"
+}

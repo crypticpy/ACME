@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for inclusive engagement",
+    "concern about exclusivity ('inner circle')",
+    "importance of transparent communication",
+    "anticipation for the funding process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "keep involving all of us",
+    "keep us informed",
+    "not just the 'inner circle' or big players"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusivity favoring 'inner circle' or big players"
+  ],
+  "solutions_proposed": [
+    "involve all community members",
+    "provide ongoing information and updates"
+  ],
+  "cached_at": "2025-06-21T02:17:30.052184",
+  "cache_key": "b45d58cde2fded22553b08e4edee376812cbc7ead03d10b0e276e1b46ebd4e8d",
+  "model": "gpt-41"
+}

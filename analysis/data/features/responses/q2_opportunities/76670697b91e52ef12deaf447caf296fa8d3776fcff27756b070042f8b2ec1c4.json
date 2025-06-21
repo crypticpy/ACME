@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for world-class arts infrastructure",
+    "importance of maintaining grassroots and local arts",
+    "alignment of arts growth with city growth",
+    "investment in signature cultural landmarks",
+    "long-term vision for arts excellence"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "excellence in the arts needs to grow in pace with it",
+    "maintain our current breadth of grassroots, cultural, and local arts",
+    "invest in a world class, long term arts vision",
+    "a fine arts museum with the goal of acquiring world renowned signature pieces",
+    "a major acoustic and architectural marvel of a music hall",
+    "a major art installation (like a St. Louis Arch, Seattle Space Needle, etc)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "invest in a world class, long term arts vision",
+    "create a fine arts museum with world renowned signature pieces",
+    "build a major acoustic and architectural marvel of a music hall",
+    "install a major art installation (like a St. Louis Arch, Seattle Space Needle, etc)"
+  ],
+  "cached_at": "2025-06-21T00:50:41.789216",
+  "cache_key": "76670697b91e52ef12deaf447caf296fa8d3776fcff27756b070042f8b2ec1c4",
+  "model": "gpt-41"
+}

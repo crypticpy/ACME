@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for creativity",
+    "support for ongoing cultural efforts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thanks for Keeping Austin Creative!"
+  ],
+  "intent": "express_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:09:52.845631",
+  "cache_key": "401b799309ee105d618c2bedb2e28139714a449ccc6c9e0c648a306f26ee41d9",
+  "model": "gpt-41"
+}

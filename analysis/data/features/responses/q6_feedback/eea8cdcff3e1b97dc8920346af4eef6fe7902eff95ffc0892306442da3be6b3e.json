@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of clarity and stability in funding levels",
+    "need for transparent and criteria-based grant allocation",
+    "concerns about panelist expertise and selection",
+    "disconnect between funding recommendations and actual awards",
+    "support for cultural venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Need to clarify and stabilize the funding levels",
+    "clear numbers that are connected with specific criteria",
+    "Not just a blanket applications for everyone",
+    "used to have peer panels that looked at specific genres",
+    "recent panelist had a lot of generalists who had no expertise",
+    "paying a bunch of unqualified folks, many not from Austin",
+    "reconsider the panelists: how many, who, what are we asking them to do",
+    "how is the scoring process explained",
+    "money awarded be connected through math to the actual funding recommendation",
+    "specific supplements to support the venues and keep them in business"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear and unstable funding levels",
+    "lack of transparent criteria for grant amounts",
+    "generalist panelists lacking expertise in specific art genres",
+    "panelists not from Austin adjudicating local projects",
+    "disconnect between scoring and funding recommendations",
+    "insufficient support for cultural venues"
+  ],
+  "solutions_proposed": [
+    "clarify and stabilize funding levels for all organization sizes",
+    "connect grant amounts to specific, transparent criteria",
+    "return to peer panels with expertise in specific genres",
+    "reconsider panelist selection and clarify their roles",
+    "make the scoring and funding process transparent and mathematically connected",
+    "provide specific supplements to support venues as cultural spaces"
+  ],
+  "cached_at": "2025-06-21T02:16:11.325363",
+  "cache_key": "eea8cdcff3e1b97dc8920346af4eef6fe7902eff95ffc0892306442da3be6b3e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process flexibility",
+    "opportunities for resubmission",
+    "support for applicants with incomplete applications"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "ability to reapply",
+    "if any part of the application is lacking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to reapply after submitting an incomplete or insufficient application"
+  ],
+  "solutions_proposed": [
+    "allow applicants to reapply if any part of the application is lacking"
+  ],
+  "cached_at": "2025-06-21T01:03:43.720386",
+  "cache_key": "984a7c0db224a7b5b62da5daf3d7f6a1cbc723df52cfd09cbe60bffb053af2af",
+  "model": "gpt-41"
+}

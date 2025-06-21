@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "transportation barriers",
+    "childcare needs",
+    "language accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "transportation",
+    "childcare",
+    "language access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "transportation",
+    "childcare",
+    "language access"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:37.922706",
+  "cache_key": "0683284f901a1225aa6ceb5e35ea4517eece0d09dea3f1044e5a15deb86f2359",
+  "model": "gpt-41"
+}

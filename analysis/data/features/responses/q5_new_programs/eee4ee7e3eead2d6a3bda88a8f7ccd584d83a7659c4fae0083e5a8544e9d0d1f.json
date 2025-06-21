@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient venues for artists",
+    "lack of opportunities for emerging artists",
+    "oversupply of artists relative to available spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more musicians and artists than there are places",
+    "so many emerging artists that don\u2019t get to showcase their work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough venues or spaces for artists to showcase work",
+    "emerging artists lack opportunities to present their work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:07:41.120821",
+  "cache_key": "eee4ee7e3eead2d6a3bda88a8f7ccd584d83a7659c4fae0083e5a8544e9d0d1f",
+  "model": "gpt-41"
+}

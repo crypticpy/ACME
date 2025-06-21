@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "active listening to community needs",
+    "increasing funding for organizations and leaders",
+    "providing or sponsoring event spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Listen to what they need",
+    "increase funding",
+    "find/sponsor spaces for events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of event spaces"
+  ],
+  "solutions_proposed": [
+    "listen to what organizations and leaders need",
+    "increase funding",
+    "find or sponsor spaces for events"
+  ],
+  "cached_at": "2025-06-20T10:25:49.218105",
+  "cache_key": "7477d13455a2684cd7685e01d9f24d597773394505544de069611ccd29d02bec",
+  "model": "gpt-41"
+}

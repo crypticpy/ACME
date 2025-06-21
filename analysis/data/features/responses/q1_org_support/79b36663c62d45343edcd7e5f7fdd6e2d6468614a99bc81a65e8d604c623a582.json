@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of clarity about who is supported",
+    "need for definition of key terms",
+    "information gap regarding organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Who are the organizations and cultural leaders?"
+  ],
+  "intent": "information_request",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear identification of organizations and cultural leaders"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:30:46.862718",
+  "cache_key": "79b36663c62d45343edcd7e5f7fdd6e2d6468614a99bc81a65e8d604c623a582",
+  "model": "gpt-41"
+}

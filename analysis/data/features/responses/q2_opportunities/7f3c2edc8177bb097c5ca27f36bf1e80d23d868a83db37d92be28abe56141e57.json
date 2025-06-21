@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "representation of local populations in entertainment",
+    "focus on Black and Brown communities",
+    "geographic inclusivity (Greater Austin areas)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "entertainment that reflects the populations that live in the Austin areas",
+    "Greater Austin areas that are more populated by Black and Brown populations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of entertainment reflecting Black and Brown populations"
+  ],
+  "solutions_proposed": [
+    "increase entertainment that reflects local Black and Brown populations"
+  ],
+  "cached_at": "2025-06-21T00:44:16.164967",
+  "cache_key": "7f3c2edc8177bb097c5ca27f36bf1e80d23d868a83db37d92be28abe56141e57",
+  "model": "gpt-41"
+}

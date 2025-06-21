@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for affordable professional creative spaces",
+    "support for artist collaboration and convening",
+    "navigation and connection between artists and spaces",
+    "building the creative ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "professionalized affordable working spaces",
+    "studios, rehearsal spaces, convening and collaborative third spaces",
+    "focused on building the creative ecosystem",
+    "better navigation support for connecting artist to spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable working spaces",
+    "difficulty connecting artists to available spaces"
+  ],
+  "solutions_proposed": [
+    "create more professionalized affordable working spaces",
+    "provide better navigation support for connecting artists to spaces"
+  ],
+  "cached_at": "2025-06-21T00:35:28.918330",
+  "cache_key": "77937994f2f068d179932db6d4e5acd4cae1e614b8e96183f2e42fb5374b7997",
+  "model": "gpt-41"
+}

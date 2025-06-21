@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for a centralized, searchable artist database",
+    "Difficulty and complexity of artist registration",
+    "Desire for streamlined application processes",
+    "Transparency in application and grant status",
+    "Empowering creatives and educators with better tools",
+    "Technology solutions for accessibility (mobile and desktop)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "searchable database of artists that have been registered with the city",
+    "make that process easier",
+    "combine some of the application steps and simplify",
+    "see a list of organizations that are approved with the city",
+    "any creative or teacher should be empowered with the tools to register",
+    "see their status when they apply for programs and grants",
+    "apps that do this from a mobile device",
+    "consider building one if you want it to be on desktops too"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "tricky registration or change of registration process",
+    "complex and fragmented application steps"
+  ],
+  "solutions_proposed": [
+    "Create a searchable, centralized database of registered artists and providers",
+    "Simplify and combine application steps for registration",
+    "Provide tools for creatives and teachers to register and track status",
+    "Enable search functionality for approved organizations by discipline",
+    "Develop desktop and mobile-friendly platforms for access"
+  ],
+  "cached_at": "2025-06-21T02:02:34.797750",
+  "cache_key": "f7037a9b3a146bd537ef4a03d0175c7d28a7fcae62bb2ef0fbb1d6f8bd52e911",
+  "model": "gpt-41"
+}

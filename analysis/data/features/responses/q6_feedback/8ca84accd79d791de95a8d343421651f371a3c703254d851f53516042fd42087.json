@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for proactive and inclusive policy-making",
+    "expanding definitions of underrepresented groups",
+    "importance of transparency in funding decisions",
+    "regular equity audits",
+    "community advisory panels for program development",
+    "building trust with the creative community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "opportunity to become a national leader in equitable arts funding",
+    "take a more proactive and inclusive approach to policy-making",
+    "revisit its definitions of underrepresented groups to include women",
+    "conduct regular equity audits of its programs and grant outcomes",
+    "transparency around who receives funding, and how those decisions are made",
+    "create community advisory panels made up of diverse artists and cultural leaders",
+    "ensure ongoing relevance to those it aims to serve"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "narrow definitions of underrepresented groups",
+    "lack of transparency in funding decisions",
+    "potential lack of ongoing relevance to the community"
+  ],
+  "solutions_proposed": [
+    "revisit definitions of underrepresented groups to include women",
+    "conduct regular equity audits",
+    "increase transparency around funding decisions",
+    "create community advisory panels made up of diverse artists and cultural leaders"
+  ],
+  "cached_at": "2025-06-21T02:11:45.837764",
+  "cache_key": "8ca84accd79d791de95a8d343421651f371a3c703254d851f53516042fd42087",
+  "model": "gpt-41"
+}

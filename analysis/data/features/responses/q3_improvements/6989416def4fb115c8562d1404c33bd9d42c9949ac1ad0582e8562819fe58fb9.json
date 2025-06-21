@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited personal experience with application process",
+    "appreciation for existing cultural support",
+    "recognition of supported organizations and events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I am limited in my information since I've never been an applicant",
+    "I appreciate Austin's support of groups like Conspirare, Shakespeare in the park, Film Fedtivals, etc."
+  ],
+  "intent": "expression_of_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Conspirare",
+    "Shakespeare in the park",
+    "Film Festivals"
+  ],
+  "barriers_identified": [
+    "never been an applicant"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:13:00.872837",
+  "cache_key": "6989416def4fb115c8562d1404c33bd9d42c9949ac1ad0582e8562819fe58fb9",
+  "model": "gpt-41"
+}

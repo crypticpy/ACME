@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for small art venues",
+    "support for small music venues",
+    "direct funding for individual artists",
+    "desire for organized art tours"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "well organized art tours",
+    "grants for small art and music venues",
+    "grants for individual artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "well organized art tours",
+    "grants for small art and music venues",
+    "grants for individual artists"
+  ],
+  "cached_at": "2025-06-21T00:36:28.639536",
+  "cache_key": "da4052e0516d1f66a3e929fb077062548a2de81e5a8071318dfd5c77a65b7ed5",
+  "model": "gpt-41"
+}

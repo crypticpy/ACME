@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship for emerging organizations and administrators",
+    "space sharing between artists and venues",
+    "accessibility evaluation of venues and events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "mentorship programs for new organizations and young arts administrators",
+    "space sharing program for artists to pair with venues for rehearsals",
+    "accessibility assessments for venues and events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mentorship for new organizations and young administrators",
+    "limited access to rehearsal space for artists",
+    "insufficient accessibility assessments for venues and events"
+  ],
+  "solutions_proposed": [
+    "mentorship programs for new organizations and young arts administrators",
+    "space sharing program for artists to pair with venues for rehearsals",
+    "accessibility assessments for venues and events"
+  ],
+  "cached_at": "2025-06-21T02:07:33.147304",
+  "cache_key": "39cdd7a0c9ce8c872fd6b9e072a458d2c0ae51f6b54f4d535b3868cbb0f91f11",
+  "model": "gpt-41"
+}

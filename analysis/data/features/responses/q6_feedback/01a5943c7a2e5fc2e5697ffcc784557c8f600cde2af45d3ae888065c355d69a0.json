@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "irreversibility of past actions",
+    "frustration with state government",
+    "resilience or encouragement despite challenges"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "impossible to turn back the clock",
+    "very difficult to overcome the horrible state government",
+    "Rock on!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "horrible state government"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:13:58.919097",
+  "cache_key": "01a5943c7a2e5fc2e5697ffcc784557c8f600cde2af45d3ae888065c355d69a0",
+  "model": "gpt-41"
+}

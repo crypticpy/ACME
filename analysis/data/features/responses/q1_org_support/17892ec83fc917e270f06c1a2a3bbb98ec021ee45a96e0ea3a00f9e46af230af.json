@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "visibility of cultural events",
+    "community-wide outreach",
+    "advertising strategies",
+    "equitable access to information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "banner that goes across South Lamar every year for the Turkey Trot",
+    "there should be more of this type of ads",
+    "let all communities know about events & opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Turkey Trot"
+  ],
+  "barriers_identified": [
+    "lack of awareness of events and opportunities"
+  ],
+  "solutions_proposed": [
+    "increase banner-style advertising to inform all communities about events and opportunities"
+  ],
+  "cached_at": "2025-06-20T01:16:10.382622",
+  "cache_key": "17892ec83fc917e270f06c1a2a3bbb98ec021ee45a96e0ea3a00f9e46af230af",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty with grant writing",
+    "administrative barriers to access",
+    "funding application challenges"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grant writing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Grant writing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:12.879223",
+  "cache_key": "7c034a25133ac8e841fd055e8598198b3560206fcdafd59645e82a37b2fb3c06",
+  "model": "gpt-41"
+}

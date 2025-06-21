@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Complexity of grant applications",
+    "Lack of artist agency in review process",
+    "Reduced transparency in panel discussions",
+    "Poor city communication and missed deadlines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "grant applications got so complicated",
+    "most of the artists that I work with just didn't understand how to answer them",
+    "being more shut out of the review process",
+    "before artists were able to present in front of a panel to clarify information",
+    "panel discussions aren't even viewable by artists",
+    "given artists less and less agency",
+    "City is notoriously bad at communications",
+    "keeping their timeline...extremely vague",
+    "missing deadlines that they set for themselves"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Overly complicated grant application questions",
+    "Lack of understanding of application process among artists",
+    "Exclusion from review and panel processes",
+    "Lack of transparency in panel discussions",
+    "Poor communication regarding timelines",
+    "Missed deadlines by the City"
+  ],
+  "solutions_proposed": [
+    "Simplify grant application questions",
+    "Allow artists to present in front of review panels",
+    "Make panel discussions viewable to artists",
+    "Improve communication about timelines",
+    "Meet announced deadlines"
+  ],
+  "cached_at": "2025-06-21T00:58:30.423970",
+  "cache_key": "cfa0820faec6d1a7229acefe35bbbada600e34129bb55598fa092921a98aa94f",
+  "model": "gpt-41"
+}

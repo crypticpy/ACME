@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "perceived favoritism in funding",
+    "lack of diversity in grant recipients",
+    "need for broader distribution of resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "The same orgs get things",
+    "branch out and fund more people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funding for new or different organizations"
+  ],
+  "solutions_proposed": [
+    "branch out and fund more people"
+  ],
+  "cached_at": "2025-06-20T10:42:25.730695",
+  "cache_key": "8f0ac7b8d2988911faafa0c44be5f82baa189d53c4ea23811d52abf6a6aef512",
+  "model": "gpt-41"
+}

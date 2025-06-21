@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "official city support for cultural ambassadors",
+    "international cultural exchange with sister city",
+    "youth engagement through high school workshops",
+    "representation of Austin's identity abroad",
+    "inspiration and vision for local community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "act as official ambassadors and travel with the support and seal of our city",
+    "tour the city of Austin\u2019s chosen sister city, Angers, France",
+    "showing the students at high school workshops we\u2019re known for",
+    "introduce the citizens to the soul of Austin from afar",
+    "showing both those we meet on tour and our family of Austinites at home the strength the city holds",
+    "providing great vision that their path forward is not limited to where they currently stand"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of official city support for cultural ambassadors"
+  ],
+  "solutions_proposed": [
+    "provide official city support and endorsement for cultural ambassadors traveling to sister cities"
+  ],
+  "cached_at": "2025-06-21T02:10:53.333680",
+  "cache_key": "5d1693023317877b6f67fee3e7a3ef3a28d14acbde9d13c978de79808b31fa4a",
+  "model": "gpt-41"
+}

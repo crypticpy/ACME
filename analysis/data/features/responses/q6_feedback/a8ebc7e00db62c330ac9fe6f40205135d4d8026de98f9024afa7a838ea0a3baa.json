@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for equitable distribution of funding",
+    "Frustration with repetitive funding to the same recipients",
+    "Advocacy for increased support for artists of color",
+    "Critique of funding for white cis male artists",
+    "Barriers created by excessive paperwork",
+    "Discouragement among underrepresented artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more artists get more money with less paperwork",
+    "don\u2019t wanna see the same artists getting money year after year",
+    "especially wanna see people of color getting money",
+    "I do not want to uphold supremacy",
+    "divesting from white cis men",
+    "give the people who have not been getting money more opportunities",
+    "most talented people in this city are not white",
+    "if they actually got funding and saw people in their community getting funding, more of them might apply",
+    "so many mediocre white artist getting funding, it\u2019s just very discouraging",
+    "sooooo sick of seeing white men get money for their self indulgent music projects",
+    "myself and others have applied for actual community building educational community service projects, but didn\u2019t get chosen"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "excessive paperwork",
+    "repetitive funding to the same recipients",
+    "lack of opportunities for people of color",
+    "discouragement due to perceived bias in funding decisions"
+  ],
+  "solutions_proposed": [
+    "more artists get more money with less paperwork",
+    "give people who have not been getting money more opportunities",
+    "divest from white cis men in funding decisions"
+  ],
+  "cached_at": "2025-06-21T02:10:19.837930",
+  "cache_key": "a8ebc7e00db62c330ac9fe6f40205135d4d8026de98f9024afa7a838ea0a3baa",
+  "model": "gpt-41"
+}

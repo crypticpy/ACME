@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency from City of Austin (COA)",
+    "vagueness and subjectivity in scoring rubric",
+    "disparity in funding application results",
+    "need for clarity on HOT tax administration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More transparency from the COA",
+    "scoring rubric is vague and leaves a lot to subjectivity",
+    "disparity in scoring results",
+    "applications should address how the HOT tax is administered"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "vague scoring rubric",
+    "subjectivity in scoring",
+    "lack of transparency in funding process",
+    "unclear administration of HOT tax"
+  ],
+  "solutions_proposed": [
+    "More transparency from the COA to the Cultural Arts organizations",
+    "clarify the scoring rubric",
+    "applications should address how the HOT tax is administered"
+  ],
+  "cached_at": "2025-06-21T01:17:58.098581",
+  "cache_key": "e79b14ce225b32f1316f88308859d99d4fb4ef6237be972cc049f82afe39a92f",
+  "model": "gpt-41"
+}

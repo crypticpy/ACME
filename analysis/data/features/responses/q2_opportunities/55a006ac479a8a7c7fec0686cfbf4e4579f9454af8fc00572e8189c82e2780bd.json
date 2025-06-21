@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of entertainment and education",
+    "focus on social justice issues",
+    "focus on climate justice issues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "entertainment that also brings education",
+    "awareness to social and climate justice issues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase entertainment opportunities that educate and raise awareness about social and climate justice issues"
+  ],
+  "cached_at": "2025-06-21T00:44:04.119886",
+  "cache_key": "55a006ac479a8a7c7fec0686cfbf4e4579f9454af8fc00572e8189c82e2780bd",
+  "model": "gpt-41"
+}

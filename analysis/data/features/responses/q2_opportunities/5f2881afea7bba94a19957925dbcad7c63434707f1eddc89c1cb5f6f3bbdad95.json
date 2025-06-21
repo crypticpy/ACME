@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more film screenings",
+    "interest in visual art displays"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Film screenings",
+    "visual art displays"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More film screenings",
+    "More visual art displays"
+  ],
+  "cached_at": "2025-06-21T00:36:15.231498",
+  "cache_key": "5f2881afea7bba94a19957925dbcad7c63434707f1eddc89c1cb5f6f3bbdad95",
+  "model": "gpt-41"
+}

@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more classical and acoustic music events",
+    "Integration of live music with cultural exhibitions",
+    "Quality and authenticity of cultural performances",
+    "Need for larger, family-friendly venues",
+    "Accessibility and geographic equity across Austin",
+    "Family-oriented programming",
+    "Challenges posed by climate and indoor space availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more classical and acoustic music more widely available",
+    "coupled with art cultural exhibitions/events",
+    "Peruvian dance exhibition at an Austin public library",
+    "they used a poor recording of the music",
+    "it would have benefited of actual pan flutes",
+    "needed a larger venue with stadium like seating",
+    "Families with children were unable to sit comfortably or see the recreation",
+    "creating space (or more accessibility to all areas of austin) for a 'Music at Noon' programming",
+    "dedicated for acoustic or small ensemble music open for family and children of all ages",
+    "challenge may be indoor space since we are in a hotter climate",
+    "More family oriented programming with quality music and art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Use of poor quality recorded music instead of live instruments",
+    "Inadequate venue size and seating for families",
+    "Limited accessibility to programming across all areas of Austin",
+    "Lack of indoor spaces suitable for events due to hot climate"
+  ],
+  "solutions_proposed": [
+    "Provide live music (e.g., actual pan flutes) at cultural exhibitions",
+    "Use larger venues with stadium-like seating for better visibility and comfort",
+    "Create or increase accessibility to 'Music at Noon' programming for families and children",
+    "Offer more family-oriented programming with quality music and art"
+  ],
+  "cached_at": "2025-06-21T00:51:32.121778",
+  "cache_key": "d37b1ca4918a1b68bf47b5a6b94ad9d82d591c08307ee102ac693da609f32082",
+  "model": "gpt-41"
+}

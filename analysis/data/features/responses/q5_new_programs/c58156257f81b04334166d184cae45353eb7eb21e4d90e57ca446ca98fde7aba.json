@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for artistic venues",
+    "infrastructure for the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Support of artistic venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support of artistic venues"
+  ],
+  "cached_at": "2025-06-21T02:06:05.811935",
+  "cache_key": "c58156257f81b04334166d184cae45353eb7eb21e4d90e57ca446ca98fde7aba",
+  "model": "gpt-41"
+}

@@ -1,0 +1,47 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "multicultural and multidisciplinary arts experiences",
+    "public art with engagement and storytelling",
+    "pop-up cultural activations in underutilized spaces",
+    "mobile art installations and performances",
+    "support for festivals highlighting marginalized communities",
+    "youth-led arts initiatives",
+    "collaborative residencies and exhibitions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "multicultural, multidisciplinary, and intergenerational arts experiences",
+    "public art that include engagement and storytelling components",
+    "pop-up cultural activations in underutilized public spaces",
+    "mobile art installations and performances",
+    "expanded support for festivals and events that highlight Indigenous, African American, Latinx, and immigrant communities",
+    "youth-led arts initiatives",
+    "collaborative residencies and exhibitions",
+    "enrich our cultural landscape",
+    "foster belonging, economic vitality, and civic pride"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underutilized public spaces",
+    "lack of engagement and storytelling in public art",
+    "limited support for festivals and events highlighting marginalized communities"
+  ],
+  "solutions_proposed": [
+    "more multicultural, multidisciplinary, and intergenerational arts experiences",
+    "public art with engagement and storytelling components",
+    "pop-up cultural activations in underutilized public spaces",
+    "mobile art installations and performances in neighborhoods",
+    "expanded support for festivals and events highlighting marginalized communities",
+    "youth-led arts initiatives",
+    "collaborative residencies and exhibitions bridging local and national/international artists"
+  ],
+  "cached_at": "2025-06-21T00:45:57.040615",
+  "cache_key": "86cd6c69a5e4cb4286bd79797c34dd0b0266e5055278c31dbedb3918b0e016d9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "appreciation for public engagement",
+    "desire for increased public art",
+    "art as integral to city culture"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I appreciate that y\u2019all are doing this survey",
+    "I would love to see more art in Austin",
+    "It\u2019s very important to the culture of our city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "see more art in Austin"
+  ],
+  "cached_at": "2025-06-21T02:18:34.656303",
+  "cache_key": "abda0a88da0aaa357ed698f0efa0558774315ce65f20d17b2898c07fb28c0a95",
+  "model": "gpt-41"
+}

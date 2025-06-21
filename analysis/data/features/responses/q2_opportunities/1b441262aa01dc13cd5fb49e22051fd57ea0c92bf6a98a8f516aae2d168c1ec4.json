@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community connection",
+    "breaking social bubbles",
+    "valuing existing cultural work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "so much good work going on",
+    "need more experiences that bring folks together",
+    "outside of our bubbles"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "social bubbles"
+  ],
+  "solutions_proposed": [
+    "more experiences that bring folks together"
+  ],
+  "cached_at": "2025-06-21T00:41:50.970239",
+  "cache_key": "1b441262aa01dc13cd5fb49e22051fd57ea0c92bf6a98a8f516aae2d168c1ec4",
+  "model": "gpt-41"
+}

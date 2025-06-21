@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of collaboration between music and movie industries",
+    "missed opportunities for musicians in film projects",
+    "absence of liaison or connector roles",
+    "desire for song placement opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Why isn't the Movie Industry involved in music section programs",
+    "I want opportunities to get my songs placed in Independent, Documentaries and Higher Profile Movie Projects",
+    "there is NO Liason to connect musicians to movie industry"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "NO Liason to connect musicians to movie industry",
+    "lack of involvement of the Movie Industry in music programs"
+  ],
+  "solutions_proposed": [
+    "create a liaison to connect musicians to the movie industry",
+    "involve the Movie Industry in music section programs"
+  ],
+  "cached_at": "2025-06-21T02:03:14.085825",
+  "cache_key": "466cc87627cd324ef4a77dd2f8dca6413725bd76496fbe810e8fd41864ceddf3",
+  "model": "gpt-41"
+}

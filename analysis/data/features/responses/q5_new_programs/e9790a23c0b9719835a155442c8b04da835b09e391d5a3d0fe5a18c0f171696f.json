@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "website accessibility",
+    "information visibility",
+    "perceived underrepresentation due to communication gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "be more accessible so that citizens can easily see what programs and services are offered",
+    "many of the things appear to be under represented, but maybe they\u2019re simply too hard to find on website or other advertising"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty finding information on website",
+    "insufficient advertising"
+  ],
+  "solutions_proposed": [
+    "make the website more accessible",
+    "improve advertising of programs and services"
+  ],
+  "cached_at": "2025-06-21T01:53:31.110648",
+  "cache_key": "e9790a23c0b9719835a155442c8b04da835b09e391d5a3d0fe5a18c0f171696f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for intimate arts events",
+    "preference for quiet cultural experiences",
+    "importance of accessible parking",
+    "value of social interaction at events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "quiet, small arts events",
+    "book readings",
+    "poetry readings",
+    "classical music",
+    "easily accessible parking",
+    "where people can hear each other and chat"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of easily accessible parking",
+    "difficulty hearing each other at events"
+  ],
+  "solutions_proposed": [
+    "more quiet, small arts events",
+    "events with easily accessible parking",
+    "events that facilitate conversation"
+  ],
+  "cached_at": "2025-06-21T00:44:43.144512",
+  "cache_key": "b0401a35613aee6df952f7c175ae10dd61866dd5dbd5929555cf11f614b30994",
+  "model": "gpt-41"
+}

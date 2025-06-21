@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "burdensome application process",
+    "proactive funding models",
+    "philanthropic approach to support",
+    "community engagement and evaluation",
+    "recognition of existing impactful work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Less applications, and more proactive funding",
+    "Philanthropists don't wait to have artists seek them out",
+    "they know who and what they value and then they become patrons",
+    "ACME should seek to provide funding to orgs that they see doing great things",
+    "y'all are out in the community and can evaluate the work firsthand"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "burdensome application process"
+  ],
+  "solutions_proposed": [
+    "reduce the number of applications required",
+    "adopt a more proactive funding approach",
+    "fund organizations based on firsthand community evaluation"
+  ],
+  "cached_at": "2025-06-21T01:16:53.130354",
+  "cache_key": "7303a5acd8879dd8e3f0e359e431dd4f5d102daeb1b0ce014bf1f66240e80e10",
+  "model": "gpt-41"
+}

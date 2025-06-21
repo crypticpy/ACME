@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of existing organizations",
+    "need for improved communication or marketing",
+    "uncertainty about how to support cultural organizations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "i dont know who these existing organizations are",
+    "not sure how to tell u to support them",
+    "perhaps marketing?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about existing organizations"
+  ],
+  "solutions_proposed": [
+    "increase marketing"
+  ],
+  "cached_at": "2025-06-20T10:33:43.456398",
+  "cache_key": "e7ea6152af15ea44591b3a2418c621e373461a02850abcd46b5e2f897c06ca9b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding",
+    "support for organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Provide funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide funding"
+  ],
+  "cached_at": "2025-06-20T10:45:50.886690",
+  "cache_key": "6342b10caf59ed56c96b6d428d9c1436caf0a68a391f40273fa0d7aa5b179dec",
+  "model": "gpt-41"
+}

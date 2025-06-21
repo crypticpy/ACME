@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in theater offerings",
+    "support for choir performances"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance",
+    "theater",
+    "choirs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for dance, theater, and choir arts in Austin"
+  ],
+  "cached_at": "2025-06-21T00:48:47.895907",
+  "cache_key": "53d0307e0379c222c623ee0a10ba422252fa72aef53d700e14657d765670e2e6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable funding",
+    "comprehensive support for arts ecosystem",
+    "fairness in funding distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding practices",
+    "serve the ENTIRE arts ecosystem",
+    "more fully and fairly"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding practices do not serve the entire arts ecosystem fully or fairly"
+  ],
+  "solutions_proposed": [
+    "funding practices which serve the entire arts ecosystem more fully and fairly"
+  ],
+  "cached_at": "2025-06-20T10:35:39.139527",
+  "cache_key": "eebb54bb84ef58d8248375c6b80af3b87dbbd92ac035111da774be27ee52da69",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for citywide art tour",
+    "need for financial support for visual arts",
+    "interest in collective/union for creative visual arts workers",
+    "comparison to HAAM for visual arts",
+    "support for small art businesses and studio techs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more financial support for some sort of city wide art tour",
+    "collective/union for people who work in creative visual arts jobs",
+    "like studio techs in local ceramics studios",
+    "small scale production leads and workers for small art businesses",
+    "something like HAAM but for visual arts workers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "lack of financial support for citywide art initiatives",
+    "absence of collective/union representation for visual arts workers"
+  ],
+  "solutions_proposed": [
+    "provide more financial support for a citywide art tour",
+    "create a collective or union for creative visual arts workers similar to HAAM"
+  ],
+  "cached_at": "2025-06-21T02:02:55.723246",
+  "cache_key": "1075f3a07a91342d2d0105750897af04d09f74705cb7f6b5ed1828c608eebffb",
+  "model": "gpt-41"
+}

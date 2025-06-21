@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "listening to concerns",
+    "implementing community solutions",
+    "valuing input from organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "hearing their concerns",
+    "implementing their solutions and ideas"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not being heard",
+    "lack of implementation of community ideas"
+  ],
+  "solutions_proposed": [
+    "hear concerns of organizations and cultural leaders",
+    "implement their solutions and ideas"
+  ],
+  "cached_at": "2025-06-20T10:33:15.174809",
+  "cache_key": "87a49dff02c7b0987bf1234b955ccfe5a7e2a887a4eb33752f872cfa5444a7a1",
+  "model": "gpt-41"
+}

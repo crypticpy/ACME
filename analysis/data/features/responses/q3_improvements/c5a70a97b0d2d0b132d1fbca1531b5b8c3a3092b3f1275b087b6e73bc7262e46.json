@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased funding",
+    "perceived benefit of more resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More funding, the better"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase funding for cultural programs"
+  ],
+  "cached_at": "2025-06-21T01:13:14.715783",
+  "cache_key": "c5a70a97b0d2d0b132d1fbca1531b5b8c3a3092b3f1275b087b6e73bc7262e46",
+  "model": "gpt-41"
+}

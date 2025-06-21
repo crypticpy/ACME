@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for participatory opportunities",
+    "preference for creation-focused experiences",
+    "critique of passive cultural consumption"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more participatory and creation-focused opportunities",
+    "as opposed to a focus on 'consuming' culture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overemphasis on consuming culture"
+  ],
+  "solutions_proposed": [
+    "increase participatory and creation-focused opportunities"
+  ],
+  "cached_at": "2025-06-21T00:43:28.454339",
+  "cache_key": "ae8479e50320a897df7e2fec429b95595880f0ea37f73a3906b88d58606845f1",
+  "model": "gpt-41"
+}

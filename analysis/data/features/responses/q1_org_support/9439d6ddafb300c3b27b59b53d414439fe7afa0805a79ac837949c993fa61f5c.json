@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "communication between ACME and organizations/leaders",
+    "clarity of ACME's mission",
+    "direct support for activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "frequent dialogues with them",
+    "explain your mission",
+    "give support for their activities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Have frequent dialogues with organizations and cultural leaders",
+    "Explain ACME's mission to organizations and cultural leaders",
+    "Give support for the activities of organizations and cultural leaders"
+  ],
+  "cached_at": "2025-06-20T10:24:56.231511",
+  "cache_key": "9439d6ddafb300c3b27b59b53d414439fe7afa0805a79ac837949c993fa61f5c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to access",
+    "affordability of tickets",
+    "cost of performance venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cost of tickets",
+    "performance venues",
+    "major barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of tickets",
+    "cost of performance venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:14.843455",
+  "cache_key": "be26942e006b8f01ef45b130e39e9f0fe2b80e090c25dbcb8712576f82a7d36f",
+  "model": "gpt-41"
+}

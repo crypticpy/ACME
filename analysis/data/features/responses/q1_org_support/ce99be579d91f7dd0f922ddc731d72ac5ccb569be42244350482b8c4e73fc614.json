@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "satisfaction with ACME's current performance",
+    "importance of sustaining ongoing work",
+    "recognition of organizational success"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "ACME is doing an amazing job",
+    "If we can sustain the work being done, that is a major win"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:21:42.167225",
+  "cache_key": "ce99be579d91f7dd0f922ddc731d72ac5ccb569be42244350482b8c4e73fc614",
+  "model": "gpt-41"
+}

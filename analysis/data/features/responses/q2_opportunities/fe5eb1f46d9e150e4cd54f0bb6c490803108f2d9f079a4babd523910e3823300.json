@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "historical preservation",
+    "cultural programming focus"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "historical preservation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more opportunities centered around historical preservation"
+  ],
+  "cached_at": "2025-06-21T00:49:43.534465",
+  "cache_key": "fe5eb1f46d9e150e4cd54f0bb6c490803108f2d9f079a4babd523910e3823300",
+  "model": "gpt-41"
+}

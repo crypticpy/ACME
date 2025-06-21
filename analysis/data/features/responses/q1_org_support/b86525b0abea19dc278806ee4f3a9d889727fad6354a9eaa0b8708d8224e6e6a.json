@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for multiyear funding",
+    "timing of grant announcements",
+    "funding sustainability",
+    "limitations of one-off funding",
+    "challenges to long-term investment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Offering multiyear awards or grant award announcements earlier",
+    "allow organizations to anticipate funding and improve sustainability efforts",
+    "awards are high in dollars, they are not ongoing",
+    "doesn't contribute to building a cooperative and sustainable arts future",
+    "hard to make a true long-term investment in the arts without some sort of monetary commitment for an extended, reliable funding term",
+    "all money must be expended in a year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of ongoing funding",
+    "requirement to expend all money in a year",
+    "inability to make long-term investments"
+  ],
+  "solutions_proposed": [
+    "Offering multiyear awards",
+    "Announcing grant awards earlier",
+    "Providing extended, reliable funding terms"
+  ],
+  "cached_at": "2025-06-20T10:44:41.664670",
+  "cache_key": "b86525b0abea19dc278806ee4f3a9d889727fad6354a9eaa0b8708d8224e6e6a",
+  "model": "gpt-41"
+}

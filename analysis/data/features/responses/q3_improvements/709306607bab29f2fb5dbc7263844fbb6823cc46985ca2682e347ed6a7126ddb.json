@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "centralization of grant funding",
+    "distribution of resources",
+    "loss of key cultural organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Less centralized grants",
+    "spread funding out to more organizations",
+    "Losing Big Medium is a huge loss to Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "centralized grants"
+  ],
+  "solutions_proposed": [
+    "Less centralized grants",
+    "spread funding out to more organizations"
+  ],
+  "cached_at": "2025-06-21T01:19:40.698250",
+  "cache_key": "709306607bab29f2fb5dbc7263844fbb6823cc46985ca2682e347ed6a7126ddb",
+  "model": "gpt-41"
+}

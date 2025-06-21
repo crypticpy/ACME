@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for artists",
+    "economic precarity of artists",
+    "impact of financial stress on artistic output"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "improved access to affordable housing",
+    "artists are using all their waking hours working dead end jobs",
+    "less likely to make good art for the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing",
+    "artists working dead end jobs to support themselves"
+  ],
+  "solutions_proposed": [
+    "improved access to affordable housing for artists"
+  ],
+  "cached_at": "2025-06-20T10:41:49.908537",
+  "cache_key": "0cbf66e418551205a4db14a13ab9d7fda105992f6b6f319ce88f5c30fdd9cbfa",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern over proposed policy changes",
+    "equity and access in funding",
+    "privileging established organizations",
+    "potential rollback of progress"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "The current programs are working well as they are.",
+    "The proposed changes, including the 50% match requirement and limiting the ability to apply for Thrive after two cycles are deeply concerning.",
+    "These changes seem to primarily benefit more privileged organizations",
+    "effectively shifting access to significant resources back to those who have historically received them."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "50% match requirement",
+    "limiting the ability to apply for Thrive after two cycles",
+    "benefiting more privileged organizations",
+    "shifting access to resources back to historically advantaged groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:55:32.608987",
+  "cache_key": "a3ff5cd6ad59095d6fa954aa7345b1a58b3604e6c60d9d3a65fbd72c6b4a3596",
+  "model": "gpt-41"
+}

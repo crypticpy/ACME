@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "personal financial strain",
+    "economic barriers to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "really feeling the financial strain"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial strain"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:30.730692",
+  "cache_key": "92a7f7709b3a4e39a1bd7714f068727265c5f60e69681338bd86f28c2070b394",
+  "model": "gpt-41"
+}

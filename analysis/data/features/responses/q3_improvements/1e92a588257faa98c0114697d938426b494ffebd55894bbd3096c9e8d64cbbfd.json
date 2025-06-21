@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "perceived lack of transparency in recipient selection",
+    "concerns about merit or productivity of grant recipients",
+    "suggestion for deeper evaluation of applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "a further dive into the recipients seems to be necessary",
+    "the few I heard of who received grants were not as established or putting out as much work as the many who applied"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perception that less established or less productive applicants are being funded over more established or active ones"
+  ],
+  "solutions_proposed": [
+    "conduct a further dive into the recipients"
+  ],
+  "cached_at": "2025-06-21T00:54:17.447537",
+  "cache_key": "1e92a588257faa98c0114697d938426b494ffebd55894bbd3096c9e8d64cbbfd",
+  "model": "gpt-41"
+}

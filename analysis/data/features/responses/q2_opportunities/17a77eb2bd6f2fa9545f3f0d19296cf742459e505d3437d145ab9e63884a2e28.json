@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "direct financial support for artists",
+    "support for community-rooted non-profits",
+    "increased support for visual arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Opportunities that pay artists directly",
+    "opportunities for non-profits with long term stake in the community to be supported",
+    "I want to see the visual arts supported more"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct payment to artists",
+    "insufficient support for community-rooted non-profits",
+    "under-support of visual arts"
+  ],
+  "solutions_proposed": [
+    "pay artists directly",
+    "support non-profits with long term stake in the community",
+    "increase support for visual arts"
+  ],
+  "cached_at": "2025-06-21T00:27:48.506034",
+  "cache_key": "17a77eb2bd6f2fa9545f3f0d19296cf742459e505d3437d145ab9e63884a2e28",
+  "model": "gpt-41"
+}

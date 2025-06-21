@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for administrative support",
+    "staffing challenges in arts management",
+    "support for project management"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "help with administrative staff",
+    "interns",
+    "more administrative arts project management"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of administrative staff",
+    "insufficient project management support"
+  ],
+  "solutions_proposed": [
+    "provide help with administrative staff",
+    "offer interns",
+    "increase administrative arts project management support"
+  ],
+  "cached_at": "2025-06-21T02:04:06.819454",
+  "cache_key": "2029f4c47bac56564d7c2c7cea31bf68c70956ee1a5fc810c99d7254842d72d9",
+  "model": "gpt-41"
+}

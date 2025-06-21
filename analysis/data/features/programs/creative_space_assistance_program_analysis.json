@@ -1,0 +1,31 @@
+{
+  "program_name": "Creative Space Assistance Program",
+  "mention_count": 10,
+  "sentiment_summary": {
+    "mixed": 6,
+    "positive": 1,
+    "negative": 1,
+    "neutral": 2
+  },
+  "strengths": [],
+  "improvement_areas": [],
+  "specific_requests": [],
+  "representative_quotes": [
+    "CSAP has been inactive, and also does not the ongoing sustainability that venues desperately need",
+    "Database should be managed by a City employee to increase creative space optimization and connect ACME to Rally Austin to nonprofits!\n\n\u2022 Restore CSAP",
+    "I\u2019d like to learn more about the creative space assistance program",
+    "Property tax caps for venues, insurance and rent support for more venues than is currently supported by CSAP and the 20% of the LMF currently available to venues",
+    "Please expand the Creative Space Assistance Program to individual artists",
+    "Creative Space Assistance Program \u2013 This program should be expanded to include self-funded, artist-owned spaces like my own, And&And Studios",
+    "So CSAP, or something like it, should continue to be implemented as a transitional measure",
+    "If Austin hasn\u2019t resolved its cultural infrastructure crisis (surprise, we haven't) CSAP must return\u2014we still need foundational support for those providing space and services"
+  ],
+  "impact_statements": [],
+  "accessibility_issues": [],
+  "demographic_reach": {
+    "organization": 4,
+    "artist": 4,
+    "resident": 1,
+    "venue_operator": 1
+  }
+}

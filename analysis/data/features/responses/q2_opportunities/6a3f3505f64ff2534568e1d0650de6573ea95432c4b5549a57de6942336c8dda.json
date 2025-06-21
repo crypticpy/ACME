@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outdoor cultural events",
+    "festivals in public spaces",
+    "community gathering in parks"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Festivals in parks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More festivals in parks"
+  ],
+  "cached_at": "2025-06-21T00:47:52.293556",
+  "cache_key": "6a3f3505f64ff2534568e1d0650de6573ea95432c4b5549a57de6942336c8dda",
+  "model": "gpt-41"
+}

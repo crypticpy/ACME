@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "city support for cultural programming",
+    "focus on independent music venues",
+    "emphasis on mid and small size venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "City supported programming",
+    "Austin's independent mid and small size music venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "City supported programming in Austin's independent mid and small size music venues"
+  ],
+  "cached_at": "2025-06-21T00:47:40.526951",
+  "cache_key": "3f5401b9a1db7bc2d17a0ce1c79ce113b34df43a5eaa67d349ef574bf4cb1124",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant timing and sequencing",
+    "prioritization of funding opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "timing of the grants",
+    "start from the highest opportunity grants",
+    "followed by the lower grant opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Sequence grant distribution to prioritize highest opportunity grants before lower opportunity grants"
+  ],
+  "cached_at": "2025-06-21T01:10:02.269442",
+  "cache_key": "bcfea9094df98e79ef22b5a397955a55873df19b6d8f039570f335f091554dd3",
+  "model": "gpt-41"
+}

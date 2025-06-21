@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local Austin-made productions",
+    "independent artist leadership",
+    "experimental and innovative artistic expressions",
+    "preference for diverse mediums and genres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Austin made",
+    "independent artist led production",
+    "experimental expressions in whatever medium /genre",
+    "local productions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase Austin-made, independent artist-led productions",
+    "support experimental expressions in any medium or genre",
+    "promote more local productions"
+  ],
+  "cached_at": "2025-06-21T00:27:13.760631",
+  "cache_key": "8052b20d99034b7f49e1f4def2707c4d7390249c88ba141209f861f5b4a2e5f6",
+  "model": "gpt-41"
+}

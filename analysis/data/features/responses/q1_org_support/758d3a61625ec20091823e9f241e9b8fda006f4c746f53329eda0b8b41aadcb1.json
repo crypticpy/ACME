@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of funding opportunities",
+    "collaboration with educational institutions",
+    "youth and student engagement in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "well-promoted funding opportunities",
+    "connections with art programs at Austin universities and high schools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of funding opportunities",
+    "insufficient connection between ACME and educational art programs"
+  ],
+  "solutions_proposed": [
+    "better promotion of funding opportunities",
+    "building connections with art programs at Austin universities and high schools"
+  ],
+  "cached_at": "2025-06-20T10:24:20.107417",
+  "cache_key": "758d3a61625ec20091823e9f241e9b8fda006f4c746f53329eda0b8b41aadcb1",
+  "model": "gpt-41"
+}

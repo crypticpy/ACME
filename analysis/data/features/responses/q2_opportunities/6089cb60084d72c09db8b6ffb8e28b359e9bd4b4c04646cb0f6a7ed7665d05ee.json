@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "openness to all types of cultural arts or entertainment",
+    "lack of specific preference"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Any of them"
+  ],
+  "intent": "general_interest",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:26:54.163382",
+  "cache_key": "6089cb60084d72c09db8b6ffb8e28b359e9bd4b4c04646cb0f6a7ed7665d05ee",
+  "model": "gpt-41"
+}

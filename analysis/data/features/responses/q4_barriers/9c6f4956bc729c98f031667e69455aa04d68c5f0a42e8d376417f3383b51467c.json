@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "political barriers to access",
+    "lack of venue availability",
+    "insufficient physical space",
+    "funding challenges",
+    "marketing and outreach limitations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "politics",
+    "access to venues",
+    "space",
+    "funds",
+    "marketing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "politics",
+    "access to venues",
+    "space",
+    "funds",
+    "marketing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:06.223034",
+  "cache_key": "9c6f4956bc729c98f031667e69455aa04d68c5f0a42e8d376417f3383b51467c",
+  "model": "gpt-41"
+}

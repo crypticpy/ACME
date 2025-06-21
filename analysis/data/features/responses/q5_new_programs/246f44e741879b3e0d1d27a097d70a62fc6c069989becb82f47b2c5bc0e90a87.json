@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant writing support",
+    "access to physical space for arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grant writing programs",
+    "programming to assist with procuring physical space for arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing support",
+    "difficulty procuring physical space for arts organizations"
+  ],
+  "solutions_proposed": [
+    "Offer grant writing programs",
+    "Provide programming to assist with procuring physical space for arts organizations"
+  ],
+  "cached_at": "2025-06-21T01:53:55.029484",
+  "cache_key": "246f44e741879b3e0d1d27a097d70a62fc6c069989becb82f47b2c5bc0e90a87",
+  "model": "gpt-41"
+}

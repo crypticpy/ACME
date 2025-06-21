@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Alignment with state-level best practices",
+    "Application process simplification",
+    "Eligibility restrictions to arts nonprofits",
+    "Opposition to funding for for-profit and non-arts organizations",
+    "Focus on artistic merit and community service"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Align with best practices such as Texas Commission on the Arts",
+    "Simplify the applications",
+    "remove the questions that have nothing to do with artistic practice, production history, budget and other tangibles",
+    "restrict eligibility to arts-specific nonprofits",
+    "not enough funding to help people build for-profit businesses",
+    "Center art and service to the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Texas Commission on the Arts"
+  ],
+  "barriers_identified": [
+    "Application questions unrelated to artistic practice, production history, or budget",
+    "Eligibility of for-profit businesses and non-arts organizations diluting funding"
+  ],
+  "solutions_proposed": [
+    "Align with best practices such as Texas Commission on the Arts",
+    "Simplify the applications",
+    "Remove irrelevant application questions",
+    "Restrict eligibility to arts-specific nonprofits",
+    "Center art and service to the community"
+  ],
+  "cached_at": "2025-06-21T01:01:05.002092",
+  "cache_key": "d860c474129759a4fa0893cecf773682f2a3353f753b14e760d5b91d605a6300",
+  "model": "gpt-41"
+}

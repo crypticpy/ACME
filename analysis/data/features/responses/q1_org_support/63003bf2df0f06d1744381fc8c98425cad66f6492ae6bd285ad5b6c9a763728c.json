@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Communication"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of communication"
+  ],
+  "solutions_proposed": [
+    "improve communication"
+  ],
+  "cached_at": "2025-06-20T10:28:10.392186",
+  "cache_key": "63003bf2df0f06d1744381fc8c98425cad66f6492ae6bd285ad5b6c9a763728c",
+  "model": "gpt-41"
+}

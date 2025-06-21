@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art initiatives",
+    "mosaic murals",
+    "benchmarking with other cities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Mosiac public mural",
+    "Look at san antonio"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Implement mosaic public murals",
+    "Use San Antonio as a reference or model"
+  ],
+  "cached_at": "2025-06-21T02:18:59.229192",
+  "cache_key": "31244cff276ce102027ec0778a5b4996eb3f256ae2c7082e41539b9c08beacd2",
+  "model": "gpt-41"
+}

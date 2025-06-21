@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "guidance for organizations and leaders",
+    "funding opportunities beyond the City of Austin",
+    "organizational sustainability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Provide them with guidance",
+    "opportunities for funding outside of the City of Austin",
+    "develop some form of sustainability"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding sources within the City of Austin"
+  ],
+  "solutions_proposed": [
+    "provide guidance and opportunities for funding outside of the City of Austin"
+  ],
+  "cached_at": "2025-06-20T01:21:21.632542",
+  "cache_key": "7ffb0d06304aab99fee40763863b470f800bb2cd3e2d07b80140175ecb8d67c0",
+  "model": "gpt-41"
+}

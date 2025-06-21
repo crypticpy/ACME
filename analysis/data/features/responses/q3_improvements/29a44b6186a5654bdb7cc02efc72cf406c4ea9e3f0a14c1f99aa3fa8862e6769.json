@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "redirecting tourism-related revenue to cultural funding",
+    "inclusion of AirBnB owners in tax base",
+    "support for underrepresented musicians (female & over 40+)",
+    "career development and administrative support for musicians",
+    "critique of 'pay-to-play' practices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Apply more money from ACL, SXSW, & tourist hotel tax",
+    "include those AirBnB in-town owners",
+    "fund musicians (female & over 40+)",
+    "offer guidance for kickstarting careers",
+    "admin, legal",
+    "limiting the 'pay-to-play' attitude"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACL",
+    "SXSW"
+  ],
+  "barriers_identified": [
+    "'pay-to-play' attitude",
+    "lack of administrative and legal guidance",
+    "insufficient funding for underrepresented musicians"
+  ],
+  "solutions_proposed": [
+    "Apply more money from ACL, SXSW, & tourist hotel tax",
+    "include AirBnB in-town owners in tax base",
+    "fund programs for female & over 40+ musicians",
+    "offer guidance for kickstarting careers",
+    "provide administrative and legal support",
+    "limit 'pay-to-play' practices"
+  ],
+  "cached_at": "2025-06-21T01:11:29.802833",
+  "cache_key": "29a44b6186a5654bdb7cc02efc72cf406c4ea9e3f0a14c1f99aa3fa8862e6769",
+  "model": "gpt-41"
+}

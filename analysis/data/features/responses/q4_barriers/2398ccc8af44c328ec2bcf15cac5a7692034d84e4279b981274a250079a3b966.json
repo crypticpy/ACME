@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "competitive funding environment",
+    "limited access to financial support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "FUNDING IS COMPETITIVE"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competitive funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:29.081512",
+  "cache_key": "2398ccc8af44c328ec2bcf15cac5a7692034d84e4279b981274a250079a3b966",
+  "model": "gpt-41"
+}

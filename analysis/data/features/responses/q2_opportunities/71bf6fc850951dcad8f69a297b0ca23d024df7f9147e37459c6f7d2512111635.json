@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "enthusiasm for cultural offerings",
+    "desire for more cultural events",
+    "broad support for arts and entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I will take it all!",
+    "Just keep it coming!"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:47:23.432672",
+  "cache_key": "71bf6fc850951dcad8f69a297b0ca23d024df7f9147e37459c6f7d2512111635",
+  "model": "gpt-41"
+}

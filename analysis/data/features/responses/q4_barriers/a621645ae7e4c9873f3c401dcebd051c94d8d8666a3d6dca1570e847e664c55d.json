@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "stagnant musician pay",
+    "rising cost of living",
+    "economic challenges for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Musicians are still getting paid what they\u2019ve gotten paid 10 years ago",
+    "prices of rent and food keeps going up"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "musician pay not increasing with cost of living",
+    "increased rent and food prices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:15.836915",
+  "cache_key": "a621645ae7e4c9873f3c401dcebd051c94d8d8666a3d6dca1570e847e664c55d",
+  "model": "gpt-41"
+}

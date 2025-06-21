@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "clarification of eligibility rules",
+    "concern about participation restrictions",
+    "communication about grant and focus group processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "if we are planning to apply for the cultural arts grants for FY2025-2026, we are not eligible to be part of the ACME focus groups, is this correct?",
+    "I read in a message",
+    "Thank you!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "cultural arts grants",
+    "ACME focus groups"
+  ],
+  "barriers_identified": [
+    "ineligibility to participate in focus groups if applying for grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:10:05.081531",
+  "cache_key": "efcdf3d295c67d9a3a4a0cf3a8a27e45a53c9635e0995651d3123c49fa6b9c60",
+  "model": "gpt-41"
+}

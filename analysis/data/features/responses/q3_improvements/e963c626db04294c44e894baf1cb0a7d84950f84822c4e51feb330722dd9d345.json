@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in funding process",
+    "insufficient communication of results",
+    "language accessibility and cultural sensitivity",
+    "underrepresentation of certain communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Transparency in the process",
+    "The unrepresented community lacks knowledge",
+    "informative session on the Nexus grant in Spanish",
+    "presenter's lack of proficiency in Spanish was offensive",
+    "a chart with results doesn't provide an apparent reason"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus grant"
+  ],
+  "barriers_identified": [
+    "lack of transparency in process and results",
+    "language barriers in outreach sessions",
+    "insufficient explanation for project selection decisions",
+    "offensive lack of language proficiency by presenters"
+  ],
+  "solutions_proposed": [
+    "improve transparency in process and results",
+    "provide clear reasons for project selection or rejection",
+    "ensure presenters are proficient in the language of the session"
+  ],
+  "cached_at": "2025-06-21T01:03:33.475138",
+  "cache_key": "e963c626db04294c44e894baf1cb0a7d84950f84822c4e51feb330722dd9d345",
+  "model": "gpt-41"
+}

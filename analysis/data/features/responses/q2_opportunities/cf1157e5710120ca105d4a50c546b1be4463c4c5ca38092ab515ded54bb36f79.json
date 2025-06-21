@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Desire for more Black cultural events",
+    "Need for high-profile Black creatives",
+    "Preference for large-scale indoor Black events",
+    "Representation of African culture",
+    "Frustration with outdoor-only event formats"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Black events",
+    "More A list Black creatives",
+    "Large scale Black events (inside)",
+    "why is everything outside???",
+    "African representative events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of indoor large-scale Black events",
+    "Limited representation of Black and African culture",
+    "Overreliance on outdoor event formats"
+  ],
+  "solutions_proposed": [
+    "Host more large-scale Black events indoors",
+    "Feature more A list Black creatives",
+    "Increase African representative events"
+  ],
+  "cached_at": "2025-06-21T00:44:38.683670",
+  "cache_key": "cf1157e5710120ca105d4a50c546b1be4463c4c5ca38092ab515ded54bb36f79",
+  "model": "gpt-41"
+}

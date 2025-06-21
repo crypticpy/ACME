@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability challenges",
+    "high cost of living",
+    "expense of creative spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Cost of living",
+    "cost of venues/studios/theatres"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living",
+    "cost of venues",
+    "cost of studios",
+    "cost of theatres"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:05.236264",
+  "cache_key": "dc9d211f3bf393c5615588047e980a2ad1d5d2072cf71b0adaf53d562f875598",
+  "model": "gpt-41"
+}

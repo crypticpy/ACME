@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of awareness of ACME's offerings",
+    "artist displacement due to high living costs",
+    "desire for more local working artists",
+    "concern about artists commuting from outside Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "don't have a strong enough awareness of all that ACME covers",
+    "want to see more working artists living in this town",
+    "not driving in from Elgin or Bastrop or Lockhart",
+    "they've been kicked out by high costs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high costs driving artists out of Austin",
+    "lack of awareness of ACME's programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:52:13.644189",
+  "cache_key": "4d9e5a4aa61179f1c0ebe393ead1b6e7a71b0ca1d7a19e8da3ff787135ddf18f",
+  "model": "gpt-41"
+}

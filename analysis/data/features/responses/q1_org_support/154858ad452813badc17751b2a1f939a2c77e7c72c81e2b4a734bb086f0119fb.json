@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "occupancy assistance for creatives",
+    "activation of vacant spaces",
+    "landlord engagement and incentives",
+    "alternative support beyond direct funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "expand funding programs for occupancy assistance",
+    "connecting creatives with landlords of vacant spaces",
+    "activated for a pop-up or short-term installation",
+    "incentivizing landlords to allow this type of activity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CSAP"
+  ],
+  "barriers_identified": [
+    "lack of access to affordable or available spaces for creatives",
+    "limited landlord participation in cultural activities"
+  ],
+  "solutions_proposed": [
+    "connect creatives with landlords of vacant spaces",
+    "activate vacant spaces for pop-up or short-term installations",
+    "incentivize landlords to allow creative activities"
+  ],
+  "cached_at": "2025-06-20T10:29:31.417706",
+  "cache_key": "154858ad452813badc17751b2a1f939a2c77e7c72c81e2b4a734bb086f0119fb",
+  "model": "gpt-41"
+}

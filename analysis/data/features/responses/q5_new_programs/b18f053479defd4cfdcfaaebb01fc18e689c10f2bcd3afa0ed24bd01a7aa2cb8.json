@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "underrepresentation of Black Theater",
+    "need for culturally specific programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Black Theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Black Theater"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer Black Theater programs"
+  ],
+  "cached_at": "2025-06-21T02:06:53.328655",
+  "cache_key": "b18f053479defd4cfdcfaaebb01fc18e689c10f2bcd3afa0ed24bd01a7aa2cb8",
+  "model": "gpt-41"
+}

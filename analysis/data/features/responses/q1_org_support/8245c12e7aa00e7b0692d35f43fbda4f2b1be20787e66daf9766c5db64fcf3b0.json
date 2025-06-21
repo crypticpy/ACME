@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "differentiated funding based on organizational need",
+    "dependency on city funding",
+    "encouraging organizational growth and diversification",
+    "rewarding flexibility and responsiveness",
+    "funding allocation fairness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Do they have existing multiple and diverse revenue streams?",
+    "Maybe they don't need the City so much.",
+    "Have they gotten large sums from the City for 5+ years in a row and still rely mostly on City money",
+    "Maybe they've had their turn and need to pivot by using their momentum to grow their programming and development work outside of City funding.",
+    "Are they receiving funding that makes up less than 1/3 of their revenue and continue to get awards from the City based on new work and serving new communities?",
+    "Let's show them their flexibility and responsiveness is something Austin wants to be known for and keep funding them in reasonable amounts."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "over-reliance on City funding",
+    "lack of incentive to diversify revenue streams"
+  ],
+  "solutions_proposed": [
+    "Assess organizations' existing revenue diversity before allocating funding",
+    "Encourage long-term recipients to seek funding outside of City sources",
+    "Reward organizations that demonstrate flexibility, responsiveness, and service to new communities with continued reasonable funding"
+  ],
+  "cached_at": "2025-06-20T10:32:20.158922",
+  "cache_key": "8245c12e7aa00e7b0692d35f43fbda4f2b1be20787e66daf9766c5db64fcf3b0",
+  "model": "gpt-41"
+}

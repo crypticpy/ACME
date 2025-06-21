@@ -1,0 +1,19 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "No, thanks for doing the survey."
+  ],
+  "intent": "acknowledgement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:07.835690",
+  "cache_key": "6af60ab9b58e3f96a2e7a6fd1bd7c7448bf026aa805a4e0479d33f59a5cbb974",
+  "model": "gpt-41"
+}

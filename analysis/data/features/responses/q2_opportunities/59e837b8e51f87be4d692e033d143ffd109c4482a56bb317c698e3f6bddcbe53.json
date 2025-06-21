@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased city-supported arts events",
+    "role of municipal government in arts funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more arts events",
+    "supported by the City of Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase city support for arts events"
+  ],
+  "cached_at": "2025-06-21T00:44:00.613426",
+  "cache_key": "59e837b8e51f87be4d692e033d143ffd109c4482a56bb317c698e3f6bddcbe53",
+  "model": "gpt-41"
+}

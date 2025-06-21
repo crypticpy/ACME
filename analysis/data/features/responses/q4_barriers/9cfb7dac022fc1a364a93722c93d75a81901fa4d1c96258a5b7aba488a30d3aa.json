@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "government funding cuts",
+    "reduced access to art resources",
+    "impact on individual participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "the government has reduced the funds for a lot of art programs",
+    "preventing individuals from accessing resources"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reduced government funding for art programs",
+    "limited access to resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:43.338051",
+  "cache_key": "9cfb7dac022fc1a364a93722c93d75a81901fa4d1c96258a5b7aba488a30d3aa",
+  "model": "gpt-41"
+}

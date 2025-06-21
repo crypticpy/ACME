@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of understanding of application process",
+    "unclear intentions behind support/services",
+    "accessibility challenges in application"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "lack of the understanding about the process",
+    "intention and accessibility of the application"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of understanding about the application process",
+    "unclear intention of the application",
+    "accessibility of the application"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:33.505822",
+  "cache_key": "97e2255d07337e265f186182b47447705077d967c127d1cef2d84c3a14daa598",
+  "model": "gpt-41"
+}

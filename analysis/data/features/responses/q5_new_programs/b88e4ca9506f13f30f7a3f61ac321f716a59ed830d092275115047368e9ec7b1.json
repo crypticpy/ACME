@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public transit as a solution to accessibility",
+    "accessibility challenges for cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Better public transit",
+    "address a lot of our accessibility problems"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "accessibility problems"
+  ],
+  "solutions_proposed": [
+    "Better public transit"
+  ],
+  "cached_at": "2025-06-21T01:50:00.872872",
+  "cache_key": "b88e4ca9506f13f30f7a3f61ac321f716a59ed830d092275115047368e9ec7b1",
+  "model": "gpt-41"
+}

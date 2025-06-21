@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "advocacy for arts and culture",
+    "importance of community well-being",
+    "need for organizational support",
+    "role of arts in fostering understanding and creativity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Listen to their concerns and take action",
+    "we need people in our corner to help advocate",
+    "arts and cultural experiences have on our community's well-being",
+    "events bring people together",
+    "fosters understanding, idea sharing, and creativity",
+    "Supporting the organizations that are committed to fostering love and community is vital"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Listen to their concerns",
+    "take action",
+    "help advocate for the impact that arts and cultural experiences have",
+    "support organizations committed to fostering love and community"
+  ],
+  "cached_at": "2025-06-20T10:27:14.029486",
+  "cache_key": "a0cce5b2f428af450e9aa9f0ca65768a0c37d4ed028643cf1da54b8507d6f45d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased public art",
+    "youth-focused expressive art programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More public art",
+    "expressive art programs for youth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More public art",
+    "expressive art programs for youth"
+  ],
+  "cached_at": "2025-06-21T00:36:58.064055",
+  "cache_key": "6de0159ee1b13fb2ce54edf2efb28890c95af313e78f47bec8646ea223b05797",
+  "model": "gpt-41"
+}

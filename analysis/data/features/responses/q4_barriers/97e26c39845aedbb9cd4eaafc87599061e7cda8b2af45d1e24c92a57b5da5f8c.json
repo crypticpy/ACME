@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of music production",
+    "financial barriers for artists",
+    "need for shared creative infrastructure",
+    "resource allocation for marketing"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Creating music is so expensive",
+    "Creating music videos is so expensive",
+    "build a community workspace for artists",
+    "spend thousands that could be used better for marketing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of creating music",
+    "high cost of creating music videos"
+  ],
+  "solutions_proposed": [
+    "build a community workspace for artists"
+  ],
+  "cached_at": "2025-06-21T01:24:51.346587",
+  "cache_key": "97e26c39845aedbb9cd4eaafc87599061e7cda8b2af45d1e24c92a57b5da5f8c",
+  "model": "gpt-41"
+}

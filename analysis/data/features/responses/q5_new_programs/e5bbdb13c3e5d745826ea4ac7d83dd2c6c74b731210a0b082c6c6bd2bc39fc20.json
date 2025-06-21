@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient financial support for living artists",
+    "need for fair compensation in public works",
+    "artist sacrifice and undervaluation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more living artists supported and celebrated",
+    "employed at cost-of-living wages",
+    "currently a sacrifice for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists not paid cost-of-living wages",
+    "public works are a sacrifice for artists"
+  ],
+  "solutions_proposed": [
+    "employ living artists at cost-of-living wages for public works"
+  ],
+  "cached_at": "2025-06-21T02:01:01.275910",
+  "cache_key": "e5bbdb13c3e5d745826ea4ac7d83dd2c6c74b731210a0b082c6c6bd2bc39fc20",
+  "model": "gpt-41"
+}

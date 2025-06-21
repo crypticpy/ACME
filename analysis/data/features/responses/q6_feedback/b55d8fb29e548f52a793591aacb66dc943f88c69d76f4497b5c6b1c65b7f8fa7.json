@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inequitable treatment of dancers compared to musicians",
+    "lack of professional recognition for dancers",
+    "disparity in protections and support between art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "dancers treated like musicians",
+    "protection and guaranteed support",
+    "dancers are often over looked as professionals"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dancers are often over looked as professionals",
+    "lack of protection and guaranteed support for dancers"
+  ],
+  "solutions_proposed": [
+    "treat dancers like musicians",
+    "provide dancers with protection and guaranteed support"
+  ],
+  "cached_at": "2025-06-21T02:12:08.048650",
+  "cache_key": "b55d8fb29e548f52a793591aacb66dc943f88c69d76f4497b5c6b1c65b7f8fa7",
+  "model": "gpt-41"
+}

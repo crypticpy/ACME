@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable funding distribution",
+    "support for both large and small organizations",
+    "broad access to funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Provide funding opportunities",
+    "all art organizations in Austin",
+    "large and small"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding access for some organizations"
+  ],
+  "solutions_proposed": [
+    "Provide funding opportunities to all art organizations in Austin--large and small"
+  ],
+  "cached_at": "2025-06-21T01:53:51.219811",
+  "cache_key": "ecd5369922b1f1dddb45e8ea35605427f31e1c958c5464df3ab1025504f1d852",
+  "model": "gpt-41"
+}

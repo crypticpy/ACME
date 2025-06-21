@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live performances",
+    "interest in performing arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Live performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more live performances"
+  ],
+  "cached_at": "2025-06-21T00:26:10.261930",
+  "cache_key": "99624bf764f1d2f516c9fe9634f32b252d1d24fd11873e30014a2cf6513b339b",
+  "model": "gpt-41"
+}

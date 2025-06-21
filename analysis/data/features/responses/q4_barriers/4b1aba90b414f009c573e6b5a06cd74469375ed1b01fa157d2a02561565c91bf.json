@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical distance as a barrier",
+    "informational barriers due to geography",
+    "cultural disconnect despite proximity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Distance from Austin is a physical barrier",
+    "it can also be an informational barrier",
+    "We're not THAT far out",
+    "culturally it can feel like it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "physical distance from Austin",
+    "informational barriers related to location",
+    "perceived cultural distance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:36.480398",
+  "cache_key": "4b1aba90b414f009c573e6b5a06cd74469375ed1b01fa157d2a02561565c91bf",
+  "model": "gpt-41"
+}

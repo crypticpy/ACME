@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising cost of living in Austin",
+    "declining profitability of the music business",
+    "economic barriers to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cost of living in Austin",
+    "music business becomes less and less lucrative"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living in Austin",
+    "music business becoming less lucrative"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:23.157066",
+  "cache_key": "ed954a45d6c737c8128193c5330bf97987afc0a34415ff1285dd28e1a2eac8f8",
+  "model": "gpt-41"
+}

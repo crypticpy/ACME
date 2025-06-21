@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding opportunities",
+    "non-monetary support (city buildings)",
+    "capacity building/training",
+    "community-driven support (asking directly)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Provide funding opps",
+    "non monetary support such as access to city buildings",
+    "training on artist/creative small business development",
+    "ask them directly how they want to be supported"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding opportunities",
+    "limited access to city buildings",
+    "insufficient training for artist/creative small business development",
+    "lack of direct consultation with organizations and leaders"
+  ],
+  "solutions_proposed": [
+    "Provide funding opportunities",
+    "Offer non-monetary support such as access to city buildings",
+    "Provide training on artist/creative small business development",
+    "Ask organizations and leaders directly how they want to be supported"
+  ],
+  "cached_at": "2025-06-20T01:14:06.224890",
+  "cache_key": "0e794c1378b3d6e255c547be10e0d4ea6160c8dff3cad87196735cbc5004f73b",
+  "model": "gpt-41"
+}

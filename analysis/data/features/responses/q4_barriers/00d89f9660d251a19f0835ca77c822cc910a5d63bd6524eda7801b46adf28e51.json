@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived reverse discrimination in funding",
+    "self-reliance due to exclusion",
+    "desire for recognition as a white artist",
+    "cultural preservation values",
+    "feelings of discouragement and marginalization"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "i see the reverse",
+    "these programs that would not choose me because I am white",
+    "so I do my own thing",
+    "it would be nice to be seen too",
+    "hugely believe in cultural preservation",
+    "Maybe Its time I quit as an artist and just support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived exclusion from programs due to being white",
+    "lack of recognition for white artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:29.137850",
+  "cache_key": "00d89f9660d251a19f0835ca77c822cc910a5d63bd6524eda7801b46adf28e51",
+  "model": "gpt-41"
+}

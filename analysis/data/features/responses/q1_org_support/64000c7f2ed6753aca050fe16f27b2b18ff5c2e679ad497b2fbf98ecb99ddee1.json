@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for specific cultural organizations",
+    "preservation of cultural knowledge through dance",
+    "community accessibility to cultural knowledge"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding for specific dance organizations",
+    "preserve cultural knowledge",
+    "like Oro Dance Company",
+    "making that knowledge accessible for the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro Dance Company"
+  ],
+  "barriers_identified": [
+    "lack of funding for specific organizations"
+  ],
+  "solutions_proposed": [
+    "Provide funding for specific dance organizations that preserve cultural knowledge"
+  ],
+  "cached_at": "2025-06-20T10:38:06.593671",
+  "cache_key": "64000c7f2ed6753aca050fe16f27b2b18ff5c2e679ad497b2fbf98ecb99ddee1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in olfactory/scent-based art",
+    "desire for sensory diversity in cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Scent and olfactory art focused programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Scent and olfactory art focused programs"
+  ],
+  "cached_at": "2025-06-21T00:31:33.333028",
+  "cache_key": "7ac1a2b7adf3d6748998c9251cbfd8e82fcb5b0d81a7e8a3b53c4603065eaa1c",
+  "model": "gpt-41"
+}

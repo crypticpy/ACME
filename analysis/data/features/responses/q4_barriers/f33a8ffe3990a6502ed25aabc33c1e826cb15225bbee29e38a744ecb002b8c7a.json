@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "information gaps",
+    "awareness barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Lack of knowledge"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of knowledge"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:26.965259",
+  "cache_key": "f33a8ffe3990a6502ed25aabc33c1e826cb15225bbee29e38a744ecb002b8c7a",
+  "model": "gpt-41"
+}

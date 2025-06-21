@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "panel review process challenges",
+    "need for improved panelist training",
+    "panelist workload and time constraints",
+    "positive feedback on Thrive changes for AAPI community",
+    "historical underfunding of AAPI organizations",
+    "effectiveness of rubric and training materials"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "improvements made to the panel review process",
+    "a longer training may be needed for panelists",
+    "incorporate the ability to respond to 1-2 questions from the panelists",
+    "reduce the amount of applications they have to review in such a short time",
+    "definitely a tough and time consuming job",
+    "as an Asian American arts nonprofit leader",
+    "supportive of the community work I'm doing for the AAPI community",
+    "historically and continues to be underfunded by wide margins in Austin",
+    "the Rubric is fantastic",
+    "the rubric and the training materials I often utilized helped me to stay on track and keep consistent when scoring"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "panelist workload and time constraints",
+    "historical underfunding of AAPI community organizations"
+  ],
+  "solutions_proposed": [
+    "longer training for panelists",
+    "incorporate the ability for applicants to respond to 1-2 questions from panelists",
+    "reduce the amount of applications panelists have to review in a short time"
+  ],
+  "cached_at": "2025-06-21T00:56:56.860463",
+  "cache_key": "6700211fdd781025a145b4cd7f3853f036426db042dceae57199e0ff623cd554",
+  "model": "gpt-41"
+}

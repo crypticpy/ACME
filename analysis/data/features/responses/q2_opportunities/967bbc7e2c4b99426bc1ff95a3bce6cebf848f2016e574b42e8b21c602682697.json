@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more public art museums",
+    "interest in dance events",
+    "suggestion for seasonal markets with food, performance, and artisans",
+    "highlighting and supporting emerging artists and musicians",
+    "networking opportunities and festivals for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Public art museums!",
+    "Dance events!",
+    "winter market similar to the day of the dead event",
+    "food, performance, and artisans",
+    "highlighting events for emerging artists and musicians",
+    "networking events or festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create more public art museums",
+    "Host more dance events",
+    "Organize seasonal markets with food, performance, and artisans (e.g., winter and spring)",
+    "Highlight events for emerging artists and musicians",
+    "Facilitate networking events or festivals for artists and musicians"
+  ],
+  "cached_at": "2025-06-21T00:40:39.651866",
+  "cache_key": "967bbc7e2c4b99426bc1ff95a3bce6cebf848f2016e574b42e8b21c602682697",
+  "model": "gpt-41"
+}

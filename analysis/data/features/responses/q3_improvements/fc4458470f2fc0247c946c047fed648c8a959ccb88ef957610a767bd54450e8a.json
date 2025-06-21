@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach",
+    "awareness of cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "More outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "more outreach"
+  ],
+  "cached_at": "2025-06-21T00:58:41.079432",
+  "cache_key": "fc4458470f2fc0247c946c047fed648c8a959ccb88ef957610a767bd54450e8a",
+  "model": "gpt-41"
+}

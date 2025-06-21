@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for culturally specific programs",
+    "expanding activity offerings for women",
+    "importance of funding for participation",
+    "diversity of activities (rowing, fencing, hiking, camping)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support to programs like Black Women Who",
+    "helps women of all ages try different activities",
+    "Better funding will introduce more activities and more participation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Black Women Who"
+  ],
+  "barriers_identified": [
+    "insufficient funding limits activities and participation"
+  ],
+  "solutions_proposed": [
+    "provide better funding to programs like Black Women Who"
+  ],
+  "cached_at": "2025-06-21T02:05:59.240730",
+  "cache_key": "60de364a9b75bb4caddeb0efdcc9202a356228543bf0b19c20bcec5af6868574",
+  "model": "gpt-41"
+}

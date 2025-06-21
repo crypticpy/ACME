@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived inequity between applicant types in Elevate",
+    "Negative impact of new funding structure on organizations",
+    "Lack of transparency and selective community input in program design",
+    "Concerns about overemphasis on accessibility and equity",
+    "Organizational closures due to funding loss",
+    "Preference for previous funding system"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Elevate, currently is a dumping ground for applicants",
+    "non-profit organizations compete against for profit businesses and individual artists",
+    "the system that worked for 25 years was much better",
+    "structure that was designed behind closed doors with selective community input",
+    "if all of the focus is put on accessibility and equity, you will see organizational doors close",
+    "the way it has been handled has been divisive and alienating"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elevate",
+    "Thrive",
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "Competition between fundamentally different applicant types (non-profits, for-profits, individual artists)",
+    "Lack of transparency in program design",
+    "Divisive implementation of equity and accessibility goals",
+    "Loss of funding leading to organizational closures"
+  ],
+  "solutions_proposed": [
+    "Return to the previous funding system"
+  ],
+  "cached_at": "2025-06-21T00:55:48.247045",
+  "cache_key": "976e53d490e8adf6fd365893e6de8268c6a042b4744affa27867d839668ac693",
+  "model": "gpt-41"
+}

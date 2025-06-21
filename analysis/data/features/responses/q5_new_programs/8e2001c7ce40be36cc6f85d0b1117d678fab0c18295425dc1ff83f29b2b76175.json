@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for satellite centers",
+    "mentorship opportunities",
+    "expanding geographic access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "satellite centers with mentors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of satellite centers",
+    "limited mentorship opportunities"
+  ],
+  "solutions_proposed": [
+    "create satellite centers with mentors"
+  ],
+  "cached_at": "2025-06-21T02:05:13.049907",
+  "cache_key": "8e2001c7ce40be36cc6f85d0b1117d678fab0c18295425dc1ff83f29b2b76175",
+  "model": "gpt-41"
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about large, unsustainable grants",
+    "preference for smaller, growth-oriented funding",
+    "need for sustainability and audience development",
+    "opposition to multiple grants for single organizations",
+    "critique of reliance on HOT fund"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "should not receive $150,000 a year",
+    "no way to sustain themselves after the 2 year duration of the grant",
+    "Better to start with smaller grants",
+    "grow in ways that could endure without enormous infusions of money",
+    "no short-cuts; each group must grow its audience and its donors in a sustainable way",
+    "grants should be limited to 1 per organization",
+    "must not allow single organizations to get 4 or 5 grants in one year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HOT fund"
+  ],
+  "barriers_identified": [
+    "over-reliance on large, short-term grants",
+    "lack of sustainability after grant period",
+    "multiple grants awarded to single organizations"
+  ],
+  "solutions_proposed": [
+    "start with smaller grants",
+    "limit grants to 1 per organization",
+    "encourage audience and donor development for sustainability"
+  ],
+  "cached_at": "2025-06-21T00:58:39.479326",
+  "cache_key": "205dc2d6427a725f13e3c1b0483143a272ffbc79ec1af771df8af03d68aca248",
+  "model": "gpt-41"
+}

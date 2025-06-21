@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for free events",
+    "interest in all-ages programming",
+    "accessibility of cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "free, all ages events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events",
+    "age restrictions"
+  ],
+  "solutions_proposed": [
+    "offer more free events",
+    "provide more all-ages opportunities"
+  ],
+  "cached_at": "2025-06-21T00:30:23.455304",
+  "cache_key": "3f4fe433213cb2daea92e95e65f4d4accb9cc4d56e9b94ffd9a73b2121467596",
+  "model": "gpt-41"
+}

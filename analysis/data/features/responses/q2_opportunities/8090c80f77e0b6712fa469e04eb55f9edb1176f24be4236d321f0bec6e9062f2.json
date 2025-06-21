@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for classical chamber music",
+    "support for muralists",
+    "desire for increased funding or opportunities for specific art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Support Classical chamber music artists and events",
+    "Support Muralists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support Classical chamber music artists and events",
+    "Support Muralists"
+  ],
+  "cached_at": "2025-06-21T00:52:41.086701",
+  "cache_key": "8090c80f77e0b6712fa469e04eb55f9edb1176f24be4236d321f0bec6e9062f2",
+  "model": "gpt-41"
+}

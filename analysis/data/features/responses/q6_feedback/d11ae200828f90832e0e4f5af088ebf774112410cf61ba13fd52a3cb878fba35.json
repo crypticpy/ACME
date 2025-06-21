@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of essential city services over arts funding",
+    "concern about high costs of public art projects",
+    "preference for youth-focused opportunities",
+    "need for funding for public health, education, transportation, and homelessness solutions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I love supporting the arts",
+    "a lot of other concerns facing the city right now that need more funding",
+    "I would rather my tax dollars go towards public health, education, buses, and solutions addressing homelessness",
+    "exorbitant programs for this department",
+    "focusing on opportunities for youth as a service for the community",
+    "holding off on things like more expensive public art works that cost millions of dollars"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived misallocation of tax dollars",
+    "high cost of public art projects"
+  ],
+  "solutions_proposed": [
+    "focus on opportunities for youth as a service for the community",
+    "hold off on more expensive public art works"
+  ],
+  "cached_at": "2025-06-21T02:14:25.736019",
+  "cache_key": "d11ae200828f90832e0e4f5af088ebf774112410cf61ba13fd52a3cb878fba35",
+  "model": "gpt-41"
+}

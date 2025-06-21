@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theater",
+    "need for affordable venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Live theater",
+    "affordable venues are needed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable venues"
+  ],
+  "solutions_proposed": [
+    "provide affordable venues"
+  ],
+  "cached_at": "2025-06-21T00:37:38.561398",
+  "cache_key": "871c0988378c506d6f5498fb8cb25931611166689b624dd5bab4b49d4c1bf101",
+  "model": "gpt-41"
+}

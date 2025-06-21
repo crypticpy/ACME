@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for greater support for emerging artists",
+    "High cost of living in Austin impacting artists",
+    "Lack of dedicated spaces or organizations for emerging artists",
+    "Information accessibility about city programs",
+    "Role of independent galleries and venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "better supports up and coming artists stay afloat",
+    "Austin is an expensive city",
+    "could potentially help Austin pivot in how it shows up for emerging artists",
+    "could not find a space or organization that did this",
+    "independent galleries or venues make an effort",
+    "information should be a bit more accessible for both long term and newer residents"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "High cost of living in Austin",
+    "Lack of dedicated spaces or organizations for emerging artists",
+    "Inaccessible or unclear information about city support"
+  ],
+  "solutions_proposed": [
+    "ACME could help Austin pivot in how it supports emerging artists",
+    "Information should be more accessible for both long term and newer residents"
+  ],
+  "cached_at": "2025-06-21T01:53:27.029246",
+  "cache_key": "146dc685e48a5b0c6d8ff8b78f8a2a7af8377aaa88f45b631f95fc8ab2a3e9dd",
+  "model": "gpt-41"
+}

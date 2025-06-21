@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of Caribbean representation",
+    "desire for more Caribbean art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More Caribbean art",
+    "very little Caribbean representation in the city"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "very little Caribbean representation"
+  ],
+  "solutions_proposed": [
+    "More Caribbean art"
+  ],
+  "cached_at": "2025-06-21T00:45:51.340184",
+  "cache_key": "3de77654428a684c92ddb51a45d95d42d762a7b13ccd77cf3f99fa807279cf7c",
+  "model": "gpt-41"
+}

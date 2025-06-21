@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of local music venues",
+    "need for reinvestment in arts infrastructure",
+    "overdevelopment and underuse of buildings",
+    "lack of diverse, high-quality festivals",
+    "insufficient cultural offerings for non-college demographics",
+    "decline of Texas blues and beloved cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Reinvest in local music venues and art festivals",
+    "stuff Houston does like Italian festival and top notch art festivals",
+    "Stop with the overdevelopment of empty buildings",
+    "Austin is aging but mostly geared to college or east side",
+    "there should be 10 local music spaces on south congress not two",
+    "Unused spaces - there should be lots of high quality places for all the high cost of living and taxes paid",
+    "I don\u2019t see things added I see beloved things disappearing",
+    "Don\u2019t ever let another music place close - the last real blues club just closed",
+    "More Texas blues please"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overdevelopment of empty buildings",
+    "insufficient number of local music venues",
+    "focus on college or east side demographics",
+    "lack of high-quality cultural spaces despite high cost of living"
+  ],
+  "solutions_proposed": [
+    "Reinvest in local music venues and art festivals",
+    "Increase the number of local music spaces on South Congress",
+    "Utilize unused spaces for high-quality cultural venues",
+    "Prevent music venue closures",
+    "Offer more Texas blues events",
+    "Host festivals similar to Houston's Italian festival and top notch art festivals"
+  ],
+  "cached_at": "2025-06-21T00:50:28.722743",
+  "cache_key": "d4f55db252c40604089022f5c550e2fd6ae328c23c3d1f56158e5dba2d8dfb65",
+  "model": "gpt-41"
+}

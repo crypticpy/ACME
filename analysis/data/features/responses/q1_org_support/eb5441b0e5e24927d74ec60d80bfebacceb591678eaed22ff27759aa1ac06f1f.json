@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "expanding funding opportunities",
+    "inclusion of business creatives",
+    "support for nonprofits",
+    "geographic targeting (zip code focus)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "expand funding opportunity",
+    "channel community zip code",
+    "professional business creatives",
+    "nonprofit's"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding opportunities for certain groups"
+  ],
+  "solutions_proposed": [
+    "expand funding opportunity to channel community zip code lock professional business creatives and nonprofit's"
+  ],
+  "cached_at": "2025-06-20T01:17:27.436760",
+  "cache_key": "eb5441b0e5e24927d74ec60d80bfebacceb591678eaed22ff27759aa1ac06f1f",
+  "model": "gpt-41"
+}

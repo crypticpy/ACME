@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration between public and private sectors"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "public and private collaboration"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "public and private collaboration"
+  ],
+  "cached_at": "2025-06-21T02:04:35.287684",
+  "cache_key": "e9c0f1063e56fd96b2efb97333b79be605fe19b34ce6d7ee7418bd8407be7177",
+  "model": "gpt-41"
+}

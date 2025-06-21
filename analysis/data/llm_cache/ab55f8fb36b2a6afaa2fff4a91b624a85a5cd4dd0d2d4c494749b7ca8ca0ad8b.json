@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"greeting\": \"Hello, world!\"\n}\n```",
+  "model": "gpt-4o-2024-08-06",
+  "tokens_used": {
+    "input_tokens": 30,
+    "output_tokens": 16,
+    "total_tokens": 46
+  },
+  "prompt": "Return a simple JSON with a greeting field",
+  "instructions": "You are a helpful assistant. Always return valid JSON.",
+  "temperature": 0.3,
+  "timestamp": "2025-06-19T11:13:25.390086",
+  "cached_at": "2025-06-19T11:13:25.390141",
+  "cache_key": "ab55f8fb36b2a6afaa2fff4a91b624a85a5cd4dd0d2d4c494749b7ca8ca0ad8b"
+}

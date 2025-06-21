@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about arts opportunities",
+    "insufficient investment in arts in schools",
+    "insufficient investment in arts in parks",
+    "need for funding a cultural arts center"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "information and investment in the arts in schools and parks",
+    "funding a cultural arts center"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about arts in schools and parks",
+    "insufficient investment in arts in schools and parks",
+    "lack of a funded cultural arts center"
+  ],
+  "solutions_proposed": [
+    "increase information and investment in the arts in schools and parks",
+    "fund a cultural arts center"
+  ],
+  "cached_at": "2025-06-21T01:39:05.213056",
+  "cache_key": "bbbd81a837df0c9e0efa17cd1dab41ffd9672fdeb0288fb598d82f56e3e60e20",
+  "model": "gpt-41"
+}

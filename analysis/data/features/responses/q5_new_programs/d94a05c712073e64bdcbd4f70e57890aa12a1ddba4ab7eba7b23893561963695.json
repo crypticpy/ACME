@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Recognition of long-standing local musicians",
+    "Highlighting musical families in Austin",
+    "Geographic focus on East Austin and Montopolis"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Local Austin musicians current and those who have been around for a very long time",
+    "family of musicians who have been around for a very long time",
+    "several from East Austin and Montopolis area"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer programs or services that recognize and support long-standing local musicians and musical families, especially from East Austin and Montopolis"
+  ],
+  "cached_at": "2025-06-21T02:08:10.899155",
+  "cache_key": "d94a05c712073e64bdcbd4f70e57890aa12a1ddba4ab7eba7b23893561963695",
+  "model": "gpt-41"
+}

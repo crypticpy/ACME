@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased presentation of heritage arts",
+    "need for artist and venue connection",
+    "centralized listing of local artists",
+    "packaging artists for statewide shows"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more presentation of heritage arts, such as music",
+    "a way to connect to venues",
+    "a list of local artists--music or visual",
+    "offered as a package or mixed and matched to offer shows to presenters around the state"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Texas Music Office Touring Roster"
+  ],
+  "barriers_identified": [
+    "lack of connection between artists and venues",
+    "absence of a centralized list of local artists"
+  ],
+  "solutions_proposed": [
+    "create a list of local artists similar to the Texas Music Office Touring Roster",
+    "develop a system to connect artists to venues",
+    "offer artists as packages or mix-and-match options for presenters"
+  ],
+  "cached_at": "2025-06-21T00:38:38.902270",
+  "cache_key": "59dedec6666d5face0ef7ff6566ce8233208713674e0e0da32f8f3e9b2c3e46e",
+  "model": "gpt-41"
+}

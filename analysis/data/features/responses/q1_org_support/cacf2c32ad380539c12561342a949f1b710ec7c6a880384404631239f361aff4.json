@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic concentration of cultural resources downtown",
+    "lack of affordable and accessible venues citywide",
+    "neglect of non-downtown neighborhoods",
+    "impact of broader quality of life issues (homelessness, substance abuse, affordability, crime) on the arts",
+    "struggles of artists due to local conditions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "City concentration on downtown and specific areas",
+    "Austin is not the live music Capitol of the world, when it isn't found throughout the city",
+    "leaving most of Austin to be ignored",
+    "focus more, in general, on quality of life issues such as homelessness, substance abuse, affordability, and prosecution of petty crime",
+    "struggling artists struggle more because of being here"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable venues",
+    "lack of accessible venues",
+    "concentration of resources downtown",
+    "neglect of most of Austin",
+    "quality of life issues (homelessness, substance abuse, affordability, petty crime)"
+  ],
+  "solutions_proposed": [
+    "focus more on quality of life issues such as homelessness, substance abuse, affordability, and prosecution of petty crime"
+  ],
+  "cached_at": "2025-06-20T10:22:53.417185",
+  "cache_key": "cacf2c32ad380539c12561342a949f1b710ec7c6a880384404631239f361aff4",
+  "model": "gpt-41"
+}

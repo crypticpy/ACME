@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "ongoing communication",
+    "relationship building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Be in constant conversation",
+    "Build relationships"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Be in constant conversation",
+    "Build relationships"
+  ],
+  "cached_at": "2025-06-20T10:24:14.018283",
+  "cache_key": "5b37bf4e110b95e0ddcada798f8e49d5f9f58151c78302fceedad8ebebb0f553",
+  "model": "gpt-41"
+}

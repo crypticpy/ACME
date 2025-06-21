@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "potential delay in cultural funding distribution",
+    "devastating impact on artists and organizations",
+    "importance of consistent financial support",
+    "rising operational costs",
+    "instability of federal funding",
+    "increased demand for culturally responsive programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding for FY25 must not be put on hold and distributed in FY26",
+    "Delaying or pausing cultural funding will have devastating consequences",
+    "artists, organizations, and communities that rely on consistent support to survive and plan ahead",
+    "already grappling with rising costs, unstable federal funding, and increasing demand for culturally responsive programming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential delay or pause in cultural funding",
+    "rising costs",
+    "unstable federal funding",
+    "increasing demand for culturally responsive programming"
+  ],
+  "solutions_proposed": [
+    "Do not delay or pause FY25 cultural funding; distribute on schedule"
+  ],
+  "cached_at": "2025-06-21T02:14:37.150266",
+  "cache_key": "4c25b177f3254f896d33bb654f2fe13ef3ce14a0e82152943dbc92c5fcb4a806",
+  "model": "gpt-41"
+}

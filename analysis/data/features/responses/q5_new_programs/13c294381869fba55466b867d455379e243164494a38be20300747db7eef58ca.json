@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "local ecology prioritization",
+    "concern about tourism impact",
+    "resource allocation preferences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "prioritization of the local ecology",
+    "over tourists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "focus on tourists over local ecology"
+  ],
+  "solutions_proposed": [
+    "prioritize local ecology in programming and services"
+  ],
+  "cached_at": "2025-06-21T01:50:56.905759",
+  "cache_key": "13c294381869fba55466b867d455379e243164494a38be20300747db7eef58ca",
+  "model": "gpt-41"
+}

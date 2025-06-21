@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Exclusion of organizational history in funding rubric",
+    "Lack of nuanced understanding of diversity",
+    "Arbitrary and inconsistent funding decisions",
+    "Marginalization of queer, disabled, and women-focused organizations",
+    "Disproportionate funding cuts to certain identity groups",
+    "Panelist conflicts of interest and lack of expertise"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The newer rubric excludes a history of production as a parameter",
+    "complete lack of nuance in understanding diversity",
+    "arbitrary decisions from frequently uninformed or personally-conflicted panelists",
+    "we were not considered 'diverse' enough to qualify for funding",
+    "companies that have historically been very homogeneously white...granted funding",
+    "definition of diversity...largely excludes queer and disabled artists, and completely excludes organizations focused on women",
+    "city cut arts funding for organizations that were BIPOC by 18-20%, but cut organizations that identified as queer or disabled by 48%",
+    "these types of diversity are not valued by the City of Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Exclusion of organizational history in funding criteria",
+    "Narrow and shifting definitions of diversity",
+    "Arbitrary and subjective panelist decisions",
+    "Panelist conflicts of interest or lack of expertise",
+    "Disproportionate funding cuts to queer, disabled, and women-focused organizations",
+    "Lack of recognition for organizations with sustained diversity efforts"
+  ],
+  "solutions_proposed": [
+    "Restore consideration of organizational history/track record in funding rubric",
+    "Adopt a more nuanced and inclusive definition of diversity",
+    "Ensure panelists are informed and free of conflicts of interest",
+    "Value and recognize sustained diversity efforts, not just recent changes"
+  ],
+  "cached_at": "2025-06-20T01:21:40.643480",
+  "cache_key": "96f84f2aeec526b5fac4f929421b7247d8c44bffac0f2edebd596352d9eb1000",
+  "model": "gpt-41"
+}

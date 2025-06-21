@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking among creative leaders",
+    "peer support in the arts",
+    "dedicated spaces for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "create spaces",
+    "creative leaders get to know each other",
+    "support their art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces for creative leaders to connect"
+  ],
+  "solutions_proposed": [
+    "create spaces where creative leaders get to know each other and support their art"
+  ],
+  "cached_at": "2025-06-21T02:11:32.421520",
+  "cache_key": "7ac817f7b962a40b807dbbcc4889417b93e7c90ef96bb75a5798ca64fae0bf6b",
+  "model": "gpt-41"
+}

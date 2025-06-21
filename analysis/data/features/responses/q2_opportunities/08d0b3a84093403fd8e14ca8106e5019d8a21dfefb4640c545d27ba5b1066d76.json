@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant application scoring fairness",
+    "recognition of proven event organizers",
+    "inefficiency in funding allocation",
+    "critique of current grant policy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "should not have points deducted if the applicants got the grant last year",
+    "that is a lame thing to deduct points",
+    "they actually know how to have a real event and effectively use the grant money",
+    "Do you want to waste money on folks that dont know what they are doing?",
+    "thats the result of this policy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Live Music Grant"
+  ],
+  "barriers_identified": [
+    "points deducted for prior grant recipients"
+  ],
+  "solutions_proposed": [
+    "do not deduct points from applicants who received the grant last year"
+  ],
+  "cached_at": "2025-06-21T00:38:37.037272",
+  "cache_key": "08d0b3a84093403fd8e14ca8106e5019d8a21dfefb4640c545d27ba5b1066d76",
+  "model": "gpt-41"
+}

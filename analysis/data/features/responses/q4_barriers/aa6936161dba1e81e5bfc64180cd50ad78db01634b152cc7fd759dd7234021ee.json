@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of funding",
+    "lack of awareness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funds & awareness"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funds",
+    "lack of awareness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:58.129545",
+  "cache_key": "aa6936161dba1e81e5bfc64180cd50ad78db01634b152cc7fd759dd7234021ee",
+  "model": "gpt-41"
+}

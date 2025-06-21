@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of art and environmental sustainability",
+    "protection and emphasis on local ecology",
+    "expansion of green spaces and native plants",
+    "use of sustainable and natural practices in art",
+    "waste reduction in cultural programming",
+    "adoption of composting and rainwater collection"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "art programming that protects and emphasizes the local ecology",
+    "increases green spaces and native plants",
+    "addresses environmental concerns",
+    "uses sustainable/natural practices",
+    "reduces waste like disposable materials",
+    "utilizes compostela practices",
+    "has rainwater collection and native landscaping practices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "art programming that protects and emphasizes the local ecology",
+    "increasing green spaces and native plants",
+    "addressing environmental concerns through art",
+    "using sustainable and natural practices in programming",
+    "reducing waste such as disposable materials",
+    "utilizing compostela practices",
+    "implementing rainwater collection and native landscaping"
+  ],
+  "cached_at": "2025-06-21T00:25:46.660692",
+  "cache_key": "9d947d9703f36429901b234c8aba465df87dcb314514c74b3b24532242e8e602",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to underrepresented groups",
+    "application participation disparities",
+    "need for connection with non-applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "greater understanding and connection",
+    "groups who do not apply routinely"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection with groups who do not apply routinely"
+  ],
+  "solutions_proposed": [
+    "greater understanding and connection with groups who do not apply routinely"
+  ],
+  "cached_at": "2025-06-21T01:13:42.246555",
+  "cache_key": "c747f26c4f33f324c4dddb43d36ca99c45bcebc01a8781ae7676f7b10b80b82e",
+  "model": "gpt-41"
+}

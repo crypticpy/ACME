@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Shift from organizational to individual funding",
+    "Loss of public service orientation in arts funding",
+    "Critique of current funding priorities",
+    "Advocacy for centering nonprofits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "arts funding got hijacked by the mindset of paying starving 'creatives' directly",
+    "who 'needs' the money",
+    "we have lost the public service premise",
+    "Arts nonprofits are service organizations and should be centered"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Shift away from funding service organizations"
+  ],
+  "solutions_proposed": [
+    "Arts nonprofits should be centered"
+  ],
+  "cached_at": "2025-06-20T10:33:49.547027",
+  "cache_key": "68c1d8f6e28b5a2c78559aa83c277aee2dec33e8d05010184e3d9f9097fc46b5",
+  "model": "gpt-41"
+}

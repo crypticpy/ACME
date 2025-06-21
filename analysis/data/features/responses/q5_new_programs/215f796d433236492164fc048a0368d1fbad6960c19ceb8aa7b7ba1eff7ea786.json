@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more educational programming",
+    "desire for more historical programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more educational and historical programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more educational programming",
+    "offer more historical programming"
+  ],
+  "cached_at": "2025-06-21T01:53:43.419460",
+  "cache_key": "215f796d433236492164fc048a0368d1fbad6960c19ceb8aa7b7ba1eff7ea786",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of understanding of funding programs",
+    "new participant experience"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "I need to understand these funding programs",
+    "I am new to this program"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information or orientation for new participants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:08:14.779723",
+  "cache_key": "400e436cbf18d2545b89dd00df748d8ef61440064a27d5e116758bf7d4fd563b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continuation of assistance",
+    "expansion of opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue to provide assistance",
+    "more opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue to provide assistance",
+    "provide more opportunities"
+  ],
+  "cached_at": "2025-06-21T01:05:49.246986",
+  "cache_key": "02184a9e0652cf03b6635afd46c6a15e782f51b3e03f029bd67ccbc0ad5759ef",
+  "model": "gpt-41"
+}

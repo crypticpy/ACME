@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient engagement with staff",
+    "unclear application criteria",
+    "artists lacking grant writing expertise",
+    "need for increased applicant support",
+    "application barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "limited opportunities to engage with staff to ask questions",
+    "not sure about all of the criteria for applying",
+    "artists are not grant writers and may need more support",
+    "minimize barriers to applying as much as possible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities to engage with staff",
+    "unclear application criteria",
+    "lack of grant writing expertise among artists",
+    "insufficient support for understanding benefits and application process"
+  ],
+  "solutions_proposed": [
+    "minimize barriers to applying as much as possible",
+    "provide more support to artists to understand benefits and to apply"
+  ],
+  "cached_at": "2025-06-21T01:45:14.342411",
+  "cache_key": "838f167bed5fdb1d54b1f717d3584736d29ed37cac3d71b6bd62da028c642613",
+  "model": "gpt-41"
+}

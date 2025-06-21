@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Leadership change and its impact",
+    "Staff accountability for past program failures",
+    "Need for overhaul of AIPP",
+    "Role of public benefit in arts funding",
+    "Partnerships with arts nonprofits for sustainability",
+    "Balancing artist support with public service"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "if the staff that wrecked the programs is still there, change will be hard",
+    "AIPP in particular needs an overhaul",
+    "the City should not serve artists, but by partnering with arts nonprofits, you can sustain and grow jobs for artists while making sure the public has the arts events, classes and exhibits needed for a vibrant, well rounded arts scene",
+    "Glad to see you mention the public, as that is the key"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "Staff responsible for previous program failures remain in place"
+  ],
+  "solutions_proposed": [
+    "Overhaul AIPP",
+    "Partner with arts nonprofits to sustain and grow jobs for artists while ensuring public access to arts events, classes, and exhibits"
+  ],
+  "cached_at": "2025-06-21T02:16:33.400953",
+  "cache_key": "356269f21bdb848a52abdc825184980644fd427f084cff53d6f821ea8fa4244a",
+  "model": "gpt-41"
+}

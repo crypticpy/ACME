@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for application workshops",
+    "insufficient program advertisement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Application Workshops",
+    "increased advertisement of these programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of application workshops",
+    "insufficient advertisement"
+  ],
+  "solutions_proposed": [
+    "offer application workshops",
+    "increase advertisement of programs"
+  ],
+  "cached_at": "2025-06-21T01:13:38.000483",
+  "cache_key": "db4f82f8af25e0cdabdcac970a377f47ba9180bea6c21fe702496e00382da706",
+  "model": "gpt-41"
+}

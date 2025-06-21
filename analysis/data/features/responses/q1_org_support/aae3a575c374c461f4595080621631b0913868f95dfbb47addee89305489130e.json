@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "tailored grant opportunities",
+    "organizational size differences",
+    "current funding landscape challenges",
+    "equitable support for all organization sizes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Ensuring grant opportunities for organizations that meet them where they are",
+    "appropriate for the size of the organization",
+    "small orgs need different kinds of support than medium to large orgs",
+    "they all need grant opportunities in this current funding landscape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "grant opportunities not tailored to organizational size",
+    "one-size-fits-all support not effective"
+  ],
+  "solutions_proposed": [
+    "Ensure grant opportunities are appropriate for the size of the organization",
+    "Provide different kinds of support for small, medium, and large organizations"
+  ],
+  "cached_at": "2025-06-20T10:33:13.560832",
+  "cache_key": "aae3a575c374c461f4595080621631b0913868f95dfbb47addee89305489130e",
+  "model": "gpt-41"
+}

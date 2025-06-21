@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding inequity between large and small venues",
+    "perceived favoritism towards well-known local artists",
+    "concern about industry politics influencing funding",
+    "need for resources to reach those most in need"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding should go to the artists and venues that really could use the money/resources",
+    "not to the larger (live nation run) venues",
+    "the same handful of well known local artists that play into the politics in the industry"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funds going to large, corporate-run venues",
+    "funds concentrated among a small group of well-known artists",
+    "industry politics affecting distribution"
+  ],
+  "solutions_proposed": [
+    "direct funding to artists and venues most in need instead of large venues and repeat recipients"
+  ],
+  "cached_at": "2025-06-21T01:03:37.820969",
+  "cache_key": "d2fa4b1bea85f12e0ee3aab7204e3c365d90d7ab82a240186ec689a2e7dfa462",
+  "model": "gpt-41"
+}

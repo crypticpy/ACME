@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for art creation",
+    "limited resources for community events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Limited funding to create art",
+    "Limited funding to create community events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited funding to create art",
+    "Limited funding to create community events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:31.248503",
+  "cache_key": "128f2f890e059cc5d4970d2d22949fdd48955884cb490ed9c3f5132901425993",
+  "model": "gpt-41"
+}

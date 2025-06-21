@@ -1,0 +1,51 @@
+{
+  "validation_timestamp": "2025-06-19T10:32:05.024312",
+  "results": {
+    "survey": {
+      "is_valid": true,
+      "total_records": 1187,
+      "valid_records": 1187,
+      "issues": [
+        {
+          "type": "duplicate_responses",
+          "count": 1,
+          "severity": "warning"
+        }
+      ],
+      "warnings": [
+        "High rate of short responses in question: 90.0%",
+        "High rate of short responses in question: 97.1%",
+        "High rate of short responses in question: 26.6%"
+      ],
+      "statistics": {
+        "completion_rate": 1.0,
+        "avg_response_length_how_would_you_describe_your_ro": 64.69510135135135,
+        "avg_response_length_what_is_your_preferred_languag": 8.88060965283658,
+        "avg_response_length_what_zip_code_do_you_reside_in": 5.025929127052723,
+        "avg_response_length_what_austin_city_council_distr": 8.947089947089948,
+        "avg_response_length_what_barriers_if_any_prevent_y": 127.39805825242719,
+        "unique_zip_codes": 83,
+        "top_5_zips": {
+          "78745": 96,
+          "78704": 89,
+          "78702": 73,
+          "78723": 69,
+          "78751": 48
+        },
+        "quality_score": 0.9579660413284841
+      }
+    },
+    "working_doc": {
+      "is_valid": true,
+      "total_records": 1395,
+      "valid_records": 1395,
+      "issues": [],
+      "warnings": [],
+      "statistics": {
+        "text_columns": 8,
+        "total_columns": 18,
+        "data_density": 0.8749502190362406
+      }
+    }
+  }
+}

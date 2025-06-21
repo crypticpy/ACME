@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for national and international touring artists",
+    "interest in new plays",
+    "support for immersive theatre experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "National and international touring artists",
+    "New plays",
+    "Immersive theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Bring more national and international touring artists to Austin",
+    "Present more new plays",
+    "Offer more immersive theatre experiences"
+  ],
+  "cached_at": "2025-06-21T00:27:24.199016",
+  "cache_key": "01370628f718b22642303d705790ef76eb94e76d1301d91af5df0e48074cf5b9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event availability threatened by lack of funding",
+    "need for increased funding",
+    "risk of losing cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "events remaining available due to lack of funding",
+    "We need to fund them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for events"
+  ],
+  "solutions_proposed": [
+    "increase funding for events"
+  ],
+  "cached_at": "2025-06-21T01:49:03.205882",
+  "cache_key": "3dc8e30200cd10af0fb730d655b42da4c436118478291785217235bfe9d9a286",
+  "model": "gpt-41"
+}

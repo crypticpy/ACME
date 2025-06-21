@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public funding for the arts",
+    "art in library spaces",
+    "expansion to branch libraries"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "feature more publicly subsidized art",
+    "at the library",
+    "including the branch libraries"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "feature more publicly subsidized art at the library, including the branch libraries"
+  ],
+  "cached_at": "2025-06-21T01:49:55.777028",
+  "cache_key": "ee17d4230362529c451c23f606e43c945015c490dd3ed60a1675a58bd01b1b10",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "enhancing Austin's cultural landscape",
+    "continuity of cultural traditions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more emerging artists",
+    "add to the culture and background",
+    "Austin has created and supported for years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "feature more emerging artists"
+  ],
+  "cached_at": "2025-06-21T00:27:31.615942",
+  "cache_key": "6a07be1a5692a495775d817f0c10b333437efe6346bbdbde68667fff9a546f89",
+  "model": "gpt-41"
+}

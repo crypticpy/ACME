@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial security for artists and cultural workers",
+    "income support",
+    "underrepresentation of basic income programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Basic minimum incomes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of basic income support"
+  ],
+  "solutions_proposed": [
+    "Offer basic minimum incomes"
+  ],
+  "cached_at": "2025-06-21T02:07:10.290991",
+  "cache_key": "157ba57d71cb3d3d64103b264aa106a60fa4941a3845b0cdbf30810fe7906930",
+  "model": "gpt-41"
+}

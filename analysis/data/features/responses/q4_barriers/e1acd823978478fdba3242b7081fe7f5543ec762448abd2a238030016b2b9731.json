@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers",
+    "impact of cost of living on cultural access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Money",
+    "rising costs of living in America"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "money",
+    "rising costs of living"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:42.066801",
+  "cache_key": "e1acd823978478fdba3242b7081fe7f5543ec762448abd2a238030016b2b9731",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of grant opportunities",
+    "artist outreach",
+    "communication of funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More artists to know about these grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness among artists about grants"
+  ],
+  "solutions_proposed": [
+    "Increase outreach so more artists know about these grants"
+  ],
+  "cached_at": "2025-06-21T00:54:48.853078",
+  "cache_key": "32bcc5578b80dbd03c432e5941ca0552736a9e518b1b51daf2533aae2a04ed20",
+  "model": "gpt-41"
+}

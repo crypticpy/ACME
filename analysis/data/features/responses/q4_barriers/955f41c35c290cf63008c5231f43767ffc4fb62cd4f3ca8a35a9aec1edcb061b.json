@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of shows",
+    "perceived risk of attendance",
+    "financial barriers to participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Shows are expensive for lots of folks",
+    "They're seen as a risk so people don't go"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive shows",
+    "perception of risk in attending events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:28.930594",
+  "cache_key": "955f41c35c290cf63008c5231f43767ffc4fb62cd4f3ca8a35a9aec1edcb061b",
+  "model": "gpt-41"
+}

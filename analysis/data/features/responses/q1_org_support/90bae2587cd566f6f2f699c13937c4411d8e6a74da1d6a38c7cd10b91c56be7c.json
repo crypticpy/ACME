@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Return to pre-Covid funding criteria",
+    "Cultural value-driven support",
+    "Alignment with workforce development",
+    "Support for tourism",
+    "Serving a more diverse and urban population",
+    "Sector-specific evaluation metrics"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "return to pre-Covid, cultural-value driven support criteria",
+    "support new workforce development",
+    "support tourism",
+    "support the art and entertainment needs of a much larger, much more diverse and much more urban population of 2026",
+    "creative sector specific metrics",
+    "knowing say a jazzclub would attract different attention than a communityTheater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Current criteria may not address the needs of a more diverse and urban population",
+    "Lack of sector-specific evaluation metrics"
+  ],
+  "solutions_proposed": [
+    "Return to pre-Covid, cultural-value driven support criteria",
+    "Use creative sector specific metrics for evaluation",
+    "Assess support for workforce development, tourism, and diverse urban populations in funding decisions"
+  ],
+  "cached_at": "2025-06-20T10:41:45.352072",
+  "cache_key": "90bae2587cd566f6f2f699c13937c4411d8e6a74da1d6a38c7cd10b91c56be7c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of representation",
+    "educational cultural groups",
+    "barriers to inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of representation for other educational cultural groups"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of representation for other educational cultural groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:50.933447",
+  "cache_key": "03d59a7012d876d3a7be7a9713c9a75356e6214b71e4a030cf22b4ffb3989e62",
+  "model": "gpt-41"
+}

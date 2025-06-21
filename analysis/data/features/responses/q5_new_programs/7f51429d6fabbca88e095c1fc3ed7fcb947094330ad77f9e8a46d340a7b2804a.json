@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "capacity building for artists",
+    "support for independent creative workers",
+    "workshops focused on funding access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "capacity building workshops",
+    "artists and independent creative workers",
+    "seeking funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of capacity building opportunities",
+    "insufficient support for funding access"
+  ],
+  "solutions_proposed": [
+    "capacity building workshops for artists and independent creative workers seeking funding"
+  ],
+  "cached_at": "2025-06-21T02:06:09.911748",
+  "cache_key": "7f51429d6fabbca88e095c1fc3ed7fcb947094330ad77f9e8a46d340a7b2804a",
+  "model": "gpt-41"
+}

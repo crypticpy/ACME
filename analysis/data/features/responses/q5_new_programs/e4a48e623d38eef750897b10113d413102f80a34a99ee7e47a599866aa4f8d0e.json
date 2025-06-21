@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for literary arts funding",
+    "underrepresentation of literary arts",
+    "support for literary events and organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grants for literary arts events and organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for literary arts events and organizations"
+  ],
+  "solutions_proposed": [
+    "offer grants for literary arts events and organizations"
+  ],
+  "cached_at": "2025-06-21T02:04:58.133625",
+  "cache_key": "e4a48e623d38eef750897b10113d413102f80a34a99ee7e47a599866aa4f8d0e",
+  "model": "gpt-41"
+}

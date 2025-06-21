@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "direct support for artists",
+    "cost of living challenges",
+    "affordability of art creation",
+    "simplification of assistance processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "simple and direct ways to assist artists",
+    "combat rising costs of living and creating"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of living",
+    "rising costs of creating"
+  ],
+  "solutions_proposed": [
+    "find simple and direct ways to assist artists"
+  ],
+  "cached_at": "2025-06-20T01:22:12.158525",
+  "cache_key": "49a124848b6ef3c1450ff5dfc9455e389721ec22e5b467b6dce127744d9da339",
+  "model": "gpt-41"
+}

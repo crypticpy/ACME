@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased community engagement",
+    "encouragement of public participation",
+    "interest in more theater events",
+    "interest in more music events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More community engagement opportunities",
+    "Encourage people to participate",
+    "More theater and music events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More community engagement opportunities",
+    "Encourage people to participate",
+    "More theater and music events"
+  ],
+  "cached_at": "2025-06-21T00:28:25.365290",
+  "cache_key": "d1007957c7e8a3f3ee49d935027f0ebd719a2295059252ac54297f40e524adba",
+  "model": "gpt-41"
+}

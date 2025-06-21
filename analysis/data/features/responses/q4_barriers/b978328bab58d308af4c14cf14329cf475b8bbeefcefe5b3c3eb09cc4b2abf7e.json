@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient program availability for minority communities",
+    "lack of choice in arts and culture offerings",
+    "minority community access to cultural programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "not enough arts and culture programs",
+    "for minority communities to chose from"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough arts and culture programs for minority communities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:37.690758",
+  "cache_key": "b978328bab58d308af4c14cf14329cf475b8bbeefcefe5b3c3eb09cc4b2abf7e",
+  "model": "gpt-41"
+}

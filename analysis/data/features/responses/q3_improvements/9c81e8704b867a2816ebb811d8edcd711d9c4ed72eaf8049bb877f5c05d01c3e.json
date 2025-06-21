@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grant writing support",
+    "barriers to grant application",
+    "artist capacity building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more grant writing workshops",
+    "help artists who need it",
+    "be able to apply for the grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing skills"
+  ],
+  "solutions_proposed": [
+    "more grant writing workshops"
+  ],
+  "cached_at": "2025-06-21T01:12:01.778158",
+  "cache_key": "9c81e8704b867a2816ebb811d8edcd711d9c4ed72eaf8049bb877f5c05d01c3e",
+  "model": "gpt-41"
+}

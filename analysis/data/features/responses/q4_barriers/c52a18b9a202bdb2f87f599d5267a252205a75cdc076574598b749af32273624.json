@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of tickets and parking",
+    "parking availability challenges",
+    "lack of transportation options to events",
+    "insufficient event awareness",
+    "perceived lack of inclusivity at events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "tickets and parking are often too expensive",
+    "parking availability",
+    "lack of shuttle buses to/from community events",
+    "lack of awareness of events",
+    "events may not appear inclusive to some community members"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive tickets",
+    "expensive parking",
+    "limited parking availability",
+    "lack of shuttle buses",
+    "lack of awareness of events",
+    "events not appearing inclusive"
+  ],
+  "solutions_proposed": [
+    "provide shuttle buses to/from community events"
+  ],
+  "cached_at": "2025-06-21T01:46:41.955370",
+  "cache_key": "c52a18b9a202bdb2f87f599d5267a252205a75cdc076574598b749af32273624",
+  "model": "gpt-41"
+}

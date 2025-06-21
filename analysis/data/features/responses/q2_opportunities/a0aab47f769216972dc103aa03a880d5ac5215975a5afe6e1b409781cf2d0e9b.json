@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "live theater",
+    "use of public parks for arts",
+    "outdoor cultural events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Live theater in public parks would be great!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Live theater in public parks"
+  ],
+  "cached_at": "2025-06-21T00:50:35.500515",
+  "cache_key": "a0aab47f769216972dc103aa03a880d5ac5215975a5afe6e1b409781cf2d0e9b",
+  "model": "gpt-41"
+}

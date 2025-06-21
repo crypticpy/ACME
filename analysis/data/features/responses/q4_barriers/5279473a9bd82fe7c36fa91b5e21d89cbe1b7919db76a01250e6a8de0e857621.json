@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of opportunity",
+    "access to support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Opportunity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "opportunity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:04.090049",
+  "cache_key": "5279473a9bd82fe7c36fa91b5e21d89cbe1b7919db76a01250e6a8de0e857621",
+  "model": "gpt-41"
+}

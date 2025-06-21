@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "operational burnout",
+    "instability of funding",
+    "sustainability challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "continual operational burnout",
+    "lack of continuity in funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "continual operational burnout",
+    "lack of continuity in funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:16.965547",
+  "cache_key": "c28d4d5d8eb7b52f7459ed145c7375ba7dcab09b88afd4e782e0141b4d62013d",
+  "model": "gpt-41"
+}

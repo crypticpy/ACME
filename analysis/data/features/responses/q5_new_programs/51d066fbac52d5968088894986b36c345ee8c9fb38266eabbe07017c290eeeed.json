@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in Gospel programming",
+    "interest in Smooth Jazz programming",
+    "underrepresentation of specific music genres"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Gospel",
+    "Smooth Jazz"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer Gospel programs",
+    "Offer Smooth Jazz programs"
+  ],
+  "cached_at": "2025-06-21T02:03:51.404004",
+  "cache_key": "51d066fbac52d5968088894986b36c345ee8c9fb38266eabbe07017c290eeeed",
+  "model": "gpt-41"
+}

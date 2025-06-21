@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "international engagement",
+    "photography as underrepresented art form",
+    "attracting global audiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Photography Competition",
+    "Something that attracts people from all over the world"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer a Photography Competition that attracts people from all over the world"
+  ],
+  "cached_at": "2025-06-21T01:53:28.396359",
+  "cache_key": "8dec5f1e88ec3782341adc6c67a1a10ad05cca242081640afb532262749aa838",
+  "model": "gpt-41"
+}

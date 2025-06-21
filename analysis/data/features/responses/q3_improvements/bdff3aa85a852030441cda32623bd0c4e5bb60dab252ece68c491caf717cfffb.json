@@ -1,0 +1,51 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for transparency in grant programs",
+    "accessibility challenges for small organizations and individual artists",
+    "importance of cultural and geographic diversity in funding",
+    "support for historically underserved communities (BIPOC, queer, disability-centered)",
+    "barriers due to lack of grant-writing experience and administrative support",
+    "call for multi-year funding and capacity-building support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "focus on transparency, accessibility, and long-term impact",
+    "grants are vital tools for cultural equity",
+    "intentional refinement to truly meet the needs of our creative ecosystem",
+    "smaller organizations and individual artists don\u2019t have grant-writing experience or administrative support",
+    "streamlining the application, offering multilingual resources, and providing one-on-one assistance or workshops",
+    "funding should reflect the cultural and geographic diversity of Austin",
+    "prioritizing historically underserved communities",
+    "multi-year funding and capacity-building support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "lack of grant-writing experience",
+    "lack of administrative support",
+    "complex application process",
+    "lack of multilingual resources",
+    "historical exclusion from traditional funding streams"
+  ],
+  "solutions_proposed": [
+    "streamlining the application",
+    "offering multilingual resources",
+    "providing one-on-one assistance or workshops",
+    "prioritizing funding for historically underserved communities",
+    "ensuring funding reaches BIPOC-led, queer-led, and disability-centered organizations",
+    "multi-year funding",
+    "capacity-building support such as marketing, space access, and fiscal mentorship"
+  ],
+  "cached_at": "2025-06-21T01:09:48.675354",
+  "cache_key": "bdff3aa85a852030441cda32623bd0c4e5bb60dab252ece68c491caf717cfffb",
+  "model": "gpt-41"
+}

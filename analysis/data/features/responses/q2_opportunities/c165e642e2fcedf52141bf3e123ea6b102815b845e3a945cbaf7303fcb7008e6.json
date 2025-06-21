@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for local artists",
+    "artists in residence programs",
+    "use of local venues (Huston Tillotson)",
+    "partnerships with for-profit companies for arts sponsorship",
+    "critique of focus on large inter/national events",
+    "desire for programming that serves residents"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Funded artists in residence programs",
+    "using venues like Huston Tillotson",
+    "partnering with for profit companies who want do do good to host/sponsors arts and culture entertainment",
+    "not just inter/national events like SXSW or ACL that mainly serve non residents' interests"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "large inter/national events mainly serve non residents' interests"
+  ],
+  "solutions_proposed": [
+    "Funded artists in residence programs",
+    "using venues like Huston Tillotson",
+    "partnering with for profit companies to host/sponsor arts and culture entertainment"
+  ],
+  "cached_at": "2025-06-21T00:47:30.925451",
+  "cache_key": "c165e642e2fcedf52141bf3e123ea6b102815b845e3a945cbaf7303fcb7008e6",
+  "model": "gpt-41"
+}

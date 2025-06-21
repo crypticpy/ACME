@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "elder inclusion",
+    "underrepresentation of older adults"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Elder inclusion"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of elders"
+  ],
+  "solutions_proposed": [
+    "elder inclusion"
+  ],
+  "cached_at": "2025-06-21T01:49:58.718800",
+  "cache_key": "ed7503bfefd8c3ad45a5b6933809e25d513c5a21eaa136102c87c352e8e0c446",
+  "model": "gpt-41"
+}

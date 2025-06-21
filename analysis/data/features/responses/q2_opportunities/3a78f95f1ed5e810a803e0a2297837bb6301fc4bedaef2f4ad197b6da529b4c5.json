@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theatre",
+    "interest in orchestral music",
+    "interest in chamber music"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More live theatre!",
+    "More orchestral or chamber groups."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase live theatre opportunities",
+    "Increase orchestral or chamber group performances"
+  ],
+  "cached_at": "2025-06-21T00:51:18.850109",
+  "cache_key": "3a78f95f1ed5e810a803e0a2297837bb6301fc4bedaef2f4ad197b6da529b4c5",
+  "model": "gpt-41"
+}

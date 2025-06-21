@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic impact of visual arts events",
+    "emergence of Austin as an international visual arts destination",
+    "perceived imbalance between support for visual arts and live music",
+    "desire for increased institutional focus on visual arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "affordable art fair this year at Palmer events center",
+    "expected to bring in under just short of 2 million dollars in visual arts purchases",
+    "Austin is on the precipice of becoming an international visual arts scene",
+    "it would truly be wonderful to see more focus on the visual arts rather than just live music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "affordable art fair"
+  ],
+  "barriers_identified": [
+    "lack of focus on visual arts compared to live music"
+  ],
+  "solutions_proposed": [
+    "see more focus on the visual arts rather than just live music"
+  ],
+  "cached_at": "2025-06-21T02:15:19.844115",
+  "cache_key": "790a0cf443c985a6c4f6889a47592e340d3403d2851f5dad89dafa3ecd282d32",
+  "model": "gpt-41"
+}

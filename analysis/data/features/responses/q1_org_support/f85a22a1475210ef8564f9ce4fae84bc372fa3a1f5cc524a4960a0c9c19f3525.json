@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "critical need for arts funding",
+    "financial stability for arts workers",
+    "importance of supporting the arts sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding is critical",
+    "money needs to be pumping into the arts",
+    "people who are working in the arts can make a good living"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for arts workers"
+  ],
+  "solutions_proposed": [
+    "increase funding to the arts"
+  ],
+  "cached_at": "2025-06-20T10:36:55.075319",
+  "cache_key": "f85a22a1475210ef8564f9ce4fae84bc372fa3a1f5cc524a4960a0c9c19f3525",
+  "model": "gpt-41"
+}

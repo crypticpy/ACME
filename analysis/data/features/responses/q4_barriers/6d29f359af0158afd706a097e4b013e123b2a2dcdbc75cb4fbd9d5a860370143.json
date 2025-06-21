@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers to cultural access",
+    "inadequate public transit coverage",
+    "venue relocation to inaccessible areas",
+    "unsafe pedestrian and cycling conditions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I don't drive",
+    "too many spaces have moved to areas not well served by CapMetro",
+    "unsafe for walking and cycling"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of personal vehicle access",
+    "poor public transportation service to cultural venues",
+    "venues located in areas unsafe for walking and cycling"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:35.572731",
+  "cache_key": "6d29f359af0158afd706a097e4b013e123b2a2dcdbc75cb4fbd9d5a860370143",
+  "model": "gpt-41"
+}

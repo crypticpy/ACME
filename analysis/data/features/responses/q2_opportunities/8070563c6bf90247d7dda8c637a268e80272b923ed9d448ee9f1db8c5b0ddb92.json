@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family-friendly cultural opportunities",
+    "need for small to mid-size venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more family friendly",
+    "more small to mid size venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of family-friendly options",
+    "insufficient small to mid-size venues"
+  ],
+  "solutions_proposed": [
+    "increase family-friendly opportunities",
+    "increase small to mid-size venues"
+  ],
+  "cached_at": "2025-06-21T00:28:58.808188",
+  "cache_key": "8070563c6bf90247d7dda8c637a268e80272b923ed9d448ee9f1db8c5b0ddb92",
+  "model": "gpt-41"
+}

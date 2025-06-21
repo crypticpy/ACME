@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more diverse cultural festivals",
+    "need for investment in venues",
+    "support for unique and new programming opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "diverse cultural festivals",
+    "investment in venues",
+    "support unique new programming opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of investment in venues"
+  ],
+  "solutions_proposed": [
+    "investment in venues to support unique new programming opportunities"
+  ],
+  "cached_at": "2025-06-21T00:43:48.619425",
+  "cache_key": "cc16260501973beab723f98c669bed54bff80951dc57e4fb02c48e82fed69cb4",
+  "model": "gpt-41"
+}

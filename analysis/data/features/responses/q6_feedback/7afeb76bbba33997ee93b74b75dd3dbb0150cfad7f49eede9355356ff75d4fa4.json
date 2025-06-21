@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic inequity in cultural programming",
+    "financial barriers to participation",
+    "overemphasis on downtown and tourists",
+    "exclusion of average residents",
+    "nostalgia for greater past accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Bring more stuff north, Austin",
+    "so much is downtown",
+    "parking costs a lot",
+    "We don't have money to come",
+    "gas, parking, food vendors",
+    "think about all the community, not just tourists with lots of money",
+    "The average person still lives here, too",
+    "misses when we could participate more"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "events concentrated downtown",
+    "high parking costs",
+    "overall expense (gas, parking, food vendors)",
+    "focus on tourists and wealthier residents"
+  ],
+  "solutions_proposed": [
+    "Bring more cultural programming to north Austin",
+    "Consider the needs of the entire community, not just tourists and wealthier residents"
+  ],
+  "cached_at": "2025-06-21T02:18:28.884895",
+  "cache_key": "7afeb76bbba33997ee93b74b75dd3dbb0150cfad7f49eede9355356ff75d4fa4",
+  "model": "gpt-41"
+}

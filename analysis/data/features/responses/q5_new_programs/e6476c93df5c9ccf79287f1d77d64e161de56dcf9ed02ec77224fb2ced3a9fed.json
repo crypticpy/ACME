@@ -1,0 +1,40 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grant writing workshops",
+    "addressing lack of diversity",
+    "solutions for diversity issues",
+    "nonprofit accounting education",
+    "guidance on becoming a 501(c)2 organization",
+    "land ownership for nonprofits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "workshops centered on grant writing",
+    "\"real talk\" about the lack of diversity",
+    "solutions to confront this issue",
+    "nonprofit accounting matters",
+    "importance of becoming a 501(c) 2 org to purchase land"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diversity",
+    "insufficient knowledge about grant writing",
+    "limited understanding of nonprofit accounting",
+    "lack of information on becoming a 501(c)2 organization for land purchase"
+  ],
+  "solutions_proposed": [
+    "offer workshops centered on grant writing",
+    "facilitate open discussions about the lack of diversity and solutions",
+    "provide education on nonprofit accounting matters",
+    "offer guidance on becoming a 501(c)2 organization to enable land purchase"
+  ],
+  "cached_at": "2025-06-21T02:07:46.332105",
+  "cache_key": "e6476c93df5c9ccf79287f1d77d64e161de56dcf9ed02ec77224fb2ced3a9fed",
+  "model": "gpt-41"
+}

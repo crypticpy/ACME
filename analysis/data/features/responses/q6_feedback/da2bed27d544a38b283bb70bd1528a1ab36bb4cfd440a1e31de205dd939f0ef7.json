@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in partnership with the city",
+    "data-informed approaches",
+    "support for artists and creatives",
+    "preservation and expansion of programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I would love to partner with the city",
+    "develop a data-informed approach",
+    "cultivating the outcomes that will support artists and creatives",
+    "preserve and expand the programming currently available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "partner with the city to develop a data-informed approach",
+    "cultivate outcomes that support artists and creatives",
+    "preserve and expand current programming"
+  ],
+  "cached_at": "2025-06-21T02:20:38.721416",
+  "cache_key": "da2bed27d544a38b283bb70bd1528a1ab36bb4cfd440a1e31de205dd939f0ef7",
+  "model": "gpt-41"
+}

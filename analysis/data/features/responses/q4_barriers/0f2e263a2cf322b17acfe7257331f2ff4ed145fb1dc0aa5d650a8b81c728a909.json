@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking limitations",
+    "transportation challenges",
+    "cost barriers",
+    "accessibility concerns"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Parking",
+    "Transportation",
+    "Affordability",
+    "Accessibility"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking",
+    "transportation",
+    "affordability",
+    "accessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:56.374370",
+  "cache_key": "0f2e263a2cf322b17acfe7257331f2ff4ed145fb1dc0aa5d650a8b81c728a909",
+  "model": "gpt-41"
+}

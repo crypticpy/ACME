@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in non-traditional creative works",
+    "desire for culturally specific programming",
+    "need for diverse venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "non-traditional creative works",
+    "culturally specific",
+    "diverse venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase non-traditional creative works",
+    "offer more culturally specific opportunities",
+    "provide more diverse venues"
+  ],
+  "cached_at": "2025-06-21T00:24:57.316329",
+  "cache_key": "144a834f844f5cf8ca1eae4e66ac2facbba80c44b1e1bb8215e2f08ac4b5ff11",
+  "model": "gpt-41"
+}

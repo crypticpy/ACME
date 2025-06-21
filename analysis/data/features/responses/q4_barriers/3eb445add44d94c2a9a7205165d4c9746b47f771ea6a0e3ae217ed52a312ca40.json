@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about available support",
+    "insufficient accessibility to arts and culture services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of awareness",
+    "accessibility"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of awareness",
+    "Lack of accessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:56.478344",
+  "cache_key": "3eb445add44d94c2a9a7205165d4c9746b47f771ea6a0e3ae217ed52a312ca40",
+  "model": "gpt-41"
+}

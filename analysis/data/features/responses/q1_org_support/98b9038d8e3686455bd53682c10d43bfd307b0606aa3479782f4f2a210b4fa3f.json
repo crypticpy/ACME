@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "loss of cultural spaces",
+    "insufficient support for organizations and leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Give them more funding and support",
+    "Our favorite places are closing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "lack of support"
+  ],
+  "solutions_proposed": [
+    "more funding",
+    "more support"
+  ],
+  "cached_at": "2025-06-20T01:16:42.603985",
+  "cache_key": "98b9038d8e3686455bd53682c10d43bfd307b0606aa3479782f4f2a210b4fa3f",
+  "model": "gpt-41"
+}

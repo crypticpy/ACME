@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion of unknown or unconnected individuals",
+    "gatekeeping by established organizations",
+    "nepotism and favoritism in funding",
+    "perceived inequities based on personal connections and identity",
+    "lack of opportunities for marginalized or less visible community members"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "The people no one knows who might like one shot to show what they can do",
+    "Many feel they are not welcome to the 'space' that .orgs keep crowded",
+    "you have to know someone who can get a word in to the funders",
+    "a granted CEO\u2019s daughter would get funding rather than a daughter who has no mother",
+    "the fireman\u2019s talent would override the garbage truck operator talents",
+    "Maybe a black person over a white person, young vs. old"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access for those without connections",
+    "organizational gatekeeping",
+    "nepotism in funding decisions",
+    "perceived bias based on occupation or identity",
+    "feeling unwelcome in established spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:57:57.657075",
+  "cache_key": "b25ff9f6416d8d4a73a8b7b0a85bed0620fe84d28d6dce39a3e079f4d94d15b9",
+  "model": "gpt-41"
+}

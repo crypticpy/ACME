@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "fashion entertainment",
+    "cultural storytelling"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Fashion Entertainment",
+    "Cultural Storytelling"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more fashion entertainment opportunities",
+    "more cultural storytelling opportunities"
+  ],
+  "cached_at": "2025-06-21T00:34:55.104990",
+  "cache_key": "43601e5d57a287bb79d1e98140a00b159369f5f05fd79e6e8d0bb57a0ffab925",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for higher quality national touring fine art exhibits",
+    "Perceived inadequacy of local fine arts compared to regional/national standards",
+    "Austin's strong identity as a live music city",
+    "Skepticism about Austin competing with Houston, San Antonio, or Dallas in fine arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Higher quality national touring fine art exhibits and performance art",
+    "Austin's bread and butter/lane is live music",
+    "Local fine artists are not up to national or regional standards",
+    "If I think of going to an excellent fine art museum or or dance/orchestra performance, I think of Houston, San Antonio and Dallas instead of Austin",
+    "To try to be like or catch up to Houston, San Antonio or Dallas would be a folly",
+    "The local fine arts scene does not match national or regional cultural arts/fine arts options"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Local fine artists are not up to national or regional standards",
+    "Austin's arts scene is primarily focused on music, not fine arts"
+  ],
+  "solutions_proposed": [
+    "More national touring exhibits or performances"
+  ],
+  "cached_at": "2025-06-21T00:45:49.726976",
+  "cache_key": "62c9b1198c5d1247ed35dad9846d1d168bec5719f777d415346d5a70ed755b2f",
+  "model": "gpt-41"
+}

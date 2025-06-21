@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outdated and complex city processes",
+    "lack of mobile accessibility",
+    "language accessibility barriers",
+    "need for modernization of city tools",
+    "difficulty with registration and permitting systems"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "processes are so complex and archaic",
+    "the world has modernized but the tools that the City uses have not",
+    "current permitting, cultural contractor and all registration systems ... are archaic",
+    "don't translate to Spanish",
+    "don't work with a cell phone",
+    "for 50% or more of people is our only accessible tech"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex and outdated city processes",
+    "lack of Spanish translation",
+    "systems not compatible with cell phones",
+    "mobile device is the only accessible technology for many"
+  ],
+  "solutions_proposed": [
+    "modernize city tools and processes",
+    "make systems mobile-friendly",
+    "provide Spanish translation for systems"
+  ],
+  "cached_at": "2025-06-20T10:32:57.268773",
+  "cache_key": "b4580aa6780bc5d0d1fd3ea7184b0edcc1238adb9177d04740449a2cdff3089e",
+  "model": "gpt-41"
+}

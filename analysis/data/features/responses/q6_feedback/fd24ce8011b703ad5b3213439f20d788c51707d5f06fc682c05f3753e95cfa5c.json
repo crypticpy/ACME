@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaborative partnership between city, artists/organizations, and citizens",
+    "shared responsibility for cultural ecosystem",
+    "community engagement as a core value",
+    "support structures for artists and organizations (admin, training, skill-ups)",
+    "role clarity for stakeholders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "3-pronged PARTNERSHIP approach from all parties",
+    "City 1-provides funds, 2-supports (admin, training, skill-ups), 3-engages the Community",
+    "Artist/Org 1-applies for funding, 2-creates Art, 3-engages the Community",
+    "Citizens 1-attend Art, 2-support (money, time, talent), 3-engage with others in Community (share experiences)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Adopt a 3-pronged partnership approach involving city, artists/organizations, and citizens",
+    "City should provide funds, administrative support, training, skill-ups, and community engagement",
+    "Artists/organizations should apply for funding, create art, and engage the community",
+    "Citizens should attend art, support with money, time, and talent, and engage with others by sharing experiences"
+  ],
+  "cached_at": "2025-06-21T02:14:44.318160",
+  "cache_key": "fd24ce8011b703ad5b3213439f20d788c51707d5f06fc682c05f3753e95cfa5c",
+  "model": "gpt-41"
+}

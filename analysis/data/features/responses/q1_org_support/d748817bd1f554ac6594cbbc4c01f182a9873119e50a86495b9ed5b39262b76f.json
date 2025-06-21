@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding consistency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Provide consistent funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent funding"
+  ],
+  "solutions_proposed": [
+    "Provide consistent funding"
+  ],
+  "cached_at": "2025-06-20T01:15:56.462779",
+  "cache_key": "d748817bd1f554ac6594cbbc4c01f182a9873119e50a86495b9ed5b39262b76f",
+  "model": "gpt-41"
+}

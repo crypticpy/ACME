@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "risk of lack of awareness",
+    "importance of communication and outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "the biggest risk for this initiative is lack of awareness"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:26:59.667833",
+  "cache_key": "4a857797f2efe5dc771cb7b32d4a540f416f0ab850af4cd990ea3976cb7f1357",
+  "model": "gpt-41"
+}

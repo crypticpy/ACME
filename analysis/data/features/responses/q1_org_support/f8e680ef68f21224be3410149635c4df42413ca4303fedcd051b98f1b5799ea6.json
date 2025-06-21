@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct funding support",
+    "financial resources for organizations and leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "give them money"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "give them money"
+  ],
+  "cached_at": "2025-06-20T10:21:47.436760",
+  "cache_key": "f8e680ef68f21224be3410149635c4df42413ca4303fedcd051b98f1b5799ea6",
+  "model": "gpt-41"
+}

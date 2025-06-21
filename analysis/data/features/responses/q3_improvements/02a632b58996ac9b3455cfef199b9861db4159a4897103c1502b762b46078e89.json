@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process difficulty",
+    "lack of transparency in selection"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "ease of application",
+    "transparency in selection"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "opaque selection process"
+  ],
+  "solutions_proposed": [
+    "make application process easier",
+    "increase transparency in selection"
+  ],
+  "cached_at": "2025-06-21T01:00:16.537586",
+  "cache_key": "02a632b58996ac9b3455cfef199b9861db4159a4897103c1502b762b46078e89",
+  "model": "gpt-41"
+}

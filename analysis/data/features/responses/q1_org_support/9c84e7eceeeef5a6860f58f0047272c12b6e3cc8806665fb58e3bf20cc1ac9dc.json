@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of funding for established local artists",
+    "importance of arts to Austin's cultural identity",
+    "need for fair consideration in funding decisions",
+    "role of arts in community cohesion during divisive times",
+    "call for increased and sustained arts funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Increase the funding for local artists and established dance, performance, music organizations in Austin",
+    "find the money to do that",
+    "so many of the artists that have been producing great artistic performance for the Austin community for years have been dropped from receiving funding",
+    "arts are such an integral part of the Austin Culture",
+    "ensure that all artists get fair consideration",
+    "arts in Austin stay real",
+    "presently we are surrounded by much chaos and divisiveness around the nation",
+    "arts bring humanity together even if only for the time of the shared experience",
+    "ACME has the power to make sure the arts continue by increasing the funding for all arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists that have been producing great artistic performance for the Austin community for years have been dropped from receiving funding",
+    "lack of sufficient funding for local artists and organizations"
+  ],
+  "solutions_proposed": [
+    "Increase the funding for local artists and established dance, performance, music organizations in Austin",
+    "find more money so the arts in Austin stay real",
+    "ensure that all artists get fair consideration"
+  ],
+  "cached_at": "2025-06-20T01:16:19.124073",
+  "cache_key": "9c84e7eceeeef5a6860f58f0047272c12b6e3cc8806665fb58e3bf20cc1ac9dc",
+  "model": "gpt-41"
+}

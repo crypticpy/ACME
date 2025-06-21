@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "demand for fully Spanish-language programming",
+    "insufficiency of bilingual (Spanish and English) offerings",
+    "importance of language exposure for attendees"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Story times at libraries totally in Spanish",
+    "not Spanish and English",
+    "People go to these story times because they want Spanish exposures"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of story times conducted entirely in Spanish"
+  ],
+  "solutions_proposed": [
+    "offer story times at libraries conducted only in Spanish"
+  ],
+  "cached_at": "2025-06-21T02:07:56.040068",
+  "cache_key": "74f989f7b08f7ff1aaaaa82e4198176b6136ec4e749c29161917738024361ab5",
+  "model": "gpt-41"
+}

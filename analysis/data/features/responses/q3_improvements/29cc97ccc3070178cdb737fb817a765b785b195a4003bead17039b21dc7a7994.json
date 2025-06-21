@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dependence on city funding for arts organizations",
+    "importance of supporting high-quality, accessible arts experiences",
+    "need for equitable and thoughtful fund distribution",
+    "role of funding in community building",
+    "administrative challenges in fund allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "We would not be able to produce our season without the support from the Elevate Grant",
+    "hope other companies who provide high-quality, accessible arts experiences receive vital city funding",
+    "funding is provided to organizations that are providing arts to the community in profound ways",
+    "finding the right way to administrate the funds is challenging",
+    "hope that the way it is distributed is assessed in a thoughtful way that promotes community building, accessibility, and quality experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate Grant"
+  ],
+  "barriers_identified": [
+    "challenges in administrating and distributing funds"
+  ],
+  "solutions_proposed": [
+    "assess the way funding is distributed in a thoughtful way that promotes community building, accessibility, and quality experiences"
+  ],
+  "cached_at": "2025-06-21T01:13:19.361038",
+  "cache_key": "29cc97ccc3070178cdb737fb817a765b785b195a4003bead17039b21dc7a7994",
+  "model": "gpt-41"
+}

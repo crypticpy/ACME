@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "LGBTQ community representation",
+    "Need for dedicated LGBTQ spaces",
+    "Public performance opportunities",
+    "Access to performance venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "LGBTQ Center",
+    "Public Performance spaces and opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of LGBTQ-specific cultural spaces",
+    "Insufficient public performance opportunities"
+  ],
+  "solutions_proposed": [
+    "Create an LGBTQ Center",
+    "Provide more public performance spaces and opportunities"
+  ],
+  "cached_at": "2025-06-21T02:03:49.375974",
+  "cache_key": "5e394a182dd453bc2fe06951abd5fcfa0b22414c08b6c78ed4a7d74ddc644762",
+  "model": "gpt-41"
+}

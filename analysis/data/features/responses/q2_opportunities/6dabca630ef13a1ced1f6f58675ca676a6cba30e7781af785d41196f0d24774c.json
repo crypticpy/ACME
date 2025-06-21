@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more literary arts events",
+    "interest in festivals and public gatherings",
+    "support for author engagement and reading series"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Literary arts events",
+    "festivals",
+    "reading series",
+    "author talks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More literary arts events",
+    "More festivals",
+    "More reading series",
+    "More author talks"
+  ],
+  "cached_at": "2025-06-21T00:44:33.786467",
+  "cache_key": "6dabca630ef13a1ced1f6f58675ca676a6cba30e7781af785d41196f0d24774c",
+  "model": "gpt-41"
+}

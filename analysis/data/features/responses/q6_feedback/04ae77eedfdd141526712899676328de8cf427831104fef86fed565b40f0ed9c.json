@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Disappointment with Nexus wording and points changes",
+    "Impact on diversity in the creative community",
+    "Call for ACME's attention to policy consequences"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "very disappointing",
+    "deeply impacts the diversity of our creative community",
+    "pay attention to how this deeply impacts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "Changes to the Nexus wording and points reduce diversity in the creative community"
+  ],
+  "solutions_proposed": [
+    "ACME should pay attention to the impact of these changes on diversity"
+  ],
+  "cached_at": "2025-06-21T02:18:02.187226",
+  "cache_key": "04ae77eedfdd141526712899676328de8cf427831104fef86fed565b40f0ed9c",
+  "model": "gpt-41"
+}

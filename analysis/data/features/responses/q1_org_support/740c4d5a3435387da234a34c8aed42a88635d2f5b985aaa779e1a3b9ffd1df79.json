@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of grant opportunities",
+    "importance of public funding for arts organizations",
+    "role of arts in community development",
+    "arts accessibility for non-artists",
+    "personal impact of local arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expand funding to current sponsored organizations and new organizations too",
+    "many arts organizations wouldn\u2019t exist without public funding support",
+    "crucial that we focus on ensuring arts organizations can continue to function and exist",
+    "arts organizations not only serve as modes for art creation and accessibility, but they develop communities",
+    "support all likes of people and enrich their lives immensely",
+    "my own life has been impacted a lot by local arts communities and organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public funding threatens existence of arts organizations"
+  ],
+  "solutions_proposed": [
+    "expand funding to current sponsored organizations and new organizations",
+    "continue and support many different grant opportunities"
+  ],
+  "cached_at": "2025-06-20T10:21:44.574961",
+  "cache_key": "740c4d5a3435387da234a34c8aed42a88635d2f5b985aaa779e1a3b9ffd1df79",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern over abrupt funding cuts",
+    "support for established organizations",
+    "inclusivity for organizations outside city limits",
+    "reference to Big Medium funding issue"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Avoiding what happened with Big Medium would be good",
+    "Abruptly ending funding in any amount to established orgs seems like a bad call",
+    "Extending the boundaries of funding to include orgs that have headquarters technically out of austin city limits but that serve Austin artists would be helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "abrupt funding cuts to established organizations",
+    "exclusion of organizations headquartered outside Austin city limits"
+  ],
+  "solutions_proposed": [
+    "avoid abrupt funding cuts to established organizations",
+    "extend funding eligibility to organizations outside city limits that serve Austin artists"
+  ],
+  "cached_at": "2025-06-20T01:17:43.594029",
+  "cache_key": "27e517124a460bea7099c585a6d14f1247015ea50b5d78ebd50f9ecb0fab5c28",
+  "model": "gpt-41"
+}

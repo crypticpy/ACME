@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern for staff well-being",
+    "uncertainty about internal changes",
+    "questioning organizational support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I honestly don't know what is happening with the staff",
+    "how all the changes are affecting them",
+    "Seems like this would be super stressful",
+    "I'm wondering if they are getting the support they need"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about staff experiences",
+    "potential stress from organizational changes",
+    "possible lack of support for staff"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:22:28.042344",
+  "cache_key": "175d1c122ed8634a937c7a6478df832c113f8033e565fa413f60eee2dbbc68a7",
+  "model": "gpt-41"
+}

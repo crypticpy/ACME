@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct grants to artists",
+    "support for work development without public events",
+    "access to opportunities for showcasing work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "grants direct to artists",
+    "support the development of work without an attached event/exhibition",
+    "support to access the opportunity to showcase the work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant support for work not tied to events/exhibitions",
+    "difficulty accessing opportunities to showcase work"
+  ],
+  "solutions_proposed": [
+    "provide grants directly to artists for work development without requiring an event or exhibition",
+    "offer support to help artists access opportunities to showcase their work"
+  ],
+  "cached_at": "2025-06-21T01:52:36.791777",
+  "cache_key": "78346045ae6ed0e6d4567f6018eb193bfc4eeb9025f6f7f322a612c33078a5dd",
+  "model": "gpt-41"
+}

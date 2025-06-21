@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient financial support for creators",
+    "rising cost of living in Austin",
+    "stagnant compensation for musicians/bands"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More support for the creators!",
+    "this city keeps getting more expensive",
+    "bands don\u2019t get paid any more than they did in the 80s"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "increasing cost of living",
+    "stagnant pay for bands/musicians"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:48:12.087370",
+  "cache_key": "02e92ffcd27a37c01b96fa74e5e21e7f04183595b8d26811a20a49d7ef2d233a",
+  "model": "gpt-41"
+}

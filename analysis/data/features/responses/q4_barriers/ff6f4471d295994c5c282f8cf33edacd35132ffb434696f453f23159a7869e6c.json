@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "climate change impacts on events",
+    "parking accessibility and cost",
+    "child care as a participation barrier"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Climate change (outdoor events, etc).",
+    "Free Parking",
+    "Child Care"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "climate change affecting outdoor events",
+    "lack of free parking",
+    "lack of child care"
+  ],
+  "solutions_proposed": [
+    "provide free parking",
+    "provide child care"
+  ],
+  "cached_at": "2025-06-21T01:45:07.587334",
+  "cache_key": "ff6f4471d295994c5c282f8cf33edacd35132ffb434696f453f23159a7869e6c",
+  "model": "gpt-41"
+}

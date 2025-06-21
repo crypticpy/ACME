@@ -1,0 +1,50 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Inequitable funding capacity among arts groups",
+    "Lack of cooperation and coordination between groups",
+    "Inaccessibility of venues for smaller groups",
+    "Ineffective matching/support programs for venues and groups",
+    "Uncoordinated publicity and event communications",
+    "Barriers in event listing and advertising for smaller groups",
+    "Dominance of major institutions in audience attention"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Funding is a serious problem for all arts groups",
+    "some have more capacity to develop funding sources",
+    "Cooperation and coordination are not at the level they should be",
+    "some groups with venues can't getting enough funding to make their spaces accessible to smaller groups",
+    "some groups can't find venues for the types of performances they produce",
+    "programs to provide matching and support for both, they aren't working well",
+    "Publicity and other communications about arts events are also not coordinated",
+    "Events happen that are under attended because there aren't 'go to' sources for audiences",
+    "Each event has to compete for a 2 line mention in one or two 'guides'",
+    "paid advertising is expensive and funnels audiences to road shows, major festivals, and major institutions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited funding for arts groups, especially smaller ones",
+    "Unequal capacity to develop funding sources",
+    "Insufficient cooperation and coordination among groups",
+    "Venue inaccessibility for smaller groups",
+    "Ineffective matching/support programs for venues and groups",
+    "Lack of coordinated publicity and event listings",
+    "Event listing deadlines that exclude smaller groups",
+    "High cost of paid advertising favoring major institutions"
+  ],
+  "solutions_proposed": [
+    "Improve cooperation and coordination among arts groups",
+    "Enhance matching and support programs for venues and groups",
+    "Create accessible, up-to-date 'go to' sources for event listings",
+    "Make publicity and communications more coordinated and accessible"
+  ],
+  "cached_at": "2025-06-21T01:35:27.454358",
+  "cache_key": "241807d5a35c8b4c9ceeda2767ab966adcf5db53a986db2759204e9db8da66ce",
+  "model": "gpt-41"
+}

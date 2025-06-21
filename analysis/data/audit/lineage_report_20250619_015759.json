@@ -1,0 +1,83 @@
+{
+  "session_id": "20250619_015759",
+  "start_time": "2025-06-19T01:57:59.111887",
+  "end_time": "2025-06-19T01:59:13.931718",
+  "operations": 19,
+  "transformations": [],
+  "validations": [],
+  "llm_calls": [],
+  "errors": [
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:00.986183"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:05.552605"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:14.856037"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:15.998556"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:21.003045"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:29.210034"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:36.828648"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:44.789880"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:53.166501"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:54.045327"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:58:58.446840"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "AttributeError",
+      "message": "'ResponseUsage' object has no attribute 'prompt_tokens'",
+      "timestamp": "2025-06-19T01:59:13.931718"
+    }
+  ]
+}

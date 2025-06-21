@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process timing",
+    "communication of deadlines"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More advance notice prior to the application window/deadline"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient advance notice for application deadlines"
+  ],
+  "solutions_proposed": [
+    "provide more advance notice prior to the application window/deadline"
+  ],
+  "cached_at": "2025-06-21T01:14:46.275473",
+  "cache_key": "87a4026728bd598a59a95f71bb3df3004dbfda8474154c2b2f49b3881a4c1f49",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased engagement",
+    "need for improved outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more engagement",
+    "outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient engagement",
+    "limited outreach"
+  ],
+  "solutions_proposed": [
+    "more engagement",
+    "more outreach"
+  ],
+  "cached_at": "2025-06-21T01:04:54.414396",
+  "cache_key": "592f9fd725ee7bf47ca9f2729ea2196f0b37ebbc958170ae0345ac36a61679fe",
+  "model": "gpt-41"
+}

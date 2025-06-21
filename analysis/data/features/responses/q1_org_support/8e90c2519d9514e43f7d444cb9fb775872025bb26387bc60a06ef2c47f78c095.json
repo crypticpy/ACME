@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for existing arts organizations",
+    "integration of arts into everyday city life",
+    "collaboration with creative groups",
+    "recognition of specific local organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support existing organizations that work with artists and creatives",
+    "Canopy Studios, AFS, Design Austin etc.",
+    "integrate art and creative groups into more of the everyday events, programming, conventions, places that happen in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Canopy Studios",
+    "AFS",
+    "Design Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support existing organizations that work with artists and creatives",
+    "Integrate art and creative groups into more of the everyday events, programming, conventions, places that happen in Austin"
+  ],
+  "cached_at": "2025-06-20T10:33:18.585910",
+  "cache_key": "8e90c2519d9514e43f7d444cb9fb775872025bb26387bc60a06ef2c47f78c095",
+  "model": "gpt-41"
+}

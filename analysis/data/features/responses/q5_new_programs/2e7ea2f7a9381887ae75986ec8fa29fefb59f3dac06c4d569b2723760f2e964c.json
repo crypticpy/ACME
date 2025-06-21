@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "frustration with lack of follow-through on feedback",
+    "distrust in survey process",
+    "desire for improvement of existing programs/services",
+    "perceived lack of organizational responsiveness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "fix what is in place before you try to expand",
+    "I have filled out more surveys than I can count and they don't matter",
+    "Don't ask if you don't care to do anything with the information"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived lack of responsiveness to community feedback",
+    "survey fatigue"
+  ],
+  "solutions_proposed": [
+    "improve existing programs/services before expanding"
+  ],
+  "cached_at": "2025-06-21T01:50:23.768246",
+  "cache_key": "2e7ea2f7a9381887ae75986ec8fa29fefb59f3dac06c4d569b2723760f2e964c",
+  "model": "gpt-41"
+}

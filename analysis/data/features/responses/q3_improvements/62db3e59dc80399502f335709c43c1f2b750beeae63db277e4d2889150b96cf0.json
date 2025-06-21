@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "funding allocation imbalance",
+    "support for non-music cultural sectors"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more money for non-music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for non-music cultural activities"
+  ],
+  "solutions_proposed": [
+    "increase funding for non-music"
+  ],
+  "cached_at": "2025-06-21T01:20:00.931363",
+  "cache_key": "62db3e59dc80399502f335709c43c1f2b750beeae63db277e4d2889150b96cf0",
+  "model": "gpt-41"
+}

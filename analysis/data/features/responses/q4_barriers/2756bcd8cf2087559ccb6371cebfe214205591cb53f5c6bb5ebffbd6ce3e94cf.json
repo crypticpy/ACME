@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about opportunities",
+    "insufficient knowledge of application processes",
+    "inadequate promotion of events",
+    "high venue costs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "lack of awareness and knowledge on how to apply",
+    "promotion of events",
+    "venue costs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "lack of knowledge on how to apply",
+    "insufficient event promotion",
+    "high venue costs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:13.382306",
+  "cache_key": "2756bcd8cf2087559ccb6371cebfe214205591cb53f5c6bb5ebffbd6ce3e94cf",
+  "model": "gpt-41"
+}

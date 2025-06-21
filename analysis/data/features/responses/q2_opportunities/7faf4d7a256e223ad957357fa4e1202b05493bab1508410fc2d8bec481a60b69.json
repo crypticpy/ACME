@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for interactive programming",
+    "hands-on art experiences",
+    "community music participation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more interactive programing",
+    "doing art",
+    "playing instruments",
+    "easy ukulele group"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more interactive programming like doing art",
+    "playing instruments (i.e. easy ukulele group)"
+  ],
+  "cached_at": "2025-06-21T00:50:25.995246",
+  "cache_key": "7faf4d7a256e223ad957357fa4e1202b05493bab1508410fc2d8bec481a60b69",
+  "model": "gpt-41"
+}

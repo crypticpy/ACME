@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for international cultural representation",
+    "interest in dance from other countries",
+    "interest in music from other countries"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "dance and music from other countries",
+    "represented in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase representation of dance and music from other countries in Austin"
+  ],
+  "cached_at": "2025-06-21T00:45:00.012258",
+  "cache_key": "419571b835bc62015a5c8c165c5b36784ec38b1ec73c987820eee73fd9af52e2",
+  "model": "gpt-41"
+}

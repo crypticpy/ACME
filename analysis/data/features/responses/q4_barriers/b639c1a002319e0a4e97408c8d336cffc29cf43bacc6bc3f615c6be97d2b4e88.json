@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "lack of affordable space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Limited Funding",
+    "limited access to affordable space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited Funding",
+    "limited access to affordable space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:00.050302",
+  "cache_key": "b639c1a002319e0a4e97408c8d336cffc29cf43bacc6bc3f615c6be97d2b4e88",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding for organizations and leaders",
+    "advocacy for cultural sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Fund them",
+    "advocate for them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide funding to organizations and cultural leaders",
+    "Advocate on behalf of organizations and cultural leaders"
+  ],
+  "cached_at": "2025-06-20T10:44:49.923929",
+  "cache_key": "580f0761c4cefa6460da704edc168050d06f87e6a2768f5f892c5894d256389a",
+  "model": "gpt-41"
+}

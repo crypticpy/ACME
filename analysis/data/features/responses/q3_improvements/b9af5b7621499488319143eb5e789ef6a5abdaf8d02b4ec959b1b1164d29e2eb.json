@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for consistency in funding",
+    "demand for fair and transparent standards",
+    "clarity in communication of priorities and values",
+    "opposition to funding interruptions or breaks",
+    "concerns about evaluator conflict-of-interest rules"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Consistency",
+    "fair standards",
+    "clear communication of priorities and values",
+    "No funding limits year to year (i.e. no imposed breaks in funding)",
+    "no rule that groups with an evaluator on panel cannot receive funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "imposed breaks in funding",
+    "rule that groups with an evaluator on panel cannot receive funding"
+  ],
+  "solutions_proposed": [
+    "Implement consistency in funding",
+    "Establish fair standards",
+    "Clearly communicate priorities and values",
+    "Remove funding limits year to year",
+    "Eliminate rule preventing groups with an evaluator on panel from receiving funding"
+  ],
+  "cached_at": "2025-06-21T00:53:40.403389",
+  "cache_key": "b9af5b7621499488319143eb5e789ef6a5abdaf8d02b4ec959b1b1164d29e2eb",
+  "model": "gpt-41"
+}

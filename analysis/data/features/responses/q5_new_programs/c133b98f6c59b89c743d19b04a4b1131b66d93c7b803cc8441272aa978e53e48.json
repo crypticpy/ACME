@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "veteran inclusion in the arts",
+    "underrepresentation of veterans",
+    "need for targeted arts programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Anything for veterans in the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of arts programs for veterans"
+  ],
+  "solutions_proposed": [
+    "offer programs for veterans in the arts"
+  ],
+  "cached_at": "2025-06-21T01:54:55.333829",
+  "cache_key": "c133b98f6c59b89c743d19b04a4b1131b66d93c7b803cc8441272aa978e53e48",
+  "model": "gpt-41"
+}

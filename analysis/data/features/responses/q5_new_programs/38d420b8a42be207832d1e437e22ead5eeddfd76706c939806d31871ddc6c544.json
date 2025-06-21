@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "underrepresentation of traditional and skill-based art forms",
+    "perceived bias toward trend-driven or attention-grabbing work",
+    "need for affordable exhibition spaces",
+    "community-focused programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more support for traditional and skill-based art forms",
+    "get passed over for more attention-grabbing or trend-driven work",
+    "provide more affordable, community-focused exhibition spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for traditional and skill-based art forms",
+    "insufficient affordable exhibition spaces"
+  ],
+  "solutions_proposed": [
+    "more support for traditional and skill-based art forms",
+    "provide more affordable, community-focused exhibition spaces"
+  ],
+  "cached_at": "2025-06-21T02:01:21.906688",
+  "cache_key": "38d420b8a42be207832d1e437e22ead5eeddfd76706c939806d31871ddc6c544",
+  "model": "gpt-41"
+}

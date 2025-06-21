@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of direct experience with organizing",
+    "patron perspective",
+    "uncertainty about organizational needs"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Not sure",
+    "I'm a patron but not an organizer"
+  ],
+  "intent": "self-identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not being an organizer limits ability to provide input"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:24:09.989519",
+  "cache_key": "73873ec808955e3ed0570f7053db36622a6e0b33555058134b68cda9671a4437",
+  "model": "gpt-41"
+}

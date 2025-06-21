@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "youth creative programming",
+    "grant-funded summer classes",
+    "perceived program gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more youth creative programs",
+    "grant funded summer classes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of youth creative programs",
+    "insufficient grant-funded summer classes"
+  ],
+  "solutions_proposed": [
+    "offer more youth creative programs",
+    "provide grant-funded summer classes"
+  ],
+  "cached_at": "2025-06-21T01:54:26.935223",
+  "cache_key": "73b327295763432e3361f84b4bd2a0bbb41dcf6e3814bf89bdff1d961f7100c5",
+  "model": "gpt-41"
+}

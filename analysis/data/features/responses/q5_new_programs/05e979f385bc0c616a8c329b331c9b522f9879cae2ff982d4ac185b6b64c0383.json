@@ -1,0 +1,52 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic disparity among artists",
+    "lack of professionalization and pay equity",
+    "need for affordable creative spaces",
+    "artist-specific healthcare and benefits",
+    "artist housing modeled after Manhattan Plaza",
+    "infrastructure for sustaining working artists",
+    "city's responsibility in shaping cultural vision"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "decreasing economic disparity",
+    "systemic demand for professionalism/pay",
+    "affordable creative space",
+    "dependable healthcare (make us a group!)",
+    "artist housing (such as Manhttan Plaza in NYC)",
+    "artists have 2 or 3 jobs and do their art on the side",
+    "not a lack of talent or inspiration, just a lack of infrastructure",
+    "ACME has to decide what Austin wants to become and enact the vision",
+    "livable city for working artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Manhattan Plaza"
+  ],
+  "barriers_identified": [
+    "economic disparity",
+    "lack of affordable creative space",
+    "lack of dependable healthcare for artists",
+    "insufficient artist housing",
+    "artists needing multiple jobs to survive",
+    "lack of professionalization/pay",
+    "insufficient infrastructure"
+  ],
+  "solutions_proposed": [
+    "systemic demand for professionalism/pay",
+    "offering collaborative benefits such as affordable creative space",
+    "providing dependable healthcare for artists",
+    "establishing artist housing modeled after Manhattan Plaza in NYC",
+    "stabilizing cornerstone institutions",
+    "coordinating and saving creative spaces"
+  ],
+  "cached_at": "2025-06-21T01:51:25.938850",
+  "cache_key": "05e979f385bc0c616a8c329b331c9b522f9879cae2ff982d4ac185b6b64c0383",
+  "model": "gpt-41"
+}

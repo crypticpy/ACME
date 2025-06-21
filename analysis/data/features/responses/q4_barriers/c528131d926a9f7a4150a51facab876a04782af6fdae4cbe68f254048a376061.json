@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Rising ticket and venue costs reducing accessibility",
+    "Insufficient outreach and event visibility",
+    "Inadequate disability access and accommodations",
+    "Complex and exclusionary funding and grant processes",
+    "Barriers for underrepresented and emerging groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Ticket prices keep rising",
+    "venue rental costs, which trickles down to the community",
+    "events less accessible and fewer in number",
+    "problem with visibility",
+    "Marketing for events and services often doesn\u2019t reach all the communities",
+    "Access for disabled individuals...needs to be improved across the board",
+    "funding and grant application process is complex",
+    "favors organizations that already have development teams",
+    "emerging groups and artists often don\u2019t have access to the tools or knowledge",
+    "creates a cultural scene that\u2019s harder to enter, especially for underrepresented communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Rising ticket prices",
+    "Increasing venue rental costs",
+    "Events less accessible and fewer in number",
+    "Insufficient marketing and outreach",
+    "Lack of event visibility for all communities",
+    "Inadequate physical, sensory, and informational access for disabled individuals",
+    "Lack of clear or public accommodations for disabilities",
+    "Complex and opaque funding and grant application processes",
+    "Favoritism toward established organizations with resources",
+    "Emerging groups and artists lack tools or knowledge to apply for funding"
+  ],
+  "solutions_proposed": [
+    "Improve access for disabled individuals, including physical, sensory, and informational accommodations",
+    "Make accommodations more obvious to the public"
+  ],
+  "cached_at": "2025-06-21T01:33:20.314661",
+  "cache_key": "c528131d926a9f7a4150a51facab876a04782af6fdae4cbe68f254048a376061",
+  "model": "gpt-41"
+}

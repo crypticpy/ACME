@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for greater diversity in events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more diverse events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more diverse events"
+  ],
+  "cached_at": "2025-06-21T00:49:26.265849",
+  "cache_key": "6e775c3ceeef743f6887c06b2c0d004ff793fe314b219df7720fb8b6bd978bdc",
+  "model": "gpt-41"
+}

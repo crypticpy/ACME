@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding to artists",
+    "support for small organizations",
+    "support for mid-size organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Grants to artists",
+    "small & mid-size organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Grants to artists",
+    "Grants to small & mid-size organizations"
+  ],
+  "cached_at": "2025-06-20T10:46:03.490199",
+  "cache_key": "710bebbeff96793e60090b79993197f323c5deabed9576e7345ff773b1932f3a",
+  "model": "gpt-41"
+}

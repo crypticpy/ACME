@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "funding for artists",
+    "support for inclusive and diverse missions",
+    "prioritizing inclusivity and diversity in cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding artists",
+    "event that focus on inclusivity and diversity",
+    "within their mission"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund artists and events that focus on inclusivity and diversity within their mission"
+  ],
+  "cached_at": "2025-06-20T10:38:27.969082",
+  "cache_key": "9b932053b8386afc138dd558e3b362900f3e3c31089cda2aa7130fc76c4bb0db",
+  "model": "gpt-41"
+}

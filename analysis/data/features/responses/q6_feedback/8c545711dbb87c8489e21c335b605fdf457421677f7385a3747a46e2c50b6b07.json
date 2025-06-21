@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "shared responsibility in supporting music",
+    "limitations of city funding",
+    "role of musicians, promoters, and community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "we need more work from musicians, promoters, and community",
+    "The city can\u2019t fund ALL of the music"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overreliance on city funding"
+  ],
+  "solutions_proposed": [
+    "increased involvement from musicians, promoters, and community"
+  ],
+  "cached_at": "2025-06-21T02:16:51.202748",
+  "cache_key": "8c545711dbb87c8489e21c335b605fdf457421677f7385a3747a46e2c50b6b07",
+  "model": "gpt-41"
+}

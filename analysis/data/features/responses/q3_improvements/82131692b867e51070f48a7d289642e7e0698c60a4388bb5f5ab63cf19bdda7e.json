@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for application support",
+    "expanding grant program eligibility",
+    "support for fine arts and literature"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "application writing workshops",
+    "opening other grant programs for fine arts and literature"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of application writing support",
+    "limited grant opportunities for fine arts and literature"
+  ],
+  "solutions_proposed": [
+    "offer application writing workshops",
+    "open other grant programs for fine arts and literature"
+  ],
+  "cached_at": "2025-06-21T00:59:30.129370",
+  "cache_key": "82131692b867e51070f48a7d289642e7e0698c60a4388bb5f5ab63cf19bdda7e",
+  "model": "gpt-41"
+}

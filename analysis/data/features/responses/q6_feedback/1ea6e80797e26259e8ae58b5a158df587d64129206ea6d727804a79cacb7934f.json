@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about majority influence on funding decisions",
+    "skepticism about self-interested funding requests",
+    "prioritizing community benefit over individual artist interests"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "doesn't just go with the majority",
+    "everyone wants to dip their hand in the funding till",
+    "arts funding should be about what's best for the entire community",
+    "not what artists and people who want to be artists think is best for them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential for funding decisions to be swayed by majority or self-interested groups"
+  ],
+  "solutions_proposed": [
+    "focus arts funding on what's best for the entire community"
+  ],
+  "cached_at": "2025-06-21T02:18:04.830792",
+  "cache_key": "1ea6e80797e26259e8ae58b5a158df587d64129206ea6d727804a79cacb7934f",
+  "model": "gpt-41"
+}

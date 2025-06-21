@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "stabilization of existing cultural infrastructure",
+    "long-term sustainability of creative spaces",
+    "disruption caused by closures or relocations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "stabilizing existing structures",
+    "keeping creative spaces in a thriving condition for the long term",
+    "instead of abruptly closing or moving locations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "abruptly closing or moving locations"
+  ],
+  "solutions_proposed": [
+    "focus on stabilizing existing structures",
+    "keep creative spaces in a thriving condition for the long term"
+  ],
+  "cached_at": "2025-06-20T10:22:56.353350",
+  "cache_key": "f8fd971c02225873ec9c40d317f68430177ad47196360e925820f78dbb58a107",
+  "model": "gpt-41"
+}

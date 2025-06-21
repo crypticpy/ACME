@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased visual arts exhibits",
+    "accessibility for tourists",
+    "accessibility for patrons",
+    "expansion of cultural offerings in public or central locations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more visual arts exhibits",
+    "locations accessible to tourists and patrons"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited accessibility of visual arts exhibits for tourists and patrons"
+  ],
+  "solutions_proposed": [
+    "increase visual arts exhibits in accessible locations"
+  ],
+  "cached_at": "2025-06-21T00:47:11.623336",
+  "cache_key": "5c38dd7ef7a115a8e94ce312a5bf1880becfe58dce066ab50fde020104dd6728",
+  "model": "gpt-41"
+}

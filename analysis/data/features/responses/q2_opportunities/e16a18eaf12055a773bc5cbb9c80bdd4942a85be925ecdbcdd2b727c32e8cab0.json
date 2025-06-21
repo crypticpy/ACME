@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for curated local activities",
+    "desire for experiences that humanize artists",
+    "encouraging inspired, connective conversations",
+    "counteracting social media toxicity",
+    "youth engagement through nostalgia",
+    "intergenerational participation in cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "impressed with Base Social curated local activities",
+    "experiences at Crystal Bridges art museum in Bentonville as a cultural anchor",
+    "experiences that humanize great artists",
+    "foster inspired conversations that connect (over social media toxicity)",
+    "give our youth their own 90s experiences",
+    "promoting a local musician and teaching kids how to make a cassette tape recording",
+    "parental buy in for the nostalgia alone"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Base Social",
+    "Crystal Bridges art museum"
+  ],
+  "barriers_identified": [
+    "social media toxicity"
+  ],
+  "solutions_proposed": [
+    "more experiences that humanize great artists",
+    "foster inspired conversations that connect",
+    "activities that give youth their own 90s experiences",
+    "promoting a local musician and teaching kids how to make a cassette tape recording"
+  ],
+  "cached_at": "2025-06-21T00:45:20.497224",
+  "cache_key": "e16a18eaf12055a773bc5cbb9c80bdd4942a85be925ecdbcdd2b727c32e8cab0",
+  "model": "gpt-41"
+}

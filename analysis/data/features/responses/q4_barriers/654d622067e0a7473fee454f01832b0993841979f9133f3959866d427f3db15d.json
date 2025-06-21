@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Rising costs associated with event growth",
+    "Need for sustainable funding",
+    "Historic property maintenance challenges",
+    "Balancing preservation with increased demand"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "events continue to grow",
+    "associated costs are also increasing",
+    "higher expenses for logistics, staffing, and infrastructure",
+    "greater need for ongoing maintenance and repairs to our historic property",
+    "preserving this culturally significant site",
+    "requires sustainable support and thoughtful investment"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "increasing expenses for logistics, staffing, and infrastructure",
+    "greater need for ongoing maintenance and repairs",
+    "lack of sustainable support for preservation"
+  ],
+  "solutions_proposed": [
+    "sustainable support",
+    "thoughtful investment"
+  ],
+  "cached_at": "2025-06-21T01:43:52.669291",
+  "cache_key": "654d622067e0a7473fee454f01832b0993841979f9133f3959866d427f3db15d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding",
+    "access to artistic spaces",
+    "access to industrial spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Funding",
+    "Leases for artistic and industrial spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of access to artistic and industrial spaces"
+  ],
+  "solutions_proposed": [
+    "provide funding",
+    "offer leases for artistic and industrial spaces"
+  ],
+  "cached_at": "2025-06-20T10:22:13.291025",
+  "cache_key": "0e59fad7b2294cc9bf89fa3d484202f76522f56529a96c48954024e48079ff37",
+  "model": "gpt-41"
+}

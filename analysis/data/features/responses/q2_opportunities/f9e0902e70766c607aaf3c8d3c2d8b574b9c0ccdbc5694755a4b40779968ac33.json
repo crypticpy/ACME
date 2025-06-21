@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more classical chamber music",
+    "interest in classical orchestral music",
+    "interest in jazz music"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Classical chamber music",
+    "Classical orchestral music",
+    "Jazz"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for classical chamber music",
+    "Increase opportunities for classical orchestral music",
+    "Increase opportunities for jazz"
+  ],
+  "cached_at": "2025-06-21T00:28:27.352343",
+  "cache_key": "f9e0902e70766c607aaf3c8d3c2d8b574b9c0ccdbc5694755a4b40779968ac33",
+  "model": "gpt-41"
+}

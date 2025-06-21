@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased arts opportunities",
+    "interest in film-related events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More arts and film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase arts opportunities",
+    "Increase film opportunities"
+  ],
+  "cached_at": "2025-06-21T00:47:41.789814",
+  "cache_key": "6d462548e68f5e518570e914baf364922c6d36b0bf3fed3c305c0eb995516f4e",
+  "model": "gpt-41"
+}

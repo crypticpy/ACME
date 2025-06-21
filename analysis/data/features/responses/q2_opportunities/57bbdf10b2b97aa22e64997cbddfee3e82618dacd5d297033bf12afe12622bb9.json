@@ -1,0 +1,49 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for city-sponsored music events with fair pay",
+    "recognition of city staff supporting music opportunities",
+    "importance of funding for AUS Airport music program",
+    "support for arts nonprofit events via STR HOT revenue",
+    "significance of HAAM Day and other nonprofit-led festivals",
+    "concern about SXSW shifting focus outside Austin",
+    "link between cultural investment and tourism/business economy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "city-sponsored music events that adhere to the city standard pay rate",
+    "the work that Greg Gonzalez and Shelbi Mitchell are doing in the Music Division",
+    "more financial support for the AUS Airport music program",
+    "support for arts nonprofits events through increased STR HOT revenue",
+    "HAAM Day has now become the largest one-day music festival in the world",
+    "other nonprofits like Red River Cultural District",
+    "SXSW now focusing efforts outside of Austin",
+    "increased investment in supporting pad performance events through arts nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AUS Airport music program",
+    "HAAM Day",
+    "Red River Cultural District",
+    "SXSW"
+  ],
+  "barriers_identified": [
+    "lack of city-sponsored music events with standard pay",
+    "insufficient financial support for AUS Airport music program",
+    "limited funding for arts nonprofit events",
+    "major festivals like SXSW shifting focus away from Austin"
+  ],
+  "solutions_proposed": [
+    "increase city-sponsored music events adhering to city standard pay rate",
+    "provide more financial support for AUS Airport music program",
+    "increase support for arts nonprofit events through STR HOT revenue",
+    "invest in nonprofit-led paid performance events to sustain Austin's brand and economy"
+  ],
+  "cached_at": "2025-06-21T00:28:33.325688",
+  "cache_key": "57bbdf10b2b97aa22e64997cbddfee3e82618dacd5d297033bf12afe12622bb9",
+  "model": "gpt-41"
+}

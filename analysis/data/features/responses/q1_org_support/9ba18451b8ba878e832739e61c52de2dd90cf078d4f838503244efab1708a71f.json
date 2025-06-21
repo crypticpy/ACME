@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for full-time creative workers",
+    "equity and fair compensation",
+    "business structure reform for creative industries",
+    "grant distribution reform",
+    "media representation and coverage"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More support for full time musicians/artists/etc.",
+    "Highly skilled creative workers who contribute to multiple creative projects as their full time living.",
+    "Promotion of equity and higher standards for compensation for creative work throughout the city.",
+    "Incentivizing change to business structures to better compensate for creative work.",
+    "Modifying grant structures: less money per person, but spread across a wider net to reach more creatives more often.",
+    "More balanced coverage in the Austin Chronicle."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Chronicle"
+  ],
+  "barriers_identified": [
+    "insufficient support for full-time creative workers",
+    "inequitable compensation standards",
+    "business structures that do not adequately compensate creative work",
+    "grant structures that do not reach enough creatives",
+    "imbalanced media coverage"
+  ],
+  "solutions_proposed": [
+    "increase support for full-time musicians and artists",
+    "promote equity and higher compensation standards",
+    "incentivize business structure changes to better compensate creative work",
+    "modify grant structures to distribute less money per person but reach more creatives",
+    "ensure more balanced coverage in the Austin Chronicle"
+  ],
+  "cached_at": "2025-06-20T10:40:24.063509",
+  "cache_key": "9ba18451b8ba878e832739e61c52de2dd90cf078d4f838503244efab1708a71f",
+  "model": "gpt-41"
+}

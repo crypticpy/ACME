@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding",
+    "concerns about sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Funding and sustainability"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding",
+    "Sustainability"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:47.820093",
+  "cache_key": "133f5255cf4c4541e6dee676a27b90881437238e7df9499f176192140101bdad",
+  "model": "gpt-41"
+}

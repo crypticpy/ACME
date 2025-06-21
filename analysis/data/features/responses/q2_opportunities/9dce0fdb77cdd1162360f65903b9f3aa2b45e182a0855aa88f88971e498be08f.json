@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "arts education in public schools",
+    "after school arts programs",
+    "geographic equity (not just downtown)",
+    "hands-on arts experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "far more education in public schools",
+    "after school programs",
+    "not just downtown",
+    "more hands on arts",
+    "classes, experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to arts education outside downtown"
+  ],
+  "solutions_proposed": [
+    "increase arts education in public schools",
+    "expand after school arts programs",
+    "offer hands-on arts classes and experiences in more locations"
+  ],
+  "cached_at": "2025-06-21T00:32:08.962923",
+  "cache_key": "9dce0fdb77cdd1162360f65903b9f3aa2b45e182a0855aa88f88971e498be08f",
+  "model": "gpt-41"
+}

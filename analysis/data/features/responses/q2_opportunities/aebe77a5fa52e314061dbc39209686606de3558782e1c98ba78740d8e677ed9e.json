@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community participation in performing arts",
+    "amateur involvement in cultural activities",
+    "opportunities for local residents"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "opportunities for those of us who live here",
+    "participate in the performing arts",
+    "especially as amateurs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for amateur participation"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for local residents to participate in performing arts as amateurs"
+  ],
+  "cached_at": "2025-06-21T00:50:56.375277",
+  "cache_key": "aebe77a5fa52e314061dbc39209686606de3558782e1c98ba78740d8e677ed9e",
+  "model": "gpt-41"
+}

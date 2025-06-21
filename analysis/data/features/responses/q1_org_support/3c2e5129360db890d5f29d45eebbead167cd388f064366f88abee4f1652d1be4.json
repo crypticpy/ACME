@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equity in funding distribution",
+    "clarity of funding guidelines",
+    "transparency in decision-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more equitable funding opportunities",
+    "clearer guidelines and expectations around funding opportunities",
+    "transparency around who is making funding decisions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equitable funding opportunities",
+    "unclear guidelines and expectations",
+    "lack of transparency in decision-making"
+  ],
+  "solutions_proposed": [
+    "provide more equitable funding opportunities",
+    "create clearer guidelines and expectations around funding opportunities",
+    "increase transparency around who is making funding decisions"
+  ],
+  "cached_at": "2025-06-20T10:31:59.588358",
+  "cache_key": "3c2e5129360db890d5f29d45eebbead167cd388f064366f88abee4f1652d1be4",
+  "model": "gpt-41"
+}

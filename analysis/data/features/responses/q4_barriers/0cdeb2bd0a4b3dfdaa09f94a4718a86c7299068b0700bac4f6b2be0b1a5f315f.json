@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "transportation challenges",
+    "parking accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "cost to attend shows",
+    "problems with travelling",
+    "location",
+    "access to parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost to attend shows",
+    "problems with travelling",
+    "location",
+    "access to parking"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:05.459467",
+  "cache_key": "0cdeb2bd0a4b3dfdaa09f94a4718a86c7299068b0700bac4f6b2be0b1a5f315f",
+  "model": "gpt-41"
+}

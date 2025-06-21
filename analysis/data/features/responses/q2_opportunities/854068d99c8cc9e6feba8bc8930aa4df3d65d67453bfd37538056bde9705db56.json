@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "reallocation of funding from music festivals",
+    "support for physical cultural spaces",
+    "emphasis on theatre and gallery spaces",
+    "access to arts education and resources",
+    "promotion of Dougherty Arts Center as a central hub"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Less investment in music festivals",
+    "more investment in cultural spaces",
+    "theatre space, gallery spaces, classes and resource centers",
+    "like Dougherty Arts Center",
+    "Make the DAC a well known go-to location for all things art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Dougherty Arts Center",
+    "DAC"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Less investment in music festivals",
+    "More investment in cultural spaces that offer theatre space, gallery spaces, classes and resource centers",
+    "Make the Dougherty Arts Center a well known go-to location for all things art"
+  ],
+  "cached_at": "2025-06-21T00:24:38.037845",
+  "cache_key": "854068d99c8cc9e6feba8bc8930aa4df3d65d67453bfd37538056bde9705db56",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "facilitating connections between artists and businesses",
+    "integration of local art and music into business environments",
+    "expanding economic opportunities for artists",
+    "sync licensing and office art as underutilized avenues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "liaison between artists and companies",
+    "increase use of local music and art",
+    "everyday business opportunities",
+    "sync licensing",
+    "office art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection between artists and companies",
+    "underrepresentation of local art in business settings"
+  ],
+  "solutions_proposed": [
+    "create a liaison program to connect artists with companies for business opportunities such as sync licensing and office art"
+  ],
+  "cached_at": "2025-06-21T02:02:37.106165",
+  "cache_key": "6a5c728a2f26660a433f8c2c7f128c349523c1b18ce9b0738d0a0c319f12571b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "devastating impact of post-COVID funding criteria changes",
+    "loss of long-standing arts organizations",
+    "unemployment for local artists due to policy shifts",
+    "exclusion from funding after prior success"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "changes in criteria for funding after covid absolutely devastated my theatre company",
+    "had been successfully operating for 15 years",
+    "did not make the first round of funding after a decade of successful grant applications",
+    "we no longer produce",
+    "the artists that we hired no longer have work because of the policy changes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "changes in funding criteria after COVID",
+    "exclusion from first round of funding despite prior success"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:13:38.106562",
+  "cache_key": "679530e5e382266a7d644ce83556919db22b0f0ca65d4e806980dd9caea8b27d",
+  "model": "gpt-41"
+}

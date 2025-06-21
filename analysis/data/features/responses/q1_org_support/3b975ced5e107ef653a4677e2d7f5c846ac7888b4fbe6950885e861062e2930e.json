@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Prioritizing funding for emerging and financially needy organizations",
+    "Equitable support for organizations serving diverse artists",
+    "Critique of legacy organizations with strong financial backing",
+    "Need for marketing and promotional support for grassroots groups",
+    "Encouraging audiences to explore new organizations",
+    "Requirement for local hiring in theatres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "focus on supporting emerging organizations and/or those that have greater financial need",
+    "prioritize those who provide a wide variety of programming and support working artists of all identities",
+    "legacy organizations that have large foundations and wealthy donors behind them don't need as much support",
+    "limited resources should be allocated to more grassroots efforts",
+    "organizations doing great work that could use help with marketing and promotion",
+    "audience members who patronize the same organizations year after year who would benefit from trying new places",
+    "theatres should be required to hire local actors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of financial support for emerging or grassroots organizations",
+    "Insufficient marketing and promotion for lesser-known organizations",
+    "Audience loyalty to established organizations limiting exposure to new groups",
+    "Limited opportunities for local actors in theatres"
+  ],
+  "solutions_proposed": [
+    "Prioritize funding for emerging and financially needy organizations",
+    "Allocate resources away from legacy organizations with strong financial backing",
+    "Provide marketing and promotional support to grassroots organizations",
+    "Encourage audiences to try new organizations",
+    "Require theatres to hire local actors"
+  ],
+  "cached_at": "2025-06-20T10:28:37.516569",
+  "cache_key": "3b975ced5e107ef653a4677e2d7f5c846ac7888b4fbe6950885e861062e2930e",
+  "model": "gpt-41"
+}

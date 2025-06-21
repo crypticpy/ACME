@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration among organizations and leaders",
+    "community gathering",
+    "multidisciplinary cultural events",
+    "frequency of events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "multiple events per year",
+    "all of these organizations and cultural leaders all come together",
+    "under one umbrella",
+    "with music, food, and art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Have multiple events per year where all organizations and cultural leaders come together under one umbrella with music, food, and art"
+  ],
+  "cached_at": "2025-06-20T10:43:41.027480",
+  "cache_key": "0147a7e2a69a6ab9f23cd3c08c0215b097f964c33daa28d61236783b43c6cfd7",
+  "model": "gpt-41"
+}

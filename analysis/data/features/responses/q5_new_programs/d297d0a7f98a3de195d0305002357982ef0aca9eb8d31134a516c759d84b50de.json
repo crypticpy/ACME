@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased global cultural representation",
+    "desire for diversity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More global diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of global diversity"
+  ],
+  "solutions_proposed": [
+    "offer more globally diverse programs"
+  ],
+  "cached_at": "2025-06-21T02:02:42.808815",
+  "cache_key": "d297d0a7f98a3de195d0305002357982ef0aca9eb8d31134a516c759d84b50de",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Need for city investment in entertainment infrastructure",
+    "Financial burden on producers",
+    "Lack of dedicated entertainment venues",
+    "Sustainability of cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "needed improvements to City properties",
+    "used for entertainment purposes",
+    "actually become entertainment venues",
+    "producer/s do not have to financially create a venue",
+    "lessen their ability to offer sustainable entertainment"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Producers must financially create a venue",
+    "City properties are not adequately equipped as entertainment venues",
+    "Financial strain reduces ability to offer sustainable entertainment"
+  ],
+  "solutions_proposed": [
+    "City should improve properties used for entertainment to function as true venues"
+  ],
+  "cached_at": "2025-06-21T01:54:34.142727",
+  "cache_key": "c10266c8b784c0e86854513123df02d82e068208d068a391c1df39e9ad4d54bf",
+  "model": "gpt-41"
+}

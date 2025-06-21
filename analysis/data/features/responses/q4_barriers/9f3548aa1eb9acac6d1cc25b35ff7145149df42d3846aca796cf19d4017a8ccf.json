@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "instability in daily life",
+    "political uncertainty",
+    "economic challenges",
+    "high cost of living"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "unstable environment",
+    "uncertain political atmosphere",
+    "hard-to-navigate economic climate",
+    "expensive city",
+    "it ain't easy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unstable environment",
+    "uncertain political atmosphere",
+    "difficult economic climate",
+    "high cost of living"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:16.701088",
+  "cache_key": "9f3548aa1eb9acac6d1cc25b35ff7145149df42d3846aca796cf19d4017a8ccf",
+  "model": "gpt-41"
+}

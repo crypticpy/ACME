@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "importance of continued support from ACME",
+    "need to invest in both organizations and individual artists",
+    "role of community events and individual creators in Austin's art scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I love the work that ACME is set to do",
+    "look forward to hopefully receiving their continued support",
+    "As both an individual artist and representative of a non-profit",
+    "continue to invest in both those who provide community events and opportunities AND individuals who are trying to create art, music, and entertainment in Austin",
+    "Without both, Austin's art scene would not exist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue to invest in both those who provide community events and opportunities AND individuals who are trying to create art, music, and entertainment in Austin"
+  ],
+  "cached_at": "2025-06-20T10:43:58.483420",
+  "cache_key": "eeb05b7231a9e744c4ef24858bceb28962c1c26c4702f8f378ff676035a96698",
+  "model": "gpt-41"
+}

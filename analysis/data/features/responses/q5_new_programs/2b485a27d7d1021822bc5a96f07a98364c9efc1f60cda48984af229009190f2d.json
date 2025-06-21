@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for local artist support",
+    "impact of newcomers on opportunities",
+    "desire to uplift long-term Austin and Texas artists",
+    "recognition of Texas' cultural diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "local-specific interest and support",
+    "individuals coming from elsewhere have drastically changed the landscape of opportunities for local artists",
+    "uplift local voices who have loved and labored for years right here in Austin, and Texas at large"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "influx of individuals from elsewhere changing opportunities for local artists"
+  ],
+  "solutions_proposed": [
+    "ACME uplift local voices who have loved and labored for years right here in Austin, and Texas at large"
+  ],
+  "cached_at": "2025-06-21T02:02:16.989239",
+  "cache_key": "2b485a27d7d1021822bc5a96f07a98364c9efc1f60cda48984af229009190f2d",
+  "model": "gpt-41"
+}

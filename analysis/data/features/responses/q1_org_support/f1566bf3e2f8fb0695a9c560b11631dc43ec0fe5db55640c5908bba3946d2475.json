@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of transparency",
+    "gatekeeping in decision-making"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "open meetings",
+    "less gatekeeping"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping"
+  ],
+  "solutions_proposed": [
+    "open meetings",
+    "less gatekeeping"
+  ],
+  "cached_at": "2025-06-20T10:34:54.524697",
+  "cache_key": "f1566bf3e2f8fb0695a9c560b11631dc43ec0fe5db55640c5908bba3946d2475",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance workshops",
+    "interest in painting workshops",
+    "interest in writing workshops"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance, painting, and writing workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more dance workshops",
+    "Offer more painting workshops",
+    "Offer more writing workshops"
+  ],
+  "cached_at": "2025-06-21T00:46:25.596266",
+  "cache_key": "5b305e414c76a898672d1f4b3d54c8f86ac1d63896331508d6c8e77cd6910fe1",
+  "model": "gpt-41"
+}

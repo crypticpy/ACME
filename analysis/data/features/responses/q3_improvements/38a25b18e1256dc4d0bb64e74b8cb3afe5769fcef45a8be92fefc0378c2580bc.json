@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Overreliance on HOT (Hotel Occupancy Tax) for arts funding",
+    "Tourism marketing requirements for individual artists and small organizations",
+    "Inappropriate grant scoring based on neighborhood of applicant",
+    "Application process is overly burdensome"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Find ways to fund the arts besides HOT",
+    "shouldn't be required to figure out how to market to tourists on the Nexus grant",
+    "Only venues should be required to market to the public",
+    "Scoring grant applications based on the neighborhood the applicant lives in, doesn't make sense to me",
+    "The applications are grueling"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus grant"
+  ],
+  "barriers_identified": [
+    "Requirement for individual artists and small orgs to market to tourists",
+    "Grant scoring based on applicant's neighborhood",
+    "Grueling application process"
+  ],
+  "solutions_proposed": [
+    "Find alternative funding sources beyond HOT",
+    "Remove tourism marketing requirement for individual artists and small orgs on the Nexus grant",
+    "Require only venues to market to the public",
+    "Stop scoring grant applications based on neighborhood",
+    "Simplify the application process"
+  ],
+  "cached_at": "2025-06-21T01:08:52.847756",
+  "cache_key": "38a25b18e1256dc4d0bb64e74b8cb3afe5769fcef45a8be92fefc0378c2580bc",
+  "model": "gpt-41"
+}

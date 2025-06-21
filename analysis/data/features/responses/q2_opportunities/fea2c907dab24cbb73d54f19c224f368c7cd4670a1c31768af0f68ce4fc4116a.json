@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in wellness-focused cultural activities",
+    "desire for non-religious spiritual experiences",
+    "preference for yoga, meditation, and kirtan"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Yoga",
+    "meditation",
+    "kirtan",
+    "non-religious spiritual offerings"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more yoga opportunities",
+    "Offer more meditation opportunities",
+    "Offer more kirtan events",
+    "Provide non-religious spiritual offerings"
+  ],
+  "cached_at": "2025-06-21T00:31:58.009623",
+  "cache_key": "fea2c907dab24cbb73d54f19c224f368c7cd4670a1c31768af0f68ce4fc4116a",
+  "model": "gpt-41"
+}

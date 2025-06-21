@@ -1,0 +1,55 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Overemphasis on tourism in funding priorities",
+    "Problems with funding calendar and fiscal year alignment",
+    "Disconnect between arts community and broader community/businesses",
+    "Equity and accessibility implementation issues",
+    "Lack of discipline-specific and knowledgeable review panels",
+    "Inclusion of commercial businesses in nonprofit funding pools",
+    "Administrative confusion and inefficiency (third party administrator, information access)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The focus on tourists is detrimental to the community and has weakened our ecosystem",
+    "calendar change that's supposed to be happening this year is also highly detrimental",
+    "we have to know what our funding situation will be",
+    "connect the arts community to the wider community and to encourage businesses/developers to do more to support us",
+    "recent focus on equity and accessibility was much-needed, it has been disastrous in practice",
+    "very little accountability in the present system",
+    "Return to discipline-specific and budget-level panels with more local representation",
+    "Commercial businesses should not be included in local arts funding",
+    "Do away with the third party administrator",
+    "We spend our time being sent from the Long Center to the City and back again"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center",
+    "Submittable"
+  ],
+  "barriers_identified": [
+    "Overemphasis on tourism over community needs",
+    "Misaligned funding calendar with organizational programming",
+    "Lack of connection between arts and broader community/businesses",
+    "Equity and accessibility measures resulting in unintended exclusion",
+    "Panels lacking expertise and local representation",
+    "Competition from commercial businesses for nonprofit funds",
+    "Fragmented and confusing administrative process"
+  ],
+  "solutions_proposed": [
+    "Use the full text of the HOT statute in creating guidelines",
+    "Allow resources to strengthen and grow a vibrant arts ecosystem",
+    "Align funding calendar with organizational programming (suggest July - August year)",
+    "Connect arts community to wider community and encourage business/developer support",
+    "Return to discipline-specific and budget-level panels with knowledgeable local representation",
+    "Exclude commercial businesses from competing with nonprofits for local arts funding",
+    "Eliminate the third party administrator and centralize information access"
+  ],
+  "cached_at": "2025-06-21T01:06:07.414091",
+  "cache_key": "26c66a1fa37566fa9fba7dd673f891072f31b76c9ad9c05249d8e641748f993f",
+  "model": "gpt-41"
+}

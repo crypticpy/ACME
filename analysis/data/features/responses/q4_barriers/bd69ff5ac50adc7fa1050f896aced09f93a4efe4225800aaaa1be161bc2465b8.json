@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of clarity about city funding mission",
+    "information barriers to accessing support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Understanding the mission of the city funds"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty understanding the mission of the city funds"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:02.726229",
+  "cache_key": "bd69ff5ac50adc7fa1050f896aced09f93a4efe4225800aaaa1be161bc2465b8",
+  "model": "gpt-41"
+}

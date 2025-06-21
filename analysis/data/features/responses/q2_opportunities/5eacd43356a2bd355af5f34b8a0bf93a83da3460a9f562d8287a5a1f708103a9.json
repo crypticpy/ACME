@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "interest in industrial arts",
+    "desire for more diverse cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "The industrial arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities in industrial arts"
+  ],
+  "cached_at": "2025-06-21T00:27:09.689762",
+  "cache_key": "5eacd43356a2bd355af5f34b8a0bf93a83da3460a9f562d8287a5a1f708103a9",
+  "model": "gpt-41"
+}

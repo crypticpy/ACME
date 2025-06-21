@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Grant program structure and distribution",
+    "Underfunding of small arts organizations and artists",
+    "Inefficient use of accessibility resources (ASL translation)",
+    "Mismatch between accessibility requirements and actual audience needs",
+    "Desire for funding to directly benefit artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "rework the Elevate and Thrive grants to focus on the arts and serve more people/organizations by spreading the funding out more",
+    "we are still very small and highly underfunded",
+    "ASL translator who is being asked to translate LOTS of shows lately",
+    "event doesn\u2019t have any audience members in need of her services",
+    "money that is not well spent and could be going to the artists instead",
+    "Requiring organizations to accommodate populations that aren\u2019t frequenting certain events is not helpful for anyone",
+    "It is not actually serving the deaf community or the presenting artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "Small and established organizations are highly underfunded",
+    "Funding requirements for accessibility services not matched to actual audience needs",
+    "Resources diverted from artists to unnecessary services"
+  ],
+  "solutions_proposed": [
+    "Rework the Elevate and Thrive grants to spread funding more widely",
+    "Align accessibility requirements with actual audience needs to avoid unnecessary expenditures"
+  ],
+  "cached_at": "2025-06-21T02:19:57.542232",
+  "cache_key": "83a6e23e8b111f7b549a7310a6716b20d7bd17fd249810415f9aaac2b397308f",
+  "model": "gpt-41"
+}

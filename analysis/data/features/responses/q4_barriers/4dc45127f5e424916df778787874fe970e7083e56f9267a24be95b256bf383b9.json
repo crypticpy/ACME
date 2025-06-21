@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "Negative experiences with City staff",
+    "Application process as a barrier",
+    "Perceived disrespect for artistic practice"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "City staff's attitude is a huge negative barrier",
+    "application questions are also a slog",
+    "inherent disrespect for artistic practice and merit"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Negative attitude of City staff",
+    "Cumbersome application questions",
+    "Lack of respect for artistic practice and merit in the process"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:26:09.713802",
+  "cache_key": "4dc45127f5e424916df778787874fe970e7083e56f9267a24be95b256bf383b9",
+  "model": "gpt-41"
+}

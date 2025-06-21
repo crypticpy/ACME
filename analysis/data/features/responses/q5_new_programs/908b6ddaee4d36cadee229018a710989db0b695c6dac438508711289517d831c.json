@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for community engagement programming",
+    "lack of understanding around accessibility requirements",
+    "recommendation for accessibility support resources",
+    "encouraging interdisciplinary collaboration",
+    "competition between art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Programs on community engagement and accessibility",
+    "people are required to make their events accessible, they typically do not understand what this means or how to go about it",
+    "You can have recommended vendors for this",
+    "encourage cross-over and collaboration between music, theater, visual art, performance, etc",
+    "so they do not feel in competition with one another"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of understanding of accessibility requirements",
+    "competition between different artistic disciplines"
+  ],
+  "solutions_proposed": [
+    "offer programs on community engagement and accessibility",
+    "provide recommended vendors for accessibility",
+    "encourage cross-over and collaboration between music, theater, visual art, performance, etc"
+  ],
+  "cached_at": "2025-06-21T02:03:59.031007",
+  "cache_key": "908b6ddaee4d36cadee229018a710989db0b695c6dac438508711289517d831c",
+  "model": "gpt-41"
+}

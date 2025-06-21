@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "grant opportunities",
+    "support for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Money- grants and opportunities for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [
+    "provide more grants and opportunities for artists"
+  ],
+  "cached_at": "2025-06-20T10:28:46.932585",
+  "cache_key": "e508edd0c765e1a850c3b45f335bdc1a4ec0ac45c53773fc1e622dad44f854d0",
+  "model": "gpt-41"
+}

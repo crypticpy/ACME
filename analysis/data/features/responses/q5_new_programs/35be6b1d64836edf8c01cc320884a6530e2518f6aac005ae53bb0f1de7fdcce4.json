@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art in neighborhood parks",
+    "functional art at public transit locations",
+    "greater recognition of celebrated groups at citywide scale"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Neighborhood park public art",
+    "Functional art at bus stops",
+    "More celebrated groups at a citywide level"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Introduce public art in neighborhood parks",
+    "Install functional art at bus stops",
+    "Increase citywide celebration of groups"
+  ],
+  "cached_at": "2025-06-21T01:51:42.684643",
+  "cache_key": "35be6b1d64836edf8c01cc320884a6530e2518f6aac005ae53bb0f1de7fdcce4",
+  "model": "gpt-41"
+}

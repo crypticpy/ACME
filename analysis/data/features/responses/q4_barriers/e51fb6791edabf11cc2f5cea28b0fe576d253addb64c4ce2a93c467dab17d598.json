@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased difficulty accessing grants",
+    "reduced funding for creative work"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "grants are harder to get",
+    "less money to create"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "grants are harder to get",
+    "less money to create"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:46.623614",
+  "cache_key": "e51fb6791edabf11cc2f5cea28b0fe576d253addb64c4ce2a93c467dab17d598",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased publicity",
+    "improving accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "promocion publicitaria",
+    "accesibilidad"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicity",
+    "limited accessibility"
+  ],
+  "solutions_proposed": [
+    "increase publicity",
+    "improve accessibility"
+  ],
+  "cached_at": "2025-06-21T01:07:55.664812",
+  "cache_key": "bc6ccbb70e066687f247e23f1a84de7c7830e28ecada3fa13fcbcdb89c562a87",
+  "model": "gpt-41"
+}

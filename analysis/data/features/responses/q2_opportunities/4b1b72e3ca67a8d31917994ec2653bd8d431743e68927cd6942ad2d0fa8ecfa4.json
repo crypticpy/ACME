@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased opportunities for minority filmmakers",
+    "support for LGBTQ filmmakers",
+    "representation and inclusion in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities given to filmmakers",
+    "minorities",
+    "LGBTQ community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for minority and LGBTQ filmmakers"
+  ],
+  "solutions_proposed": [
+    "provide more opportunities for minority and LGBTQ filmmakers"
+  ],
+  "cached_at": "2025-06-21T00:49:02.854554",
+  "cache_key": "4b1b72e3ca67a8d31917994ec2653bd8d431743e68927cd6942ad2d0fa8ecfa4",
+  "model": "gpt-41"
+}

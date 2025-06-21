@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased institutional support",
+    "underrepresentation of visual arts institutions",
+    "specific advocacy for The Museum of Fine Arts, Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.6,
+  "key_phrases": [
+    "More Support for The Museum of Fine Arts, Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Museum of Fine Arts, Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More Support for The Museum of Fine Arts, Austin"
+  ],
+  "cached_at": "2025-06-21T02:09:40.184956",
+  "cache_key": "ea6daa101445891f1a9e1e85d3e0fb8c45ebdb9883f89b1d85e49dd3f52577ce",
+  "model": "gpt-41"
+}

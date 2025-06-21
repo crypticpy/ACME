@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient arts funding",
+    "perceived prioritization of business over arts",
+    "threat to Austin's cultural identity",
+    "need for broader arts investment beyond music"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More money for the arts, more money for the arts, more money for the arts.",
+    "Artists made Austin a place where everyone in business wanted to move",
+    "we give money to those businesses for free and the arts get a smaller slice of the pie",
+    "Austin will lose it's soul if it doesn't invest much more heavily in (not just music) but all arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "arts get a smaller slice of the pie",
+    "funding prioritized for businesses over arts"
+  ],
+  "solutions_proposed": [
+    "invest much more heavily in (not just music) but all arts",
+    "more money for the arts"
+  ],
+  "cached_at": "2025-06-20T10:26:24.765674",
+  "cache_key": "bab1d55c239b18f56a6b0babc8f58792e7c6e808cdfdcce3bb86784f98078ee3",
+  "model": "gpt-41"
+}

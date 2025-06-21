@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant process inefficiency",
+    "delayed communication impacting project execution",
+    "insufficient and poorly structured funding disbursement",
+    "financial burden placed on artists",
+    "inflexibility of in-person requirements"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "unnecessary hurdles/steps for grant funding",
+    "not been timely in notifying applicants",
+    "impacted their ability to even execute the projects",
+    "offers only $4,500 upfront and then gives $500 after the project is done",
+    "requires the artist to fundraise even more",
+    "alleviate unnecessary stress",
+    "providing virtual sessions immediately vs. requiring people to attend in person"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus funding"
+  ],
+  "barriers_identified": [
+    "unnecessary hurdles/steps for grant funding",
+    "delayed notification to applicants",
+    "insufficient upfront funding",
+    "requirement to attend in-person sessions to receive funds",
+    "artists must front costs and fundraise additional amounts"
+  ],
+  "solutions_proposed": [
+    "provide virtual sessions immediately instead of requiring in-person attendance",
+    "give the full funding amount upfront to alleviate stress"
+  ],
+  "cached_at": "2025-06-20T10:29:47.246587",
+  "cache_key": "f77869a761a1381731b19e44b8ccc568ea2abafcc495f59d5e44b2c0f856a7b4",
+  "model": "gpt-41"
+}

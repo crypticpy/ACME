@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "payment structure dissatisfaction",
+    "preference for lump sum payments",
+    "administrative burden of multiple payments"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "One award payment",
+    "not several small award payments"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "multiple small payments create inconvenience"
+  ],
+  "solutions_proposed": [
+    "consolidate award payments into a single payment"
+  ],
+  "cached_at": "2025-06-21T01:16:47.738187",
+  "cache_key": "9a9e05b22e5b17002c27cb8438700aae2561849956786bfef703b676dd5b0ebd",
+  "model": "gpt-41"
+}

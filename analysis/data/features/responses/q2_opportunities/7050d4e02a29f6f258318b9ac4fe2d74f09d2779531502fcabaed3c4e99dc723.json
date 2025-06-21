@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art visibility",
+    "art festivals",
+    "showcasing local talent",
+    "regional and national recognition"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "public art",
+    "art festivals",
+    "showcase local talent",
+    "to the rest of the state and country"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase public art",
+    "Host more art festivals that showcase local talent to wider audiences"
+  ],
+  "cached_at": "2025-06-21T00:52:07.399161",
+  "cache_key": "7050d4e02a29f6f258318b9ac4fe2d74f09d2779531502fcabaed3c4e99dc723",
+  "model": "gpt-41"
+}

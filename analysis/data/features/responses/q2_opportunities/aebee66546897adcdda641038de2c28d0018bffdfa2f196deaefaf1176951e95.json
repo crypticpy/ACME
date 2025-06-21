@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "parking challenges for musicians",
+    "financial struggles of music venues",
+    "need for increased artist compensation",
+    "public art appreciation",
+    "desire for more artist opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Parking for musicians downtown",
+    "supporting struggling venues with some kind of tax break",
+    "so they can pay musicians more $",
+    "I love seeing Art in public places!",
+    "More opportunities for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of parking for musicians",
+    "financial difficulties for venues"
+  ],
+  "solutions_proposed": [
+    "provide parking for musicians downtown",
+    "offer tax breaks to struggling venues so they can pay musicians more"
+  ],
+  "cached_at": "2025-06-21T00:29:11.842752",
+  "cache_key": "aebee66546897adcdda641038de2c28d0018bffdfa2f196deaefaf1176951e95",
+  "model": "gpt-41"
+}

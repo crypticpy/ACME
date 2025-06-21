@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth-centered arts opportunities",
+    "focus on underserved communities",
+    "integration of arts education and leadership development",
+    "amplification of young voices",
+    "multidisciplinary showcases"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "center youth creativity",
+    "especially in underserved communities",
+    "combine high-quality arts education with leadership development",
+    "intensives, youth-led performances, and multidisciplinary showcases",
+    "amplify young voices",
+    "nurturing future cultural leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities centered on youth creativity in underserved communities"
+  ],
+  "solutions_proposed": [
+    "programs that combine high-quality arts education with leadership development",
+    "intensives",
+    "youth-led performances",
+    "multidisciplinary showcases"
+  ],
+  "cached_at": "2025-06-21T00:46:58.513555",
+  "cache_key": "ac5216ccbd45524415957078d8b23d124e0e863f015e7c49212cabad6b8ca39a",
+  "model": "gpt-41"
+}

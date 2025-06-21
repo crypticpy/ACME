@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for educational support",
+    "application process accessibility",
+    "artist capacity-building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more free workshops",
+    "artists to understand the applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of understanding of applications"
+  ],
+  "solutions_proposed": [
+    "more free workshops for artists to understand the applications"
+  ],
+  "cached_at": "2025-06-21T01:19:15.323779",
+  "cache_key": "bb82ecc21fed6188eff0d88b18bd9588b6c53701be5d33535fe45bf390f55421",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for micro grants for small projects",
+    "interest in skill-sharing opportunities",
+    "value of professional development workshops",
+    "desire for expansion and scaling up of educational offerings",
+    "interest in complex, advanced workshop topics"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Micro grants for smaller projects",
+    "skill shares",
+    "The Dougherty does a professional development series (markets 101, how to build a website, etc) and I\u2019ve loved them",
+    "ACME should host workshops like that on a larger scale",
+    "tackling more complex topics"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Dougherty professional development series"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer micro grants for smaller projects",
+    "Host skill share opportunities",
+    "Host professional development workshops on a larger scale",
+    "Tackle more complex topics in workshops"
+  ],
+  "cached_at": "2025-06-21T01:56:14.007799",
+  "cache_key": "6ce3f787c4cf8569458eb87936c6fdb187a6789cafebec91dcbb49d6581b4121",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "cultural mobility",
+    "flexibility in cultural funding",
+    "resistance to geographic restriction of culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.6,
+  "key_phrases": [
+    "cultures move locations",
+    "not trying to pin cultures locally to specific neighborhoods"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "restricting cultures to specific neighborhoods"
+  ],
+  "solutions_proposed": [
+    "better understanding that cultures move locations",
+    "not trying to pin cultures locally to specific neighborhoods"
+  ],
+  "cached_at": "2025-06-21T00:57:57.333140",
+  "cache_key": "58ce42fb95a3d1b4896e5c5e4bcb1e6bf0986f921e26510fb2da5d3f3ce6b565",
+  "model": "gpt-41"
+}

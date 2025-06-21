@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for visual artists",
+    "opportunities for young artists",
+    "artist showcases"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more visual artists",
+    "opportunities for young artists",
+    "showcased"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more opportunities for young artists to be showcased",
+    "increase visibility for visual artists"
+  ],
+  "cached_at": "2025-06-21T00:47:25.136677",
+  "cache_key": "7d32a914fac1268b63ac31e0dbaf713d8735301348baa7e8f002c92fd9265042",
+  "model": "gpt-41"
+}

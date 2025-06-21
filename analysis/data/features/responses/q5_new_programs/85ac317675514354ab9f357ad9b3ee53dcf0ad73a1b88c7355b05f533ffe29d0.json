@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preservation of African American art forms",
+    "protection of endangered cultural arts",
+    "concern about cultural erasure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "help preserve the culture of African American art forms",
+    "art forms of other cultural arts in danger of vanishing or being erased"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cultural arts in danger of vanishing",
+    "cultural arts being erased"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:01:45.916199",
+  "cache_key": "85ac317675514354ab9f357ad9b3ee53dcf0ad73a1b88c7355b05f533ffe29d0",
+  "model": "gpt-41"
+}

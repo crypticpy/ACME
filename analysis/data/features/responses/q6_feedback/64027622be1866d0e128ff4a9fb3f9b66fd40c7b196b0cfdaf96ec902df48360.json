@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking costs as barrier to arts access",
+    "affordability of cultural participation",
+    "discrepancy between event cost and parking cost",
+    "accessibility of free cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "parking is a huge barrier to people's access",
+    "parking is more expensive than the museum entrance, the Paramount ticket, or the ACL Live ticket",
+    "The Viva la Vida Parade is free, but parking is not",
+    "Going to the Texas Book Festival is free, but parking is not"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Viva la Vida Parade",
+    "Texas Book Festival",
+    "Paramount",
+    "ACL Live"
+  ],
+  "barriers_identified": [
+    "high parking costs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:05.115724",
+  "cache_key": "64027622be1866d0e128ff4a9fb3f9b66fd40c7b196b0cfdaf96ec902df48360",
+  "model": "gpt-41"
+}

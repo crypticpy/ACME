@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for events",
+    "citywide event distribution",
+    "improved local outreach",
+    "raising awareness of cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "added awareness",
+    "funding for events",
+    "throughout the city",
+    "better local outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "insufficient funding",
+    "limited outreach"
+  ],
+  "solutions_proposed": [
+    "provide added awareness",
+    "increase funding for events",
+    "improve local outreach"
+  ],
+  "cached_at": "2025-06-20T10:39:54.898630",
+  "cache_key": "8352d2e122dc268411ccac5acc263430d0a861dd9db774e59260ead8aad4b781",
+  "model": "gpt-41"
+}

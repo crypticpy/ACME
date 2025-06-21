@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "board expertise",
+    "representation of art genres",
+    "grant decision-making process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the board needs to have experienced members",
+    "each art genre",
+    "deciding on which grant to give to whom"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of experienced board members in each art genre"
+  ],
+  "solutions_proposed": [
+    "board should include experienced members from each art genre"
+  ],
+  "cached_at": "2025-06-21T01:14:43.960760",
+  "cache_key": "1676a0dc17051a533a1765be2091a94ee01b17eb8780b5a534d4ab2fa6461063",
+  "model": "gpt-41"
+}

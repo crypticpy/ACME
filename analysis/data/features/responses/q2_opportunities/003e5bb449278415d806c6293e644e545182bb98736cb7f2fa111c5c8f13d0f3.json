@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more international arts",
+    "interest in ethnic and culturally diverse programming",
+    "recognition of Austin's existing arts vibrancy",
+    "suggestion to further enrich cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Diverse International and Ethnic Arts",
+    "further enrich the city's cultural tapestry",
+    "showcasing more arts and entertainment from various international communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "showcasing more arts and entertainment from various international communities"
+  ],
+  "cached_at": "2025-06-21T00:52:05.315857",
+  "cache_key": "003e5bb449278415d806c6293e644e545182bb98736cb7f2fa111c5c8f13d0f3",
+  "model": "gpt-41"
+}

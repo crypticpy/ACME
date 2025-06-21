@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational siloing in the arts sector",
+    "lack of collaboration due to resource constraints",
+    "need for cross-disciplinary and cross-cultural events",
+    "struggles of existing arts initiatives (EAST and WEST)",
+    "desire for accessible showcase events (Free Theater Night, Rising Artists)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "organizations are working so hard to exist that they don't have the capacity to collaborate",
+    "Austin Arts is rather siloed",
+    "cross-pollinate audiences across different disciplines",
+    "cross-cultural festivals",
+    "support of structures like EAST and WEST that are currently struggling to continue",
+    "showcase events like a Free Theater Night or Rising Artists showcases"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "EAST",
+    "WEST",
+    "Free Theater Night",
+    "Rising Artists showcases"
+  ],
+  "barriers_identified": [
+    "organizations are working so hard to exist that they don't have the capacity to collaborate",
+    "EAST and WEST are currently struggling to continue"
+  ],
+  "solutions_proposed": [
+    "more events that help cross-pollinate audiences across different disciplines",
+    "cross-cultural festivals",
+    "support of structures like EAST and WEST",
+    "showcase events like a Free Theater Night or Rising Artists showcases"
+  ],
+  "cached_at": "2025-06-21T00:28:55.027106",
+  "cache_key": "d2b5cb3cdb9762ce486748bdb0171616d0211d59e4966e5f33ed3338dc8a48b4",
+  "model": "gpt-41"
+}

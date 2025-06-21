@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "financial barriers to participation",
+    "affordability of cultural access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Cost prohibitive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:59.695726",
+  "cache_key": "dc56981d62bee81013950e5cbe2753dd556f0319995a39f60c9f32ef789eb8c8",
+  "model": "gpt-41"
+}

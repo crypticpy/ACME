@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "risk aversion in funding decisions",
+    "lack of support for new artists",
+    "need for community input in solutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "you are scared to give your money away",
+    "what if it doesn\u2019t work out or pay off",
+    "New artists are seen as too much of a risk",
+    "listen to the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived risk in funding new artists"
+  ],
+  "solutions_proposed": [
+    "listen to the community"
+  ],
+  "cached_at": "2025-06-21T01:13:10.860975",
+  "cache_key": "de7ac0e677f22e0413e997325e317fe01972b4e25b2efad9dec07099c54ac7b5",
+  "model": "gpt-41"
+}

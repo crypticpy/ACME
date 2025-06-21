@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach",
+    "support with rehearsal spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Outreach",
+    "Assisting these organizations with rehearsal spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to rehearsal spaces"
+  ],
+  "solutions_proposed": [
+    "increase outreach",
+    "assist organizations with rehearsal spaces"
+  ],
+  "cached_at": "2025-06-20T01:13:58.781187",
+  "cache_key": "64b87d59e2957a14512834b5bc050b4bde52dec18b34cacaa39f41b6241b680f",
+  "model": "gpt-41"
+}

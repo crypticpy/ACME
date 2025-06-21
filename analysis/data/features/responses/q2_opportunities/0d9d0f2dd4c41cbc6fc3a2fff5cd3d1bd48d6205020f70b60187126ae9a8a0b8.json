@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more community theater",
+    "integration of diverse cultures in programming",
+    "critique of tokenistic cultural celebrations",
+    "call for representative cultural efforts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More community theater",
+    "not just a 5 de mayo celebration",
+    "fully integrate Austin's diverse cultures into everyday programming",
+    "Not a token celebration but a representative effort"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "tokenistic cultural celebrations",
+    "lack of everyday integration of diverse cultures"
+  ],
+  "solutions_proposed": [
+    "fully integrate Austin's diverse cultures into everyday programming",
+    "representative effort rather than token celebration"
+  ],
+  "cached_at": "2025-06-21T00:24:44.838996",
+  "cache_key": "0d9d0f2dd4c41cbc6fc3a2fff5cd3d1bd48d6205020f70b60187126ae9a8a0b8",
+  "model": "gpt-41"
+}

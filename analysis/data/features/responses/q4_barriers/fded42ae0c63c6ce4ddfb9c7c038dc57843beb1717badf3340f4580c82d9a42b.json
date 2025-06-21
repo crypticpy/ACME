@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation challenges",
+    "rising rent and affordability",
+    "difficulty accessing creative space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Travel to get around town",
+    "rent is going up to fast",
+    "harder to rent out a studio or show work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty traveling around town",
+    "rapidly increasing rent",
+    "limited affordable studio or exhibition space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:26.768255",
+  "cache_key": "fded42ae0c63c6ce4ddfb9c7c038dc57843beb1717badf3340f4580c82d9a42b",
+  "model": "gpt-41"
+}

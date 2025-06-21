@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for music industry infrastructure",
+    "access to recording facilities",
+    "support for local musicians"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Record Label with studio access"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of record label support",
+    "limited access to studio facilities"
+  ],
+  "solutions_proposed": [
+    "Create a record label with studio access"
+  ],
+  "cached_at": "2025-06-21T02:05:19.223468",
+  "cache_key": "89216cacddc5e86ecbd21b821d8838cc8b421c8e5cd047159365ec41d20fa278",
+  "model": "gpt-41"
+}

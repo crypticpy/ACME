@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Recognition of organizational longevity and proven success",
+    "Funding tied to outreach to BIPOC organizations and audiences",
+    "Employment of BIPOC artists as a funding criterion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "recognized and funded for longevity of proven success",
+    "outreach to BIPOC organizations & audiences",
+    "employment of BIPOC artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of recognition and funding for organizations with proven success",
+    "Insufficient support for outreach to BIPOC organizations and audiences",
+    "Limited employment opportunities for BIPOC artists"
+  ],
+  "solutions_proposed": [
+    "Recognize and fund organizations for longevity and proven success",
+    "Tie funding to outreach to BIPOC organizations and audiences",
+    "Tie funding to employment of BIPOC artists"
+  ],
+  "cached_at": "2025-06-20T10:36:40.729066",
+  "cache_key": "9e5f1b959a35a21dd7c061ae196be985b4d27b4a7f31981eea928d35c1841c6f",
+  "model": "gpt-41"
+}

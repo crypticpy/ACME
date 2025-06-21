@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of respect for different cultures",
+    "insufficient cultural understanding",
+    "barriers to cultural inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "respect and understanding for different cultures"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of respect for different cultures",
+    "lack of understanding for different cultures"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:29.097678",
+  "cache_key": "2c7c8964398d743c759f92bb22445b5e7b85eca1e7237641a4b70278835e9a57",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for long-standing community members",
+    "funding allocation priorities",
+    "recognition of community longevity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more funding given to those that have been in the community for a long time"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for long-term community members"
+  ],
+  "solutions_proposed": [
+    "increase funding for long-standing community members"
+  ],
+  "cached_at": "2025-06-21T01:07:22.703483",
+  "cache_key": "c0dd13f33e53b5a1e41135322d2be2bb12905e37d7eb69e95a4b2b2bd678dc64",
+  "model": "gpt-41"
+}

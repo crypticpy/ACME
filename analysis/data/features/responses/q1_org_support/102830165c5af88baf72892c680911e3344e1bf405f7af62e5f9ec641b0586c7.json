@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "fair compensation for cultural workers",
+    "recognition of non-artist staff",
+    "importance of service and hospitality workers in cultural organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More funding",
+    "better pay for the people that work in these organizations",
+    "Artists are important, but the employees that sustain these places are important too",
+    "such service workers/hospitality"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "inadequate pay for non-artist staff"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "improve pay for all employees, including service and hospitality workers"
+  ],
+  "cached_at": "2025-06-20T10:23:35.515940",
+  "cache_key": "102830165c5af88baf72892c680911e3344e1bf405f7af62e5f9ec641b0586c7",
+  "model": "gpt-41"
+}

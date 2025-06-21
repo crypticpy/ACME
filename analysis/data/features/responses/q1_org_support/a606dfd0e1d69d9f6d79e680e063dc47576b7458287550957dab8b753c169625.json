@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to funding cuts",
+    "concern for financial support",
+    "advocacy for sustained funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "funding should not be cut"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential reduction in funding"
+  ],
+  "solutions_proposed": [
+    "do not cut funding"
+  ],
+  "cached_at": "2025-06-20T10:36:08.787880",
+  "cache_key": "a606dfd0e1d69d9f6d79e680e063dc47576b7458287550957dab8b753c169625",
+  "model": "gpt-41"
+}

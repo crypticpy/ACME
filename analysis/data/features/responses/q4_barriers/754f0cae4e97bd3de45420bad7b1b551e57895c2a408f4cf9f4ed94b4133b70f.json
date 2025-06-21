@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "pressure to conform to institutional norms",
+    "lack of inclusivity for diverse artists",
+    "gatekeeping in opportunity allocation",
+    "authenticity versus acceptance in the arts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "an artist is expected to be the opposite of thy authentic self",
+    "fit in to a system n order to be accepted",
+    "the ones that fit the systems get the opportunity",
+    "there r billions of heARTISTS",
+    "make systems that include all Artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pressure to conform to existing systems",
+    "exclusion of authentic or nonconforming artists",
+    "opportunities limited to those who fit the system"
+  ],
+  "solutions_proposed": [
+    "make systems that include all Artists"
+  ],
+  "cached_at": "2025-06-21T01:39:53.579194",
+  "cache_key": "754f0cae4e97bd3de45420bad7b1b551e57895c2a408f4cf9f4ed94b4133b70f",
+  "model": "gpt-41"
+}

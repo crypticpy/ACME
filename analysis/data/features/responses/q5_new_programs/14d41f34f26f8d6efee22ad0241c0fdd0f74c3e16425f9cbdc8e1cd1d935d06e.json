@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "business support for artists",
+    "professional development for musicians",
+    "need for industry infrastructure",
+    "underrepresentation of management services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "helping musicians/artist with the Business side of their career",
+    "Talent bookers",
+    "artists managers",
+    "event producers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business-side support for artists"
+  ],
+  "solutions_proposed": [
+    "offer programs that help musicians and artists with the business side of their career",
+    "support for talent bookers, artist managers, event producers"
+  ],
+  "cached_at": "2025-06-21T02:01:03.858189",
+  "cache_key": "14d41f34f26f8d6efee22ad0241c0fdd0f74c3e16425f9cbdc8e1cd1d935d06e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "support for artists",
+    "value of art, history, and culture",
+    "importance of shared spaces",
+    "access and enjoyment for all patrons"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "better support artists",
+    "art + history + culture",
+    "spaces for it all to be shared",
+    "opportunities for all patrons to be able to enjoy it"
+  ],
+  "intent": "affirmation/appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:22:40.481274",
+  "cache_key": "875d0a1bc10d3fb51a638b1b5569775902b1a4a84f41d1cbce8160ffd95b0388",
+  "model": "gpt-41"
+}

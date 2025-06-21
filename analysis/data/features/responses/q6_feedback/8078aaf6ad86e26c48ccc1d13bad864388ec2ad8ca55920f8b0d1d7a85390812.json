@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to convention center expansion",
+    "reallocation of public funds",
+    "long-term investment in arts and parks",
+    "prioritization of cultural and recreational funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Stop the expansion of the convention center",
+    "use that $130 million a year to fund Austin arts and parks for the next 30 years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "allocation of significant public funds to convention center expansion instead of arts and parks"
+  ],
+  "solutions_proposed": [
+    "redirect $130 million per year from convention center expansion to funding Austin arts and parks for the next 30 years"
+  ],
+  "cached_at": "2025-06-21T02:11:01.792475",
+  "cache_key": "8078aaf6ad86e26c48ccc1d13bad864388ec2ad8ca55920f8b0d1d7a85390812",
+  "model": "gpt-41"
+}

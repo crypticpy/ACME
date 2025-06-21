@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about equitable distribution of grants",
+    "questioning recurring funding to same recipients",
+    "assessment of demand versus available funds",
+    "active outreach versus passive application process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "are all of the grants going to the same people, places, each year?",
+    "it needs changes",
+    "do you have more applicants than funds available?",
+    "your reach is working",
+    "Are you waiting for people to come to you, or are you actively out there promoting the opportunities at every chance available?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "recurring funding to same recipients",
+    "passive outreach or lack of promotion"
+  ],
+  "solutions_proposed": [
+    "change grant distribution if funds go to the same people/places each year",
+    "actively promote opportunities at every chance available"
+  ],
+  "cached_at": "2025-06-21T01:08:38.043753",
+  "cache_key": "57bade77d4b2ff9d4280e175fbc75cac89ecd3ccd7002e8e29e6421696756955",
+  "model": "gpt-41"
+}

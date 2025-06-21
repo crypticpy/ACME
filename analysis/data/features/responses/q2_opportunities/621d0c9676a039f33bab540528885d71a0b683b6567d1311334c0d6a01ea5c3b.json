@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art pop-up events",
+    "need for improved museums",
+    "interest in outdoor entertainment similar to Sunday sessions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Art pop ups",
+    "improved museums",
+    "outdoor entertainment similar to Sunday sessions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Sunday sessions"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More art pop ups",
+    "Improved museums",
+    "More outdoor entertainment similar to Sunday sessions"
+  ],
+  "cached_at": "2025-06-21T00:46:30.821844",
+  "cache_key": "621d0c9676a039f33bab540528885d71a0b683b6567d1311334c0d6a01ea5c3b",
+  "model": "gpt-41"
+}

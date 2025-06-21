@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "anti-elitism in the arts",
+    "inclusivity of amateur and anonymous artists",
+    "rejection of star-focused funding",
+    "embracing punk ideology in cultural policy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "embrace the old punk ideology",
+    "ANYONE can be an artist or performer",
+    "Don't treat a few people as 'stars'",
+    "Don't put anyone on a pedestal",
+    "Anonymous art and amatuer art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "elitism in arts funding",
+    "overemphasis on a few 'star' artists"
+  ],
+  "solutions_proposed": [
+    "embrace punk ideology",
+    "support anyone as an artist or performer",
+    "avoid treating a few people as 'stars'",
+    "do not put anyone on a pedestal",
+    "support anonymous and amateur art"
+  ],
+  "cached_at": "2025-06-21T02:22:36.200529",
+  "cache_key": "37453b1669725b025e8f7574c265214e4fe9da595442239397d6b3e0615bd167",
+  "model": "gpt-41"
+}

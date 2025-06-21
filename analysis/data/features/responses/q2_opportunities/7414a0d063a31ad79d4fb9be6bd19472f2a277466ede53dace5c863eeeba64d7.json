@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of arts events",
+    "access to music events",
+    "desire for free cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Free or inexpensive arts and music events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of arts and music events"
+  ],
+  "solutions_proposed": [
+    "offer more free or inexpensive arts and music events"
+  ],
+  "cached_at": "2025-06-21T00:31:41.027497",
+  "cache_key": "7414a0d063a31ad79d4fb9be6bd19472f2a277466ede53dace5c863eeeba64d7",
+  "model": "gpt-41"
+}

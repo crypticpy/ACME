@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased opportunities for artists",
+    "support for individual artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Give oppportunities to artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Give opportunities to artists"
+  ],
+  "cached_at": "2025-06-20T10:34:22.857497",
+  "cache_key": "cc4364cb5166d348fa6a79431be06080223bf11b3910b852b2f770bc85a56f18",
+  "model": "gpt-41"
+}

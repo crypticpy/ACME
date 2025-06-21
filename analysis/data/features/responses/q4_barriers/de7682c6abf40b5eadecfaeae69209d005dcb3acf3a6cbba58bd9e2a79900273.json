@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient resources for arts and culture",
+    "poor management of available resources",
+    "shared barriers across the community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "too few resources",
+    "poorly managed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "too few resources",
+    "poor management of available resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:36.844177",
+  "cache_key": "de7682c6abf40b5eadecfaeae69209d005dcb3acf3a6cbba58bd9e2a79900273",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more classical/art music events",
+    "Interest in soloists and ensembles",
+    "Preference for informal concerts/recitals",
+    "Perceived inadequacy of local musical theatre scene",
+    "Comparison to DFW and San Antonio theatre offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Classical/Art Music - soloists, ensembles, informal concerts/recitals",
+    "Community/Local theatre scene around Austin doesn't come close to what DFW or San Antonio offers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Local theatre scene is less developed than in DFW or San Antonio"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:53:15.202833",
+  "cache_key": "3aa15c9d39830cb5da8a20bddf7eec61cc8283edabc333f70c1e91781acef473",
+  "model": "gpt-41"
+}

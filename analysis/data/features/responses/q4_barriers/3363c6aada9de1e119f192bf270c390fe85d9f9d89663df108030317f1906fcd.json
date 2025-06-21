@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "misrepresentation of Trans people",
+    "misrepresentation of LGBTQ+ community",
+    "barriers to inclusion in arts and culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Misrepresentation of Trans people",
+    "Misrepresentation of the LGBTQ+ community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Misrepresentation of Trans people",
+    "Misrepresentation of the LGBTQ+ community"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:43.570999",
+  "cache_key": "3363c6aada9de1e119f192bf270c390fe85d9f9d89663df108030317f1906fcd",
+  "model": "gpt-41"
+}

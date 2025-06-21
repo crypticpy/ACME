@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "unchecked quid pro quo practices",
+    "gatekeeping in art opportunities",
+    "lack of oversight in arts administration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "quid pro quo activity",
+    "gatekeepers of art opportunities",
+    "go unchecked"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "quid pro quo activity between gatekeepers",
+    "lack of oversight of gatekeepers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:02.771071",
+  "cache_key": "5d2088c42bc2378c64dbf4f8f2c437a2259f9f1f4816dd1886d716206ad34b34",
+  "model": "gpt-41"
+}

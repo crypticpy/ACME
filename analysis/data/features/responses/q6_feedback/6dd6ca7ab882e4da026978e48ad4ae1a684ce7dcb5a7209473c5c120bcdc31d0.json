@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bridging grassroots creativity with city-wide impact",
+    "continued investment in legacy organizations",
+    "support for emerging and artist-led initiatives",
+    "flexibility for hybrid spaces and interdisciplinary work",
+    "inclusion of nontraditional formats like media art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "bridge grassroots creativity with city-wide impact",
+    "continued investment in legacy organizations",
+    "supporting emerging and artist-led initiatives",
+    "programs should be flexible enough",
+    "accommodate hybrid spaces, interdisciplinary work, and nontraditional formats like media art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inflexibility of programs for hybrid, interdisciplinary, or nontraditional formats"
+  ],
+  "solutions_proposed": [
+    "continued investment in legacy organizations",
+    "support for emerging and artist-led initiatives",
+    "program flexibility to accommodate hybrid spaces, interdisciplinary work, and nontraditional formats like media art"
+  ],
+  "cached_at": "2025-06-21T02:14:40.219279",
+  "cache_key": "6dd6ca7ab882e4da026978e48ad4ae1a684ce7dcb5a7209473c5c120bcdc31d0",
+  "model": "gpt-41"
+}

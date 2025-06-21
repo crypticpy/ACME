@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of funding opportunities",
+    "barriers for artists and event planners",
+    "community access to cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "awareness of grants and funding",
+    "available to artists and event planners",
+    "bring programming to community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of grants and funding available to artists and event planners"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:48.222967",
+  "cache_key": "2c16809aedafd250f2adf73a35516e6444892f06743defb8f9a5b2e0270450ed",
+  "model": "gpt-41"
+}

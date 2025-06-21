@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for existing efforts",
+    "continuity of funding",
+    "recognition of past achievements"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more support for what had been done so far"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support for what had been done so far"
+  ],
+  "cached_at": "2025-06-21T01:13:09.454178",
+  "cache_key": "9621eb1eba9db75a076bc4ea557ca9f24164b61f338b2ca33d1f69f3cf4ac333",
+  "model": "gpt-41"
+}

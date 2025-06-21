@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of opportunities for new acts",
+    "preferential treatment of established musicians",
+    "inequitable access to performance space"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Devote space to newer acts",
+    "ex-successful musicians can get 5 nights a week",
+    "my act doesn\u2019t get a callback"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "preference for established musicians over new acts",
+    "difficulty getting callbacks for performances"
+  ],
+  "solutions_proposed": [
+    "Devote space to newer acts"
+  ],
+  "cached_at": "2025-06-20T01:23:08.766212",
+  "cache_key": "14694d28d83de8d3d391892b1eebe32c4a33faa04a39bb916b02625e54228037",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable funding distribution",
+    "preference for non-profit organizations",
+    "opposition to funding for-profit groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Equal access to city funding for all non-profit arts organizations",
+    "Stop funding commercial for profit cultural arts groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "city funding allocated to for-profit cultural arts groups"
+  ],
+  "solutions_proposed": [
+    "Provide equal access to city funding for all non-profit arts organizations",
+    "Cease funding commercial for-profit cultural arts groups"
+  ],
+  "cached_at": "2025-06-20T01:23:04.883482",
+  "cache_key": "c44fab5d177819bfdff5d4d9c80b7e5bd2535aea749d6e65cb23e404fa5d2d8d",
+  "model": "gpt-41"
+}

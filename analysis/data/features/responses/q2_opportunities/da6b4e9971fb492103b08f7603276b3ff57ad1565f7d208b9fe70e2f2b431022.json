@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased dance opportunities",
+    "compensation for dancers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Dance!",
+    "Paid dancers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of paid opportunities for dancers"
+  ],
+  "solutions_proposed": [
+    "more dance opportunities",
+    "pay dancers for their work"
+  ],
+  "cached_at": "2025-06-21T00:47:46.851347",
+  "cache_key": "da6b4e9971fb492103b08f7603276b3ff57ad1565f7d208b9fe70e2f2b431022",
+  "model": "gpt-41"
+}

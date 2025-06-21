@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "application complexity",
+    "lack of clarity in diversity, equity, and inclusion terms",
+    "need for clearer definitions for key constituents",
+    "accessibility of information without mandatory workshops"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more straightforward application",
+    "less complications around the terms and definitions pertaining diversity, equity and inclusion",
+    "more definitions and clarity pertaining to key constituents",
+    "would not need one to attend a workshop to know what it means"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complicated application process",
+    "unclear terms and definitions related to diversity, equity, and inclusion",
+    "lack of accessible definitions for key constituents",
+    "requirement to attend a workshop to understand terminology"
+  ],
+  "solutions_proposed": [
+    "make the application more straightforward",
+    "reduce complications around diversity, equity, and inclusion terms and definitions",
+    "provide more definitions and clarity for key constituents",
+    "ensure information is understandable without attending a workshop"
+  ],
+  "cached_at": "2025-06-21T01:09:10.427043",
+  "cache_key": "68514a561a044e587331a3e81819d37ed35bd54816ca8fe032f5e736b1df2238",
+  "model": "gpt-41"
+}

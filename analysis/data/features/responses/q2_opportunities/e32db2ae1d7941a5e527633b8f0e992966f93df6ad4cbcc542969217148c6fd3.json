@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "multigenerational engagement",
+    "lifelong learning in the arts",
+    "mentorship through performance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "multigenerational",
+    "lifelong learning",
+    "mentoring through performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "multigenerational arts opportunities",
+    "lifelong learning programs",
+    "mentoring through performance"
+  ],
+  "cached_at": "2025-06-21T00:44:12.607994",
+  "cache_key": "e32db2ae1d7941a5e527633b8f0e992966f93df6ad4cbcc542969217148c6fd3",
+  "model": "gpt-41"
+}

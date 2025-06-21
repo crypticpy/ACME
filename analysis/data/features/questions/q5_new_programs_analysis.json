@@ -1,0 +1,332 @@
+{
+  "question_id": "q5_new_programs",
+  "question_text": "What kinds of programs or services would you like ACME to offer that currently do not exist or are underrepresented?",
+  "response_count": 553,
+  "dominant_themes": [
+    {
+      "theme": "support for emerging artists",
+      "count": 8,
+      "percentage": 1.4466546112115732,
+      "representative_quotes": [
+        "more support for emerging artists"
+      ],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "positive": 5,
+        "negative": 1
+      },
+      "urgency_score": 0.5625,
+      "stakeholder_breakdown": {
+        "artist": 8
+      }
+    },
+    {
+      "theme": "lack of awareness of existing programs",
+      "count": 6,
+      "percentage": 1.0849909584086799,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 4,
+        "mixed": 1,
+        "positive": 1
+      },
+      "urgency_score": 0.25,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "artist": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "mentorship opportunities",
+      "count": 5,
+      "percentage": 0.9041591320072333,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 4,
+        "positive": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "networking opportunities",
+      "count": 5,
+      "percentage": 0.9041591320072333,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 3
+      },
+      "urgency_score": 0.4,
+      "stakeholder_breakdown": {
+        "artist": 4,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "affordable studio space",
+      "count": 4,
+      "percentage": 0.7233273056057866,
+      "representative_quotes": [
+        "Affordable studio space"
+      ],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "negative": 2
+      },
+      "urgency_score": 0.875,
+      "stakeholder_breakdown": {
+        "artist": 4
+      }
+    },
+    {
+      "theme": "need for professional development",
+      "count": 4,
+      "percentage": 0.7233273056057866,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 3,
+        "positive": 1
+      },
+      "urgency_score": 0.375,
+      "stakeholder_breakdown": {
+        "artist": 3,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "support for artists",
+      "count": 3,
+      "percentage": 0.5424954792043399,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 3
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "artist": 2,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "support for women artists",
+      "count": 3,
+      "percentage": 0.5424954792043399,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "positive": 1
+      },
+      "urgency_score": 0.6666666666666666,
+      "stakeholder_breakdown": {
+        "artist": 3
+      }
+    },
+    {
+      "theme": "youth programming",
+      "count": 3,
+      "percentage": 0.5424954792043399,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "mixed": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "resident": 2,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "accessibility services",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "organization": 1,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "ineffective marketing and outreach",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 1,
+        "mixed": 1
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "resident": 1,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "community building",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 1
+      },
+      "urgency_score": 0.25,
+      "stakeholder_breakdown": {
+        "artist": 2
+      }
+    },
+    {
+      "theme": "dissatisfaction with current grant programs",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 2
+      },
+      "urgency_score": 1.0,
+      "stakeholder_breakdown": {
+        "unknown": 1,
+        "venue_operator": 1
+      }
+    },
+    {
+      "theme": "lack of awareness of ACME",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "support for working artists",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "artist": 2
+      }
+    },
+    {
+      "theme": "artist compensation",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "negative": 1
+      },
+      "urgency_score": 1.0,
+      "stakeholder_breakdown": {
+        "artist": 2
+      }
+    },
+    {
+      "theme": "grant writing support",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "artist": 1,
+        "organization": 1
+      }
+    },
+    {
+      "theme": "mentorship for artists",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 1,
+        "negative": 1
+      },
+      "urgency_score": 1.0,
+      "stakeholder_breakdown": {
+        "artist": 2
+      }
+    },
+    {
+      "theme": "financial support for artists",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "artist": 2
+      }
+    },
+    {
+      "theme": "business skills for artists",
+      "count": 2,
+      "percentage": 0.3616636528028933,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "artist": 2
+      }
+    }
+  ],
+  "sentiment_distribution": {
+    "mixed": 47,
+    "negative": 91,
+    "neutral": 289,
+    "positive": 126
+  },
+  "urgency_distribution": {
+    "high": 138,
+    "medium": 366,
+    "low": 49
+  },
+  "stakeholder_distribution": {
+    "organization": 67,
+    "unknown": 160,
+    "resident": 88,
+    "artist": 217,
+    "business_owner": 4,
+    "educator": 9,
+    "venue_operator": 8
+  },
+  "key_insights": [
+    "Affordable studio space and support for working artists are high-urgency needs, with urgency scores of 0.88 and 0.75 respectively, indicating that access to space and sustainable careers are pressing concerns.",
+    "Dissatisfaction with current grant programs has the highest urgency score (1.00), suggesting that existing funding mechanisms are not meeting the needs of the community and require immediate review.",
+    "There is a notable lack of awareness about ACME and its existing programs, as well as ineffective marketing and outreach, both with high urgency scores (0.75 and 0.75), highlighting a significant communication gap.",
+    "Support for underrepresented groups, particularly women artists and those needing accessibility services, is both underprovided and rated as urgent (urgency scores 0.67 and 0.75).",
+    "Mentorship, networking, and professional development opportunities are consistently requested, indicating a demand for programs that foster career growth and community connections."
+  ],
+  "recommendations": [
+    "Prioritize the development of affordable studio spaces and resources for working artists, potentially through partnerships with local property owners or by repurposing municipal spaces.",
+    "Conduct a comprehensive review and redesign of current grant programs to address identified dissatisfaction, incorporating community feedback to ensure greater accessibility, transparency, and relevance.",
+    "Invest in targeted marketing and outreach campaigns to raise awareness of ACME's offerings, with a focus on reaching underrepresented and marginalized groups.",
+    "Develop dedicated support programs for women artists and improve accessibility services, ensuring equitable access to all ACME initiatives.",
+    "Establish structured mentorship, networking, and professional development programs to support emerging and established artists, fostering a stronger, more connected arts community."
+  ],
+  "contradictions": [],
+  "consensus_points": []
+}

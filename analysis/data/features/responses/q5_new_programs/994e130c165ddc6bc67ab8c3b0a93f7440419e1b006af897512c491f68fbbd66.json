@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for improving existing programs",
+    "concern about staff capacity",
+    "opposition to creating new programs at this time"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "fine tuned and stabilized",
+    "spread even thinner",
+    "create something new"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "staff spread too thin"
+  ],
+  "solutions_proposed": [
+    "fine tune and stabilize existing programs instead of creating new ones"
+  ],
+  "cached_at": "2025-06-21T02:09:36.495691",
+  "cache_key": "994e130c165ddc6bc67ab8c3b0a93f7440419e1b006af897512c491f68fbbd66",
+  "model": "gpt-41"
+}

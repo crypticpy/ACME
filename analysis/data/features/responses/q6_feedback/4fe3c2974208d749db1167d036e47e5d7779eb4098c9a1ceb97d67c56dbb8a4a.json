@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "withholding feedback until in-person discussion",
+    "desire for direct engagement",
+    "potential for substantive input"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Plenty.",
+    "But I'll wait to be in the room first."
+  ],
+  "intent": "defer_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "preference for in-person communication before sharing feedback"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:11.868080",
+  "cache_key": "4fe3c2974208d749db1167d036e47e5d7779eb4098c9a1ceb97d67c56dbb8a4a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,53 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of support and visibility for artist parents, especially mothers",
+    "Systemic sexism and racism in the arts community",
+    "Financial instability and precarity for artists",
+    "Absence of mentorship and community for artist parents in Austin",
+    "Barriers created by funding requirements and expectations for artists",
+    "Need for alternative, inclusive cultural programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "you always have to make something new, promote yourself, do this dance of networking",
+    "my community of artists who are mothers, are trying to be seen and acknowledged",
+    "I was shocked to realize there was nothing like this in Austin",
+    "Because people STiLL say that you can't be a dedicated artist if you choose to have children",
+    "white men have always culturally and financially dominated",
+    "It's financially difficult to be creative",
+    "Don't ask them to also spend part of it on marketing expenses, event planning, event insurance, etc.",
+    "The City could fund smaller versions of ACL, SXSW, Austin Studio Tour, Austin film festival"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACL",
+    "SXSW",
+    "Austin Studio Tour",
+    "Austin film festival",
+    "NEXUS grant",
+    "Guerrilla Girls"
+  ],
+  "barriers_identified": [
+    "Constant need for self-promotion and networking",
+    "Balancing art with day jobs, self-care, and family/community care",
+    "Lack of visibility and acknowledgment for artist parents, especially mothers",
+    "Absence of mentorship/community for artist parents in Austin",
+    "Persistent societal bias against women artists who are mothers, especially women of color and LGBTQIA+",
+    "Financial difficulty in sustaining creative work",
+    "Grant requirements that force artists to spend on marketing, event planning, insurance, and proof of tourist impact"
+  ],
+  "solutions_proposed": [
+    "Fund smaller, city-wide versions of major cultural events that are free to the public",
+    "Allow artists to use the full grant amount for their projects, without mandatory marketing or event expenses",
+    "Create opportunities for artist parents to connect, share resources, and mentor each other",
+    "Partner with hotels to host cultural events and boost occupancy during slow periods"
+  ],
+  "cached_at": "2025-06-21T01:48:15.397740",
+  "cache_key": "4f402a5fa822071b49974a159972e4eb3051ab07446f06e6490553ad749973d7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "diversification of cultural activities",
+    "geographic distribution of events",
+    "venue accessibility and inclusivity",
+    "family-friendly programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "diversified activities",
+    "in various parts of the City",
+    "accessible and welcoming venues to all citizens",
+    "family friendly cultural activities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited geographic access to activities",
+    "venues not accessible or welcoming to all citizens",
+    "lack of family-friendly options"
+  ],
+  "solutions_proposed": [
+    "offer diversified activities",
+    "expand events to various parts of the city",
+    "ensure venues are accessible and welcoming to all citizens",
+    "increase family-friendly cultural activities"
+  ],
+  "cached_at": "2025-06-21T00:51:28.722081",
+  "cache_key": "d3174604f40f2b2ff861560aadf3e5db1f67fc7cad0ca74e1bed34875d67809a",
+  "model": "gpt-41"
+}

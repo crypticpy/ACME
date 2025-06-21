@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for individualized support",
+    "desire for increased assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more personal help"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of personal help"
+  ],
+  "solutions_proposed": [
+    "provide more personal help"
+  ],
+  "cached_at": "2025-06-21T01:17:24.077569",
+  "cache_key": "572ff5a7f6beb14230a90d604208ae4f96c0f64b7769e40294e60a08818de781",
+  "model": "gpt-41"
+}

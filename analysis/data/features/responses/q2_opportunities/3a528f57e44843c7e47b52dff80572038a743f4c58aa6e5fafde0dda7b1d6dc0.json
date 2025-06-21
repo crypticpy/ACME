@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preservation of public art",
+    "encouragement of street art and murals",
+    "public art as part of Austin's identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Street art, murals, and other public art have always been part of Austin's personality",
+    "please preserve and encourage"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "preserve and encourage street art, murals, and other public art"
+  ],
+  "cached_at": "2025-06-21T00:44:24.875357",
+  "cache_key": "3a528f57e44843c7e47b52dff80572038a743f4c58aa6e5fafde0dda7b1d6dc0",
+  "model": "gpt-41"
+}

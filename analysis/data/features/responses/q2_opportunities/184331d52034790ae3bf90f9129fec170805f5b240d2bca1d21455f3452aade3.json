@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for intimate concert experiences",
+    "interest in connecting with artists",
+    "preference for smaller-scale events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more smaller intimate concerts",
+    "get to know artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more smaller intimate concerts to get to know artists"
+  ],
+  "cached_at": "2025-06-21T00:42:16.663957",
+  "cache_key": "184331d52034790ae3bf90f9129fec170805f5b240d2bca1d21455f3452aade3",
+  "model": "gpt-41"
+}

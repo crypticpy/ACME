@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "discrimination based on identity",
+    "financial barriers to access",
+    "intersectionality of race, gender, and sexual orientation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Race, gender, sexual orientation",
+    "barriers based on discrimination",
+    "monetary barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "discrimination based on race",
+    "discrimination based on gender",
+    "discrimination based on sexual orientation",
+    "monetary barriers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:35.276021",
+  "cache_key": "eaa6ca2c59003bb63348c7257cc75e8600afd36ce3ee136741479ec17dd27a7d",
+  "model": "gpt-41"
+}

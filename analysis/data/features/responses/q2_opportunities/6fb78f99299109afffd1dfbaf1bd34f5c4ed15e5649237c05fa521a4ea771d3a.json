@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more diverse art galleries",
+    "longstanding lack of progress in gallery diversity",
+    "difficulty selling art in Austin",
+    "perception of Austin as a place to make but not sell art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "a broader and more diverse group of galleries would be fantastic",
+    "we've been waiting for that to happen for a long time",
+    "great place to make art but not to sell art",
+    "if there was a way to shift the perception of austin related to this that wold be helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diverse galleries",
+    "difficulty selling art",
+    "perception of Austin as unsupportive for selling art"
+  ],
+  "solutions_proposed": [
+    "shift the perception of Austin related to selling art"
+  ],
+  "cached_at": "2025-06-21T00:41:23.425729",
+  "cache_key": "6fb78f99299109afffd1dfbaf1bd34f5c4ed15e5649237c05fa521a4ea771d3a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of diversity in decision-making",
+    "insufficient community outreach",
+    "inconvenient engagement processes",
+    "need for direct engagement with organizations",
+    "barriers for non-English speakers and those with limited mobility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the same people are always the ones who have a seat at the table",
+    "no true diversity of experiences and backgrounds",
+    "ACME should go to the organizations, sit at their meetings, and listen to the communities at their place",
+    "focus groups at days and hours that are inconvenient",
+    "true community outreach involves action and humility",
+    "making accommodations for those who have limited English, who are not able to travel"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diversity in representation",
+    "inconvenient timing and location of engagement",
+    "language barriers",
+    "mobility and travel barriers"
+  ],
+  "solutions_proposed": [
+    "ACME should go to the organizations and listen at their meetings",
+    "hold outreach at times and places convenient for artists and community members with full-time jobs",
+    "make accommodations for those with limited English",
+    "make accommodations for those unable to travel"
+  ],
+  "cached_at": "2025-06-20T01:12:20.604578",
+  "cache_key": "6421e069985e8f9205e7d285db6a9bf8a026c0480a4dd5697f1f7397379734c5",
+  "model": "gpt-41"
+}

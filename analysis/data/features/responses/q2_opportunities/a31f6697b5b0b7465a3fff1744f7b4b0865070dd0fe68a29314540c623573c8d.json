@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art (murals)",
+    "social dance events",
+    "local live music",
+    "heritage and cultural food experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Murals",
+    "dance (esp social dances)",
+    "local Musician happenings",
+    "heritage food stuffs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more murals",
+    "more social dance events",
+    "more local musician happenings",
+    "more heritage food opportunities"
+  ],
+  "cached_at": "2025-06-21T00:25:39.900640",
+  "cache_key": "a31f6697b5b0b7465a3fff1744f7b4b0865070dd0fe68a29314540c623573c8d",
+  "model": "gpt-41"
+}

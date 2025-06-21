@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process transparency",
+    "feedback for unsuccessful applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Better feedback on applications that are not selected"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of feedback for unsuccessful applications"
+  ],
+  "solutions_proposed": [
+    "Provide better feedback on applications that are not selected"
+  ],
+  "cached_at": "2025-06-21T00:55:08.376558",
+  "cache_key": "60b8e5de0627005d08c1d9a7b5317108ab0a2cab3e2ea97f832cb966b0ee107a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "cross-genre artistic collaborations",
+    "integration of history and art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "affordable events",
+    "cross-genre collaborations",
+    "history and art tied together"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable events"
+  ],
+  "solutions_proposed": [
+    "increase affordable events",
+    "promote cross-genre collaborations",
+    "offer programming that ties history and art together"
+  ],
+  "cached_at": "2025-06-21T00:32:03.307144",
+  "cache_key": "565baef88289abc3b5fa9590b437238d4e67c7b43bd00aba0f0281d649571732",
+  "model": "gpt-41"
+}

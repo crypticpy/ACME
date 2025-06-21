@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for creative groups",
+    "high cost of event admission",
+    "financial barriers for low-income creatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Lack of funding is a big problem for creative groups",
+    "the cost of admission to many events is also prohibitive for low-income creatives"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for creative groups",
+    "prohibitive cost of admission to events for low-income creatives"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:42.112360",
+  "cache_key": "3c75c872d484186b92310381785e0a959907a2578ce03bd8a4d08e2ab1e54442",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expanding exhibition spaces",
+    "artist mentorship",
+    "support with public communications"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "expanded locations to show art",
+    "artist mentors",
+    "help with public communications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited locations to show art",
+    "lack of artist mentorship",
+    "insufficient support with public communications"
+  ],
+  "solutions_proposed": [
+    "expand locations to show art",
+    "provide artist mentors",
+    "offer help with public communications"
+  ],
+  "cached_at": "2025-06-20T10:28:13.385578",
+  "cache_key": "4701c4cab55f8082c3a04f23939428200047f568fe431e489a151cd6e81a771c",
+  "model": "gpt-41"
+}

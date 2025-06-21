@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perception of gentrification by the arts scene",
+    "Need for increased representation of artists from communities of color",
+    "Support for historically marginalized groups in the arts",
+    "Importance of collaboration between minority and other artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "communities in east Austin that feel that the artists and art scene itself represents gentrification",
+    "breaking up communities",
+    "expanding opportunities and representation of artists from communities of color",
+    "reinforcing an art scene of and for historically marginalized groups",
+    "creating collaborative opportunities between artists from minority groups and other artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Perception of the arts as a force of gentrification",
+    "Lack of representation for artists from communities of color",
+    "Marginalization of certain groups in the Austin art scene"
+  ],
+  "solutions_proposed": [
+    "Expanding opportunities and representation of artists from communities of color",
+    "Reinforcing an art scene of and for historically marginalized groups",
+    "Creating collaborative opportunities between artists from minority groups and other artists"
+  ],
+  "cached_at": "2025-06-20T10:31:18.739416",
+  "cache_key": "c39d676f06ede1cf7ea3791bfa94b71d1f8fd56da445df1b384180f1908c47c4",
+  "model": "gpt-41"
+}

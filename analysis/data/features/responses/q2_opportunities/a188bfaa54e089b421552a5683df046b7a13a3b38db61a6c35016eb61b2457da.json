@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art festivals",
+    "integration of food and music with art events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "art festivals that include food and music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase art festivals that include food and music"
+  ],
+  "cached_at": "2025-06-21T00:28:23.164000",
+  "cache_key": "a188bfaa54e089b421552a5683df046b7a13a3b38db61a6c35016eb61b2457da",
+  "model": "gpt-41"
+}

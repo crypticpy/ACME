@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant matching requirements",
+    "barriers to funding access",
+    "organizational burden"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "should not be required to match grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "requirement to match grants"
+  ],
+  "solutions_proposed": [
+    "eliminate grant matching requirement for organizations"
+  ],
+  "cached_at": "2025-06-21T02:18:35.921366",
+  "cache_key": "d64de621a8807c658be38a815f2b6f7d7554ca41cbe8747f7a16dc3fdfc9456d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accountability to residents",
+    "prioritization of community over organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "answer to the residents of Austin",
+    "not organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ACME should answer to the residents of Austin, not organizations"
+  ],
+  "cached_at": "2025-06-20T01:18:03.850079",
+  "cache_key": "79c50acd1fcad354c6768fc19e059f90f760d94778b63b6b89a84caea6f172c3",
+  "model": "gpt-41"
+}

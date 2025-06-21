@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of support for Russian Cultural Center",
+    "underrepresentation of cultural festivals",
+    "need for theatre performances",
+    "support for language schools for kids and adults",
+    "historical neglect of certain cultural and educational activities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Support Russian Cultural Center",
+    "cultural festivals",
+    "theatre performances",
+    "kids and adults language schools",
+    "activities that historically received absolutely no support from ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Russian Cultural Center"
+  ],
+  "barriers_identified": [
+    "historical lack of support from ACME"
+  ],
+  "solutions_proposed": [
+    "Support Russian Cultural Center",
+    "support cultural festivals",
+    "support theatre performances",
+    "support kids and adults language schools",
+    "support more cultural and educational activities"
+  ],
+  "cached_at": "2025-06-21T01:56:52.354621",
+  "cache_key": "848e54c9b32f4974ad14f038de5372e54a94e22624d4561241ed67e70ca9ce7c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "gratitude for engagement",
+    "hope for collaborative development",
+    "importance of accessibility in the arts",
+    "value of Austin's artistic culture"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Thank you for taking time to create and collect these surveys",
+    "hopeful that together, we can continue developing the rich artistic culture",
+    "make it accessible to all"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:15:33.048955",
+  "cache_key": "147921971c04dd81506e2c3d4575cf19007ed5f847b26cae98831eef7b3f0191",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability of arts education",
+    "children's access to artistic programs",
+    "underrepresentation of low-cost options"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more low cost artistic education for children"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of artistic education"
+  ],
+  "solutions_proposed": [
+    "offer more low cost artistic education for children"
+  ],
+  "cached_at": "2025-06-21T01:57:07.217251",
+  "cache_key": "a5be3d872c1eac1f7e53c088376332f10e2aa9f128c06a0ecb43c4add78d09ec",
+  "model": "gpt-41"
+}

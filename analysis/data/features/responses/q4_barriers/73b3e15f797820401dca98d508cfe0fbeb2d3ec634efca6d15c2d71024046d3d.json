@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping and bureaucracy in funding processes",
+    "administrative burdens for community-based projects",
+    "favoritism toward institutions with resources",
+    "disconnect between decision-makers and impacted communities",
+    "funding not reaching those affected by displacement and inequity",
+    "short timelines and unclear communication",
+    "desire for direct access and trust, not intermediaries"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "gatekeeping and bureaucracy",
+    "unnecessary administrative burdens",
+    "process often favors institutions with grant writers, staff capacity, and political relationships",
+    "deep disconnect between decision-makers and the communities they claim to serve",
+    "funding rarely reaches those most impacted by displacement, racial inequity, or economic instability",
+    "short timelines, unclear communication, and systems that weren\u2019t built with artists in mind",
+    "we need trust, direct access, and support for what\u2019s already working"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping and bureaucracy in Austin programming",
+    "unnecessary administrative burdens for community-based projects",
+    "favoritism toward institutions with grant writers, staff capacity, and political relationships",
+    "disconnect between decision-makers and communities",
+    "funding rarely reaching those most impacted by displacement, racial inequity, or economic instability",
+    "short timelines and unclear communication",
+    "systems not built with artists in mind"
+  ],
+  "solutions_proposed": [
+    "need trust, direct access, and support for what\u2019s already working",
+    "do not need more rebranding or intermediaries"
+  ],
+  "cached_at": "2025-06-21T01:26:03.231284",
+  "cache_key": "73b3e15f797820401dca98d508cfe0fbeb2d3ec634efca6d15c2d71024046d3d",
+  "model": "gpt-41"
+}

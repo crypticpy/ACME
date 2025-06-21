@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "ease of access",
+    "information availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Easy to learn about and access"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty learning about programs",
+    "difficulty accessing programs"
+  ],
+  "solutions_proposed": [
+    "make programs easier to learn about",
+    "make programs easier to access"
+  ],
+  "cached_at": "2025-06-21T01:19:35.634683",
+  "cache_key": "757223936d2517c3ce12037921ff36c38dfb54a32e940f0a43ce0cb8b0e751d7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for established arts organizations",
+    "resource allocation to established entities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Support established arts establishments"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support established arts establishments"
+  ],
+  "cached_at": "2025-06-20T01:15:22.709003",
+  "cache_key": "88e9ae3f79cd12480cf075749b6b387eff69d88f320b6bc8deda266a9f906d46",
+  "model": "gpt-41"
+}

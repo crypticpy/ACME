@@ -1,0 +1,49 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equity and inclusion in funding distribution",
+    "transparency and community involvement in evaluation",
+    "accessibility and simplification of application processes",
+    "outreach and multilingual education",
+    "flexible and responsive funding models",
+    "space access and affordability",
+    "continuous feedback and program improvement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "equitable and inclusive selection processes",
+    "funding should be more widely distributed",
+    "transparent evaluation criteria and diverse review panels",
+    "simplified and accessible application processes",
+    "expanded outreach and education, including multilingual materials",
+    "flexible funding models, such as multi-year general operating support",
+    "increased investment in space access",
+    "ongoing feedback loops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "historically underfunded or excluded organizations",
+    "lack of transparency in evaluation",
+    "complex and inaccessible application processes",
+    "insufficient outreach and education",
+    "limited access to affordable space"
+  ],
+  "solutions_proposed": [
+    "equitable and inclusive selection processes",
+    "wider distribution of funding across organizations of varying sizes, disciplines, and cultural backgrounds",
+    "transparent evaluation criteria and diverse review panels including community voices",
+    "simplified and accessible application processes with tiered requirements",
+    "expanded outreach and education with multilingual materials and neighborhood-based info sessions",
+    "flexible funding models such as multi-year support, rapid-response grants, and collaborative project support",
+    "increased investment in subsidized venues, rehearsal spaces, and long-term leases for cultural use",
+    "ongoing feedback loops for grantees and applicants"
+  ],
+  "cached_at": "2025-06-21T01:14:32.667918",
+  "cache_key": "6436de7ad2ee2bd99b0887f4c484980a0c555b6c41fcc6db066455e50904430b",
+  "model": "gpt-41"
+}

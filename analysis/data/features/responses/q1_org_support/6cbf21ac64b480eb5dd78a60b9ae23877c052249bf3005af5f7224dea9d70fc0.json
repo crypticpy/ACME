@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for funding",
+    "provision of space for artists",
+    "creating opportunities for artists",
+    "artist empowerment by organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding for providing space",
+    "opportunities for artists to work",
+    "be uplifted by these organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of space for artists",
+    "insufficient opportunities for artists"
+  ],
+  "solutions_proposed": [
+    "funding for providing space",
+    "funding for opportunities for artists"
+  ],
+  "cached_at": "2025-06-20T10:35:10.050333",
+  "cache_key": "6cbf21ac64b480eb5dd78a60b9ae23877c052249bf3005af5f7224dea9d70fc0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for emerging artists",
+    "loss of local cultural identity",
+    "impact of globalized art perspectives",
+    "threats to grassroots and unique Austin culture",
+    "rising cost of living/pricing out locals"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "The foundation of support is crumbling",
+    "More funding is needed for emerging artists",
+    "Austinites are being priced out",
+    "art enthusiasts who view the art scene from a global scale",
+    "That way of thinking does not apply to Austin",
+    "We are unique, we are grassroots",
+    "ACME should support this uniqueness and 'weirdness' of Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for emerging artists",
+    "Austinites being priced out",
+    "dominance of global perspectives over local culture"
+  ],
+  "solutions_proposed": [
+    "More funding for emerging artists",
+    "Support the uniqueness and 'weirdness' of Austin"
+  ],
+  "cached_at": "2025-06-20T01:17:03.101538",
+  "cache_key": "c7b76157d5defc99322ba03a95c31a9266a53a44f3b4b9e21c0fed741291ffd1",
+  "model": "gpt-41"
+}

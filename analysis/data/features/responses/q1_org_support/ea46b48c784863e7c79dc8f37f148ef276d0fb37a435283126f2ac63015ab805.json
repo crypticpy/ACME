@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued funding availability",
+    "dependence on funding",
+    "support for existing recipients"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Ensure funding remains available",
+    "those that depend on it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential loss of funding for those who depend on it"
+  ],
+  "solutions_proposed": [
+    "Ensure funding remains available to those that depend on it"
+  ],
+  "cached_at": "2025-06-20T01:23:22.493065",
+  "cache_key": "ea46b48c784863e7c79dc8f37f148ef276d0fb37a435283126f2ac63015ab805",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for children's programming",
+    "underrepresentation of youth-focused activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Stuff for kiddos"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of programs for children"
+  ],
+  "solutions_proposed": [
+    "offer more programs or services for children"
+  ],
+  "cached_at": "2025-06-21T02:06:01.479430",
+  "cache_key": "28eb9e5571e3efe36afce9ed9626916f6df8420f3e6919e1cf445590efdf4dfb",
+  "model": "gpt-41"
+}

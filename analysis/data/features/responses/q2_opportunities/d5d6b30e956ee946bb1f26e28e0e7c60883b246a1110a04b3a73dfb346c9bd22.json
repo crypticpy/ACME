@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art exhibits",
+    "interest in outdoor cultural events",
+    "preference for free performances and exhibits"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "art exhibits",
+    "outdoor and free performances/exhibits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more art exhibits",
+    "more outdoor performances/exhibits",
+    "more free performances/exhibits"
+  ],
+  "cached_at": "2025-06-21T00:45:10.737283",
+  "cache_key": "d5d6b30e956ee946bb1f26e28e0e7c60883b246a1110a04b3a73dfb346c9bd22",
+  "model": "gpt-41"
+}

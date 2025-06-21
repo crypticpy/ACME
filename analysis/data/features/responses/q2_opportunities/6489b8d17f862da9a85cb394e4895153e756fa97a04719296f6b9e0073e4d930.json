@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family-centric cultural opportunities",
+    "accessibility of performances",
+    "daytime arts and entertainment",
+    "afternoon comedy shows and concerts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Family-centric things",
+    "make performances accessible",
+    "daytime things",
+    "afternoon comedy shows/concerts",
+    "it's so great"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible and daytime performances for families"
+  ],
+  "solutions_proposed": [
+    "offer more family-centric performances",
+    "increase daytime and afternoon arts events"
+  ],
+  "cached_at": "2025-06-21T00:39:13.919923",
+  "cache_key": "6489b8d17f862da9a85cb394e4895153e756fa97a04719296f6b9e0073e4d930",
+  "model": "gpt-41"
+}

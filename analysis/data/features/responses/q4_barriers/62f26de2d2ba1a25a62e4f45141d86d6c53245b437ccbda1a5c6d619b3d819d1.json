@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inaccessibility of summer camp programs for low income communities",
+    "impact of transportation barriers on program attendance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "not always accessible to people in low income communities",
+    "lack of transportation does affect whether people can or cannot attend"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "summer camp programs"
+  ],
+  "barriers_identified": [
+    "inaccessibility of summer camp programs for low income communities",
+    "lack of transportation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:31.010210",
+  "cache_key": "62f26de2d2ba1a25a62e4f45141d86d6c53245b437ccbda1a5c6d619b3d819d1",
+  "model": "gpt-41"
+}

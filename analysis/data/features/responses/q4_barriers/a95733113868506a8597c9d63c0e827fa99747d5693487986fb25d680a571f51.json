@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion from funding based on race",
+    "racial equity criteria in grantmaking",
+    "desire for universal funding access",
+    "first-hand experience as grant panelist"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "lack of city funding due to not being a person of color",
+    "only directed at the Nexus, Elevate, Thrive grant criteria",
+    "served as a panelist on the Thrive/Elevate Grants",
+    "all funding was view through the lens of racial equity",
+    "everyone should get funding, no one left out"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "exclusion from city funding due to not meeting racial equity criteria"
+  ],
+  "solutions_proposed": [
+    "everyone should get funding, no one left out"
+  ],
+  "cached_at": "2025-06-21T01:37:34.092532",
+  "cache_key": "a95733113868506a8597c9d63c0e827fa99747d5693487986fb25d680a571f51",
+  "model": "gpt-41"
+}

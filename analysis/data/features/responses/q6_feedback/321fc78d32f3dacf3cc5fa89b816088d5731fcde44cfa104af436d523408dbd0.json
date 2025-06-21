@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist financial hardship",
+    "need for continued institutional support",
+    "precarity of artist livelihoods"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Please keep supporting artists",
+    "I'm starving here"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial insecurity for artists"
+  ],
+  "solutions_proposed": [
+    "continue support for artists"
+  ],
+  "cached_at": "2025-06-21T02:20:11.242574",
+  "cache_key": "321fc78d32f3dacf3cc5fa89b816088d5731fcde44cfa104af436d523408dbd0",
+  "model": "gpt-41"
+}

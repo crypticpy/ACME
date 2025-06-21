@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about fairness in evaluation",
+    "grant duration and funding stability",
+    "opposition to matching requirements",
+    "opposition to mandatory fiscal sponsorship",
+    "critique of Arts Commission recommendations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "hard to be fairly judged without nuance",
+    "Make Thrive a 5-year grant",
+    "organizations can really benefit and aren't left in the lurch",
+    "do not agree with the Arts Commission recommendations",
+    "bringing back the matching requirement",
+    "making Fiscal Sponsorship mandatory",
+    "deteriorations of, not improvements to, the programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "lack of nuance in multiple choice questions",
+    "instability due to short grant cycles",
+    "potential burden of matching requirement",
+    "mandatory fiscal sponsorship"
+  ],
+  "solutions_proposed": [
+    "eliminate multiple choice questions",
+    "make Thrive a 5-year grant",
+    "do not bring back the matching requirement",
+    "do not make Fiscal Sponsorship mandatory"
+  ],
+  "cached_at": "2025-06-21T01:16:00.704581",
+  "cache_key": "df86d8ccabad55516163d109d1f1b54a31a75aef111d4e4b0af9034dab9b9d6a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth engagement in the arts",
+    "creative opportunities for children",
+    "community-based art activities",
+    "children's self-expression through art, poetry, and theater"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more stuff for kids",
+    "let them create their own art and poetry and theater",
+    "in their communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities for kids to create their own art, poetry, and theater in their communities"
+  ],
+  "cached_at": "2025-06-21T00:31:12.342619",
+  "cache_key": "ab1e6692d2be4c94c55f6e2dcccae3a1097eeb6b744ef293b513da797fc51715",
+  "model": "gpt-41"
+}

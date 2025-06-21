@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for nonprofit venues",
+    "long-term planning for venue creation",
+    "ownership by Black and Latino arts groups",
+    "prioritization of underrepresented communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "prioritize and support nonprofit venues",
+    "make a long term plan",
+    "spur the creation of venues owned by Black and Latino arts groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of venues owned by Black and Latino arts groups"
+  ],
+  "solutions_proposed": [
+    "prioritize and support nonprofit venues",
+    "make a long term plan to spur the creation of venues owned by Black and Latino arts groups"
+  ],
+  "cached_at": "2025-06-20T10:21:46.249250",
+  "cache_key": "e8961734b2ffd948e1a22ff59b84523f31d21dc27344ec918e91a7fc1c19747c",
+  "model": "gpt-41"
+}

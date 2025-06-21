@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "professional hair art",
+    "geographic focus on East Austin",
+    "underrepresented cultural practices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Professional Hair Art in East Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer Professional Hair Art programs in East Austin"
+  ],
+  "cached_at": "2025-06-21T01:52:23.881651",
+  "cache_key": "dd9e0d342ead4738b1eb30d1bc8fd8b96527f66e2386674ccd21e9e157298868",
+  "model": "gpt-41"
+}

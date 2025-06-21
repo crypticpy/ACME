@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high venue costs leading to event loss",
+    "poor maintenance of public art",
+    "impact of vandalism and weather on outdoor art",
+    "concerns about high artist commission fees",
+    "maintenance costs exceeding initial art investment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "high priced venues that we're losing events",
+    "worried about how poorly some of our public art is being maintained",
+    "everything outside is being hurt by vandelism or weather",
+    "needs to be addressed from the get go",
+    "fees for commission pieces is just way too much",
+    "maintenance spent is more than the piece was to begin with"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high venue costs",
+    "poor maintenance of public art",
+    "vandalism and weather damage",
+    "high commission fees for artists",
+    "maintenance costs exceeding value"
+  ],
+  "solutions_proposed": [
+    "address maintenance issues from the start"
+  ],
+  "cached_at": "2025-06-21T00:39:03.605432",
+  "cache_key": "463e806e42d287dbe7ee065f49bd3a4d53a8706939818a86c0f03c46e1dda44d",
+  "model": "gpt-41"
+}

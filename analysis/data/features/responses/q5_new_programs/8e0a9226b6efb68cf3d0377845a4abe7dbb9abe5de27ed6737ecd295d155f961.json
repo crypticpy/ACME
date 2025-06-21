@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for affordable studio spaces",
+    "support for artists and writers",
+    "public art collection engagement",
+    "event-based promotion of art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "subsidies for Studio Spaces",
+    "promotion and reactivation of current public art collection",
+    "through events and other artist and writers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studio spaces",
+    "underutilization of public art collection"
+  ],
+  "solutions_proposed": [
+    "provide subsidies for studio spaces",
+    "promote and reactivate public art collection through events and involvement of artists and writers"
+  ],
+  "cached_at": "2025-06-21T02:08:42.629030",
+  "cache_key": "8e0a9226b6efb68cf3d0377845a4abe7dbb9abe5de27ed6737ecd295d155f961",
+  "model": "gpt-41"
+}

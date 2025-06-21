@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for business training",
+    "support for artists and musicians",
+    "sustainability of artistic careers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "business training for artists and musicians",
+    "learn how to build a sustainable business",
+    "artistic creations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business skills for artists and musicians"
+  ],
+  "solutions_proposed": [
+    "provide business training for artists and musicians"
+  ],
+  "cached_at": "2025-06-20T10:21:55.590534",
+  "cache_key": "0412bd5b4e5b397eaff9325b71794276fd4d129a831bb38f6e443634bac90241",
+  "model": "gpt-41"
+}

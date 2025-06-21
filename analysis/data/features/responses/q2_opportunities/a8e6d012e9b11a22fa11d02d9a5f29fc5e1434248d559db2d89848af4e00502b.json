@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for international dance performances",
+    "Interest in specific renowned dance companies",
+    "Expanding diversity of cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Bring in international dance companies",
+    "Hofesh Schecter",
+    "Divadlo Z Pasaze",
+    "there are so many"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Hofesh Schecter",
+    "Divadlo Z Pasaze"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Bring in international dance companies"
+  ],
+  "cached_at": "2025-06-21T00:26:40.806077",
+  "cache_key": "a8e6d012e9b11a22fa11d02d9a5f29fc5e1434248d559db2d89848af4e00502b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "loss of cultural venues due to real estate development",
+    "impact of wealth inequality on cultural life",
+    "perceived complicity of city government in cultural decline"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "development real estate community has destroyed venues and the vibe",
+    "ultrarich have ruined Austin where the haves get it all",
+    "the City has courted our own destruction"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "destruction of venues by real estate development",
+    "exclusion caused by ultrarich",
+    "city government enabling negative changes"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:40:34.912777",
+  "cache_key": "00df27c974e1eb8804c8badf625de1f7728086071557edd1b077f6226a345327",
+  "model": "gpt-41"
+}

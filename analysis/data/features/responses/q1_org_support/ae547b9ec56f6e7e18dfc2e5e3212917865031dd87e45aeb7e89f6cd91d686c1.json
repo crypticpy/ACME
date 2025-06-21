@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved outreach",
+    "communication about creative opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Outreach about creative opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach about creative opportunities"
+  ],
+  "solutions_proposed": [
+    "increase outreach about creative opportunities"
+  ],
+  "cached_at": "2025-06-20T10:45:58.162386",
+  "cache_key": "ae547b9ec56f6e7e18dfc2e5e3212917865031dd87e45aeb7e89f6cd91d686c1",
+  "model": "gpt-41"
+}

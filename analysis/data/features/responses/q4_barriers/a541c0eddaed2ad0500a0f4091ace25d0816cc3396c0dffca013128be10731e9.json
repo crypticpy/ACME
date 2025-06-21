@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived genre prioritization",
+    "classical music underrepresentation",
+    "funding inequity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "professional classical musician",
+    "our projects seem less of a priority",
+    "less of a priority than other genres"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "classical music projects are deprioritized compared to other genres"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:03.750420",
+  "cache_key": "a541c0eddaed2ad0500a0f4091ace25d0816cc3396c0dffca013128be10731e9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increasing funding for cultural programs",
+    "economic impact of the arts",
+    "advocacy through economic illustration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "a creative way to bring more money into these programs",
+    "illustrating the multiplier effect arts has on local economy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "illustrating the multiplier effect arts has on local economy to bring more money into these programs"
+  ],
+  "cached_at": "2025-06-21T01:12:44.061542",
+  "cache_key": "0a1adc84d41413a10de742cddb47da73f3fc99e7f156517dca89cfd20f09642f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art exhibits",
+    "interest in public art installations",
+    "support for art parks and public spaces",
+    "need for community venues",
+    "pop-up gallery events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Art exhibits",
+    "public art",
+    "art parks and public spaces",
+    "community venues",
+    "pop-up galleries"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase art exhibits",
+    "Expand public art",
+    "Develop art parks and public spaces",
+    "Create more community venues",
+    "Host pop-up galleries"
+  ],
+  "cached_at": "2025-06-21T00:25:02.777196",
+  "cache_key": "a0675af493c364fe47bbd2f782bc62b9134b7f07bd0a062e0f606db4048870d9",
+  "model": "gpt-41"
+}

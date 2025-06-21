@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "conflict of interest in internal task forces",
+    "lack of transparency in decision-making",
+    "potential bias in grant allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "internal task forces outside of arts and music commissions is problematic",
+    "a conflict of interest especially if they desire to be grant recipients"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "conflict of interest for task force members seeking grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:43.712561",
+  "cache_key": "9ce4a60462e2aed42ee6e266e4e856c017c1852bdbf39a0018f605ac00c2e8b0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased support for project managers and panel members",
+    "importance of artist education on funding application process",
+    "assistance and information provision for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more support for the project managers and panel members",
+    "inform, assist and educate artists",
+    "process of successfully applying for funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information, assistance, and education for artists on funding application process"
+  ],
+  "solutions_proposed": [
+    "provide more support for project managers and panel members to better inform, assist, and educate artists"
+  ],
+  "cached_at": "2025-06-21T00:55:00.391963",
+  "cache_key": "00ee97ba2176bdb94a0e473c9382e3159e85af9632000d9e6a58d91e4de85f8c",
+  "model": "gpt-41"
+}

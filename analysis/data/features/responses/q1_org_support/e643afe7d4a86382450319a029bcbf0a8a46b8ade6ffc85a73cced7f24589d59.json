@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "partnership-building",
+    "collaboration between organizations and leaders"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "forging strong partnerships"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "forging strong partnerships"
+  ],
+  "cached_at": "2025-06-20T10:33:08.093255",
+  "cache_key": "e643afe7d4a86382450319a029bcbf0a8a46b8ade6ffc85a73cced7f24589d59",
+  "model": "gpt-41"
+}

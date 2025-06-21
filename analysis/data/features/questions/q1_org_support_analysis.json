@@ -1,0 +1,361 @@
+{
+  "question_id": "q1_org_support",
+  "question_text": "How do you believe ACME should better support organizations and cultural leaders?",
+  "response_count": 862,
+  "dominant_themes": [
+    {
+      "theme": "need for increased funding",
+      "count": 34,
+      "percentage": 3.944315545243619,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 8,
+        "neutral": 21,
+        "mixed": 2,
+        "positive": 3
+      },
+      "urgency_score": 0.8088235294117647,
+      "stakeholder_breakdown": {
+        "artist": 6,
+        "business_owner": 2,
+        "resident": 1,
+        "unknown": 20,
+        "organization": 4,
+        "venue_operator": 1
+      }
+    },
+    {
+      "theme": "support for organizations and leaders",
+      "count": 11,
+      "percentage": 1.2761020881670533,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 9,
+        "positive": 2
+      },
+      "urgency_score": 0.6818181818181818,
+      "stakeholder_breakdown": {
+        "organization": 1,
+        "unknown": 9,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "community engagement",
+      "count": 10,
+      "percentage": 1.160092807424594,
+      "representative_quotes": [
+        "community engagement"
+      ],
+      "sentiment_distribution": {
+        "positive": 5,
+        "neutral": 5
+      },
+      "urgency_score": 0.4,
+      "stakeholder_breakdown": {
+        "unknown": 9,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "support for emerging artists",
+      "count": 10,
+      "percentage": 1.160092807424594,
+      "representative_quotes": [
+        "support for emerging artists"
+      ],
+      "sentiment_distribution": {
+        "positive": 6,
+        "negative": 1,
+        "mixed": 1,
+        "neutral": 2
+      },
+      "urgency_score": 0.55,
+      "stakeholder_breakdown": {
+        "organization": 1,
+        "unknown": 6,
+        "artist": 3
+      }
+    },
+    {
+      "theme": "insufficient funding",
+      "count": 9,
+      "percentage": 1.0440835266821344,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 8,
+        "neutral": 1
+      },
+      "urgency_score": 1.0,
+      "stakeholder_breakdown": {
+        "organization": 3,
+        "unknown": 6
+      }
+    },
+    {
+      "theme": "resource allocation",
+      "count": 8,
+      "percentage": 0.9280742459396751,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 8
+      },
+      "urgency_score": 0.6875,
+      "stakeholder_breakdown": {
+        "artist": 1,
+        "unknown": 7
+      }
+    },
+    {
+      "theme": "resource sharing",
+      "count": 7,
+      "percentage": 0.8120649651972157,
+      "representative_quotes": [
+        "resource sharing",
+        "intentional about resource sharing"
+      ],
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 4
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "organization": 3,
+        "unknown": 3,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "direct financial support",
+      "count": 6,
+      "percentage": 0.6960556844547563,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "positive": 4
+      },
+      "urgency_score": 0.9166666666666666,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "resident": 1,
+        "venue_operator": 1
+      }
+    },
+    {
+      "theme": "artist compensation",
+      "count": 6,
+      "percentage": 0.6960556844547563,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 4,
+        "neutral": 2
+      },
+      "urgency_score": 0.8333333333333334,
+      "stakeholder_breakdown": {
+        "artist": 5,
+        "organization": 1
+      }
+    },
+    {
+      "theme": "need for funding",
+      "count": 6,
+      "percentage": 0.6960556844547563,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 5,
+        "positive": 1
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "organization": 1,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "lack of awareness of ACME",
+      "count": 5,
+      "percentage": 0.580046403712297,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 4,
+        "negative": 1
+      },
+      "urgency_score": 0.6,
+      "stakeholder_breakdown": {
+        "artist": 3,
+        "unknown": 1,
+        "resident": 1
+      }
+    },
+    {
+      "theme": "support for individual artists",
+      "count": 5,
+      "percentage": 0.580046403712297,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "mixed": 1,
+        "positive": 1,
+        "negative": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "artist": 4,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "need for increased financial support",
+      "count": 5,
+      "percentage": 0.580046403712297,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 2,
+        "neutral": 3
+      },
+      "urgency_score": 0.8,
+      "stakeholder_breakdown": {
+        "unknown": 4,
+        "organization": 1
+      }
+    },
+    {
+      "theme": "financial support",
+      "count": 4,
+      "percentage": 0.46403712296983757,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 4
+      },
+      "urgency_score": 0.625,
+      "stakeholder_breakdown": {
+        "unknown": 4
+      }
+    },
+    {
+      "theme": "increased funding for organizations",
+      "count": 4,
+      "percentage": 0.46403712296983757,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "unknown": 4
+      }
+    },
+    {
+      "theme": "increased funding",
+      "count": 4,
+      "percentage": 0.46403712296983757,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 3
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 4
+      }
+    },
+    {
+      "theme": "networking opportunities",
+      "count": 4,
+      "percentage": 0.46403712296983757,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 4
+      },
+      "urgency_score": 0.375,
+      "stakeholder_breakdown": {
+        "unknown": 4
+      }
+    },
+    {
+      "theme": "equity in funding distribution",
+      "count": 3,
+      "percentage": 0.34802784222737815,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "mixed": 1,
+        "neutral": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "organization": 1,
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "financial support for artists",
+      "count": 3,
+      "percentage": 0.34802784222737815,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "negative": 1,
+        "mixed": 1
+      },
+      "urgency_score": 0.8333333333333334,
+      "stakeholder_breakdown": {
+        "resident": 1,
+        "artist": 2
+      }
+    },
+    {
+      "theme": "need for increased outreach",
+      "count": 3,
+      "percentage": 0.34802784222737815,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "negative": 1
+      },
+      "urgency_score": 0.6666666666666666,
+      "stakeholder_breakdown": {
+        "unknown": 2,
+        "artist": 1
+      }
+    }
+  ],
+  "sentiment_distribution": {
+    "negative": 225,
+    "neutral": 338,
+    "positive": 203,
+    "mixed": 96
+  },
+  "urgency_distribution": {
+    "high": 329,
+    "medium": 476,
+    "low": 57
+  },
+  "stakeholder_distribution": {
+    "organization": 202,
+    "unknown": 363,
+    "resident": 98,
+    "artist": 183,
+    "business_owner": 4,
+    "venue_operator": 10,
+    "educator": 2
+  },
+  "key_insights": [
+    "Insufficient funding is the most urgent and frequently cited barrier to effective support for organizations and cultural leaders, with high urgency scores across multiple related themes (e.g., 'insufficient funding' at 1.00, 'direct financial support' at 0.92, 'artist compensation' at 0.83).",
+    "There is a strong and recurring call for increased and more direct financial support, both for organizations and individual artists, indicating that current funding mechanisms are not meeting community needs.",
+    "Resource allocation and sharing are areas of concern, suggesting that existing support structures may be inefficient or inequitably distributed.",
+    "A lack of awareness about ACME and its offerings persists among stakeholders, which may limit the reach and impact of current support programs.",
+    "Support for emerging artists and leaders is under-addressed, with moderate urgency but clear indications that targeted interventions could yield systemic improvement."
+  ],
+  "recommendations": [
+    "Increase the overall funding pool for cultural organizations and leaders, prioritizing direct financial support and equitable distribution to address the most urgent needs.",
+    "Implement streamlined, transparent grant and compensation processes to ensure timely and fair access to resources for both organizations and individual artists.",
+    "Develop targeted outreach and communication campaigns to raise awareness of ACME\u2019s programs and opportunities, especially among underrepresented and emerging artists.",
+    "Establish resource-sharing platforms or collaborative networks to maximize the impact of available resources and reduce duplication or inefficiencies.",
+    "Create dedicated support streams for emerging artists and leaders, including mentorship, professional development, and accessible seed funding."
+  ],
+  "contradictions": [],
+  "consensus_points": []
+}

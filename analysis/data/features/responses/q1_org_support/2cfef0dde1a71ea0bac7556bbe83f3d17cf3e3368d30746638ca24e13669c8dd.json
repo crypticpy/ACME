@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased opportunities for artists",
+    "artist-led teaching and demonstrations",
+    "support for artist engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "organize more opportunities",
+    "artists to teach",
+    "demonstrate their work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "organize more opportunities for artists to teach and demonstrate their work"
+  ],
+  "cached_at": "2025-06-20T10:34:11.342722",
+  "cache_key": "2cfef0dde1a71ea0bac7556bbe83f3d17cf3e3368d30746638ca24e13669c8dd",
+  "model": "gpt-41"
+}

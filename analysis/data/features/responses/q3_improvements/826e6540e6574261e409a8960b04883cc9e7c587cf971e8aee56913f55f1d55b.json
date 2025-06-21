@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need to center art in funding criteria",
+    "Concerns about fairness in grant allocation",
+    "Critique of nonprofits created solely for funding eligibility",
+    "Call for reinstating matching requirements",
+    "Advocacy for grants proportional to organizational budgets",
+    "Systemic flaws in current funding processes",
+    "Reference to best practices in the arts sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "All aspects need improvement",
+    "centering actual art in the questions and scoring",
+    "reinstating matching requirements",
+    "making grants proportional to budgets",
+    "nonprofit created solely to qualify for a Thrive grant",
+    "deeply flawed system that must be completely overhauled",
+    "best practices for good reason"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive grant"
+  ],
+  "barriers_identified": [
+    "Nonprofits created solely for funding eligibility receiving large grants",
+    "Established organizations with audiences receiving no funding",
+    "Current system not reflecting how the arts sector actually works"
+  ],
+  "solutions_proposed": [
+    "Center actual art in questions and scoring",
+    "Reinstate matching requirements",
+    "Make grants proportional to organizational budgets",
+    "Completely overhaul the system according to best practices"
+  ],
+  "cached_at": "2025-06-21T01:10:54.457546",
+  "cache_key": "826e6540e6574261e409a8960b04883cc9e7c587cf971e8aee56913f55f1d55b",
+  "model": "gpt-41"
+}

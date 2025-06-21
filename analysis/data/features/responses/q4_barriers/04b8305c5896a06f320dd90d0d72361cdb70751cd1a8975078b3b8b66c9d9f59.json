@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived mismanagement of city funding",
+    "artist displacement",
+    "loss of local creative community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "City funding has lost its way",
+    "our city has lost many artists because of it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "misdirection or ineffectiveness of city funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:01.795999",
+  "cache_key": "04b8305c5896a06f320dd90d0d72361cdb70751cd1a8975078b3b8b66c9d9f59",
+  "model": "gpt-41"
+}

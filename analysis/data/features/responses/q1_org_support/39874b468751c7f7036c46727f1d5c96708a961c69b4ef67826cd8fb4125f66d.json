@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for support for new organizations",
+    "existing organizations have established resources",
+    "equity in funding distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "new organizations and new voices need to be supported",
+    "existing organizations have broad donor bases",
+    "years of audience development"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for new organizations and new voices"
+  ],
+  "solutions_proposed": [
+    "support new organizations and new voices"
+  ],
+  "cached_at": "2025-06-20T01:13:55.108770",
+  "cache_key": "39874b468751c7f7036c46727f1d5c96708a961c69b4ef67826cd8fb4125f66d",
+  "model": "gpt-41"
+}

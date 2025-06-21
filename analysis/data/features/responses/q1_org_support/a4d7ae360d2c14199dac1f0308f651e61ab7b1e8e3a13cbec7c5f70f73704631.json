@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "consistent funding for organizations and leaders",
+    "collaboration opportunities",
+    "amplification of cultural work",
+    "inclusion of leaders' voices in policy and programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "providing consistent funding",
+    "creating more collaboration opportunities",
+    "amplifying their work through shared platforms",
+    "ensuring their voices shape policy and programming decisions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent funding",
+    "insufficient collaboration opportunities",
+    "limited amplification of work",
+    "exclusion from policy and programming decisions"
+  ],
+  "solutions_proposed": [
+    "provide consistent funding",
+    "create more collaboration opportunities",
+    "amplify work through shared platforms",
+    "ensure leaders' voices shape policy and programming"
+  ],
+  "cached_at": "2025-06-20T10:44:47.121369",
+  "cache_key": "a4d7ae360d2c14199dac1f0308f651e61ab7b1e8e3a13cbec7c5f70f73704631",
+  "model": "gpt-41"
+}

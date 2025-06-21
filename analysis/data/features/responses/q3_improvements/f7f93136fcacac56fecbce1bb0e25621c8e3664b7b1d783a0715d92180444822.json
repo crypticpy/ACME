@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "restrictive program requirements",
+    "lack of diversity or expansiveness in decision-making",
+    "concerns about council inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "requirements of each are very limited",
+    "the deciding council seems to not be expansive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited requirements",
+    "non-expansive deciding council"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:17:16.397791",
+  "cache_key": "f7f93136fcacac56fecbce1bb0e25621c8e3664b7b1d783a0715d92180444822",
+  "model": "gpt-41"
+}

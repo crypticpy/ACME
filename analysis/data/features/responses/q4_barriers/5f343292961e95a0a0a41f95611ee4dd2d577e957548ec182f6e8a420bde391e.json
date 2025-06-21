@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of funding for artists and event organizers",
+    "community impact from reduced funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "artist and event organizers losing funding",
+    "effects the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artist and event organizers losing funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:54.056519",
+  "cache_key": "5f343292961e95a0a0a41f95611ee4dd2d577e957548ec182f6e8a420bde391e",
+  "model": "gpt-41"
+}

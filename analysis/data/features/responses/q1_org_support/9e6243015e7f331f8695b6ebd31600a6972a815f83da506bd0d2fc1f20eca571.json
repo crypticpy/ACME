@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing funding access for individual creatives",
+    "prioritizing local and regional artists for commissions",
+    "redistributing large public art contracts into smaller opportunities",
+    "broadening artist participation in public art programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more lower entry opportunities for individual creatives",
+    "prioritize commissioning local and regional artists",
+    "break up large AIPP commissions at ABIA",
+    "multiple contracts at lower amounts for more artist opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "ABIA"
+  ],
+  "barriers_identified": [
+    "limited entry opportunities for individual creatives",
+    "large commissions restricting access to fewer artists"
+  ],
+  "solutions_proposed": [
+    "make available more lower entry opportunities for individual creatives to receive funding",
+    "prioritize commissioning local and regional artists for AIPP commissions",
+    "break up large AIPP commissions at ABIA to multiple contracts at lower amounts for more artist opportunities"
+  ],
+  "cached_at": "2025-06-20T10:24:22.155934",
+  "cache_key": "9e6243015e7f331f8695b6ebd31600a6972a815f83da506bd0d2fc1f20eca571",
+  "model": "gpt-41"
+}

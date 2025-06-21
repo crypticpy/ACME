@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "identification of funding sources",
+    "support for labor union activity in the cultural sector",
+    "improved event promotion and outreach",
+    "centralized city-wide event calendar"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Identify funding sources",
+    "Encourage labor union activity",
+    "City-wide event calendar that is widely published to social media with funding for outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of identified funding sources",
+    "insufficient support for labor organizing",
+    "limited visibility of events due to inadequate outreach"
+  ],
+  "solutions_proposed": [
+    "Identify funding sources",
+    "Encourage labor union activity",
+    "Create and widely publish a city-wide event calendar with funding for outreach"
+  ],
+  "cached_at": "2025-06-20T10:45:30.349935",
+  "cache_key": "6ef778711dd0d8c65d3f0a57d659b3034c9d406aa728714a8936b77b939d7d30",
+  "model": "gpt-41"
+}

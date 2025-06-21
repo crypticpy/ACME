@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for experienced leadership and panelists in literary arts",
+    "concerns about irregular scoring and review safeguards",
+    "demand for increased transparency in funding processes",
+    "desire for extended multi-year funding for organizational growth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Experienced leadership and panelists in literary arts",
+    "A safeguard system for review when scores are irregular",
+    "more transparency in the process from design to implementation",
+    "extended multi-year funding (longer than 2 years for Thrive) for small to medium-sized organizations growing to institution status"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "irregular scoring during the panel process",
+    "lack of transparency in the process",
+    "insufficient duration of multi-year funding for organizational growth"
+  ],
+  "solutions_proposed": [
+    "Appoint experienced leadership and panelists in literary arts",
+    "Implement a safeguard system for review when scores are irregular",
+    "Increase transparency from design to implementation",
+    "Extend multi-year funding beyond 2 years for small to medium-sized organizations in the Thrive program"
+  ],
+  "cached_at": "2025-06-21T00:53:28.916885",
+  "cache_key": "c59f8385aaf6f1b649f095649a856e8212c50d4f80988c43f96453faa1214d88",
+  "model": "gpt-41"
+}

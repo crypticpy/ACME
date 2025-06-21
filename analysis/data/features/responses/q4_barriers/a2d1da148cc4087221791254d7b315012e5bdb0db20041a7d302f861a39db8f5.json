@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of exhibition opportunities",
+    "limited visibility for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "insufficient opportunities for display"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient opportunities for display"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:46.298598",
+  "cache_key": "a2d1da148cc4087221791254d7b315012e5bdb0db20041a7d302f861a39db8f5",
+  "model": "gpt-41"
+}

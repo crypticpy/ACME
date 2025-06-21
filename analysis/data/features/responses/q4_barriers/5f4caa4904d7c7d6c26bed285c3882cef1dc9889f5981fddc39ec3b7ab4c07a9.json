@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers",
+    "lack of free and safe parking",
+    "geographic inequity in access",
+    "affordability and displacement",
+    "barriers for people of color and LGBTQ+ communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Transportation and free and safe parking (if applicable) is a barrier",
+    "many in my community face",
+    "Many people of color and LGBTQ+ people cannot afford to live in the parts of the city that are walkable and have reliable public transportation",
+    "without a vehicle, accessing these events can be difficult"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transportation options",
+    "lack of free and safe parking",
+    "inability to afford living in walkable neighborhoods",
+    "lack of reliable public transportation in affordable areas",
+    "difficulty accessing events without a vehicle"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:00.719536",
+  "cache_key": "5f4caa4904d7c7d6c26bed285c3882cef1dc9889f5981fddc39ec3b7ab4c07a9",
+  "model": "gpt-41"
+}

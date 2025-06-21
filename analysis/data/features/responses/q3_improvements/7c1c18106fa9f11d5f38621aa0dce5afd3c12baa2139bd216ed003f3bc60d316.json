@@ -1,0 +1,44 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "clarity and transparency in grant opportunities",
+    "budget disclosure and evaluation",
+    "mentorship and organizational development",
+    "reducing dependency on city funding",
+    "shifting from patronage to partnership",
+    "measuring and quantifying community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more clearly naming grant opportunities under the specific programs",
+    "include historical and projected budgets in evaluation",
+    "create a growth/development mentoring/sponsorship program",
+    "encourages and allows orgs to come off of City funding for periods of time",
+    "establish a PARTNERSHIP system instead of a PATRONAGE system",
+    "quantify and measure Community Engagement"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clarity in grant opportunities",
+    "insufficient budget transparency",
+    "over-reliance on City funding",
+    "limited organizational development support",
+    "current patronage model limits community contribution expectations"
+  ],
+  "solutions_proposed": [
+    "more clearly naming grant opportunities under the specific programs",
+    "include historical and projected budgets in evaluation",
+    "create a growth/development mentoring/sponsorship program",
+    "allow organizations to come off City funding for periods of time",
+    "establish a partnership system instead of a patronage system",
+    "quantify and measure community engagement"
+  ],
+  "cached_at": "2025-06-21T01:04:02.880108",
+  "cache_key": "7c1c18106fa9f11d5f38621aa0dce5afd3c12baa2139bd216ed003f3bc60d316",
+  "model": "gpt-41"
+}

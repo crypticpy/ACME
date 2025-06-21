@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "emphasis on local and Texas artists",
+    "cross-sector collaboration with small business initiatives",
+    "incentives for artist and nonprofit participation",
+    "compliance with city and state regulations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "emphasize local artists, either from Austin or from Texas",
+    "cross-collaborate with Austin's Small Business Class, specific to artists/creatives",
+    "incentivize participation with potential micro-grants for individuals and non-profits",
+    "ensure creative ventures are operating responsibly and in accordance with City and State regulations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin's Small Business Class"
+  ],
+  "barriers_identified": [
+    "lack of incentives for participation",
+    "need for compliance with regulations"
+  ],
+  "solutions_proposed": [
+    "emphasize local and Texas artists in funding",
+    "cross-collaborate with Austin's Small Business Class for artists/creatives",
+    "offer micro-grants to individuals and non-profits",
+    "support responsible operation in accordance with City and State regulations"
+  ],
+  "cached_at": "2025-06-21T01:09:44.644883",
+  "cache_key": "bfa4cae9bee427ba92b4c44272b329e2e02b3ac395424573ab219a33a270b950",
+  "model": "gpt-41"
+}

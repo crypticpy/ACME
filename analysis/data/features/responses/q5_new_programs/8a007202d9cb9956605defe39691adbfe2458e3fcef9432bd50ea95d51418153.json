@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "loss of creative spaces",
+    "impact of commercial real estate prices on arts",
+    "need for support for affordable creative venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support for creative spaces",
+    "priced out of commercial real estate"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "commercial real estate prices"
+  ],
+  "solutions_proposed": [
+    "support for creative spaces"
+  ],
+  "cached_at": "2025-06-21T02:00:33.101877",
+  "cache_key": "8a007202d9cb9956605defe39691adbfe2458e3fcef9432bd50ea95d51418153",
+  "model": "gpt-41"
+}

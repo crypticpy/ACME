@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of community representation on judging panels",
+    "judges' lack of understanding of the Austin Arts Community",
+    "perceived unfairness and illogical distribution of funds",
+    "lack of transparency in the funding process",
+    "ineligible or non-local groups receiving large grants",
+    "important local groups not receiving funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "better community representation on the judging panels",
+    "decisions should be made by people that understand the Austin Arts Community",
+    "some of the judges were not even reading the submissions",
+    "untested individuals and organizations received large grants",
+    "run by individuals that don't reside in Austin",
+    "many groups received no funding at all",
+    "funds to be fairly and logically distributed",
+    "need transparency in the process"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community representation on panels",
+    "judges' lack of familiarity with local arts community",
+    "perceived bias or lack of diligence by judges",
+    "non-local or unqualified groups receiving funding",
+    "lack of transparency in decision-making"
+  ],
+  "solutions_proposed": [
+    "increase community representation on judging panels",
+    "ensure judges understand the Austin Arts Community",
+    "improve transparency in the funding process",
+    "distribute funds fairly and logically"
+  ],
+  "cached_at": "2025-06-21T01:07:27.945427",
+  "cache_key": "d35c2203979cc177a60c5aacf7eecabc642f1bd580497bfbc0f13ac48cfda5ee",
+  "model": "gpt-41"
+}

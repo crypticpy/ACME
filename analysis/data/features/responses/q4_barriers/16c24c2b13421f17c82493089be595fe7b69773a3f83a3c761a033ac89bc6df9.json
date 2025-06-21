@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers",
+    "parking difficulties",
+    "accessibility challenges for arts and culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Parking / transportation in general is an issue"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking",
+    "transportation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:02.903391",
+  "cache_key": "16c24c2b13421f17c82493089be595fe7b69773a3f83a3c761a033ac89bc6df9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for improved communication",
+    "transparency in process stages",
+    "timeliness of updates"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Be more communicative at each stage",
+    "Esp now"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of communication at each stage"
+  ],
+  "solutions_proposed": [
+    "be more communicative at each stage"
+  ],
+  "cached_at": "2025-06-21T02:19:13.426617",
+  "cache_key": "92e929a9680f05077e69bf58365627eb78e658b6cde3e9a22de37006fc13e40f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of funding for longstanding arts organizations",
+    "Support for emerging groups",
+    "Concern about defunding established cultural groups",
+    "Importance of cultural traditions and employment for musicians"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "many of the longstanding Austin arts organizations lost their funding",
+    "do want to see emerging groups funded",
+    "do not support taking funding away from cultural groups and traditions",
+    "employ musicians and are part of the cultural fabric of Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Loss of funding for established cultural groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:05:10.672515",
+  "cache_key": "d2a8c23d0d33f784b378cc14b6affc59c541597f2b84058d7d01910cb2a4e7e7",
+  "model": "gpt-41"
+}

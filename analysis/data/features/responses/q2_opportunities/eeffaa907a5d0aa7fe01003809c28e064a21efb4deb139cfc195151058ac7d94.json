@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for unconventional arts and entertainment",
+    "interest in interactive and participatory events",
+    "integration of technology and innovation in the arts",
+    "educational components in cultural programming",
+    "community engagement through contests and demonstrations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "things you don't often see in arts and entertainment",
+    "display/fun contest pageant of innovative hair styles",
+    "contests for dogs and owners",
+    "public education/presentation about the mathematics of music",
+    "speed painting contest",
+    "demonstration of technology embedded in clothing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "display/fun contest pageant of innovative hair styles",
+    "contests for dogs and owners",
+    "public education/presentation about the mathematics of music",
+    "speed painting contest",
+    "demonstration of technology embedded in clothing"
+  ],
+  "cached_at": "2025-06-21T00:52:16.235308",
+  "cache_key": "eeffaa907a5d0aa7fe01003809c28e064a21efb4deb139cfc195151058ac7d94",
+  "model": "gpt-41"
+}

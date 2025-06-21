@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "support for underserved areas (eastern crescent)",
+    "importance of nonprofit partnerships",
+    "access to literary arts for all",
+    "benefits for working parents",
+    "reducing financial barriers to participation",
+    "value of summer programs for youth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I appreciate all that ACME and their staff do for our community",
+    "especially the historically underserved area of Austin\u2019s eastern crescent",
+    "funding and supporting non profits in Austin, like Austin Bat Cave",
+    "support the literary arts for all Austinites",
+    "summer programs the funding would support also helps the working parents",
+    "alleviating the financial barrier for participating creates opportunities for creative writing and joy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Bat Cave"
+  ],
+  "barriers_identified": [
+    "financial barrier for participating"
+  ],
+  "solutions_proposed": [
+    "funding and supporting nonprofits in Austin, like Austin Bat Cave",
+    "alleviating the financial barrier for participating"
+  ],
+  "cached_at": "2025-06-21T02:22:49.126151",
+  "cache_key": "b8263aabdeff6634512d15dd8593a99b897deeae0027f539f239d4637128828a",
+  "model": "gpt-41"
+}

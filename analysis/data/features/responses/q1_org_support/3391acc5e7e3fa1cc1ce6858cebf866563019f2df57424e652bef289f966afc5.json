@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable studio space citywide",
+    "geographic inequity in resource distribution",
+    "rising costs pricing out low-income artists",
+    "limited accessibility for North-Central/North Austin artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Affordable studio space throughout the city",
+    "majority of affordable spaces are in East Austin",
+    "pricing out low-income artists",
+    "ArtHub (formerly Good Dad Studios) is probably the most affordable",
+    "not practical for folks in North-Central / North Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ArtHub",
+    "Good Dad Studios"
+  ],
+  "barriers_identified": [
+    "lack of affordable studio space outside East Austin",
+    "existing affordable spaces becoming unaffordable",
+    "geographic inaccessibility for North-Central/North Austin artists"
+  ],
+  "solutions_proposed": [
+    "increase affordable studio space throughout the city"
+  ],
+  "cached_at": "2025-06-20T10:45:48.838194",
+  "cache_key": "3391acc5e7e3fa1cc1ce6858cebf866563019f2df57424e652bef289f966afc5",
+  "model": "gpt-41"
+}

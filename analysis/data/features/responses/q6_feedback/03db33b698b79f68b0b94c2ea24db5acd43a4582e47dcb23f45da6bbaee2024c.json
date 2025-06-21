@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for genuine investment in the arts community",
+    "Critique of tokenism in arts funding",
+    "Impact of tech industry and business culture on the arts",
+    "Loss of venues and artist displacement",
+    "Economic challenges for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Be intentional about making Austin a really thriving place for music",
+    "doesn't mean tokenizing art by particular people",
+    "truly investing in the whole community",
+    "putting money in as many artists' pockets as possible",
+    "the shift in Austin to a tech space has not helped the arts",
+    "the new business culture here has not been philanthropic",
+    "it's killing beloved venues and pricing artists of all kinds out of the city"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "tokenizing art by particular people",
+    "shift to a tech space",
+    "new business culture not being philanthropic",
+    "killing beloved venues",
+    "pricing artists of all kinds out of the city"
+  ],
+  "solutions_proposed": [
+    "truly investing in the whole community",
+    "putting money in as many artists' pockets as possible"
+  ],
+  "cached_at": "2025-06-21T02:14:15.383673",
+  "cache_key": "03db33b698b79f68b0b94c2ea24db5acd43a4582e47dcb23f45da6bbaee2024c",
+  "model": "gpt-41"
+}

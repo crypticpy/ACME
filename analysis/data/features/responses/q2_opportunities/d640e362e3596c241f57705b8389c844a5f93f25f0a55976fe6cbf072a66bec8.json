@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of rehearsal spaces",
+    "support for diverse choral arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Affordable rehearsal spaces",
+    "support for diverse choral arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable rehearsal spaces"
+  ],
+  "solutions_proposed": [
+    "increase affordable rehearsal spaces",
+    "provide support for diverse choral arts"
+  ],
+  "cached_at": "2025-06-21T00:24:23.001538",
+  "cache_key": "d640e362e3596c241f57705b8389c844a5f93f25f0a55976fe6cbf072a66bec8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "emotional processing through arts",
+    "social healing via cultural experiences",
+    "collective experiences of awe and beauty"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "promote emotional processing",
+    "social healing",
+    "experience awe and beauty together"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "promote emotional processing and social healing",
+    "create ways for people to experience awe and beauty together"
+  ],
+  "cached_at": "2025-06-21T00:45:09.228741",
+  "cache_key": "932db95cf304613dfb8fb623d772b18f55be1daccc503e3bf91fe5dd216a9dc9",
+  "model": "gpt-41"
+}

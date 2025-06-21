@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for African American music and culture",
+    "sustaining venues for African American performers",
+    "attracting African American celebrities and entertainers",
+    "lack of success in current efforts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "support for African American music & culture",
+    "assistance aiding with sustaining venues",
+    "venues that attract African American celebrities & performers",
+    "I have been unsuccessful in these endevours in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for sustaining venues that attract African American celebrities and performers",
+    "personal lack of success in establishing such venues in Austin"
+  ],
+  "solutions_proposed": [
+    "offer support for African American music and culture",
+    "provide assistance to sustain venues that attract African American celebrities and performers"
+  ],
+  "cached_at": "2025-06-21T02:09:26.421227",
+  "cache_key": "9e61f06faf2a9d9a67b1d9ddb3f5050c05dfb385888df2ebfead543e1cdd3b66",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking access for working musicians",
+    "grant opportunities for new works",
+    "support for creative growth",
+    "fair pay for musicians and artists",
+    "standardization of artist compensation at venues and bars"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Parking programs for working musicians in downtown and east Austin",
+    "Continued grant opportunities supporting new works, and creative growth",
+    "Fair or standard pay rates for musicians and artists at venues and bars"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of parking for working musicians in downtown and east Austin",
+    "insufficient grant opportunities for new works and creative growth",
+    "unfair or non-standard pay rates for musicians and artists at venues and bars"
+  ],
+  "solutions_proposed": [
+    "parking programs for working musicians in downtown and east Austin",
+    "continued grant opportunities supporting new works and creative growth",
+    "fair or standard pay rates for musicians and artists at venues and bars"
+  ],
+  "cached_at": "2025-06-21T01:56:07.353001",
+  "cache_key": "ac1ac9bb937ac5c6beb16823950cd6851776babfef7000a073cd318bb1e2244b",
+  "model": "gpt-41"
+}

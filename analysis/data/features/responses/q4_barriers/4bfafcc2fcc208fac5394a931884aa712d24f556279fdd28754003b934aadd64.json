@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of visibility for filmmakers",
+    "unequal support across art disciplines",
+    "risk-averse local funding",
+    "preference for legacy institutions",
+    "challenges for new and diverse voices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Filmmakers are often overlooked in Austin\u2019s broader arts ecosystem",
+    "film rarely receives the same attention or support",
+    "local funding landscape is risk-averse",
+    "tends to favor legacy institutions or familiar names",
+    "new voices, diverse perspectives, and experimental work often struggle to find backing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility for filmmakers",
+    "film receives less attention and support compared to other arts",
+    "risk-averse funding environment",
+    "preference for established or legacy institutions",
+    "difficulty for new nonprofits and experimental work to get support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:34.684772",
+  "cache_key": "4bfafcc2fcc208fac5394a931884aa712d24f556279fdd28754003b934aadd64",
+  "model": "gpt-41"
+}

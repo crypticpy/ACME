@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for live jazz music",
+    "programming for seniors",
+    "music and arts opportunities for older adults"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Live jazz",
+    "programs for senior music and arts lovers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase live jazz offerings",
+    "Create or expand programs for senior music and arts lovers"
+  ],
+  "cached_at": "2025-06-21T00:41:09.802353",
+  "cache_key": "2b091691e3d6319877d48120daaa5bf7b33521e19d17563ade8a80314dbe627b",
+  "model": "gpt-41"
+}

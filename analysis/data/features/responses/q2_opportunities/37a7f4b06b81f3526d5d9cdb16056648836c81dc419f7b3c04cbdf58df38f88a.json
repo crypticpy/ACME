@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for cultural heritage events",
+    "interest in cultural diversity",
+    "celebration of community heritage"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cultural heritage celebrations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More cultural heritage celebrations"
+  ],
+  "cached_at": "2025-06-21T00:52:20.538349",
+  "cache_key": "37a7f4b06b81f3526d5d9cdb16056648836c81dc419f7b3c04cbdf58df38f88a",
+  "model": "gpt-41"
+}

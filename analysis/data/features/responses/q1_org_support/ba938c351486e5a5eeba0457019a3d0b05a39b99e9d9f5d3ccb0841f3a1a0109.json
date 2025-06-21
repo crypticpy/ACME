@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased school engagement",
+    "youth outreach",
+    "direct presence in educational institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Go into the middle and high schools more often"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Go into the middle and high schools more often"
+  ],
+  "cached_at": "2025-06-20T10:45:40.895589",
+  "cache_key": "ba938c351486e5a5eeba0457019a3d0b05a39b99e9d9f5d3ccb0841f3a1a0109",
+  "model": "gpt-41"
+}

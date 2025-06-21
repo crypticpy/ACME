@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Need for grant opportunities not tied to HOT funds",
+    "Support for individual artists",
+    "Support for local creative nonprofit organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More grant opportunities that are NOT tied to HOT funds",
+    "More support for individual artists",
+    "support for local creative nonprofit orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Grant opportunities tied to HOT funds"
+  ],
+  "solutions_proposed": [
+    "Offer more grant opportunities not tied to HOT funds",
+    "Increase support for individual artists",
+    "Increase support for local creative nonprofit organizations"
+  ],
+  "cached_at": "2025-06-21T01:56:57.311790",
+  "cache_key": "1da762086ae0b5b7c1ae8d4c36164db411b0accbc46aac1946f3be66a9917a8d",
+  "model": "gpt-41"
+}

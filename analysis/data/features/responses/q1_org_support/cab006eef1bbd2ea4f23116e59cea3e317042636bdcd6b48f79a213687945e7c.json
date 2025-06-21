@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "distrust of ACME or process",
+    "frustration with engagement",
+    "perceived dishonesty from organization"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "This is a stupid question.",
+    "Do your job and stop lying."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of trust in ACME",
+    "perceived dishonesty from organization"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:27:21.192100",
+  "cache_key": "cab006eef1bbd2ea4f23116e59cea3e317042636bdcd6b48f79a213687945e7c",
+  "model": "gpt-41"
+}

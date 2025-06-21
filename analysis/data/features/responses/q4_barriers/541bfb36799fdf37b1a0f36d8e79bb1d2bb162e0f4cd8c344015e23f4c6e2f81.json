@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of living for artists",
+    "lack of opportunity for community input",
+    "financial barriers to entering the arts (venue fees, contracts)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Continued high cost of living for artists",
+    "lack of opportunity to give input",
+    "high barrier of costs to enter the arts world (venue fees, contracts, etc.)"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living for artists",
+    "lack of opportunity to give input",
+    "high costs to enter the arts world (venue fees, contracts)"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:11.872445",
+  "cache_key": "541bfb36799fdf37b1a0f36d8e79bb1d2bb162e0f4cd8c344015e23f4c6e2f81",
+  "model": "gpt-41"
+}

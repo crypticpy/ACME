@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live painting events",
+    "interest in visual arts experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more Live painting events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "see more Live painting events"
+  ],
+  "cached_at": "2025-06-21T00:26:23.877961",
+  "cache_key": "88fd8fb8efbe608e1f273499955ba4e715edf4e3cd7af5d2bd05836a27163f9a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "loss of creative identity",
+    "declining cultural uniqueness",
+    "need for support of local creatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "We need to sustain Austin\u2019s creatives",
+    "it becomes less weird every day"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "declining support for creatives"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:20:28.690630",
+  "cache_key": "c4f45d1a063c5ab07d79841bdbd4bc17800bcb921e94645d42daccf0097474a9",
+  "model": "gpt-41"
+}

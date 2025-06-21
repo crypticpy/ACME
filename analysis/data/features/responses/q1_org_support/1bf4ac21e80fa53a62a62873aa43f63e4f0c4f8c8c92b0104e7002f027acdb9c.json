@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "resource allocation",
+    "access to venue spaces",
+    "support for individual artists",
+    "encouragement of unique talents"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Allow more resources to be available",
+    "venue spaces",
+    "for more artists to pursue their unique talents"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited resources",
+    "insufficient venue spaces"
+  ],
+  "solutions_proposed": [
+    "make more resources available",
+    "increase access to venue spaces"
+  ],
+  "cached_at": "2025-06-20T01:14:39.187927",
+  "cache_key": "1bf4ac21e80fa53a62a62873aa43f63e4f0c4f8c8c92b0104e7002f027acdb9c",
+  "model": "gpt-41"
+}

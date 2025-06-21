@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "fair compensation for artists",
+    "economic accessibility through tiered pricing",
+    "support for return of creatives and POC"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "pay artists fairly",
+    "tiered pricing for lower incomes",
+    "promote the return of creatives and POC to the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unfair artist compensation",
+    "lack of affordable pricing for lower incomes",
+    "loss or displacement of creatives and POC"
+  ],
+  "solutions_proposed": [
+    "pay artists fairly",
+    "provide tiered pricing for lower incomes",
+    "promote the return of creatives and POC to the city"
+  ],
+  "cached_at": "2025-06-21T00:43:44.236927",
+  "cache_key": "7a8d57669a43106457d2fdc8a938b5e2af1e1800385f226305db9563ad2555c1",
+  "model": "gpt-41"
+}

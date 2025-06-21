@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding for artists",
+    "limited access to creative spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Funds to pay artists",
+    "access spaces to share our work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funds to pay artists",
+    "lack of access to spaces to share work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:34.356567",
+  "cache_key": "cbd0481a3c957b1603e55fc37192df17bfed4f05f495c863d0d47cc03ccaa971",
+  "model": "gpt-41"
+}

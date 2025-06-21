@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for public input",
+    "approval of engagement efforts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Doing this survey is a great start",
+    "Appreciate you asking"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:22.151734",
+  "cache_key": "4d8b52ec88a233b3c9d78a34ef063074ab7f1af3c39cd15b0f0f8df74062f7c4",
+  "model": "gpt-41"
+}

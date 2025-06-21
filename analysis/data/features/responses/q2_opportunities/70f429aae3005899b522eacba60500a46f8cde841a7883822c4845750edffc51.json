@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "desire for more hair shows",
+    "interest in niche or underrepresented cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Hair Shows!!!!!!!!!!!!!!!!!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the number of hair shows in Austin"
+  ],
+  "cached_at": "2025-06-21T00:27:17.699877",
+  "cache_key": "70f429aae3005899b522eacba60500a46f8cde841a7883822c4845750edffc51",
+  "model": "gpt-41"
+}

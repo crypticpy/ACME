@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "precarity of creative industries",
+    "role of municipal departments as support systems",
+    "impact of political and socio-economic factors",
+    "importance of retaining artists in Austin",
+    "dependency on public sector support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I appreciate the opportunity to provide feedback",
+    "we are at a pivotal point where the viability of creative industries is being challenged",
+    "political and socio-economic factors that not one City or governing body can necessarily control",
+    "departments like ACME are going to be our lifeline",
+    "we are relying on them to be integral partners in our sink-or-swim moments",
+    "keep human artists in Austin",
+    "keep contributing to the city's creative ecosystem"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "political and socio-economic factors challenging viability of creative industries"
+  ],
+  "solutions_proposed": [
+    "continue working towards keeping human artists in Austin"
+  ],
+  "cached_at": "2025-06-21T02:14:51.325687",
+  "cache_key": "836c03bd70dbcf3f8393327eb658b691223784f8859585f3640d696d87d671ed",
+  "model": "gpt-41"
+}

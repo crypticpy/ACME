@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "historic underfunding of long-time venues and artists",
+    "displacement of creative spaces due to development",
+    "loss of cultural venues from cost pressures",
+    "need for government protection and support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support long time venues and artists who historically have had less government support",
+    "protecting and finding arts and cultural from developers",
+    "venues that got pushed out or closed down because of cost pressure or a developer buying their space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost pressure",
+    "developers buying cultural spaces",
+    "historical lack of government support"
+  ],
+  "solutions_proposed": [
+    "support long time venues and artists",
+    "protect arts and cultural spaces from developers"
+  ],
+  "cached_at": "2025-06-20T10:24:33.746222",
+  "cache_key": "deb281f6f67ff30933eacf93c8f286fff1a9eff242ed9c30f308f1fe5d0b638a",
+  "model": "gpt-41"
+}

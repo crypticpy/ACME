@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in city departments",
+    "affordability of cultural events",
+    "accessibility of information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Lack of familiarity with who runs city departments",
+    "High ticket prices at certain institutions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of familiarity with who runs city departments",
+    "High ticket prices at certain institutions"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:39.982487",
+  "cache_key": "75fcc9c25f15cb96bc3b15f88ac7ce33e14d5440bc39daab2083192de504d241",
+  "model": "gpt-41"
+}

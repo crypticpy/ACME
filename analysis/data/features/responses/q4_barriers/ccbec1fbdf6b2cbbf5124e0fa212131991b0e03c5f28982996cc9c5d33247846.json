@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping and lack of connections",
+    "fear of political repercussions",
+    "donor hesitancy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of knowing the right people",
+    "fear from donors of political backlash"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connections or knowledge of key people",
+    "donors' fear of political backlash"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:09.105377",
+  "cache_key": "ccbec1fbdf6b2cbbf5124e0fa212131991b0e03c5f28982996cc9c5d33247846",
+  "model": "gpt-41"
+}

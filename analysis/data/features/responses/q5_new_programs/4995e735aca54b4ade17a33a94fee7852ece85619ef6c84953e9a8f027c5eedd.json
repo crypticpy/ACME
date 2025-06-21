@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship opportunities",
+    "organizational support",
+    "bilingual or multilingual events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Mentorship",
+    "support",
+    "bilingual events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mentorship",
+    "insufficient support",
+    "underrepresentation of bilingual events"
+  ],
+  "solutions_proposed": [
+    "Offer mentorship programs",
+    "Provide more support",
+    "Host bilingual events"
+  ],
+  "cached_at": "2025-06-21T01:50:39.636727",
+  "cache_key": "4995e735aca54b4ade17a33a94fee7852ece85619ef6c84953e9a8f027c5eedd",
+  "model": "gpt-41"
+}

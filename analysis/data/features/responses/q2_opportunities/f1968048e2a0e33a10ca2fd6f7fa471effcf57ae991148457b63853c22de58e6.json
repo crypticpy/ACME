@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for cultural events",
+    "citywide distribution of arts opportunities",
+    "support for local and regional artists",
+    "broadening artistic focus beyond music and tech",
+    "celebration of Austin's artistic identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More performances and festivals with robust funding",
+    "throughout the city",
+    "center local and regional artists",
+    "promote and celebrate Austin as an artistic hub",
+    "across disciplines, not just music and tech"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of robust funding for performances and festivals",
+    "overemphasis on music and tech at the expense of other disciplines"
+  ],
+  "solutions_proposed": [
+    "provide robust funding for performances and festivals",
+    "ensure events are distributed throughout the city",
+    "center local and regional artists in programming",
+    "promote Austin as an artistic hub across all disciplines"
+  ],
+  "cached_at": "2025-06-21T00:45:25.613921",
+  "cache_key": "f1968048e2a0e33a10ca2fd6f7fa471effcf57ae991148457b63853c22de58e6",
+  "model": "gpt-41"
+}

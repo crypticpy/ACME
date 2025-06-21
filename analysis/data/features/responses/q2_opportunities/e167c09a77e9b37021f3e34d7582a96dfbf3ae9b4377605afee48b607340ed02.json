@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local talent",
+    "desire for more local entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "local entertainers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities for local entertainers"
+  ],
+  "cached_at": "2025-06-21T00:50:04.750384",
+  "cache_key": "e167c09a77e9b37021f3e34d7582a96dfbf3ae9b4377605afee48b607340ed02",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "accessibility for the public"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cheaper or more free events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "offer cheaper events",
+    "offer more free events"
+  ],
+  "cached_at": "2025-06-21T02:16:57.127719",
+  "cache_key": "17cdcee6a95618b951bcc769b04b968790f7e339108c318ca44774a5b6ddb0ee",
+  "model": "gpt-41"
+}

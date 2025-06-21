@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of local Latina artists",
+    "opportunity hoarding in music scene",
+    "lack of diversity in festival lineups",
+    "repetition of the same artists",
+    "disconnect between Austin's live music identity and actual representation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "ACL Festival hires International Latinas but fail at hire Local Latina Acts",
+    "Not much has changed and we are in 2025",
+    "Capital of Live Music does not have representatives at C3",
+    "same ole artists over and over again on bills",
+    "there is alot of OPPORTUNITY HOARDING GOING ON THAT INHIBITS A HEALTHY DIVERSE ROBUST MUSIC SCENE"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "ACL Festival",
+    "C3"
+  ],
+  "barriers_identified": [
+    "lack of hiring of local Latina acts",
+    "opportunity hoarding by organizers",
+    "limited diversity in artist selection",
+    "exclusion from representation at C3"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:41:49.494331",
+  "cache_key": "1ddc1f8c73d381dd961e8249f089a7d6a6a9e5196c0b3c606009e9281a07eef9",
+  "model": "gpt-41"
+}

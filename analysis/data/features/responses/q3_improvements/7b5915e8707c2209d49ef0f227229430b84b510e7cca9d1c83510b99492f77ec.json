@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "tiered support for established businesses",
+    "timeliness of payments",
+    "legitimacy of review process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "teirs for established businesses",
+    "improved timeliness and prompt payouts",
+    "legitimate review process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "delayed payouts",
+    "lack of tiered support for established businesses",
+    "potentially illegitimate review process"
+  ],
+  "solutions_proposed": [
+    "including tiers for established businesses",
+    "improved timeliness and prompt payouts",
+    "legitimate review process"
+  ],
+  "cached_at": "2025-06-21T01:12:25.839021",
+  "cache_key": "7b5915e8707c2209d49ef0f227229430b84b510e7cca9d1c83510b99492f77ec",
+  "model": "gpt-41"
+}

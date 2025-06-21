@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "affordability of cultural events",
+    "accessibility for all community members"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "cheaper ways for all to attend"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of attendance"
+  ],
+  "solutions_proposed": [
+    "push for cheaper ways for all to attend"
+  ],
+  "cached_at": "2025-06-20T10:27:19.732915",
+  "cache_key": "52d85e6e5640bfb8d9d1334a64b5a0852de4ea1a138c3d4be7b2ca04c9eb7c36",
+  "model": "gpt-41"
+}

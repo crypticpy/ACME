@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "alignment with diverse community interests",
+    "support for local musicians",
+    "accessibility through free programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "better align with the diverse interests of the population",
+    "more free concert series",
+    "fund and employ local musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of alignment with diverse interests",
+    "insufficient free concert opportunities for local musicians"
+  ],
+  "solutions_proposed": [
+    "programs that better align with the diverse interests of the population",
+    "more free concert series that fund and employ local musicians"
+  ],
+  "cached_at": "2025-06-21T00:55:36.285274",
+  "cache_key": "ea474d0ae48252bd0132881925fba85b9c47c0f46541be962e4b1071e13fd0b2",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of personal connections with city staff",
+    "barriers to accessing support due to unfamiliarity with officials",
+    "navigational challenges in municipal systems"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Not knowing city staff"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Not knowing city staff"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:43.224946",
+  "cache_key": "8d414f0bf1d4501e67a5033d567e04f3f971fe68747d148a093273771347a635",
+  "model": "gpt-41"
+}

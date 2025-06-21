@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for international representation",
+    "interest in art and music showcases",
+    "suggestion for more festivals"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More international art and music showcases",
+    "festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More international art and music showcases or festivals"
+  ],
+  "cached_at": "2025-06-21T01:11:05.757542",
+  "cache_key": "6274a3b6215545ee660f44a87bae97ea60ea43e82cb367a5d03b62af7b69724e",
+  "model": "gpt-41"
+}

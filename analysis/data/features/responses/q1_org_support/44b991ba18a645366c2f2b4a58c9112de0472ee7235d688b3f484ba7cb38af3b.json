@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for local organizations",
+    "focus on underserved areas (East Austin)",
+    "concern about future arts funding",
+    "impact of federal funding cuts",
+    "long-term sustainability for arts nonprofits"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Support local organizations that are creating impact throughout the community",
+    "especially in underserved areas like East Austin",
+    "worried about the future of arts funding in light of all the federal cuts",
+    "Keep supporting them through funding of their orgs for the long term"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "federal cuts to arts funding",
+    "underserved areas lacking support"
+  ],
+  "solutions_proposed": [
+    "Support local organizations that are creating impact throughout the community",
+    "especially in underserved areas like East Austin",
+    "Keep supporting them through funding of their orgs for the long term"
+  ],
+  "cached_at": "2025-06-20T01:17:23.597567",
+  "cache_key": "44b991ba18a645366c2f2b4a58c9112de0472ee7235d688b3f484ba7cb38af3b",
+  "model": "gpt-41"
+}

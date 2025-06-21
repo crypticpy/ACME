@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "nonprofit instability",
+    "lack of sustained funding",
+    "organizational sustainability challenges"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "nonprofits pop up but then go away",
+    "don't receive more funding",
+    "don't have the tools for longevity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient ongoing funding for nonprofits",
+    "lack of tools or resources for organizational longevity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:33.933133",
+  "cache_key": "a790de04ca048891697d9cc12519e116d1749fd6ed36d9c70eb3736e9e8b70f7",
+  "model": "gpt-41"
+}

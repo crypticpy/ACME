@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "creation of cultural districts",
+    "expansion of funding options"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Create districts",
+    "more funding options"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create districts",
+    "more funding options"
+  ],
+  "cached_at": "2025-06-20T10:21:52.101331",
+  "cache_key": "e5e201a1d31bf7b22c7d43ff6b1630c662da785e8f965e494352fd85c287f293",
+  "model": "gpt-41"
+}

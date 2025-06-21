@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "artist exodus from Austin",
+    "lack of opportunities for artists",
+    "closure of galleries",
+    "perceived undervaluing of visual art",
+    "frustration with lengthy review processes",
+    "insufficient support from City of Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Artists of all representations are leaving Austin",
+    "Opportunities are limited",
+    "galleries are shutting down",
+    "visual art is not as valued here as it is in larger cities",
+    "Who knows how long this year's long review will actually take",
+    "artists and organizations have to figure out how to survive and thrive without the COA's support",
+    "which is sadly nothing new for many"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities for artists",
+    "galleries shutting down",
+    "visual art undervalued compared to larger cities",
+    "lengthy review process",
+    "lack of support from City of Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:08:21.336052",
+  "cache_key": "a63c700d672feb22665f1d7471f90cef230b5e7eeffc0199fa5c547da35b789b",
+  "model": "gpt-41"
+}

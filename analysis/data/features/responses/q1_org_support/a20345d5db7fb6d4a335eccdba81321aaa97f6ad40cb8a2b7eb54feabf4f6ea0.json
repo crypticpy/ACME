@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "digital media distribution",
+    "artist compensation",
+    "use of public infrastructure for art",
+    "subscription-based art purchasing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More digital",
+    "Media purchased from artists on subscription basis",
+    "distributed throughout city via airport\u2019s already adopted Vitec a media system"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Vitec a media system"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Purchase media from artists on a subscription basis",
+    "Distribute media throughout the city via the airport's Vitec media system"
+  ],
+  "cached_at": "2025-06-20T10:26:58.355302",
+  "cache_key": "a20345d5db7fb6d4a335eccdba81321aaa97f6ad40cb8a2b7eb54feabf4f6ea0",
+  "model": "gpt-41"
+}

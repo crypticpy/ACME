@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "critique of local-only artist focus",
+    "comparison to Houston airport arts program",
+    "value of showcasing national and international artists",
+    "acknowledgment of support for local artists",
+    "perceived provincialism in current approach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "trying to focus on highlighting Austin's fine artists over national/regional artists is provincial and backwards thinking",
+    "The City had an airport arts program in partnership with local museums/fine arts organizations",
+    "The fine art ... was comprised of artists from across the U.S. and the world",
+    "I do appreciate supporting local artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "airport arts program"
+  ],
+  "barriers_identified": [
+    "provincial focus on local artists limits exposure to broader artistic excellence"
+  ],
+  "solutions_proposed": [
+    "broaden selection to include national and international artists"
+  ],
+  "cached_at": "2025-06-21T01:14:23.746872",
+  "cache_key": "020276e18671b7ca4cfe2aa39545ec0a19d24982b2da33c039874864c335ac8b",
+  "model": "gpt-41"
+}

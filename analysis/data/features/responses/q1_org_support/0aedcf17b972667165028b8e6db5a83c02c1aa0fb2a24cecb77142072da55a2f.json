@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking opportunities",
+    "business community engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More business hang outs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More business hang outs"
+  ],
+  "cached_at": "2025-06-20T10:31:21.863496",
+  "cache_key": "0aedcf17b972667165028b8e6db5a83c02c1aa0fb2a24cecb77142072da55a2f",
+  "model": "gpt-41"
+}

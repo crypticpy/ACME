@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct grants to visual artists",
+    "recognition of longstanding artistic commitment",
+    "expanded exhibition opportunities",
+    "business community involvement in arts support",
+    "access to affordable or free production services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Grants to visual artists with a demonstrated longstanding commitment to artistic creation",
+    "expanded opportunities for exhibitions",
+    "support through business donations",
+    "access to low or no cost photographic printing and framing services",
+    "Let\u2019s get the business community involved in supporting our artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for visual artists with longstanding commitment",
+    "insufficient exhibition opportunities",
+    "limited access to affordable or free production services (photographic printing and framing)"
+  ],
+  "solutions_proposed": [
+    "Provide grants to visual artists with a demonstrated longstanding commitment",
+    "Expand opportunities for exhibitions",
+    "Facilitate support through business donations",
+    "Offer access to low or no cost photographic printing and framing services",
+    "Involve the business community in supporting artists"
+  ],
+  "cached_at": "2025-06-21T01:53:48.336159",
+  "cache_key": "d0823a75851ddac6fe2832ef47a766646bc7fa1f66eda7a27794e86cb65757b3",
+  "model": "gpt-41"
+}

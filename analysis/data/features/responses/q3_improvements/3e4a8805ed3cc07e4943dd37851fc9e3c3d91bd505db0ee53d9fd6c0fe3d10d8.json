@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Inequitable distribution of funding",
+    "Longstanding organizations being overlooked",
+    "Financial instability for established organizations",
+    "Preference for newer organizations over established ones",
+    "Impact on artist employment and community offerings"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More organizations getting funding overall rather than a handful of orgs receiving $150,000 and others ... receiving zero support",
+    "Same with elevate: rather than some orgs receiving $80,000 and others receiving $0, it should be more equally split",
+    "so we don\u2019t have to fold up shop while newer organizations ... are awarded amounts that most austin artists have never been awarded before",
+    "It feels like a clear message of 'out with the old and in with the new'",
+    "older orgs are still trying to thrive and present exciting work for the community and are still providing valuable jobs to artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "elevate"
+  ],
+  "barriers_identified": [
+    "Unequal funding allocations",
+    "Established organizations receiving no support",
+    "Risk of established organizations closing due to lack of funding"
+  ],
+  "solutions_proposed": [
+    "Funding should be more equally split amongst organizations that qualify"
+  ],
+  "cached_at": "2025-06-21T01:14:28.638248",
+  "cache_key": "3e4a8805ed3cc07e4943dd37851fc9e3c3d91bd505db0ee53d9fd6c0fe3d10d8",
+  "model": "gpt-41"
+}

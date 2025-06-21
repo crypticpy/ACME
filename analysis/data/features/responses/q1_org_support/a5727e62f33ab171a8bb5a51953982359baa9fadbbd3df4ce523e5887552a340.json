@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about repeat funding recipients",
+    "perceived inequity in funding distribution",
+    "income and wealth eligibility for funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "not give repeat winners/recipients",
+    "same people or persons receive funding",
+    "not award funding to artists who make more than 80k a year",
+    "received generational wealth gifts over 1k that year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "repeat funding to the same recipients",
+    "funding awarded to high-income or wealthy artists"
+  ],
+  "solutions_proposed": [
+    "do not give repeat funding to previous winners",
+    "exclude artists making more than 80k a year from funding",
+    "exclude artists who have received generational wealth gifts over 1k that year from funding"
+  ],
+  "cached_at": "2025-06-20T01:12:43.159557",
+  "cache_key": "a5727e62f33ab171a8bb5a51953982359baa9fadbbd3df4ce523e5887552a340",
+  "model": "gpt-41"
+}

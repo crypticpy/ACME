@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "valuing free public art performances",
+    "support for well-established cultural events",
+    "financial support for artists",
+    "access to city-owned spaces for exhibitions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I like Art in Public Spaces and free performances",
+    "well-established, free art performances",
+    "continued financial support for the artists",
+    "providing city-owned spaces to exhibit their work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Art in Public Spaces",
+    "Shakespeare in the Park",
+    "Zilker Summer Musical",
+    "Blues on the Green"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continued financial support for the artists",
+    "providing city-owned spaces to exhibit their work to the greater public"
+  ],
+  "cached_at": "2025-06-20T01:12:05.609052",
+  "cache_key": "9f00f628562e82e452ab2394bb4beefd61bcf6fba8028b04679b0f72b7076c81",
+  "model": "gpt-41"
+}

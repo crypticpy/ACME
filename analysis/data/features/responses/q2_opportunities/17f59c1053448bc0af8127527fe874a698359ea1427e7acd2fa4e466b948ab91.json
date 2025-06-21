@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "anime-focused cultural events",
+    "celebration of Black excellence",
+    "fashion-related opportunities",
+    "wholesale and vendor events",
+    "intellectual property (IP) themed events",
+    "small business education and support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Anime",
+    "black excellence",
+    "fashion",
+    "wholesale event",
+    "IP events",
+    "small business workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase anime events",
+    "Highlight Black excellence",
+    "Host more fashion events",
+    "Organize wholesale events",
+    "Create IP-focused events",
+    "Offer small business workshops"
+  ],
+  "cached_at": "2025-06-21T00:24:53.019880",
+  "cache_key": "17f59c1053448bc0af8127527fe874a698359ea1427e7acd2fa4e466b948ab91",
+  "model": "gpt-41"
+}

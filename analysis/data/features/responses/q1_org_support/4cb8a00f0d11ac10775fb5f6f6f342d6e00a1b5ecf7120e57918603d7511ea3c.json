@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant assistance",
+    "affordable performance spaces",
+    "support for live theater"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Help to get grants",
+    "help in providing for affordable performance spaces for live theater"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of assistance in obtaining grants",
+    "unaffordable performance spaces for live theater"
+  ],
+  "solutions_proposed": [
+    "Help to get grants",
+    "help in providing for affordable performance spaces for live theater"
+  ],
+  "cached_at": "2025-06-20T10:28:59.927891",
+  "cache_key": "4cb8a00f0d11ac10775fb5f6f6f342d6e00a1b5ecf7120e57918603d7511ea3c",
+  "model": "gpt-41"
+}

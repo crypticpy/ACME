@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism in funding allocation",
+    "decline in support for arts organizations post-Covid",
+    "closure of key arts organizations",
+    "artists leaving Austin due to lack of support",
+    "recommendation to model after other large cities' funding practices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "the City of Austin has done a very good job allocating funds to organizations that support the arts in general since Covid",
+    "they have limited funds and opportunities to individuals or organization that the staff is favorable towards",
+    "more and more organizations in the city that actually provide opportunities for artist to thrive have shut down",
+    "for example Big Medium",
+    "look at large cities that fund the arts successfully and use that as an example",
+    "more and more artists are leaving Austin",
+    "We do not feel supported and opportunities are becoming more limiting"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "perceived favoritism in funding decisions",
+    "limited funding opportunities",
+    "closure of organizations that support artists",
+    "lack of city support for arts organizations"
+  ],
+  "solutions_proposed": [
+    "look at large cities that fund the arts successfully and use that as an example"
+  ],
+  "cached_at": "2025-06-20T10:30:34.900642",
+  "cache_key": "ebe3b155e868b1e473161dbfa9d0f2aa166f7bf584493698ab4229a7f7d1f298",
+  "model": "gpt-41"
+}

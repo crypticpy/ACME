@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion of advisory commissions from selection process",
+    "lack of coordination by Economic Development",
+    "underutilization of area expertise"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "these boards were left completely out of the selection process",
+    "possessing area expertise for the installations",
+    "Economic Development does not coordinate well"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "advisory boards excluded from selection process",
+    "poor coordination by Economic Development"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:26.911484",
+  "cache_key": "e2f6c687fa0ee242c74f2d06d405f560c0a741d29b839c8fac96c742c25f1fb4",
+  "model": "gpt-41"
+}

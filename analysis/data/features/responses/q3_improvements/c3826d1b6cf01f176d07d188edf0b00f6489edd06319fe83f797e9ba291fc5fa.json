@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "removal of pre-application barriers",
+    "representation of all forms of diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "don't put barriers prior to the application",
+    "make sure you see all forms of diversity represented"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "barriers prior to the application"
+  ],
+  "solutions_proposed": [
+    "remove barriers prior to the application",
+    "ensure all forms of diversity are represented"
+  ],
+  "cached_at": "2025-06-21T01:08:39.686330",
+  "cache_key": "c3826d1b6cf01f176d07d188edf0b00f6489edd06319fe83f797e9ba291fc5fa",
+  "model": "gpt-41"
+}

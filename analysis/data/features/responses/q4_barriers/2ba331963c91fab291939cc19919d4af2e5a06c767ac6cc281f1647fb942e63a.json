@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of representation for Latin artists",
+    "insufficient infrastructure for Latin music",
+    "difficulty accessing venues and industry support",
+    "high cost of parking and transportation downtown"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "lack of representation and infrastructure for Latin artist",
+    "difficult to find venues, booking agents and managers",
+    "generally interested in supporting Latin music",
+    "cost of parking in transportation around the downtown area"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation for Latin artists in Austin\u2019s mainstream arts and music networks",
+    "insufficient infrastructure for Latin artists",
+    "difficulty finding venues, booking agents, and managers interested in Latin music",
+    "high cost of parking and transportation downtown"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:45.926701",
+  "cache_key": "2ba331963c91fab291939cc19919d4af2e5a06c767ac6cc281f1647fb942e63a",
+  "model": "gpt-41"
+}

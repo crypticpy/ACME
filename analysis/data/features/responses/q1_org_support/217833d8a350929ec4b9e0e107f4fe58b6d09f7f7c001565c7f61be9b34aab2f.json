@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for more focus groups",
+    "engagement with different cultural sectors",
+    "understanding sector-specific problems and interests"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more focus groups",
+    "different cultural sectors",
+    "understand better the problems, interests"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of understanding of problems and interests in different cultural sectors"
+  ],
+  "solutions_proposed": [
+    "having more focus groups with different cultural sectors"
+  ],
+  "cached_at": "2025-06-20T01:15:17.406425",
+  "cache_key": "217833d8a350929ec4b9e0e107f4fe58b6d09f7f7c001565c7f61be9b34aab2f",
+  "model": "gpt-41"
+}

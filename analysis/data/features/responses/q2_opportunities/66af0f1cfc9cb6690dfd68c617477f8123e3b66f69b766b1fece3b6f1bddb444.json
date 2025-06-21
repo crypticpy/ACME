@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for creative co-working spaces",
+    "interest in incubators and creative groups",
+    "desire for increased grants and support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Creative co-working spaces",
+    "incubators and groups",
+    "More grants and support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants and support for creative spaces and groups"
+  ],
+  "solutions_proposed": [
+    "create more creative co-working spaces",
+    "establish incubators and groups",
+    "increase grants and support for creative initiatives"
+  ],
+  "cached_at": "2025-06-21T00:28:49.393298",
+  "cache_key": "66af0f1cfc9cb6690dfd68c617477f8123e3b66f69b766b1fece3b6f1bddb444",
+  "model": "gpt-41"
+}

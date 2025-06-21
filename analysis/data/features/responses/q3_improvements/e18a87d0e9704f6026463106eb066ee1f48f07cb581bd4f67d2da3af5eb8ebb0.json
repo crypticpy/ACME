@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of program awareness among artists",
+    "need for application support and coaching",
+    "barriers to artist participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more awareness that artists can apply",
+    "artists need more coaching",
+    "build a successful application"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about eligibility",
+    "insufficient guidance on application process"
+  ],
+  "solutions_proposed": [
+    "increase awareness that artists can apply",
+    "provide more coaching on building successful applications"
+  ],
+  "cached_at": "2025-06-21T00:55:19.306640",
+  "cache_key": "e18a87d0e9704f6026463106eb066ee1f48f07cb581bd4f67d2da3af5eb8ebb0",
+  "model": "gpt-41"
+}

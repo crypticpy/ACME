@@ -1,0 +1,334 @@
+{
+  "question_id": "q2_opportunities",
+  "question_text": "What type of cultural arts or entertainment opportunities would you like to see more of in Austin?",
+  "response_count": 914,
+  "dominant_themes": [
+    {
+      "theme": "support for emerging artists",
+      "count": 13,
+      "percentage": 1.4223194748358863,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 9,
+        "mixed": 2,
+        "neutral": 2
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "unknown": 2,
+        "artist": 6,
+        "resident": 5
+      }
+    },
+    {
+      "theme": "desire for more dance opportunities",
+      "count": 11,
+      "percentage": 1.2035010940919038,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 7,
+        "neutral": 4
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "resident": 9,
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "support for local artists",
+      "count": 10,
+      "percentage": 1.0940919037199124,
+      "representative_quotes": [
+        "greater support for local artists"
+      ],
+      "sentiment_distribution": {
+        "negative": 1,
+        "positive": 7,
+        "mixed": 2
+      },
+      "urgency_score": 0.4,
+      "stakeholder_breakdown": {
+        "resident": 10
+      }
+    },
+    {
+      "theme": "affordability of cultural events",
+      "count": 10,
+      "percentage": 1.0940919037199124,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 5,
+        "neutral": 4,
+        "mixed": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "resident": 9,
+        "artist": 1
+      }
+    },
+    {
+      "theme": "affordability of cultural opportunities",
+      "count": 8,
+      "percentage": 0.87527352297593,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 3,
+        "positive": 3,
+        "negative": 2
+      },
+      "urgency_score": 0.75,
+      "stakeholder_breakdown": {
+        "resident": 8
+      }
+    },
+    {
+      "theme": "interest in performing arts",
+      "count": 8,
+      "percentage": 0.87527352297593,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 7,
+        "neutral": 1
+      },
+      "urgency_score": 0.0625,
+      "stakeholder_breakdown": {
+        "resident": 8
+      }
+    },
+    {
+      "theme": "desire for more theater opportunities",
+      "count": 6,
+      "percentage": 0.6564551422319475,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 4
+      },
+      "urgency_score": 0.08333333333333333,
+      "stakeholder_breakdown": {
+        "resident": 6
+      }
+    },
+    {
+      "theme": "desire for more film opportunities",
+      "count": 6,
+      "percentage": 0.6564551422319475,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 1,
+        "neutral": 4,
+        "positive": 1
+      },
+      "urgency_score": 0.16666666666666666,
+      "stakeholder_breakdown": {
+        "resident": 5,
+        "unknown": 1
+      }
+    },
+    {
+      "theme": "fair compensation for artists",
+      "count": 5,
+      "percentage": 0.5470459518599562,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 4,
+        "negative": 1
+      },
+      "urgency_score": 0.7,
+      "stakeholder_breakdown": {
+        "artist": 2,
+        "resident": 3
+      }
+    },
+    {
+      "theme": "desire for more live theater",
+      "count": 5,
+      "percentage": 0.5470459518599562,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 4,
+        "neutral": 1
+      },
+      "urgency_score": 0.3,
+      "stakeholder_breakdown": {
+        "resident": 5
+      }
+    },
+    {
+      "theme": "desire for more live theatre",
+      "count": 5,
+      "percentage": 0.5470459518599562,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 5
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "resident": 5
+      }
+    },
+    {
+      "theme": "desire for more literary events",
+      "count": 5,
+      "percentage": 0.5470459518599562,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 4,
+        "neutral": 1
+      },
+      "urgency_score": 0.2,
+      "stakeholder_breakdown": {
+        "resident": 5
+      }
+    },
+    {
+      "theme": "desire for increased cultural diversity",
+      "count": 4,
+      "percentage": 0.437636761487965,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "mixed": 1,
+        "positive": 3
+      },
+      "urgency_score": 0.625,
+      "stakeholder_breakdown": {
+        "resident": 4
+      }
+    },
+    {
+      "theme": "desire for more music opportunities",
+      "count": 4,
+      "percentage": 0.437636761487965,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 2,
+        "positive": 2
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "resident": 2,
+        "unknown": 2
+      }
+    },
+    {
+      "theme": "desire for more visual arts opportunities",
+      "count": 4,
+      "percentage": 0.437636761487965,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 4
+      },
+      "urgency_score": 0.0,
+      "stakeholder_breakdown": {
+        "resident": 1,
+        "unknown": 3
+      }
+    },
+    {
+      "theme": "geographic equity in cultural programming",
+      "count": 4,
+      "percentage": 0.437636761487965,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "neutral": 3,
+        "positive": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "resident": 4
+      }
+    },
+    {
+      "theme": "accessibility of cultural events",
+      "count": 3,
+      "percentage": 0.3282275711159737,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "negative": 1,
+        "positive": 1,
+        "neutral": 1
+      },
+      "urgency_score": 0.5,
+      "stakeholder_breakdown": {
+        "resident": 3
+      }
+    },
+    {
+      "theme": "diversity of musical genres",
+      "count": 3,
+      "percentage": 0.3282275711159737,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 3
+      },
+      "urgency_score": 0.16666666666666666,
+      "stakeholder_breakdown": {
+        "resident": 3
+      }
+    },
+    {
+      "theme": "desire for more theatre opportunities",
+      "count": 3,
+      "percentage": 0.3282275711159737,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 3
+      },
+      "urgency_score": 0.16666666666666666,
+      "stakeholder_breakdown": {
+        "resident": 3
+      }
+    },
+    {
+      "theme": "desire for more live performances",
+      "count": 3,
+      "percentage": 0.3282275711159737,
+      "representative_quotes": [],
+      "sentiment_distribution": {
+        "positive": 3
+      },
+      "urgency_score": 0.16666666666666666,
+      "stakeholder_breakdown": {
+        "resident": 3
+      }
+    }
+  ],
+  "sentiment_distribution": {
+    "positive": 522,
+    "neutral": 207,
+    "mixed": 100,
+    "negative": 85
+  },
+  "urgency_distribution": {
+    "medium": 506,
+    "low": 289,
+    "high": 119
+  },
+  "stakeholder_distribution": {
+    "resident": 653,
+    "artist": 154,
+    "unknown": 85,
+    "organization": 14,
+    "venue_operator": 2,
+    "educator": 4,
+    "business_owner": 2
+  },
+  "key_insights": [
+    "Affordability is a significant barrier: Concerns about the affordability of both cultural events and opportunities were raised with relatively high urgency (urgency scores 0.50 and 0.75), indicating cost is a pressing issue for community access and participation.",
+    "Support for emerging and local artists is a recurring theme: There is notable demand for increased support for both emerging and local artists, with moderate urgency (urgency scores 0.50 and 0.40), suggesting the community wants more opportunities for artists at early and local stages.",
+    "Fair compensation for artists is an urgent concern: While mentioned less frequently, the urgency score for fair compensation (0.70) is among the highest, pointing to systemic issues in artist pay and sustainability.",
+    "Desire for increased cultural diversity and broader access: Requests for more culturally diverse programming (urgency score 0.62) and a variety of art forms (dance, theater, film, literary, visual arts) indicate a need for more inclusive and varied offerings.",
+    "Performing arts, especially dance and theater, are underrepresented: Multiple mentions of dance, theater, and performing arts opportunities\u2014though with lower urgency\u2014suggest unmet demand for these types of programming."
+  ],
+  "recommendations": [
+    "Expand funding for affordable and free cultural events, prioritizing programs with demonstrated community demand and high urgency around access barriers.",
+    "Develop targeted grant programs and venue support specifically for emerging and local artists, including mentorship and showcase opportunities, to foster a sustainable creative ecosystem.",
+    "Implement minimum compensation standards for city-funded arts initiatives to ensure fair pay for artists, addressing high-urgency concerns about artist sustainability.",
+    "Increase support for culturally diverse programming by incentivizing partnerships with underrepresented communities and artists, ensuring a broader range of voices and experiences are included in city-supported events.",
+    "Pilot new performing arts initiatives, particularly in dance and theater, with a focus on community engagement and accessibility, to address unmet demand and expand participation."
+  ],
+  "contradictions": [],
+  "consensus_points": []
+}

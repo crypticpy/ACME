@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more cultural opportunities",
+    "broad enthusiasm for arts and entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Oh, everything. :)"
+  ],
+  "intent": "expression_of_interest",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:33:25.672418",
+  "cache_key": "68cd9ef559ae0a9ad7a05454092d0652a3c823a449370fc300aae8929bf6fcda",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "inclusion of diverse cultural groups",
+    "visibility for underrepresented communities",
+    "platforms for cultural expression"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "holding space",
+    "more diverse and cultural groups",
+    "come to the forefront"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility for diverse and cultural groups"
+  ],
+  "solutions_proposed": [
+    "hold space for more diverse and cultural groups to come to the forefront"
+  ],
+  "cached_at": "2025-06-21T00:44:32.302930",
+  "cache_key": "79f67750198cbfa07dbaf954989db09509d105c0ff209ff3a6f17ec1d276768c",
+  "model": "gpt-41"
+}

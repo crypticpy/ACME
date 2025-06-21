@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for studio tours",
+    "advocacy for use of underutilized commercial space",
+    "increasing studio and display opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "support for studio tours",
+    "advocacy of use of underutilized commercial space",
+    "display opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for studio tours",
+    "underutilized commercial space not being used for studios or displays"
+  ],
+  "solutions_proposed": [
+    "support for studio tours",
+    "advocacy for use of underutilized commercial space for studios and display opportunities"
+  ],
+  "cached_at": "2025-06-21T02:05:48.995797",
+  "cache_key": "dcf9a1117cb72f12fe40da89ff5963a63b57509a1af60d4e50dae95aa2fde806",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "educational access",
+    "mentorship opportunities",
+    "access to lessons",
+    "opportunities to view cultural content"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "educational access to view",
+    "access to lessons and mentors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of educational access",
+    "limited access to lessons",
+    "limited access to mentors"
+  ],
+  "solutions_proposed": [
+    "provide educational access to view",
+    "offer access to lessons",
+    "offer access to mentors"
+  ],
+  "cached_at": "2025-06-21T02:06:24.872447",
+  "cache_key": "5f6666e809879f4b6fa77702ca00760408d107ba65ff950d2861213c8bf8289d",
+  "model": "gpt-41"
+}

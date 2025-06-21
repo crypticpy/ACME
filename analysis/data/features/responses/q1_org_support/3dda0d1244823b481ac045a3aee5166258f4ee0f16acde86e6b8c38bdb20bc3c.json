@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "expanding funding sources beyond Hotel Occupancy Tax",
+    "providing alternative financial supports (utility discounts, tax incentives, loans)",
+    "cross-departmental collaboration and awareness",
+    "inclusion of artists and arts organizations in broader opportunities",
+    "advocacy for private investment in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Expand funding and other support opportunities (utility discounts/waivers, property tax incentives, working with CDFI for low interest loan terms, etc) beyond Hotel Occupancy Tax",
+    "Work with other departments to raise awareness about having artists and arts orgs at the table for opportunities",
+    "Leverage CoA leadership roles to advocate for private investments from local foundations and corporate benefactors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "limited funding sources tied to Hotel Occupancy Tax",
+    "lack of cross-departmental awareness or collaboration",
+    "limited inclusion of artists and arts organizations in non-arts-specific opportunities"
+  ],
+  "solutions_proposed": [
+    "Expand funding and support opportunities beyond Hotel Occupancy Tax",
+    "Provide utility discounts/waivers, property tax incentives, and low interest loan terms",
+    "Work with other departments to raise awareness and include artists and arts orgs in broader opportunities",
+    "Advocate for private investments from local foundations and corporate benefactors"
+  ],
+  "cached_at": "2025-06-20T10:36:13.510301",
+  "cache_key": "3dda0d1244823b481ac045a3aee5166258f4ee0f16acde86e6b8c38bdb20bc3c",
+  "model": "gpt-41"
+}

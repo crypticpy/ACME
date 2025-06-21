@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of musician support programs",
+    "affordable housing crisis",
+    "fundamental needs of musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "HAAM and SIMMs are the the most fundamental support for musicians",
+    "Affordable house is a dire need"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM",
+    "SIMMs"
+  ],
+  "barriers_identified": [
+    "lack of affordable housing"
+  ],
+  "solutions_proposed": [
+    "provide affordable housing for musicians"
+  ],
+  "cached_at": "2025-06-20T10:25:39.564157",
+  "cache_key": "26a560dd98ae353ca2f9847c1ecf12614a29f469357bb90dbb21a9da2745dfb9",
+  "model": "gpt-41"
+}

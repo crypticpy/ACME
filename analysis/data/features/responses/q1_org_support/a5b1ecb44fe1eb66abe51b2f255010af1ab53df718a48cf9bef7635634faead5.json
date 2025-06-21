@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding",
+    "support for community organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More funding for community organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More funding for community organizations"
+  ],
+  "cached_at": "2025-06-20T10:40:50.361541",
+  "cache_key": "a5b1ecb44fe1eb66abe51b2f255010af1ab53df718a48cf9bef7635634faead5",
+  "model": "gpt-41"
+}

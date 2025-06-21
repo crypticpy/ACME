@@ -1,0 +1,50 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "City services favoring large organizations over emerging or immigrant artists",
+    "Insufficient language and cultural accessibility",
+    "Lack of proactive outreach and education",
+    "Overreliance on passive communication methods",
+    "Feelings of exclusion among cultural-ethnic minorities",
+    "Burden of outreach falling on marginalized communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "services suited for large-scale professional organizations, not for emerging artists",
+    "language access does not equal culture access",
+    "an artist may speak English, but not be familiar with the process",
+    "the assumption is that people can find information on the website",
+    "passively announcing a grant and proactively educating and contacting community groups",
+    "ACME needs to find them and engage in listening first",
+    "not engaging the right people in your marketing and outreach efforts",
+    "this should not depend on MY effort",
+    "we, the cultural-ethnic minorities, are an afterthought",
+    "you provide an interpreter, and you think that is enough"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "City services designed for large organizations, not emerging or immigrant artists",
+    "Language barriers and lack of cultural access",
+    "Unfamiliarity with grant processes and terminology",
+    "Assumption that information on the website is sufficient",
+    "Lack of proactive outreach to community groups",
+    "Insufficient marketing and outreach to cultural minorities",
+    "Burden of spreading information falling on individuals in marginalized communities"
+  ],
+  "solutions_proposed": [
+    "Proactively educate and contact community groups",
+    "Engage in listening first to find and understand artists",
+    "Improve marketing and outreach efforts to reach the right people",
+    "Do not rely solely on interpreters or passive announcements"
+  ],
+  "cached_at": "2025-06-21T01:20:36.233716",
+  "cache_key": "389a094d915e2f601d098ee090f0e211a6f8135840b71112d38e0832bc9df5c6",
+  "model": "gpt-41"
+}

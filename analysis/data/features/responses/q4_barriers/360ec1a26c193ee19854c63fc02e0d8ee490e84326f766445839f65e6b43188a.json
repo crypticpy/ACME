@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about available arts and culture offerings",
+    "limited participation due to work commitments",
+    "low engagement with social media as an information source",
+    "shared barriers among peers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I just don\u2019t know much about what\u2019s offered",
+    "I am not often on social media",
+    "work is consuming enough that I don\u2019t get to participate",
+    "many of my friends also share in being time-burdened by work",
+    "overall lack of awareness of events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of arts and culture events",
+    "not using social media to receive information",
+    "work-related time constraints",
+    "friends and peers also have time constraints"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:49.825055",
+  "cache_key": "360ec1a26c193ee19854c63fc02e0d8ee490e84326f766445839f65e6b43188a",
+  "model": "gpt-41"
+}

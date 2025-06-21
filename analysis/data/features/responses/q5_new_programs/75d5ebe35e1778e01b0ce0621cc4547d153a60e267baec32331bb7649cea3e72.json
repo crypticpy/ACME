@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "legalization of street performance",
+    "support for busking",
+    "expansion of public art/dance/music opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "LEGAL art/dance/music busking in the streets"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "busking in the streets is not legal"
+  ],
+  "solutions_proposed": [
+    "legalize art/dance/music busking in the streets"
+  ],
+  "cached_at": "2025-06-21T01:52:49.898944",
+  "cache_key": "75d5ebe35e1778e01b0ce0621cc4547d153a60e267baec32331bb7649cea3e72",
+  "model": "gpt-41"
+}

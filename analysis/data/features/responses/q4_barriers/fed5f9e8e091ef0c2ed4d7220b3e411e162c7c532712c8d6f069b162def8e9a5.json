@@ -1,0 +1,50 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of creative spaces",
+    "difficulty finding and booking spaces",
+    "need for city-supported coordination",
+    "transparency and consistency in rental costs",
+    "barriers for those outside established circles",
+    "connection between space access and grant funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "not enough creative spaces",
+    "hard to find them/find availability",
+    "need city support and a centralized coordination/collaboration component",
+    "THIS NEEDS TO BE A NEW CITY POSITION",
+    "SpaceFinder-type searchable system",
+    "ensure access to those not in inner circles",
+    "MAJOR expense for each event",
+    "clarifying what rental costs ACTUALLY ARE",
+    "complicated landscape that wants organizing",
+    "costs are actually set and consistent"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Rally",
+    "ATX Theatre",
+    "Creative Policy"
+  ],
+  "barriers_identified": [
+    "not enough creative spaces",
+    "difficulty finding available spaces",
+    "lack of centralized coordination",
+    "lack of access for those not in inner circles",
+    "unclear and inconsistent rental costs"
+  ],
+  "solutions_proposed": [
+    "city support and centralized coordination/collaboration component",
+    "creation of a new city position to manage creative space access",
+    "SpaceFinder-type searchable system for creative spaces",
+    "clarifying and standardizing rental costs"
+  ],
+  "cached_at": "2025-06-21T01:22:14.875615",
+  "cache_key": "fed5f9e8e091ef0c2ed4d7220b3e411e162c7c532712c8d6f069b162def8e9a5",
+  "model": "gpt-41"
+}

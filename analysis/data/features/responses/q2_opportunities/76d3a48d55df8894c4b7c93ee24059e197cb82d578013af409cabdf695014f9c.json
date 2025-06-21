@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for community-oriented events",
+    "interest in local engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Community based events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more community based events"
+  ],
+  "cached_at": "2025-06-21T00:24:30.690432",
+  "cache_key": "76d3a48d55df8894c4b7c93ee24059e197cb82d578013af409cabdf695014f9c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for higher quality art",
+    "general improvement in art offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More good art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more good art"
+  ],
+  "cached_at": "2025-06-21T00:30:00.874000",
+  "cache_key": "9b926f94370560e4409a48d090d3786298a53b42f92bf8abe2426a9d49624a01",
+  "model": "gpt-41"
+}

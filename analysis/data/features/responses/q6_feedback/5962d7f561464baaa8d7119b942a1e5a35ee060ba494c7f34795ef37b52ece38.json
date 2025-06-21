@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for survey process",
+    "no additional feedback at this time"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I do not at the present time",
+    "thank you for putting this together"
+  ],
+  "intent": "acknowledgement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:08.681142",
+  "cache_key": "5962d7f561464baaa8d7119b942a1e5a35ee060ba494c7f34795ef37b52ece38",
+  "model": "gpt-41"
+}

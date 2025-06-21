@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event diversity",
+    "program inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "wider diversity of types of events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited diversity of event types"
+  ],
+  "solutions_proposed": [
+    "increase diversity of types of events"
+  ],
+  "cached_at": "2025-06-21T01:04:43.445133",
+  "cache_key": "6e58b19168da96efdcaa46bf3e3300d1ac59501492b834578e71e97bfb6b3f67",
+  "model": "gpt-41"
+}

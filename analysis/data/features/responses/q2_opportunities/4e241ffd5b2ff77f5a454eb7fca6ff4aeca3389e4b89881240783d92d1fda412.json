@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for quality over quantity in events",
+    "critique of craft markets",
+    "desire to reduce low-quality cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fewer, higher quality events",
+    "No more markets for lame crafts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "prevalence of low-quality craft markets"
+  ],
+  "solutions_proposed": [
+    "reduce the number of events",
+    "increase the quality of events",
+    "eliminate markets for low-quality crafts"
+  ],
+  "cached_at": "2025-06-21T00:35:35.179881",
+  "cache_key": "4e241ffd5b2ff77f5a454eb7fca6ff4aeca3389e4b89881240783d92d1fda412",
+  "model": "gpt-41"
+}

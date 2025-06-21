@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for virtual participation options",
+    "financial and logistical burdens of in-person attendance",
+    "timeliness and structure of funding disbursement",
+    "physical discomfort and accessibility concerns"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Make virtual options immediate",
+    "making people attend in person",
+    "costs money in childcare, gas",
+    "put our bodies in the extreme heat to ride the bus",
+    "Give all funding in one lump sum in a timely manner"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "costs of childcare",
+    "costs of gas",
+    "physical discomfort from extreme heat",
+    "requirement to attend in person"
+  ],
+  "solutions_proposed": [
+    "implement immediate virtual participation options",
+    "provide funding in one lump sum in a timely manner"
+  ],
+  "cached_at": "2025-06-21T01:07:52.295693",
+  "cache_key": "b2a0632176699aa73480ef1b6bd4dd246e5122296f9b7bc4ac22426220bd2d49",
+  "model": "gpt-41"
+}

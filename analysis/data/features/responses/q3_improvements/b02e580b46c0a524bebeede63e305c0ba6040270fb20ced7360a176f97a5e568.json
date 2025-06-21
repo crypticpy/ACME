@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "desire for consistency in application process",
+    "timeline reliability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More funding",
+    "Consistent application process and timeline"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent application process",
+    "unreliable timeline"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "make application process and timeline consistent"
+  ],
+  "cached_at": "2025-06-21T01:13:26.177267",
+  "cache_key": "b02e580b46c0a524bebeede63e305c0ba6040270fb20ced7360a176f97a5e568",
+  "model": "gpt-41"
+}

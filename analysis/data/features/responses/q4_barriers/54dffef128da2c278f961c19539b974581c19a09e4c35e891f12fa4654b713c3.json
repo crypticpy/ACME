@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical accessibility",
+    "mobility impairment",
+    "architectural barriers in cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "For the mobility impaired",
+    "we don\u2019t want STAIRS!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "stairs as obstacles for mobility impaired individuals"
+  ],
+  "solutions_proposed": [
+    "eliminate stairs to improve accessibility"
+  ],
+  "cached_at": "2025-06-21T01:34:09.603153",
+  "cache_key": "54dffef128da2c278f961c19539b974581c19a09e4c35e891f12fa4654b713c3",
+  "model": "gpt-41"
+}

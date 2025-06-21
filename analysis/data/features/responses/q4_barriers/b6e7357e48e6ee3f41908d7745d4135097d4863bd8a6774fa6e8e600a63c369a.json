@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost barriers to participation",
+    "venue affordability",
+    "access to music and theater"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Expensive venues",
+    "particularly for music and theater"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Expensive venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:00.237161",
+  "cache_key": "b6e7357e48e6ee3f41908d7745d4135097d4863bd8a6774fa6e8e600a63c369a",
+  "model": "gpt-41"
+}

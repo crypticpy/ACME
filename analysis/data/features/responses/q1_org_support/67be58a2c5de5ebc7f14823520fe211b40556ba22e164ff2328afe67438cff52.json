@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist compensation",
+    "impact of national arts funding cuts",
+    "priority of local funding protection"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Protecting the ability for artists to be paid for their work",
+    "cuts and rescinding of arts grants at the national level",
+    "should be top priority"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cuts and rescinding of arts grants at the national level"
+  ],
+  "solutions_proposed": [
+    "Protecting the ability for artists to be paid for their work"
+  ],
+  "cached_at": "2025-06-20T10:21:57.976502",
+  "cache_key": "67be58a2c5de5ebc7f14823520fe211b40556ba22e164ff2328afe67438cff52",
+  "model": "gpt-41"
+}

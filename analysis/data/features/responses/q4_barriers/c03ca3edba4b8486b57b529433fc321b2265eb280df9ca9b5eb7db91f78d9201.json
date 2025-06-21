@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "inequity favoring established organizations",
+    "insufficient outreach to marginalized communities",
+    "lack of culturally relevant support",
+    "infrastructure challenges for grassroots groups",
+    "disconnect in institutional language",
+    "absence of trust and sustained engagement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "complex application processes that favor organizations with professional grant writers",
+    "limited outreach to communities not already plugged into city channels",
+    "lack of culturally relevant support services",
+    "smaller or grassroots groups often lack the infrastructure to meet administrative requirements",
+    "sustain long timelines between application and funding",
+    "disconnect between institutional language and the way many underrepresented communities talk about their work",
+    "trust, clarity, and sustained engagement are still missing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application processes",
+    "favoritism toward organizations with professional grant writers",
+    "limited outreach to disconnected communities",
+    "lack of culturally relevant support services",
+    "insufficient infrastructure for smaller or grassroots groups",
+    "administrative requirements",
+    "long timelines between application and funding",
+    "disconnect in language between institutions and underrepresented communities",
+    "lack of trust, clarity, and sustained engagement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:07.879021",
+  "cache_key": "c03ca3edba4b8486b57b529433fc321b2265eb280df9ca9b5eb7db91f78d9201",
+  "model": "gpt-41"
+}

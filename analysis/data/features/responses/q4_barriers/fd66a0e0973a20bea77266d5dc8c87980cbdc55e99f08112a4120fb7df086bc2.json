@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "information overload",
+    "lack of access to resources",
+    "gatekeeping by city representatives",
+    "difficulty securing grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "a lot of information",
+    "if you don't have access to the right resources or city reps",
+    "you'll never know what's out there",
+    "how to secure a grant"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "information overload",
+    "lack of access to resources",
+    "lack of access to city representatives",
+    "lack of awareness of available opportunities",
+    "difficulty understanding how to secure grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:52.305434",
+  "cache_key": "fd66a0e0973a20bea77266d5dc8c87980cbdc55e99f08112a4120fb7df086bc2",
+  "model": "gpt-41"
+}

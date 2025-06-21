@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "continued public funding",
+    "transparency in support",
+    "sustained organizational support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue supporting these organizations",
+    "public funding",
+    "transparency"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue supporting these organizations through public funding",
+    "increase transparency"
+  ],
+  "cached_at": "2025-06-20T10:21:42.275854",
+  "cache_key": "9b7a2ed70d99d279857f7b4a5512b5f7fea85339bf635a3b2fa23e688a10f4bc",
+  "model": "gpt-41"
+}

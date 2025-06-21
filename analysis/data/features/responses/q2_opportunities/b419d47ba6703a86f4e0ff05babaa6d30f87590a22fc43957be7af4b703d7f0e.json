@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for large-scale events",
+    "interest in interactive programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more large scale",
+    "interactive programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase large scale programming",
+    "offer more interactive programming"
+  ],
+  "cached_at": "2025-06-21T00:43:29.913039",
+  "cache_key": "b419d47ba6703a86f4e0ff05babaa6d30f87590a22fc43957be7af4b703d7f0e",
+  "model": "gpt-41"
+}

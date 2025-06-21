@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "streamlined grant application process",
+    "grant eligibility guidance",
+    "centralized application portal",
+    "user-friendly submission system"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "a grant application that takes the applicants info",
+    "tells them which grants they are eligible for and their guidelines",
+    "applicant chooses which grant(s) to apply for",
+    "uploads their responses and back-up material to the individual grant"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty identifying eligible grants",
+    "complexity of current application process"
+  ],
+  "solutions_proposed": [
+    "create a grant application system that matches applicants to eligible grants and centralizes application submission"
+  ],
+  "cached_at": "2025-06-21T01:57:41.044610",
+  "cache_key": "4efe43989e46adb2b09ca52962d3482bdee6ebba2bc22e4759a7ee76d3b9879e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "praise for cultural inclusivity",
+    "financial barriers to event hosting",
+    "rising event fees impacting feasibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin is doing an amazing job to make the city inclusive of all cultures, and genres of art",
+    "we just need to manage fees to host events",
+    "as an event curator, it's becoming impossible to pull off an event that's feasible"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high fees to host events",
+    "financial infeasibility for event curators"
+  ],
+  "solutions_proposed": [
+    "manage fees to host events"
+  ],
+  "cached_at": "2025-06-20T01:20:59.710701",
+  "cache_key": "1862855f79d49ea1815f7dc7ce0924676f1736d32aa1a2856ee69a9cd9e7b06c",
+  "model": "gpt-41"
+}

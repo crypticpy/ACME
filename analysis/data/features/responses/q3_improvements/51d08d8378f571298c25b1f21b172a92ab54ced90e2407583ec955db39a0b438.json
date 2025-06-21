@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of engagement",
+    "self-acknowledged limited input"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I have no answer!",
+    "I need to be more engaged"
+  ],
+  "intent": "self-reflection",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of engagement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:06:46.151475",
+  "cache_key": "51d08d8378f571298c25b1f21b172a92ab54ced90e2407583ec955db39a0b438",
+  "model": "gpt-41"
+}

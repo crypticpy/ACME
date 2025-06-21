@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for artists",
+    "direct payment to artists",
+    "expansion of public art programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More funds/opportunities to pay artists to make art",
+    "Expand AIPP + Tempo"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "Tempo"
+  ],
+  "barriers_identified": [
+    "insufficient funds/opportunities to pay artists"
+  ],
+  "solutions_proposed": [
+    "provide more funds/opportunities to pay artists",
+    "expand AIPP",
+    "expand Tempo"
+  ],
+  "cached_at": "2025-06-20T01:16:46.897801",
+  "cache_key": "bad4d24a29b14fa1704b027d70c8d43b540d50909fdbf9156449b6fd8c33d90a",
+  "model": "gpt-41"
+}

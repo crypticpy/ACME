@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "facilitation of connections among artists and organizations",
+    "increasing visibility for hyper-local cultural work",
+    "shared resources and infrastructure support",
+    "equity in organizational support",
+    "reducing the need for independent scaling"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Facilitate Connection & Visibility",
+    "act as a convener",
+    "create public calendars, artist/organization directories, and cross-sector meetups",
+    "raise the visibility of hyper-local work",
+    "offer Shared Resources & Infrastructure",
+    "access shared spaces, production tools, marketing platforms, fiscal sponsorship, and insurance",
+    "support increases equity without requiring every group to scale up independently"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection and visibility for organizations and cultural leaders",
+    "limited access to shared resources and infrastructure",
+    "inequity caused by the need for each group to scale up independently"
+  ],
+  "solutions_proposed": [
+    "act as a convener",
+    "create public calendars",
+    "create artist/organization directories",
+    "organize cross-sector meetups",
+    "raise visibility of hyper-local work",
+    "offer shared resources and infrastructure",
+    "help organizations access shared spaces, production tools, marketing platforms, fiscal sponsorship, and insurance"
+  ],
+  "cached_at": "2025-06-20T10:34:20.467459",
+  "cache_key": "1ff49e9656b12028b374902086557357ad53d821783ed79b426343a043c70939",
+  "model": "gpt-41"
+}

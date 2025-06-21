@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased visibility",
+    "importance of outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Visibility and outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility",
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "increase visibility",
+    "improve outreach"
+  ],
+  "cached_at": "2025-06-20T10:23:04.459733",
+  "cache_key": "4a62d72d6386ee05d77c4a3971b4340c8920e31f2f640c25677ce7d78ac05f42",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of information",
+    "need for clearer definitions"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Hard to say without know more",
+    "how you're defining this group"
+  ],
+  "intent": "request_for_clarification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear group definitions"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:21:18.948221",
+  "cache_key": "8a0edc8ec6ed690686a200a9163471f8430c650a0c70a46dc688b110273c5852",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "representation on platforms",
+    "amplifying voices",
+    "increasing speaking opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "adding more faces on platforms",
+    "giving people more of a speaking role"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited representation",
+    "lack of speaking opportunities"
+  ],
+  "solutions_proposed": [
+    "add more faces on platforms",
+    "give people more of a speaking role"
+  ],
+  "cached_at": "2025-06-20T10:39:14.874163",
+  "cache_key": "442104711330059ece4cc8a599fe8d772666b9954444dc782201facb0c1b1331",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of public transportation with cultural funding",
+    "cross-agency collaboration",
+    "accessibility improvements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Get CapMetro more involved"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CapMetro"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Get CapMetro more involved"
+  ],
+  "cached_at": "2025-06-21T00:59:23.124029",
+  "cache_key": "73ebeb76215b84c478bfa114b31d4eb069aa2c6bc75b466d1eb7cfbf6cc32b0e",
+  "model": "gpt-41"
+}

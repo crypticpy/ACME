@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "demand for more live performance opportunities",
+    "support for local musicians",
+    "limited gig availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "More gigs for my band"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough performance opportunities for bands"
+  ],
+  "solutions_proposed": [
+    "increase the number of gigs available for local bands"
+  ],
+  "cached_at": "2025-06-21T00:32:18.569688",
+  "cache_key": "6239a78617fc4b40a05570192c7daded3b579e370d15bf87ef633017332ca1f1",
+  "model": "gpt-41"
+}

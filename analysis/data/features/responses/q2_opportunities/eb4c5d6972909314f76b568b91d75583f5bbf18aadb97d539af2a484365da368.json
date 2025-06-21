@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bureaucratic barriers to community spaces",
+    "environmental stewardship and land respect",
+    "waste management and repurposing",
+    "community healing through art and creativity",
+    "access to communal and shared spaces",
+    "heritage and historical context"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "venues and community members suffer when red tape starts breaking down potential community hotspots",
+    "more respect for the land you\u2019re using",
+    "given to y\u2019all out of heritage, slavery and war",
+    "too much trash and waste everywhere with zero effort or resources provided to remove it and repurpose it",
+    "potential community gardens, communal baths, open opportunity",
+    "encourage everyone to heal through art, creativity, and reconnecting with one\u2019s roots"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "red tape restricting development of community hotspots",
+    "lack of resources for trash and waste removal",
+    "neglect of land given through heritage and history"
+  ],
+  "solutions_proposed": [
+    "remove bureaucratic barriers to developing community spaces",
+    "provide resources to remove and repurpose trash and waste",
+    "create community gardens and communal baths",
+    "use reclaimed spaces for art, agriculture, and community healing"
+  ],
+  "cached_at": "2025-06-21T00:34:49.799360",
+  "cache_key": "eb4c5d6972909314f76b568b91d75583f5bbf18aadb97d539af2a484365da368",
+  "model": "gpt-41"
+}

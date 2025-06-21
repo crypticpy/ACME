@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "uncertainty about support needs",
+    "lack of specific feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "I\u2019m not sure."
+  ],
+  "intent": "uncertainty_expression",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:39:48.512975",
+  "cache_key": "6c92cc656ce818e70cba0bc96e96717f0ff439e77705cea6c7b1c1f68d69b274",
+  "model": "gpt-41"
+}

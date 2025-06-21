@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "advance notice of funding changes",
+    "clarity on funding duration",
+    "communication of program requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "clear communication at least one year in advance",
+    "if program requirements for funding will change",
+    "clear communication if funding is intended to be sustaining or short-term"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of advance notice about funding changes",
+    "uncertainty about whether funding is sustaining or short-term"
+  ],
+  "solutions_proposed": [
+    "communicate at least one year in advance if program requirements for funding will change",
+    "clearly communicate if funding is intended to be sustaining or short-term"
+  ],
+  "cached_at": "2025-06-20T10:39:50.719276",
+  "cache_key": "aaa0839fe5ea36d3a672e0d07c576dac7003795f74090157d7b39f8a5a839afd",
+  "model": "gpt-41"
+}

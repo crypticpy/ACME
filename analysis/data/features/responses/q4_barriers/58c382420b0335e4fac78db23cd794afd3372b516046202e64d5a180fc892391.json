@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of financial resources",
+    "insufficient paid opportunities for artists",
+    "economic barriers to creative work"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "lack of money",
+    "opportunities to be paid for our creativity and arts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of money",
+    "lack of opportunities to be paid for creativity and arts"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:20.537790",
+  "cache_key": "58c382420b0335e4fac78db23cd794afd3372b516046202e64d5a180fc892391",
+  "model": "gpt-41"
+}

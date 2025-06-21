@@ -1,0 +1,47 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cross-cultural collaboration",
+    "community storytelling",
+    "place-based and site-specific arts",
+    "accessibility in underserved neighborhoods",
+    "experimental and hybrid art formats",
+    "intergenerational and interdisciplinary projects",
+    "interactive public art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "emphasize cross-cultural collaboration",
+    "community storytelling",
+    "place-based experiences",
+    "many voices remain siloed",
+    "bring together artists from different cultural backgrounds, disciplines, and generations",
+    "site-specific and outdoor performances\u2014especially in underserved neighborhoods",
+    "arts accessible and bring people together where they live",
+    "traveling festivals, pop-up performances, and public art that invites interaction",
+    "support for experimental and hybrid formats",
+    "blend music, theater, digital media, and culinary or folk traditions",
+    "grounded in Austin\u2019s diverse heritage"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "many voices remain siloed",
+    "lack of accessibility in underserved neighborhoods"
+  ],
+  "solutions_proposed": [
+    "projects that bring together artists from different cultural backgrounds, disciplines, and generations",
+    "more site-specific and outdoor performances in underserved neighborhoods",
+    "traveling festivals",
+    "pop-up performances",
+    "public art that invites interaction",
+    "support for experimental and hybrid formats blending music, theater, digital media, and culinary or folk traditions"
+  ],
+  "cached_at": "2025-06-21T00:35:15.275776",
+  "cache_key": "f499dea8b13bf4a5ae2648e035c1e42390b9ab60d9f11594740300e80f775853",
+  "model": "gpt-41"
+}

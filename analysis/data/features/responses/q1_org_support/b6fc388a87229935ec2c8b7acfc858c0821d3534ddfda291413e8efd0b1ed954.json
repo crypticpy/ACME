@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding equity",
+    "resource distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Provide equal funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unequal funding"
+  ],
+  "solutions_proposed": [
+    "Provide equal funding"
+  ],
+  "cached_at": "2025-06-20T01:22:02.883753",
+  "cache_key": "b6fc388a87229935ec2c8b7acfc858c0821d3534ddfda291413e8efd0b1ed954",
+  "model": "gpt-41"
+}

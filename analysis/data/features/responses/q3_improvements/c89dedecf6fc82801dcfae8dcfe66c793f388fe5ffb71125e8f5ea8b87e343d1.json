@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased city funding",
+    "support for underrepresented artists",
+    "support for underrepresented organizations",
+    "support for underrepresented communities",
+    "equity in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more city funding",
+    "underrepresented artists",
+    "underrepresented organizations",
+    "underrepresented communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for underrepresented groups"
+  ],
+  "solutions_proposed": [
+    "increase city funding for underrepresented artists, organizations, and communities"
+  ],
+  "cached_at": "2025-06-21T01:08:30.438390",
+  "cache_key": "c89dedecf6fc82801dcfae8dcfe66c793f388fe5ffb71125e8f5ea8b87e343d1",
+  "model": "gpt-41"
+}

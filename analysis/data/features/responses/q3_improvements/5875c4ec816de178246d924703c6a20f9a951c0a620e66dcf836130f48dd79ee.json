@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "misunderstanding of organizations by funders",
+    "mischaracterization during funding consideration",
+    "perceived lack of accurate evaluation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "misunderstood or mischaracterized",
+    "organizations I have worked with",
+    "when funding was under consideration"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "misunderstanding of organizations by decision-makers",
+    "mischaracterization during funding processes"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:09:34.371615",
+  "cache_key": "5875c4ec816de178246d924703c6a20f9a951c0a620e66dcf836130f48dd79ee",
+  "model": "gpt-41"
+}

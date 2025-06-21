@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased financial support",
+    "request for expanded program assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "financial support",
+    "expanded program assistance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "financial support",
+    "expanded program assistance"
+  ],
+  "cached_at": "2025-06-20T10:30:44.968305",
+  "cache_key": "059fd6fcfa65898b0849ccf23f73c95a146dc8bd7f47999c42bb081683f3e94c",
+  "model": "gpt-41"
+}

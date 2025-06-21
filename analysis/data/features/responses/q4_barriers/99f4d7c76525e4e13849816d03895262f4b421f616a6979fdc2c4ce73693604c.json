@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of understanding and visibility for Afro-Latin/Caribbean art",
+    "Dominance of Mexican performing arts in Latinx cultural perception",
+    "Low standards and inadequate training in Latin dance",
+    "Barriers to professionalization in Latin dance",
+    "Grant application challenges for POC artists due to academic barriers",
+    "Financial burden of seeking grant-writing assistance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Prospective audience not really understanding Afro Latin art (Caribbean art)",
+    "Only understanding Latinx culture through what is currently known about Mexican performing arts",
+    "Fighting for visibility and recognition as Afro-Latin Artists",
+    "There is very low standards around Latin dance",
+    "no way for someone to become a professional in Latin dance in the city with its current skill set and artists",
+    "A lot of POC artists lack the academic understanding or motivation to fill out a grant that\u2019s extensive and requires eloquent writing",
+    "must get help from outside sources, hire someone to help with grand writing or coach them even when they can\u2019t afford it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of public understanding of Afro-Latin/Caribbean art",
+    "Cultural invisibility and lack of recognition for Afro-Latin artists",
+    "Dominance of Mexican performing arts in Latinx representation",
+    "Low standards and insufficient training opportunities in Latin dance",
+    "No pathway to professionalization in Latin dance in the city",
+    "Grant applications are too academically demanding for many POC artists",
+    "Financial barriers to hiring help for grant writing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:33.559407",
+  "cache_key": "99f4d7c76525e4e13849816d03895262f4b421f616a6979fdc2c4ce73693604c",
+  "model": "gpt-41"
+}

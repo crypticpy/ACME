@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity of process for artists",
+    "access to public art opportunities",
+    "need for step-by-step guidance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "What's something an artist can do today to add their art to the city?",
+    "With all the required steps"
+  ],
+  "intent": "information_request",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear information on process for adding art to the city"
+  ],
+  "solutions_proposed": [
+    "provide a detailed, step-by-step guide for artists to add their art to the city"
+  ],
+  "cached_at": "2025-06-21T02:13:32.747240",
+  "cache_key": "82a79c08cfbe89924bdf68c81e0527d6565017566a0b715b5c3e51a267cee1b0",
+  "model": "gpt-41"
+}

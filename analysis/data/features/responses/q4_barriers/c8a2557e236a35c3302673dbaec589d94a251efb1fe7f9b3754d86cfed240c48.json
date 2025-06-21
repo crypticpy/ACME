@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic inequity of venues",
+    "limited access for residents in outlying areas",
+    "concentration of cultural resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "venues not being distributed across town",
+    "clustering in certain neighborhoods",
+    "without as many options for those who live far north or far south"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues are clustered in certain neighborhoods",
+    "lack of venue options for residents in far north or far south"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:57.556586",
+  "cache_key": "c8a2557e236a35c3302673dbaec589d94a251efb1fe7f9b3754d86cfed240c48",
+  "model": "gpt-41"
+}

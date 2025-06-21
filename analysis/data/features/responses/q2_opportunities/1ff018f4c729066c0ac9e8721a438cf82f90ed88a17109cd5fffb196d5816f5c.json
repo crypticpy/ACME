@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "support for longstanding contributors",
+    "recognition of community builders",
+    "sustaining Austin's cultural vibrancy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "support those of us built and continue to contribute",
+    "vibrancy of Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for longstanding contributors"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for those who have built and continue to contribute to Austin's vibrancy"
+  ],
+  "cached_at": "2025-06-21T00:49:10.828725",
+  "cache_key": "1ff018f4c729066c0ac9e8721a438cf82f90ed88a17109cd5fffb196d5816f5c",
+  "model": "gpt-41"
+}

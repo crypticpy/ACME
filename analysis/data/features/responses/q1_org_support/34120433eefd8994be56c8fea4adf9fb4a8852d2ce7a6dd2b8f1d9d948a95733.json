@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for community leaders",
+    "resource allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Provide more support to community leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide more support to community leaders"
+  ],
+  "cached_at": "2025-06-20T10:39:18.707983",
+  "cache_key": "34120433eefd8994be56c8fea4adf9fb4a8852d2ce7a6dd2b8f1d9d948a95733",
+  "model": "gpt-41"
+}

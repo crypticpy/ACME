@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased quantity of cultural offerings",
+    "interest in world-class talent",
+    "focus on Latin music representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More of everything",
+    "world-class Latin music bands"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the quantity of all types of cultural arts and entertainment opportunities",
+    "Bring more world-class Latin music bands to Austin"
+  ],
+  "cached_at": "2025-06-21T00:35:30.265876",
+  "cache_key": "8b288048c560334355603447661d96ebbb058330fd95047cfd055c6b5e56e2a8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Impact of corporate growth on Austin's development",
+    "Erosion of cultural heritage",
+    "Need for sustainability of cultural communities",
+    "Role of the city as a liaison for corporate investment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Corporate growth is shaping Austin's development",
+    "cultural heritage and communities more sustainable",
+    "acting as a positive liaison for corporate investment",
+    "preserving and sustaining our cultural heritage",
+    "which is being eroded"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Erosion of cultural heritage due to corporate growth"
+  ],
+  "solutions_proposed": [
+    "City acting as a positive liaison for corporate investment in preserving and sustaining cultural heritage"
+  ],
+  "cached_at": "2025-06-21T02:19:16.323461",
+  "cache_key": "bbb315413bf8156b4a7b8455df59446418ac84aca8bed39c85db3f1015922494",
+  "model": "gpt-41"
+}

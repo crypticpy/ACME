@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of creative spaces",
+    "need for rehearsal space",
+    "need for performance space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Affordable rehearsal and performance space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable rehearsal space",
+    "lack of affordable performance space"
+  ],
+  "solutions_proposed": [
+    "Increase availability of affordable rehearsal and performance space"
+  ],
+  "cached_at": "2025-06-21T00:27:55.695169",
+  "cache_key": "aceaa6fb6cf42a4d2249e6d82c262cd0fcd81e5c830af74a104b4294e0246c96",
+  "model": "gpt-41"
+}

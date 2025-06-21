@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for yoga studios",
+    "Austin's reputation in yoga culture",
+    "threats to sustainability of yoga community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Austin is rich in yoga culture",
+    "one of the yoga capitals of the world",
+    "this community needs help to continue to keep studios open and thrive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty keeping yoga studios open"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:56:10.809780",
+  "cache_key": "b7502ce98bbbc1f98a997ebbff44886a25c48f774db7734267f9e62e72bf7663",
+  "model": "gpt-41"
+}

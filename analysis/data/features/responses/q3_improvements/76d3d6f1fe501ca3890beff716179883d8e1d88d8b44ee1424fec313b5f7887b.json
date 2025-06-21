@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of awareness of cultural funding programs",
+    "need for improved communication",
+    "accessibility of information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I'd like to have some knowledge of them at all",
+    "communicated to the community in an easily accessible manner"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about programs",
+    "poor communication to the community",
+    "information not easily accessible"
+  ],
+  "solutions_proposed": [
+    "communicate programs to the community in an easily accessible manner"
+  ],
+  "cached_at": "2025-06-21T01:05:43.441458",
+  "cache_key": "76d3d6f1fe501ca3890beff716179883d8e1d88d8b44ee1424fec313b5f7887b",
+  "model": "gpt-41"
+}

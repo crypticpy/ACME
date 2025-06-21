@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Grassroots and community-led arts",
+    "Critique of centralized or institutional control",
+    "Power dynamics in cultural funding",
+    "Recognition of artist-led initiatives",
+    "Concerns about representation by large nonprofits"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "the heart of Austin\u2019s creative ecosystem has always been grassroots",
+    "collectives, artist-run spaces, small venues, DIY projects",
+    "can\u2019t just prop up legacy orgs or default to a few centralized 'umbrella' voices",
+    "We don\u2019t need another arts council dictating how things go",
+    "We need a networked, community-led approach where power is shared, not consolidated",
+    "Let artists lead",
+    "Fund the work already happening",
+    "stop letting the loudest nonprofits in the room define what Austin culture is"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Centralization of power in large institutions",
+    "Dominance of legacy organizations and umbrella voices",
+    "Arts councils dictating cultural direction",
+    "Loudest nonprofits defining Austin culture"
+  ],
+  "solutions_proposed": [
+    "Adopt a networked, community-led approach",
+    "Share power rather than consolidate it",
+    "Let artists lead",
+    "Fund existing grassroots work"
+  ],
+  "cached_at": "2025-06-21T02:12:57.243205",
+  "cache_key": "c97b79427b077c6a2aca78b0e838ff9f39996a4c003e5e310c6a5efc2e3c19cf",
+  "model": "gpt-41"
+}

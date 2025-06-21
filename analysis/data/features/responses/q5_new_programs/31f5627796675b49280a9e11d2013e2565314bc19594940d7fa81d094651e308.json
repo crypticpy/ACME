@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for mid-size arts organizations",
+    "support for established organizations",
+    "resource allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "strengthening funding",
+    "established mid-size arts orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for mid-size arts organizations"
+  ],
+  "solutions_proposed": [
+    "strengthening funding to established mid-size arts orgs"
+  ],
+  "cached_at": "2025-06-21T02:04:37.455170",
+  "cache_key": "31f5627796675b49280a9e11d2013e2565314bc19594940d7fa81d094651e308",
+  "model": "gpt-41"
+}

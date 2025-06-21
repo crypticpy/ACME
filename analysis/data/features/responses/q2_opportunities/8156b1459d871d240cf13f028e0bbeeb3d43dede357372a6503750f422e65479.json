@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more museum/art exhibitions",
+    "interest in diverse live performances"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more museum/ art exhibitions",
+    "more diverse live performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more museum/ art exhibitions",
+    "more diverse live performances"
+  ],
+  "cached_at": "2025-06-21T00:43:41.721583",
+  "cache_key": "8156b1459d871d240cf13f028e0bbeeb3d43dede357372a6503750f422e65479",
+  "model": "gpt-41"
+}

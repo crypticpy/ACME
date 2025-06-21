@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of ACME",
+    "active participation in cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I'm unaware of ACME",
+    "I perform on a weekly basis"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of ACME among active artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:20:56.695248",
+  "cache_key": "ae1245a94f80532d84ae6d669e665fb18729f166e9deeef6189fdb111c79adf3",
+  "model": "gpt-41"
+}

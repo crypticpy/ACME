@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in grant process",
+    "clarity of grant requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "be more transparent",
+    "what you need from the grant writing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in grant writing requirements"
+  ],
+  "solutions_proposed": [
+    "be more transparent about what you need from the grant writing"
+  ],
+  "cached_at": "2025-06-21T00:55:07.181229",
+  "cache_key": "52787e6ca5bb9325c9f6aeb852f750afdedde48cd15493607d7086a103686059",
+  "model": "gpt-41"
+}

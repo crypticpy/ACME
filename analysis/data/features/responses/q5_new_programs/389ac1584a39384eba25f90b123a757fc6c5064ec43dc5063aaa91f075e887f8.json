@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for emerging artists",
+    "community engagement",
+    "collaboration opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "budding artists and creatives",
+    "ways to get involved in the community",
+    "start collaborating"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for new artists to get involved",
+    "limited avenues for collaboration"
+  ],
+  "solutions_proposed": [
+    "create ways for budding artists and creatives to get involved in the community",
+    "facilitate collaboration among emerging artists"
+  ],
+  "cached_at": "2025-06-21T01:59:42.574650",
+  "cache_key": "389ac1584a39384eba25f90b123a757fc6c5064ec43dc5063aaa91f075e887f8",
+  "model": "gpt-41"
+}

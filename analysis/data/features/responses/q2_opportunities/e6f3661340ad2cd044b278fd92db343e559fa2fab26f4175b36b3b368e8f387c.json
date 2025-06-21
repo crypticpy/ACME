@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "support for recently accepted programs",
+    "desire for continuity or expansion of current offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more of programs that are now being accepted"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase or continue programs that are now being accepted"
+  ],
+  "cached_at": "2025-06-21T00:44:28.250709",
+  "cache_key": "e6f3661340ad2cd044b278fd92db343e559fa2fab26f4175b36b3b368e8f387c",
+  "model": "gpt-41"
+}

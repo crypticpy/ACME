@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping in funding processes",
+    "accessibility of cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Don\u2019t gatekeep"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping"
+  ],
+  "solutions_proposed": [
+    "Don\u2019t gatekeep"
+  ],
+  "cached_at": "2025-06-21T01:12:04.757228",
+  "cache_key": "33d49f9a06e4dc966bee6259afe5e205478793400a3a00ed1c3f72080c7cc384",
+  "model": "gpt-41"
+}

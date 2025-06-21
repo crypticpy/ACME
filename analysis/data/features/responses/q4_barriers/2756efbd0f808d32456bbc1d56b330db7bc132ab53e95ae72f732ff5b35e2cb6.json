@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for artists",
+    "artist displacement from Austin",
+    "loss of civic participation due to relocation",
+    "continued engagement with Austin despite living elsewhere"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Not enough funding",
+    "Many artists, myself included, can't even afford to live in Austin anymore",
+    "we can't even vote in the city we expect to support our livelihood/nurture our development",
+    "We live in Bastrop, Lockhart, Kyle, etc."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for artists",
+    "inability to afford living in Austin",
+    "loss of voting rights and civic participation due to displacement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:47.834413",
+  "cache_key": "2756efbd0f808d32456bbc1d56b330db7bc132ab53e95ae72f732ff5b35e2cb6",
+  "model": "gpt-41"
+}

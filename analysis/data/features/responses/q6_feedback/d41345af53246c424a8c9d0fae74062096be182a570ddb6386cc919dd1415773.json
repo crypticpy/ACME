@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about reviewer expertise and bias",
+    "desire for improved communication about funded events",
+    "lack of awareness of arts events due to insufficient outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "assign grant applications to knowledgable reviewers",
+    "reviewers (all but one) misunderstood our art form",
+    "were prejudiced against it",
+    "newsletter that spotlights funded arts events",
+    "I don't regular visit events calendars, but I do read the newsletters"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reviewer misunderstanding and prejudice",
+    "lack of accessible information about funded events"
+  ],
+  "solutions_proposed": [
+    "assign grant applications to knowledgeable reviewers",
+    "create a newsletter that spotlights funded arts events"
+  ],
+  "cached_at": "2025-06-21T02:17:51.843351",
+  "cache_key": "d41345af53246c424a8c9d0fae74062096be182a570ddb6386cc919dd1415773",
+  "model": "gpt-41"
+}

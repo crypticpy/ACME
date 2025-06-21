@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for music venues",
+    "support for music industry professionals and employees",
+    "funding for small local music festivals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Specific funding for music venues",
+    "support and develop the careers of their music industry professionals and employees",
+    "Specific funding for small local music festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of specific funding for music venues",
+    "lack of funding for small local music festivals"
+  ],
+  "solutions_proposed": [
+    "Provide specific funding for music venues to support and develop the careers of their music industry professionals and employees",
+    "Provide specific funding for small local music festivals"
+  ],
+  "cached_at": "2025-06-21T02:00:35.472166",
+  "cache_key": "0ba33b47860c3056518a1eed18e5c4c8f4d566a99a80e8c05b5f5731300f8fa6",
+  "model": "gpt-41"
+}

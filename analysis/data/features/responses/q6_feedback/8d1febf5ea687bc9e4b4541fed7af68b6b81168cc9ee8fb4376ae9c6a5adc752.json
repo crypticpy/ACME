@@ -1,0 +1,21 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gratitude for engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thank you for asking."
+  ],
+  "intent": "acknowledgement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:15:15.534017",
+  "cache_key": "8d1febf5ea687bc9e4b4541fed7af68b6b81168cc9ee8fb4376ae9c6a5adc752",
+  "model": "gpt-41"
+}

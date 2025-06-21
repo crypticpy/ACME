@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "pro-Palestine representation",
+    "underrepresented cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "pro-palestine programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of pro-Palestine programming"
+  ],
+  "solutions_proposed": [
+    "offer pro-Palestine programming"
+  ],
+  "cached_at": "2025-06-21T01:54:56.745880",
+  "cache_key": "b770e05a1fb92eea8b627489b3b7b830738207870bf6b70f8b4d0d6f4a5c3121",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "affordability of cultural events",
+    "economic barriers to participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Tickets are too expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high ticket prices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:43.243822",
+  "cache_key": "4f9a31df72e8b7497fe9743c84482631fa2f1603bac2ffee45d213e93ed324ff",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "business community engagement",
+    "creative sector sustainability",
+    "cross-sector collaboration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "get the business community invested",
+    "health of the creative sector"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business community investment in creative sector"
+  ],
+  "solutions_proposed": [
+    "programs to engage the business community in supporting the creative sector"
+  ],
+  "cached_at": "2025-06-21T01:59:17.796659",
+  "cache_key": "e8f84ebdda5aaa7f9ccc30a3da48d765b0945b12504c62aa8cd74a4fd4f9c65d",
+  "model": "gpt-41"
+}

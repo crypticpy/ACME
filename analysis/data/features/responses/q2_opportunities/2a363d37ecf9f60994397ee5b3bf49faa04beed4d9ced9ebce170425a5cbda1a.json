@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic equity in cultural programming",
+    "accessibility of free concerts",
+    "concentration of events in central areas"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "free concert series",
+    "more neighborhoods",
+    "than just the downtown/zilker park area"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to free concerts outside downtown/Zilker Park"
+  ],
+  "solutions_proposed": [
+    "offer free concert series in more neighborhoods"
+  ],
+  "cached_at": "2025-06-21T00:31:19.167641",
+  "cache_key": "2a363d37ecf9f60994397ee5b3bf49faa04beed4d9ced9ebce170425a5cbda1a",
+  "model": "gpt-41"
+}

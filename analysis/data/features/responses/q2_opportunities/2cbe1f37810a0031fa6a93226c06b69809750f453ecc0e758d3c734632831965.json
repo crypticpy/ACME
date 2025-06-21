@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist residencies through museums",
+    "integration of arts with park system",
+    "mobile art studios for underserved areas",
+    "support for mid-career artists",
+    "business education for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "artist residencies through local museums",
+    "through the park system",
+    "mobile art studios",
+    "opportunities that can travel to under served areas",
+    "education for mid career artists on how to navigate business"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities in underserved areas",
+    "insufficient business education for mid-career artists"
+  ],
+  "solutions_proposed": [
+    "artist residencies through local museums",
+    "artist residencies through the park system",
+    "mobile art studios that travel to underserved areas",
+    "education for mid-career artists on business navigation"
+  ],
+  "cached_at": "2025-06-21T00:47:04.217629",
+  "cache_key": "2cbe1f37810a0031fa6a93226c06b69809750f453ecc0e758d3c734632831965",
+  "model": "gpt-41"
+}

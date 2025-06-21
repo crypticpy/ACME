@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of venues",
+    "fair compensation for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "finding a decent venue that isn't too expensive",
+    "being paid a living wage for performance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive venues",
+    "inadequate pay for performances"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:44.914856",
+  "cache_key": "fe01ff24d11fa0aad4bd521458412a1a07aac49e392bf3cd1d3f75ea4a9f8724",
+  "model": "gpt-41"
+}

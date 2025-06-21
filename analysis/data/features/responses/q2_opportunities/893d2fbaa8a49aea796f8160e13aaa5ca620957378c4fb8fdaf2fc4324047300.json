@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more film opportunities",
+    "interest in theatre events",
+    "increased access to classical music",
+    "support for cultural performances"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Film",
+    "Theatre",
+    "Classical Music",
+    "Cultural performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:40:01.825728",
+  "cache_key": "893d2fbaa8a49aea796f8160e13aaa5ca620957378c4fb8fdaf2fc4324047300",
+  "model": "gpt-41"
+}

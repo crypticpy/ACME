@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "critique of funding for professional artists and musicians",
+    "advocacy for amateur participation in arts and culture",
+    "concerns about high costs of supporting professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Don't focus on supporting artists and musicians",
+    "It costs a lot to support even one",
+    "We need amatuers producing art and culture",
+    "Not professionals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of supporting professional artists and musicians"
+  ],
+  "solutions_proposed": [
+    "focus on supporting amateurs producing art and culture instead of professionals"
+  ],
+  "cached_at": "2025-06-21T02:08:47.972899",
+  "cache_key": "4528e5c781a1c6a8c3fc20583660355e0647cd4d005efe5ee7de515a080270e0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability challenges for creatives",
+    "impact of financial pressure on creative work",
+    "need for financial support mechanisms (residencies, grants)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Affordability for creatives is huge",
+    "Working 5-6 days a week just to cover costs does not allow creative exploration",
+    "Residencies and grants would help"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living for creatives",
+    "lack of time for creative exploration due to financial pressures"
+  ],
+  "solutions_proposed": [
+    "provide residencies",
+    "offer grants"
+  ],
+  "cached_at": "2025-06-21T02:16:28.700116",
+  "cache_key": "abf4d2a52b07928265606a6053e80a3e3018f06a748af25611b16f76d188a446",
+  "model": "gpt-41"
+}

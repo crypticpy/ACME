@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct financial support",
+    "resource allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Give them money"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Give them money"
+  ],
+  "cached_at": "2025-06-20T01:16:50.526075",
+  "cache_key": "0f97401fdbd68ea9a0ffccf9026ac47ed7d7f583d375b7021e28ae4a39668be1",
+  "model": "gpt-41"
+}

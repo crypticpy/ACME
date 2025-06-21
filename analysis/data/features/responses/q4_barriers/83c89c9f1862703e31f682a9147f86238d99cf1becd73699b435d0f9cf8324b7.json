@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Unaffordability of creative spaces",
+    "High cost of cultural event attendance",
+    "Impact of cost of living on artists",
+    "Accessibility of free art events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I can no longer afford a studio outside my home",
+    "can't go to live music or theater events anymore due to the cost of living and crazy ticket prices",
+    "that's a big bummer",
+    "Most art openings are free to attend"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Unaffordable studio space",
+    "High ticket prices for live music and theater",
+    "General cost of living"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:08.040700",
+  "cache_key": "83c89c9f1862703e31f682a9147f86238d99cf1becd73699b435d0f9cf8324b7",
+  "model": "gpt-41"
+}

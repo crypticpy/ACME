@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for curated digital tools for arts access",
+    "interest in hidden and dynamic art scenes",
+    "inspiration from programs in other cities",
+    "improved visitor experience through technology"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "something like the SeeSaw app used in NYC and LA",
+    "well-designed, curated app",
+    "organizing a visitor's entry",
+    "half-hidden and constantly moving art scene"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SeeSaw app"
+  ],
+  "barriers_identified": [
+    "lack of organized access to hidden and dynamic art scenes"
+  ],
+  "solutions_proposed": [
+    "develop a curated app to organize access to Austin's art scene"
+  ],
+  "cached_at": "2025-06-21T00:41:11.648346",
+  "cache_key": "2356b94090434fb41c568d87e87666a1966180bc9cc035b2c93aff4197c782bd",
+  "model": "gpt-41"
+}

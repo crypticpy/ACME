@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "diversity in funding panel composition",
+    "inclusion of non-arts perspectives in decision-making"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More and Higher funding",
+    "Funding panels should be a mix of both those in the arts and those not in the arts",
+    "overall perspective"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "lack of diverse perspectives on funding panels"
+  ],
+  "solutions_proposed": [
+    "Increase funding amounts",
+    "Include both arts and non-arts individuals on funding panels"
+  ],
+  "cached_at": "2025-06-21T01:12:03.344119",
+  "cache_key": "23d633ebc17d951890b74fdaff1c7fb381355ad0f3e36900ee21f9625477028f",
+  "model": "gpt-41"
+}

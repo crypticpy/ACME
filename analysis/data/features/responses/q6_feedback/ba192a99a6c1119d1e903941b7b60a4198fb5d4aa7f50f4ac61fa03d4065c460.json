@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for Black queer cultural institutions",
+    "importance of inclusive cultural spaces",
+    "recognition of specific community organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "support black queer cultural institutions spaces events and creators",
+    "like allgo",
+    "they mean so much to us all"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "allgo"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support black queer cultural institutions spaces events and creators"
+  ],
+  "cached_at": "2025-06-21T02:19:39.234215",
+  "cache_key": "ba192a99a6c1119d1e903941b7b60a4198fb5d4aa7f50f4ac61fa03d4065c460",
+  "model": "gpt-41"
+}

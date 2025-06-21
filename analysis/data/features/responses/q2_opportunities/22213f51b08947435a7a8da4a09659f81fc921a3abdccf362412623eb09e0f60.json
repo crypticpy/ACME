@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of QPOC in funding",
+    "support for low-income queer individuals",
+    "need for donated space for marginalized groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More QPOC being prioritized in funding",
+    "More low-income queer people receiving funding",
+    "More donated space to these demographics"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding prioritization for QPOC",
+    "insufficient funding for low-income queer people",
+    "lack of donated space for marginalized groups"
+  ],
+  "solutions_proposed": [
+    "prioritize QPOC in funding",
+    "increase funding for low-income queer people",
+    "donate more space to these demographics"
+  ],
+  "cached_at": "2025-06-21T00:52:27.869779",
+  "cache_key": "22213f51b08947435a7a8da4a09659f81fc921a3abdccf362412623eb09e0f60",
+  "model": "gpt-41"
+}

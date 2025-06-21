@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "impact of high cost of living on cultural participation",
+    "financial barriers to entertainment access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "cost of living makes spending money on entertainment prohibitively expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living",
+    "prohibitive expense of entertainment"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:36.497267",
+  "cache_key": "5035359e30b21a73dd8567d9e562ebc6c7772269e346fa261407903f39d35d02",
+  "model": "gpt-41"
+}

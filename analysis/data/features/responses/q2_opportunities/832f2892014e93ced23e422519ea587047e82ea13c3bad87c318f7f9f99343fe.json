@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for increased cultural diversity",
+    "alignment of offerings with community demographics"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more diverse for a diverse community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase diversity in cultural arts and entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:52:11.270857",
+  "cache_key": "832f2892014e93ced23e422519ea587047e82ea13c3bad87c318f7f9f99343fe",
+  "model": "gpt-41"
+}

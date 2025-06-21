@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cutting-edge event spaces",
+    "artist and producer collaboration",
+    "contemporary and relevant programming",
+    "risk-taking in creativity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "a center for events that is on the cutting edge",
+    "showcase how most artists, entertainers, and producers in this area can collaborate",
+    "activities that are representative of what is relevant contemporarily",
+    "taking chances with creativity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "develop a cutting-edge event center for collaboration among local artists, entertainers, and producers",
+    "create programming that is representative of contemporary relevance",
+    "encourage risk-taking and creativity"
+  ],
+  "cached_at": "2025-06-21T00:29:55.094447",
+  "cache_key": "d51f6a4f008f454ddd37a823fa92b4cbe2c003d8a92e1e8092be8d90e4132bcb",
+  "model": "gpt-41"
+}

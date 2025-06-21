@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Desire for more cultural events in specific neighborhoods (78723, excluding Mueller)",
+    "Nostalgia for past cultural experiences (FFF, movies at French Legation)",
+    "Interest in street festivals",
+    "Interest in outdoor movie screenings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More in my community - 78723 (that's not Mueller!)",
+    "can you bring the spirit of FFF back?",
+    "Street festivals",
+    "Movies in the park - remember movies at the French Legation?"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "FFF",
+    "movies at the French Legation"
+  ],
+  "barriers_identified": [
+    "Lack of cultural events in 78723 neighborhood outside of Mueller"
+  ],
+  "solutions_proposed": [
+    "Increase cultural programming in 78723 outside of Mueller",
+    "Bring back the spirit of FFF",
+    "Organize street festivals",
+    "Host movies in the park, similar to past events at the French Legation"
+  ],
+  "cached_at": "2025-06-21T00:27:06.012876",
+  "cache_key": "bd64f23b43eba49e7ba8c55ce33bacd1e13d1247b75e8b6b7892cbcb2956513e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,71 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency and accountability in arts funding",
+    "affordable creative space and property tax relief",
+    "artist income support and validation",
+    "streamlined permitting and event support",
+    "repurposing underused city facilities for creatives",
+    "increased allocation of HOT funds to creative sector",
+    "artist-led community engagement processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "publish a civic vision for the creative sector with key metric tracking",
+    "tracking all COA spending on the arts in the budget & publication of this",
+    "transparency",
+    "fund (visitaustin? money) or operate a PR Group for Austin Artists and creatives",
+    "seed fund for events (loan fund)",
+    "affordable creative space programs",
+    "property tax abatement for creative spaces/nonprofit tenants",
+    "increase in proportion of HOT funds towards creative sector",
+    "artist validation process",
+    "minimum income program for artists",
+    "all city surveys/community engagement for an AIPP should be done by ACME, guided by the artist",
+    "track all public art in collection. Treat it like a civic museum",
+    "make it super easy to get an event permit. PARADE ROUTES. Get cool designated ones",
+    "let groups bid to manage/operate minimally used community centers",
+    "double the amount of affordable creative space in the next 10 years",
+    "increase $10mil annually into artist/creative income or expense savings",
+    "host CODAworks Summit in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "CODAworks Summit"
+  ],
+  "barriers_identified": [
+    "lack of transparency in arts funding",
+    "insufficient affordable creative space",
+    "complexity in event permitting",
+    "limited access to property tax relief for creative spaces/nonprofits",
+    "underutilized city-owned community centers",
+    "insufficient income support for artists"
+  ],
+  "solutions_proposed": [
+    "publish a civic vision for the creative sector with key metric tracking",
+    "track and publish all COA arts spending",
+    "regularly report on arts funding and metrics",
+    "fund or operate a PR group for Austin artists and creatives",
+    "create a seed fund or loan fund for events",
+    "expand affordable creative space programs",
+    "implement property tax abatement for creative spaces/nonprofit tenants",
+    "increase HOT funds allocation to the creative sector",
+    "establish an artist validation process for city recognition and private sector discounts",
+    "create a minimum income program for artists tied to community work",
+    "have ACME conduct all AIPP-related community engagement, guided by the artist",
+    "track all public art as a civic museum collection",
+    "simplify event permitting and designate parade routes",
+    "allow groups to bid to manage underused community centers",
+    "double affordable creative space in 10 years",
+    "increase $10 million annually for artist/creative income or expense savings",
+    "host CODAworks Summit in Austin"
+  ],
+  "cached_at": "2025-06-21T02:08:27.484666",
+  "cache_key": "d970518ae0b9e13a2ca030956d6eb2fd8db1966af821fcc5535699098b8c1b05",
+  "model": "gpt-41"
+}

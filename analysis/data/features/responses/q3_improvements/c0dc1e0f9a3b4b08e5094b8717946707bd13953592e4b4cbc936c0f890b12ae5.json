@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased outreach to emerging artists",
+    "additional funding for emerging artists",
+    "preservation of exhibited and historical pieces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "further outreach and funding for emerging artists",
+    "preserving already exhibited and historical pieces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to emerging artists",
+    "insufficient funding for emerging artists",
+    "risk to preservation of exhibited and historical pieces"
+  ],
+  "solutions_proposed": [
+    "further outreach for emerging artists",
+    "increased funding for emerging artists",
+    "preserving already exhibited and historical pieces"
+  ],
+  "cached_at": "2025-06-21T00:57:07.906880",
+  "cache_key": "c0dc1e0f9a3b4b08e5094b8717946707bd13953592e4b4cbc936c0f890b12ae5",
+  "model": "gpt-41"
+}

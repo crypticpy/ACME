@@ -1,0 +1,50 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Failure to practice true equity in funding structures",
+    "Exclusion of city employees from funding opportunities",
+    "Need for community-led decision-making and co-governance",
+    "Barriers to accessibility and ADA compliance",
+    "Call for redistribution of power and mutual accountability",
+    "Critique of extractive, short-term funding models"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Funding structures and programs often speak the language of equity but fail to live its practice",
+    "These initiatives must not merely serve communities; they must be shaped by them",
+    "Centering the leadership and lived experience of those who have been historically excluded",
+    "Transferring real decision-making power to the people who are implementing and participating",
+    "Providing long-term, flexible, and relationship-based support, rather than extractive, short-term deliverables",
+    "Equity cannot be achieved through top-down frameworks",
+    "communities deserve not just a seat at the table, but the ability to build the table, set the agenda, and determine how resources are shared",
+    "city drop the ball on this, with not following through on ADA, not following through with interpreters",
+    "hundreds of creatives who are working in different departments throughout, and are completely barred from participating in any of these funding opportunities",
+    "Just because I work for the library, means I can't help support pitch a mural in my neighborhood through a community driven praxis?",
+    "As a city worker, an artist, and educator, I feel as if I'm being punished by being barred from these opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding structures not truly equitable or community-led",
+    "Decision-making power not held by impacted communities",
+    "Lack of ADA compliance and accessibility (including interpreters)",
+    "City employees barred from participating in funding opportunities",
+    "Short-term, extractive funding models favoring institutions over communities"
+  ],
+  "solutions_proposed": [
+    "Center leadership and lived experience of historically excluded communities",
+    "Transfer real decision-making power to program implementers and participants",
+    "Co-create funding and governance structures with community members",
+    "Provide long-term, flexible, relationship-based support",
+    "Commit to redistribution of power, co-governance, and mutual accountability",
+    "Ensure accessibility and ADA compliance in all aspects",
+    "Develop alternative conflict of interest policies to allow city staff participation in creative programs"
+  ],
+  "cached_at": "2025-06-21T00:57:04.607445",
+  "cache_key": "bcbc1c887949b497068c9fad199122795f26e6d3183966ea64c521da996885b8",
+  "model": "gpt-41"
+}

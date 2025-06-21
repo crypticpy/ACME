@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Call for deeper and broader diversity in programming",
+    "Inclusion of underrepresented subgroups (age, body type, neurodivergence)",
+    "Need for more small venues across the city",
+    "Accessibility concerns related to parking and public transportation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Diversity that reaches deeper than well-know ethnic holidays",
+    "Diversity meaning more than ethnic groups",
+    "Programs for older people, fatter people, slower people, neurodivergent people",
+    "So many more sub groups have and need programs in Austin",
+    "Austin needs many more smaller venues in all areas of town",
+    "WITH parking or excellent public transportation for all"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited diversity in programming beyond well-known ethnic holidays",
+    "Lack of programs for specific subgroups (older, larger-bodied, slower, neurodivergent people)",
+    "Insufficient number of small venues in all areas of town",
+    "Lack of parking or excellent public transportation"
+  ],
+  "solutions_proposed": [
+    "Expand diversity in programming to include more than ethnic groups",
+    "Create programs for older people, larger-bodied people, slower people, neurodivergent people",
+    "Develop many more smaller venues distributed throughout the city",
+    "Ensure venues have parking or excellent public transportation access"
+  ],
+  "cached_at": "2025-06-21T00:58:00.963979",
+  "cache_key": "8d09c52d9400a6e81e4bbcf2fd4a5f6dfbe86ee7ea3219d7f591eeb70a843586",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for organizations",
+    "loss of performance and creative spaces",
+    "threat to Austin's arts and music identity",
+    "need for equitable and essential funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "giving a good amount of funding would help",
+    "limited spaces for people to perform or create",
+    "amount of funding organizations are receiving is diminishing",
+    "taking away from what Austin has been widely known for, the arts and music community",
+    "equal and essential funding will keep this cities identity alive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited spaces for people to perform or create",
+    "diminishing funding for organizations"
+  ],
+  "solutions_proposed": [
+    "giving a good amount of funding",
+    "equal and essential funding"
+  ],
+  "cached_at": "2025-06-20T10:40:57.163888",
+  "cache_key": "30e9afb2127efb474e586cd0c52b72d4911dcd5288fd3c1152eb27ee4fd69e2b",
+  "model": "gpt-41"
+}

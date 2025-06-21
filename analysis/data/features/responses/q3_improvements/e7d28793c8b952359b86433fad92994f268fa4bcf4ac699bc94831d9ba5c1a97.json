@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased education about programs",
+    "lack of public awareness of cultural funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Education and awareness about them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of education about programs",
+    "lack of awareness about programs"
+  ],
+  "solutions_proposed": [
+    "Increase education and awareness about cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T01:03:19.651163",
+  "cache_key": "e7d28793c8b952359b86433fad92994f268fa4bcf4ac699bc94831d9ba5c1a97",
+  "model": "gpt-41"
+}

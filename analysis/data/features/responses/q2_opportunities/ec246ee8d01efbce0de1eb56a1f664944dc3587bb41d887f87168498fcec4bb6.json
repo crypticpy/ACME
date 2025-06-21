@@ -1,0 +1,46 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusivity and representation in arts programming",
+    "affordability and accessibility of cultural events",
+    "decentralization of arts events to neighborhoods",
+    "support for experimental and interdisciplinary arts",
+    "celebration of diverse cultural identities and histories",
+    "youth and marginalized group engagement in creative learning"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "inclusive, affordable, and representative of the city\u2019s full cultural diversity",
+    "more neighborhood-based arts and music events",
+    "decentralize the creative scene",
+    "more space for experimental, interdisciplinary, or non-traditional arts",
+    "immersive theater, interactive installations, pole/dance art, and digital storytelling",
+    "culturally-specific celebrations and programming",
+    "low-cost or free workshops and creative learning spaces",
+    "foster a stronger pipeline of local creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusivity and representation",
+    "limited affordability",
+    "centralization of events near downtown",
+    "insufficient support for non-traditional arts",
+    "lack of culturally-specific programming",
+    "limited access to creative learning for youth and marginalized groups"
+  ],
+  "solutions_proposed": [
+    "increase neighborhood-based arts and music events",
+    "bring performances, pop-ups, and festivals into underrepresented neighborhoods",
+    "create more space for experimental, interdisciplinary, or non-traditional arts",
+    "offer events that honor and explore diverse cultural communities",
+    "provide low-cost or free workshops and creative learning spaces, especially for youth and marginalized groups"
+  ],
+  "cached_at": "2025-06-21T00:40:28.576758",
+  "cache_key": "ec246ee8d01efbce0de1eb56a1f664944dc3587bb41d887f87168498fcec4bb6",
+  "model": "gpt-41"
+}

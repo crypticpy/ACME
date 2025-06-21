@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived political bias in cultural funding",
+    "lack of authentic representation of city population"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin always goes woke",
+    "does not truly represent the population of the city"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived misalignment between cultural initiatives and community representation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:23:03.113364",
+  "cache_key": "389de82b14ef3dd086d6a2783e845061190866fee25e027838873ee8ea7e65eb",
+  "model": "gpt-41"
+}

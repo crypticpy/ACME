@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism and retaliation by EDD grants staff",
+    "atmosphere of fear and distrust in the arts funding process",
+    "disconnection between grants staff and the professional arts community",
+    "welcoming of ACME as a new entity",
+    "call for new, externally experienced grants staff"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "EDD grants staff played favorites",
+    "retaliated against its critics",
+    "visible disdain for the professional arts community",
+    "created an atmosphere of fear and distrust",
+    "ACME is long overdue, and its arrival is very welcomed",
+    "a truly fresh start will require new people on the grants team",
+    "individuals who have worked in public arts funding elsewhere",
+    "don't have local baggage"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "MoHA",
+    "Proyecto Teatro",
+    "Almost Real Things"
+  ],
+  "barriers_identified": [
+    "favoritism in grantmaking",
+    "retaliation against critics",
+    "fear and distrust among applicants",
+    "disdain for the professional arts community"
+  ],
+  "solutions_proposed": [
+    "replace grants team with individuals experienced in public arts funding from outside the local context"
+  ],
+  "cached_at": "2025-06-21T02:18:12.741474",
+  "cache_key": "2672ab19116d28bb002904b483d22dad48a13a0feb506ad242851af99a1545bd",
+  "model": "gpt-41"
+}

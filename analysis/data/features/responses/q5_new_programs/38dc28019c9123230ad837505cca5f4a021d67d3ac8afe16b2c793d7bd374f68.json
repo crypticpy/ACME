@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "underrepresentation of designers and technicians",
+    "importance of technical roles in the arts",
+    "need for new opportunities for specific creative professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "opportunities for designers and technicians",
+    "integral element in the artistic landscape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for designers and technicians"
+  ],
+  "solutions_proposed": [
+    "offer opportunities for designers and technicians"
+  ],
+  "cached_at": "2025-06-21T01:58:58.183853",
+  "cache_key": "38dc28019c9123230ad837505cca5f4a021d67d3ac8afe16b2c793d7bd374f68",
+  "model": "gpt-41"
+}

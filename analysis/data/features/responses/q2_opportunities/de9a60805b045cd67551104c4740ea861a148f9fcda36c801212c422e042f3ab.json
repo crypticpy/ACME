@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "artist career development",
+    "need for label/production organizations",
+    "support for creative sustainability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More label/Production type organizations",
+    "help develop artist",
+    "lead them in the right direction",
+    "sustaining a career as a creator"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of label/production organizations",
+    "insufficient career guidance for artists"
+  ],
+  "solutions_proposed": [
+    "create more label/production type organizations to support artist development and career sustainability"
+  ],
+  "cached_at": "2025-06-21T00:45:04.938780",
+  "cache_key": "de9a60805b045cd67551104c4740ea861a148f9fcda36c801212c422e042f3ab",
+  "model": "gpt-41"
+}

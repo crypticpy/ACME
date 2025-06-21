@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased community diversity",
+    "representation in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More community diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community diversity"
+  ],
+  "solutions_proposed": [
+    "increase community diversity"
+  ],
+  "cached_at": "2025-06-21T01:14:45.109950",
+  "cache_key": "7b901ccd7a1d1243dd3ac154c92e527d9aa3792e912441361a74d84f460f823a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,21 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "gratitude for engagement opportunity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Grateful for the opportunity to provide feedback"
+  ],
+  "intent": "express_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:36.869304",
+  "cache_key": "3dd9358f7cd3b3ab6101a3018de603338aee88f4d87659c807ff348d0af39329",
+  "model": "gpt-41"
+}

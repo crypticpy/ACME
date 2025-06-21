@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility improvements",
+    "ADA accommodations",
+    "inclusion of people with disabilities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Brail and more ADA accommodations",
+    "ramps are SUPER welcome"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of Braille accommodations",
+    "insufficient ADA accommodations",
+    "lack of ramps"
+  ],
+  "solutions_proposed": [
+    "provide Braille accommodations",
+    "add more ADA accommodations like ramps"
+  ],
+  "cached_at": "2025-06-21T01:04:28.523432",
+  "cache_key": "31c8a904cec9fd68f799d312dd9f3952cd25aaf0105400e19255705a5f99ffd0",
+  "model": "gpt-41"
+}

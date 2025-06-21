@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of event spaces",
+    "access to creative venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of affordable space",
+    "creative events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable space for creative events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:34.257380",
+  "cache_key": "09cf1ff9a463d478a0efc3507159d9eecff37ea9f9264d2b747b5bfa5b3c75bf",
+  "model": "gpt-41"
+}

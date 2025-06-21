@@ -1,0 +1,48 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability and access to cultural events",
+    "centering underrepresented communities (BIPOC, LGBTQ+, disabled, culturally specific voices)",
+    "support for emerging and local artists",
+    "innovation in event formats (interactive art, site-specific performances, pop-ups, artist talkbacks)",
+    "visibility and support for theatre and performance-based work",
+    "role of ACME in promoting arts groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more affordable or pay what you can events",
+    "center underrepresented communities such as BIPOC, LGBTQ+, disabled artists, and culturally specific voices",
+    "access matters and pricing is a big barrier",
+    "more support for emerging and local work",
+    "intentional space made for new voices in theatre and across disciplines",
+    "more creative formats...interactive art, site specific performances, pop ups, and artist talkbacks",
+    "ACME could play a big role in highlighting and bringing more arts groups to the forefront",
+    "over 80 theatre companies in Austin and the majority of them go largely unknown to the public",
+    "work happening that deserves more visibility and support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "pricing is a big barrier",
+    "lack of visibility for theatre companies",
+    "limited support for underrepresented and emerging artists"
+  ],
+  "solutions_proposed": [
+    "more affordable or pay what you can events",
+    "events centering underrepresented communities",
+    "more support for emerging and local work",
+    "intentional space for new voices in theatre and across disciplines",
+    "creative event formats (interactive art, site-specific performances, pop-ups, artist talkbacks)",
+    "ACME highlighting and bringing more arts groups to the forefront",
+    "increasing visibility and support for theatre companies"
+  ],
+  "cached_at": "2025-06-21T00:34:14.732451",
+  "cache_key": "3943093d66283a09a42041b775f133b673c2f12a7b0b0597f48f6df52de257d0",
+  "model": "gpt-41"
+}

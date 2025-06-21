@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "opposition to public funding for cultural office",
+    "concern about taxpayer burden",
+    "questioning the legitimacy of the cultural office"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Not financially",
+    "The taxpayer is already stretched thin",
+    "I do not believe this office should exist or have any public funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "taxpayer is already stretched thin"
+  ],
+  "solutions_proposed": [
+    "Eliminate public funding for the office",
+    "Disband the office"
+  ],
+  "cached_at": "2025-06-20T01:20:44.416345",
+  "cache_key": "8d4ace7b21a5a491cc45a9328531d32d23711a694d8dc49155ab74b11d0c33ae",
+  "model": "gpt-41"
+}

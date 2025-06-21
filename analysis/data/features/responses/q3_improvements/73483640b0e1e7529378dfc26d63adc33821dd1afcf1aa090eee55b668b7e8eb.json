@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "lack of program awareness",
+    "communication improvements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "More funding",
+    "better communication about the existence of these programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about the existence of these programs"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "improve communication about program existence"
+  ],
+  "cached_at": "2025-06-21T01:19:23.459587",
+  "cache_key": "73483640b0e1e7529378dfc26d63adc33821dd1afcf1aa090eee55b668b7e8eb",
+  "model": "gpt-41"
+}

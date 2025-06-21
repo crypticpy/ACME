@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for a strong, multi-disciplinary festival",
+    "Frustration with lack of city support for cultural events",
+    "Highlighting the Lone Star Festival as a model"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "A strong festival like the Lone Star Festival",
+    "features Art, Books, Music, and Film",
+    "lack of city support is outrageous"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Lone Star Festival"
+  ],
+  "barriers_identified": [
+    "lack of city support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:24:49.413539",
+  "cache_key": "afe8aa9731ed0af3243caf3662e4065cb272a584b575dde345957f58f22683ed",
+  "model": "gpt-41"
+}

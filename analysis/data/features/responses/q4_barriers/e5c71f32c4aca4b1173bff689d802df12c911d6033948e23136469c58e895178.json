@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "government targeting of community",
+    "discrimination by authorities",
+    "loss of funding access",
+    "state and federal level barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "targeted by the government",
+    "we face discrimination",
+    "loss of access to funding",
+    "state and federal level"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "targeting by government",
+    "discrimination",
+    "loss of access to funding at the state and federal level"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:38.295272",
+  "cache_key": "e5c71f32c4aca4b1173bff689d802df12c911d6033948e23136469c58e895178",
+  "model": "gpt-41"
+}

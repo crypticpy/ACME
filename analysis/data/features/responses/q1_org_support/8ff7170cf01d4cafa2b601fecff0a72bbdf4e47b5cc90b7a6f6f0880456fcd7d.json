@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to current funding for organizations",
+    "preference for returning funds to taxpayers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "defund them",
+    "give money back to those who pay taxes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "defund them",
+    "give money back to those who pay taxes"
+  ],
+  "cached_at": "2025-06-20T10:34:40.866610",
+  "cache_key": "8ff7170cf01d4cafa2b601fecff0a72bbdf4e47b5cc90b7a6f6f0880456fcd7d",
+  "model": "gpt-41"
+}

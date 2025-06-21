@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "proximity of venues to residential areas",
+    "community impact of venue location"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Venues being close to neighborhoods"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Venues being close to neighborhoods"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:53.783868",
+  "cache_key": "bbd0ebf77a3846bd697f90917e77f0b8dc59553c7e489227b8c8e3f277b34a04",
+  "model": "gpt-41"
+}

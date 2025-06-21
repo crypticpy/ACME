@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "intergenerational programming",
+    "youth engagement",
+    "inclusive cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "All ages programs for youth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "All ages programs for youth"
+  ],
+  "cached_at": "2025-06-21T00:37:28.803421",
+  "cache_key": "eba30d5c51b1e91d5c489c11c7b88faa3986811e8cb678b3f166e960aee415ca",
+  "model": "gpt-41"
+}

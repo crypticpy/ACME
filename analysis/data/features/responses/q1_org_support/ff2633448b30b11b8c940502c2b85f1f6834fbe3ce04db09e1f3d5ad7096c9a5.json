@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "resistance to unnecessary change",
+    "recognition of existing community efforts",
+    "preference for supporting established organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "don\u2019t try to reinvent the wheel",
+    "support the orgs already doing the work in the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for organizations already active in the community"
+  ],
+  "solutions_proposed": [
+    "support the orgs already doing the work in the community",
+    "avoid unnecessary changes to existing support structures"
+  ],
+  "cached_at": "2025-06-20T10:25:24.200544",
+  "cache_key": "ff2633448b30b11b8c940502c2b85f1f6834fbe3ce04db09e1f3d5ad7096c9a5",
+  "model": "gpt-41"
+}

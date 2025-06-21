@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "incremental program improvement",
+    "addressing known concerns and challenges",
+    "preference for modifying existing programs over creating new ones",
+    "importance of communication and transparency",
+    "building trust between city, commission, and public"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "incremental changes to the existing programs",
+    "address known concerns and challenges",
+    "more beneficial than 'new programs'",
+    "better, more consistent, and clearer communication",
+    "increase trust for all"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear and consistent communication"
+  ],
+  "solutions_proposed": [
+    "incremental changes to existing programs",
+    "better, more consistent, and clearer communication between the City, commission, and the public"
+  ],
+  "cached_at": "2025-06-21T02:19:08.461562",
+  "cache_key": "1ad0e145314bfe1f4d8463300f509c477bdb723ed6718d3f6058683266ac4e27",
+  "model": "gpt-41"
+}

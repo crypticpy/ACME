@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "praise for Dougherty Arts Center programs",
+    "highlighting after-school Creativity Club",
+    "perceived program excellence"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "The programs at the Dougherty Arts Center",
+    "especially the after-school Creativity Club",
+    "are excellent"
+  ],
+  "intent": "positive_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Dougherty Arts Center",
+    "Creativity Club"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:21.029774",
+  "cache_key": "883473cb3cd4abc93d0ab4a1f4166067fb5273d316fb5c7be14b7d7c92a2de82",
+  "model": "gpt-41"
+}

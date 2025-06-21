@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for creatives",
+    "need for subsidized creative workspaces",
+    "financial barriers to artistic production"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Housing/housing subsidies",
+    "subsidized studio/recording space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing",
+    "lack of affordable studio/recording space"
+  ],
+  "solutions_proposed": [
+    "Provide housing subsidies",
+    "Offer subsidized studio/recording space"
+  ],
+  "cached_at": "2025-06-21T02:09:37.921718",
+  "cache_key": "ecbc8803af63cef0420d044f743fe88a6fc54b19db09dd3642788c7d4a7426db",
+  "model": "gpt-41"
+}

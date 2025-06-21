@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family-oriented art activities",
+    "Spanish-language accessibility",
+    "guided art experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Art works shops for families",
+    "guided tours of art displays in Spanish"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of Spanish-language guided tours"
+  ],
+  "solutions_proposed": [
+    "Offer art workshops for families",
+    "Provide guided tours of art displays in Spanish"
+  ],
+  "cached_at": "2025-06-21T00:51:09.678167",
+  "cache_key": "0ed95428fdea0ec5d2d82ff2eba99f4ce2e87b36d00bd97a383319dbe2afa515",
+  "model": "gpt-41"
+}

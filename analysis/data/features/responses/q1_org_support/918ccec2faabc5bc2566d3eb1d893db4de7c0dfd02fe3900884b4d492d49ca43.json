@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "alignment of grant funding with organizational needs",
+    "financial accessibility of event spaces",
+    "requirement for matching funds"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "aligned grant funding",
+    "reduced cost or matching funds for event spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost or matching funds required for event spaces"
+  ],
+  "solutions_proposed": [
+    "align grant funding",
+    "reduce cost or matching funds for event spaces"
+  ],
+  "cached_at": "2025-06-20T10:44:55.896437",
+  "cache_key": "918ccec2faabc5bc2566d3eb1d893db4de7c0dfd02fe3900884b4d492d49ca43",
+  "model": "gpt-41"
+}

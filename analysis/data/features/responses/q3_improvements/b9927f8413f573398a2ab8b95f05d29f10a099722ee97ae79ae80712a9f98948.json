@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding for traditional arts organizations",
+    "reference to prior feedback",
+    "focus on traditional arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more traditional arts organizations that need funding",
+    "see earlier answer"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide more funding to traditional arts organizations"
+  ],
+  "cached_at": "2025-06-21T00:57:09.795545",
+  "cache_key": "b9927f8413f573398a2ab8b95f05d29f10a099722ee97ae79ae80712a9f98948",
+  "model": "gpt-41"
+}

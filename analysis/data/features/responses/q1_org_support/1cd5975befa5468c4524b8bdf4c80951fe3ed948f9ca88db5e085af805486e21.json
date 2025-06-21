@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "support for existing cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "help with funding",
+    "strengthening existing cultural programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "help with funding",
+    "strengthening existing cultural programming"
+  ],
+  "cached_at": "2025-06-20T10:38:35.590126",
+  "cache_key": "1cd5975befa5468c4524b8bdf4c80951fe3ed948f9ca88db5e085af805486e21",
+  "model": "gpt-41"
+}

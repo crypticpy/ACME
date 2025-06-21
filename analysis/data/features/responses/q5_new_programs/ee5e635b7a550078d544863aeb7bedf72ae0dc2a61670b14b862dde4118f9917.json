@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for aging artists",
+    "multigenerational community support",
+    "employment resources for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Resources for aging community artists",
+    "Multigenerational support within the artist community",
+    "Real job resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources for aging artists",
+    "insufficient multigenerational support",
+    "limited job resources for artists"
+  ],
+  "solutions_proposed": [
+    "Provide resources for aging community artists",
+    "Offer multigenerational support within the artist community",
+    "Develop real job resources for artists"
+  ],
+  "cached_at": "2025-06-21T02:03:10.630108",
+  "cache_key": "ee5e635b7a550078d544863aeb7bedf72ae0dc2a61670b14b862dde4118f9917",
+  "model": "gpt-41"
+}

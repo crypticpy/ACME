@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "incubator support for new arts organizations",
+    "focus on inclusivity in program design",
+    "resource and access expansion for group formation",
+    "city-funded event venue network",
+    "facilitation of collaboration across venues",
+    "partnerships with private and public venues",
+    "centralized database or brochure for venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "incubator program for helping new arts organizations get started",
+    "focus on inclusivity",
+    "more resources and access to allow people to more easily start groups",
+    "host events in venues across the city",
+    "city funded event venue network",
+    "partner with existing venue spaces (both private and public)",
+    "create a database or brochure that people could utilize for facilitation and collaboration"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources and access to start groups",
+    "difficulty hosting events in venues across the city",
+    "lack of centralized information for venues and collaborators"
+  ],
+  "solutions_proposed": [
+    "incubator program for new arts organizations with a focus on inclusivity",
+    "city-funded event venue network",
+    "partnerships with private and public venues",
+    "creation of a database or brochure for venue and collaborator facilitation"
+  ],
+  "cached_at": "2025-06-21T01:55:41.508441",
+  "cache_key": "583a56bb359b48c5e9e29132b5cbde525d4052ba32d30b3d3efc7fd61ff79521",
+  "model": "gpt-41"
+}

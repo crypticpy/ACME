@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct financial support",
+    "community engagement",
+    "responsive funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support via dollars is the best support",
+    "listening to the community about what they need"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide direct financial support",
+    "listen to the community about their needs"
+  ],
+  "cached_at": "2025-06-20T10:37:50.877990",
+  "cache_key": "f7b2fea68d33f7c6353cb6aaae0e5848c86e764667f1bd7ac9ca8cfa83bf5776",
+  "model": "gpt-41"
+}

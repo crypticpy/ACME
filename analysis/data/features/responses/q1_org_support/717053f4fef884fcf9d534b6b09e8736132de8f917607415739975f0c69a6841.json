@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable treatment",
+    "fairness in support"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Without prejudice"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support organizations and cultural leaders without prejudice"
+  ],
+  "cached_at": "2025-06-20T10:22:37.755743",
+  "cache_key": "717053f4fef884fcf9d534b6b09e8736132de8f917607415739975f0c69a6841",
+  "model": "gpt-41"
+}

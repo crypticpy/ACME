@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased cultural diversity",
+    "interest in international representation",
+    "celebration of global cultures through festivals",
+    "integration of food, music, and religion in events",
+    "ambitious city-wide cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More Wolrd festivals representing each country",
+    "food, culture, music, religion ect.",
+    "There could be 1 a day for 150 days",
+    "We would be the 1st city to do that!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Host more world festivals representing each country and their food, culture, music, and religion",
+    "Organize one festival per day for 150 days"
+  ],
+  "cached_at": "2025-06-21T00:37:09.505417",
+  "cache_key": "12a0fcf9438907dbb463f2fdf5bc377f142807c0eff08139a62a6976b391db0c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "organizational siloing",
+    "lack of proactive collaboration",
+    "insufficient bridge-building",
+    "timing of support from intermediary organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "organizations exist in their own bubble",
+    "we could be stronger together",
+    "Orgs like Austin Together are not proactive enough to build bridges",
+    "they just want to help you to get across the finish line after all the work is done, the hardest part"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Austin Together"
+  ],
+  "barriers_identified": [
+    "organizational isolation",
+    "lack of proactive bridge-building",
+    "support arrives too late in the process"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:31.647496",
+  "cache_key": "4cda303e665f31bfcf2d5c27131f4b442644bb2ce270f0245c87236a414c75fa",
+  "model": "gpt-41"
+}

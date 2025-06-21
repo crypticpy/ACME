@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability of cultural opportunities",
+    "accessibility for youth, families, and seniors",
+    "inclusive pricing models"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "pay what you can",
+    "opportunities for youth, families and seniors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost barriers for youth, families, and seniors"
+  ],
+  "solutions_proposed": [
+    "provide 'pay what you can' opportunities"
+  ],
+  "cached_at": "2025-06-21T00:25:01.211150",
+  "cache_key": "8ddf75963633c17f9f15e44b3875159891e78125d87c72a09cf5821ed1d09b44",
+  "model": "gpt-41"
+}

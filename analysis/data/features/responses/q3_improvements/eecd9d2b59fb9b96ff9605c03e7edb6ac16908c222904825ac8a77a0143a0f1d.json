@@ -1,0 +1,44 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased variety in programming",
+    "support for longtime artists",
+    "support for emerging artists",
+    "support for POC (People of Color) programs",
+    "support for LGBTQIA+ programs",
+    "support for women's programs",
+    "amplifying underrepresented voices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More variety",
+    "support longtime artists",
+    "support emerging artists",
+    "support POC programs",
+    "LGBTQIA+ programs",
+    "women's programs",
+    "other underrepresented voices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for underrepresented groups",
+    "insufficient variety in programming"
+  ],
+  "solutions_proposed": [
+    "increase variety in cultural funding programs",
+    "provide support for longtime artists",
+    "provide support for emerging artists",
+    "increase support for POC programs",
+    "increase support for LGBTQIA+ programs",
+    "increase support for women's programs",
+    "support other underrepresented voices"
+  ],
+  "cached_at": "2025-06-21T00:57:17.241544",
+  "cache_key": "eecd9d2b59fb9b96ff9605c03e7edb6ac16908c222904825ac8a77a0143a0f1d",
+  "model": "gpt-41"
+}

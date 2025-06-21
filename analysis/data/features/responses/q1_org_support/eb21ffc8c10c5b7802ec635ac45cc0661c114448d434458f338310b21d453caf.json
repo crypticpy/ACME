@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "meaningful programming",
+    "meeting diverse community needs",
+    "ongoing support for artistic community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "create meaningful programming",
+    "meets the needs of a diverse artistic community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue to create meaningful programming that meets the needs of a diverse artistic community"
+  ],
+  "cached_at": "2025-06-20T10:22:29.626026",
+  "cache_key": "eb21ffc8c10c5b7802ec635ac45cc0661c114448d434458f338310b21d453caf",
+  "model": "gpt-41"
+}

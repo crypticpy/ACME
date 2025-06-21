@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased literary arts opportunities",
+    "perceived imbalance in support among art forms",
+    "appreciation for existing support of music and visual arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I would love to see more literary arts out there!",
+    "As a music performer and lover of visual arts, I am glad that they get so much support",
+    "would love to see more support for literary arts as well"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support for literary arts"
+  ],
+  "cached_at": "2025-06-21T00:47:35.878341",
+  "cache_key": "b962442bdf1a30dbdb2e4c7803f40857fd9f2ada00b0d8e46037de6e8228fd5d",
+  "model": "gpt-41"
+}

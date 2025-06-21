@@ -1,0 +1,53 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of strategic, long-term planning in arts funding",
+    "Desire for industry development over grant-based equity approaches",
+    "Potential for Austin to become a theater and recording industry hub",
+    "Critique of current grant deployment and its impact on established artists",
+    "Suggestions for leveraging city-controlled assets (utilities, tourism, film incentives)",
+    "Concerns about division and dependence created by current funding models"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "resources have never been deployed strategically, with an eye on city wide, long term impact",
+    "make a detailed long range comprehensive plan to maximize assets and funding",
+    "Austin could be a theater destination, like Minneapolis",
+    "City investments would need to focus on industry development, as council intended for the Live Music Fund",
+    "staff's preference for deploying grants to address historical inequities",
+    "creating real work opportunities, not by the City picking winners from among aspiring musicians",
+    "arbitrarily creating haves and have nots, sowing division and creating new dependence on the City",
+    "publicly owned utility could offer rebates to venues",
+    "Visit Austin could do much more for cultural tourism by offering marketing grants",
+    "film incentives budget could be grown radically",
+    "Film Commission should move from Visit Austin to ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live Music Fund",
+    "Visit Austin",
+    "Film Commission"
+  ],
+  "barriers_identified": [
+    "Lack of strategic, long-term planning",
+    "Current grant deployment favoring historical inequities over industry development",
+    "City 'picking winners' among musicians",
+    "Division and dependence created by current funding models",
+    "Insufficient leveraging of city-controlled assets for cultural support"
+  ],
+  "solutions_proposed": [
+    "Develop a detailed long-range comprehensive plan for arts funding",
+    "Focus city investments on industry development rather than only addressing historical inequities",
+    "Leverage publicly owned utility to offer rebates to venues",
+    "Expand Visit Austin's role to provide marketing grants to venues and festivals",
+    "Radically increase the film incentives budget",
+    "Move the Film Commission from Visit Austin to ACME"
+  ],
+  "cached_at": "2025-06-21T02:18:21.124877",
+  "cache_key": "d5fc7177dfed56932a66baf3f95fa57221162804c2e47d4f744bbcbf7f2d8ae7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural participation",
+    "inaccessibility of venues",
+    "impact of rising costs on community access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Cost of services and spaces",
+    "Rent/ownership of venues has become out of reach for the majority"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of services",
+    "high cost of spaces",
+    "venue rent/ownership out of reach"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:15.395700",
+  "cache_key": "f3314dee3290144fd3190e2dd3fea2ac027d5670be7f193263277460c1507d9e",
+  "model": "gpt-41"
+}

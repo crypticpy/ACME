@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "administrative burden",
+    "grant award size"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "easier application/administration processes",
+    "large grant award amounts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application/administration processes",
+    "insufficient grant award amounts"
+  ],
+  "solutions_proposed": [
+    "easier application/administration processes",
+    "large grant award amounts"
+  ],
+  "cached_at": "2025-06-21T01:07:49.846568",
+  "cache_key": "26fd4af862488278078391bf5403303bda8fed58c09e39b3cea8d1a2ee53291a",
+  "model": "gpt-41"
+}

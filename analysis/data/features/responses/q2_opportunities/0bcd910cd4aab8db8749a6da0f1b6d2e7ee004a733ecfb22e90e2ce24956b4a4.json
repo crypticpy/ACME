@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more small-scale music events",
+    "interest in acoustic performances",
+    "support for live music culture"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Small acoustic live music shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More small acoustic live music shows"
+  ],
+  "cached_at": "2025-06-21T00:34:06.072114",
+  "cache_key": "0bcd910cd4aab8db8749a6da0f1b6d2e7ee004a733ecfb22e90e2ce24956b4a4",
+  "model": "gpt-41"
+}

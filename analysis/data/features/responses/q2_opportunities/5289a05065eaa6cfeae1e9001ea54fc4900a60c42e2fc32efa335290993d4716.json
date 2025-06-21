@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for operational funding",
+    "desire for project-based funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Operation support",
+    "project support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase operation support",
+    "Increase project support"
+  ],
+  "cached_at": "2025-06-21T00:25:31.572576",
+  "cache_key": "5289a05065eaa6cfeae1e9001ea54fc4900a60c42e2fc32efa335290993d4716",
+  "model": "gpt-41"
+}

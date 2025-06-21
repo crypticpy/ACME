@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for skill development",
+    "expansion of internship opportunities",
+    "focus on youth creative growth",
+    "cultural diversity in programs",
+    "career readiness for children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more money to the skills taught to interns",
+    "creating more skills and a larger creative palette for the child",
+    "skills that could translate to a full time now",
+    "more intern ship programs within different cultures"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for skill-building",
+    "limited internship opportunities across cultures"
+  ],
+  "solutions_proposed": [
+    "increase funding for skills taught to interns",
+    "create more internship programs within different cultures"
+  ],
+  "cached_at": "2025-06-21T01:17:26.125184",
+  "cache_key": "c67e44eb47dc7ca2a604afe1a8c0548d473c3bba8707dc4c85f8f9af97d60fd8",
+  "model": "gpt-41"
+}

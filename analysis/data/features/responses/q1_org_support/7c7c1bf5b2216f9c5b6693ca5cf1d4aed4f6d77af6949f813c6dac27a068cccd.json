@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "difficulty attracting community attention",
+    "challenges in community organizing",
+    "need for support in engagement efforts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "community organizing work",
+    "difficult to garner attention"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty garnering attention for community organizing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:42:21.873053",
+  "cache_key": "7c7c1bf5b2216f9c5b6693ca5cf1d4aed4f6d77af6949f813c6dac27a068cccd",
+  "model": "gpt-41"
+}

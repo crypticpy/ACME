@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events for college students",
+    "importance of exposure to arts and culture for youth",
+    "personal financial burden on educators",
+    "impact of funding on student cultural appreciation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Affordability is a barrier",
+    "Many of the college students I serve at Huston-Tillotson cannot afford many of the events",
+    "Exposure is vital to college students",
+    "I paid for tickets to take several students to see a live play at the Zach Theatre",
+    "Funding to support students would greatly impact their cultural experience"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Zach Theatre"
+  ],
+  "barriers_identified": [
+    "Affordability of events",
+    "Lack of funding for student participation"
+  ],
+  "solutions_proposed": [
+    "Funding to support students"
+  ],
+  "cached_at": "2025-06-21T01:38:12.554304",
+  "cache_key": "897756f5f2ce76d517106a098529eeea190f869428a79dc2394f2811fddf5ff0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "cross-sector collaboration",
+    "equitable compensation",
+    "involvement of city government in cultural work",
+    "roles of nightlife stakeholders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "collaboration between the bars, the door person, performers, bookers and the City",
+    "ensure equitable compensation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration among stakeholders",
+    "inequitable compensation"
+  ],
+  "solutions_proposed": [
+    "collaboration between the bars, the door person, performers, bookers and the City to ensure equitable compensation"
+  ],
+  "cached_at": "2025-06-21T01:56:20.374077",
+  "cache_key": "d3ba0a84f9fed94aa933a4ba481e9c5495a27312736c42e63efc4a78e905a783",
+  "model": "gpt-41"
+}

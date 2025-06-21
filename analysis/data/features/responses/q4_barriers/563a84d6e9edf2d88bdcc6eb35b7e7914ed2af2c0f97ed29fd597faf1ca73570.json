@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistent funding",
+    "lack of support for non-wealthy organizations",
+    "recognition of cultural value beyond monetary wealth",
+    "importance of unique local organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "lack of consistent funding",
+    "orgs that might not be rich monetarily but are rich in ways",
+    "part and parcel of what makes Austin unique and exceptional"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent funding",
+    "funding not centered on organizations with cultural value but limited monetary resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:02.914252",
+  "cache_key": "563a84d6e9edf2d88bdcc6eb35b7e7914ed2af2c0f97ed29fd597faf1ca73570",
+  "model": "gpt-41"
+}

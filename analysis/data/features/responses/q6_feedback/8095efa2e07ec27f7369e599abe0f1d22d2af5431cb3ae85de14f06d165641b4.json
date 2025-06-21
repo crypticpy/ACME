@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of Indigenous communities",
+    "inclusion of Two Spirit and Indigiqueer identities",
+    "representation of 2SLGBTQ+ people"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Better include Indigenous, Two Spirit. Indigiqueer and 2SLGBTQ+ people."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusion for Indigenous, Two Spirit, Indigiqueer, and 2SLGBTQ+ people"
+  ],
+  "solutions_proposed": [
+    "Better include Indigenous, Two Spirit, Indigiqueer and 2SLGBTQ+ people"
+  ],
+  "cached_at": "2025-06-21T02:15:41.671505",
+  "cache_key": "8095efa2e07ec27f7369e599abe0f1d22d2af5431cb3ae85de14f06d165641b4",
+  "model": "gpt-41"
+}

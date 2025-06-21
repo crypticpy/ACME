@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "educational opportunities for creatives",
+    "community growth through arts education",
+    "integration of creative experiences beyond events",
+    "sustained impact of creative energy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more educational opportunities for creatives",
+    "provide opportunities to grow the community",
+    "teaching them how to access and digest the work itself",
+    "creative energy is not just seen at an event one time and then forgotten",
+    "allowed to permeate and integrate with the viewers",
+    "creative spark can grow through them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "creative energy is not just seen at an event one time and then forgotten"
+  ],
+  "solutions_proposed": [
+    "more educational opportunities for creatives",
+    "teaching the community how to access and digest creative work",
+    "allowing creative energy to permeate and integrate with viewers"
+  ],
+  "cached_at": "2025-06-21T00:28:38.961130",
+  "cache_key": "3e8a6a87bc43272b273ad486ef4295da3209b27c6f6b94402f9e0281878b3e3f",
+  "model": "gpt-41"
+}

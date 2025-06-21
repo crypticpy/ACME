@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about echo chambers in city processes",
+    "need for broad-based community outreach",
+    "importance of engaging new and diverse voices",
+    "value of collaboration and new partnerships",
+    "necessity for clear and inclusive organizational goals",
+    "stakeholder alignment and buy-in"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Are you tapping into the community as a whole or are you listening to the loudest voices",
+    "COA gets in echo chambers way too often",
+    "focusing on broad-based community outreach",
+    "finding collaboration and partnerships in new opportunities not thought of yet",
+    "create opportunities to support those it has established, but always be looking for new opportunities",
+    "broad enough goal and mission to allow for this to take place",
+    "alignment and buy-in for the goals and missions from stakeholders"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "echo chambers",
+    "listening only to the loudest voices",
+    "lack of broad-based outreach"
+  ],
+  "solutions_proposed": [
+    "create opportunities to support those it has established, but always be looking for new opportunities for engagement",
+    "have a broad enough goal and mission to allow for new engagement",
+    "ensure alignment and buy-in for the goals and missions from stakeholders"
+  ],
+  "cached_at": "2025-06-20T10:30:55.438825",
+  "cache_key": "2b6269a11d3d609cc9b4b828eff05dc5c9b687742bd146ea5b3451c0ff118056",
+  "model": "gpt-41"
+}

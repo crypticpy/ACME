@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial sustainability for organizations",
+    "rent affordability and control",
+    "collaborative promotion and marketing",
+    "support for nonprofit organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding so they can stay afloat",
+    "rent control",
+    "joint promotions online and at events",
+    "sponsorship for nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "high rent costs",
+    "insufficient promotion",
+    "limited sponsorship for nonprofits"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "implement rent control",
+    "facilitate joint promotions online and at events",
+    "provide sponsorship for nonprofits"
+  ],
+  "cached_at": "2025-06-20T01:23:10.898289",
+  "cache_key": "452226a22405c84e8f43338232c2975af16b213546933f84a98c4197289f25e6",
+  "model": "gpt-41"
+}

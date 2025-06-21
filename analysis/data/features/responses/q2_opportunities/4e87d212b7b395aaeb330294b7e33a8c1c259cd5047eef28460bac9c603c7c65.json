@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Policy-based support for creative expression",
+    "Expanding creative freedom in public and commercial spaces",
+    "Holistic approaches to cultural participation",
+    "Reducing reliance on direct funding and grants",
+    "Enabling art in everyday environments"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "enable artists/designers/general citizens to express themselves through their environment",
+    "creative ways for that expression to be enabled through policy",
+    "not just on direct funding for specific artists and projects",
+    "advocate for or bring about new rules that give retailers & venues\u2026etc. more creative freedom in their signage",
+    "opportunities for art installations in everyday objects, like community mailboxes",
+    "greater permissiveness for stores/venues/civic buildings to spill out onto the sidewalk or street",
+    "more holistic approach to enabling the public to beautify the public realm",
+    "without needing to ask for permission or apply for a grant and receive money from a limited pot of funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Requirement to ask for permission or apply for a grant",
+    "Limited pot of funds for direct funding",
+    "Restrictive rules on signage and use of public/commercial space"
+  ],
+  "solutions_proposed": [
+    "Enable creative expression through policy changes",
+    "Advocate for new rules allowing more creative freedom in signage",
+    "Allow art installations in everyday objects like community mailboxes",
+    "Increase permissiveness for stores/venues/civic buildings to use sidewalks or streets for creative purposes",
+    "Adopt a holistic approach to public beautification that does not rely solely on grants"
+  ],
+  "cached_at": "2025-06-21T00:42:23.654039",
+  "cache_key": "4e87d212b7b395aaeb330294b7e33a8c1c259cd5047eef28460bac9c603c7c65",
+  "model": "gpt-41"
+}

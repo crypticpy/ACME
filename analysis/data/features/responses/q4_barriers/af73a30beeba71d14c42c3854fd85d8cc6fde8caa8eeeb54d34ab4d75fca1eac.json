@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of kid/baby-friendly events",
+    "high cost of childcare",
+    "distance from downtown as a barrier",
+    "exclusion of children from certain cultural events",
+    "positive example of kid-friendly screenings at movie theatres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "lack of kid/baby-friendly events",
+    "wildly high cost of childcare",
+    "living about 30 minutes from downtown Austin",
+    "a whole hour of childcare expense would just be to cover me traveling",
+    "with the prices of the tickets, it is not a priority/option right now",
+    "most of the time I WANT to bring my daughter",
+    "places (like the symphony) that a small child would be not necessarily welcome",
+    "movie theatres do screenings that are specifically for people bringing kids"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of kid/baby-friendly events",
+    "high cost of childcare",
+    "distance from downtown increases childcare costs",
+    "children not welcome at certain cultural events",
+    "ticket prices make attendance not a priority/option"
+  ],
+  "solutions_proposed": [
+    "offer more kid-specific shows at cultural venues",
+    "adopt practices like movie theatres that have kid-friendly screenings where interruptions are accepted"
+  ],
+  "cached_at": "2025-06-21T01:38:26.851766",
+  "cache_key": "af73a30beeba71d14c42c3854fd85d8cc6fde8caa8eeeb54d34ab4d75fca1eac",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "gatekeeping in funding processes",
+    "fairness and inclusivity",
+    "proactive monitoring of program administration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Stop any signs of gate keeping if they arise"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping"
+  ],
+  "solutions_proposed": [
+    "Stop any signs of gate keeping if they arise"
+  ],
+  "cached_at": "2025-06-21T01:16:44.748456",
+  "cache_key": "17b3daeed283b741d12bb155c86324de6a7e05c27fad0e7be0a97e356fb77f6e",
+  "model": "gpt-41"
+}

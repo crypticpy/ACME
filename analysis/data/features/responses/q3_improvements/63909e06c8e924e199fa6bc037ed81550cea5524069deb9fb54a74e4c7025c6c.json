@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "panelist expertise and relevance",
+    "misunderstanding of artistic expenses",
+    "budget allocation for public events",
+    "independent artist challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "application questions tend to be redundant",
+    "simplify them",
+    "bring panelists/judges who understand the art community",
+    "panelists have no idea of the expenses artists take on",
+    "the filmmaking process",
+    "positive cultural and financial impact",
+    "should not be expected that the free public event be a large part of our budget",
+    "we are independent artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "redundant application questions",
+    "panelists lacking understanding of art community and expenses",
+    "requirement for free public event to be a large part of budget"
+  ],
+  "solutions_proposed": [
+    "simplify application questions",
+    "select panelists/judges who understand the art community",
+    "adjust expectations for budget allocation to free public events"
+  ],
+  "cached_at": "2025-06-21T01:01:46.344554",
+  "cache_key": "63909e06c8e924e199fa6bc037ed81550cea5524069deb9fb54a74e4c7025c6c",
+  "model": "gpt-41"
+}

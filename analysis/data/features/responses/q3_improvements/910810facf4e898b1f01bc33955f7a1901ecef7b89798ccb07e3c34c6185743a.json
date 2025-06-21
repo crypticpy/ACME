@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "emphasis on artistic value in funding criteria",
+    "importance of professional experience and track record",
+    "prioritization of culturally specific programming",
+    "distinction between professionals and hobbyists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Score for artistic value",
+    "experience and proven track record of community service",
+    "audience impact",
+    "Prioritize culturally specific programming",
+    "by trained professionals not hobbyists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding may go to hobbyists rather than trained professionals"
+  ],
+  "solutions_proposed": [
+    "Score for artistic value",
+    "Score for experience and proven track record of community service",
+    "Prioritize culturally specific programming by trained professionals"
+  ],
+  "cached_at": "2025-06-21T01:06:20.968687",
+  "cache_key": "910810facf4e898b1f01bc33955f7a1901ecef7b89798ccb07e3c34c6185743a",
+  "model": "gpt-41"
+}

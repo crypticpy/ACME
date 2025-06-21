@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "redistribution of funding away from many groups",
+    "perceived favoritism toward select cultural groups",
+    "loss of support for minority and female-led organizations",
+    "community-wide negative impact of funding decisions",
+    "inequity in grant allocation",
+    "survival and thriving of smaller arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "frustrated that more recently ACME has taken funding from a large number of groups",
+    "focused on giving larger amounts to specific cultural groups while overlooking others",
+    "removing funding from Trouble Puppet and Glass Half Full, which is female minority owned and run",
+    "shows are highly awarded and focused in cultural and environmental themes",
+    "majority of the arts community come back empty handed last year",
+    "the community reeled and attempted to figure out what to do",
+    "sharing the wealth so that more groups can survive and attempt to thrive makes more sense"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Trouble Puppet",
+    "Glass Half Full"
+  ],
+  "barriers_identified": [
+    "removal of funding from minority and female-led organizations",
+    "overlooking of certain groups in funding decisions",
+    "majority of arts community left without support"
+  ],
+  "solutions_proposed": [
+    "sharing the wealth so that more groups can survive and attempt to thrive"
+  ],
+  "cached_at": "2025-06-20T10:25:52.667118",
+  "cache_key": "059c2237395e07521b0197b30210ce45bd89fdf73c9fbc4f03b355863a7af01b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for clearer differentiation between Thrive and Elevate programs",
+    "Concerns about panelist review process",
+    "Structural disadvantages for organizations serving broad audiences",
+    "Commitment to equity and representation in funding",
+    "Opposition to reintroduction of fiscal sponsorship and matching requirements",
+    "Barriers to accessibility in funding guidelines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Better differentiation between Thrive and Elevate",
+    "should never be reviewed by the same panelists",
+    "scoring rubrics need better differentiation",
+    "organizations whose mission is to serve a broad audience as disadvantages structurally",
+    "should not sacrifice commitment to equity",
+    "all orgs and artists should be able to see themselves reflected",
+    "DO NOT support reintroduction of required fiscal sponsorship nor matching requirements",
+    "known barriers to accessibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "Lack of differentiation in review and scoring processes",
+    "Structural disadvantages for organizations serving broad audiences",
+    "Potential reintroduction of fiscal sponsorship and matching requirements as barriers to accessibility"
+  ],
+  "solutions_proposed": [
+    "Differentiate review panels and scoring rubrics between Thrive and Elevate",
+    "Ensure guidelines do not structurally disadvantage organizations serving broad audiences",
+    "Do not reintroduce fiscal sponsorship or matching requirements without clear evidence of necessity",
+    "Maintain commitment to equity and ensure all organizations and artists are represented in funding programs"
+  ],
+  "cached_at": "2025-06-21T01:12:36.080159",
+  "cache_key": "74c902e10c434ff235fc11405926e41deba3f8ec1a3accb059e3faeda154b00d",
+  "model": "gpt-41"
+}

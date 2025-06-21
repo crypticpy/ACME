@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "lack of venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding and more venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "limited venue availability"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "provide more venues"
+  ],
+  "cached_at": "2025-06-20T10:32:07.703345",
+  "cache_key": "a0a8b43f8accc22aabd67ed39998c037cbbb53fe1d9800d46016278503baa29a",
+  "model": "gpt-41"
+}

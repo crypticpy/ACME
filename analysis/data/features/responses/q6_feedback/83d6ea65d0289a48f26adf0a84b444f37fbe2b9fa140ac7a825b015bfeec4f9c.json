@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial relief for artists and musicians",
+    "utility and tax support",
+    "family insurance needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "offer artists and musicians either a break on their city of Austin utilities bill",
+    "tax break on property taxes",
+    "insurance for our families"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high utility bills",
+    "property taxes",
+    "lack of insurance for families"
+  ],
+  "solutions_proposed": [
+    "break on city of Austin utilities bill for artists and musicians",
+    "tax break on property taxes for artists and musicians",
+    "insurance for artists' and musicians' families"
+  ],
+  "cached_at": "2025-06-21T02:18:23.737849",
+  "cache_key": "83d6ea65d0289a48f26adf0a84b444f37fbe2b9fa140ac7a825b015bfeec4f9c",
+  "model": "gpt-41"
+}

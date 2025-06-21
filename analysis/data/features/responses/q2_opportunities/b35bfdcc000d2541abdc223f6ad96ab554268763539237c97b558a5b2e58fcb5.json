@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of affordable rehearsal and performance spaces",
+    "need for city support in accessing existing spaces",
+    "utilization of AISD school facilities for arts groups",
+    "cost barriers for arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "biggest issues facing companies right now is rehearsal and performance spaces with reasonable rent",
+    "wish the city was doing more to help groups use current spaces",
+    "gyms or classrooms for AISD schools for reduced or no cost",
+    "given programming is provided for the school's community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable rehearsal and performance spaces",
+    "high rent costs for venues"
+  ],
+  "solutions_proposed": [
+    "city help groups use current spaces, like gyms or classrooms for AISD schools for reduced or no cost"
+  ],
+  "cached_at": "2025-06-21T00:34:43.908029",
+  "cache_key": "b35bfdcc000d2541abdc223f6ad96ab554268763539237c97b558a5b2e58fcb5",
+  "model": "gpt-41"
+}

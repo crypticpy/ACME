@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for new or independent classical music",
+    "interest in opera",
+    "interest in music theater",
+    "interest in song recitals"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "New/Indy-Classical music",
+    "opera",
+    "music theater",
+    "song recitals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more New/Indy-Classical music",
+    "offer more opera",
+    "offer more music theater",
+    "offer more song recitals"
+  ],
+  "cached_at": "2025-06-21T00:37:51.577627",
+  "cache_key": "994a419cc4f0db9ddbc89d4185523f117c3b66ca9309a127d13c8b226dffd2ca",
+  "model": "gpt-41"
+}

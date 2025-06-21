@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "frequent assessment of cultural needs",
+    "increasing family-friendly free events",
+    "accessibility for lower income residents",
+    "community building through music and film",
+    "year-round cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "surveying the cultural climate often",
+    "make more family friendly free events for lower income residents",
+    "I love the drop in and blues on the green",
+    "facilitates community thru music",
+    "free Cine las Americas screenings year round"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "the drop in",
+    "blues on the green",
+    "Cine las Americas"
+  ],
+  "barriers_identified": [
+    "lack of family friendly free events for lower income residents"
+  ],
+  "solutions_proposed": [
+    "surveying the cultural climate often",
+    "make more family friendly free events for lower income residents",
+    "more events like drop in and blues on the green",
+    "free Cine las Americas screenings year round"
+  ],
+  "cached_at": "2025-06-20T10:34:35.381577",
+  "cache_key": "091658bdb5f5603f06291eae7bf851462f3b4d3ea2e22a1cdaed709b3876b3b0",
+  "model": "gpt-41"
+}

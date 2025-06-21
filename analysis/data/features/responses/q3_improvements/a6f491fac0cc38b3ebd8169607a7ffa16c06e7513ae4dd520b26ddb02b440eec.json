@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "contextual decision-making",
+    "recognition of situational barriers",
+    "equity in approval processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "a more contextual approach to approvals",
+    "taking into account situational barriers",
+    "differences into account"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "situational barriers that aren\u2019t applicable to everyone"
+  ],
+  "solutions_proposed": [
+    "A more contextual approach to approvals that considers individual differences and situational barriers"
+  ],
+  "cached_at": "2025-06-21T01:17:19.879310",
+  "cache_key": "a6f491fac0cc38b3ebd8169607a7ffa16c06e7513ae4dd520b26ddb02b440eec",
+  "model": "gpt-41"
+}

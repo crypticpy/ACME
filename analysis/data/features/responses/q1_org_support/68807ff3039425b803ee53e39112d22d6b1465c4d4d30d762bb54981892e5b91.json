@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for accessible event information",
+    "support for muralists",
+    "prioritizing cultural funding over convention center projects",
+    "use of HOT tax for culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Post a free city wide listing of cultural events with a good search feature",
+    "Support muralists",
+    "Support culture instead of a new convention center or Cap n Stitch with HOT tax"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of centralized, accessible event listings",
+    "potential misallocation of HOT tax funds away from culture"
+  ],
+  "solutions_proposed": [
+    "Post a free city wide listing of cultural events with a good search feature",
+    "Support muralists",
+    "Support culture instead of a new convention center or Cap n Stitch with HOT tax"
+  ],
+  "cached_at": "2025-06-20T10:45:14.528021",
+  "cache_key": "68807ff3039425b803ee53e39112d22d6b1465c4d4d30d762bb54981892e5b91",
+  "model": "gpt-41"
+}

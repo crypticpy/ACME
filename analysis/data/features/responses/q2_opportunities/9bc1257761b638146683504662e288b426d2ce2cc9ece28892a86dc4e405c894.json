@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding grant opportunities beyond music",
+    "recognition of existing musician grants",
+    "support for visiting literary figures",
+    "interest in jazz and experimental music performances"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grants for artists outside of music",
+    "akin to NEXUS/City of Austin musician grants",
+    "which are a great step in the right direction! Please keep them going!",
+    "Larger-profile visiting authors",
+    "Jazz, experimental music performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "NEXUS",
+    "City of Austin musician grants"
+  ],
+  "barriers_identified": [
+    "lack of grant opportunities for non-music artists"
+  ],
+  "solutions_proposed": [
+    "Expand grants to artists outside of music",
+    "Continue existing musician grants",
+    "Bring in larger-profile visiting authors",
+    "Increase jazz and experimental music performances"
+  ],
+  "cached_at": "2025-06-21T00:29:45.271683",
+  "cache_key": "9bc1257761b638146683504662e288b426d2ce2cc9ece28892a86dc4e405c894",
+  "model": "gpt-41"
+}

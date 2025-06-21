@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased outreach",
+    "inadequate compensation",
+    "access to opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "put out more open calls",
+    "pay people more"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities to apply",
+    "insufficient pay"
+  ],
+  "solutions_proposed": [
+    "put out more open calls",
+    "pay people more"
+  ],
+  "cached_at": "2025-06-20T10:36:56.624717",
+  "cache_key": "da8b436d898ebc807bebd72e70197fb180d337d33240e107208c784346ca4f9a",
+  "model": "gpt-41"
+}

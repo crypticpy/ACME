@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "site-specific arts programming",
+    "arts access in underserved neighborhoods"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More site-specific work",
+    "arts opportunities that are taken directly into neighborhoods that are underserved"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underserved neighborhoods lack arts opportunities"
+  ],
+  "solutions_proposed": [
+    "More site-specific work",
+    "arts opportunities that are taken directly into neighborhoods that are underserved"
+  ],
+  "cached_at": "2025-06-21T00:33:59.792646",
+  "cache_key": "0cb34be58e6bedc1b2652454dbe4d1354f9b6fb2f1ad47ee74eccb96bbebfd42",
+  "model": "gpt-41"
+}

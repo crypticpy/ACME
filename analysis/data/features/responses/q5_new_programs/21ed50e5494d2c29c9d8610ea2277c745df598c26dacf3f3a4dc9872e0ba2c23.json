@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public awareness of local stories",
+    "artistic thinking as foundational for non-artistic professions",
+    "value of artistic skill transfer beyond the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "public awareness of locals\u2019 stories",
+    "artistic thinking/transfer of an artistic skill",
+    "foundational for success in work outside of what is traditionally considered artistic professions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness of the value of artistic skills in non-artistic fields"
+  ],
+  "solutions_proposed": [
+    "offer programs or services that increase public awareness of locals\u2019 stories about the foundational role of artistic thinking and skill transfer in diverse professions"
+  ],
+  "cached_at": "2025-06-21T02:05:22.766701",
+  "cache_key": "21ed50e5494d2c29c9d8610ea2277c745df598c26dacf3f3a4dc9872e0ba2c23",
+  "model": "gpt-41"
+}

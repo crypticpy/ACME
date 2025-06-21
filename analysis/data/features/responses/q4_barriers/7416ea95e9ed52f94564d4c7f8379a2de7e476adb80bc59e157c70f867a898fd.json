@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of services",
+    "high cost as a barrier to access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Awareness",
+    "Cost"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "cost"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:39.002553",
+  "cache_key": "7416ea95e9ed52f94564d4c7f8379a2de7e476adb80bc59e157c70f867a898fd",
+  "model": "gpt-41"
+}

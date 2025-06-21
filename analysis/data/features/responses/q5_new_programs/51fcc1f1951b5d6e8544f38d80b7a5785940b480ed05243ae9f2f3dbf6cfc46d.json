@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty with application process",
+    "lack of technology access or skills",
+    "barriers for low-income applicants",
+    "need for technical assistance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Easier Submission Application info",
+    "assisted Tech Help* filling out submission",
+    "requirements for low income and eligibility",
+    "Many low income People in need of grants are NOT tech/Computer Savvy",
+    "need help to apply"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex submission application process",
+    "lack of technology skills",
+    "lack of access to technical help",
+    "eligibility requirements unclear or difficult"
+  ],
+  "solutions_proposed": [
+    "Easier Submission Application info",
+    "assisted Tech Help filling out submission"
+  ],
+  "cached_at": "2025-06-21T02:03:27.713870",
+  "cache_key": "51fcc1f1951b5d6e8544f38d80b7a5785940b480ed05243ae9f2f3dbf6cfc46d",
+  "model": "gpt-41"
+}

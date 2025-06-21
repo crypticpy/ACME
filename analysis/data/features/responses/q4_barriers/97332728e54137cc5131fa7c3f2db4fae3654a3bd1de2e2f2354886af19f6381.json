@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "financial barriers to cultural participation",
+    "impact of rising housing prices on access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "financial barriers",
+    "rising housing prices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial barriers",
+    "rising housing prices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:26.772873",
+  "cache_key": "97332728e54137cc5131fa7c3f2db4fae3654a3bd1de2e2f2354886af19f6381",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of support for African American artists",
+    "inequity in grant funding",
+    "barriers despite application efforts"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "African American artists & culture is not being supported",
+    "even when applying for grants"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for African American artists even when applying for grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:45:52.486169",
+  "cache_key": "ce108fac45e591847bb825b01d0e14f56406b34654ea6f6503209c6047b99b1d",
+  "model": "gpt-41"
+}

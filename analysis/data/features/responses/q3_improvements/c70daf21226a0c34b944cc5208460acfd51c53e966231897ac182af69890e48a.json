@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist compensation by venues",
+    "lack of veteran-specific arts funding",
+    "inclusivity of grant opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more push to get venues to actually pay artists",
+    "I\u2019m a military veteran",
+    "never seen a 'veteran in the arts' grant here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues not paying artists",
+    "absence of veteran-specific arts grants"
+  ],
+  "solutions_proposed": [
+    "encourage venues to pay artists",
+    "create a 'veteran in the arts' grant"
+  ],
+  "cached_at": "2025-06-21T01:00:09.840172",
+  "cache_key": "c70daf21226a0c34b944cc5208460acfd51c53e966231897ac182af69890e48a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of arts opportunities",
+    "support for underrepresented voices",
+    "community-centered cultural events",
+    "affordability in the arts",
+    "interactive and participatory programming",
+    "public space utilization for arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "artist still finding my place in Austin",
+    "more accessible opportunities",
+    "pop-up exhibitions",
+    "affordable art fairs",
+    "city-sponsored showcases that welcome underrepresented voices",
+    "community-centered events in public spaces",
+    "cultural storytelling through art",
+    "interactive workshops",
+    "foster deeper connections between artists and the public"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible opportunities",
+    "insufficient support for underrepresented voices",
+    "limited affordability"
+  ],
+  "solutions_proposed": [
+    "pop-up exhibitions",
+    "affordable art fairs",
+    "city-sponsored showcases for underrepresented voices",
+    "community-centered events in public spaces",
+    "cultural storytelling through art",
+    "interactive workshops"
+  ],
+  "cached_at": "2025-06-21T00:53:04.314884",
+  "cache_key": "c1499d0447f3c91ae45b22e39cfba28d7b19b792acf01d0d3fe7b842fddc097e",
+  "model": "gpt-41"
+}

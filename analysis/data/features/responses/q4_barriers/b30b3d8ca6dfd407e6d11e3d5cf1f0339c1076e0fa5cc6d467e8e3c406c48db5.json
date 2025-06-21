@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of time as a barrier",
+    "need for child-friendly spaces and events",
+    "geographic distance from events",
+    "insufficient information about events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Time",
+    "child friendly spaces and events",
+    "distance from my community",
+    "information on events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of time",
+    "absence of child-friendly spaces and events",
+    "distance from community to events",
+    "lack of information on events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:41.166581",
+  "cache_key": "b30b3d8ca6dfd407e6d11e3d5cf1f0339c1076e0fa5cc6d467e8e3c406c48db5",
+  "model": "gpt-41"
+}

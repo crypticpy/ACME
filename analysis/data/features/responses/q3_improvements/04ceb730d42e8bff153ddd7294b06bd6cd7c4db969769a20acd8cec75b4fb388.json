@@ -1,0 +1,62 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "admiration for program innovations (Thrive, Elevate)",
+    "critique of application management and portal usability",
+    "panel process inconsistencies and need for equity training",
+    "opposition to match requirements and budget restrictions",
+    "support for economic mobility for marginalized and emerging artists",
+    "role and limitations of fiscal sponsorship",
+    "sequencing and structure of funding opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "so much respect and see so many AMAZING elements of the funding programs now",
+    "No match, no budget restrictions, centering community based orgs, representative leadership, and historical significance to marginalized communities was groundbreaking",
+    "The NEA ArtsHERE program was practically modeled after Thrive!",
+    "I am not sure the Long Center is very effective at managing the application and money distribution part",
+    "The application portal should be more user friendly! User centered design at the forefront",
+    "Panel process and training needs quite a bit of refinement",
+    "Thrive should all be the same panelists, having completely separate panel groups scoring for the same competitive grant is rife with discrepancies",
+    "Panelist training on equity (especially economic equity issues within Austin) and local conditions needs to be CENTRAL",
+    "Fiscal Sponsorship is a GREAT resource and should be optional but NOT required",
+    "Match requirements are not a good idea",
+    "Economic mobility for emerging and low income artists and small/mid-sized orgs needs to be a focus everywhere for ACME",
+    "we are hemorrhaging local artists and community-led and focused small arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive",
+    "Elevate",
+    "NEA ArtsHERE",
+    "TCA",
+    "ACME"
+  ],
+  "barriers_identified": [
+    "unresponsive and unhelpful application management (Long Center)",
+    "confusing and poorly designed application portal",
+    "inconsistent panel sizes and processes",
+    "required fiscal sponsorship",
+    "match requirements for grants",
+    "lack of economic mobility for emerging and low income artists and small/mid-sized orgs"
+  ],
+  "solutions_proposed": [
+    "improve user-centered design of the application portal",
+    "refine panel process and ensure consistent panel sizes",
+    "require same panelists for Thrive to avoid scoring discrepancies",
+    "centralize panelist training on equity and local conditions",
+    "make fiscal sponsorship optional, not required",
+    "eliminate or allow 100% in-kind match requirements",
+    "focus on economic mobility for emerging and low income artists and small/mid-sized orgs",
+    "consider sequencing Elevate before Thrive, with Thrive as supplemental funding",
+    "implement a two-stage panel process (prelim and finalist) with applicant Q&A",
+    "long-term discussion on improving the Thrive cohort model"
+  ],
+  "cached_at": "2025-06-21T00:57:33.257712",
+  "cache_key": "04ceb730d42e8bff153ddd7294b06bd6cd7c4db969769a20acd8cec75b4fb388",
+  "model": "gpt-41"
+}

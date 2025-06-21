@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in performing arts",
+    "desire for more theater",
+    "desire for more dance events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "plays and dances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more plays",
+    "more dances"
+  ],
+  "cached_at": "2025-06-21T00:51:06.843594",
+  "cache_key": "58b54aeb4f516eb4ab705be6e7a9d51b2db94e9d4ea908fb6d19527b90f5608a",
+  "model": "gpt-41"
+}

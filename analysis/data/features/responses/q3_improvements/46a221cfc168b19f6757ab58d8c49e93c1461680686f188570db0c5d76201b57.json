@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for grant writing resources",
+    "clarity on successful grant processes",
+    "support for applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more resources on how to write these grants",
+    "what a successful process looks like",
+    "could help a ton"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources on grant writing",
+    "uncertainty about successful application processes"
+  ],
+  "solutions_proposed": [
+    "provide more resources on how to write grants",
+    "offer guidance on what a successful process looks like"
+  ],
+  "cached_at": "2025-06-21T01:02:08.391898",
+  "cache_key": "46a221cfc168b19f6757ab58d8c49e93c1461680686f188570db0c5d76201b57",
+  "model": "gpt-41"
+}

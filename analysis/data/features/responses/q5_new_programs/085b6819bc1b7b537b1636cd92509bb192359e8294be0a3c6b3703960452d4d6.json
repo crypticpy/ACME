@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for grant applicants",
+    "value of informational sessions",
+    "continuity of existing services"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Keep offering office hours",
+    "presentations to help with grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue providing office hours and presentations to assist with grants"
+  ],
+  "cached_at": "2025-06-21T02:08:34.005356",
+  "cache_key": "085b6819bc1b7b537b1636cd92509bb192359e8294be0a3c6b3703960452d4d6",
+  "model": "gpt-41"
+}

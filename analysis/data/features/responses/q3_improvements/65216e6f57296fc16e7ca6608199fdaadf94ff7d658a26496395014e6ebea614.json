@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for direct support of artist-led and community-rooted organizations",
+    "Distrust of external consultants and institutions not accountable to local communities",
+    "Call for transparency and streamlined processes in funding",
+    "Demand for multi-year and general operating support",
+    "Emphasis on accessibility, cultural equity, and sustainability for marginalized groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More direct support for artist-led and community-rooted organizations",
+    "trust and invest in existing cultural leaders",
+    "not create new gatekeeping structures",
+    "not redirect resources to outside consultants and institutions",
+    "transparent decision-making",
+    "streamlined application processes",
+    "more multi-year or general operating support",
+    "Prioritize accessibility, cultural equity, and the sustainability of organizations already serving Austin\u2019s BIPOC, working-class, immigrant, and displaced artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "New gatekeeping structures",
+    "Resources redirected to outside consultants and institutions not led by or accountable to Austin\u2019s creative communities",
+    "Lack of transparency in decision-making",
+    "Cumbersome application processes",
+    "Overreliance on project-based grants",
+    "Insufficient support for BIPOC, working-class, immigrant, and displaced artists"
+  ],
+  "solutions_proposed": [
+    "Provide more direct support for artist-led and community-rooted organizations",
+    "Trust and invest in existing cultural leaders",
+    "Avoid creating new gatekeeping structures",
+    "Do not redirect resources to outside consultants and institutions",
+    "Implement transparent decision-making",
+    "Streamline application processes",
+    "Offer more multi-year or general operating support",
+    "Prioritize accessibility, cultural equity, and sustainability for organizations serving marginalized communities"
+  ],
+  "cached_at": "2025-06-21T01:00:55.318113",
+  "cache_key": "65216e6f57296fc16e7ca6608199fdaadf94ff7d658a26496395014e6ebea614",
+  "model": "gpt-41"
+}

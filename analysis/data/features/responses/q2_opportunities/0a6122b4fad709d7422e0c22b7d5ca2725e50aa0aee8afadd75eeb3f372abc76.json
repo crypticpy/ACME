@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for existing cultural organizations",
+    "preservation of film and arts institutions",
+    "importance of festivals and cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Keep Austin Film Society alive",
+    "countless other cultural events and festivals please"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Film Society"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Keep Austin Film Society alive",
+    "Preserve cultural events and festivals"
+  ],
+  "cached_at": "2025-06-21T00:39:09.827349",
+  "cache_key": "0a6122b4fad709d7422e0c22b7d5ca2725e50aa0aee8afadd75eeb3f372abc76",
+  "model": "gpt-41"
+}

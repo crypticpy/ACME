@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "uncertainty about ACME's future actions",
+    "expectation of addressing major concerns",
+    "early stage of program implementation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "a littel too early to tell what ACME will do",
+    "I'd like to think that it will address a lot of our major concerns"
+  ],
+  "intent": "expectation_setting",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:12:12.775663",
+  "cache_key": "483afaf5a6edde5a72bef2021111c6c2be49357dabc9ae62c507babf67f06228",
+  "model": "gpt-41"
+}

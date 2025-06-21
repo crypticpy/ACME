@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "educating new administration members",
+    "preservation of artistic and cultural identity",
+    "institutional memory"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "inform and educate new members",
+    "history of artistic and cultural identity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness among new administration members"
+  ],
+  "solutions_proposed": [
+    "inform and educate new members of different administrations about the history of artistic and cultural identity"
+  ],
+  "cached_at": "2025-06-21T02:11:28.730940",
+  "cache_key": "42664dc9e773593e151eaeb7f592d430180c2b89d7955e3ad2a147a9c960424e",
+  "model": "gpt-41"
+}

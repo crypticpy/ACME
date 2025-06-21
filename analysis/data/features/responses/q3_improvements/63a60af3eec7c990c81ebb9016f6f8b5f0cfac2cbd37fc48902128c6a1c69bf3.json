@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "need for coordinated effort",
+    "increasing exposure of programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more of a coordinated effort",
+    "more exposure"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of coordination",
+    "insufficient exposure"
+  ],
+  "solutions_proposed": [
+    "more of a coordinated effort",
+    "more exposure"
+  ],
+  "cached_at": "2025-06-21T01:13:49.603797",
+  "cache_key": "63a60af3eec7c990c81ebb9016f6f8b5f0cfac2cbd37fc48902128c6a1c69bf3",
+  "model": "gpt-41"
+}

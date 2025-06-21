@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistency in review process",
+    "confusing application system",
+    "technical issues with portal",
+    "insufficient applicant support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "review process varies widely year-by-year",
+    "application, portal, and support system for applicants are confusing",
+    "full of bugs that hinder applications"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "confusing application process",
+    "technical bugs in portal",
+    "lack of consistent support system"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:17:29.649826",
+  "cache_key": "422d3e9f3f246860bdb0ee16c4bb7b66089be395f88daf343e457428655a33e2",
+  "model": "gpt-41"
+}

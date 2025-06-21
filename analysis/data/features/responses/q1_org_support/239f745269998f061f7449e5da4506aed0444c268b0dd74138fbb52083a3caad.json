@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability for artists",
+    "financial support for creative individuals",
+    "cost of living in Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding for artists and creative people",
+    "afford to continue living in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford living in Austin"
+  ],
+  "solutions_proposed": [
+    "provide funding for artists and creative people"
+  ],
+  "cached_at": "2025-06-20T10:45:16.598676",
+  "cache_key": "239f745269998f061f7449e5da4506aed0444c268b0dd74138fbb52083a3caad",
+  "model": "gpt-41"
+}

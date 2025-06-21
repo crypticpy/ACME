@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived misalignment of funding priorities",
+    "lack of future-oriented grantmaking",
+    "questioning community-wide benefit of funding allocations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "City funding prioritizing identity over art is the big problem",
+    "grant programs don't build for the future",
+    "it's hard to see how the entire community benefits"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding prioritizes identity over artistic merit",
+    "grant programs lack future-oriented planning",
+    "lack of clear community-wide benefit from funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:06.218783",
+  "cache_key": "eb410e297e2362615a285e165223b6b87cb29aa3b8a8adb8867bd404b4e64965",
+  "model": "gpt-41"
+}

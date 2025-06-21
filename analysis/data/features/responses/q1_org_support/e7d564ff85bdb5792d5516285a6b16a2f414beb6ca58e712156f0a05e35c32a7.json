@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased funding",
+    "direct financial support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding baby!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [
+    "provide more funding"
+  ],
+  "cached_at": "2025-06-20T10:32:03.290320",
+  "cache_key": "e7d564ff85bdb5792d5516285a6b16a2f414beb6ca58e712156f0a05e35c32a7",
+  "model": "gpt-41"
+}

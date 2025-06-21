@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of underrepresented communities",
+    "promotion of diversity",
+    "representation in cultural support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "wide variety of underrepresented communities",
+    "included and promoted"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusion of underrepresented communities"
+  ],
+  "solutions_proposed": [
+    "ensure that a wide variety of underrepresented communities are included and promoted"
+  ],
+  "cached_at": "2025-06-20T10:25:32.559311",
+  "cache_key": "ae4add4d7aa64c7a3dc8f38c1a802cfa17ac80d2692088b22e97d8f9cc957d55",
+  "model": "gpt-41"
+}

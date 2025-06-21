@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local artists",
+    "emphasis on cultural and historical uniqueness",
+    "desire for arts that reflect Austin's identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities for local artists",
+    "arts that build on cultural and historical aspects",
+    "make Austin unique"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more opportunities for local artists",
+    "more arts that build on cultural and historical aspects that make Austin unique"
+  ],
+  "cached_at": "2025-06-21T00:33:48.550695",
+  "cache_key": "25f3da69f2d6f2db17bb248fa47e3bd69c3b9522c308ada51a21474aea618881",
+  "model": "gpt-41"
+}

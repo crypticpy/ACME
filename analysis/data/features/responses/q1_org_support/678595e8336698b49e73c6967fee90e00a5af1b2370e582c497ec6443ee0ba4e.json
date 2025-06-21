@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "centrality of arts nonprofits to Austin's culture",
+    "need for strategic prioritization of arts nonprofits",
+    "opportunity for organizational transformation",
+    "desire for improved collaboration over dysfunction"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Arts nonprofits are the core of cultural life in Austin",
+    "They should be central to the City's strategy going forward",
+    "ACME has a great opportunity to transform dysfunction into collaboration"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dysfunction (implied within ACME or the sector)"
+  ],
+  "solutions_proposed": [
+    "make arts nonprofits central to the City's strategy",
+    "transform dysfunction into collaboration"
+  ],
+  "cached_at": "2025-06-20T10:33:31.168603",
+  "cache_key": "678595e8336698b49e73c6967fee90e00a5af1b2370e582c497ec6443ee0ba4e",
+  "model": "gpt-41"
+}

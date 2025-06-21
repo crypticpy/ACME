@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Spanish-language theater",
+    "Children's cultural programming",
+    "Cultural representation for Spanish speakers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Teatro en espa\u00f1ol para ni\u00f1os"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More Spanish-language theater for children"
+  ],
+  "cached_at": "2025-06-21T00:42:55.386877",
+  "cache_key": "0c5b36099e90dadd56f007af5e4e4f012b87a9a3ac7f191d8d4717d08d130a7f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Escalating construction costs impacting art funding",
+    "Concerns about proportional spending on art in large projects",
+    "Need for financial limits or caps on AIPP allocations",
+    "Proposal to redirect some funds to maintenance and smaller projects",
+    "Call for a complete overhaul of the AIPP program"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "watching the drama over the art at the new airport",
+    "the amount set aside for AIPP in a new build/construction is based on a % of the total budget",
+    "escalating prices in construction material",
+    "better for the City to say a % of the budget with a not to exceed amount for AIPP",
+    "some % goes into 'savings' to help with maintenance, repairs and perhaps purchasing AIPP in other smaller, lower-budgeted projects",
+    "with some of these larger projects, you are spending SO MUCH on the art, that you have to scale back in the design or construction of the project",
+    "the entire AIPP program needs to be completely overhauled"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "Escalating construction costs reducing funds for other project needs",
+    "Overspending on art in large projects leading to cutbacks in design or construction"
+  ],
+  "solutions_proposed": [
+    "Set a not-to-exceed cap on AIPP allocations",
+    "Redirect a percentage of AIPP funds into savings for maintenance, repairs, or smaller projects",
+    "Completely overhaul the AIPP program"
+  ],
+  "cached_at": "2025-06-21T02:22:22.096356",
+  "cache_key": "8ec5e29685b7ea1abd614aa24c22ffd3e20b8ac31e01f3fe0f57e5ac7ea0b38e",
+  "model": "gpt-41"
+}

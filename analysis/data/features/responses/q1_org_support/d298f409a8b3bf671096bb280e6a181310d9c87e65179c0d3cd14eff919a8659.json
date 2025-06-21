@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about entitlement in funding or recognition",
+    "emphasis on professionalism in arts",
+    "desire for recognition of community-serving professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Prioritize professionalism, not entitlement",
+    "Honor those of us who have devoted ourselves to serving the community",
+    "professional arts experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived entitlement undermining professionalism",
+    "lack of recognition for community-serving professionals"
+  ],
+  "solutions_proposed": [
+    "prioritize professionalism over entitlement",
+    "honor those devoted to serving the community with professional arts experiences"
+  ],
+  "cached_at": "2025-06-20T01:22:50.696243",
+  "cache_key": "d298f409a8b3bf671096bb280e6a181310d9c87e65179c0d3cd14eff919a8659",
+  "model": "gpt-41"
+}

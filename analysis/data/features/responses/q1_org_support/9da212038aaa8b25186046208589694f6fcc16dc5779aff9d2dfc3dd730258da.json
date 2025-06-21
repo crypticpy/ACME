@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "redistributive funding",
+    "tax policy",
+    "wealth inequality"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Tax the rich"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Tax the rich"
+  ],
+  "cached_at": "2025-06-20T10:26:12.329729",
+  "cache_key": "9da212038aaa8b25186046208589694f6fcc16dc5779aff9d2dfc3dd730258da",
+  "model": "gpt-41"
+}

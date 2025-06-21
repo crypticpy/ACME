@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic eligibility for funding",
+    "sudden elimination of funding",
+    "lack of communication about funding changes",
+    "impact on long-serving arts groups",
+    "wasted volunteer and artist resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "only funding artists/groups who are active within the Austin city limits",
+    "eliminating funding opportunities without warning for long-serving arts groups",
+    "hurts the arts community and the artists who depend on them",
+    "let them know ahead of time they are not eligible",
+    "wasting valuable time and resources of people who volunteer their time for the community, or work for minimal wages"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "elimination of funding without warning",
+    "lack of advance notice of ineligibility",
+    "wasted time and resources for applicants"
+  ],
+  "solutions_proposed": [
+    "only fund artists/groups active within Austin city limits",
+    "provide advance notice to groups that are no longer eligible for funding"
+  ],
+  "cached_at": "2025-06-21T02:20:27.467164",
+  "cache_key": "a56a7def4f716fa64b5cc53d7a687495da4c659c81072d0be75e14e403fa8853",
+  "model": "gpt-41"
+}

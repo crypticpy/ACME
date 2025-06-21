@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of museums",
+    "overcrowding during free events",
+    "insufficient frequency of free cultural opportunities",
+    "benefits for families and children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More free museum days or public galleries",
+    "On free day, the museums are always super packed",
+    "Once a year isn't enough",
+    "Families especially benefit because they can bring kids"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overcrowding during free museum days",
+    "limited frequency of free access"
+  ],
+  "solutions_proposed": [
+    "increase the number of free museum days or public gallery events"
+  ],
+  "cached_at": "2025-06-21T00:45:03.168785",
+  "cache_key": "0d3603770714f587f8f7bc80de71ab75cd94488129836f6b1d14cbe0b1d8257c",
+  "model": "gpt-41"
+}

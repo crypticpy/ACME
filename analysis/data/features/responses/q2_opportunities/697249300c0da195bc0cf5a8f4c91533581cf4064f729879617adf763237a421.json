@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging musicians",
+    "need for free outdoor live music events",
+    "accessibility of booking for performers",
+    "overreliance on bars as music venues",
+    "youth exclusion from live music"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "nurture emerging musicians",
+    "regular free, outdoor live music events at city parks",
+    "easily accessible booking through a city website",
+    "live music is too focused on bars",
+    "prevents young people from playing or listening"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "live music is too focused on bars",
+    "prevents young people from playing or listening"
+  ],
+  "solutions_proposed": [
+    "regular free, outdoor live music events at city parks",
+    "easily accessible booking through a city website"
+  ],
+  "cached_at": "2025-06-21T00:36:07.489460",
+  "cache_key": "697249300c0da195bc0cf5a8f4c91533581cf4064f729879617adf763237a421",
+  "model": "gpt-41"
+}

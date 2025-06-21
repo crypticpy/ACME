@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant funding for musicians",
+    "support for album production",
+    "support for touring musicians",
+    "benefits to local music scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Provide grants for musicians working on albums and going on tour",
+    "It benefits the Austin music scene when musicians from here can tour to other places"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide grants for musicians working on albums",
+    "Provide grants for musicians going on tour"
+  ],
+  "cached_at": "2025-06-21T01:55:03.063393",
+  "cache_key": "54994c66490d085f10f76922703bdfde5faf964e3e03a6077d7f87afe83cac06",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived lack of responsiveness from City of Austin",
+    "bureaucratic obstacles and slow action",
+    "insufficient funding and organizational closures",
+    "language and cultural communication barriers",
+    "ineffectiveness of public engagement (Arts Commission meetings)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "our concerns and needs are dismissed",
+    "no one in CoA is listening to any of us",
+    "so much red tape and dragging of feet",
+    "companies fold for lack of funding and support",
+    "communication in their preferred language is a huge issue",
+    "feels like wheels are just spinning with no good outcomes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dismissal of community concerns by City of Austin",
+    "bureaucratic red tape and slow response to problems",
+    "lack of funding and support leading to organizational closures",
+    "inadequate communication in preferred languages for diverse communities",
+    "perceived ineffectiveness of participation in Arts Commission meetings"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:06.968893",
+  "cache_key": "426e19a0e2e84b68a3107ce0d17d7c144146600aa07a490c7b1e004f56f28c77",
+  "model": "gpt-41"
+}

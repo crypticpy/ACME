@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more jazz music events",
+    "interest in classical music offerings",
+    "preference for educational and inspirational events",
+    "connection to broader history or culture",
+    "interest in hip hop music",
+    "interest in world music"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Jazz music",
+    "classical music",
+    "events that aren\u2019t just 'a show' but serve to educate / inspire / or connect to a broader history or culture",
+    "Hip hop music",
+    "World music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more jazz music events",
+    "Offer more classical music events",
+    "Create events that educate, inspire, or connect to broader history or culture",
+    "Offer more hip hop music events",
+    "Offer more world music events"
+  ],
+  "cached_at": "2025-06-21T00:47:50.224433",
+  "cache_key": "63c4d88556224989abdfe55da36ad7b83bfd1c82073019a9c70240494636aebe",
+  "model": "gpt-41"
+}

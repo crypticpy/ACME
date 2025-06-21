@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "post-pandemic challenges for yoga culture",
+    "need for support to sustain cultural communities",
+    "importance of neighborhood cultural and musical programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Austin has a rich yoga culture",
+    "difficult to sustain post pandemic",
+    "help would be welcomed",
+    "communities can thrive",
+    "continue to offer the cultural and musical programming"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty sustaining yoga culture post pandemic"
+  ],
+  "solutions_proposed": [
+    "help would be welcomed so these communities can thrive"
+  ],
+  "cached_at": "2025-06-21T01:02:10.726661",
+  "cache_key": "59c29465e72efeecc415357026bb41ce5b0949da13b26753495d45d673eab2bc",
+  "model": "gpt-41"
+}

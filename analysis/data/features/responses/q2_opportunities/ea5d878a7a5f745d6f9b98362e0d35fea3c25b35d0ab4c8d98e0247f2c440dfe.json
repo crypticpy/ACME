@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more blues music",
+    "interest in specific music genres"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Blues music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for blues music"
+  ],
+  "cached_at": "2025-06-21T00:34:10.861121",
+  "cache_key": "ea5d878a7a5f745d6f9b98362e0d35fea3c25b35d0ab4c8d98e0247f2c440dfe",
+  "model": "gpt-41"
+}

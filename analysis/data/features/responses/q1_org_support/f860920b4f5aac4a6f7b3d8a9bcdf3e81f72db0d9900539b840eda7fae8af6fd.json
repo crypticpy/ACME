@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "empowerment of organizations and leaders",
+    "collaborative partnerships",
+    "opposition to controlling practices",
+    "comparison to EDD's approach"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Collaborate and empower them with serious partnerships",
+    "Don't try to control us like EDD did"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "EDD"
+  ],
+  "barriers_identified": [
+    "controlling practices by funders"
+  ],
+  "solutions_proposed": [
+    "collaborate and empower organizations with serious partnerships",
+    "avoid controlling organizations as EDD did"
+  ],
+  "cached_at": "2025-06-20T10:21:13.522914",
+  "cache_key": "f860920b4f5aac4a6f7b3d8a9bcdf3e81f72db0d9900539b840eda7fae8af6fd",
+  "model": "gpt-41"
+}

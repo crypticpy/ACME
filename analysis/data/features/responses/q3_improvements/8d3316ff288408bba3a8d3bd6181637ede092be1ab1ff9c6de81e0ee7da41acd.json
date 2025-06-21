@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to Hispanic arts community",
+    "awareness of funding opportunities",
+    "inclusivity in program communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "much more widely known",
+    "Hispanic arts community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness among Hispanic arts community"
+  ],
+  "solutions_proposed": [
+    "increase outreach and publicity to the Hispanic arts community"
+  ],
+  "cached_at": "2025-06-21T00:56:58.375147",
+  "cache_key": "8d3316ff288408bba3a8d3bd6181637ede092be1ab1ff9c6de81e0ee7da41acd",
+  "model": "gpt-41"
+}

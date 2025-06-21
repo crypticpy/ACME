@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "separation of funding for musicians and organizations",
+    "increased support for individual musicians",
+    "award distribution structure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More awards for Musicians separate from Organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of distinct funding opportunities for musicians"
+  ],
+  "solutions_proposed": [
+    "More awards for Musicians separate from Organizations"
+  ],
+  "cached_at": "2025-06-21T01:00:41.386538",
+  "cache_key": "62e25aeaaaa591b26316aa9139851b36f406233e94de2ebdc34e0128775fb33a",
+  "model": "gpt-41"
+}

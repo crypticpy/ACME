@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion from funding",
+    "lack of recognition for long-term artists",
+    "erosion of support for innovative and inclusive art"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "have been creating here in Austin for decades",
+    "denied funding these past few years",
+    "honoring of artistic practice and inclusive pioneering visionary work has been forgotten"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "denial of funding for long-term artists",
+    "lack of recognition for inclusive and visionary work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:36.809738",
+  "cache_key": "d62e42bc72de8f92cd7fc01eaf84328617b8b818f2610de7079813e91c38547f",
+  "model": "gpt-41"
+}

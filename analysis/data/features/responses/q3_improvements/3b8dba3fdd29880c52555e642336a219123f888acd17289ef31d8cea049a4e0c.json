@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "interest in program information",
+    "support for project manager development",
+    "resource allocation for staff"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I\u2019d like to learn more about the creative space assistance program",
+    "project managers who work with citizens receive more funding for training and resource allocation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "creative space assistance program"
+  ],
+  "barriers_identified": [
+    "lack of information about programs",
+    "insufficient funding for project manager training and resources"
+  ],
+  "solutions_proposed": [
+    "provide more information about the creative space assistance program",
+    "increase funding for project manager training and resource allocation"
+  ],
+  "cached_at": "2025-06-21T01:01:11.833847",
+  "cache_key": "3b8dba3fdd29880c52555e642336a219123f888acd17289ef31d8cea049a4e0c",
+  "model": "gpt-41"
+}

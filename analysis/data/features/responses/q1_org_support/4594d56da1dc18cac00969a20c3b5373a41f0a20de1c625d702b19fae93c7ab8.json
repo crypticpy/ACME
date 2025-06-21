@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding for organizations",
+    "innovation in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Better funding",
+    "more innovative programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Better funding",
+    "more innovative programming"
+  ],
+  "cached_at": "2025-06-20T10:39:47.365519",
+  "cache_key": "4594d56da1dc18cac00969a20c3b5373a41f0a20de1c625d702b19fae93c7ab8",
+  "model": "gpt-41"
+}

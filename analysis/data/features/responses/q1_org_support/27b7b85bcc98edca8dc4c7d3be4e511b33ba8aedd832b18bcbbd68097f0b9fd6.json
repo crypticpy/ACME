@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "prioritizing support for existing organizations",
+    "job sustainability and growth",
+    "resource allocation concerns",
+    "skepticism toward funding new, unproven initiatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "existing organizations are the backbone",
+    "easier to sustain and grow jobs through strengthening existing orgs",
+    "rather than incentivizing everyone to create something new and unproven",
+    "stretching resources thin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "resources stretched thin by supporting too many new, unproven initiatives"
+  ],
+  "solutions_proposed": [
+    "strengthen existing organizations rather than incentivizing new, unproven ones"
+  ],
+  "cached_at": "2025-06-20T10:35:53.969244",
+  "cache_key": "27b7b85bcc98edca8dc4c7d3be4e511b33ba8aedd832b18bcbbd68097f0b9fd6",
+  "model": "gpt-41"
+}

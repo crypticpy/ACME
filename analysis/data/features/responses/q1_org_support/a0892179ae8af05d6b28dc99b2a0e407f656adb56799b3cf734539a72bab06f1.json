@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased grant funding",
+    "peer support networks",
+    "professional development opportunities",
+    "collaborative initiatives",
+    "reducing competition",
+    "community building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grants",
+    "facilitiating peer support networks",
+    "professional development training",
+    "promoting collaborations",
+    "reducing competition",
+    "fostering community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition",
+    "lack of community"
+  ],
+  "solutions_proposed": [
+    "Grants",
+    "facilitiating peer support networks",
+    "professional development training",
+    "promoting collaborations",
+    "reducing competition",
+    "fostering community"
+  ],
+  "cached_at": "2025-06-20T10:23:13.018849",
+  "cache_key": "a0892179ae8af05d6b28dc99b2a0e407f656adb56799b3cf734539a72bab06f1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Need for direct engagement by city officials with the visual arts community",
+    "Importance of understanding the diversity and complexity of local art",
+    "Critique of tourism-focused cultural policy",
+    "Distinction between art as culture versus art as entertainment",
+    "Value of a thriving, inclusive art ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "should actually attend visual arts events, openings and exhibitions in person",
+    "learn more about the complexity and diversity of visual art in Austin",
+    "get to know the community face to face",
+    "have an informed and invested interest in what they need on their own terms",
+    "Attracting tourism is not in the same arena as really great or cutting edge art",
+    "Art isn't entertainment, it's culture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME",
+    "City Arts Council",
+    "Economic Development"
+  ],
+  "barriers_identified": [
+    "Lack of direct engagement by city officials with the arts community",
+    "Overemphasis on tourism rather than authentic cultural development"
+  ],
+  "solutions_proposed": [
+    "City officials should attend visual arts events, openings, and exhibitions in person",
+    "Develop a more informed, invested interest in the needs of artists on their own terms",
+    "Recognize and support the full expanse and diversity of the local art ecosystem"
+  ],
+  "cached_at": "2025-06-20T10:33:04.595710",
+  "cache_key": "6d0b37329c63789aaabdc6968ddf760b2299cc3453e3154f83ead18cf5b5e554",
+  "model": "gpt-41"
+}

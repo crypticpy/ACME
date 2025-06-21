@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for low-income children",
+    "access to art programs",
+    "grant opportunities for youth",
+    "community-based arts engagement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "opportunities and grants for children of low income backgrounds",
+    "art programs in the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to art programs for children of low income backgrounds"
+  ],
+  "solutions_proposed": [
+    "providing opportunities and grants for children of low income backgrounds for art programs"
+  ],
+  "cached_at": "2025-06-21T02:02:27.505031",
+  "cache_key": "d58634076951aed32e2b0e8564623c780cc6ec7f6918b45667f9a36b757bd719",
+  "model": "gpt-41"
+}

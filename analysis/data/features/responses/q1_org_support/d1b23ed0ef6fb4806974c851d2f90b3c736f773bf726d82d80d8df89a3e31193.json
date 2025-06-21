@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "streamlining resource access",
+    "affordable practice spaces for emerging artists",
+    "accessible arts programming for children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "making resource finding, booking, information gathering more streamlined and clear",
+    "providing low cost spaces for emerging artists and community members to practice their chosen art forms",
+    "making low cost or free opportunities for arts programming for children"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of streamlined and clear resource finding, booking, and information gathering",
+    "insufficient low cost spaces for emerging artists and community members",
+    "limited low cost or free opportunities for children's arts programming"
+  ],
+  "solutions_proposed": [
+    "streamline and clarify resource finding, booking, and information gathering",
+    "provide low cost spaces for emerging artists and community members",
+    "offer low cost or free arts programming opportunities for children"
+  ],
+  "cached_at": "2025-06-20T10:43:21.733439",
+  "cache_key": "d1b23ed0ef6fb4806974c851d2f90b3c736f773bf726d82d80d8df89a3e31193",
+  "model": "gpt-41"
+}

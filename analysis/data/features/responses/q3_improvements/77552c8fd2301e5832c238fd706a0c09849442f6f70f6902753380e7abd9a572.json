@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limitations of grant application forms",
+    "difficulty explaining programming in limited space",
+    "request for increased character limits in responses"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "allowing more spaces or more characters in the answer to questions",
+    "2000 characters may not be enough for our programming explanation",
+    "difficult to explain our programs in the limited space for answers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient character limits in grant application responses"
+  ],
+  "solutions_proposed": [
+    "allow more spaces or more characters in the answer to questions"
+  ],
+  "cached_at": "2025-06-21T00:56:08.494029",
+  "cache_key": "77552c8fd2301e5832c238fd706a0c09849442f6f70f6902753380e7abd9a572",
+  "model": "gpt-41"
+}

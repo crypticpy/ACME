@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "grant application support",
+    "capacity building for small organizations",
+    "individual artist assistance",
+    "navigating application/reporting process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "additional support in the grant application process",
+    "small organizations and individual artists",
+    "work sessions or coaching hours",
+    "navigate the application/report and process",
+    "it's definitely needed and helpful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty navigating the application/reporting process"
+  ],
+  "solutions_proposed": [
+    "work sessions or coaching hours to navigate the application/report and process",
+    "additional support in the grant application process for small organizations and individual artists"
+  ],
+  "cached_at": "2025-06-21T00:58:32.764816",
+  "cache_key": "0386195834c40d5fe724b805bef156d50c5cfb342a9213a9af0c885ceb9ad587",
+  "model": "gpt-41"
+}

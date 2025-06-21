@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued support for creative sectors",
+    "maximizing organizational capacity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Keep supporting the creative sectors",
+    "to your highest ability"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue supporting the creative sectors to the highest possible ability"
+  ],
+  "cached_at": "2025-06-21T02:15:51.950002",
+  "cache_key": "65667855c4f29445ac849b5d4ee57c00391ca82d2d29cccaccba541accdb5f22",
+  "model": "gpt-41"
+}

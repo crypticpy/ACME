@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of available services",
+    "information accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "awareness that serves are even available"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness that services are available"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:35.399778",
+  "cache_key": "d75b2a7a654e627e49841ab9048ea010112aa82647bcb5de9bfd372b1ddc33cb",
+  "model": "gpt-41"
+}

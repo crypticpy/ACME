@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable creative space",
+    "need for advocacy",
+    "absence of professional services organizations",
+    "lack of cohesive vision in the sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Affordable creative space",
+    "Advocates",
+    "Professional services organizations",
+    "Cohesive vision"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of affordable creative space",
+    "Lack of advocates",
+    "Lack of professional services organizations",
+    "Lack of cohesive vision"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:57.952122",
+  "cache_key": "f8b71d08d9541501679503c40cfdc933c69310806fa5202cb28a6f51a47d6c00",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "overemphasis on tourist-centered events",
+    "neglect of local organizations",
+    "impact of funding priorities on community identity",
+    "concern about loss of local cultural roots"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "too much emphasis is being placed on tourist-centered events",
+    "leaving out local organizations",
+    "puts the city at risk of becoming an impersonal cultural space with no local roots"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for local organizations",
+    "funding priorities favoring tourism over local needs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:31:20.474587",
+  "cache_key": "6638c2ff7430af55b0a452c4eabb39bd91b0a2bb1c93f9030731e8ef1121e59d",
+  "model": "gpt-41"
+}

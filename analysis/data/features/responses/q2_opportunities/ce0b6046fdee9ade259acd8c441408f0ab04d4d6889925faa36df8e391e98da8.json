@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for BIPOC representation in theatre",
+    "Need for affordable arts education",
+    "Interest in multimedia and interdisciplinary workshops"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "BIPOC Theatre",
+    "Affordable pottery instruction",
+    "Multimedia Workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability of pottery instruction"
+  ],
+  "solutions_proposed": [
+    "Increase BIPOC theatre opportunities",
+    "Offer affordable pottery instruction",
+    "Provide more multimedia workshops"
+  ],
+  "cached_at": "2025-06-21T00:46:46.821934",
+  "cache_key": "ce0b6046fdee9ade259acd8c441408f0ab04d4d6889925faa36df8e391e98da8",
+  "model": "gpt-41"
+}

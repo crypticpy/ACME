@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "resource scarcity among arts nonprofits",
+    "organizational sustainability challenges",
+    "potential for greater impact if sustainability is addressed"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "arts nonprofits are always resource poor",
+    "struggle to be sustainable",
+    "they could do more if sustainability wasn't an issue"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "arts nonprofits are always resource poor",
+    "struggle to be sustainable"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:43.607499",
+  "cache_key": "76c3f9dcdbbffd2135fd346fad4f9aa392a931638067a602392ce8921355e0e8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible information on ACME website",
+    "difficulty identifying organizations and cultural leaders",
+    "inability to provide informed feedback"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I tried looking up who the 'organizations and cultural leaders' are",
+    "couldn't find it listed anywhere",
+    "I don't have enough information to answer this question"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicly available information about organizations and cultural leaders"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:30:32.341848",
+  "cache_key": "342d9ec21794a4ee68aafe394eb82cd97936491a4dcd5559972a106d930cacf5",
+  "model": "gpt-41"
+}

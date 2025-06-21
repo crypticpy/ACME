@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "interest in musical events",
+    "interest in food events",
+    "interest in movie events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I like musical events",
+    "food events",
+    "movie events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more musical events",
+    "more food events",
+    "more movie events"
+  ],
+  "cached_at": "2025-06-21T00:43:59.345502",
+  "cache_key": "719c75a137e2cc5f671969da6e9e742629fd4eab70e57fd19f0a6e33d7894077",
+  "model": "gpt-41"
+}

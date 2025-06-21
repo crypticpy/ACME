@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of artistic merit over identity",
+    "critique of identity-based funding criteria"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Focus on art, not identity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "emphasis on identity in funding decisions"
+  ],
+  "solutions_proposed": [
+    "prioritize art over identity in funding programs"
+  ],
+  "cached_at": "2025-06-21T01:04:31.867094",
+  "cache_key": "d8a2c3aa06d06de48edbe2827bbe79712035764e1e9c3618a4f1f22709dff496",
+  "model": "gpt-41"
+}

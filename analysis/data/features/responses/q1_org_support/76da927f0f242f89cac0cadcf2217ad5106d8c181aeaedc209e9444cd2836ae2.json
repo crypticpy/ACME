@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of information about existing organizations",
+    "need for transparency",
+    "information access"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "What are the existing organizations?"
+  ],
+  "intent": "information_request",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about existing organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:22:34.428810",
+  "cache_key": "76da927f0f242f89cac0cadcf2217ad5106d8c181aeaedc209e9444cd2836ae2",
+  "model": "gpt-41"
+}

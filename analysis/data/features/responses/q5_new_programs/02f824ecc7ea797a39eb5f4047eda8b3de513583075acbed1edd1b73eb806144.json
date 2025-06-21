@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dedicated funding for disabled individuals",
+    "underrepresentation of disability-focused grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grants for the disabled only"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants specifically for disabled individuals"
+  ],
+  "solutions_proposed": [
+    "offer grants exclusively for disabled individuals"
+  ],
+  "cached_at": "2025-06-21T01:58:21.526815",
+  "cache_key": "02f824ecc7ea797a39eb5f4047eda8b3de513583075acbed1edd1b73eb806144",
+  "model": "gpt-41"
+}

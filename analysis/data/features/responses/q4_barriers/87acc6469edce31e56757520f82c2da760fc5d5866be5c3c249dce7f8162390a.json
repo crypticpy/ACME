@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased support for artists and creators",
+    "impact of national funding cuts on local arts",
+    "broad vulnerability of the creative community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "All artists and creators need support",
+    "national funding being cut"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "national funding being cut",
+    "insufficient support for artists and creators"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:30.167037",
+  "cache_key": "87acc6469edce31e56757520f82c2da760fc5d5866be5c3c249dce7f8162390a",
+  "model": "gpt-41"
+}

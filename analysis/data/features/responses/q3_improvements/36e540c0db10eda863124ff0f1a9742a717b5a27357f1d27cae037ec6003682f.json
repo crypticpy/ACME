@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Cultural relevance and accessibility of training for immigrant artists",
+    "Critique of demographic-based evaluation criteria",
+    "Volunteer-driven arts organizations and funding challenges",
+    "Support for organizations that provide resources to others"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "lack of understanding of the cultural context of these artists",
+    "trainings have not translated well",
+    "provide training in Spanish (or other Asian languages)",
+    "with a cultural specialist that understands the cultural disconnect",
+    "application questions should relate to the quality of the art, the audience size and experience, and the quality of the administration",
+    "demographics of the staff and board does not equate with an inclusive approach",
+    "arts organizations are largely volunteer-driven because of the economic shifts in funding",
+    "consideration should be given to those organizations that provide opportunities, support or space to other arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "trainings have not translated well because of a lack of understanding of the cultural context",
+    "immigrant artists struggling to understand the application and non-profit system",
+    "application questions focused on staff/board demographics rather than programming",
+    "economic shifts leading to reliance on volunteers"
+  ],
+  "solutions_proposed": [
+    "provide training in Spanish (or other Asian languages) with a cultural specialist",
+    "revise application questions to focus on quality of art, audience experience, and administration",
+    "draw application questions sensitively to reflect volunteer-driven organizations",
+    "give consideration to organizations that provide opportunities, support, or space to other arts organizations"
+  ],
+  "cached_at": "2025-06-21T00:53:50.178935",
+  "cache_key": "36e540c0db10eda863124ff0f1a9742a717b5a27357f1d27cae037ec6003682f",
+  "model": "gpt-41"
+}

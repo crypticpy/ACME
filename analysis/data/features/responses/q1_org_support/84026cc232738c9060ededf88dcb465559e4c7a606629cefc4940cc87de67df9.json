@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "process simplification",
+    "website accessibility",
+    "application support opportunities",
+    "duration of support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "simplify processes",
+    "easily accessible websites",
+    "multiple opportunities for application support",
+    "longer periods of support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex processes",
+    "inaccessible websites",
+    "limited application support opportunities",
+    "short periods of support"
+  ],
+  "solutions_proposed": [
+    "simplify processes",
+    "make websites easily accessible",
+    "provide multiple opportunities for application support",
+    "offer longer periods of support"
+  ],
+  "cached_at": "2025-06-20T10:39:08.627020",
+  "cache_key": "84026cc232738c9060ededf88dcb465559e4c7a606629cefc4940cc87de67df9",
+  "model": "gpt-41"
+}

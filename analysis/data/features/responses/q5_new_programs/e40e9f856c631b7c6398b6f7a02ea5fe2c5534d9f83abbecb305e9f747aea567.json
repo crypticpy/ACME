@@ -1,0 +1,40 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for first-time grant seekers",
+    "anti-displacement advocacy for cultural workers",
+    "studio affordability",
+    "pathways to venue ownership",
+    "cultural district placemaking"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "workshops to help first time grant seekers successfully get their application in",
+    "advocacy for cultural workers anti-displacement initiatives",
+    "studio affordability",
+    "path to venue ownership",
+    "cultural district placemaking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for first-time grant applicants",
+    "risk of displacement for cultural workers",
+    "unaffordable studio spaces",
+    "limited access to venue ownership"
+  ],
+  "solutions_proposed": [
+    "workshops for first-time grant seekers",
+    "advocacy for anti-displacement initiatives",
+    "initiatives for studio affordability",
+    "programs creating a path to venue ownership",
+    "cultural district placemaking efforts"
+  ],
+  "cached_at": "2025-06-21T01:52:22.258123",
+  "cache_key": "e40e9f856c631b7c6398b6f7a02ea5fe2c5534d9f83abbecb305e9f747aea567",
+  "model": "gpt-41"
+}

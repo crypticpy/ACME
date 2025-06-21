@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community storytelling",
+    "public participation in the arts",
+    "place-based cultural experiences",
+    "modeling after existing successful programs"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "rooted in community storytelling",
+    "public participation",
+    "place-based experiences",
+    "like Forklift Danceworks and Future Front Texas"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Forklift Danceworks",
+    "Future Front Texas"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more cultural arts and entertainment opportunities rooted in community storytelling, public participation, and place-based experiences"
+  ],
+  "cached_at": "2025-06-21T00:33:54.457106",
+  "cache_key": "6c713d8d8aabb073b4a5465c901ab1ad0510ead698fc980d402421764b0fa806",
+  "model": "gpt-41"
+}

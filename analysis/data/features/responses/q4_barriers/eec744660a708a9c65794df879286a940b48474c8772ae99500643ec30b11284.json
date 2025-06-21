@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to cultural access",
+    "cost of museum admission",
+    "affordability of tickets"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Ticket costs",
+    "admission fees for museums"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Ticket costs",
+    "admission fees for museums"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:08.984869",
+  "cache_key": "eec744660a708a9c65794df879286a940b48474c8772ae99500643ec30b11284",
+  "model": "gpt-41"
+}

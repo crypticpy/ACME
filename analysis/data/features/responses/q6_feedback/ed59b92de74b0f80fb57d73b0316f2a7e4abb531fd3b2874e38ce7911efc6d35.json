@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "interest in community feedback",
+    "withholding personal input",
+    "engagement with the process"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Not at this time",
+    "I'm very interested in what others are saying"
+  ],
+  "intent": "engagement_expression",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:25.457453",
+  "cache_key": "ed59b92de74b0f80fb57d73b0316f2a7e4abb531fd3b2874e38ce7911efc6d35",
+  "model": "gpt-41"
+}

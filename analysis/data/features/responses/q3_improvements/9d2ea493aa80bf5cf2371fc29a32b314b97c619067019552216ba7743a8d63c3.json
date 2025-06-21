@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for holistic strategic planning",
+    "integration of all forms of cultural arts",
+    "cultural arts as part of Austin's identity",
+    "short and long term planning"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "short and long terms holistic strategic plan",
+    "integrate cultural arts of all forms",
+    "part of the character of Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "develop both short and long term holistic strategic plan to integrate cultural arts of all forms as part of the character of Austin"
+  ],
+  "cached_at": "2025-06-21T00:57:37.137465",
+  "cache_key": "9d2ea493aa80bf5cf2371fc29a32b314b97c619067019552216ba7743a8d63c3",
+  "model": "gpt-41"
+}

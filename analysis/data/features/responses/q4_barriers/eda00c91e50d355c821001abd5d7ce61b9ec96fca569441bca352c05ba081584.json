@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism toward established artists",
+    "lack of opportunities for emerging artists",
+    "barriers to equitable access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "only the already established artists get picked",
+    "feels like only the already established artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "preference for established artists in selection for opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:52.014410",
+  "cache_key": "eda00c91e50d355c821001abd5d7ce61b9ec96fca569441bca352c05ba081584",
+  "model": "gpt-41"
+}

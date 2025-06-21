@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of artistic quality evaluation",
+    "funding process improvement",
+    "criteria for funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "The funding process should emphasize artistic quality",
+    "Currently there is no evaluation for this"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "no evaluation of artistic quality in funding process"
+  ],
+  "solutions_proposed": [
+    "emphasize artistic quality in funding process"
+  ],
+  "cached_at": "2025-06-20T01:14:27.782485",
+  "cache_key": "63fcc6c7df38e24f1de1bc1c15e91051fb09ce3b86c64c90359600f054d59cdd",
+  "model": "gpt-41"
+}

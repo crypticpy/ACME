@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of LGBTQIA BIPOC programs",
+    "need for increased opportunities for marginalized groups",
+    "diversity and inclusion in cultural programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more opportunities for LGBTQIA Bipoc programs",
+    "services"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for LGBTQIA BIPOC programs"
+  ],
+  "solutions_proposed": [
+    "offer more opportunities for LGBTQIA BIPOC programs and services"
+  ],
+  "cached_at": "2025-06-21T01:51:14.873021",
+  "cache_key": "4ca16f14f0fe9e2aef1ac2af92a2fd025951f7946b2bc7f94428341980ebb035",
+  "model": "gpt-41"
+}

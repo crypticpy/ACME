@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic equity in cultural events",
+    "community-based festivals",
+    "diversity of artists and performers",
+    "interactive cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Community festivals at different parts of the city",
+    "Dove Springs, Montopolis, Onion Creek, Rundberg, Georgian Acres",
+    "very eclectic mix of artists, performers and interactions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural events in specific neighborhoods"
+  ],
+  "solutions_proposed": [
+    "host community festivals in various neighborhoods",
+    "include an eclectic mix of artists, performers, and interactive elements"
+  ],
+  "cached_at": "2025-06-21T00:47:43.492471",
+  "cache_key": "c3e4ea2228adf4b39f66bc6a3c8cb2ac6020735833cebfb5ede22e96c92712de",
+  "model": "gpt-41"
+}

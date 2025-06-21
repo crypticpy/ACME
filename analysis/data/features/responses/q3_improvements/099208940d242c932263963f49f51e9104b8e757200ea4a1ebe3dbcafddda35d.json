@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preference for previous funding model",
+    "dissatisfaction with recent changes",
+    "nostalgia for past program structure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Y'all had it right three years ago"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "return to the funding approach from three years ago"
+  ],
+  "cached_at": "2025-06-21T01:18:36.636854",
+  "cache_key": "099208940d242c932263963f49f51e9104b8e757200ea4a1ebe3dbcafddda35d",
+  "model": "gpt-41"
+}

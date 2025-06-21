@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "centralized marketing and advertising",
+    "equitable audience reach",
+    "organizational burden of promotion",
+    "cross-promotion requirements",
+    "media buying leverage"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "ACME should do most of the marketing and advertising",
+    "audience reach is equitable and broad",
+    "expensive and laborious for each org",
+    "should be required to cross-promote",
+    "ACME has much more leverage with advertisers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "marketing and advertising are expensive and laborious for each organization"
+  ],
+  "solutions_proposed": [
+    "ACME should do most of the marketing and advertising",
+    "require organizations to cross-promote",
+    "ACME should use its leverage in media buys"
+  ],
+  "cached_at": "2025-06-21T01:56:34.338411",
+  "cache_key": "90748c5af43ad5d69255921b61a01bbce5db99f54bfafe7ccaef04f1e337ac72",
+  "model": "gpt-41"
+}

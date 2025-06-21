@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived lack of funding for public arts",
+    "frustration with cultural contracts process",
+    "importance of accessible entertainment",
+    "public value of summer musical programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "should have sued cultural contracts for lack of funding",
+    "The Summer music is public art for all",
+    "goal of entertainment for all"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "summer musical"
+  ],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:36.807293",
+  "cache_key": "b0657caf2aabf91dc1b5d3422f47b3047d95c1949ebf4d293b285ca832fe4322",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "ideological gatekeeping in arts funding",
+    "devaluation of non-activist artistic work",
+    "competition between individual artists and commercial venues",
+    "public funding undermining independent artists",
+    "overprioritization of music over other disciplines"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "ideological gatekeeping",
+    "artists whose work does not fit neatly into activist categories are becoming increasingly overlooked",
+    "I have struggled to see how my voice was no longer valued",
+    "placing individual artists in direct competition with commercial venues",
+    "undermines the purpose of public arts funding",
+    "erodes the stability of independent creative practices",
+    "Austin\u2019s disproportionate prioritization of music over other artistic disciplines",
+    "marginalize valuable work in visual, interdisciplinary, and conceptual fields"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ideological gatekeeping",
+    "overlooking of non-activist artistic work",
+    "competition with commercial venues for funding",
+    "public funding models undermining independent artists",
+    "prioritization of music over other artistic disciplines"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:32.167380",
+  "cache_key": "c7e48213fb8d1fb8d19fe0496e93ef242ce2746b64c1b706ff8512c911710337",
+  "model": "gpt-41"
+}

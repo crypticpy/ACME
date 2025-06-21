@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued grant funding",
+    "support for organizations",
+    "support for cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue supporting with grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue supporting with grants"
+  ],
+  "cached_at": "2025-06-20T10:36:53.159535",
+  "cache_key": "3883bf63968717dbba1bd9ff244416c0857acc29a285ac5e5739dfc1895df27f",
+  "model": "gpt-41"
+}

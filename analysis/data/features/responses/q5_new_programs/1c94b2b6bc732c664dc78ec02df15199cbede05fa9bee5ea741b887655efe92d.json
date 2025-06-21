@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Funding for small local businesses and family-owned organizations",
+    "Support for fair wages for local artists",
+    "Economic impact of supporting local talent",
+    "Limitations of current funding models (focus on non-profits)",
+    "Desire for municipal intervention in artist compensation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "give money to small local businesses and organizations (not just non-profits, but family businesses and the like)",
+    "better pay the local talent we support by hiring for entertainment",
+    "support local artists",
+    "money would then go right back into the local economy",
+    "I have no budget to pay a living or fair wage to the artists I book",
+    "I wish the city would help because they deserve it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "No budget to pay a living or fair wage to artists",
+    "Current funding limited to non-profits, excluding small businesses and family businesses"
+  ],
+  "solutions_proposed": [
+    "ACME should give money to small local businesses and organizations (not just non-profits, but family businesses and the like) to better pay local talent"
+  ],
+  "cached_at": "2025-06-21T02:06:45.918332",
+  "cache_key": "1c94b2b6bc732c664dc78ec02df15199cbede05fa9bee5ea741b887655efe92d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited staff capacity",
+    "part-time workforce",
+    "resource constraints"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "No one works full time",
+    "it\u2019s a bandwidth thing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient full-time staff",
+    "limited organizational bandwidth"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:50.902885",
+  "cache_key": "d8e3fc56f6433b414034aae64fe9df0657b11703a5c5fdae87d5860751783441",
+  "model": "gpt-41"
+}

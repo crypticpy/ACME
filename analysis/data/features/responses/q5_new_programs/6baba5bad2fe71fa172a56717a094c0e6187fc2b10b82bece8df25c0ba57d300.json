@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of business assistance for artists",
+    "need for professional development programs",
+    "support for artist entrepreneurship"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "No profit/artist business assistance program"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "absence of business assistance for artists"
+  ],
+  "solutions_proposed": [
+    "create a profit/artist business assistance program"
+  ],
+  "cached_at": "2025-06-21T02:05:55.286889",
+  "cache_key": "6baba5bad2fe71fa172a56717a094c0e6187fc2b10b82bece8df25c0ba57d300",
+  "model": "gpt-41"
+}

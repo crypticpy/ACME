@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "dissatisfaction with current grant programs",
+    "prioritization of fixing existing systems over creating new programs",
+    "concern about functionality of current systems"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Improved existing grant programs would be great",
+    "No need to make more when our current sytems are not functioning properly"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current systems are not functioning properly"
+  ],
+  "solutions_proposed": [
+    "improve existing grant programs"
+  ],
+  "cached_at": "2025-06-21T01:51:53.955456",
+  "cache_key": "5640093b2df8db272b79aaf3ae7764eacd20f315af96663fee97ab6bc9f6fa1b",
+  "model": "gpt-41"
+}

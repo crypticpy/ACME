@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with community-rooted initiatives",
+    "celebration of cultural heritage and underrepresented voices",
+    "integration of technology and creativity",
+    "community engagement and cultural preservation",
+    "enrichment of Austin\u2019s creative industry"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "explore collaborative opportunities with innovative, community-rooted initiatives",
+    "Rev. Jacob Fontaine Project",
+    "NFT D.R.E.A.M. Experience",
+    "developed through the BerryInk48 LLC ecosystem led by Dennis Jacob Berry, 5th generation grandson",
+    "celebrate cultural heritage, technology, and creativity",
+    "uplift historically underrepresented voices",
+    "enrich Austin\u2019s creative industry",
+    "ensure deeper community engagement and cultural preservation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Rev. Jacob Fontaine Project",
+    "NFT D.R.E.A.M. Experience"
+  ],
+  "barriers_identified": [
+    "historically underrepresented voices"
+  ],
+  "solutions_proposed": [
+    "explore collaborative opportunities with innovative, community-rooted initiatives",
+    "partnering with projects like these would enrich Austin\u2019s creative industry and ensure deeper community engagement and cultural preservation"
+  ],
+  "cached_at": "2025-06-21T02:17:06.050560",
+  "cache_key": "96fd418f4b43e1e4c8a69c10f3a629ca78ed5fea64128884b631ec928ff383e4",
+  "model": "gpt-41"
+}

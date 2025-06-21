@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for neighborhood-based cultural events",
+    "support for local artists and small businesses",
+    "accessibility challenges due to downtown congestion",
+    "interest in art walks and First Friday-style programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "art walks",
+    "First Friday type events outside of the downtown area",
+    "Parking and Traffic is so crazy downtown",
+    "I'd love to see different neighborhoods bring in customers to small, local business and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "First Friday"
+  ],
+  "barriers_identified": [
+    "Parking and Traffic is so crazy downtown",
+    "so much that's going on [downtown]"
+  ],
+  "solutions_proposed": [
+    "art walks outside of the downtown area",
+    "First Friday type events in different neighborhoods",
+    "bring in customers to small, local business and artists"
+  ],
+  "cached_at": "2025-06-21T00:37:34.263670",
+  "cache_key": "259c36945beeccb242513b9b43a4ddf55b6cf12e979ef5ccc3c49ab737439d95",
+  "model": "gpt-41"
+}

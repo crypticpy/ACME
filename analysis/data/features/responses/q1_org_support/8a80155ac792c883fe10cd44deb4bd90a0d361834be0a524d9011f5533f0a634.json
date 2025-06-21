@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for small venues",
+    "support for local artists",
+    "direct financial support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Money for small local venues",
+    "pay local artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for small venues to pay artists"
+  ],
+  "solutions_proposed": [
+    "provide money for small local venues to pay local artists"
+  ],
+  "cached_at": "2025-06-20T10:40:43.901495",
+  "cache_key": "8a80155ac792c883fe10cd44deb4bd90a0d361834be0a524d9011f5533f0a634",
+  "model": "gpt-41"
+}

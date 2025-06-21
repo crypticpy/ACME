@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "community leadership development",
+    "educational opportunities for residents",
+    "ambassadorship and cultural exchange",
+    "international and regional cultural promotion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "offering positions of leadership",
+    "additional education/workshops to community residents",
+    "roles as ambassadors of Austin to neighboring cities towns",
+    "cities with an international connection to the music, arts, fashion, and entertainment Austin is known for worldwide"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offering positions of leadership to community residents",
+    "providing additional education/workshops",
+    "creating roles as ambassadors of Austin to neighboring cities and internationally"
+  ],
+  "cached_at": "2025-06-20T01:15:55.419781",
+  "cache_key": "c068214d02a055a79d9022593b376e8471e75237268f3c286dc8fd9bfacf1cea",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for local media",
+    "underrepresentation of local radio",
+    "interest in community broadcasting"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Local radio stations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer or support local radio stations"
+  ],
+  "cached_at": "2025-06-21T01:51:12.782359",
+  "cache_key": "57b4b6207301a8526671cd95cc5daf6908cb880d6e2b108b60eb451650349e5d",
+  "model": "gpt-41"
+}

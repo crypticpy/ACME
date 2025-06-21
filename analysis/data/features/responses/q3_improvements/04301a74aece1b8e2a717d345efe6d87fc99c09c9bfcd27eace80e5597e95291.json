@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of grant opportunities",
+    "information access disparities",
+    "city staff perspective"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I work for the city",
+    "I hear about these grants",
+    "not sure if people who don't work for the city would get to hear about them as often"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness about grant opportunities for non-city employees"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:13:58.086632",
+  "cache_key": "04301a74aece1b8e2a717d345efe6d87fc99c09c9bfcd27eace80e5597e95291",
+  "model": "gpt-41"
+}

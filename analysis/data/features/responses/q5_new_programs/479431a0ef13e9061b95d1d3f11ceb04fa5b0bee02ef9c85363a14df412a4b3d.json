@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for networking among arts organizations",
+    "critique of current DEI efforts",
+    "desire for broader inclusivity in minority representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "networking for arts orgs with common goals",
+    "dei that is actually inclusive of ALL minorities",
+    "not just the minorities du jour"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "DEI efforts perceived as exclusive or selective"
+  ],
+  "solutions_proposed": [
+    "networking for arts orgs with common goals",
+    "DEI that is actually inclusive of ALL minorities"
+  ],
+  "cached_at": "2025-06-21T02:05:06.321218",
+  "cache_key": "479431a0ef13e9061b95d1d3f11ceb04fa5b0bee02ef9c85363a14df412a4b3d",
+  "model": "gpt-41"
+}

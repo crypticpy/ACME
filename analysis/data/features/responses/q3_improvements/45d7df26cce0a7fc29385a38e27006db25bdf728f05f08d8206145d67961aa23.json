@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding grant eligibility",
+    "support for facility upkeep",
+    "needs of organizations with physical spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more range for what grants can cover",
+    "organizations that are renting/owning spaces",
+    "site upkeeps for continued service",
+    "grants would be very helpful for that"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current grants do not cover site upkeep for organizations with physical spaces"
+  ],
+  "solutions_proposed": [
+    "expand grant coverage to include site upkeep for organizations renting or owning spaces"
+  ],
+  "cached_at": "2025-06-21T01:16:28.680784",
+  "cache_key": "45d7df26cce0a7fc29385a38e27006db25bdf728f05f08d8206145d67961aa23",
+  "model": "gpt-41"
+}

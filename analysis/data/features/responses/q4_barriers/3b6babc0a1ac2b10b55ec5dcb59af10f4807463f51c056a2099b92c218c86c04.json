@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of business and corporate engagement",
+    "absence of large arts funders/foundations",
+    "decline in federal and corporate funding",
+    "acute crisis in arts funding",
+    "urgency to stabilize arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Austin is a very difficult place to raise money",
+    "The business/corporate community is not engaged with the need",
+    "We do not have large foundations here who fund the arts",
+    "It is an old problem that has become very acute",
+    "federal funding has been cancelled",
+    "corporate funding has declined in anticipation of a recession",
+    "ACME must move quickly but with all due intentionality to stabilize the arts ecosystem",
+    "We cannot lose another arts organization"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "difficulty raising money in Austin",
+    "lack of engagement from business/corporate community",
+    "absence of large arts-funding foundations",
+    "cancellation of federal funding",
+    "decline in corporate funding due to recession fears"
+  ],
+  "solutions_proposed": [
+    "ACME must move quickly but with all due intentionality to stabilize the arts ecosystem"
+  ],
+  "cached_at": "2025-06-21T01:20:23.760050",
+  "cache_key": "3b6babc0a1ac2b10b55ec5dcb59af10f4807463f51c056a2099b92c218c86c04",
+  "model": "gpt-41"
+}

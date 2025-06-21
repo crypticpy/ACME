@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "diversity of entertainment opportunities",
+    "lack of studio tours",
+    "need for organized temporary visual art displays"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "amazing diversity of entertainment opportunities",
+    "what is missing is a studio tour",
+    "more opportunities for organized temporary display of visual art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of studio tour",
+    "insufficient organized temporary visual art displays"
+  ],
+  "solutions_proposed": [
+    "add a studio tour",
+    "create more opportunities for organized temporary display of visual art"
+  ],
+  "cached_at": "2025-06-21T00:46:09.146543",
+  "cache_key": "a8e952611851835b924c865f3d3e96153eb7c7c841edd24dffa8b70acc015d0b",
+  "model": "gpt-41"
+}

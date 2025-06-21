@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship for emerging artists",
+    "support from experienced creatives",
+    "cost-free access to professional guidance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "hire experienced creatives as mentors",
+    "available for emerging artists",
+    "at no cost to them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cost-free mentorship for emerging artists"
+  ],
+  "solutions_proposed": [
+    "Hire experienced creatives as mentors available for emerging artists at no cost"
+  ],
+  "cached_at": "2025-06-21T02:05:11.439771",
+  "cache_key": "b63f12bd26a61ef2f0fcb0710de0eaefa1e2ba96aa20b4b714874587aaa42403",
+  "model": "gpt-41"
+}

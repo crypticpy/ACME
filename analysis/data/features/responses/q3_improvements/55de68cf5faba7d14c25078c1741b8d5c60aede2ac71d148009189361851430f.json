@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding relative to demand",
+    "exclusion caused by eligibility criteria",
+    "critique of prioritization frameworks",
+    "call for universal funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "disparity between the amount of money available ... and the amount of applications/money requested",
+    "The answer is funding. Fund everyone.",
+    "trying to categorize and quantify historically under-represented communities ... necessarily excluded extremely worthy people/projects",
+    "missing the forest for the trees",
+    "fund everyone"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Live Music Fund",
+    "Elevate grant"
+  ],
+  "barriers_identified": [
+    "insufficient funding for the volume of applicants",
+    "eligibility criteria that exclude worthy people/projects"
+  ],
+  "solutions_proposed": [
+    "increase funding to meet demand",
+    "fund everyone rather than narrowly prioritizing"
+  ],
+  "cached_at": "2025-06-21T00:56:34.155833",
+  "cache_key": "55de68cf5faba7d14c25078c1741b8d5c60aede2ac71d148009189361851430f",
+  "model": "gpt-41"
+}

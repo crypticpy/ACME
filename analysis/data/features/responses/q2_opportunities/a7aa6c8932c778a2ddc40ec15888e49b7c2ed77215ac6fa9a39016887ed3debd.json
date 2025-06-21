@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outdoor live music",
+    "use of city and lake as event spaces",
+    "increased free cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Live music outdoors using the city and lake as a backdrop",
+    "More free events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Host live music outdoors using the city and lake as a backdrop",
+    "Increase the number of free events"
+  ],
+  "cached_at": "2025-06-21T00:42:06.338386",
+  "cache_key": "a7aa6c8932c778a2ddc40ec15888e49b7c2ed77215ac6fa9a39016887ed3debd",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "distrust of nonprofit financial management",
+    "perceived misallocation of cultural funding",
+    "lack of direct support for artists and musicians",
+    "allegations of misconduct by specific organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Giving money to non profits defeats the purpose to actually help artists and musicians",
+    "They mismanage them money, steal the money",
+    "Like hope gallery!! lol",
+    "What a waste of $10 million dollars",
+    "We have proof about all their shadiness too"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "hope gallery"
+  ],
+  "barriers_identified": [
+    "funding routed through nonprofits rather than directly to artists",
+    "mismanagement or misuse of funds by nonprofits"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:01:28.131195",
+  "cache_key": "2551f3d4826d06b096458b4d47dff5c4d085d051ba8eea89123f8bf2ebf06c6c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high production costs",
+    "venue rental expenses",
+    "community fear due to anti-immigrant policies",
+    "impact of current events on public participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "high cost of producing events",
+    "venue rentals",
+    "fear of the community of being in public places",
+    "anti-immigrant policies",
+    "current events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of producing events",
+    "venue rentals",
+    "fear of being in public places due to anti-immigrant policies",
+    "fear of being in public places due to current events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:06.086959",
+  "cache_key": "2957d4c4435dce64730acec31a7454345b67b279610602af7e83c5dea2bc692b",
+  "model": "gpt-41"
+}

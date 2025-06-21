@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived unfairness in grant allocation",
+    "lack of transparency in funding decisions",
+    "disproportionate funding for different organizations",
+    "neglect of classical arts organizations",
+    "importance of organizational track record"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grants seem almost random",
+    "$1.5M for Hole In The Wall, while the city-owned Long Center gets $350k",
+    "core classical arts organizations that serve a lot of people get almost nothing",
+    "pay attention to the track record of the organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Hole In The Wall",
+    "Long Center"
+  ],
+  "barriers_identified": [
+    "unpredictable and seemingly arbitrary grant distribution",
+    "insufficient funding for classical arts organizations"
+  ],
+  "solutions_proposed": [
+    "pay attention to the track record of the organizations"
+  ],
+  "cached_at": "2025-06-21T01:05:36.570836",
+  "cache_key": "814a119342ccc974a84868ae3fadbcd5cde80237bb22f297147dbb5ad372888d",
+  "model": "gpt-41"
+}

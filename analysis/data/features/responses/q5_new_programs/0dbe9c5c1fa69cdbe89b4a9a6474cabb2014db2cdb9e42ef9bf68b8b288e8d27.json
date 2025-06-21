@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "entry-level employment for artists",
+    "investment in cultural infrastructure",
+    "repair and maintenance of cultural spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "entry level job opportunities for artists",
+    "investment in cultural spaces for repair"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of entry-level job opportunities for artists",
+    "insufficient investment in maintaining or repairing cultural spaces"
+  ],
+  "solutions_proposed": [
+    "create entry level job opportunities for artists",
+    "invest in cultural spaces for repair"
+  ],
+  "cached_at": "2025-06-21T01:49:57.662233",
+  "cache_key": "0dbe9c5c1fa69cdbe89b4a9a6474cabb2014db2cdb9e42ef9bf68b8b288e8d27",
+  "model": "gpt-41"
+}

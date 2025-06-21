@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inadequate arts funding structure at the city level",
+    "need for cross-sector collaboration to support the arts",
+    "role of ACME as a convener and facilitator",
+    "limitations of ACME's direct support capacity",
+    "importance of supporting a diverse arts ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Fix the funding structure for the arts at the City",
+    "ACME can also be the driver of collaborations",
+    "encourage support among business, foundations, individuals, obviously public officials",
+    "support this critical and struggling industry",
+    "ACME can't provide all the direct support that is needed",
+    "be the central point for encouraging involvement by others",
+    "Help multiply support for a diverse arts ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "arts funding structure at the City has not kept up with population growth",
+    "infrastructure lagging behind population growth",
+    "ACME's limited capacity to provide all needed direct support"
+  ],
+  "solutions_proposed": [
+    "Fix the funding structure for the arts at the City",
+    "ACME should drive collaborations among businesses, foundations, individuals, and public officials",
+    "ACME should serve as a central point for encouraging involvement and multiplying support"
+  ],
+  "cached_at": "2025-06-21T02:07:59.408656",
+  "cache_key": "63e9bb720712d87f2a8d7ecd67eb2066a3d8844df6ddad2c1b251fd59342b04b",
+  "model": "gpt-41"
+}

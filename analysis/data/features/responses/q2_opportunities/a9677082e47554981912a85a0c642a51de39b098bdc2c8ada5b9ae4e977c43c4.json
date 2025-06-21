@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more classical arts",
+    "interest in traditional cultural forms"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Classical arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for classical arts"
+  ],
+  "cached_at": "2025-06-21T00:35:55.414034",
+  "cache_key": "a9677082e47554981912a85a0c642a51de39b098bdc2c8ada5b9ae4e977c43c4",
+  "model": "gpt-41"
+}

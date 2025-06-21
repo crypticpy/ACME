@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more Hip Hop events",
+    "interest in culturally diverse programming",
+    "support for urban arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Hip Hop",
+    "culturally diverse events",
+    "urban arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase Hip Hop events",
+    "offer more culturally diverse events",
+    "support urban arts"
+  ],
+  "cached_at": "2025-06-21T00:39:18.330762",
+  "cache_key": "7e832934adb8963102aecc28f469184f3fcd0297797b378a97fa944346fbfd0f",
+  "model": "gpt-41"
+}

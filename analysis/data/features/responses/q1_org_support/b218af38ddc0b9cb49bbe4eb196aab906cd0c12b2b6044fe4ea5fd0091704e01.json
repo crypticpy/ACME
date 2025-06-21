@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "startup funding for organizations",
+    "raising awareness of cultural events",
+    "improving information about event locations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grants to help fund their start up",
+    "raise awareness of cultural event availability",
+    "location of centers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of startup funding",
+    "insufficient awareness of events",
+    "unclear locations of cultural centers"
+  ],
+  "solutions_proposed": [
+    "provide grants for startup funding",
+    "raise awareness of cultural event availability",
+    "publicize location of centers"
+  ],
+  "cached_at": "2025-06-20T10:45:18.233246",
+  "cache_key": "b218af38ddc0b9cb49bbe4eb196aab906cd0c12b2b6044fe4ea5fd0091704e01",
+  "model": "gpt-41"
+}

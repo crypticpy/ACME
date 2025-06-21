@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for expanded historical experiences",
+    "Critique of whitewashed Texas history",
+    "Call for greater historical inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expanded historical experiences",
+    "besides the prominent white washed Texas history"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "prevalence of whitewashed Texas history"
+  ],
+  "solutions_proposed": [
+    "expand historical experiences beyond whitewashed narratives"
+  ],
+  "cached_at": "2025-06-21T00:49:38.295953",
+  "cache_key": "3e4a4157fabfc443920434200f2d751019c8f5c7d9a22930e0929264f31d160c",
+  "model": "gpt-41"
+}

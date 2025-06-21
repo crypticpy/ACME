@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "accusations of financial misconduct by organizations",
+    "distrust of intermediary organizations",
+    "advocacy for direct funding to artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "STOP GIVING MONEY TO THESE ORGS",
+    "THEY ARE STEALING ANF LAUNDERING MONEY",
+    "Give the money directly to the artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived corruption or misuse of funds by organizations",
+    "lack of direct funding access for artists"
+  ],
+  "solutions_proposed": [
+    "stop giving money to organizations",
+    "give the money directly to the artists"
+  ],
+  "cached_at": "2025-06-21T01:08:47.517097",
+  "cache_key": "e6bf1d904b3c055dbd0bf3350dd97bd3d4363b8bcd4fff3d2778d17e30884b42",
+  "model": "gpt-41"
+}

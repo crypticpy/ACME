@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of studio spaces",
+    "need for accessible creative infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more affordable are studio spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of studio spaces"
+  ],
+  "solutions_proposed": [
+    "offer more affordable studio spaces"
+  ],
+  "cached_at": "2025-06-21T01:55:21.600067",
+  "cache_key": "164003f7fa2be08fd86eaa7de315714da0834863ab7bff47b79310c2a15d28f0",
+  "model": "gpt-41"
+}

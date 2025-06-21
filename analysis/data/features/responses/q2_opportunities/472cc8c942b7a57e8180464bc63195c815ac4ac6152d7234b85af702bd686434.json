@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "city-sponsored live music",
+    "free public cultural events",
+    "use of parks for arts programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Live music free to the public",
+    "sponsored by the city",
+    "in parks",
+    "at cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of attendance"
+  ],
+  "solutions_proposed": [
+    "City sponsorship of free live music events in public spaces"
+  ],
+  "cached_at": "2025-06-21T00:49:29.328307",
+  "cache_key": "472cc8c942b7a57e8180464bc63195c815ac4ac6152d7234b85af702bd686434",
+  "model": "gpt-41"
+}

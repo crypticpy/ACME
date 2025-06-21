@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist-school partnerships",
+    "collaboration with city departments",
+    "underrepresentation of artist engagement programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "programs connecting local artists with schools",
+    "programs connecting local artists with city departments"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Programs connecting local artists with schools",
+    "Programs connecting local artists with city departments"
+  ],
+  "cached_at": "2025-06-21T01:52:47.681814",
+  "cache_key": "0ebb85acae898e2a1b27a09d4f0f2cea7b10a9d53cea0ffaa71dcc57ec0bf662",
+  "model": "gpt-41"
+}

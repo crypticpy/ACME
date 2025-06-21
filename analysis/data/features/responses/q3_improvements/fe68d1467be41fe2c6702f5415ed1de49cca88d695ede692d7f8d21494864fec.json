@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion from funding opportunities",
+    "focus on minority artists in programming",
+    "eligibility concerns for visual artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "all geared to minority artists",
+    "I would likely not qualify"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "visual artist programs"
+  ],
+  "barriers_identified": [
+    "perceived ineligibility due to program focus on minority artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:00:40.143430",
+  "cache_key": "fe68d1467be41fe2c6702f5415ed1de49cca88d695ede692d7f8d21494864fec",
+  "model": "gpt-41"
+}

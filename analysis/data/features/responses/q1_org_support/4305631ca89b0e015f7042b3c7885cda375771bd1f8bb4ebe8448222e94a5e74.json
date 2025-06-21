@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "meaningful inclusion of BIPOC community in decision-making",
+    "transparent communication",
+    "active outreach to impacted communities",
+    "co-development of policies with affected groups",
+    "centering equity and inclusion",
+    "building trust with communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "meaningfully including the BIPOC community in decision-making processes that directly impact them",
+    "transparent communication",
+    "active outreach",
+    "ensuring that policies and initiatives are co-developed with those who are most affected",
+    "centering equity and inclusion",
+    "build deeper trust",
+    "create more impactful, community-informed outcomes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of meaningful inclusion of BIPOC community in decision-making",
+    "insufficient transparency and outreach",
+    "policies not co-developed with affected communities"
+  ],
+  "solutions_proposed": [
+    "meaningful inclusion of BIPOC community in decision-making",
+    "transparent communication",
+    "active outreach",
+    "co-developing policies and initiatives with those most affected",
+    "centering equity and inclusion"
+  ],
+  "cached_at": "2025-06-20T10:30:40.259215",
+  "cache_key": "4305631ca89b0e015f7042b3c7885cda375771bd1f8bb4ebe8448222e94a5e74",
+  "model": "gpt-41"
+}

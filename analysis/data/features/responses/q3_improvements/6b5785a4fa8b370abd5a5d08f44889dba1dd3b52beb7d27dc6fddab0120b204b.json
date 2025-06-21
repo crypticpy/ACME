@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of knowledge about cultural funding programs",
+    "discomfort with providing feedback due to unfamiliarity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "I\u2019m illiterate regarding same",
+    "uncomfortable commenting"
+  ],
+  "intent": "self_disclosure_of_lack_of_knowledge",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information or awareness about programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:19:29.782421",
+  "cache_key": "6b5785a4fa8b370abd5a5d08f44889dba1dd3b52beb7d27dc6fddab0120b204b",
+  "model": "gpt-41"
+}

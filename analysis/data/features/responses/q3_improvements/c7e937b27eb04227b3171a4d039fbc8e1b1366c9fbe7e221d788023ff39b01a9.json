@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of administrative accountability",
+    "inconsistent grant determinations",
+    "failure to follow stated procedures",
+    "perceived hypocrisy by administrators",
+    "resistance to clarification requests"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "did not follow its self imposed rules of accountability",
+    "perception of hypocrisy",
+    "if there was a problem with the grant they would reach out for clarification",
+    "gave two totally different failure determinations",
+    "clarification was offered it was resisted",
+    "ensure that those administrators of the grant follow their directions",
+    "higher source of accountability for the administrators than themselves"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "administrators not following their own rules",
+    "lack of accountability mechanisms for administrators",
+    "inconsistent decision-making for similar applications",
+    "resistance to applicant clarification"
+  ],
+  "solutions_proposed": [
+    "ensure administrators of the grant follow their directions",
+    "establish a higher source of accountability for administrators than themselves"
+  ],
+  "cached_at": "2025-06-21T00:59:38.106294",
+  "cache_key": "c7e937b27eb04227b3171a4d039fbc8e1b1366c9fbe7e221d788023ff39b01a9",
+  "model": "gpt-41"
+}

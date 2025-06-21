@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant matching requirements",
+    "financial barriers for recipients",
+    "unrealistic funding expectations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Don\u2019t require grant recipients to match grant awards out of pocket",
+    "highly limiting and unrealistic"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "requirement to match grant awards out of pocket"
+  ],
+  "solutions_proposed": [
+    "Eliminate requirement for grant recipients to match grant awards out of pocket"
+  ],
+  "cached_at": "2025-06-20T10:41:13.768368",
+  "cache_key": "e0b4236de855da47edfd1c88fdf39b7fb60dd554606968ab0247147f9f84d2a0",
+  "model": "gpt-41"
+}

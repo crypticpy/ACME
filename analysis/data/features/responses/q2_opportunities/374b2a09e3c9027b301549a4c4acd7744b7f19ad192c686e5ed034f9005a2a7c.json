@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more group art exhibitions",
+    "interest in public mural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Group Art Shows",
+    "Mural Opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase group art shows",
+    "Create more mural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:39:24.051107",
+  "cache_key": "374b2a09e3c9027b301549a4c4acd7744b7f19ad192c686e5ed034f9005a2a7c",
+  "model": "gpt-41"
+}

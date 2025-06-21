@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "personal success despite limitations",
+    "resource constraints for vision",
+    "distinction between personal and broader community barriers"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I personally don't have many barriers",
+    "I do pretty well as a small business",
+    "in no way do I have the means to make the statement I envision"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of means to realize envisioned statement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:09.251739",
+  "cache_key": "e18c775ab405af41d8bacae72e26f107a3ef9af8767aa1a6609e26d22d872a4b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more music events",
+    "interest in immersive experiential events",
+    "support for trade-based education for children",
+    "emphasis on building and design skills for youth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Music and immersive experiential events",
+    "Trade based education programs",
+    "helping teach children how to build and design"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase music and immersive experiential events",
+    "Implement trade-based education programs for children focused on building and design"
+  ],
+  "cached_at": "2025-06-21T00:31:17.734583",
+  "cache_key": "0cf588f75a124c50cc2579a83f81265ebbe0c775ed70396f0027884ab34c72b8",
+  "model": "gpt-41"
+}

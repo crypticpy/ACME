@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Traditional Indigenous arts and cultural relevance",
+    "Integration of healing practices in arts",
+    "Intersectionality between art and healing",
+    "Interactive and collective art-making opportunities",
+    "Barriers to participation due to lack of external validation as artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Traditional arts of people indigenous to these lands",
+    "opportunities that are culturally relevant and which include healing practices",
+    "art/entertainment is intersectional to healing",
+    "interactive collective art opportunities which bring people together to make art",
+    "many people feel disconnected to art because they were not identified as artists in school or externally",
+    "making art should be practiced by more people who want to do it",
+    "provide these opportunities for ppl to explore this"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Many people feel disconnected to art because they were not identified as artists in school or externally"
+  ],
+  "solutions_proposed": [
+    "Provide opportunities for people to explore making art regardless of prior identification as artists",
+    "Offer interactive collective art opportunities",
+    "Support arts that are culturally relevant and include healing practices"
+  ],
+  "cached_at": "2025-06-21T00:25:15.701627",
+  "cache_key": "542754003e94536ff396c576203ec1ef7cbb6d0f319ac080327e935cd276744f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived unfairness in funding allocation",
+    "frustration over longstanding organizations being overlooked",
+    "concern about large grants to specific groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "an Iranian Business group got $150k?",
+    "longstanding orgs with histories of providing gigs to working artists got nothing",
+    "just wild"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for longstanding organizations",
+    "perceived inequity in grant distribution"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:33.120159",
+  "cache_key": "0bbaad19b4860108d4f2c865bcce822645ef5ec64e87bf5f8cecfb5f6a5b2f8a",
+  "model": "gpt-41"
+}

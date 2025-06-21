@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of key arts organization",
+    "impact on visual arts community",
+    "importance of organizational expertise",
+    "annual studio tour disruption",
+    "value of high-quality event materials"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "The loss of Big Medium is a big loss to the visual arts community",
+    "organizational expertise for the annual studio tour",
+    "stunning catalog"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Big Medium",
+    "annual studio tour"
+  ],
+  "barriers_identified": [
+    "loss of organizational expertise",
+    "loss of support for annual studio tour"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:26:44.987139",
+  "cache_key": "4543efe76316a8799e0dd05a6315a34dfad031fa359e8a465b1af979bb9aed6c",
+  "model": "gpt-41"
+}

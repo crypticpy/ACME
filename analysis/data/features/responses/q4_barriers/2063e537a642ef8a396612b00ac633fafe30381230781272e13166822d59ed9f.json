@@ -1,0 +1,54 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping and lack of representation in decision-making",
+    "complexity and inaccessibility of funding/application systems",
+    "financial barriers to participation",
+    "insufficient outreach and communication",
+    "artist burnout and lack of sustainable support",
+    "cultural displacement and gentrification"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "systemic and structural, not just logistical",
+    "Gatekeeping + Lack of Representation",
+    "filtered through insider networks",
+    "decision-makers often don\u2019t reflect the communities they\u2019re supposed to serve",
+    "overly complex systems",
+    "applications for funding, resources, or city support are often confusing, bureaucratic",
+    "cost of participation",
+    "lack of affordable rehearsal spaces, equipment, and access to legal/financial advice",
+    "lack of awareness or communication",
+    "sustainability + burnout",
+    "cultural displacement + gentrification",
+    "urgent need to protect cultural spaces, fund local creators, and stop erasing community-led work",
+    "support must be designed with community at the center inclusive, ongoing, flexible, and rooted in trust"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping and lack of representation among decision-makers",
+    "opportunities filtered through insider networks",
+    "complex, confusing, and bureaucratic application systems",
+    "lack of time, language, or administrative support for creatives",
+    "high cost of participation (venue rentals, festival fees, transportation)",
+    "lack of affordable rehearsal spaces, equipment, and legal/financial advice",
+    "poor outreach and unclear communication about city programs",
+    "short-term or one-time support leading to burnout",
+    "rising costs and gentrification causing cultural displacement"
+  ],
+  "solutions_proposed": [
+    "support must be designed with community at the center",
+    "support should be inclusive, ongoing, flexible, and rooted in trust",
+    "urgent need to protect cultural spaces",
+    "fund local creators",
+    "stop erasing community-led work"
+  ],
+  "cached_at": "2025-06-21T01:34:43.887303",
+  "cache_key": "2063e537a642ef8a396612b00ac633fafe30381230781272e13166822d59ed9f",
+  "model": "gpt-41"
+}

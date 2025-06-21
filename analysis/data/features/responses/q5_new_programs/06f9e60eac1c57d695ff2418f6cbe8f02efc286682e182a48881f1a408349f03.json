@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expanded funding coverage",
+    "support for non-performance aspects of creativity",
+    "recognition of behind-the-scenes work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "additional funding to cover more aspects of the creative process",
+    "not just the performance itself",
+    "the other tangibles that help to bring the work to life"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding limited to performance aspects",
+    "lack of support for other elements of creative process"
+  ],
+  "solutions_proposed": [
+    "provide funding for all aspects of the creative process, not just performance"
+  ],
+  "cached_at": "2025-06-21T01:50:59.000799",
+  "cache_key": "06f9e60eac1c57d695ff2418f6cbe8f02efc286682e182a48881f1a408349f03",
+  "model": "gpt-41"
+}

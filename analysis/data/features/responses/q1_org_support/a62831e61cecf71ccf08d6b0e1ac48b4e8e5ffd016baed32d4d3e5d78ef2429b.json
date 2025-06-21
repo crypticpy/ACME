@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of stakeholder engagement by City divisions",
+    "Disregard for Music Commission recommendations",
+    "Preference for non-local consultants over local expertise",
+    "Ineffective use of funds for community engagement",
+    "Failure to include musician voices in program design",
+    "Problems with Community Navigator program implementation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "less than desirable job in prioritizing creative community stakeholder input",
+    "ignored Music Commission recommendations entirely",
+    "increased effort to collaborate with these stakeholders",
+    "hiring local creative nonprofits to consult, engage community input and work collaboratively on solutions",
+    "non-local consulting firms were paid hundreds of thousands of dollars to do the same job",
+    "none of the 6,000+ Central Texas musicians that we serve were interviewed",
+    "Music Divisions' efforts to provide unqualified Community Navigators for Live Music Fund application to the tune of $50K each proved a failure",
+    "overall musician feedback showed that these Navigators were less than helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live Music Fund"
+  ],
+  "barriers_identified": [
+    "Lack of stakeholder engagement",
+    "Exclusion of local musician voices from consultation",
+    "Preference for non-local consultants over local organizations",
+    "Unqualified Community Navigators",
+    "Ineffective use of funds for engagement"
+  ],
+  "solutions_proposed": [
+    "Increased collaboration with creative community stakeholders",
+    "Hiring local creative nonprofits to consult and engage community input",
+    "Work collaboratively with local organizations on solutions"
+  ],
+  "cached_at": "2025-06-20T01:20:48.606983",
+  "cache_key": "a62831e61cecf71ccf08d6b0e1ac48b4e8e5ffd016baed32d4d3e5d78ef2429b",
+  "model": "gpt-41"
+}

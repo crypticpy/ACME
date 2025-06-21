@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with leaders",
+    "community engagement",
+    "expanding outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "work with leaders and members",
+    "expand outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "work with leaders and members to expand outreach"
+  ],
+  "cached_at": "2025-06-20T10:30:20.585287",
+  "cache_key": "6ed7a9a2c95770de5f0d9fa1c52e71a6f434041a8085fa0fa3200dbbd8d8abfc",
+  "model": "gpt-41"
+}

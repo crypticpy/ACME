@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "impact on families",
+    "accessibility of ticketed events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Price can be a barrier",
+    "especially for larger families",
+    "ticketed events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high price of ticketed events",
+    "cost burden for larger families"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:33.375144",
+  "cache_key": "c5235148a9e10b580979810f4bf95c5a22dff535e428b4f08dbc42662a04ad20",
+  "model": "gpt-41"
+}

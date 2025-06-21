@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underfunding of arts nonprofits by the city",
+    "reduced services due to lack of funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "arts nonprofits are underfunded by the city",
+    "they have to limit services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underfunding of arts nonprofits",
+    "limited services as a result of funding shortages"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:30.164490",
+  "cache_key": "545e59821144e98a012f044d2562e7ff4243a567cf630e35e32a2e8cb34b061e",
+  "model": "gpt-41"
+}

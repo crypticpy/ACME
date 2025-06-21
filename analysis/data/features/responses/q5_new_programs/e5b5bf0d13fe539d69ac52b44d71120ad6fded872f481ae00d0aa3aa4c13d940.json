@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "need for grant writing support",
+    "underrepresentation of grant writing programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grant writing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing programs"
+  ],
+  "solutions_proposed": [
+    "offer grant writing programs"
+  ],
+  "cached_at": "2025-06-21T02:07:53.076559",
+  "cache_key": "e5b5bf0d13fe539d69ac52b44d71120ad6fded872f481ae00d0aa3aa4c13d940",
+  "model": "gpt-41"
+}

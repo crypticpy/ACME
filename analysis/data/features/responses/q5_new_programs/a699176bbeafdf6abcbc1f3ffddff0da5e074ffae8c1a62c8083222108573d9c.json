@@ -1,0 +1,50 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for dedicated and subsidized rehearsal/performance spaces",
+    "Support for pop-up and mobile venues in neighborhoods",
+    "Barriers to equitable grant access for small organizations",
+    "Importance of operational support for emerging arts organizations",
+    "Professional development and mentorship for emerging artists and educators",
+    "Integration of arts with social services and community engagement",
+    "Support for grassroots, educational community festivals"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Dedicated Rehearsal/Performance Spaces",
+    "subsidized or dedicated venues for rehearsals, workshops, and shows",
+    "Pop-up and Mobile Venue Support",
+    "Technical Assistance for Grant Applications",
+    "Operating Support for Emerging Arts Orgs",
+    "paid mentorships, internships, and transitional support",
+    "Training for Educators & Teaching Artists",
+    "Arts + Social Services Programs",
+    "Community Festivals with Educational Focus"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of affordable or dedicated rehearsal/performance spaces",
+    "Difficulty accessing city funding due to complex grant applications",
+    "Insufficient operational support for emerging organizations",
+    "Limited professional development opportunities for artists and educators",
+    "Underserved neighborhoods lacking arts and social services integration"
+  ],
+  "solutions_proposed": [
+    "Offer subsidized or dedicated venues for rehearsals, workshops, and shows",
+    "Support for touring programs or temporary performance installations across neighborhoods",
+    "Provide workshops, grant writing help, and coaching for grant applications",
+    "Create operational support grants for emerging arts organizations",
+    "Develop paid mentorships, internships, and transitional support for young artists",
+    "Support credentialing or professional development for arts educators, especially in underserved schools",
+    "Lead initiatives integrating arts into health, housing, or youth services",
+    "Support grassroots festival models that focus on education and accessibility"
+  ],
+  "cached_at": "2025-06-21T02:05:04.742889",
+  "cache_key": "a699176bbeafdf6abcbc1f3ffddff0da5e074ffae8c1a62c8083222108573d9c",
+  "model": "gpt-41"
+}

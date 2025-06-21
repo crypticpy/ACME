@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "venue affordability",
+    "venue size and suitability",
+    "access to appropriate spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Accommodatable venues",
+    "pricing to scale"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venue pricing",
+    "venue scale"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:17.083987",
+  "cache_key": "9ecd03b5f4abf99ccf5a282e1ed4d6e17d3ce00993457d8e55aea2b0fa5ed10f",
+  "model": "gpt-41"
+}

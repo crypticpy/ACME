@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for long-standing organizations",
+    "recognition of community contribution",
+    "prioritization of established groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "support the organizations that have spent years contributing to the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support organizations that have spent years contributing to the community"
+  ],
+  "cached_at": "2025-06-20T10:27:39.995785",
+  "cache_key": "83ebbaa78b1cb6f384b9d7b7ba2e741605a298b80023217a47892ad62c9ead03",
+  "model": "gpt-41"
+}

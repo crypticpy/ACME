@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for international music events",
+    "emphasis on ethnic diversity in programming",
+    "leveraging producer experience for cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "extraordinary to have international music events",
+    "drawing in as many groups from as many ethnic backgrounds as possible",
+    "I am an event producer",
+    "experience hosting large scale cultural events",
+    "annual Hurriyah Festival in Austin, TX"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Hurriyah Festival"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "have international music events drawing in as many groups from as many ethnic backgrounds as possible"
+  ],
+  "cached_at": "2025-06-21T00:52:39.393924",
+  "cache_key": "1c7567879cac85044d54ff0f1c317de469b2578d55be12c370a1ba0fe98dd57e",
+  "model": "gpt-41"
+}

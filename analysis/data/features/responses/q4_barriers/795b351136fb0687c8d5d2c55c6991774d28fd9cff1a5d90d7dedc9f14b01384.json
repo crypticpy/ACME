@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical accessibility in music venues",
+    "chronic pain and disability barriers",
+    "lack of seating options",
+    "infrastructure needs (reinforced flooring)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Standing for over 2 hours is impossible for me",
+    "I have a benign but very painful tumor in my left foot",
+    "I wish seating options or reinforced flooring were more available in our city\u2019s music venues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to stand for long periods due to medical condition",
+    "lack of seating options in music venues",
+    "inadequate flooring for people with mobility or pain issues"
+  ],
+  "solutions_proposed": [
+    "more available seating options in music venues",
+    "reinforced flooring in music venues"
+  ],
+  "cached_at": "2025-06-21T01:20:59.470859",
+  "cache_key": "795b351136fb0687c8d5d2c55c6991774d28fd9cff1a5d90d7dedc9f14b01384",
+  "model": "gpt-41"
+}

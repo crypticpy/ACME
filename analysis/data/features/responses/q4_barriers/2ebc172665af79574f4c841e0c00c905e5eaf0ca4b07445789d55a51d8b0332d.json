@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of creative workspaces",
+    "decline in public programs for tool access",
+    "lack of funding for skilled trades education"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "massive withdrawal of working spaces",
+    "flex spaces",
+    "maker spaces",
+    "public programs surrounding tool libraries",
+    "funding for skilled trade experience and education"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "withdrawal of working spaces",
+    "loss of flex spaces",
+    "loss of maker spaces",
+    "reduction of public programs for tool libraries",
+    "lack of funding for skilled trade experience and education"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:34.922315",
+  "cache_key": "2ebc172665af79574f4c841e0c00c905e5eaf0ca4b07445789d55a51d8b0332d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for locally organized, smaller events",
+    "critique of corporate and institutional festivals",
+    "desire for inclusive, intellectually stimulating events",
+    "concern about overemphasis on culturally specific programming",
+    "perception of reverse discrimination in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More locally organized created, smaller events",
+    "less corporate, institutional festivals",
+    "Less culturally specific events and more fun, creative, art, intellectually stimulating events that appeal to everyone",
+    "We need to be bringing people together",
+    "too much trying to make up for injustices",
+    "people who are considered advantaged are having the same type of discrimination done to them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overemphasis on culturally specific events",
+    "perceived reverse discrimination",
+    "dominance of corporate and institutional festivals"
+  ],
+  "solutions_proposed": [
+    "more locally organized, smaller events",
+    "less corporate, institutional festivals",
+    "more inclusive, intellectually stimulating events that appeal to everyone"
+  ],
+  "cached_at": "2025-06-21T00:45:30.144696",
+  "cache_key": "69b5982c9a13a209a395703e0f0ee3b5ba48a8d608408264ec8f79bf2c217b80",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "partnerships with additional spaces",
+    "collaboration with schools",
+    "support for young artists and creatives",
+    "expanded opportunities for collaboration",
+    "increased exposure to available resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "partnerships with additional spaces",
+    "schools and their programming of young artists and creatives",
+    "expanded opportunities for collaboration",
+    "exposure to what is available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited partnerships with spaces",
+    "insufficient collaboration with schools",
+    "lack of exposure to available opportunities"
+  ],
+  "solutions_proposed": [
+    "form partnerships with additional spaces",
+    "collaborate with schools and their programming for young artists and creatives",
+    "expand opportunities for collaboration and exposure"
+  ],
+  "cached_at": "2025-06-21T02:01:18.234394",
+  "cache_key": "c3578ccae5b832592e77ff1baafe402daf750ec547f6df8e016955a7b3ed0794",
+  "model": "gpt-41"
+}

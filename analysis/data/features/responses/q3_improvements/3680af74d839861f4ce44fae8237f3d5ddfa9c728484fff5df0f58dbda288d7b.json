@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern for legacy organizations",
+    "impact of DEI-focused funding",
+    "uncertainty about new program effects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "legacy organizations that have depended on city funding",
+    "struggling because of the recent push for dei awardees",
+    "these are still fairly new"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential disadvantage to legacy organizations due to DEI funding priorities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:09:14.385915",
+  "cache_key": "3680af74d839861f4ce44fae8237f3d5ddfa9c728484fff5df0f58dbda288d7b",
+  "model": "gpt-41"
+}

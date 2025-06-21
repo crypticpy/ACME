@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient funding for cultural organizations",
+    "support for organizations teaching younger generations",
+    "need for broader funding availability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more support and funding aviability",
+    "other cultural organization",
+    "teach the younger generations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding availability for cultural organizations"
+  ],
+  "solutions_proposed": [
+    "increase support and funding availability for organizations that teach younger generations"
+  ],
+  "cached_at": "2025-06-20T10:37:25.676194",
+  "cache_key": "462eff8358d23196950c890f882d4ed02d124960ae069f76dd17e0721a1b599b",
+  "model": "gpt-41"
+}

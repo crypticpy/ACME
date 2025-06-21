@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more theatre performances",
+    "interest in new band shows",
+    "expansion of live entertainment options"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More Theatre",
+    "new band shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase theatre performances",
+    "Offer more new band shows"
+  ],
+  "cached_at": "2025-06-21T00:40:00.641863",
+  "cache_key": "bb2c382da98d336525f2bff9f964100438eebdd2e5d874c4ed879e2d5150c73e",
+  "model": "gpt-41"
+}

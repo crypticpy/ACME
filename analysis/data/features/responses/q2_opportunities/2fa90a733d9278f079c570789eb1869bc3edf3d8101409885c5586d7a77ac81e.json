@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more burlesque performances",
+    "Interest in poetry nights",
+    "Increased dance opportunities",
+    "Support for live music events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Burlesque",
+    "Poetry nights",
+    "dance",
+    "live music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More burlesque events",
+    "More poetry nights",
+    "More dance opportunities",
+    "More live music"
+  ],
+  "cached_at": "2025-06-21T00:30:34.092429",
+  "cache_key": "2fa90a733d9278f079c570789eb1869bc3edf3d8101409885c5586d7a77ac81e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of recommendations",
+    "communication with ACME staff"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "If you have any trouble reading the linked recommendations provided, please be in touch"
+  ],
+  "intent": "offer_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "trouble reading the linked recommendations"
+  ],
+  "solutions_proposed": [
+    "contact ACME if there are issues accessing recommendations"
+  ],
+  "cached_at": "2025-06-21T02:20:14.220705",
+  "cache_key": "384c3e9c0435575c1d1a390b1924d924020c644bc50b4955d9af20fad3326e06",
+  "model": "gpt-41"
+}

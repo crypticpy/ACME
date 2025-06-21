@@ -1,0 +1,49 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equity in cultural funding",
+    "accessibility challenges for underrepresented groups",
+    "complexity of grant application processes",
+    "need for culturally relevant and multilingual outreach",
+    "importance of hands-on guidance and support",
+    "bureaucratic barriers to participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "meaningful step toward equity",
+    "accessibility for historically underrepresented artists and organizations remains mixed",
+    "grant programs like Nexus and Elevate are explicitly designed to support new, small, and culturally diverse applicants",
+    "the application process can still be daunting",
+    "without grant-writing experience, institutional support, or digital access",
+    "streamline the process",
+    "offer multilingual and culturally relevant outreach",
+    "provide hands-on guidance",
+    "reduce bureaucratic barriers",
+    "equity isn\u2019t just about eligibility\u2014it\u2019s also about navigation and support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "daunting application process",
+    "lack of grant-writing experience",
+    "lack of institutional support",
+    "lack of digital access",
+    "bureaucratic barriers"
+  ],
+  "solutions_proposed": [
+    "streamline the process",
+    "offer multilingual and culturally relevant outreach",
+    "provide hands-on guidance",
+    "reduce bureaucratic barriers"
+  ],
+  "cached_at": "2025-06-21T01:04:56.855187",
+  "cache_key": "84b0998680815b0ecb59da1bde41ee2466f5b82e26342dadb547d6e86ae28d92",
+  "model": "gpt-41"
+}

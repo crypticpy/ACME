@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for street artists",
+    "performance art community inclusion",
+    "expansion of opportunities for underrepresented groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities for street artists",
+    "performance art community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for street artists",
+    "underrepresentation of the performance art community"
+  ],
+  "solutions_proposed": [
+    "offer more opportunities for street artists",
+    "increase support for the performance art community"
+  ],
+  "cached_at": "2025-06-21T02:06:26.326564",
+  "cache_key": "f57fc671baa18bed80a8a0e7e3cea332900e53cdf62e1584cd22b0a24d54a396",
+  "model": "gpt-41"
+}

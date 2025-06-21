@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Geographic concentration of programming in downtown Austin",
+    "Transportation and parking as access barriers",
+    "Insufficient presence of museums and cultural programs",
+    "Need to improve quality of cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Programming is focused in downtown austin",
+    "parking and transportation is a barrier",
+    "Museums and cultural programs need a much higher presence",
+    "quality needs to be elevated"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Programming is focused in downtown Austin",
+    "Parking is a barrier",
+    "Transportation is a barrier",
+    "Low presence of museums and cultural programs"
+  ],
+  "solutions_proposed": [
+    "Museums and cultural programs need a much higher presence",
+    "Quality needs to be elevated"
+  ],
+  "cached_at": "2025-06-21T01:47:43.645323",
+  "cache_key": "5e2a7290d0ed156e5f60f5c58c6c26244ea6ab750adc98d072bf15435f826677",
+  "model": "gpt-41"
+}

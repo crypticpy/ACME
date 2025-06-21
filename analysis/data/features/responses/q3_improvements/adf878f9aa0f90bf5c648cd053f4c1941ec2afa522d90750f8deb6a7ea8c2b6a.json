@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient application time",
+    "communication issues with representatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Not enough time to apply for funding",
+    "better communication skills from representatives"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Not enough time to apply for funding",
+    "poor communication from representatives"
+  ],
+  "solutions_proposed": [
+    "allow more time to apply for funding",
+    "improve communication skills of representatives"
+  ],
+  "cached_at": "2025-06-21T00:56:26.667458",
+  "cache_key": "adf878f9aa0f90bf5c648cd053f4c1941ec2afa522d90750f8deb6a7ea8c2b6a",
+  "model": "gpt-41"
+}

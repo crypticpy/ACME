@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "investment in historic museums and spaces",
+    "cross-sector collaboration between preservation and music/performance",
+    "underrepresentation of historic preservation in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "great investment into historic museums and spaces",
+    "facilitate programatic relationships between the preservation sector and the music/performance worlds of Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of programmatic relationships between preservation and music/performance sectors",
+    "underinvestment in historic museums and spaces"
+  ],
+  "solutions_proposed": [
+    "greater investment into historic museums and spaces",
+    "facilitate programmatic relationships between preservation and music/performance sectors"
+  ],
+  "cached_at": "2025-06-21T02:01:54.877548",
+  "cache_key": "463cb6bdd9d3e6ae0bc77e9ee64342ed716bd9f655382f8ca63f6dcf83e59fe0",
+  "model": "gpt-41"
+}

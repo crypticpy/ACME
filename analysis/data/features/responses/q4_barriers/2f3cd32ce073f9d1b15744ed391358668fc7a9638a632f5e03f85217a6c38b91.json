@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty accessing city grants",
+    "requirement for community mobilization",
+    "barriers to individual applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "to be competitive for a city grant",
+    "you have to mobilize a group of people in the community",
+    "otherwise, no deal"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "need to mobilize a group to be eligible for city grants",
+    "lack of support for individuals or those without a community group"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:20.466180",
+  "cache_key": "2f3cd32ce073f9d1b15744ed391358668fc7a9638a632f5e03f85217a6c38b91",
+  "model": "gpt-41"
+}

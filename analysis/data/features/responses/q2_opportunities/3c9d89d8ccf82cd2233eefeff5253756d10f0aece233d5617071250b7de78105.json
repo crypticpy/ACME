@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in classical music events",
+    "support for visual arts expansion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More dance",
+    "classical music",
+    "visual arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase dance opportunities",
+    "Increase classical music events",
+    "Expand visual arts offerings"
+  ],
+  "cached_at": "2025-06-21T00:37:22.581061",
+  "cache_key": "3c9d89d8ccf82cd2233eefeff5253756d10f0aece233d5617071250b7de78105",
+  "model": "gpt-41"
+}

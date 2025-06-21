@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of venues",
+    "cost of living for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Venue costs",
+    "costs of living for artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high venue costs",
+    "high cost of living for artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:50.919301",
+  "cache_key": "2b92890276365bbb2641eb84802199714d6290862f32e954e70ab64c063f5e71",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "appreciation for ACME's work",
+    "desire for grant support",
+    "community belonging in the arts",
+    "aspiration to organize community events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "y'all overall do excellent work",
+    "I'd love to help secure a grant for my organization",
+    "the kind of event we've been dreaming of for our community",
+    "seeing the kind of work and communities you support",
+    "I'm happy to call myself a part of the Austin arts community"
+  ],
+  "intent": "express_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:26.712433",
+  "cache_key": "e9444fc59f19cf9745bdeea274d9f3da92929cd812e2d944553fbf7339a6e947",
+  "model": "gpt-41"
+}

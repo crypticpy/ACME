@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "regional marketing for the arts",
+    "empowerment of arts nonprofits",
+    "critique of City of Austin's (CoA) approach",
+    "need for sector-informed decision-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Regional marketing",
+    "empower arts nonprofits to increase services",
+    "CoA has always tried to do too much",
+    "empower partners who understand how the sector works and what it truly needs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "City attempts to do too much itself rather than empowering sector partners",
+    "Lack of sector-informed decision-making"
+  ],
+  "solutions_proposed": [
+    "Implement regional marketing",
+    "Empower arts nonprofits to increase services",
+    "Let partners who understand the sector take the lead"
+  ],
+  "cached_at": "2025-06-21T02:03:07.362201",
+  "cache_key": "955a91b331e599a2182af0415e726ecfb7937334b18c674cb20321fc397540cf",
+  "model": "gpt-41"
+}

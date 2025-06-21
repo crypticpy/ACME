@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "interest in science and educational opportunities",
+    "appreciation for the Natural Science Center",
+    "need for maintenance or improvement of existing facilities",
+    "desire for more community arts events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Science & educational",
+    "the Natural Science Center is amazing, but needs TLC",
+    "Community Arts events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Natural Science Center"
+  ],
+  "barriers_identified": [
+    "Natural Science Center needs TLC (implies maintenance issues)"
+  ],
+  "solutions_proposed": [
+    "Provide maintenance or improvements to the Natural Science Center",
+    "Offer more science and educational opportunities",
+    "Increase community arts events"
+  ],
+  "cached_at": "2025-06-21T00:33:09.360154",
+  "cache_key": "146bc1d7649db253bb410120c80b8762c4b66a33b3300ebafda791f7d9e537d7",
+  "model": "gpt-41"
+}

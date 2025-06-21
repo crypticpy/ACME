@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about process speed",
+    "fear of reinstating previous barriers",
+    "current lack of barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Currently none",
+    "I'm afraid this rushed process could unintentionally lead to creating or reinstating barriers",
+    "barriers that had previously been removed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential for new or reinstated barriers due to rushed process"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:16.077457",
+  "cache_key": "fabaaaccbf4e507edb63c661c07cf8364f09ccbc21355a282ce3b5c2fa66e484",
+  "model": "gpt-41"
+}

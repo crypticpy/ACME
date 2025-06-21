@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking opportunities",
+    "community building",
+    "artist and organization collaboration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more organization and artist meet ups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more organization and artist meet ups"
+  ],
+  "cached_at": "2025-06-21T02:06:04.331970",
+  "cache_key": "a96f801eca039fc9af265ee7dd9fc3206730d6cbdaa4b06829854c73f7251b83",
+  "model": "gpt-41"
+}

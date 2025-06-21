@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "support for artists",
+    "direct assistance",
+    "artist-centered funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Help the artists!!!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Help the artists"
+  ],
+  "cached_at": "2025-06-21T02:10:01.661236",
+  "cache_key": "7ead08ef80e5be85ba017c16c23fcb58b9641ac2b27e2e0d394e285f1a51da20",
+  "model": "gpt-41"
+}

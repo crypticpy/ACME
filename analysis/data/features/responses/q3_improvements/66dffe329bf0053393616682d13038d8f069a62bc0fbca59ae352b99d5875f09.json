@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prejudice in funding decisions",
+    "equity and fairness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Remove prejudice"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "prejudice"
+  ],
+  "solutions_proposed": [
+    "Remove prejudice"
+  ],
+  "cached_at": "2025-06-21T01:02:06.416102",
+  "cache_key": "66dffe329bf0053393616682d13038d8f069a62bc0fbca59ae352b99d5875f09",
+  "model": "gpt-41"
+}

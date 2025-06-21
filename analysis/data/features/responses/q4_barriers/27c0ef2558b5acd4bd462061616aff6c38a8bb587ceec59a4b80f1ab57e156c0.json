@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers to cultural access",
+    "need for improved public transit to cultural centers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Transportation access",
+    "bus stops directly in front of each cultural center"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of convenient transportation to cultural centers"
+  ],
+  "solutions_proposed": [
+    "Bus stops should be directly in front of each cultural center"
+  ],
+  "cached_at": "2025-06-21T01:44:00.608234",
+  "cache_key": "27c0ef2558b5acd4bd462061616aff6c38a8bb587ceec59a4b80f1ab57e156c0",
+  "model": "gpt-41"
+}

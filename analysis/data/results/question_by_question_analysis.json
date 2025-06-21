@@ -1,0 +1,974 @@
+{
+  "\u00a0How would you describe your role or relationship with Austin\u2019s creative community? (Select all that apply)\u00a0": {
+    "question": "\u00a0How would you describe your role or relationship with Austin\u2019s creative community? (Select all that apply)\u00a0",
+    "total_responses": 1128,
+    "sample_responses": [
+      "Artist or creative professional ;Cultural organization representative ;Nonprofit leader ;Resident/community member ;Educator ;",
+      "Nonprofit leader ;Artist or creative professional ;Resident/community member ;",
+      "Artist or creative professional ;Musician or performer ;Cultural organization representative ;Nonprofit leader ;Educator ;Resident/community member ;",
+      "Artist or creative professional ;Nonprofit leader ;Cultural organization representative ;",
+      "Musician or performer ;Cultural organization representative ;Nonprofit leader ;Resident/community member ;"
+    ],
+    "avg_length": 67,
+    "common_words": [
+      {
+        "word": "artist",
+        "count": 685
+      },
+      {
+        "word": "professional",
+        "count": 683
+      },
+      {
+        "word": "creative",
+        "count": 682
+      },
+      {
+        "word": "community",
+        "count": 643
+      },
+      {
+        "word": "member",
+        "count": 641
+      },
+      {
+        "word": "resident",
+        "count": 639
+      },
+      {
+        "word": "owner",
+        "count": 353
+      },
+      {
+        "word": "musician",
+        "count": 335
+      },
+      {
+        "word": "performer",
+        "count": 334
+      },
+      {
+        "word": "small",
+        "count": 287
+      }
+    ]
+  },
+  "Which types of arts and culture experiences do you most enjoy? (Select all that apply.)\u00a0": {
+    "question": "Which types of arts and culture experiences do you most enjoy? (Select all that apply.)\u00a0",
+    "total_responses": 1183,
+    "sample_responses": [
+      "Performing arts (theater, dance, spoken word) ;Live Music (festivals, concerts, local gigs) ;Visual arts (museums, galleries, murals, street art) ;Film and media (independent films, film festivals) ;Cultural festivals and heritage celebrations ;Literary arts (poetry readings, book festivals) ;",
+      "Performing arts (theater, dance, spoken word) ;Live Music (festivals, concerts, local gigs) ;Film and media (independent films, film festivals) ;Literary arts (poetry readings, book festivals) ;Cultural festivals and heritage celebrations ;Visual arts (museums, galleries, murals, street art) ;",
+      "Cultural festivals and heritage celebrations ;arts-related educational opportunities (workshops, lectures, discussions);",
+      "Literary arts (poetry readings, book festivals) ;Visual arts (museums, galleries, murals, street art) ;",
+      "Live Music (festivals, concerts, local gigs) ;Performing arts (theater, dance, spoken word) ;Visual arts (museums, galleries, murals, street art) ;Cultural festivals and heritage celebrations ;"
+    ],
+    "avg_length": 186,
+    "common_words": [
+      {
+        "word": "festivals",
+        "count": 2733
+      },
+      {
+        "word": "arts",
+        "count": 2217
+      },
+      {
+        "word": "film",
+        "count": 1334
+      },
+      {
+        "word": "music",
+        "count": 880
+      },
+      {
+        "word": "local",
+        "count": 879
+      },
+      {
+        "word": "live",
+        "count": 878
+      },
+      {
+        "word": "concerts",
+        "count": 877
+      },
+      {
+        "word": "gigs",
+        "count": 877
+      },
+      {
+        "word": "visual",
+        "count": 874
+      },
+      {
+        "word": "murals",
+        "count": 874
+      }
+    ]
+  },
+  "Which Austin-based venues or cultural spaces do you frequently visit for arts, culture and entertainment?\u00a0": {
+    "question": "Which Austin-based venues or cultural spaces do you frequently visit for arts, culture and entertainment?\u00a0",
+    "total_responses": 907,
+    "sample_responses": [
+      "Carver Museum, African American Cultural and Heritage Facility, Central Library, independent bookstores, DAWA, Texas Book Festival, the Paramount, for Torch Events ",
+      "Dougherty Arts Center, Carver Museum, KMFA, First Street Studios, Cafe Dance",
+      "City cultural centers (AARC, Carver) and libraries",
+      "Texas Book Festival, The Contemporary Austin, Women & Their Work, Harry Ransom Center, Blanton Museum of Art, Canopy",
+      "Paramount, Moody (both venues), Waterloo Greenway, Downtown Public Library"
+    ],
+    "avg_length": 75,
+    "common_words": [
+      {
+        "word": "center",
+        "count": 380
+      },
+      {
+        "word": "austin",
+        "count": 200
+      },
+      {
+        "word": "museum",
+        "count": 176
+      },
+      {
+        "word": "long",
+        "count": 171
+      },
+      {
+        "word": "theater",
+        "count": 169
+      },
+      {
+        "word": "theatre",
+        "count": 163
+      },
+      {
+        "word": "blanton",
+        "count": 156
+      },
+      {
+        "word": "moody",
+        "count": 116
+      },
+      {
+        "word": "carver",
+        "count": 107
+      },
+      {
+        "word": "park",
+        "count": 105
+      }
+    ]
+  },
+  "How do you typically learn about arts, music, and cultural events in Austin? (Select all that apply.)\u00a0": {
+    "question": "How do you typically learn about arts, music, and cultural events in Austin? (Select all that apply.)\u00a0",
+    "total_responses": 1153,
+    "sample_responses": [
+      "Instagram;Email newsletters from arts organizations ;Word of mouth (friends, family, coworkers) ;Austin Chronicle (printed or digital) ;Other newspapers, radio, TV, blogs;Event websites (Do512, Now Playing Austin, Eventbrite, etc.);City of Austin websites, including City Event Calendar/ Organization\u2019s individual websites ;Poster or flyer posted in a public place (like a billboard at a coffee shop or school) ;In-person outreach events (you talked to someone) ;Facebook;",
+      "Instagram;Email newsletters from arts organizations ;Word of mouth (friends, family, coworkers) ;",
+      "Instagram;Facebook;Email newsletters from arts organizations ;City of Austin websites, including City Event Calendar/ Organization\u2019s individual websites ;",
+      "Instagram;Email newsletters from arts organizations ;",
+      "Instagram;Facebook;Email newsletters from arts organizations ;Word of mouth (friends, family, coworkers) ;Austin Chronicle (printed or digital) ;Poster or flyer posted in a public place (like a billboard at a coffee shop or school) ;"
+    ],
+    "avg_length": 203,
+    "common_words": [
+      {
+        "word": "austin",
+        "count": 1323
+      },
+      {
+        "word": "websites",
+        "count": 990
+      },
+      {
+        "word": "friends",
+        "count": 925
+      },
+      {
+        "word": "word",
+        "count": 923
+      },
+      {
+        "word": "mouth",
+        "count": 923
+      },
+      {
+        "word": "family",
+        "count": 923
+      },
+      {
+        "word": "coworkers",
+        "count": 923
+      },
+      {
+        "word": "organizations",
+        "count": 821
+      },
+      {
+        "word": "email",
+        "count": 820
+      },
+      {
+        "word": "arts",
+        "count": 820
+      }
+    ]
+  },
+  "Do you feel that all Austin residents have equal access to arts, cultural, music, and entertainment opportunities?\u00a0": {
+    "question": "Do you feel that all Austin residents have equal access to arts, cultural, music, and entertainment opportunities?\u00a0",
+    "total_responses": 1145,
+    "sample_responses": [
+      "No, accessibility is a major issue ",
+      "Somewhat, but there are barriers for certain communities ",
+      "No, accessibility is a major issue ",
+      "Somewhat, but there are barriers for certain communities ",
+      "No, accessibility is a major issue "
+    ],
+    "avg_length": 49,
+    "common_words": [
+      {
+        "word": "somewhat",
+        "count": 691
+      },
+      {
+        "word": "barriers",
+        "count": 691
+      },
+      {
+        "word": "certain",
+        "count": 691
+      },
+      {
+        "word": "communities",
+        "count": 691
+      },
+      {
+        "word": "accessibility",
+        "count": 294
+      },
+      {
+        "word": "major",
+        "count": 294
+      },
+      {
+        "word": "issue",
+        "count": 294
+      },
+      {
+        "word": "opportunities",
+        "count": 160
+      },
+      {
+        "word": "widely",
+        "count": 160
+      },
+      {
+        "word": "accessible",
+        "count": 160
+      }
+    ]
+  },
+  "What barriers, if any, prevent you from participating in arts and culture events in Austin?\u00a0(Select all that apply.)": {
+    "question": "What barriers, if any, prevent you from participating in arts and culture events in Austin?\u00a0(Select all that apply.)",
+    "total_responses": 1124,
+    "sample_responses": [
+      "Cost of tickets or admission fees ;Location- Lack of nearby venues or events in my neighborhood ;Transportation / parking issues ;Limited diversity/ representation/ inclusion in events ;",
+      "Cost of tickets or admission fees ;",
+      "Cost of tickets or admission fees ;Location- Lack of nearby venues or events in my neighborhood ;Transportation / parking issues ;Limited diversity/ representation/ inclusion in events ;Lack of awareness about events and programs ;The events don\u2019t match my interests ;",
+      "Cost of tickets or admission fees ;Transportation / parking issues ;Lack of awareness about events and programs ;Limited diversity/ representation/ inclusion in events ;",
+      "Cost of tickets or admission fees ;Location- Lack of nearby venues or events in my neighborhood ;Transportation / parking issues ;Limited diversity/ representation/ inclusion in events ;"
+    ],
+    "avg_length": 128,
+    "common_words": [
+      {
+        "word": "events",
+        "count": 1639
+      },
+      {
+        "word": "lack",
+        "count": 1123
+      },
+      {
+        "word": "cost",
+        "count": 774
+      },
+      {
+        "word": "tickets",
+        "count": 773
+      },
+      {
+        "word": "admission",
+        "count": 771
+      },
+      {
+        "word": "fees",
+        "count": 771
+      },
+      {
+        "word": "transportation",
+        "count": 741
+      },
+      {
+        "word": "parking",
+        "count": 741
+      },
+      {
+        "word": "issues",
+        "count": 740
+      },
+      {
+        "word": "about",
+        "count": 618
+      }
+    ]
+  },
+  "What do you believe are the biggest challenges facing Austin\u2019s arts, culture, and music scene? (Select up to 3)\u00a0": {
+    "question": "What do you believe are the biggest challenges facing Austin\u2019s arts, culture, and music scene? (Select up to 3)\u00a0",
+    "total_responses": 1173,
+    "sample_responses": [
+      "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Need for expanded cultural programming ;",
+      "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Impact of gentrification on creative communities ;",
+      "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Impact of gentrification on creative communities ;",
+      "Need for expanded cultural programming ;Accessibility of arts and cultural events to all residents ;Impact of gentrification on creative communities ;",
+      "Lack of funding for artists and creatives ;Rising costs of venues and performance spaces ;Accessibility of arts and cultural events to all residents ;"
+    ],
+    "avg_length": 129,
+    "common_words": [
+      {
+        "word": "artists",
+        "count": 1219
+      },
+      {
+        "word": "funding",
+        "count": 940
+      },
+      {
+        "word": "lack",
+        "count": 928
+      },
+      {
+        "word": "creatives",
+        "count": 917
+      },
+      {
+        "word": "venues",
+        "count": 897
+      },
+      {
+        "word": "spaces",
+        "count": 890
+      },
+      {
+        "word": "costs",
+        "count": 888
+      },
+      {
+        "word": "rising",
+        "count": 887
+      },
+      {
+        "word": "performance",
+        "count": 884
+      },
+      {
+        "word": "creative",
+        "count": 535
+      }
+    ]
+  },
+  "Austin's creative community has built a strong foundation of existing organizations that informs ACME's goals and mission. How do you believe ACME should better support these organizations and cul...": {
+    "question": "Austin's creative community has built a strong foundation of existing organizations that informs ACME's goals and mission. How do you believe ACME should better support these organizations and cul...",
+    "total_responses": 825,
+    "sample_responses": [
+      "Meet with cultural leaders regularly, document reported needs, and take actions to create equitable programs that support small and medium-sized organizations that serve historically marginalized communities that have been negatively impacted by overdevelopment, and the priorities of a few major arts venues that do not meet or represent the cultural needs of all residents.",
+      "Hello, I am unsure as to how the strong foundation of existing organizations has been built, as I direct a nonprofit organization, and I have not been reached out to by the office. None of my peers have been reached out to by the office. I believe ACME should better support organizations and cultural leaders by starting there--reaching out to us. Creating opportunities for collective voice. Getting to know the community and building trust with us, before proposing changes to the funding structure, is imperative if you plan to serve us. ",
+      "Take their suggestions seriously, and encourage/incentivize them to focus more on community outreach (gathering community feedback, attending community events, helping to spread word about community events).",
+      "Funding local nonprofits and arts organizations, especially those that provide free and accessible opportunities to the community, is essential, especially in these times of diminishing federal funding.",
+      "Consistent communication, consistent funding, comprehensive understanding of issues and commitment to prioritizing and solving without politicizing. "
+    ],
+    "avg_length": 257,
+    "common_words": [
+      {
+        "word": "funding",
+        "count": 493
+      },
+      {
+        "word": "organizations",
+        "count": 348
+      },
+      {
+        "word": "arts",
+        "count": 313
+      },
+      {
+        "word": "artists",
+        "count": 276
+      },
+      {
+        "word": "support",
+        "count": 272
+      },
+      {
+        "word": "austin",
+        "count": 248
+      },
+      {
+        "word": "community",
+        "count": 235
+      },
+      {
+        "word": "city",
+        "count": 227
+      },
+      {
+        "word": "acme",
+        "count": 186
+      },
+      {
+        "word": "cultural",
+        "count": 183
+      }
+    ]
+  },
+  "What type of cultural arts or entertainment opportunities would you like to see more of in Austin?\u00a0": {
+    "question": "What type of cultural arts or entertainment opportunities would you like to see more of in Austin?\u00a0",
+    "total_responses": 836,
+    "sample_responses": [
+      "Literary Arts - To be a progressive city that values literacy, critical thinking, and thought-provoking conversations that lead to positive and impactful change, literary arts must be central to the community. Writers, presses, and literary arts organizations need major support and visibility from the city beyond the library system. ",
+      "We have a beautiful community already that needs support.",
+      "Literary and Literacy-supporting events; free cultural programming",
+      "Affordable rehearsal spaces, support for diverse choral arts",
+      "local, experimental performance and visual art"
+    ],
+    "avg_length": 159,
+    "common_words": [
+      {
+        "word": "events",
+        "count": 238
+      },
+      {
+        "word": "artists",
+        "count": 235
+      },
+      {
+        "word": "arts",
+        "count": 230
+      },
+      {
+        "word": "music",
+        "count": 230
+      },
+      {
+        "word": "austin",
+        "count": 218
+      },
+      {
+        "word": "like",
+        "count": 167
+      },
+      {
+        "word": "opportunities",
+        "count": 148
+      },
+      {
+        "word": "cultural",
+        "count": 128
+      },
+      {
+        "word": "city",
+        "count": 121
+      },
+      {
+        "word": "community",
+        "count": 115
+      }
+    ]
+  },
+  "Prior to this survey, were you aware of the following programs administered by the City of Austin/ACME?\u00a0\n(Select all that you are aware of; checkboxes for each program)\u00a0": {
+    "question": "Prior to this survey, were you aware of the following programs administered by the City of Austin/ACME?\u00a0\n(Select all that you are aware of; checkboxes for each program)\u00a0",
+    "total_responses": 971,
+    "sample_responses": [
+      "Nexus Grant Program ;Elevate Grant Program ;Thrive Grant Program ;Austin\u00a0Live Music Fund Grant Program;Creative Space Assistance Program ;Heritage Preservation Grant ;Art in Public Places (AIPP) Ordinance and Program ;",
+      "Nexus Grant Program ;Elevate Grant Program ;Thrive Grant Program ;Austin\u00a0Live Music Fund Grant Program;Heritage Preservation Grant ;Art in Public Places (AIPP) Ordinance and Program ;Creative Space Assistance Program ;",
+      "Nexus Grant Program ;Elevate Grant Program ;Thrive Grant Program ;Austin\u00a0Live Music Fund Grant Program;Creative Space Assistance Program ;Heritage Preservation Grant ;Art in Public Places (AIPP) Ordinance and Program ;",
+      "Nexus Grant Program ;Elevate Grant Program ;Thrive Grant Program ;Heritage Preservation Grant ;",
+      "Elevate Grant Program ;Austin\u00a0Live Music Fund Grant Program;Art in Public Places (AIPP) Ordinance and Program ;"
+    ],
+    "avg_length": 114,
+    "common_words": [
+      {
+        "word": "program",
+        "count": 3236
+      },
+      {
+        "word": "grant",
+        "count": 2662
+      },
+      {
+        "word": "nexus",
+        "count": 622
+      },
+      {
+        "word": "public",
+        "count": 610
+      },
+      {
+        "word": "places",
+        "count": 610
+      },
+      {
+        "word": "aipp",
+        "count": 610
+      },
+      {
+        "word": "ordinance",
+        "count": 610
+      },
+      {
+        "word": "elevate",
+        "count": 606
+      },
+      {
+        "word": "thrive",
+        "count": 583
+      },
+      {
+        "word": "austin",
+        "count": 498
+      }
+    ]
+  },
+  "What improvements would you like to see in these cultural funding programs?": {
+    "question": "What improvements would you like to see in these cultural funding programs?",
+    "total_responses": 730,
+    "sample_responses": [
+      "Experienced leadership and panelists in literary arts. \nA safeguard system for review when scores are irregular, which might be a red flag for a bigger issue during the panel process. \nMore transparency in the process from design to implementation. \nExtended multi-year funding (longer than 2 years for Thrive) for small to medium-sized organizations growing to institution status. ",
+      "I would like to see these programs become more accessible and equitable, not less. ACME's proposed changes to the current funding structure would be detrimental to Austin organizations and artists. The proposal to instate a 50% match, a required year off from funding, funding caps based on the organization's operating budget, and requirement to either be a nonprofit or fiscally sponsored to receive funding are all greatly prohibitive to equitable access. Reintroducing these outdated grant practices would, essentially, remove funding from the majority of organizations and artists who are currently building capacity thanks to these new programs, and put it in the hands of the few large institutions who already dominate the scene. I believe this would be more detrimental to organizations like ours than if we had never received the funding at all, as we would be forced to lay off staff, cut programming, and decrease hourly pay for artists. I urge you to pause this anonymous working group, and connect with the community before moving your suggestions forward to Council. ",
+      "Application criteria and wording in the application/eligibility materials that encourages organizations serving multiple racial/ethnic demographics (rather than a singular racial/ethnic demographic) to apply for funding, especially if the organization is providing equitable services on the basis of very real inequities, such as age, disability, and/or income. For example, organizations that provide meaningful educational arts, music, or dance classes to low-income populations, whose demographics may or may not be tied to a single majority ethnic or racial identity and who, because of economic disadvantages, may not be able to access these programs otherwise. As of now, the grant\u2019s language (regarding eligibility, application questions, and the rubric) is structured so that it favors organizations serving a singular racial/ethnic identity established by founders representing a singular racial/ethnic identity. But other inequalities, such as poverty, age, and/or disability, impact all racial/ethnic identities. Can organizations addressing these important issues also qualify for this grant? And if this is too far from the intent of the cultural funding grants, can we rethink the allocation of city funding so that there are other opportunities to support the broad spectrum of arts organizations doing important work in our community?\n\n________\nSpace/Venue Support: Is there a way that the grant could automatically include waiver of the space rental fees for a COA venue? If grant recipients wish to hold their events in a city venue, they are essentially paying for use of city facilities with city funding. \n\n_______\nMarketing Support: Is there a way the grant could automatically include waiver of the fees associated with paid promotional marketing packages through VisitAustin? The required calendar listing on VisitAustin website doesn\u2019t necessarily provide a significant impact in the marketing visibility for awardees\u2019 activities. To get beneficial visibility on the VisitAustin platform, you need to sign up for one of the paid promotional packages. As it stands now, if grant recipients wish to get the most benefit from this platform, they are essentially required to use city funding to pay for services from a city-funded organization.\n\n_________\nAvailability of city venues: Is there a way grant recipients can have more equitable access (and perhaps even given more priority) to being able to schedule their events in city venues? As of now, you cannot reserve venues controlled by Austin Parks and Rec more than six months in advance, which is a huge limitation to planning/marketing/promotion of tourism events. And Palmer Events Center is nearly unattainable with the amount of events that are scheduled there, now especially with the closure of Austin Convention Center.  (BTW-Did you know the same Vintage/Garage Sale event has reserved large hall space at Palmer Events Center one weekend out of every single month for at least the past 12 consecutive months and into the next year? This recurring event, with little value in terms of representing the Austin arts and creative community as it focuses on the re-sell of secondhand goods, prevents other organizations from being able to host their events at one of the most affordable large venues in Austin. Since this is a city-owned, taxpayer-funded space, should there perhaps be a limit on the number of weekends the same event/organization can reserve this space?)",
+      "Providing more clarity on funding priorities for the the City and ways that organizations can address perceived gaps.",
+      "Consistency, fair standards, clear communication of priorities and values. No funding limits year to year (i.e. no imposed breaks in funding), no rule that groups with an evaluator on panel cannot receive funding."
+    ],
+    "avg_length": 262,
+    "common_words": [
+      {
+        "word": "funding",
+        "count": 360
+      },
+      {
+        "word": "artists",
+        "count": 245
+      },
+      {
+        "word": "organizations",
+        "count": 190
+      },
+      {
+        "word": "austin",
+        "count": 188
+      },
+      {
+        "word": "arts",
+        "count": 172
+      },
+      {
+        "word": "grant",
+        "count": 164
+      },
+      {
+        "word": "community",
+        "count": 149
+      },
+      {
+        "word": "like",
+        "count": 146
+      },
+      {
+        "word": "support",
+        "count": 143
+      },
+      {
+        "word": "city",
+        "count": 140
+      }
+    ]
+  },
+  "What values do you believe should guide ACME\u2019s mission and vision? (Select up to 3)\u00a0": {
+    "question": "What values do you believe should guide ACME\u2019s mission and vision? (Select up to 3)\u00a0",
+    "total_responses": 1128,
+    "sample_responses": [
+      "Access;Community Empowerment;Sustainability;",
+      "Collaboration;Accessibility;Access;",
+      "Community Empowerment;Access;",
+      "Access;Collaboration;Community Empowerment;",
+      "Access;Community Empowerment;Collaboration;"
+    ],
+    "avg_length": 42,
+    "common_words": [
+      {
+        "word": "community",
+        "count": 663
+      },
+      {
+        "word": "empowerment",
+        "count": 659
+      },
+      {
+        "word": "access",
+        "count": 590
+      },
+      {
+        "word": "collaboration",
+        "count": 522
+      },
+      {
+        "word": "sustainability",
+        "count": 411
+      },
+      {
+        "word": "preservation",
+        "count": 404
+      },
+      {
+        "word": "innovation",
+        "count": 333
+      },
+      {
+        "word": "accessibility",
+        "count": 309
+      },
+      {
+        "word": "artists",
+        "count": 9
+      },
+      {
+        "word": "equity",
+        "count": 7
+      }
+    ]
+  },
+  "What barriers do you or your community face in accessing support or services related to arts, culture, music, and entertainment? ": {
+    "question": "What barriers do you or your community face in accessing support or services related to arts, culture, music, and entertainment? ",
+    "total_responses": 699,
+    "sample_responses": [
+      "Literary arts are the least funded of the arts locally and nationally. Torch Literary Arts supports Black women writers and the larger literary community as a global resource and destination rooted in Austin, TX. Black feminist led and serving nonprofits receive less than half of one percent of global funding. A third of our community members report annual household incomes of less than $25,000. 75% of publishing and literary organizations are white and on the East Coast. This means without local sustained access to literary organizations that meet the creative and professional needs of Black women writers, our voices and literary contributions are under threat of erasure in Austin.  ",
+      "Honestly, threats to our funding like ACME's proposed changes to the CAD structure is our biggest concern right now. If Austin wants to be the progressive city that we claim to be, it would continue to support arts organizations amid the federal and state cuts to funding that are threatening our existence. Having to advocate to keep the support that we were given is a tremendous barrier to the daily work that we need to do to run our organization and create art for Austin. I hope that ACME leadership can back track this proposal, and become accessible to the community. ",
+      "- access to affordable space\n- excessive fees and stipulations to book city-owned venues \n- For example, why is it not allowed (and we were told non-negotiable) to use catering options outside the exclusive in-house catering business $$$ at Palmer Events Center? Their prices are congruent with those of a five-star hotel, with a far more limited menu. These are the types of rates and requirements that prevent many smaller local organizations from being able to access and make use of these city-owned spaces effectively.\n- Another example: Did you know that booking space at city-owned recreation centers costs more than $200 per hour? On top of the flat, non-negotiable hourly rate of $155 per hour, fees for additional staff, custodial services, and utilities are added at the discretion of the venue. This makes rental rates higher than private venues in some cases.\n- Another example of lack of access: Certain city-owned spaces, categorized as special event spaces (e.g. the Pavilion near Fiesta Gardens), have caps on the number of events that can be hosted there each year. Therefore, the space lies vacant most of the year, and the events that are hosted are already \"grandfathered\" in as one of the limited number of \"special events\" that can take place there. There is no way to reserve and host an event in these spaces, even small events that wouldn't have nearly the number of attendees as one of the prioritized larger special events. This blocks smaller organizations from accessing some of the most flexible and affordable city-owned spaces in Austin.\n",
+      "Not as much emphasis or priority focused on the literary arts and literacy advocacy, which is increasingly important in these times when public education in Texas is facing new funding challenges and subpar literacy rates are an ongoing risk.",
+      "Venue availability and affordability, consistent funding support"
+    ],
+    "avg_length": 187,
+    "common_words": [
+      {
+        "word": "lack",
+        "count": 182
+      },
+      {
+        "word": "funding",
+        "count": 181
+      },
+      {
+        "word": "austin",
+        "count": 149
+      },
+      {
+        "word": "artists",
+        "count": 149
+      },
+      {
+        "word": "city",
+        "count": 131
+      },
+      {
+        "word": "community",
+        "count": 130
+      },
+      {
+        "word": "events",
+        "count": 125
+      },
+      {
+        "word": "arts",
+        "count": 123
+      },
+      {
+        "word": "support",
+        "count": 117
+      },
+      {
+        "word": "access",
+        "count": 109
+      }
+    ]
+  },
+  "What should ACME prioritize as its top goals over the next five years? (Select up to 3)\u00a0": {
+    "question": "What should ACME prioritize as its top goals over the next five years? (Select up to 3)\u00a0",
+    "total_responses": 1169,
+    "sample_responses": [
+      "Enhancing equitable grantmaking and funding access ;Supporting working artists and musicians ;Preserving Austin\u2019s historic sites, cultural heritage and creative spaces ;",
+      "Supporting working artists and musicians ;Increasing access to arts and culture in all communities ;",
+      "Driving economic growth through the creative sector ;Supporting working artists and musicians ;Providing paid opportunities to local nonprofits and organizations by outsourcing more services to qualified local organizations (the city departments don't need to be providing on-ground free arts and cultural programs themselves, essentially competing with local organizations and preventing them from revenue opportunities----instead, use city funds to support the many organizations that are living, breathing, and connected in the Austin community and providing those types of services and give them an opportunity to be paid for the work they often do for free);",
+      "Increasing access to arts and culture in all communities ;Expanding youth and educational programming ;Promoting Austin as a global cultural destination ;",
+      "Increasing access to arts and culture in all communities ;Enhancing equitable grantmaking and funding access ;Supporting working artists and musicians ;"
+    ],
+    "avg_length": 159,
+    "common_words": [
+      {
+        "word": "access",
+        "count": 1154
+      },
+      {
+        "word": "creative",
+        "count": 933
+      },
+      {
+        "word": "artists",
+        "count": 825
+      },
+      {
+        "word": "supporting",
+        "count": 818
+      },
+      {
+        "word": "working",
+        "count": 816
+      },
+      {
+        "word": "musicians",
+        "count": 812
+      },
+      {
+        "word": "austin",
+        "count": 740
+      },
+      {
+        "word": "cultural",
+        "count": 727
+      },
+      {
+        "word": "arts",
+        "count": 595
+      },
+      {
+        "word": "funding",
+        "count": 590
+      }
+    ]
+  },
+  "What outcomes or impacts would you most like to see from ACME's work? (Select up to 3)\u00a0": {
+    "question": "What outcomes or impacts would you most like to see from ACME's work? (Select up to 3)\u00a0",
+    "total_responses": 1161,
+    "sample_responses": [
+      "Greater cultural access and representation ;Expanded grant opportunities ;Strengthened partnerships with artists and organizations ;",
+      "Strengthened partnerships with artists and organizations ;Stabilization of music/cultural venues ;",
+      "Strengthened partnerships with artists and organizations ;Growth in creative sector jobs ;Expanded grant opportunities ;",
+      "Expanded grant opportunities ;Strengthened partnerships with artists and organizations ;Greater cultural access and representation ;",
+      "Stabilization of music/cultural venues ;Greater cultural access and representation ;Expanded grant opportunities ;"
+    ],
+    "avg_length": 117,
+    "common_words": [
+      {
+        "word": "cultural",
+        "count": 1108
+      },
+      {
+        "word": "opportunities",
+        "count": 703
+      },
+      {
+        "word": "expanded",
+        "count": 700
+      },
+      {
+        "word": "grant",
+        "count": 699
+      },
+      {
+        "word": "music",
+        "count": 640
+      },
+      {
+        "word": "venues",
+        "count": 638
+      },
+      {
+        "word": "stabilization",
+        "count": 637
+      },
+      {
+        "word": "artists",
+        "count": 624
+      },
+      {
+        "word": "organizations",
+        "count": 621
+      },
+      {
+        "word": "partnerships",
+        "count": 620
+      }
+    ]
+  },
+  "What kinds of programs or services would you like ACME to offer that currently do not exist or are underrepresented? ": {
+    "question": "What kinds of programs or services would you like ACME to offer that currently do not exist or are underrepresented? ",
+    "total_responses": 533,
+    "sample_responses": [
+      "Financial support for small and medium-sized organizations to lease and grow long-term spaces. \nA transparent and equitable program with an application process for the $1 lease contract between art nonprofits, developers, and the city that few organizations enjoy. https://glasstire.com/2024/10/20/dorf-gallery-moves-to-new-location-signs-contract-for-1-annual-rent/",
+      "Again, since the ACME team has not contacted me or my peers, I am unclear on what the Office is currently doing other than working to dismantle the current CAD funding system. I think it would be best to start with connecting with the community.",
+      "Providing more opportunities for paid revenue services for local artists/performers, nonprofits, and organizations that are already doing the work that the city wants to provide to residents and community members. Use city funds to hire local artists/performers and outsource programming to local organizations. \n\nProvide free space (or at least more affordable rates and equitable access to space) in city-owned venues for local organizations to host their own programs. The Creative Space Assistance program as it currently stands is NOT helpful or accessible, especially considering the monetary value of \"assistance\" the program offers---the application is overly complicated and requires a copious amount of specific details and logistical commitments (dates/times) without any guarantee of actually being awarded use of the space. ",
+      "City funding diversification away from HOT.  Increased city/community/artist partnerships, facilitated and/or supported by the City.",
+      "Would love for the literary arts to get more love! "
+    ],
+    "avg_length": 192,
+    "common_words": [
+      {
+        "word": "artists",
+        "count": 212
+      },
+      {
+        "word": "arts",
+        "count": 147
+      },
+      {
+        "word": "support",
+        "count": 127
+      },
+      {
+        "word": "programs",
+        "count": 116
+      },
+      {
+        "word": "city",
+        "count": 115
+      },
+      {
+        "word": "austin",
+        "count": 105
+      },
+      {
+        "word": "community",
+        "count": 98
+      },
+      {
+        "word": "funding",
+        "count": 89
+      },
+      {
+        "word": "like",
+        "count": 87
+      },
+      {
+        "word": "cultural",
+        "count": 77
+      }
+    ]
+  },
+  "How would you like to stay informed and involved with ACME initiatives and planning efforts? (Select all that apply)\u00a0": {
+    "question": "How would you like to stay informed and involved with ACME initiatives and planning efforts? (Select all that apply)\u00a0",
+    "total_responses": 915,
+    "sample_responses": [
+      "I select all options. ",
+      "This only allows the selection of one option: my selections are email newsletters, community meetings/town halls, focus groups, advisory committees",
+      "all of the above---cannot select more than one option",
+      "Any/all- can only select one",
+      "Community meetings or town halls "
+    ],
+    "avg_length": 77,
+    "common_words": [
+      {
+        "word": "email",
+        "count": 726
+      },
+      {
+        "word": "newsletters",
+        "count": 724
+      },
+      {
+        "word": "updates",
+        "count": 537
+      },
+      {
+        "word": "social",
+        "count": 535
+      },
+      {
+        "word": "media",
+        "count": 535
+      },
+      {
+        "word": "online",
+        "count": 458
+      },
+      {
+        "word": "surveys",
+        "count": 456
+      },
+      {
+        "word": "polls",
+        "count": 456
+      },
+      {
+        "word": "meetings",
+        "count": 422
+      },
+      {
+        "word": "focus",
+        "count": 421
+      }
+    ]
+  },
+  "Do you have any additional ideas, concerns, or feedback you would like to share to help ACME better serve the public? ": {
+    "question": "Do you have any additional ideas, concerns, or feedback you would like to share to help ACME better serve the public? ",
+    "total_responses": 369,
+    "sample_responses": [
+      "I would like to support, but I was informed that being on the focus group meant your organization could not apply for city funding for the next two years. Torch Literary Arts and our community cannot afford a loss of potential funding, especially with the federal cuts and limited funding options for Black cultural arts organizations. ",
+      "I am so excited that ACME was developed, and I think it can make a great difference in the lives of artists here in Austin, if that's what it sets out to do. I look forward to connecting with you all, and seeing ACME build trust with the community.",
+      "I appreciate that you're combining all these separate departments under one umbrella initiative. I hope this allows all the departments to better combine their efforts and work together to support the Austin creative community. In particular, I look forward to seeing how the Entertainment branch, with feedback from the arts, cultural arts, and music divisions, can reassess their procedures and policies regarding city-owned spaces to better support local artists and organizations. ",
+      "Looking forward to ACME office getting rolling and the opportunities it will provide!  Thank you.",
+      "Thanks for Keeping Austin Creative! "
+    ],
+    "avg_length": 271,
+    "common_words": [
+      {
+        "word": "austin",
+        "count": 159
+      },
+      {
+        "word": "arts",
+        "count": 138
+      },
+      {
+        "word": "city",
+        "count": 111
+      },
+      {
+        "word": "artists",
+        "count": 110
+      },
+      {
+        "word": "community",
+        "count": 109
+      },
+      {
+        "word": "funding",
+        "count": 106
+      },
+      {
+        "word": "acme",
+        "count": 89
+      },
+      {
+        "word": "cultural",
+        "count": 84
+      },
+      {
+        "word": "support",
+        "count": 69
+      },
+      {
+        "word": "like",
+        "count": 65
+      }
+    ]
+  }
+}

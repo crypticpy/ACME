@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of familiarity with programs"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "I'm not incredibly familiar with these programs."
+  ],
+  "intent": "information_gap",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness or familiarity with cultural funding programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:07:29.016215",
+  "cache_key": "a669bf991f371f722c2b19d5f7174f5b1d4bcc0b8d9f7dc733003404091e0d42",
+  "model": "gpt-41"
+}

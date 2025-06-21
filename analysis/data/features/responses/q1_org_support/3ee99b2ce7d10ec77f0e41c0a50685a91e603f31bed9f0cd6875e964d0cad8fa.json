@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for emerging artists",
+    "need for physical or dedicated spaces",
+    "increased funding for cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "create spaces for emerging artists",
+    "more funding programs for cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces for emerging artists",
+    "insufficient funding for cultural events"
+  ],
+  "solutions_proposed": [
+    "create spaces for emerging artists",
+    "develop more funding programs for cultural events"
+  ],
+  "cached_at": "2025-06-20T01:17:52.491270",
+  "cache_key": "3ee99b2ce7d10ec77f0e41c0a50685a91e603f31bed9f0cd6875e964d0cad8fa",
+  "model": "gpt-41"
+}

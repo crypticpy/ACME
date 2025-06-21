@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threats to LGBT communities",
+    "impact of lawmakers on cultural access",
+    "hostility from local communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "LGBT communities are being threatened",
+    "by lawmakers",
+    "close minded communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "threats from lawmakers",
+    "hostility from close minded communities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:16.474188",
+  "cache_key": "bb7db1af71b99c5461f06436ad9ca509da3b0a351bc54a0275e64653518fca72",
+  "model": "gpt-41"
+}

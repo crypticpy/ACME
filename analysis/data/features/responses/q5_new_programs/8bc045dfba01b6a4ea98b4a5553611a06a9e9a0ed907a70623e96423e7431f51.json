@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist-led and community-rooted programming",
+    "critique of institutional bureaucracy and gatekeeping",
+    "support for multi-generational and heritage-based cultural practices",
+    "need for ongoing, not short-term, support",
+    "access to affordable and flexible community spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "funded with trust, not bureaucracy",
+    "placemaking events led by the people who already live, teach, perform, and build culture here",
+    "not short-term projects curated by institutions that don\u2019t reflect the communities they claim to serve",
+    "programs that fund multi-generational cultural heritage \u2014 social dance, oral history, live music, food traditions",
+    "support should go to the artists and organizers already doing the work",
+    "access to space \u2014 not just stages, but community gathering spaces, open air venues, and flexible-use studios",
+    "aren\u2019t behind paywalls or limited by institutionalized gatekeeping"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "bureaucracy in funding",
+    "institutional gatekeeping",
+    "lack of access to affordable or flexible spaces",
+    "funding going to institutions rather than community members",
+    "paywalls limiting space access"
+  ],
+  "solutions_proposed": [
+    "fund artist-led, community-rooted programming",
+    "provide ongoing support for placemaking events led by local culture bearers",
+    "fund multi-generational cultural heritage activities (social dance, oral history, live music, food traditions)",
+    "direct support to existing artists and organizers",
+    "increase access to community gathering spaces, open air venues, and flexible-use studios without paywalls or institutional barriers"
+  ],
+  "cached_at": "2025-06-21T01:55:35.390540",
+  "cache_key": "8bc045dfba01b6a4ea98b4a5553611a06a9e9a0ed907a70623e96423e7431f51",
+  "model": "gpt-41"
+}

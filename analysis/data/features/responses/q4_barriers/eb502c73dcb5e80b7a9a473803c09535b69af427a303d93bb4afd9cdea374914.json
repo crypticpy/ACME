@@ -1,0 +1,23 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cost of tickets"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Cost of tickets"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:13.867820",
+  "cache_key": "eb502c73dcb5e80b7a9a473803c09535b69af427a303d93bb4afd9cdea374914",
+  "model": "gpt-41"
+}

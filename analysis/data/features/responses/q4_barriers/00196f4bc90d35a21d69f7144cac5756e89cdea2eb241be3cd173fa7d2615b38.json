@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost barriers to cultural participation",
+    "transportation challenges",
+    "economic accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Transportation",
+    "ticket pricing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Transportation",
+    "ticket pricing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:27.745126",
+  "cache_key": "00196f4bc90d35a21d69f7144cac5756e89cdea2eb241be3cd173fa7d2615b38",
+  "model": "gpt-41"
+}

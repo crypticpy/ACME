@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing grant opportunities",
+    "increasing grant amounts",
+    "support for organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "create more opportunities",
+    "increase the number of grants awarded",
+    "increase the size of the grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited number of grants",
+    "insufficient grant size"
+  ],
+  "solutions_proposed": [
+    "increase the number of grants awarded",
+    "increase the size of the grants"
+  ],
+  "cached_at": "2025-06-20T10:29:44.760470",
+  "cache_key": "c47e2c3cebb548a6e99cec4d535585a95c1ba4191a64463edbaae0f8940fe837",
+  "model": "gpt-41"
+}

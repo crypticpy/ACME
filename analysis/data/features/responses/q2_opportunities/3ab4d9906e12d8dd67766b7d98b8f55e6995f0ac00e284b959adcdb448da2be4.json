@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for international cultural festivals",
+    "Economic benefits of cultural events",
+    "Cultural enrichment through global music and instruments",
+    "Learning from successful models in other cities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "We need to have a Festival International, the way Lafayette Louisiana does",
+    "it generates income for the city",
+    "provides cultural enlightenment to the million people who show up",
+    "Instruments from Africa, and around the world are sold to our community",
+    "helps influence our music in a broader, worldly aspect"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Festival International"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Host a Festival International in Austin modeled after Lafayette, Louisiana"
+  ],
+  "cached_at": "2025-06-21T00:51:14.267727",
+  "cache_key": "3ab4d9906e12d8dd67766b7d98b8f55e6995f0ac00e284b959adcdb448da2be4",
+  "model": "gpt-41"
+}

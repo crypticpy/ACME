@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Overlooked newer/smaller organizations",
+    "Funding concentration in long-standing institutions",
+    "Need for community-driven work",
+    "Importance of inclusivity and innovation",
+    "Support for organizations committed to change"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "put more focus on supporting newer/smaller organizations",
+    "doing real, community-driven work but often get overlooked",
+    "A lot of funding still goes to long-standing institutions that aren't evolving with the times",
+    "Shifting some of that support toward emerging groups",
+    "long standing organizations that are committed to change",
+    "help keep Austin\u2019s creative scene fresh, inclusive, and future-focused"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "newer/smaller organizations often get overlooked",
+    "funding still goes to long-standing institutions that aren't evolving"
+  ],
+  "solutions_proposed": [
+    "put more focus on supporting newer/smaller organizations",
+    "shift some support toward emerging groups",
+    "support long standing organizations that are committed to change"
+  ],
+  "cached_at": "2025-06-20T10:22:46.494520",
+  "cache_key": "500feef3fbe0154e1e82528eb87ca8620c1f83a07c162964ffcabf8cfe1e8b1c",
+  "model": "gpt-41"
+}

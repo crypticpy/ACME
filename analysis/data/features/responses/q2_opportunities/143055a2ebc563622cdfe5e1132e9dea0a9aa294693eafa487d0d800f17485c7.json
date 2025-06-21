@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "dedicated marketplaces for creative workers",
+    "shared operational spaces for artists",
+    "economic opportunities for creators",
+    "comparison to food hall model"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "places where creators can sell their work",
+    "artists, craft makers, jewelry makers, booksellers, designers, all kinds of creative workers",
+    "like how a food hall allows restaurants to operate in smaller, shared spaces",
+    "shared multiple businesses - but for creative workers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of dedicated spaces for creators to sell work",
+    "burdens of operating a business individually"
+  ],
+  "solutions_proposed": [
+    "create shared spaces for creative workers to sell their work, modeled after food halls"
+  ],
+  "cached_at": "2025-06-21T00:39:08.573369",
+  "cache_key": "143055a2ebc563622cdfe5e1132e9dea0a9aa294693eafa487d0d800f17485c7",
+  "model": "gpt-41"
+}

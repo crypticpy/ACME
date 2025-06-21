@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high ticket prices limiting access",
+    "lack of accessible event spaces",
+    "bureaucratic obstacles from the City of Austin",
+    "difficulty for groups to produce arts events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Ticket prices too high",
+    "no accessibility to spaces for events",
+    "City of Austin makes it too hard",
+    "too many hoops",
+    "groups to get space to produce arts events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high ticket prices",
+    "lack of accessible event spaces",
+    "excessive bureaucratic requirements for obtaining event space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:59.171843",
+  "cache_key": "4257190988c9f5a647a309d1919fb492e2aec84dc014324209dbb58d523ed054",
+  "model": "gpt-41"
+}

@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for more art museums"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Art Museums"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more art museums"
+  ],
+  "cached_at": "2025-06-21T00:51:05.548619",
+  "cache_key": "8bd64cf9f6a511c68c8f578fe56a22e4f574308ae8659cf930b102a17e8919dd",
+  "model": "gpt-41"
+}

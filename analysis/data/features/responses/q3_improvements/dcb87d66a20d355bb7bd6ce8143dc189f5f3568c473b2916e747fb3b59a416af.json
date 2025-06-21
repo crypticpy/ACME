@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for small artists",
+    "promotion of smaller events",
+    "access to small grants",
+    "facilitation of small music festivals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More opportunities for small artists",
+    "Marketing for smaller shows",
+    "small grants to help put together small music festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of marketing for smaller shows",
+    "insufficient grant opportunities for small artists"
+  ],
+  "solutions_proposed": [
+    "more opportunities for small artists",
+    "marketing for smaller shows",
+    "small grants to help put together small music festivals"
+  ],
+  "cached_at": "2025-06-21T01:01:20.090801",
+  "cache_key": "dcb87d66a20d355bb7bd6ce8143dc189f5f3568c473b2916e747fb3b59a416af",
+  "model": "gpt-41"
+}

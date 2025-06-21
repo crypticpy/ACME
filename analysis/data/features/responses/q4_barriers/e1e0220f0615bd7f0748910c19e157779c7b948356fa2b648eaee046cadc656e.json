@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "local community focus versus tourism",
+    "barriers to city funding eligibility",
+    "support for local artists",
+    "grant criteria prioritizing tourism",
+    "desire to benefit Austin residents"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "small business owner focused on our local community instead of tourists",
+    "better support the artists we bring in for entertainment",
+    "do not seem to necessarily qualify for city funding",
+    "heavily focused on supporting tourism",
+    "I want to support Austin and Austinites"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "city funding criteria prioritize tourism over local community focus",
+    "ineligibility for grants due to non-tourism focus"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:30.698984",
+  "cache_key": "e1e0220f0615bd7f0748910c19e157779c7b948356fa2b648eaee046cadc656e",
+  "model": "gpt-41"
+}

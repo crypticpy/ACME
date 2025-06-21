@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "satisfaction with current cultural offerings",
+    "recognition of diversity in arts and entertainment"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "impressed with the wide array of offerings"
+  ],
+  "intent": "expression_of_satisfaction",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:51:51.828617",
+  "cache_key": "fbc5fb562d98d63523157b3c63965a5906deb1a8d20fae498e494aca60570db7",
+  "model": "gpt-41"
+}

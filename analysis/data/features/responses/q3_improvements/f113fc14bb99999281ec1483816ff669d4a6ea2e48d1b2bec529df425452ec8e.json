@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding cuts to specific organizations",
+    "precarity for underrepresented groups",
+    "demotion in funding program tiers",
+    "need for equity in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "Red Salmon Arts was demoted",
+    "applying for Thrive monies",
+    "60% of our funding was cut",
+    "putting us in a great deal of precarity",
+    "consider those most, at risk, and historically underrepresented and underfunded organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Red Salmon Arts",
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "demotion in funding tier",
+    "significant funding reduction",
+    "lack of support for at-risk and underrepresented organizations"
+  ],
+  "solutions_proposed": [
+    "consider those most at risk, and historically underrepresented and underfunded organizations"
+  ],
+  "cached_at": "2025-06-21T01:17:45.259484",
+  "cache_key": "f113fc14bb99999281ec1483816ff669d4a6ea2e48d1b2bec529df425452ec8e",
+  "model": "gpt-41"
+}

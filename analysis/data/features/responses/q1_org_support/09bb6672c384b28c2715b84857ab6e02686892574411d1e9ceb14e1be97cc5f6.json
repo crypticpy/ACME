@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "project-based funding vs. individual funding",
+    "generative and multiplying impact in arts funding",
+    "sustainable infrastructure for arts (spaces, publications)",
+    "critique of one-off or short-term funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Fund the project, not the person",
+    "fund projects that are generative, that have a multiplying effect in an arts ecosystem",
+    "instead of funding a one-off short run show, fund a consistent space that puts on multiple exhibitions",
+    "instead of funding a single artist's publicity campaign, fund arts publications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "one-off short run show funding",
+    "single artist's publicity campaign funding"
+  ],
+  "solutions_proposed": [
+    "Fund projects rather than individuals",
+    "Prioritize generative projects with multiplying effects",
+    "Fund consistent spaces for multiple exhibitions",
+    "Fund arts publications instead of individual publicity campaigns"
+  ],
+  "cached_at": "2025-06-20T10:33:10.500618",
+  "cache_key": "09bb6672c384b28c2715b84857ab6e02686892574411d1e9ceb14e1be97cc5f6",
+  "model": "gpt-41"
+}

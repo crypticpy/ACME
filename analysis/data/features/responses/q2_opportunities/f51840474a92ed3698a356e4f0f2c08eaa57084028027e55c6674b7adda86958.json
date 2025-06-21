@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of community-oriented art programs",
+    "Need for genuine community engagement by institutions",
+    "Perceived isolation of major art museums",
+    "Value of accessible local art events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "it'll be a loss for the city now that Big Medium is gone",
+    "We need art institutions with sincere interests in community engagement",
+    "The Blanton is a great museum, but it's insulated and isolated from the community it is meant to serve"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Austin Studio Tour",
+    "Big Medium",
+    "Blanton"
+  ],
+  "barriers_identified": [
+    "art institutions insulated and isolated from the community"
+  ],
+  "solutions_proposed": [
+    "art institutions with sincere interests in community engagement"
+  ],
+  "cached_at": "2025-06-21T00:53:06.663699",
+  "cache_key": "f51840474a92ed3698a356e4f0f2c08eaa57084028027e55c6674b7adda86958",
+  "model": "gpt-41"
+}

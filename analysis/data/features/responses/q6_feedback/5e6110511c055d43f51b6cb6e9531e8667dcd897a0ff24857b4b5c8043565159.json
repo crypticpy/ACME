@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased awareness of school arts activities",
+    "support for student artistic events",
+    "recognition of fine arts educators' talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Create awareness and support for area schools\u2019 artistic activities",
+    "concerts, plays, cultural events, and art exhibits",
+    "Fine Arts educators are stunningly gifted"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness and support for school arts activities"
+  ],
+  "solutions_proposed": [
+    "Create awareness and support for area schools\u2019 artistic activities"
+  ],
+  "cached_at": "2025-06-21T02:20:30.399180",
+  "cache_key": "5e6110511c055d43f51b6cb6e9531e8667dcd897a0ff24857b4b5c8043565159",
+  "model": "gpt-41"
+}

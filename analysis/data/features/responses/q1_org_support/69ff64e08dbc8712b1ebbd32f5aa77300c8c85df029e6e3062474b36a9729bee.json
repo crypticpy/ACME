@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "rewarding sustained community impact",
+    "incentivizing organizational excellence",
+    "grant program development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "create a grant reward system",
+    "organizations that do great work in the community over time"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "create a grant reward system for organizations that do great work in the community over time"
+  ],
+  "cached_at": "2025-06-20T10:36:01.678039",
+  "cache_key": "69ff64e08dbc8712b1ebbd32f5aa77300c8c85df029e6e3062474b36a9729bee",
+  "model": "gpt-41"
+}

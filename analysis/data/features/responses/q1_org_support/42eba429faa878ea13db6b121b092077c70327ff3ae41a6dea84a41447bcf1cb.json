@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of marketing resources for nonprofits",
+    "need for increased media visibility",
+    "support for nonprofit organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Helping to market nonprofits with no marketing budgets",
+    "opportunities to be in television broadcasting",
+    "be visible in television news segments"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "no marketing budgets"
+  ],
+  "solutions_proposed": [
+    "helping nonprofits access television broadcasting and news segments for visibility"
+  ],
+  "cached_at": "2025-06-20T01:16:13.653705",
+  "cache_key": "42eba429faa878ea13db6b121b092077c70327ff3ae41a6dea84a41447bcf1cb",
+  "model": "gpt-41"
+}

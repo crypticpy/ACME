@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for return of discontinued events",
+    "community engagement through art tours",
+    "nostalgia for past cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "bring back the Studio Tours"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Studio Tours"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "bring back the Studio Tours"
+  ],
+  "cached_at": "2025-06-21T00:35:40.923751",
+  "cache_key": "1357f1e2047b8ddbfb7dba8e7e0a5e80d5a9190d3c4a99832f0e4935fef384d4",
+  "model": "gpt-41"
+}

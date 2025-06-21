@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for specific organizations",
+    "representation of women and Tejana filmmakers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "WIF",
+    "Tejanas in Film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "WIF",
+    "Tejanas in Film"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support WIF",
+    "support Tejanas in Film"
+  ],
+  "cached_at": "2025-06-20T10:25:22.507452",
+  "cache_key": "d2195a146b69bc77c9b9f1e11d28dc93b141d25bcd03ffab1210bf17af9f834f",
+  "model": "gpt-41"
+}

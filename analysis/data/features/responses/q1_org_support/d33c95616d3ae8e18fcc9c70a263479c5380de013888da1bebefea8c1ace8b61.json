@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "sustained funding for creatives",
+    "networking and collaboration opportunities",
+    "organizational capacity building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "secure continued funding",
+    "create opportunities for creatives",
+    "connect and grow stronger together"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "secure continued funding",
+    "create opportunities for creatives and creative organizations to connect and grow stronger together"
+  ],
+  "cached_at": "2025-06-20T10:23:50.907159",
+  "cache_key": "d33c95616d3ae8e18fcc9c70a263479c5380de013888da1bebefea8c1ace8b61",
+  "model": "gpt-41"
+}

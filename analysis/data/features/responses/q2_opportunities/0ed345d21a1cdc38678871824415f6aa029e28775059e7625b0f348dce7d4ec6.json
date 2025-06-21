@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "access to venues",
+    "organizational needs",
+    "scale of cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more accessibility to larger venues",
+    "for organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to larger venues for organizations"
+  ],
+  "solutions_proposed": [
+    "increase accessibility to larger venues for organizations"
+  ],
+  "cached_at": "2025-06-21T00:50:01.396982",
+  "cache_key": "0ed345d21a1cdc38678871824415f6aa029e28775059e7625b0f348dce7d4ec6",
+  "model": "gpt-41"
+}

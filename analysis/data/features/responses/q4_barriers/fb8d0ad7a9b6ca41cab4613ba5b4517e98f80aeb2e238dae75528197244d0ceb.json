@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "superficial selection criteria by bookers",
+    "emphasis on social media metrics over talent",
+    "lack of opportunities for artists without specific image or sound",
+    "gatekeeping in music and entertainment booking"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Bookers only want people who are beautiful",
+    "Or have 10k IG followers or Spotify plays",
+    "ZERO opportunities unless you sound like Joy Division or have a hot bassist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "preference for physical appearance by bookers",
+    "requirement for high social media or streaming metrics",
+    "limited stylistic diversity accepted by bookers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:30.034493",
+  "cache_key": "fb8d0ad7a9b6ca41cab4613ba5b4517e98f80aeb2e238dae75528197244d0ceb",
+  "model": "gpt-41"
+}

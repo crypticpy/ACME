@@ -1,0 +1,23 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "difficulty accessing cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Access to events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Access to events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:56.285461",
+  "cache_key": "273ba5661850f7ad9b8aaa998bcf76bcfeed91eea2b9f251f5b917e082316737",
+  "model": "gpt-41"
+}

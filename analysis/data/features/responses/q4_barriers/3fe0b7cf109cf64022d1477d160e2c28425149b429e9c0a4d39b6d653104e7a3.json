@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "overreliance on City funding",
+    "ineffective deployment of City resources",
+    "need for knowledgeable staff",
+    "lack of alternative funding sources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the City is the primary funder",
+    "we need other resources",
+    "we also need the City to deploy their millions effectively",
+    "with staff that knows what they are doing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overdependence on a single funder (the City)",
+    "ineffective use of City funding",
+    "lack of knowledgeable staff in City administration",
+    "insufficient alternative funding sources"
+  ],
+  "solutions_proposed": [
+    "seek additional funding resources beyond the City",
+    "improve effectiveness of City funding deployment",
+    "ensure City staff are knowledgeable"
+  ],
+  "cached_at": "2025-06-21T01:41:18.439186",
+  "cache_key": "3fe0b7cf109cf64022d1477d160e2c28425149b429e9c0a4d39b6d653104e7a3",
+  "model": "gpt-41"
+}

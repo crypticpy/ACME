@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more accessible performing arts",
+    "inclusivity for people of all abilities",
+    "community participation in cultural groups"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more opportunities such as River City Pops",
+    "very accessible show choir group",
+    "allows people from all walks of life and abilities to participate"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "River City Pops"
+  ],
+  "barriers_identified": [
+    "limited accessible opportunities for people of all abilities"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for accessible show choir groups like River City Pops"
+  ],
+  "cached_at": "2025-06-21T00:33:18.212304",
+  "cache_key": "f6aa5db95d2c8350840cf0be11dfea4ab25d146c3af3c0c539744ac911762ffa",
+  "model": "gpt-41"
+}

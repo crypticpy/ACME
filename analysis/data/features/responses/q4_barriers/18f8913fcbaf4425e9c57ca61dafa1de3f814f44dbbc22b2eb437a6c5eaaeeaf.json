@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding",
+    "impact of gentrification",
+    "transportation and parking challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding",
+    "gentrification",
+    "parking/traffic"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding",
+    "gentrification",
+    "parking/traffic"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:38.488306",
+  "cache_key": "18f8913fcbaf4425e9c57ca61dafa1de3f814f44dbbc22b2eb437a6c5eaaeeaf",
+  "model": "gpt-41"
+}

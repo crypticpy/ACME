@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "time-consuming grant application processes",
+    "low probability of receiving funding",
+    "artist precarity and struggle",
+    "cost-benefit imbalance for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "very time consuming",
+    "very low likelihood of obtaining whatever grant/opportunity",
+    "artists are already struggling as a whole",
+    "take up our time for a tiny maybe chance of a reward",
+    "pretty rough"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time-consuming application processes",
+    "low likelihood of success in obtaining grants or opportunities",
+    "existing financial and professional struggles among artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:37.036089",
+  "cache_key": "649323f038f660246390b26744008221178ba821300fa3dbe2bbe1020b518ad9",
+  "model": "gpt-41"
+}

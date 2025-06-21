@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "strengthening underrepresented cultural programming",
+    "opposition to dismantling existing programs",
+    "concern about loss of current cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "strengthen existing underrepresented cultural programming",
+    "dismantling existing programming will not be particularly helpful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "risk of dismantling existing programming"
+  ],
+  "solutions_proposed": [
+    "strengthen existing underrepresented cultural programming",
+    "avoid dismantling existing programming"
+  ],
+  "cached_at": "2025-06-21T02:05:52.044684",
+  "cache_key": "d3c20c21c9b2e06b9558136a1faab1e9dc27a213ff3bc97764288989ea0c5a0f",
+  "model": "gpt-41"
+}

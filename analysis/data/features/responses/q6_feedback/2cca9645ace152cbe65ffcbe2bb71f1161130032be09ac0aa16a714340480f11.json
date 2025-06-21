@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in cultural funding",
+    "failure to deliver requested audits",
+    "need for critical reflection on past mistakes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "reflect on what went wrong with cultural funding",
+    "more rigorously",
+    "audits have been requested but they have not been delivered"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of delivered audits",
+    "insufficient reflection on past funding issues"
+  ],
+  "solutions_proposed": [
+    "conduct and deliver rigorous audits",
+    "engage in more thorough reflection on past cultural funding problems"
+  ],
+  "cached_at": "2025-06-21T02:20:16.522671",
+  "cache_key": "2cca9645ace152cbe65ffcbe2bb71f1161130032be09ac0aa16a714340480f11",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "inclusivity in decision-making",
+    "community engagement",
+    "representation of diverse voices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "invite more voices to the table"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diverse input"
+  ],
+  "solutions_proposed": [
+    "invite more voices to the table"
+  ],
+  "cached_at": "2025-06-20T10:38:44.032477",
+  "cache_key": "cea6ca4889e07fae3925e773bf2ab0916cbbe9d592416aa3ac9c9c39aaff2b76",
+  "model": "gpt-41"
+}

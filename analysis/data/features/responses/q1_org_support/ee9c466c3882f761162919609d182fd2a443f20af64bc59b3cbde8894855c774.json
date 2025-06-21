@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "facilitating collaboration among cultural leaders",
+    "financial support for event organizers",
+    "tax incentives for economic impact",
+    "property tax relief for cultural contributors"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Get us together!",
+    "Discuss ways to financially help people who throw creative cultural events.",
+    "Give tax incentives for people who create a strong economic impact for the City of Austin.",
+    "Give them property tax breaks."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support for cultural event organizers",
+    "absence of tax incentives for those creating economic impact"
+  ],
+  "solutions_proposed": [
+    "convene cultural leaders for discussion",
+    "provide financial assistance to creative event organizers",
+    "offer tax incentives for economic impact",
+    "grant property tax breaks to contributors"
+  ],
+  "cached_at": "2025-06-20T10:28:27.625984",
+  "cache_key": "ee9c466c3882f761162919609d182fd2a443f20af64bc59b3cbde8894855c774",
+  "model": "gpt-41"
+}

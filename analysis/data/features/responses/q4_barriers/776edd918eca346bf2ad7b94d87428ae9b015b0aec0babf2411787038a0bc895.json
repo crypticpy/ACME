@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Rising operational costs for arts organizations",
+    "Financial sustainability challenges for singing groups",
+    "Fundraising efforts and limitations",
+    "Need for external support to serve the community",
+    "Comparison to other a cappella choruses nationally"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "The cost of weekly rehearsal and storage space for us has doubled in the past year",
+    "It's a bigger burden than we were equipped to deal with",
+    "We've initiated fundraising efforts and are putting on more events to try to sustain our organization",
+    "there's not a lot more revenue coming in for a singing organization like ours",
+    "We really need more help or need to put in more effort to be able to become a community asset",
+    "other a cappella choruses across the country are able to do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Doubling of rehearsal and storage space costs",
+    "Insufficient revenue for singing organizations",
+    "Limited fundraising capacity"
+  ],
+  "solutions_proposed": [
+    "More help (support) for organizations to become community assets"
+  ],
+  "cached_at": "2025-06-21T01:24:39.511825",
+  "cache_key": "776edd918eca346bf2ad7b94d87428ae9b015b0aec0babf2411787038a0bc895",
+  "model": "gpt-41"
+}

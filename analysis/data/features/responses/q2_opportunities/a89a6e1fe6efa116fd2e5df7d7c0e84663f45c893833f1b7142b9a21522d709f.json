@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more small live music venues",
+    "interest in neighborhood-based street festivals",
+    "critique of summer-only outdoor events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more small live music venues",
+    "more small street festivals in neighborhoods, not just downtown",
+    "less outdoor events that only take place in the summer"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "outdoor events only take place in the summer",
+    "events concentrated downtown rather than in neighborhoods"
+  ],
+  "solutions_proposed": [
+    "increase small live music venues",
+    "host more small street festivals in neighborhoods",
+    "reduce reliance on summer-only outdoor events"
+  ],
+  "cached_at": "2025-06-21T00:30:41.385188",
+  "cache_key": "a89a6e1fe6efa116fd2e5df7d7c0e84663f45c893833f1b7142b9a21522d709f",
+  "model": "gpt-41"
+}

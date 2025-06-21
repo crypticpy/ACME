@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased hip hop events",
+    "more Latin cultural festivals",
+    "greater diversity in event booking",
+    "access to free cultural shows"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more hip hop shows",
+    "latin festivals",
+    "diverse booking",
+    "free shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more hip hop shows",
+    "Host more Latin festivals",
+    "Increase diversity in booking",
+    "Provide more free shows"
+  ],
+  "cached_at": "2025-06-21T00:24:40.619509",
+  "cache_key": "d040386d04d44d2bdc96f5ea2c0310fb5ef0d0f829ca0cbc1886faa671627b6d",
+  "model": "gpt-41"
+}

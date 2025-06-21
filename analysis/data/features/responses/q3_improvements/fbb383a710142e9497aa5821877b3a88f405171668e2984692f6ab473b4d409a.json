@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "irrelevance of application process to artists/arts organizations",
+    "lack of implementation of community feedback",
+    "disrespect and dismissal of community concerns",
+    "inappropriate use of corporate language in program titles",
+    "need to prioritize fixing existing processes over new improvements"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "application that is relevant to the artists/arts organizations",
+    "surveys we filled out were never implemented",
+    "were ignored and shut down",
+    "this model is disrespectful to us as a community",
+    "fix the application before taking on 'new' improvements",
+    "titles these programs have given are corporate lingo and has no relevance to the arts",
+    "lets create new ones"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "irrelevant application process",
+    "community feedback ignored",
+    "disrespectful engagement with artists",
+    "use of corporate language alienates artists"
+  ],
+  "solutions_proposed": [
+    "fix the application before taking on new improvements",
+    "create new program titles relevant to the arts"
+  ],
+  "cached_at": "2025-06-21T00:57:45.587615",
+  "cache_key": "fbb383a710142e9497aa5821877b3a88f405171668e2984692f6ab473b4d409a",
+  "model": "gpt-41"
+}

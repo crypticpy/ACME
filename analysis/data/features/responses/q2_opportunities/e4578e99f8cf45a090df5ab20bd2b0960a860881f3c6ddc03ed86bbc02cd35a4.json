@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for authentic integration of Latin arts",
+    "Barriers in connecting with venues and booking agents",
+    "Need for intentional bridge-building between Latin and white arts communities",
+    "Call for prioritizing cultural equity in funding and opportunities",
+    "Interest in mentorship and dedicated showcases for Latin artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "truly centered and celebrate Latin voices",
+    "not just festivals or theme events, but as an integrated part of Austin\u2018s cultural fabric",
+    "incredibly challenging to connect with Venue\u2018s managers and Booking agent",
+    "more intentional efforts to build bridges between Latin artists and the white Austin arts infrastructure",
+    "dedicated showcases, mentorship programs, venue, partnerships, and funding opportunities are prioritize, cultural equity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "challenging to connect with Venue\u2018s managers and Booking agent",
+    "lack of investment in supporting Latin music and communities",
+    "Latin arts not integrated into Austin's cultural fabric"
+  ],
+  "solutions_proposed": [
+    "more intentional efforts to build bridges between Latin artists and the white Austin arts infrastructure",
+    "dedicated showcases",
+    "mentorship programs",
+    "venue partnerships",
+    "funding opportunities that prioritize cultural equity"
+  ],
+  "cached_at": "2025-06-21T00:38:31.499571",
+  "cache_key": "e4578e99f8cf45a090df5ab20bd2b0960a860881f3c6ddc03ed86bbc02cd35a4",
+  "model": "gpt-41"
+}

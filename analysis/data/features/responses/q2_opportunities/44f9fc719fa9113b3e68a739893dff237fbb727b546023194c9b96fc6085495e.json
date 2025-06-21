@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for recurring neighborhood art events",
+    "Loss of significant cultural events",
+    "Community-wide cultural engagement",
+    "Impact of organizational closures on arts scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "a dedicated once a month night for an 'art walk' or 'art tour' or 'cultural experience' across various neighborhoods",
+    "Austin lost a great event with Big Medium going under",
+    "EAST was amazing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium",
+    "EAST"
+  ],
+  "barriers_identified": [
+    "Loss of major art event due to organization closure"
+  ],
+  "solutions_proposed": [
+    "a dedicated once a month night for an 'art walk' or 'art tour' or 'cultural experience' across various neighborhoods"
+  ],
+  "cached_at": "2025-06-21T00:48:15.389750",
+  "cache_key": "44f9fc719fa9113b3e68a739893dff237fbb727b546023194c9b96fc6085495e",
+  "model": "gpt-41"
+}

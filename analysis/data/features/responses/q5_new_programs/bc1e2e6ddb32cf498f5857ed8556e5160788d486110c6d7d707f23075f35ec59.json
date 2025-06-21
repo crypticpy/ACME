@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for studio assistance",
+    "high cost of rent",
+    "support for emerging artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "studio assistance program",
+    "rents are very expensive",
+    "help for emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "very expensive rents"
+  ],
+  "solutions_proposed": [
+    "studio assistance program",
+    "help for emerging artists"
+  ],
+  "cached_at": "2025-06-21T02:08:07.391260",
+  "cache_key": "bc1e2e6ddb32cf498f5857ed8556e5160788d486110c6d7d707f23075f35ec59",
+  "model": "gpt-41"
+}

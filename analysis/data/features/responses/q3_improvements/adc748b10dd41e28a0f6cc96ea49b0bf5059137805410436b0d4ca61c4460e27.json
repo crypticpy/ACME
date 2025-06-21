@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "expanding support to more artists and organizations",
+    "redistribution of funding",
+    "increasing inclusivity in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "broader ability to help lift MORE artists and organizations up",
+    "less going to each, in order to help more"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited number of recipients due to current funding distribution"
+  ],
+  "solutions_proposed": [
+    "distribute funding more broadly among more recipients",
+    "reduce individual grant amounts to support more artists and organizations"
+  ],
+  "cached_at": "2025-06-21T00:59:03.021272",
+  "cache_key": "adc748b10dd41e28a0f6cc96ea49b0bf5059137805410436b0d4ca61c4460e27",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational closures due to lack of funding",
+    "insufficient city funding for the arts",
+    "need for alternative funding sources",
+    "role of corporations and community foundations in arts support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "hard to see so many organizations fold",
+    "lack of funding over the past 5 years",
+    "isn't enough city funding to provide substantial grants",
+    "more efforts in encouraging corporations and community foundation to support the arts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city funding",
+    "insufficient grant support"
+  ],
+  "solutions_proposed": [
+    "encouraging corporations and community foundation to support the arts"
+  ],
+  "cached_at": "2025-06-20T01:21:11.749634",
+  "cache_key": "33557ccd38f5eee93c73746dcbec29613213f17bf9d083b3b7b7f596a9f24940",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "Leadership issues within AIPP",
+    "Perceived unethical behavior",
+    "Exclusion of serious visual artists",
+    "Favoritism and cliquishness",
+    "Decline in program quality"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "AIPP is a dumpster fire",
+    "has become much worse under Jaime Castillo",
+    "resentments as a failed artist followed him into AIPP",
+    "grandiosity and absolute lack of ethics",
+    "most of the serious visual artists in town won't get involved",
+    "Jaime's clique"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "Leadership's unethical behavior",
+    "Favoritism towards a clique",
+    "Hostile environment for serious visual artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:00:37.987808",
+  "cache_key": "bd501b2d4724445994c84ec7d13f61ddbc437093010ff7878541ac52a04ed220",
+  "model": "gpt-41"
+}

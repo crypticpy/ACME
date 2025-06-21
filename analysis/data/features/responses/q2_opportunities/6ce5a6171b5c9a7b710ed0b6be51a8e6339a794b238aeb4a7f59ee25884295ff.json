@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "multicultural entertainment",
+    "multi-generational engagement",
+    "perceived decline in valuing diversity",
+    "unity through cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Multicultural and multi generational entertainment",
+    "diversity is now an unpopular word",
+    "more of a need to reach out the diverse community for unity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "diversity is now an unpopular word"
+  ],
+  "solutions_proposed": [
+    "reach out the diverse community for unity",
+    "provide multicultural and multi generational entertainment"
+  ],
+  "cached_at": "2025-06-21T00:42:11.052908",
+  "cache_key": "6ce5a6171b5c9a7b710ed0b6be51a8e6339a794b238aeb4a7f59ee25884295ff",
+  "model": "gpt-41"
+}

@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Administrative burden of grant application portals",
+    "Misalignment of funding cycles with programming needs",
+    "City's role in promotion of funded programs",
+    "Economic challenges for visual arts as 'for-profit'",
+    "Inequity in promotional support for visual arts",
+    "Inconsistent funding principles across art disciplines"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "The Zoom Grants portal is CUMBERSOME",
+    "The award cycle is protracted and affects programs",
+    "not compatible with COA fiscal year (fall)",
+    "City should be the one to promote all funded programs to tourists, not just the orgs/projects funded",
+    "Visual arts, though considered a 'for-profit' enterprise, is not commercially viable",
+    "Austin Chronicle only promotes 'free' visual arts events",
+    "Music department distinguishes between commercial and non-commercial music enterprises, other art disciplines funded by city should be guided by same principles"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Zoom Grants",
+    "Austin Chronicle",
+    "Music department"
+  ],
+  "barriers_identified": [
+    "Cumbersome grant application portal",
+    "Protracted award cycle",
+    "Misalignment between funding cycle and optimal program timing",
+    "Lack of city-led promotion for all funded programs",
+    "Visual arts not commercially viable despite 'for-profit' label",
+    "Limited promotional support for non-free visual arts events"
+  ],
+  "solutions_proposed": [
+    "City should promote all funded programs to tourists, not just those funded",
+    "Other art disciplines funded by city should be guided by same principles as music department regarding commercial vs non-commercial distinction"
+  ],
+  "cached_at": "2025-06-21T01:02:32.291370",
+  "cache_key": "e6d100738949983a9307c1ce66b0cd1ff545aa83bb30bed2b8a3019b7180b8bb",
+  "model": "gpt-41"
+}

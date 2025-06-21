@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "repurposing underutilized private spaces",
+    "expanding venue options for cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "public use of empty corporate private spaces",
+    "expand venue options"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited venue options"
+  ],
+  "solutions_proposed": [
+    "public use of empty corporate private spaces"
+  ],
+  "cached_at": "2025-06-20T01:20:40.288510",
+  "cache_key": "779464639611133fc352350d05a18fc88d49e633f098887963233804eab47a0d",
+  "model": "gpt-41"
+}

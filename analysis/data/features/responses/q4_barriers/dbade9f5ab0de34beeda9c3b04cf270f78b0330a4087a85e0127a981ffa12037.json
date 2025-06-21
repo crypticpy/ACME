@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic isolation",
+    "lack of local arts access",
+    "necessity of travel for participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "there\u2019s next to zero accessibility out here",
+    "I drive into Austin every week to engage in my artistic endeavors"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility in outlying areas",
+    "distance from cultural opportunities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:44.904337",
+  "cache_key": "dbade9f5ab0de34beeda9c3b04cf270f78b0330a4087a85e0127a981ffa12037",
+  "model": "gpt-41"
+}

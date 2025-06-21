@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "application process delays",
+    "timeliness of support access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "getting through applications in a timely manner"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "delays in application processing"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:39.819088",
+  "cache_key": "2d97ce400960489cc9d793ef9b71ff271df2475fb6b04296342625f2ba406cf2",
+  "model": "gpt-41"
+}

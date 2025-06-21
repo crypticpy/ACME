@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threats to diversity in cultural decision-making",
+    "artist affordability and cost of living",
+    "disparity in funding between arts and industry",
+    "value of community input in cultural frameworks",
+    "resourcefulness of artists with limited funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "very concerned that the national and state climate to shut down diversity will change the cultural arts decision process",
+    "invested thousands of dollars and community members time like my own to really define a framework that speaks to Austin today, rather than Austin 1950",
+    "artists need to afford to live in the city they create in",
+    "professionals of making so little go such a long way",
+    "The Austin Chamber doesn't bat an eye asking for millions from industry - I think it's time they put that same value on artistic and social enterprise"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "threats to diversity in cultural arts decision process",
+    "high cost of living for artists",
+    "lack of equitable funding for arts compared to industry"
+  ],
+  "solutions_proposed": [
+    "The Austin Chamber should put the same value on artistic and social enterprise as it does on industry"
+  ],
+  "cached_at": "2025-06-21T01:49:27.542909",
+  "cache_key": "4f72138d7f92db31f7fff3230791d909d718e26cc1fefa0b1a9382547427c97a",
+  "model": "gpt-41"
+}

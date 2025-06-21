@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "importance of funding creative visions",
+    "need for clear guidelines",
+    "support for advancing the arts in Austin"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding Grants to those with creative visions",
+    "a solid plan to forward the Arts in Austin",
+    "not sure what their guidelines are"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear guidelines"
+  ],
+  "solutions_proposed": [
+    "funding grants to those with creative visions and a solid plan to forward the arts"
+  ],
+  "cached_at": "2025-06-20T10:32:49.730274",
+  "cache_key": "415ca00a0843b2de44b584970b7037aac7b86c75a77b997738154a9b55ee64ec",
+  "model": "gpt-41"
+}

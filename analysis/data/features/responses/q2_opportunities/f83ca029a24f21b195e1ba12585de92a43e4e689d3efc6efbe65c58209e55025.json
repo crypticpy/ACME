@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Decline of original theatre in Austin",
+    "Impact of rising cost of living on arts",
+    "Unpredictable funding cycles harming new work",
+    "Preference for classics over new/devised works",
+    "Historical recognition of Austin's theatre scene"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Live ORIGINAL theatre",
+    "Austin used to be known as an epicenter of new theater work",
+    "being selected by the Mellon Foundation in 2008 for a grant exploring this phenomenon",
+    "rising cost of living and unpredictable funding cycles have pushed devising companies to the side",
+    "in favor of easy-to-sell classics"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Mellon Foundation grant (2008)"
+  ],
+  "barriers_identified": [
+    "rising cost of living",
+    "unpredictable funding cycles",
+    "market preference for easy-to-sell classics"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:25:09.365793",
+  "cache_key": "f83ca029a24f21b195e1ba12585de92a43e4e689d3efc6efbe65c58209e55025",
+  "model": "gpt-41"
+}

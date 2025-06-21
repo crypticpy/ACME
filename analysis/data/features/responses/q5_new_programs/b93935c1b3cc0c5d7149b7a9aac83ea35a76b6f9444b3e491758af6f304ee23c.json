@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritizing support for arts nonprofits",
+    "opposition to new or additional ACME programs",
+    "focus on existing service providers"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "None- ACME should support arts nonprofits that provide services"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ACME should support arts nonprofits that provide services"
+  ],
+  "cached_at": "2025-06-21T01:59:47.296652",
+  "cache_key": "b93935c1b3cc0c5d7149b7a9aac83ea35a76b6f9444b3e491758af6f304ee23c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of local arts funding",
+    "decline of established arts organizations",
+    "shift from city to federal funding",
+    "jeopardized creative ecosystem",
+    "impact of funding cuts during 2020-21"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Just funding the arts in the way that allowed Women and their Work, Big Medium, and many other artists and arts organizations to thrive as they did in the past",
+    "For some strange reason, that has ended",
+    "COA forced so many to get federal funding to survive instead of grants from the city",
+    "that isn't even an option anymore",
+    "Taking away the COA's funding towards the arts and its foundations during 2020-21 has now put the whole ecosystem of the creative sector of Austin in jeopardy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Women and their Work",
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "loss of city arts grants",
+    "requirement to seek federal funding",
+    "federal funding no longer available",
+    "impact of 2020-21 funding cuts"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:00:59.199802",
+  "cache_key": "ff9d6d0f52d892c6cf0da33455737d65890082658f1ffb39081a167193e331cc",
+  "model": "gpt-41"
+}

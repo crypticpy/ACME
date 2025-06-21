@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for smaller organizations",
+    "focus on underrepresented communities",
+    "equity in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support smaller organizations",
+    "serve underrepresented communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for smaller organizations",
+    "underrepresentation in funding"
+  ],
+  "solutions_proposed": [
+    "support smaller organizations that serve underrepresented communities"
+  ],
+  "cached_at": "2025-06-20T01:12:34.269617",
+  "cache_key": "c9c255eca1fa784c2d39ee2311bece83dfb564906582eac21e4ee0da7d116598",
+  "model": "gpt-41"
+}

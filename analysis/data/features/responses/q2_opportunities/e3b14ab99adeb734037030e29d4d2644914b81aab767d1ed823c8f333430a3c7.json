@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased access to music events",
+    "diversity of musical genres",
+    "geographic equity in cultural programming",
+    "support for classical music",
+    "interest in pop-up/temporary events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more classical and pop-up (all genres) music events",
+    "made available in all areas of the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited availability of music events in all areas of the city"
+  ],
+  "solutions_proposed": [
+    "increase classical and pop-up music events across all genres and neighborhoods"
+  ],
+  "cached_at": "2025-06-21T00:35:03.022697",
+  "cache_key": "e3b14ab99adeb734037030e29d4d2644914b81aab767d1ed823c8f333430a3c7",
+  "model": "gpt-41"
+}

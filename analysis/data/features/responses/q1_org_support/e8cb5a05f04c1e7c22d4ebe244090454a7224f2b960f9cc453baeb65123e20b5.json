@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived inadequacy of current support",
+    "barriers for lower level musicians",
+    "exclusivity of recognition programs",
+    "community narratives of exclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "They are doing amazing work, but more is needed",
+    "No lower level musician regardless of background or genes will make it to HAMM status/etc so why support it?",
+    "It\u2019s a constant narrative I run against in-the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "HAMM"
+  ],
+  "barriers_identified": [
+    "lower level musicians unable to attain recognition or support",
+    "perceived exclusivity of support programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:25:43.702868",
+  "cache_key": "e8cb5a05f04c1e7c22d4ebe244090454a7224f2b960f9cc453baeb65123e20b5",
+  "model": "gpt-41"
+}

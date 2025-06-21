@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for unrestricted funding",
+    "support with grant reporting",
+    "flexibility in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more unrestricted funding",
+    "guidance for grant reporting"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of unrestricted funding",
+    "insufficient guidance for grant reporting"
+  ],
+  "solutions_proposed": [
+    "provide more unrestricted funding",
+    "offer guidance for grant reporting"
+  ],
+  "cached_at": "2025-06-20T10:39:35.918325",
+  "cache_key": "76d9eef4a1ee52dd02d60e4306ddc78b9f5d6a16153be50093a27a2f476bcc54",
+  "model": "gpt-41"
+}

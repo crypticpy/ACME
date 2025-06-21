@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased live art shows",
+    "more dance performances",
+    "expansion of cultural showcases",
+    "support for local artists",
+    "enhanced live music opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more live art shows",
+    "more dance shows",
+    "more cultural showcases",
+    "more live music for LOCAL artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase live art shows",
+    "increase dance shows",
+    "increase cultural showcases",
+    "increase live music opportunities for local artists"
+  ],
+  "cached_at": "2025-06-21T00:45:46.086201",
+  "cache_key": "a32a84ac21b60ffc56ae4df2c0fcd637acb3e6705b567c92c6cc25bf923f2349",
+  "model": "gpt-41"
+}

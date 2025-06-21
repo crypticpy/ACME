@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "call for organizational reform",
+    "critique of current staff experience",
+    "concerns about equitable funding distribution",
+    "partnership with arts nonprofits",
+    "activation of cultural centers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Wipe the slate clean",
+    "hire experienced professionals who haven't worked at the CoA their entire adult lives",
+    "picked up all the bad habits",
+    "Don't try to please every single person who thinks they should get city funding",
+    "Partner with arts nonprofits",
+    "get the cultural centers humming all day, every day"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "entrenched staff habits",
+    "lack of professional diversity in staff experience",
+    "attempts to please all funding applicants"
+  ],
+  "solutions_proposed": [
+    "Wipe the slate clean",
+    "hire experienced professionals from outside the current system",
+    "partner with arts nonprofits",
+    "activate cultural centers throughout the day"
+  ],
+  "cached_at": "2025-06-21T02:17:39.652801",
+  "cache_key": "38ef7eeef29b0be4ba399b14c214b4cdfb7f22828399d65adda26a33a117195b",
+  "model": "gpt-41"
+}

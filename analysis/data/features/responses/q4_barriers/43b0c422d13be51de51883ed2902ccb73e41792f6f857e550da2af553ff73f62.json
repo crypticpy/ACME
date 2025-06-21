@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "information gaps",
+    "communication barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of awareness"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of awareness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:26.930025",
+  "cache_key": "43b0c422d13be51de51883ed2902ccb73e41792f6f857e550da2af553ff73f62",
+  "model": "gpt-41"
+}

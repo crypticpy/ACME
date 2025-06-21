@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration",
+    "underrepresentation of collaborative efforts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Collaboration efforts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer collaboration efforts"
+  ],
+  "cached_at": "2025-06-21T02:01:50.401787",
+  "cache_key": "066e9c9af028d16fa9838b4fc1574e9d4ee2023fdad841af461ab6f24574cc45",
+  "model": "gpt-41"
+}

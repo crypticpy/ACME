@@ -1,0 +1,47 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limitations in grant application processes",
+    "inclusivity of artist-owned spaces in funding",
+    "need for entrepreneurial and business training for artists",
+    "access to public art opportunities for studio artists",
+    "mentorship and skill-building pathways in public art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "applicants given more space to share details",
+    "application feels limited in scope",
+    "expanded to include self-funded, artist-owned spaces like my own, And&And Studios",
+    "more entrepreneurial support\u2014such as training in creative spaces business models, fundraising, and space sustainability",
+    "more hands-on pathways into public art, including mentorships, apprenticeships, volunteer opportunities, and training on outdoor materials and fabrication",
+    "studio artists are eager to engage in public work but need support to build the necessary skills\u2014from proposal writing to working with fabricators"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus Grant Program",
+    "Creative Space Assistance Program",
+    "Art in Public Places (AIPP)",
+    "And&And Studios"
+  ],
+  "barriers_identified": [
+    "application feels limited in scope",
+    "difficult to communicate ambitious or interdisciplinary ideas",
+    "exclusion of self-funded, artist-owned spaces from funding",
+    "lack of entrepreneurial support for artists running their own spaces",
+    "insufficient hands-on pathways and training for studio artists to enter public art"
+  ],
+  "solutions_proposed": [
+    "give applicants more space to share details about proposed projects",
+    "expand Creative Space Assistance Program to include self-funded, artist-owned spaces",
+    "provide entrepreneurial support such as training in business models, fundraising, and space sustainability",
+    "create more hands-on pathways into public art including mentorships, apprenticeships, volunteer opportunities, and training on outdoor materials and fabrication",
+    "offer support for skill-building in proposal writing and working with fabricators for studio artists"
+  ],
+  "cached_at": "2025-06-21T01:03:52.952494",
+  "cache_key": "1dbcdbf6a732b12544e40c66b84f228a8144d1fb21b072fd41959fc02b0791f5",
+  "model": "gpt-41"
+}

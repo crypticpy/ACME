@@ -1,0 +1,49 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Language accessibility for non-English speakers",
+    "Overly academic application requirements",
+    "Expanding definitions of diversity and inclusion",
+    "Equitable recognition of queer and disability-led organizations",
+    "Review panel expertise and community understanding",
+    "Ensuring funding prioritizes arts practitioners",
+    "Access to lower-level funding for smaller organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Easier access and support for applicants who don't speak English",
+    "An application that does not require applicants to have a graduate school education understanding of academic ideas of diversity and inclusion",
+    "Broader definition of diversity that doesn't create a strict hierarchy of need",
+    "Queer and disability-led organizations seemed to not be as valued",
+    "Reevaluating the review panels to ensure there is a deeper understanding of the community",
+    "Assuring that these programs go to organizations that are actual art practitioners",
+    "Better access to lower-level funding opportunities for organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of language support for non-English speakers",
+    "Application process requires advanced academic understanding",
+    "Narrow definition of diversity leading to hierarchy of need",
+    "Queer and disability-led organizations undervalued",
+    "Review panels lacking community understanding",
+    "Funding awarded to non-arts organizations",
+    "Limited access to lower-level funding for smaller organizations"
+  ],
+  "solutions_proposed": [
+    "Provide easier access and support for non-English speaking applicants",
+    "Simplify application requirements to remove need for graduate-level academic understanding",
+    "Broaden the definition of diversity to be more inclusive and less hierarchical",
+    "Increase visibility and value for queer and disability-led organizations in funding decisions",
+    "Reevaluate and diversify review panels for deeper community understanding",
+    "Prioritize funding for organizations that actively produce or support art and artists",
+    "Improve access to lower-level funding opportunities for smaller organizations"
+  ],
+  "cached_at": "2025-06-21T01:00:52.371360",
+  "cache_key": "3f0cadcc32eed142baf3c7360aec5d259f0cda542f61b73adab8bd0c1763c862",
+  "model": "gpt-41"
+}

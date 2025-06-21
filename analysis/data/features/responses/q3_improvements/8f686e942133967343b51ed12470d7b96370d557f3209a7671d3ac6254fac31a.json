@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of transparency in judging",
+    "perceived bias and inequity in grant decisions",
+    "need for better judge selection",
+    "difficulty accessing information about funded projects",
+    "racial and cultural representation in funding outcomes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Shouldn't be who you know",
+    "Transparency in judges who is judging",
+    "I actually had a Filmmaker Judge who killed my project",
+    "her project is too ambitious for the 30,000 grant",
+    "You need better judges",
+    "I was blocked from that grant, it sickened me!",
+    "I'm Mexican and she was a white judge",
+    "how many Latina Musicians have you see have a Documentary about their life!!!!!!!!! Rarely!!!!!!!!!",
+    "She killed this Interesting Ambitious Project, which was the Jeannie Ramirez Project"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in judge selection",
+    "perceived bias against ambitious projects",
+    "racial/cultural bias in decision-making",
+    "insufficient visibility for funded projects"
+  ],
+  "solutions_proposed": [
+    "Increase transparency in who is judging",
+    "Provide links to final projects and information on where to access them",
+    "Improve judge selection"
+  ],
+  "cached_at": "2025-06-21T01:11:01.903650",
+  "cache_key": "8f686e942133967343b51ed12470d7b96370d557f3209a7671d3ac6254fac31a",
+  "model": "gpt-41"
+}

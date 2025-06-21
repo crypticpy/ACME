@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for health care support",
+    "affordable studio space",
+    "underrepresentation of basic support services"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Health Care",
+    "Studio rental help"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of health care support",
+    "difficulty affording studio rentals"
+  ],
+  "solutions_proposed": [
+    "offer health care support",
+    "provide studio rental assistance"
+  ],
+  "cached_at": "2025-06-21T01:50:48.309211",
+  "cache_key": "76a6f9dfc3c05891b22927cb07e61c91b232ac9e57a7a08001d12ee3e042a4fd",
+  "model": "gpt-41"
+}

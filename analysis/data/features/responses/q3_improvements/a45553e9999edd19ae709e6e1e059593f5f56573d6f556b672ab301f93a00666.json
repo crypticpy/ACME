@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for policy-level reform",
+    "perception of significant shortcomings",
+    "general dissatisfaction with current programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "A lot of improvement is needed",
+    "more so at the policy level"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:08:09.726469",
+  "cache_key": "a45553e9999edd19ae709e6e1e059593f5f56573d6f556b672ab301f93a00666",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "economic barriers to participation",
+    "impact of cost on arts access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "rising costs of living",
+    "venue rental"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of living",
+    "venue rental"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:05.869837",
+  "cache_key": "faf89441918233b51fc4f4e98df161d96e5a61cf169fa0f1c90071ab8d2cab9f",
+  "model": "gpt-41"
+}

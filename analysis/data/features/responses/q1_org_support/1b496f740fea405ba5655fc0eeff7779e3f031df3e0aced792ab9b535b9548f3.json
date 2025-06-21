@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved communication",
+    "centralized event information",
+    "inclusion of diverse genres"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "regular communication",
+    "a citywide calendar of events",
+    "includes all genres"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of regular communication",
+    "absence of a comprehensive event calendar"
+  ],
+  "solutions_proposed": [
+    "implement regular communication",
+    "create a citywide calendar of events that includes all genres"
+  ],
+  "cached_at": "2025-06-20T01:12:50.966052",
+  "cache_key": "1b496f740fea405ba5655fc0eeff7779e3f031df3e0aced792ab9b535b9548f3",
+  "model": "gpt-41"
+}

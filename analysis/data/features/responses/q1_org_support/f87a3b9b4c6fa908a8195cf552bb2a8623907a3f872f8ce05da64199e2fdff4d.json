@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for transparent and fair funding processes",
+    "insufficient venues for theatre",
+    "lack of cross-disciplinary collaboration",
+    "overemphasis on major festivals (SXSW, Austin City Limits) at the expense of broader cultural identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Develop a fair and easily understood matrix for funding",
+    "Help develop/find more venues for theatre",
+    "Lead the way to collaboration between the different types of art (music, visual, theatre)",
+    "Realize that Austin is more than SXSW and Austin City Limits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW",
+    "Austin City Limits"
+  ],
+  "barriers_identified": [
+    "lack of fair and transparent funding process",
+    "insufficient theatre venues",
+    "limited collaboration between art forms",
+    "cultural focus dominated by major festivals"
+  ],
+  "solutions_proposed": [
+    "Develop a fair and easily understood matrix for funding",
+    "Help develop/find more venues for theatre",
+    "Lead the way to collaboration between the different types of art (music, visual, theatre)",
+    "Broaden cultural recognition beyond SXSW and Austin City Limits"
+  ],
+  "cached_at": "2025-06-20T01:22:37.737721",
+  "cache_key": "f87a3b9b4c6fa908a8195cf552bb2a8623907a3f872f8ce05da64199e2fdff4d",
+  "model": "gpt-41"
+}

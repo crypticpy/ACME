@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic distribution of venues",
+    "accessibility for working adults",
+    "event timing and scheduling",
+    "integration of food options at venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "need more arts and music venues in every neighborhood",
+    "most of the music venues being concentrated downtown",
+    "earlier concert and show times for people who work day jobs",
+    "can't stay up late",
+    "quality food options there"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues concentrated downtown",
+    "late event times incompatible with day jobs",
+    "lack of quality food options at venues"
+  ],
+  "solutions_proposed": [
+    "more arts and music venues in every neighborhood",
+    "earlier concert and show times",
+    "quality food options at venues"
+  ],
+  "cached_at": "2025-06-21T00:39:26.948508",
+  "cache_key": "7c1ff87d066085367b22237c8b5b73f6144e045f6c9a8a6d61e5ee1d769187a6",
+  "model": "gpt-41"
+}

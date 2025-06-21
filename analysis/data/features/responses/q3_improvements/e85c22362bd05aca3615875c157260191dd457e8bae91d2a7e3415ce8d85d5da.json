@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "grant writing disparities between established and newer nonprofits",
+    "capacity building for newer nonprofits",
+    "equity in access to funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "longer standing nonprofits have better grant writers",
+    "helping newer nonprofits with important missions",
+    "be better prepared for grant writing",
+    "would help immensely"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "newer nonprofits lack grant writing skills",
+    "established nonprofits have an advantage in grant writing"
+  ],
+  "solutions_proposed": [
+    "helping newer nonprofits with grant writing",
+    "preparing newer nonprofits to be better at grant writing"
+  ],
+  "cached_at": "2025-06-21T01:11:26.166454",
+  "cache_key": "e85c22362bd05aca3615875c157260191dd457e8bae91d2a7e3415ce8d85d5da",
+  "model": "gpt-41"
+}

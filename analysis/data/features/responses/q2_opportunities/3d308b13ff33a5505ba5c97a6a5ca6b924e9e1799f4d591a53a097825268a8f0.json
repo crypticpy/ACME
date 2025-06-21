@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of performance spaces",
+    "access to venues for cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more affordable spaces for performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of performance spaces"
+  ],
+  "solutions_proposed": [
+    "increase affordable spaces for performances"
+  ],
+  "cached_at": "2025-06-21T00:33:51.623965",
+  "cache_key": "3d308b13ff33a5505ba5c97a6a5ca6b924e9e1799f4d591a53a097825268a8f0",
+  "model": "gpt-41"
+}

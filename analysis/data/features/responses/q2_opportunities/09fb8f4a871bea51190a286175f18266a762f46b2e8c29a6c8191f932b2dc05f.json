@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for family-oriented cultural programming",
+    "need for greater cultural diversity in theatrical productions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More family oriented programs",
+    "more cultural diversity in plays"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase family oriented programs",
+    "Increase cultural diversity in plays"
+  ],
+  "cached_at": "2025-06-21T00:42:31.533567",
+  "cache_key": "09fb8f4a871bea51190a286175f18266a762f46b2e8c29a6c8191f932b2dc05f",
+  "model": "gpt-41"
+}

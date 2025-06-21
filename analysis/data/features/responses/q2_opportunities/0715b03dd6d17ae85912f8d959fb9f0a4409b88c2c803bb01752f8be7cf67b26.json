@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Desire for more live theater",
+    "Focus on African American community engagement",
+    "Need to attract touring plays and musicals",
+    "Perceived lack of effort by Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more live theater offerings targeting the African American community",
+    "touring plays and musicals for black audiences around the country",
+    "Austin needs to put forth more effort to attract these tours"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of effort to attract touring plays and musicals for black audiences"
+  ],
+  "solutions_proposed": [
+    "Put forth more effort to attract touring plays and musicals for black audiences"
+  ],
+  "cached_at": "2025-06-21T00:48:31.436010",
+  "cache_key": "0715b03dd6d17ae85912f8d959fb9f0a4409b88c2c803bb01752f8be7cf67b26",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion from grant eligibility",
+    "longstanding community contribution unrecognized",
+    "barriers in current grant criteria"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "current grants do not permit my organization to seek funding",
+    "part of the cultural landscape of Austin for nearly 45 years"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ineligibility for current grants despite longstanding presence"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:28.706709",
+  "cache_key": "a759fbbb9cb86ff1c56e4d18cacf777e8996b3f064b2be08e3111f66ebc86f27",
+  "model": "gpt-41"
+}

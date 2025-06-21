@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of tech industry on local culture",
+    "profit-sharing for cultural preservation",
+    "housing affordability for marginalized creatives",
+    "rising cost of living",
+    "protection of black, brown, and queer artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "get these new tech companies to split their profit",
+    "keep cultural arts alive in the city",
+    "keep the housing prices down for the black/brown/queer creatives",
+    "STOP THE COST OF LIVING FROM RISING"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising housing prices",
+    "increased cost of living",
+    "economic displacement of marginalized creatives"
+  ],
+  "solutions_proposed": [
+    "require tech companies to share profits to support cultural arts",
+    "implement measures to keep housing prices down for black, brown, and queer creatives",
+    "stop the cost of living from rising"
+  ],
+  "cached_at": "2025-06-21T02:17:44.689008",
+  "cache_key": "b6cf5fc9d3f71b049b14408242e1d609230a0c5758d2db7cf879ff9b51abb03f",
+  "model": "gpt-41"
+}

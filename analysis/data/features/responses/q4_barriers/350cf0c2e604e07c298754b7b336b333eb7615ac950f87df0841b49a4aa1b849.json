@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public transportation delays",
+    "lack of parking"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Buses take forever",
+    "there\u2019s no parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "slow public transportation",
+    "insufficient parking"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:28.995791",
+  "cache_key": "350cf0c2e604e07c298754b7b336b333eb7615ac950f87df0841b49a4aa1b849",
+  "model": "gpt-41"
+}

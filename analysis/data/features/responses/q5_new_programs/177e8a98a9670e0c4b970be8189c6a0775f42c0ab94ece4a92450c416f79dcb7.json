@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordable housing for artists",
+    "risk of eviction",
+    "need for rent support",
+    "model artist communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Rent subsidies!",
+    "Eviction pauses!",
+    "Artist housing!",
+    "like the Metropolis"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Metropolis"
+  ],
+  "barriers_identified": [
+    "lack of affordable housing",
+    "risk of eviction"
+  ],
+  "solutions_proposed": [
+    "rent subsidies",
+    "eviction pauses",
+    "artist housing modeled after the Metropolis"
+  ],
+  "cached_at": "2025-06-21T02:07:00.226044",
+  "cache_key": "177e8a98a9670e0c4b970be8189c6a0775f42c0ab94ece4a92450c416f79dcb7",
+  "model": "gpt-41"
+}

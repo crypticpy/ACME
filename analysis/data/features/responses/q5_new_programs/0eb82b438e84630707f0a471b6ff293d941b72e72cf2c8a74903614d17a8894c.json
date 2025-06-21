@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for cornerstone organizations",
+    "importance of existing artist/musician support programs",
+    "continuity of funding for established services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Just make sure HAAM is supported",
+    "along with RRCD, ACA, SIMS, etc.",
+    "cornerstone orgs that support SO many working musicians and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM",
+    "RRCD",
+    "ACA",
+    "SIMS"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Ensure continued support for cornerstone organizations that serve working musicians and artists"
+  ],
+  "cached_at": "2025-06-21T02:01:33.736111",
+  "cache_key": "0eb82b438e84630707f0a471b6ff293d941b72e72cf2c8a74903614d17a8894c",
+  "model": "gpt-41"
+}

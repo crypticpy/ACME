@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased publicity of cultural programs",
+    "regional collaboration across Central Texas cities",
+    "fragmentation of arts communities",
+    "ineffectiveness of current mutual aid structures",
+    "population mobility across city boundaries"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More publicity",
+    "more collaboration with the rest of the Central Texas area",
+    "all the cities surrounding Austin are effectively indivisible from her",
+    "fragmentation and lack of mutual aid is ineffective",
+    "the population moves freely around all these areas"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fragmentation between Austin and surrounding cities",
+    "lack of mutual aid between arts communities",
+    "insufficient publicity of cultural programs"
+  ],
+  "solutions_proposed": [
+    "increase publicity of cultural funding programs",
+    "foster more collaboration with surrounding Central Texas cities",
+    "reduce fragmentation and improve mutual aid among regional arts communities"
+  ],
+  "cached_at": "2025-06-21T01:17:36.941140",
+  "cache_key": "d0970594eb036453982befe0bb3dcd2de58c44682cd7f68d4ac1a9d1e0448874",
+  "model": "gpt-41"
+}

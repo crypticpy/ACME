@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for interdisciplinary collaboration",
+    "Integration of academic and self-taught artists",
+    "Combining performing and visual arts",
+    "Cross-pollination between art and other fields (science, nature, history, music)",
+    "Need for investment in under-recognized artists",
+    "Recognition and support for artists lacking resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more intersection and less siloing",
+    "exhibitions that include work by academic and self taught artists together",
+    "performing and visual art together",
+    "visual art meets science or nature or history or music",
+    "investment and promotion of arts and artists who are doing the work but never have budgets to work with and never get recognition"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "siloing of artistic disciplines",
+    "lack of budgets for artists",
+    "lack of recognition for certain artists"
+  ],
+  "solutions_proposed": [
+    "create exhibitions that include both academic and self-taught artists",
+    "combine performing and visual arts",
+    "develop interdisciplinary programs (art meets science, nature, history, music)",
+    "invest in and promote artists who lack resources and recognition"
+  ],
+  "cached_at": "2025-06-21T00:40:17.914990",
+  "cache_key": "e59ed8135161dc52ce6e344ef2a8e1ed0a9edf1e90ad753b13e4656d66641561",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern for Dougherty Arts Center's future",
+    "potential loss of class programming",
+    "potential loss of gallery space"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "very concerned about the future of the Dougherty Arts Center",
+    "do not want to see it losing class programming",
+    "do not want to see it losing ... gallery space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Dougherty Arts Center"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:06.575967",
+  "cache_key": "6cac02fd8acb5aebf4e3aab3984fd9eba985c07f42be72e6542cbd0cdbc25089",
+  "model": "gpt-41"
+}

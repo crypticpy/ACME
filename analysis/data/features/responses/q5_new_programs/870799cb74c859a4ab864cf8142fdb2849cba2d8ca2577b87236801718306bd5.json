@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding for recorded work",
+    "lack of support for non-live production",
+    "grant program gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grants for producing recorded work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for producing recorded work"
+  ],
+  "solutions_proposed": [
+    "offer grants for producing recorded work"
+  ],
+  "cached_at": "2025-06-21T02:00:46.737082",
+  "cache_key": "870799cb74c859a4ab864cf8142fdb2849cba2d8ca2577b87236801718306bd5",
+  "model": "gpt-41"
+}

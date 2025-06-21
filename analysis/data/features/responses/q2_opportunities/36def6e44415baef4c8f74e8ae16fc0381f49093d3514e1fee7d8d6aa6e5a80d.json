@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for artist studio space funding",
+    "support for community-led film screenings",
+    "importance of diverse funding opportunities",
+    "maintenance of existing funding structures"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Artist studio space funding",
+    "More community led film screenings",
+    "A range of large and small funding opportunities",
+    "maintaining this is vital"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of artist studio space funding",
+    "potential loss of diverse funding opportunities"
+  ],
+  "solutions_proposed": [
+    "Increase funding for artist studio spaces",
+    "Support more community-led film screenings",
+    "Maintain a range of large and small funding opportunities"
+  ],
+  "cached_at": "2025-06-21T00:36:11.278051",
+  "cache_key": "36def6e44415baef4c8f74e8ae16fc0381f49093d3514e1fee7d8d6aa6e5a80d",
+  "model": "gpt-41"
+}

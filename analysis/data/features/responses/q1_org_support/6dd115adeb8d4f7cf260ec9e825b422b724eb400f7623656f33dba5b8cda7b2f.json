@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "partnership with bookers and promoters",
+    "collaborative event hosting",
+    "expanding public awareness of ACME",
+    "building community buy-in and support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "partner with bookers and promoters",
+    "co-host shows",
+    "Work with Resound Presents, Nordic Booking, and more",
+    "introduce more folks to the ACME message, goal, and mission",
+    "Get more buy in and public support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Resound Presents",
+    "Nordic Booking"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Partner with bookers and promoters",
+    "Co-host shows",
+    "Work with Resound Presents, Nordic Booking, and others to put on shows",
+    "Introduce more people to ACME's message, goal, and mission to build public support"
+  ],
+  "cached_at": "2025-06-20T10:36:15.628762",
+  "cache_key": "6dd115adeb8d4f7cf260ec9e825b422b724eb400f7623656f33dba5b8cda7b2f",
+  "model": "gpt-41"
+}

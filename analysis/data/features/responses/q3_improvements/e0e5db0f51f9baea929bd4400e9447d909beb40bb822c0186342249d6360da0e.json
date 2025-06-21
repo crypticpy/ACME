@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "musicians' willingness to perform for free",
+    "questioning the necessity of funding for entertainers",
+    "suggestion to test entertainers' motivations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Most entertainers make the statement that they love music and would play from for free",
+    "Start that process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Encourage entertainers to perform for free as they claim to love music"
+  ],
+  "cached_at": "2025-06-21T01:02:21.736677",
+  "cache_key": "e0e5db0f51f9baea929bd4400e9447d909beb40bb822c0186342249d6360da0e",
+  "model": "gpt-41"
+}

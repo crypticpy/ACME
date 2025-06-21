@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community-led cultural events",
+    "use of public spaces for arts",
+    "restoration of graffiti park"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "community lead events",
+    "public spaces",
+    "bring back graffiti park"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "graffiti park"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase community-led events",
+    "utilize public spaces for arts",
+    "restore graffiti park"
+  ],
+  "cached_at": "2025-06-21T00:25:41.251032",
+  "cache_key": "d0a0e5fa5181b010b60724578be3b29e6ae7805621421f5e3d38882a3b22b6ef",
+  "model": "gpt-41"
+}

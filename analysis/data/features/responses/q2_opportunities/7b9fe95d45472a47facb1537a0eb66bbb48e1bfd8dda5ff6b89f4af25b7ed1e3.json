@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cross-cultural engagement",
+    "community connection",
+    "inclusive events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "invite Austinites to cross cultural boundaries"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Events that invite Austinites to cross cultural boundaries"
+  ],
+  "cached_at": "2025-06-21T00:45:26.663379",
+  "cache_key": "7b9fe95d45472a47facb1537a0eb66bbb48e1bfd8dda5ff6b89f4af25b7ed1e3",
+  "model": "gpt-41"
+}

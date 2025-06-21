@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for legacy businesses",
+    "financial assistance for rent",
+    "property tax relief"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "support for legacy businesses",
+    "rent or property tax assistance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent or property tax costs for legacy businesses"
+  ],
+  "solutions_proposed": [
+    "provide rent assistance",
+    "provide property tax assistance"
+  ],
+  "cached_at": "2025-06-21T02:00:30.984657",
+  "cache_key": "6fb2d8c3669cd1ad69bde01bb150c5147013ae7c991456a5748aa118c2fc24c0",
+  "model": "gpt-41"
+}

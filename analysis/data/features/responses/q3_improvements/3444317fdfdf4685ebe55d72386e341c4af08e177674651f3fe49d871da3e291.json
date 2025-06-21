@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in application process",
+    "clarity in review and auditing procedures",
+    "selection criteria disclosure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more transparency",
+    "how to best fill out the forms",
+    "the review and auditing process",
+    "how folks are selected"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in application and selection process"
+  ],
+  "solutions_proposed": [
+    "increase transparency on how to fill out forms",
+    "clarify the review and auditing process",
+    "disclose selection criteria"
+  ],
+  "cached_at": "2025-06-21T01:12:37.910200",
+  "cache_key": "3444317fdfdf4685ebe55d72386e341c4af08e177674651f3fe49d871da3e291",
+  "model": "gpt-41"
+}

@@ -1,0 +1,52 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist and creative wellness",
+    "financial security for artists",
+    "digital and technological empowerment",
+    "affordable space and residencies",
+    "participatory grantmaking and power redistribution",
+    "intergenerational cultural exchange",
+    "cultural preservation and oral history"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "fill critical gaps in Austin\u2019s creative ecosystem",
+    "wellness stipends for artists dealing with burnout, trauma, or financial stress",
+    "Guaranteed Income for Artists",
+    "breathing room to create without survival mode",
+    "data ownership, digital strategy, AI, and creative tech tools",
+    "affordable rehearsal, recording, gallery, and performance space",
+    "artist-led grantmaking panels",
+    "participatory grantmaking creates equity and trust while redistributing power",
+    "mentorship and intergenerational knowledge-sharing",
+    "documenting and archiving the stories of communities often excluded"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "burnout, trauma, or financial stress for artists",
+    "lack of financial security/survival mode",
+    "limited access to digital tools and knowledge",
+    "insufficient affordable creative spaces",
+    "lack of artist participation in funding decisions",
+    "disconnect between youth and elder cultural workers",
+    "exclusion from dominant cultural narratives"
+  ],
+  "solutions_proposed": [
+    "mental health services, peer support groups, and wellness stipends for artists",
+    "pilot or ongoing basic income program for artists",
+    "workshops, mentorships, or services around data ownership, digital strategy, AI, and creative tech tools",
+    "affordable rehearsal, recording, gallery, and performance space plus creative residencies that include housing, stipends, and community integration",
+    "artist-led grantmaking panels and participatory grantmaking",
+    "youth-to-elder cultural exchange labs",
+    "support for documenting and archiving community stories"
+  ],
+  "cached_at": "2025-06-21T01:58:55.862093",
+  "cache_key": "4503277b4640c99afff84c64a064c8f5ae9dc314e0dc36782b0cdd97dd994e64",
+  "model": "gpt-41"
+}

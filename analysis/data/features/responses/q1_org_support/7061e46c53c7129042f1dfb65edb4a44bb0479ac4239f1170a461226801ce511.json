@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for theatrical organizations",
+    "personal connection to theater",
+    "funding allocation preferences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lover of theater",
+    "more support of theatrical organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support of theatrical organizations"
+  ],
+  "cached_at": "2025-06-20T10:36:31.492923",
+  "cache_key": "7061e46c53c7129042f1dfb65edb4a44bb0479ac4239f1170a461226801ce511",
+  "model": "gpt-41"
+}

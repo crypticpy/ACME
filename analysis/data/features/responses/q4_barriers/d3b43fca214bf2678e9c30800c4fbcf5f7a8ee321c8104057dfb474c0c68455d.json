@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "uncertainty of support services",
+    "need for long-term planning",
+    "concern about sustainability of funding",
+    "impact on community growth"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "reliability for long term planning",
+    "will a certain support service exist for only one grant cycle",
+    "legacy service to the community",
+    "encourage growth long term"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of reliable, sustained support services",
+    "uncertainty about duration of grant cycles"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:28.501237",
+  "cache_key": "d3b43fca214bf2678e9c30800c4fbcf5f7a8ee321c8104057dfb474c0c68455d",
+  "model": "gpt-41"
+}

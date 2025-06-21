@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "merit-based selection",
+    "concerns about racial considerations",
+    "fairness in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "the best idea wins",
+    "regardless of the color of your skin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived racial bias in selection or funding"
+  ],
+  "solutions_proposed": [
+    "adopt merit-based evaluation regardless of race"
+  ],
+  "cached_at": "2025-06-21T00:39:21.069430",
+  "cache_key": "32647d96d778caebdbe1db469ff98f0365769d6cd0ad4d51f9fbaa78a40e7a79",
+  "model": "gpt-41"
+}

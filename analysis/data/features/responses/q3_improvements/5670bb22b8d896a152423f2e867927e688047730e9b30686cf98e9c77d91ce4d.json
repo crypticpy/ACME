@@ -1,0 +1,54 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Eligibility criteria favoring single racial/ethnic identity organizations",
+    "Need for equitable access to city venues",
+    "Financial barriers due to venue and marketing fees",
+    "Inadequate marketing support for grantees",
+    "Recurring event monopolization of city-owned spaces",
+    "Intersectionality of inequities (age, disability, income) in funding eligibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "encourages organizations serving multiple racial/ethnic demographics",
+    "providing equitable services on the basis of very real inequities, such as age, disability, and/or income",
+    "grant\u2019s language ... favors organizations serving a singular racial/ethnic identity",
+    "can we rethink the allocation of city funding",
+    "waiver of the space rental fees for a COA venue",
+    "waiver of the fees associated with paid promotional marketing packages through VisitAustin",
+    "cannot reserve venues controlled by Austin Parks and Rec more than six months in advance",
+    "Palmer Events Center is nearly unattainable",
+    "should there perhaps be a limit on the number of weekends the same event/organization can reserve this space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "VisitAustin",
+    "Palmer Events Center",
+    "Austin Parks and Rec",
+    "Austin Convention Center"
+  ],
+  "barriers_identified": [
+    "Eligibility criteria exclude organizations serving multiple racial/ethnic groups",
+    "Economic disadvantages limit access to programs",
+    "City venue rental fees reduce available funding for programming",
+    "Marketing visibility on VisitAustin requires additional paid packages",
+    "Limited advance booking for city venues",
+    "Recurring events monopolizing affordable city-owned venues"
+  ],
+  "solutions_proposed": [
+    "Revise application criteria and eligibility materials to include organizations serving multiple racial/ethnic groups and addressing other inequities",
+    "Rethink allocation of city funding to support a broader spectrum of arts organizations",
+    "Automatically waive space rental fees for COA venues for grant recipients",
+    "Automatically waive fees for paid promotional marketing packages through VisitAustin for grantees",
+    "Allow more equitable and prioritized access to city venues for grant recipients",
+    "Increase advance reservation window for city venues",
+    "Limit the number of weekends a single event/organization can reserve city-owned venues"
+  ],
+  "cached_at": "2025-06-21T00:53:35.782739",
+  "cache_key": "5670bb22b8d896a152423f2e867927e688047730e9b30686cf98e9c77d91ce4d",
+  "model": "gpt-41"
+}

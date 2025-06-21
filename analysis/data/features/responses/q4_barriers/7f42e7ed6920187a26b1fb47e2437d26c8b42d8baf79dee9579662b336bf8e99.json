@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about available support",
+    "need for improved communication or outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more awareness of the different types of support would be helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of different types of support"
+  ],
+  "solutions_proposed": [
+    "increase awareness of available support"
+  ],
+  "cached_at": "2025-06-21T01:36:39.652958",
+  "cache_key": "7f42e7ed6920187a26b1fb47e2437d26c8b42d8baf79dee9579662b336bf8e99",
+  "model": "gpt-41"
+}

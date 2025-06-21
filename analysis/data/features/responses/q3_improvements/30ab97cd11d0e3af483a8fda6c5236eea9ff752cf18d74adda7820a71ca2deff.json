@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of content quality",
+    "critique of popularity-based funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Content over popularity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding decisions based on popularity rather than content"
+  ],
+  "solutions_proposed": [
+    "prioritize content quality over popularity in funding decisions"
+  ],
+  "cached_at": "2025-06-21T01:01:55.889367",
+  "cache_key": "30ab97cd11d0e3af483a8fda6c5236eea9ff752cf18d74adda7820a71ca2deff",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "impact of Elevate program",
+    "value of existing programming",
+    "organizational and community benefit"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "immensely impactful for my organization and our community",
+    "Elevate program as it operated for the past two years"
+  ],
+  "intent": "program_endorsement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elevate program"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:05:30.589777",
+  "cache_key": "6109a0ce37fe5c42db2b71f259989dad2a9d8dba1d6a31bd5c697ed2ed37d031",
+  "model": "gpt-41"
+}

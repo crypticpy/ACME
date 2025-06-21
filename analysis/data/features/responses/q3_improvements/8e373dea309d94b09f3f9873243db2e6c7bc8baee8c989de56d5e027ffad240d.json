@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about programs",
+    "need for better information dissemination"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I don't know what they are!",
+    "Provide more info."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient information about cultural funding programs"
+  ],
+  "solutions_proposed": [
+    "Provide more info."
+  ],
+  "cached_at": "2025-06-21T01:18:10.184917",
+  "cache_key": "8e373dea309d94b09f3f9873243db2e6c7bc8baee8c989de56d5e027ffad240d",
+  "model": "gpt-41"
+}

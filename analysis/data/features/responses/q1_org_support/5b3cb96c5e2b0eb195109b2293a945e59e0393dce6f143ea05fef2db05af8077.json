@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event promotion",
+    "increasing event frequency",
+    "support for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "More advertising of events",
+    "More events",
+    "More support to emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient advertising of events",
+    "lack of support for emerging artists"
+  ],
+  "solutions_proposed": [
+    "more advertising of events",
+    "more events",
+    "more support to emerging artists"
+  ],
+  "cached_at": "2025-06-20T10:45:27.611100",
+  "cache_key": "5b3cb96c5e2b0eb195109b2293a945e59e0393dce6f143ea05fef2db05af8077",
+  "model": "gpt-41"
+}

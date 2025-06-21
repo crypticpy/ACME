@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "diversification of funding sources",
+    "need for financial sustainability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "diversification of funding sources",
+    "would be very helpful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "diversification of funding sources"
+  ],
+  "cached_at": "2025-06-21T01:15:11.630802",
+  "cache_key": "238ea4a17e7a77691d6db5e13e0560638a0e1e2e2b24015154cb86a35b332b6c",
+  "model": "gpt-41"
+}

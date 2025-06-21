@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for free live music",
+    "access to free art",
+    "community wellness activities",
+    "free yoga and mental health support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Free live music",
+    "free art",
+    "FREE YOGA/MENTAL HEALTH/OVER ALL COMMUNITY WELLNESS"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of participation"
+  ],
+  "solutions_proposed": [
+    "Offer free live music events",
+    "Provide free art experiences",
+    "Host free yoga and mental health/wellness activities"
+  ],
+  "cached_at": "2025-06-21T00:50:07.208532",
+  "cache_key": "d8e60caef889ab23dce5e90e0ba32ffd09aee1af28ef5a5f4de4fe60ed7ba697",
+  "model": "gpt-41"
+}

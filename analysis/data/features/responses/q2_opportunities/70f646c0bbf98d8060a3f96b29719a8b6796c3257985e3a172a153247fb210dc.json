@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more traveling theater",
+    "interest in live performance variety"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Traveling theater shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase traveling theater shows in Austin"
+  ],
+  "cached_at": "2025-06-21T00:38:58.175834",
+  "cache_key": "70f646c0bbf98d8060a3f96b29719a8b6796c3257985e3a172a153247fb210dc",
+  "model": "gpt-41"
+}

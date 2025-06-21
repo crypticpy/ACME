@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited access to funding for creatives",
+    "complexity of application processes",
+    "lack of culturally relevant programming",
+    "low awareness of available resources",
+    "language access barriers",
+    "digital literacy challenges",
+    "geographic isolation for rural participants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "limited access to funding",
+    "complex application processes",
+    "lack of culturally relevant programming",
+    "low awareness of available resources",
+    "language access",
+    "digital literacy",
+    "geographic location",
+    "support harder to reach for low-income, minority, and rural creatives"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funding",
+    "complex application processes",
+    "lack of culturally relevant programming",
+    "low awareness of available resources",
+    "language access barriers",
+    "digital literacy challenges",
+    "geographic location barriers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:15.895978",
+  "cache_key": "be1b7dd6573e875f7d599f58e119a9652cea73fc504b74e1aa2619192d5b8d77",
+  "model": "gpt-41"
+}

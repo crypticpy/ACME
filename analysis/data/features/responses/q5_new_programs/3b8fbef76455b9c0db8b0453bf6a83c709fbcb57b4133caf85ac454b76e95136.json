@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of older Austin artists",
+    "historical preservation through media",
+    "barriers to digital engagement for older artists",
+    "need for accessible event information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Promotion and historical preservation related media specifically for older Austin artists",
+    "older artists in particular avoid social media and modern promotions",
+    "having some kind of modern 'event calendar' service",
+    "a more welcoming way for these artists to interact with media"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "older artists avoid social media",
+    "older artists avoid modern promotions"
+  ],
+  "solutions_proposed": [
+    "promotion and historical preservation related media for older Austin artists",
+    "modern event calendar service to help older artists interact with media"
+  ],
+  "cached_at": "2025-06-21T01:50:53.293236",
+  "cache_key": "3b8fbef76455b9c0db8b0453bf6a83c709fbcb57b4133caf85ac454b76e95136",
+  "model": "gpt-41"
+}

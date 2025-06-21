@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of Black community",
+    "need for programs for single mothers",
+    "support for mothers with young children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Black",
+    "Single mothers",
+    "Mothers with young chilyy"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of programs for Black community",
+    "lack of programs for single mothers",
+    "lack of programs for mothers with young children"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:04:59.874852",
+  "cache_key": "de0c84a771902783e752680d7dc0daa59c9f63fe0c0abd7b8e695b18e8d19c15",
+  "model": "gpt-41"
+}

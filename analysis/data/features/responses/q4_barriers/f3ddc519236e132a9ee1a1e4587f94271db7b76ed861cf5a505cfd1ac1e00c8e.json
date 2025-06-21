@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion due to lack of formal training or connections",
+    "financial barriers to participation",
+    "lack of sustained funding for grassroots organizations",
+    "burnout among staff in grassroots arts organizations",
+    "lost opportunities for community impact"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "arts world can be insular and dominated by those with formal training, institutional access, or industry connections",
+    "many talented individuals are excluded because they didn\u2019t attend a certain school or know the 'right' people",
+    "events, workshops, or professional development opportunities are expensive",
+    "for people from low-income communities, this creates a significant barrier",
+    "grassroots arts organizations that are doing vital cultural work often don\u2019t receive sustained funding",
+    "burnout among staff and lost opportunities for community impact and advancement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion based on lack of formal training",
+    "exclusion due to lack of institutional access or industry connections",
+    "high costs for admission, materials, travel, or education",
+    "financial barriers for low-income communities",
+    "lack of sustained funding for grassroots organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:08.473198",
+  "cache_key": "f3ddc519236e132a9ee1a1e4587f94271db7b76ed861cf5a505cfd1ac1e00c8e",
+  "model": "gpt-41"
+}

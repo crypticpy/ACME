@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient advance outreach for events",
+    "event scheduling conflicts with working hours",
+    "accessibility concerns related to health and safety (airborne illness mitigation)",
+    "suggestions for more accessible event timing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "lack of outreach before time",
+    "I often find out about events shortly before they take place",
+    "difficult to access events that take place during the weekday or early evening",
+    "having events in the 6:30-9:30 timeframe would be helpful",
+    "mitigating the spread of airborne illnesses by requiring masks and using air purifiers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient advance notice of events",
+    "event timing conflicts with work schedule",
+    "concerns about airborne illness at events"
+  ],
+  "solutions_proposed": [
+    "increase outreach and advance notice for events",
+    "schedule events in the 6:30-9:30 timeframe",
+    "require masks and use air purifiers at events"
+  ],
+  "cached_at": "2025-06-21T01:45:01.522656",
+  "cache_key": "bb8063eb97968fe3aeb60a5a334cac4ed965eba6e99a81fec47e7ebc02c25d03",
+  "model": "gpt-41"
+}

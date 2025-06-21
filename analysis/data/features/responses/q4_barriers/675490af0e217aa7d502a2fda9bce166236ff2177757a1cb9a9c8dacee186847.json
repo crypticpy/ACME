@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of recognition for long-time local artists",
+    "bias toward certain artistic voices and styles in funding",
+    "invisibility of subtle, skill-based practices",
+    "insider access and communication barriers",
+    "need for transparent outreach",
+    "call for equitable representation of diverse artistic backgrounds"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "lack of recognition for long-time, local artists",
+    "don\u2019t fit into current funding trends",
+    "strong support right now for voices tied to hardship or highly visible, bold expressions",
+    "feel invisible in those conversations",
+    "disconnect in how support is promoted",
+    "if you\u2019re not already 'in the loop', it can be hard to access opportunities",
+    "more transparent outreach and equitable representation of artistic styles and backgrounds"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of recognition for long-time, local artists",
+    "current funding trends favoring certain voices or styles",
+    "invisibility of subtle, skill-based practices",
+    "difficulty accessing opportunities without insider connections",
+    "poor promotion and communication of support opportunities"
+  ],
+  "solutions_proposed": [
+    "more transparent outreach",
+    "equitable representation of artistic styles and backgrounds"
+  ],
+  "cached_at": "2025-06-21T01:37:25.342816",
+  "cache_key": "675490af0e217aa7d502a2fda9bce166236ff2177757a1cb9a9c8dacee186847",
+  "model": "gpt-41"
+}

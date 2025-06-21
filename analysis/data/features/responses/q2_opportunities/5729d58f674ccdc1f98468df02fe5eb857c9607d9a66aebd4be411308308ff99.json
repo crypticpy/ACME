@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for free public events",
+    "community unity through cultural programming",
+    "exclusivity of large festivals",
+    "accessibility for all residents"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More things that are free in Zilker Park",
+    "fireworks & ASO events unite the whole city",
+    "The big festivals are for tourists and wealthy",
+    "it\u2019s be nice to have more events everyone can go to"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ASO events"
+  ],
+  "barriers_identified": [
+    "Big festivals are for tourists and wealthy",
+    "Lack of events everyone can go to"
+  ],
+  "solutions_proposed": [
+    "More free events in Zilker Park",
+    "Events that unite the whole city",
+    "More events accessible to everyone"
+  ],
+  "cached_at": "2025-06-21T00:26:37.102077",
+  "cache_key": "5729d58f674ccdc1f98468df02fe5eb857c9607d9a66aebd4be411308308ff99",
+  "model": "gpt-41"
+}

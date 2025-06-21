@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for paid opportunities for local artists and organizations",
+    "Preference for outsourcing programming to local groups",
+    "Inaccessibility and complexity of city space assistance programs",
+    "Demand for free or more affordable and equitable access to city-owned venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Providing more opportunities for paid revenue services for local artists/performers, nonprofits, and organizations",
+    "Use city funds to hire local artists/performers and outsource programming to local organizations",
+    "Provide free space (or at least more affordable rates and equitable access to space) in city-owned venues",
+    "The Creative Space Assistance program as it currently stands is NOT helpful or accessible",
+    "the application is overly complicated and requires a copious amount of specific details and logistical commitments (dates/times) without any guarantee of actually being awarded use of the space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Creative Space Assistance program"
+  ],
+  "barriers_identified": [
+    "Inaccessible and unhelpful Creative Space Assistance program",
+    "Overly complicated application process",
+    "Requirement for specific details and logistical commitments without guarantee of space"
+  ],
+  "solutions_proposed": [
+    "Provide more paid revenue opportunities for local artists/performers, nonprofits, and organizations",
+    "Use city funds to hire local artists/performers and outsource programming to local organizations",
+    "Provide free or more affordable and equitable access to city-owned venues for local organizations"
+  ],
+  "cached_at": "2025-06-21T01:49:47.432182",
+  "cache_key": "cf93ee1a3df72f544713ece4693b7c16c02ab78925117f0f4150e71a7b4dfac5",
+  "model": "gpt-41"
+}

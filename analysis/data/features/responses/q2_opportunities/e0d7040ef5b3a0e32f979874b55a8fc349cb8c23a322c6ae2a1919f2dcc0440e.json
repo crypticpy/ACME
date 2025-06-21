@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of established art events",
+    "support for artist communities",
+    "promotion of unconventional creative spaces",
+    "representation of Latine/x, Indigenous, and Black artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Losing Big Medium's annual art tours is a big blow",
+    "find new ways to serve those communities of artists and fans",
+    "encourage people to experience the weird & wonderful micro spots of creativity",
+    "the TVHead ATX Propaganda HQ warehouse space, for example",
+    "More Latine/x, indigenous & black centered artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium's annual art tours",
+    "TVHead ATX Propaganda HQ"
+  ],
+  "barriers_identified": [
+    "loss of major art events reducing opportunities for artists and fans"
+  ],
+  "solutions_proposed": [
+    "find new ways to serve those communities of artists and fans",
+    "encourage people to experience micro spots of creativity",
+    "increase support for Latine/x, indigenous & black centered artists"
+  ],
+  "cached_at": "2025-06-21T00:37:56.281278",
+  "cache_key": "e0d7040ef5b3a0e32f979874b55a8fc349cb8c23a322c6ae2a1919f2dcc0440e",
+  "model": "gpt-41"
+}

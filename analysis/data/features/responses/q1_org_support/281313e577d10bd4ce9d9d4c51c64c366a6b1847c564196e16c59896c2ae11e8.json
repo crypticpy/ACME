@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "visibility for organizations and leaders",
+    "inclusion in events",
+    "outreach and engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Invite them to table at all your events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of invitation to participate in events"
+  ],
+  "solutions_proposed": [
+    "Invite organizations and cultural leaders to table at all events"
+  ],
+  "cached_at": "2025-06-20T10:44:27.215367",
+  "cache_key": "281313e577d10bd4ce9d9d4c51c64c366a6b1847c564196e16c59896c2ae11e8",
+  "model": "gpt-41"
+}

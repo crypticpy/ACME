@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased fundraising",
+    "corporate sponsorship engagement",
+    "perceived abundance of local wealth",
+    "insufficient arts funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Fundraising",
+    "Engage and reward corporate sponsors and donors",
+    "There is so much money in Austin",
+    "There is absolutely no reason why the arts can\u2019t be funded"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of engagement with corporate sponsors",
+    "underutilization of available local wealth"
+  ],
+  "solutions_proposed": [
+    "Engage and reward corporate sponsors and donors"
+  ],
+  "cached_at": "2025-06-20T10:45:09.397220",
+  "cache_key": "f34ba1c2089d26ab698146e8c863b8db8a71e14dcb0ca2d52f1d8c77076658ee",
+  "model": "gpt-41"
+}

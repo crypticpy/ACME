@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist compensation",
+    "exploitation of creative labor",
+    "valuing cultural work",
+    "fairness and equity in funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "fairly compensating artists",
+    "artists are asked to provide labor, ideas, and community trust-building without adequate pay",
+    "paying artists equitably for their time, expertise, and cultural labor must be a priority\u2014not an afterthought"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adequate pay for artists",
+    "expectation of unpaid labor and trust-building"
+  ],
+  "solutions_proposed": [
+    "paying artists equitably for their time, expertise, and cultural labor"
+  ],
+  "cached_at": "2025-06-21T01:57:30.286848",
+  "cache_key": "6b330ea75c81effac535c57d48462f52744497f31ac25ad78d2ae9e820bb9364",
+  "model": "gpt-41"
+}

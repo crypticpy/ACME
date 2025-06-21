@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "increasing diversity in cultural offerings",
+    "facilitating partnerships between large cultural entities",
+    "expanding grant opportunities",
+    "support for non-musician roles in the music ecosystem (e.g., AV)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more diversity",
+    "helping facilitate partnerships between the larger entities like SXSX and ACL",
+    "more grants",
+    "not just for musicians but those that support music too like AV"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSX",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "lack of diversity",
+    "insufficient partnerships between large entities",
+    "limited grant access for non-musicians"
+  ],
+  "solutions_proposed": [
+    "increase diversity",
+    "facilitate partnerships between larger entities",
+    "provide more grants, including for those supporting music (e.g., AV)"
+  ],
+  "cached_at": "2025-06-21T00:30:18.798923",
+  "cache_key": "b58cb36054152c2523d8c9938e0a0ef993325b3b6a3dd11af9c97b4d435623bb",
+  "model": "gpt-41"
+}

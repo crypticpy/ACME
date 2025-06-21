@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for kid/baby friendly events",
+    "family-inclusive programming",
+    "parent-child art activities",
+    "accessibility for parents with young children"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more kid/baby friendly events and programming",
+    "mommy and me art class for parents and small children",
+    "shows where you can bring your kids"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of kid/baby friendly events",
+    "limited opportunities for parents to participate with children"
+  ],
+  "solutions_proposed": [
+    "offer more kid/baby friendly events",
+    "create mommy and me art classes for parents and small children",
+    "organize shows where you can bring your kids"
+  ],
+  "cached_at": "2025-06-21T02:02:03.040394",
+  "cache_key": "d5bb7d8d2880e87a5ade2712a7d02f9813089c6074e4698b2cd332fa098eea85",
+  "model": "gpt-41"
+}

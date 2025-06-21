@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty exhibiting work locally",
+    "better opportunities outside Austin",
+    "lack of local support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "better chance of showing my work out of city and state",
+    "than here in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited opportunities to exhibit work in Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:51:29.211107",
+  "cache_key": "052069636cf58e32bca520deb834ca04dff166799ae77341481f17aa11524a1f",
+  "model": "gpt-41"
+}

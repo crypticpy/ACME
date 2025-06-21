@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theater",
+    "interest in performing arts",
+    "expansion of cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More live theater shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the number of live theater shows"
+  ],
+  "cached_at": "2025-06-21T00:36:36.189516",
+  "cache_key": "bdc8ea6ae00af1824213a06bf6b67acf55dd547d531934ef369fb92e70170f7a",
+  "model": "gpt-41"
+}

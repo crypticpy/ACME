@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "misallocation of funding",
+    "inequity in resource distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Money doesn\u2019t always go to the right people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding does not reach intended recipients"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:09.126533",
+  "cache_key": "3b4552379b4b42d1d607b9dc364f5a2c498e06c560ad5df3bf6519c0744be527",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "threat of displacement due to rising rents",
+    "need for creative space ownership or retention",
+    "insufficient grant funding for small organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "do not get priced out their spaces by rent hikes",
+    "support the purchase and retention of creative spaces",
+    "provide more grants especially for smaller organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rent hikes pricing artists out of their spaces",
+    "lack of grant funding for smaller organizations"
+  ],
+  "solutions_proposed": [
+    "support the purchase and retention of creative spaces",
+    "provide more grants especially for smaller organizations"
+  ],
+  "cached_at": "2025-06-20T10:26:37.699754",
+  "cache_key": "4ad18d0acbcf57ece824b0306ab7f0ad123f204e7e5d471aff5452eb8a74249f",
+  "model": "gpt-41"
+}

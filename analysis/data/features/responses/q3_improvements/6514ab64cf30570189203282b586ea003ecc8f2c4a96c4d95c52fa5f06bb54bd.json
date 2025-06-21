@@ -1,0 +1,47 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of inclusive and transparent planning process",
+    "Perceived political interference and predetermined outcomes",
+    "Instability and frequent changes in funding programs",
+    "Inequity between established institutions and emerging or marginalized groups",
+    "Barriers to accessing diverse funding sources",
+    "Need for differentiated support based on group history and capacity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "actual planning process that includes ALL affected parties",
+    "sham attempts to justify and result that has been decided behind closed doors",
+    "stop re-imagining them every couple of years",
+    "unattainable requirements such as hard matches or funding pauses",
+    "few well funded major institutions",
+    "small, endangered group that will never in our lifetimes get the 'conservative' funding",
+    "Treating both groups the same is on its face inequitable",
+    "less political interference and more actual support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of inclusive and open planning process",
+    "Decisions made behind closed doors without affected groups' participation",
+    "Unattainable funding requirements (e.g., hard matches, funding pauses)",
+    "Inaccessibility of certain funding sources for new, unknown, or culturally specific groups",
+    "Instability due to frequent changes in program design",
+    "Inequitable treatment of groups with different histories and capacities"
+  ],
+  "solutions_proposed": [
+    "Implement a planning process that includes all affected parties and is open and professionally developed",
+    "Engage in an acceptable, participatory process before making improvements",
+    "Reduce frequency of major program changes to support growth and sustainability",
+    "Tailor funding approaches to address the distinct needs of groups based on history, strength, cultural reach, and artistic competence",
+    "Reduce political interference in funding decisions",
+    "Provide dependable support for groups lacking business or political backing"
+  ],
+  "cached_at": "2025-06-21T01:06:29.841602",
+  "cache_key": "6514ab64cf30570189203282b586ea003ecc8f2c4a96c4d95c52fa5f06bb54bd",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for direct outreach",
+    "increasing grant applicant diversity",
+    "city's role in engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more direct outreach",
+    "organizations the City would like to see apply for grants",
+    "would be helpful"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct outreach to potential applicants"
+  ],
+  "solutions_proposed": [
+    "more direct outreach to organizations the City would like to see apply for grants"
+  ],
+  "cached_at": "2025-06-21T01:03:41.025412",
+  "cache_key": "6b1c07e5dd24966d621261b817b8d2fec297de8978e5f1c8d39e9d7f65798e33",
+  "model": "gpt-41"
+}

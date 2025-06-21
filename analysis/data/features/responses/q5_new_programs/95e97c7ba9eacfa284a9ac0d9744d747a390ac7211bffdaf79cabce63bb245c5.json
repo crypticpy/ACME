@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Targeted outreach to underserved communities",
+    "Building trust through community liaison roles",
+    "Culturally competent grantmaking",
+    "Simplified grant application processes",
+    "Language accessibility in workshops"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Targeted Outreach and Funding for Culturally Specific and Underserved Communities",
+    "community liaison roles within ACME focused on building trust",
+    "Grants specifically designated for projects from historically marginalized communities",
+    "simplified application processes and cultural competency in review",
+    "Workshops conducted in multiple languages"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "historically faced systemic barriers",
+    "lack of deep engagement with specific cultural groups",
+    "complex grant application processes",
+    "language barriers limiting accessibility"
+  ],
+  "solutions_proposed": [
+    "Create community liaison roles focused on building trust and understanding needs",
+    "Designate grants specifically for historically marginalized communities",
+    "Simplify grant application processes",
+    "Ensure cultural competency in grant review",
+    "Conduct workshops in multiple languages"
+  ],
+  "cached_at": "2025-06-21T01:51:45.237767",
+  "cache_key": "95e97c7ba9eacfa284a9ac0d9744d747a390ac7211bffdaf79cabce63bb245c5",
+  "model": "gpt-41"
+}

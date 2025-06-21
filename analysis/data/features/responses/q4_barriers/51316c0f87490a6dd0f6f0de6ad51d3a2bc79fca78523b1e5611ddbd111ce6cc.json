@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of support for African American artists",
+    "Absence of infrastructure for R&B, soul, and hip hop in Austin",
+    "Comparison to better support in Dallas and Houston",
+    "Need for cultural recognition and listening"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Having an ear to hear the African American artist & culture",
+    "needs the support to develop & maintain R&B, soul music, hip hop",
+    "you can find in Dallas & Houston... but not in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of support for African American artists and culture in Austin",
+    "Insufficient development and maintenance of R&B, soul music, and hip hop",
+    "Absence of recognition or listening to these communities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:24.670344",
+  "cache_key": "51316c0f87490a6dd0f6f0de6ad51d3a2bc79fca78523b1e5611ddbd111ce6cc",
+  "model": "gpt-41"
+}

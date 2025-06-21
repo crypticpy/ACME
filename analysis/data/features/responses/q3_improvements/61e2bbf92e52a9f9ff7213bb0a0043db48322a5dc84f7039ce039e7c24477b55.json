@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased promotion",
+    "expanding audience reach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more promotion",
+    "reach a broader audience"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited audience reach"
+  ],
+  "solutions_proposed": [
+    "more promotion to reach a broader audience"
+  ],
+  "cached_at": "2025-06-21T01:18:41.688725",
+  "cache_key": "61e2bbf92e52a9f9ff7213bb0a0043db48322a5dc84f7039ce039e7c24477b55",
+  "model": "gpt-41"
+}

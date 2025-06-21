@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "representation of artists and cultural workers in leadership",
+    "importance of staff experience and community connection",
+    "barriers faced by marginalized groups in the current political climate"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "place artists, cultural workers, and organizations who already do this work in leadership",
+    "better represent the voices of the cultural arts community",
+    "listen to ACME staff who work directly with artists",
+    "long term experience working with community groups and individuals",
+    "obstacles that marginalized groups face",
+    "current political climate",
+    "harder for them to access cultural arts spaces and use cultural arts resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "obstacles that marginalized groups face",
+    "current political climate makes it harder to access cultural arts spaces and resources"
+  ],
+  "solutions_proposed": [
+    "place artists, cultural workers, and organizations in leadership or roles of impact within ACME",
+    "listen to ACME staff who work directly with artists",
+    "learn about the obstacles that marginalized groups face"
+  ],
+  "cached_at": "2025-06-21T02:12:41.129868",
+  "cache_key": "a512772ec74e4a54b743bdb206253bfb72978152ceb1240d098a9d2855fc3529",
+  "model": "gpt-41"
+}

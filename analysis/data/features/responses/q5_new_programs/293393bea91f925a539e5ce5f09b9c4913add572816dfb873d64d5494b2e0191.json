@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of capacity-building for small/emerging organizations",
+    "support for organizations led by people of color",
+    "mentorship and professional development",
+    "grant-writing and marketing assistance",
+    "access to shared resources",
+    "increased programming for underrepresented cultures (Filipino and Pacific Islander arts)",
+    "inclusive cultural representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expanding them would be incredibly valuable",
+    "initiatives that support capacity-building for small or emerging cultural organizations",
+    "especially those led by people of color",
+    "mentorship, grant-writing support, marketing assistance, and access to shared resources",
+    "highlights underrepresented cultures like Filipino and Pacific Islander arts",
+    "showcases, residencies, or public art",
+    "create a more inclusive cultural landscape in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of capacity-building support for small or emerging organizations",
+    "insufficient support for organizations led by people of color",
+    "underrepresentation of Filipino and Pacific Islander arts"
+  ],
+  "solutions_proposed": [
+    "expand capacity-building initiatives",
+    "provide mentorship, grant-writing support, marketing assistance, and access to shared resources",
+    "increase programming that highlights underrepresented cultures through showcases, residencies, or public art"
+  ],
+  "cached_at": "2025-06-21T01:59:29.838114",
+  "cache_key": "293393bea91f925a539e5ce5f09b9c4913add572816dfb873d64d5494b2e0191",
+  "model": "gpt-41"
+}

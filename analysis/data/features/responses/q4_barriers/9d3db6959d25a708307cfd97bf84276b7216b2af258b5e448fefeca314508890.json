@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "personal initiative as a barrier",
+    "awareness of available resources",
+    "access to support services"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "lack of initiative to find the available resources"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of initiative to find available resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:02.128703",
+  "cache_key": "9d3db6959d25a708307cfd97bf84276b7216b2af258b5e448fefeca314508890",
+  "model": "gpt-41"
+}

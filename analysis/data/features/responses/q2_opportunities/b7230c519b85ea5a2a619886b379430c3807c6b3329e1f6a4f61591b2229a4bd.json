@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more visual arts",
+    "interest in permanent public sculptures",
+    "demand for arts education/classes"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "visual arts",
+    "permanent sculptures",
+    "classes like at dougherty"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "dougherty"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more visual arts opportunities",
+    "increase permanent sculptures",
+    "offer more classes similar to those at Dougherty"
+  ],
+  "cached_at": "2025-06-21T00:31:22.480398",
+  "cache_key": "b7230c519b85ea5a2a619886b379430c3807c6b3329e1f6a4f61591b2229a4bd",
+  "model": "gpt-41"
+}

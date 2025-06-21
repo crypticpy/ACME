@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "lack of donor support",
+    "systemic bias in cultural funding",
+    "lack of understanding of cultural diversity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding",
+    "lack of existing donors",
+    "systemic biases",
+    "lack of understanding of cultural diversity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding",
+    "lack of existing donors",
+    "systemic biases",
+    "lack of understanding of cultural diversity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:52.254893",
+  "cache_key": "bc22553b02ffaa0df3b64ac5f6fbac114cd020f8b732e3458acc9043b4111b70",
+  "model": "gpt-41"
+}

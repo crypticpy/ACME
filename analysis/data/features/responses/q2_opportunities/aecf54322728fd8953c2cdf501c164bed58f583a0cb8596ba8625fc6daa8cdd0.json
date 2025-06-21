@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased opportunities for indigenous communities",
+    "decolonization of cultural practices",
+    "valuing people, places, and environment intrinsically",
+    "community engagement with nature",
+    "non-exploitative cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more arts and entertainment opportunities for our indigenous communities",
+    "a practice of decolonization in our city as a whole",
+    "understanding the value of people, places, and environment in and of themselves",
+    "invite our community to view and commune with nature and each other in a non exploitative way"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for indigenous communities",
+    "exploitative approaches to culture and environment"
+  ],
+  "solutions_proposed": [
+    "more arts and entertainment opportunities for indigenous communities",
+    "practice of decolonization in the city",
+    "works and opportunities that foster non-exploitative community engagement with nature and each other"
+  ],
+  "cached_at": "2025-06-21T00:30:38.470011",
+  "cache_key": "aecf54322728fd8953c2cdf501c164bed58f583a0cb8596ba8625fc6daa8cdd0",
+  "model": "gpt-41"
+}

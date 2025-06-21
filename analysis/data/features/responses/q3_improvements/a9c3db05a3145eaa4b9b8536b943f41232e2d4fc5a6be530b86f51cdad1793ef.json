@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "non-commercial public art events",
+    "artist compensation through stipends",
+    "economic inclusivity",
+    "reducing pressure to purchase art",
+    "welcoming environment for all income levels"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "public event where artists perform but don\u2019t sell their work",
+    "given stipends for materials",
+    "all wealth levels can come",
+    "not feel like they don\u2019t belong because of the pressure to buy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pressure to buy",
+    "exclusion of lower-income attendees"
+  ],
+  "solutions_proposed": [
+    "host public events where artists perform but do not sell their work",
+    "provide artists with stipends for materials to support participation",
+    "create events where all wealth levels feel welcome and included"
+  ],
+  "cached_at": "2025-06-21T00:56:06.680182",
+  "cache_key": "a9c3db05a3145eaa4b9b8536b943f41232e2d4fc5a6be530b86f51cdad1793ef",
+  "model": "gpt-41"
+}

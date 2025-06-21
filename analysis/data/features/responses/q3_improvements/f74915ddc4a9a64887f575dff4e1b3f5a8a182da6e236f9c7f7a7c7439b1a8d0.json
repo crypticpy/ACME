@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "accessibility of cultural funding programs",
+    "maintenance of current program standards"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Keep them accessible"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential inaccessibility"
+  ],
+  "solutions_proposed": [
+    "Keep them accessible"
+  ],
+  "cached_at": "2025-06-21T01:16:35.338747",
+  "cache_key": "f74915ddc4a9a64887f575dff4e1b3f5a8a182da6e236f9c7f7a7c7439b1a8d0",
+  "model": "gpt-41"
+}

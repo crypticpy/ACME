@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "confusion about available support/services",
+    "financial barriers due to funding cuts",
+    "impact on staffing and programming",
+    "expectation to maintain community services despite reduced resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I don't understand this question - what support or services? Offered by whom?",
+    "The main barrier is financial",
+    "our funding has been slashed",
+    "we are still expected and want to continue to offer the services our community needs",
+    "requires us to fire staff and slash programs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clarity about available support/services",
+    "reduced funding",
+    "need to lay off staff",
+    "need to cut programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:01.330454",
+  "cache_key": "bcc5e78b378603ae5efef6b2e868d72c7cd1b20b814eca835bab12b965bbbb4c",
+  "model": "gpt-41"
+}

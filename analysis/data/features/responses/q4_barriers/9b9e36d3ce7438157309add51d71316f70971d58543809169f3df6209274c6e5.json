@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of sustained private sector support",
+    "insufficient funding for community organizations",
+    "absence of wealthy donors",
+    "limited organizational capacity for fundraising"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "sustained support outside of local government is almost non-existent in TX",
+    "most community based orgs don't have wealthy individual donors",
+    "don't have the funds to pay for extensive development staff",
+    "just part time and contractors"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustained private funding",
+    "absence of wealthy individual donors",
+    "inability to afford full-time development staff",
+    "reliance on part-time and contract staff for development"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:30.070504",
+  "cache_key": "9b9e36d3ce7438157309add51d71316f70971d58543809169f3df6209274c6e5",
+  "model": "gpt-41"
+}

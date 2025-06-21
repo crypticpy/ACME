@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for increased funding amounts",
+    "Concerns about eligibility criteria and artistic legitimacy",
+    "Critique of funding being spread too thinly",
+    "Need for peer recognition in funding decisions",
+    "Call for subject matter experts on funding panels",
+    "Distrust of current panel composition and perceived bias"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "amounts should be larger",
+    "eligibility should be for legitimate art, not 'creative' whatever",
+    "Just because someone feels like they are creative doesn't make them an artist",
+    "Sustained, legitimate cultural work, acknowledged as such by peers should be rewarded",
+    "The City spreads the money too thinly, diluting impact",
+    "the panels MUST be composed of subject matter experts, not axe grinding culture warriors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Eligibility criteria are too broad, allowing non-legitimate artists to access funding",
+    "Funding is spread too thinly, reducing impact",
+    "Panels lack subject matter expertise and may be biased"
+  ],
+  "solutions_proposed": [
+    "Increase funding amounts",
+    "Restrict eligibility to sustained, legitimate cultural work acknowledged by peers",
+    "Ensure panels are composed of subject matter experts"
+  ],
+  "cached_at": "2025-06-21T00:59:35.831772",
+  "cache_key": "c30ba652801fbcba3ec46397571fb4a558f6b7ef79686a13956bb08a46d1e51d",
+  "model": "gpt-41"
+}

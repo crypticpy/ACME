@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for underprivileged communities",
+    "equity in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more accessible",
+    "underprivileged communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility for underprivileged communities"
+  ],
+  "solutions_proposed": [
+    "make them more accessible to underprivileged communities"
+  ],
+  "cached_at": "2025-06-21T01:16:15.986097",
+  "cache_key": "5d38b4b04687c52f3f8084056a5a67acef3eb657c05995a60f0e59ea3e21dfc4",
+  "model": "gpt-41"
+}

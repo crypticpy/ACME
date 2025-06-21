@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for multicultural events",
+    "fusion of art forms",
+    "music and visual arts integration",
+    "enhancing downtown Austin's cultural presence"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more multicultural events",
+    "fusion of music, Vistula arts, and other forms of art",
+    "downtown Austin that is more culture forward",
+    "implementation of art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more multicultural events with a fusion of music, Vistula arts, and other forms of art",
+    "implementation of art to make downtown Austin more culture forward"
+  ],
+  "cached_at": "2025-06-21T00:34:52.256039",
+  "cache_key": "a02e453f7309de03ce57afc54270d2efa947200c595156dc957025de28c4d20e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local artists and musicians",
+    "preference for concerts and live music events",
+    "interest in cross-media and interactive arts experiences",
+    "community-focused cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Concerts like blues on the green, Austin blues fest",
+    "bulk of their support lineup utilizing local artists and musicians",
+    "cross media platform events",
+    "visual arts and music to create interactive experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "blues on the green",
+    "Austin blues fest"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "concerts that have the bulk of their support lineup utilizing local artists and musicians",
+    "cross media platform events that use visual arts and music to create interactive experiences"
+  ],
+  "cached_at": "2025-06-21T00:31:46.936269",
+  "cache_key": "2e66d60429cf382345ec2771f8ad89cd1ec38cf91bc9bbe708ae9993e0116352",
+  "model": "gpt-41"
+}

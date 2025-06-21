@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "distrust of consultants",
+    "opposition to social engineering",
+    "call for organizational change"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Fire the consultants",
+    "drop the social engineering",
+    "fire the consultants again to make sure you get all of them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "involvement of consultants",
+    "perceived social engineering"
+  ],
+  "solutions_proposed": [
+    "Fire the consultants",
+    "drop the social engineering"
+  ],
+  "cached_at": "2025-06-20T10:26:42.921397",
+  "cache_key": "0457291d59e66b21a7d5d39651935930429aa1895fbd971bf68046a1203294e6",
+  "model": "gpt-41"
+}

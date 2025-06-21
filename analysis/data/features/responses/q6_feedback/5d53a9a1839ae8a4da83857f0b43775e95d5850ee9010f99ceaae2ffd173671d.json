@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficiency of HOT tax funding",
+    "need for alternative or increased funding sources",
+    "frustration with frequent changes to grant guidelines",
+    "preference for supporting grassroots organizations over large institutions",
+    "lack of accountability for major institutions",
+    "importance of capacity building and sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "HOT taxes will never be enough",
+    "significant effort put into increasing the HOT allotment",
+    "establishing other ways to fund arts & culture",
+    "Re-writing the grant guidelines every 2 years only causes more frustration, distrust and confusion",
+    "pay the local organizations, non-profits and individuals already doing the grassroots work",
+    "spending large amounts on larger institutions (The Long Center, Miles Partnership) who do not have a strong connection with the community and who are not held accountable",
+    "Capacity building and sustainability should always be at the forefront"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Long Center",
+    "Miles Partnership"
+  ],
+  "barriers_identified": [
+    "insufficient HOT tax funding",
+    "frequent changes to grant guidelines causing frustration, distrust and confusion",
+    "large institutions lacking community connection and accountability"
+  ],
+  "solutions_proposed": [
+    "increase the HOT allotment diverted from the Convention Center",
+    "establish other ways to fund arts & culture",
+    "reduce frequency of rewriting grant guidelines",
+    "prioritize funding for local organizations, non-profits, and individuals doing grassroots work",
+    "focus on capacity building and sustainability"
+  ],
+  "cached_at": "2025-06-21T02:18:53.660589",
+  "cache_key": "5d53a9a1839ae8a4da83857f0b43775e95d5850ee9010f99ceaae2ffd173671d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "call for adoption of best practices in arts funding",
+    "critique of EDD's approach to program design",
+    "concerns about unqualified leadership in public arts programs",
+    "perceived harm to the professional arts sector",
+    "comparison to standards in public health administration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "institute widely accepted best practices for public funding of the arts",
+    "EDD chose to center its own social engineering ideas",
+    "damage to the professional arts sector was real",
+    "Governments don't let unqualified people run public health programs",
+    "why is it ok for unqualified people to run public arts programs?"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "leadership prioritizing unproven social engineering over best practices",
+    "unqualified individuals running public arts programs"
+  ],
+  "solutions_proposed": [
+    "institute widely accepted best practices for public funding of the arts",
+    "ensure qualified individuals run public arts programs"
+  ],
+  "cached_at": "2025-06-21T00:59:58.662729",
+  "cache_key": "7e4f195ab5b3e55048c34c588d795681dc30a520d8ff4cfa29b7f459473a0984",
+  "model": "gpt-41"
+}

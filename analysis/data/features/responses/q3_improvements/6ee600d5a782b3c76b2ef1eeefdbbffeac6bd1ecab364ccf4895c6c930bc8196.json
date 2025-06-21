@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "restrictive funding criteria",
+    "dominance of established organizations",
+    "exclusion of new and emerging applicants",
+    "overlooked foundational contributors"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "less restrictive funding for new and emerging applicants",
+    "established orgs and creatives continue to dominate the receipt of funds",
+    "those who really need it and are the foundation of the industry are often overlooked, denied, or left out"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "restrictive funding for new and emerging applicants",
+    "dominance of established organizations and creatives",
+    "overlooked, denied, or left out foundational contributors"
+  ],
+  "solutions_proposed": [
+    "less restrictive funding for new and emerging applicants"
+  ],
+  "cached_at": "2025-06-21T01:16:07.259039",
+  "cache_key": "6ee600d5a782b3c76b2ef1eeefdbbffeac6bd1ecab364ccf4895c6c930bc8196",
+  "model": "gpt-41"
+}

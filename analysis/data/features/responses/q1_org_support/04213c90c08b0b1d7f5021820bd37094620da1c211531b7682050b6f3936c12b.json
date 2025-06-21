@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community engagement",
+    "responsiveness to community needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Listen to what the community wants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Listen to what the community wants"
+  ],
+  "cached_at": "2025-06-20T10:37:59.694211",
+  "cache_key": "04213c90c08b0b1d7f5021820bd37094620da1c211531b7682050b6f3936c12b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "age discrimination in arts funding",
+    "perceived bias against older artists",
+    "suitability for grant funding based on age"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "my age has nothing to do with my suitability for grant funding",
+    "I'm 66",
+    "The arts are not kind to people over a certain age"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "age discrimination",
+    "lack of support for older artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:58:27.798203",
+  "cache_key": "1a5048cc8d844445ae3f250918c0473c70986ca55e78e35272b70b741736de66",
+  "model": "gpt-41"
+}

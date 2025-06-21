@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accountability in grantmaking",
+    "preference for funding institutions over individual artists",
+    "expanding diversity in programming",
+    "reaching new audiences",
+    "economic impact of cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grant making should generally be to venues and institutions that can be held accountable",
+    "meet specific goals and report back",
+    "expand diversity in programming",
+    "reach new audiences",
+    "provide sustained economic impact",
+    "rather than funding artists directly",
+    "except perhaps in the case of permanent public art installations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Direct city grantmaking to venues and institutions that can be held accountable to meet specific goals and report back",
+    "Require institutions to use funds to expand diversity in programming and reach new audiences",
+    "Fund artists directly only in the case of permanent public art installations"
+  ],
+  "cached_at": "2025-06-21T02:20:33.926333",
+  "cache_key": "56dec111950d7aee94b0a2321dd47eec92e6de23c2a8038dfcb1e4e0b037212e",
+  "model": "gpt-41"
+}

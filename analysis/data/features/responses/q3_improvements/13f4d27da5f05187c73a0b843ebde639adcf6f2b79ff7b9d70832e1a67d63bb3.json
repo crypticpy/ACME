@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process accessibility",
+    "diversity in evaluation panels",
+    "funding equity for smaller organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "easier application process",
+    "more diverse evaluation panels",
+    "more funding for smaller orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "lack of diversity in evaluation panels",
+    "insufficient funding for smaller organizations"
+  ],
+  "solutions_proposed": [
+    "easier application process",
+    "more diverse evaluation panels",
+    "more funding for smaller orgs"
+  ],
+  "cached_at": "2025-06-21T00:54:27.155351",
+  "cache_key": "13f4d27da5f05187c73a0b843ebde639adcf6f2b79ff7b9d70832e1a67d63bb3",
+  "model": "gpt-41"
+}

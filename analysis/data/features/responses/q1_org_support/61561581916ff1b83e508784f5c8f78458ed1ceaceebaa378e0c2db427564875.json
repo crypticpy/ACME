@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of diverse voices",
+    "representation in decision-making",
+    "diversity in project reviews",
+    "leadership diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Include diverse voices and interests",
+    "conversations, project reviews and leadership"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diverse voices and interests in conversations, project reviews, and leadership"
+  ],
+  "solutions_proposed": [
+    "Include diverse voices and interests in conversations, project reviews and leadership"
+  ],
+  "cached_at": "2025-06-20T01:12:46.277542",
+  "cache_key": "61561581916ff1b83e508784f5c8f78458ed1ceaceebaa378e0c2db427564875",
+  "model": "gpt-41"
+}

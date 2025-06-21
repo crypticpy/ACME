@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "funding for spaces and events",
+    "community needs and desires",
+    "cultural and historical relevance",
+    "support for emerging and established artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "funding spaces and events",
+    "consistently meet the needs and desires of the community",
+    "culturally and historically relevant",
+    "emerging and established artists / performers / entertainers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund spaces and events that are culturally and historically relevant and meet community needs, involving both emerging and established artists."
+  ],
+  "cached_at": "2025-06-20T10:30:04.975955",
+  "cache_key": "45b62e4afc4d55fcaeaead5a8980f409f287086e81e26ab4db11f19f6fc1fafd",
+  "model": "gpt-41"
+}

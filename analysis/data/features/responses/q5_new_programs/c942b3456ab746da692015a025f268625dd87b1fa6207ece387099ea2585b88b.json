@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for free arts programming",
+    "support for local arts organizations",
+    "accessibility of cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I wish that local arts organizations could offer free performances",
+    "assist local arts organizations to be functioning at a level to provide free events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "local arts organizations not able to provide free events"
+  ],
+  "solutions_proposed": [
+    "assist local arts organizations to be functioning at a level to provide free events"
+  ],
+  "cached_at": "2025-06-21T01:51:47.109208",
+  "cache_key": "c942b3456ab746da692015a025f268625dd87b1fa6207ece387099ea2585b88b",
+  "model": "gpt-41"
+}

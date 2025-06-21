@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued funding for cultural organizations",
+    "value of community and family events",
+    "recognition of specific cultural celebrations (Juneteenth)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Continue to give funding to organizations that produce cultural events",
+    "produce family fun events for the community like Juneteenth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Juneteenth"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue to give funding to organizations that produce cultural events"
+  ],
+  "cached_at": "2025-06-20T10:40:52.768258",
+  "cache_key": "5009bf42470d7ee1b5d6741ee5afb1ff4bc7f8022942a6c74db94d34846ca77d",
+  "model": "gpt-41"
+}

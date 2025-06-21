@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived narrowing of eligibility for funding",
+    "Need for broader inclusivity in funding recipients",
+    "Support for both new and established artists",
+    "Impact of rising cost of living on artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "requirements seem to have changed to serve only destitute artists",
+    "more broad approach to who receives funding",
+    "a certain percentage of new artists or those with no financial means, all the way up to more established artists",
+    "still need support to continue working as artists in Austin as the cost of living continues to climb"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Eligibility criteria perceived as too narrow",
+    "Rising cost of living in Austin"
+  ],
+  "solutions_proposed": [
+    "Broaden eligibility to include both new and more established artists",
+    "Allocate funding by percentage to different artist groups based on need"
+  ],
+  "cached_at": "2025-06-21T01:10:15.714459",
+  "cache_key": "f83abb680ed381fb9d142e124a2c125f6b2421c95900a15e2eb9b26601fd6440",
+  "model": "gpt-41"
+}

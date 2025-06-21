@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "preservation of current and historical art",
+    "support for emerging artists",
+    "need for opportunities and spaces for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "preserve current and historical pieces",
+    "provide opportunities and spaces for emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "preserve current and historical pieces",
+    "provide opportunities and spaces for emerging artists"
+  ],
+  "cached_at": "2025-06-20T01:17:46.642274",
+  "cache_key": "61f48fb627914deb79b0633befe779b3e0df1a5341cdee986428a147affc06bd",
+  "model": "gpt-41"
+}

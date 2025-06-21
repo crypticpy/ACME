@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "City support for cultural activities",
+    "Need for improved outreach to Hispanic artists",
+    "Intimidation by grant process",
+    "Language barriers",
+    "Bureaucracy in application process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The city of Austin does a great effort to promote and to support cultural activities throught the grants",
+    "the approach has to be different to get to the hispanic artists",
+    "several fellow artists are intimidated by the process",
+    "it could be a language barrier",
+    "because of the bureaucracy of the process"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "language barrier",
+    "bureaucracy of the process",
+    "intimidation by the process"
+  ],
+  "solutions_proposed": [
+    "different approach to get to the hispanic artists"
+  ],
+  "cached_at": "2025-06-21T01:11:45.363050",
+  "cache_key": "70f441f0f721325b58abdb1cbb56de058bb9bf6982ccb52dc11229a8e8316123",
+  "model": "gpt-41"
+}

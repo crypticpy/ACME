@@ -1,0 +1,46 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "health care support for cultural workers",
+    "expanded funding opportunities",
+    "access to venues",
+    "marketing support",
+    "education and professional development",
+    "business support services",
+    "networking and learning events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Health care",
+    "Funding opportunities",
+    "Venues",
+    "REAL Marketing support",
+    "Education",
+    "Biz support",
+    "Conferences, workshops"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of health care",
+    "insufficient funding opportunities",
+    "limited access to venues",
+    "inadequate marketing support",
+    "need for education and business support"
+  ],
+  "solutions_proposed": [
+    "provide health care",
+    "increase funding opportunities",
+    "improve access to venues",
+    "offer real marketing support",
+    "expand education and business support",
+    "host conferences and workshops"
+  ],
+  "cached_at": "2025-06-20T10:22:23.674305",
+  "cache_key": "f913f9cd853b092c8df4f92d6205165bbbeb8ced1dfdc830a281e25caa826c2c",
+  "model": "gpt-41"
+}

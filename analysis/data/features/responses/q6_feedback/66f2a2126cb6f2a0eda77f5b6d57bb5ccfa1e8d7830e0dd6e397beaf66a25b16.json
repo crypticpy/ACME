@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "immigrant creative contributions",
+    "stress from federal discourse",
+    "importance of supporting first-generation creatives",
+    "role of culture in community vibrancy",
+    "gratitude despite challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I arrived here as a South American immigrant in the mid 90's because of Austin's music.",
+    "I understand the challenges that immigrant creatives are up against.",
+    "We help keep Austin as vibrant as it is.",
+    "Please keep first-generation creatives in your hearts as you create ACME.",
+    "We are under deep stress due to the spiteful federal discourse.",
+    "We keep bringing grace, culture and beauty to students, families, tourists and the general public.",
+    "Grateful!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "deep stress due to the spiteful federal discourse"
+  ],
+  "solutions_proposed": [
+    "keep first-generation creatives in your hearts as you create ACME"
+  ],
+  "cached_at": "2025-06-21T02:20:42.597777",
+  "cache_key": "66f2a2126cb6f2a0eda77f5b6d57bb5ccfa1e8d7830e0dd6e397beaf66a25b16",
+  "model": "gpt-41"
+}

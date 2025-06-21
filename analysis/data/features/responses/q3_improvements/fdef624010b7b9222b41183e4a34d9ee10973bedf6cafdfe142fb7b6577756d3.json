@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "continuity of policy changes",
+    "frustration with reversal of progress",
+    "preference for incremental improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Continue on the changes we had already began to implement",
+    "improving on them rather than throwing everything out and starting again",
+    "3 steps backwards after 1 step forward"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reversal of previously implemented changes"
+  ],
+  "solutions_proposed": [
+    "continue improving on existing changes rather than starting over"
+  ],
+  "cached_at": "2025-06-21T00:56:49.690498",
+  "cache_key": "fdef624010b7b9222b41183e4a34d9ee10973bedf6cafdfe142fb7b6577756d3",
+  "model": "gpt-41"
+}

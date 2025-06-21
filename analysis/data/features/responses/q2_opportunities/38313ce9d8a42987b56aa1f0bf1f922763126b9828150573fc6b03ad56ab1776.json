@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for emerging artists",
+    "recognition and support for established music professionals",
+    "importance of sidemen in Austin's music scene",
+    "link between musicians and Austin's 'Live Music Capital' identity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "programs to assist emerging artists",
+    "programs to support established Austin music professionals (sidemen)",
+    "unsung heros",
+    "make the higher-level music in this town",
+    "city\u2019s 'Live Music Capital' moniker stands on the shoulders of"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for established music professionals (sidemen)",
+    "insufficient recognition for key contributors to Austin's music scene"
+  ],
+  "solutions_proposed": [
+    "programs to assist emerging artists",
+    "programs to support established Austin music professionals (sidemen)"
+  ],
+  "cached_at": "2025-06-21T00:29:09.953816",
+  "cache_key": "38313ce9d8a42987b56aa1f0bf1f922763126b9828150573fc6b03ad56ab1776",
+  "model": "gpt-41"
+}

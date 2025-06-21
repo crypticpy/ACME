@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "systemic funding challenges for grassroots organizations",
+    "competition with larger, well-resourced organizations",
+    "difficulty securing financial support for local artists",
+    "impact on ability to realize community artistic vision"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "systemic challenge of funding for our organization",
+    "grassroots projects, designed to amplify local artistic voices",
+    "compete against well-resourced, larger organizations",
+    "difficult to secure the financial support needed to realize our vision",
+    "directly impacts our ability to elevate local artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "systemic challenge of funding for grassroots organizations",
+    "competition with larger, well-resourced organizations for limited resources",
+    "difficulty securing financial support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:30.596577",
+  "cache_key": "9c65c03ce594edc7f779e355c90d7e4f78efc454294c401759556a532d7b8160",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "decline in program quality post-COVID",
+    "loss of excitement in cultural programming",
+    "impact of pandemic on cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Studio Tours has diminished since COVID",
+    "used to be a really exciting program"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Studio Tours"
+  ],
+  "barriers_identified": [
+    "program diminished since COVID"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:53:51.436882",
+  "cache_key": "dfb1a9c29e69177c61aec550c93a71abc2220933e71cf0e6cc00b64092dd5932",
+  "model": "gpt-41"
+}

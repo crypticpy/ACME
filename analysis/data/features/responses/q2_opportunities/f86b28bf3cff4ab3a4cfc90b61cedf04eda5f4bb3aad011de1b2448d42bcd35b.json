@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "timeliness of funding distribution",
+    "increasing direct support to artists",
+    "need for more frequent cultural events",
+    "city responsiveness to change"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More funds getting to more artists promptly",
+    "Things change fast",
+    "The city needs to catch up and keep up",
+    "Doing more events and art in a timely manner"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "delays in funding distribution",
+    "city not keeping pace with change"
+  ],
+  "solutions_proposed": [
+    "Distribute more funds to more artists promptly",
+    "Increase the frequency and timeliness of events and art"
+  ],
+  "cached_at": "2025-06-21T00:43:55.209244",
+  "cache_key": "f86b28bf3cff4ab3a4cfc90b61cedf04eda5f4bb3aad011de1b2448d42bcd35b",
+  "model": "gpt-41"
+}

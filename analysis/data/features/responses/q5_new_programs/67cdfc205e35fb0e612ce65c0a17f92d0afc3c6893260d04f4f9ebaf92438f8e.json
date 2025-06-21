@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for emerging artists",
+    "project-based funding",
+    "career development for artists",
+    "balancing art with day jobs",
+    "artist-led workshops and exhibits",
+    "use of public spaces (APL, Rec centers)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "mini grants for emerging artists",
+    "complete an album and opportunity to showcase the album",
+    "develop workshops to share their art at the APL or Rec centers",
+    "develop exhibit",
+    "help the emerging artists who would like to build their career project by project",
+    "busy with their 'day jobs'"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "emerging artists are busy with their 'day jobs'",
+    "lack of project-based funding opportunities"
+  ],
+  "solutions_proposed": [
+    "offer mini grants for emerging artists",
+    "fund projects to complete and showcase albums",
+    "support development of workshops at APL or Rec centers",
+    "support development of exhibits"
+  ],
+  "cached_at": "2025-06-21T01:54:47.495044",
+  "cache_key": "67cdfc205e35fb0e612ce65c0a17f92d0afc3c6893260d04f4f9ebaf92438f8e",
+  "model": "gpt-41"
+}

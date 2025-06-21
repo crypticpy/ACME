@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for multicultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Multicultural"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more multicultural arts or entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:24:55.031458",
+  "cache_key": "e36f41a0c10da1838973c3d791d2730e7acfc1d85d01c74bccde56fc1cc1c91a",
+  "model": "gpt-41"
+}

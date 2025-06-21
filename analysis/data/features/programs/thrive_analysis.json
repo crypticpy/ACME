@@ -1,0 +1,34 @@
+{
+  "program_name": "Thrive",
+  "mention_count": 58,
+  "sentiment_summary": {
+    "mixed": 21,
+    "positive": 11,
+    "negative": 26
+  },
+  "strengths": [],
+  "improvement_areas": [],
+  "specific_requests": [],
+  "representative_quotes": [
+    "ACME\u2019s proposed changes, particularly the 50% match requirement threaten to undo the equity and access initiatives that have helped organizations led by and serving people of color thrive",
+    "Artists need more than annual events to thrive in society, they need everyday spaces to work, showcase, and sell",
+    "Promote ways these new business owners and creatives can thrive long-term",
+    "Just funding the arts in the way that allowed Women and their Work, Big Medium, and many other artists and arts organizations to thrive as they did in the past",
+    "How does our city exist as a place that creatives and creative professionals can thrive",
+    "More artist workshops and seminars that explore how Austin is rapidly changing, and how artists can adapt, thrive, and contribute to the city's evolving cultural landscape",
+    "My providing them with the funding, resources, spaces and tools necessary to thrive and grow",
+    "ACME should also recognize that creative ecosystems thrive not just through grants, but through infrastructure\u2014like affordable spaces, community hubs, and peer networks",
+    "Make Thrive a 5-year grant so organizations can really benefit and aren't left in the lurch if they don't get funding (or get reduced funding) in the next cycle",
+    "Please rework the Elevate and Thrive grants to focus on the arts and serve more people/organizations by spreading the funding out more"
+  ],
+  "impact_statements": [],
+  "accessibility_issues": [],
+  "demographic_reach": {
+    "organization": 27,
+    "artist": 20,
+    "unknown": 4,
+    "resident": 5,
+    "venue_operator": 1,
+    "funder": 1
+  }
+}

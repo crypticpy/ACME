@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for administrative support",
+    "support for new cultural ventures",
+    "promotion and marketing assistance",
+    "city-wide events to increase visibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more assistance with administrative functions",
+    "support for new ventures",
+    "assistance with promotion and marketing",
+    "quarterly city-wide events that promote various organizations and spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of administrative support",
+    "insufficient promotion and marketing",
+    "limited opportunities for city-wide exposure"
+  ],
+  "solutions_proposed": [
+    "provide more assistance with administrative functions",
+    "offer support for new ventures",
+    "assist with promotion and marketing",
+    "organize quarterly city-wide events that promote various organizations and spaces"
+  ],
+  "cached_at": "2025-06-20T10:23:49.367842",
+  "cache_key": "6f7338898128cdf2c3c169fb4ac1411a8b5999c805ef8bdf537bde86f3e4c09e",
+  "model": "gpt-41"
+}

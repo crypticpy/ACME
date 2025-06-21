@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased cultural opportunities",
+    "broad interest in arts and entertainment",
+    "support for cultural expansion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more of everything"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:46:41.525509",
+  "cache_key": "169221c66fe56e49b47c3e4dec3411386fbf46469551d13fc6fbe3182aec9a95",
+  "model": "gpt-41"
+}

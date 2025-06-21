@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "frustration with current cultural funding processes",
+    "prioritization of industry infrastructure over direct artist funding",
+    "critique of direct funding to musicians and small promoters",
+    "emphasis on amplifying artists through venues and music services"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Just get cultural funding and AIPP right please",
+    "LMF should mostly go to venues and music services like publishing, PR and radio promoters",
+    "Directly funding musicians and small promoters does nothing to build the local music industry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "LMF"
+  ],
+  "barriers_identified": [
+    "Ineffective allocation of funds to musicians and small promoters"
+  ],
+  "solutions_proposed": [
+    "Prioritize funding for venues and music services (publishing, PR, radio promoters) over direct funding to musicians and small promoters"
+  ],
+  "cached_at": "2025-06-21T01:54:44.815525",
+  "cache_key": "70182790c2b4b9437b64133da51a823d8836f8b961002ae2d31596a5a85f540a",
+  "model": "gpt-41"
+}

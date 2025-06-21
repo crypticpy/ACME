@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient funding",
+    "resource allocation",
+    "prioritization of financial support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "focus on one thing",
+    "BIGGER POT OF MONEY TO SPEND"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding"
+  ],
+  "solutions_proposed": [
+    "increase available funding"
+  ],
+  "cached_at": "2025-06-21T01:58:22.981939",
+  "cache_key": "b16047732768ac9c5514170fa2e926140718a16edb59939f39fafb103a493f67",
+  "model": "gpt-41"
+}

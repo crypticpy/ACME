@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community voice",
+    "organizational responsiveness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Listen to what those in the community are actually saying"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of listening to community voices"
+  ],
+  "solutions_proposed": [
+    "listen to what those in the community are actually saying"
+  ],
+  "cached_at": "2025-06-20T10:39:17.554612",
+  "cache_key": "51ae982f1b952248e32ded4652902574145f45d57f80e5c66f314ccd61252ebe",
+  "model": "gpt-41"
+}

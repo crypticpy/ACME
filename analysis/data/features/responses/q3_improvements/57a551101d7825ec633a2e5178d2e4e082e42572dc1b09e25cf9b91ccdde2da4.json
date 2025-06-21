@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "overreliance on HOT tax funding",
+    "tourism-centric funding priorities",
+    "difficulty engaging local audiences",
+    "need for diversified funding sources",
+    "city's self-image vs. funding reality"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "HOT tax funding base is great to have",
+    "unnatural overemphasis on tourism",
+    "unless you\u2019re producing SXSW, ACL Fest, most will be working super hard simply to get the local population we serve to show up",
+    "for a city that touts itself on being an arts Mecca",
+    "solid arguments for broadening this funding from other financial pools",
+    "the more broad and diverse the portfolio, the better"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW",
+    "ACL Fest"
+  ],
+  "barriers_identified": [
+    "funding tied to tourism metrics",
+    "difficulty attracting local audiences"
+  ],
+  "solutions_proposed": [
+    "broaden funding from other financial pools",
+    "diversify the funding portfolio"
+  ],
+  "cached_at": "2025-06-21T01:11:13.753165",
+  "cache_key": "57a551101d7825ec633a2e5178d2e4e082e42572dc1b09e25cf9b91ccdde2da4",
+  "model": "gpt-41"
+}

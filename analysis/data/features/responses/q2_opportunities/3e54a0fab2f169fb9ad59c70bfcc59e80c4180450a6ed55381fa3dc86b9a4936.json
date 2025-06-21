@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist professional development",
+    "adapting to city change",
+    "artist contributions to cultural landscape",
+    "support for artists during urban transformation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more artist workshops and seminars",
+    "explore how Austin is rapidly changing",
+    "how artists can adapt, thrive, and contribute",
+    "city's evolving cultural landscape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "need for artist adaptation to city changes"
+  ],
+  "solutions_proposed": [
+    "offer more artist workshops and seminars focused on adaptation and contribution to Austin's evolving culture"
+  ],
+  "cached_at": "2025-06-21T00:47:37.597483",
+  "cache_key": "3e54a0fab2f169fb9ad59c70bfcc59e80c4180450a6ed55381fa3dc86b9a4936",
+  "model": "gpt-41"
+}

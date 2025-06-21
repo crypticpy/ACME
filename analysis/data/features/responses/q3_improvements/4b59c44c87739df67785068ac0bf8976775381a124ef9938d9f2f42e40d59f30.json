@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "restrictive funding guidelines",
+    "tax implications of grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Less rigid guidelines and funding restrictions",
+    "Tax free grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rigid guidelines",
+    "funding restrictions",
+    "taxable grants"
+  ],
+  "solutions_proposed": [
+    "less rigid guidelines and funding restrictions",
+    "tax free grants"
+  ],
+  "cached_at": "2025-06-21T01:01:38.644776",
+  "cache_key": "4b59c44c87739df67785068ac0bf8976775381a124ef9938d9f2f42e40d59f30",
+  "model": "gpt-41"
+}

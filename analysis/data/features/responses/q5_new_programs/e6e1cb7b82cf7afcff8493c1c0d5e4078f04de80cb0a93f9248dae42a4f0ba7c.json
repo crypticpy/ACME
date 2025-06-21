@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient publicity for current art",
+    "visibility of local artists",
+    "promotion of ongoing creative work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more publicity for art being made at the moment"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicity for current art"
+  ],
+  "solutions_proposed": [
+    "increase publicity for art being made at the moment"
+  ],
+  "cached_at": "2025-06-21T01:58:38.663237",
+  "cache_key": "e6e1cb7b82cf7afcff8493c1c0d5e4078f04de80cb0a93f9248dae42a4f0ba7c",
+  "model": "gpt-41"
+}

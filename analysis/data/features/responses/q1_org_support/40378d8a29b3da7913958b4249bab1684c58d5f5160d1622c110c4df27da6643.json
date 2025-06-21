@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in funding processes",
+    "affordability and housing insecurity for artists",
+    "limited access to affordable venues",
+    "exclusivity in funding distribution",
+    "misalignment between funding priorities and artistic freedom"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Transparency in how funding works",
+    "help to support housing to keep Austin affordable to artists",
+    "create venues where artists can put up work for little to no money",
+    "help keep the cost of living and producing down to a minimum for ALL artists",
+    "not just the select artists you're giving funding in any given cycle",
+    "Artists shouldn't be trying to twist their programming to fit your funding priorities",
+    "the best art gets made when artists have room to experiment and fail and still feed themselves"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in funding",
+    "high cost of living and producing art",
+    "limited affordable venues",
+    "exclusive funding benefiting only select artists",
+    "pressure to conform programming to funding priorities"
+  ],
+  "solutions_proposed": [
+    "increase transparency in funding processes",
+    "support housing to keep Austin affordable for artists",
+    "create venues with little to no cost for artists",
+    "reduce cost of living and producing for all artists",
+    "allow artists more freedom to experiment without financial risk"
+  ],
+  "cached_at": "2025-06-20T10:31:25.547826",
+  "cache_key": "40378d8a29b3da7913958b4249bab1684c58d5f5160d1622c110c4df27da6643",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "outreach to underrepresented artists",
+    "community organizations as connectors",
+    "need for inclusivity in funding",
+    "starting points for engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "community organizations reaching out",
+    "underrepresented artists/organizations/communites",
+    "the bridge as to start somewhere"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to underrepresented groups"
+  ],
+  "solutions_proposed": [
+    "community organizations reaching out to underrepresented artists/organizations/communities"
+  ],
+  "cached_at": "2025-06-21T01:05:59.141004",
+  "cache_key": "ca91c0fb6b1b826e3d66260d07982dd78ca4655568d2002286f750e8f5022383",
+  "model": "gpt-41"
+}

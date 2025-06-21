@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural participation",
+    "impact of rising local costs",
+    "financial barriers to venues and events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Rising costs in Austin",
+    "ticket prices",
+    "venue rental prices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Rising costs in Austin",
+    "ticket prices",
+    "venue rental prices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:14.564537",
+  "cache_key": "7e31fff2623188771d3c872d4bdc0e9f1ba3af60b936088baddc99f9a64f623c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient space for project vision in applications",
+    "need for interdisciplinary funding",
+    "inclusivity beyond traditional arts organizations",
+    "critique of siloed approach to art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more space on applications (at least Nexus) to share the vision for the project",
+    "opening up funding--not just to arts organizations but to organizations that would be paying artists for a more interdisciplinary endeavor",
+    "not such a silo-ing of art but seeing it as part of a larger tapestry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "limited opportunity to share project vision in applications",
+    "funding restricted to arts organizations",
+    "silo-ing of art disciplines"
+  ],
+  "solutions_proposed": [
+    "provide more space on applications (at least Nexus) to share the vision for the project",
+    "open up funding to organizations beyond arts organizations, including those paying artists for interdisciplinary work",
+    "reduce silo-ing of art and support a more integrated, interdisciplinary approach"
+  ],
+  "cached_at": "2025-06-21T01:07:47.804825",
+  "cache_key": "437d6d123ff434960e9fbd7e9641d8d4f4cd7a5090e292637ab952703d550991",
+  "model": "gpt-41"
+}

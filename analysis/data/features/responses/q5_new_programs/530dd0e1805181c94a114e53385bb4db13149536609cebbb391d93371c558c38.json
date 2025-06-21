@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of artists",
+    "increasing artist visibility",
+    "connecting artists with audiences",
+    "platforming opportunities for artists",
+    "support for artistic expression"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "promotion, advertising and platforming opportunities",
+    "help every artist increase awareness of their art and expression",
+    "help them find their fans within the Austin community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of promotion and advertising opportunities",
+    "difficulty increasing awareness of art and expression",
+    "challenges connecting with fans in the community"
+  ],
+  "solutions_proposed": [
+    "offer promotion, advertising and platforming opportunities for artists"
+  ],
+  "cached_at": "2025-06-21T01:59:34.824687",
+  "cache_key": "530dd0e1805181c94a114e53385bb4db13149536609cebbb391d93371c558c38",
+  "model": "gpt-41"
+}

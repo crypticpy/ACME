@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "business training for creative professionals",
+    "networking and job opportunities for arts sector",
+    "cross-sector collaboration",
+    "access to city and private art procurement",
+    "centralized digital asset repository for local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "business training for creative professionals and arts orgs",
+    "a large expo of arts organizations and businesses",
+    "networking, vendor, and job fair",
+    "cross pollination effort to find the arts community partners from other sectors/departments",
+    "allow local artists and orgs to bid on the city's fine art purchases",
+    "facilitate the same in the private sector",
+    "establish a City of Austin stock image and video clearinghouse"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited business training for creative professionals",
+    "lack of networking and job opportunities",
+    "restricted access for local artists to city and private art procurement",
+    "absence of centralized digital asset repository for local artists"
+  ],
+  "solutions_proposed": [
+    "provide business training for creative professionals and arts organizations",
+    "organize a large expo for networking, vendor, and job opportunities",
+    "facilitate cross-sector partnerships between arts and other departments",
+    "allow local artists and organizations to bid on city and private sector art purchases",
+    "establish a city-run stock image and video clearinghouse featuring local artists"
+  ],
+  "cached_at": "2025-06-21T00:33:35.023634",
+  "cache_key": "89c5946de6fcbcd3f3d387c26154e43b5250abc612c4fc65666d2b90d39111a5",
+  "model": "gpt-41"
+}

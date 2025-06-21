@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of participation",
+    "downtown-centric location of events",
+    "parking limitations and expense"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "It can be expensive to participate",
+    "Many music events, art museums, festivals, and cultural events happen in Downtown Austin",
+    "parking is incredibly limited and very expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expense of participation",
+    "limited parking",
+    "expensive parking",
+    "events concentrated in Downtown Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:53.563142",
+  "cache_key": "68cfd2cab25a22160f9095de77f63ee692b0e628ecd83f147f6868ba62416f16",
+  "model": "gpt-41"
+}

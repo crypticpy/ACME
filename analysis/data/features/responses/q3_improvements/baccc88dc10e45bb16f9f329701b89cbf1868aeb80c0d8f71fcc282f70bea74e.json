@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased outreach and publicity",
+    "grant application support and education",
+    "showcasing funded artists",
+    "youth engagement in arts",
+    "collaboration with educational institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "the more the City publicizes, the better the City reaches to the people who could utilize the funding",
+    "multiple grant application workshops at cultural centers like AARC or at ACC & UT",
+    "A Music Week to showcase the artists that the City supported through the grants & the grant itself",
+    "Art workshops to go around AISD schools to promote the grant and encourage students to pursue art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AARC",
+    "ACC",
+    "UT",
+    "AISD"
+  ],
+  "barriers_identified": [
+    "lack of awareness of funding opportunities",
+    "insufficient outreach to potential applicants",
+    "limited engagement with youth and students"
+  ],
+  "solutions_proposed": [
+    "increase publicity of funding programs",
+    "host multiple grant application workshops at cultural centers and educational institutions",
+    "organize a Music Week to showcase grant-supported artists",
+    "conduct art workshops in AISD schools to promote grants and encourage student participation"
+  ],
+  "cached_at": "2025-06-21T01:00:01.114426",
+  "cache_key": "baccc88dc10e45bb16f9f329701b89cbf1868aeb80c0d8f71fcc282f70bea74e",
+  "model": "gpt-41"
+}

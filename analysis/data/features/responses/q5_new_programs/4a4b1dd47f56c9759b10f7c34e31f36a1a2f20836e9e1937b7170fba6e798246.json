@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grant application support",
+    "underrepresentation of educational clinics",
+    "access to funding resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more clinics for applying to grant programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clinics for applying to grant programs"
+  ],
+  "solutions_proposed": [
+    "offer more clinics for applying to grant programs"
+  ],
+  "cached_at": "2025-06-21T01:53:10.738150",
+  "cache_key": "4a4b1dd47f56c9759b10f7c34e31f36a1a2f20836e9e1937b7170fba6e798246",
+  "model": "gpt-41"
+}

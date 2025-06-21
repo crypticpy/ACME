@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for consistency in cultural funding",
+    "perceived lack of reliability or predictability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Consistency"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistency in cultural funding programs"
+  ],
+  "solutions_proposed": [
+    "increase consistency"
+  ],
+  "cached_at": "2025-06-21T01:04:48.376512",
+  "cache_key": "527b040c62033d804110c57bbc88a38cf40ca05f65d2a080ffe70f40e85c12da",
+  "model": "gpt-41"
+}

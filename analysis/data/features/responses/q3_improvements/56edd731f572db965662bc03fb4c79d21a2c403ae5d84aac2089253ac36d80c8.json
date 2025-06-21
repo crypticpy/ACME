@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited definition of diversity in funding programs",
+    "need for broader ethnic and cultural inclusion",
+    "representation of recent immigrants and international communities",
+    "impact of representation on sense of belonging"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "focus on African American and Latino people of color",
+    "diversity comes in many colors and populations",
+    "myopic view about diversity and inclusion",
+    "more representation also kindles a sense of belonging",
+    "see a lot more representation from people who have started calling Austin home in the last 2 decades",
+    "Austin now has a sizeable international population",
+    "programs could work to include people from all ethnicities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "narrow focus on certain racial/ethnic groups",
+    "lack of inclusion for recent immigrants and international populations"
+  ],
+  "solutions_proposed": [
+    "include people from all ethnicities",
+    "increase representation from people who have started calling Austin home in the last 2 decades"
+  ],
+  "cached_at": "2025-06-21T00:54:57.002751",
+  "cache_key": "56edd731f572db965662bc03fb4c79d21a2c403ae5d84aac2089253ac36d80c8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,49 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Inequitable funding distribution disadvantaging grassroots and BIPOC-led organizations",
+    "Displacement and lack of affordable venues due to gentrification and rising real estate costs",
+    "Overly complex and inaccessible grant and permit application processes",
+    "Insufficient outreach, language barriers, and lack of culturally relevant engagement",
+    "High costs and regulatory burdens for small organizations and independent artists",
+    "Geographic inequity and transportation barriers limiting access for non-central communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of equitable funding distribution",
+    "Grassroots and BIPOC-led organizations are overlooked",
+    "Rising real estate costs and gentrification have displaced many artists",
+    "Complex and inaccessible application processes",
+    "Insufficient outreach and communication",
+    "High costs and regulatory burdens",
+    "Cultural programming is often concentrated in central Austin",
+    "Communities in East, South, and North Austin who face mobility and access challenges",
+    "Remove these systemic barriers and invest in inclusive, community-driven solutions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of equitable funding distribution",
+    "Grassroots and BIPOC-led organizations are overlooked",
+    "Limited access to affordable venues and creative spaces",
+    "Displacement due to rising real estate costs and gentrification",
+    "Complex and inaccessible application processes",
+    "Insufficient outreach and communication",
+    "Language barriers",
+    "Lack of culturally relevant engagement strategies",
+    "High costs and regulatory burdens (permit fees, insurance, logistics)",
+    "Lack of transportation and geographic equity",
+    "Cultural programming concentrated in central Austin"
+  ],
+  "solutions_proposed": [
+    "Remove these systemic barriers",
+    "Invest in inclusive, community-driven solutions that uplift all voices"
+  ],
+  "cached_at": "2025-06-21T01:43:42.961609",
+  "cache_key": "ec474d95fc6b7919278e0f5ac282aafb37c66efdb452363c4a56cfca884c12b4",
+  "model": "gpt-41"
+}

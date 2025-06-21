@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "infrastructure improvement for cultural facilities",
+    "parking accessibility",
+    "networking and community building among grantees"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Expediting the completion of the ESB-MACC",
+    "adding significant parking through an addition of a parking garage",
+    "holding a networking event for the grantees"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ESB-MACC"
+  ],
+  "barriers_identified": [
+    "lack of sufficient parking"
+  ],
+  "solutions_proposed": [
+    "expedite the completion of the ESB-MACC",
+    "add a parking garage",
+    "hold a networking event for grantees"
+  ],
+  "cached_at": "2025-06-20T10:32:48.118333",
+  "cache_key": "3ac16d8a2987e6a0169890b8751ef0927df353d804ea0e1ae28d0dcf3b7588f0",
+  "model": "gpt-41"
+}

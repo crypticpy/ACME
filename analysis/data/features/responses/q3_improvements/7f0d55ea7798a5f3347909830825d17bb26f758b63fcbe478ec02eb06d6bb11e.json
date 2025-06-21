@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inequitable distribution of awards",
+    "preference for established groups",
+    "critique of scoring-based funding",
+    "recognition of long-term community contribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "awards are more shared with deserving arts groups",
+    "not just large amounts given to a select few",
+    "if a group has been operating successfully for (let's say)10 years in Austin, they should be awarded",
+    "not just awarded on a score they received or didn't get high enough score, so they received nothing",
+    "They've proven that they have operated and given their work successfully to this community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding based solely on scoring excludes established groups",
+    "concentration of large awards to a select few"
+  ],
+  "solutions_proposed": [
+    "share awards more broadly with deserving arts groups",
+    "recognize and award groups with a proven track record in the community, not just those with high scores"
+  ],
+  "cached_at": "2025-06-21T01:12:40.854657",
+  "cache_key": "7f0d55ea7798a5f3347909830825d17bb26f758b63fcbe478ec02eb06d6bb11e",
+  "model": "gpt-41"
+}

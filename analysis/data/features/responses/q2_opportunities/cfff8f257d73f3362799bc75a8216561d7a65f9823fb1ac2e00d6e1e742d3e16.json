@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for ongoing arts initiatives",
+    "desire for more youth performances",
+    "interest in non-school-based youth arts opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "keep building a lot of the arts that are happening",
+    "would love to see more youth performances (not school based)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited non-school-based youth performance opportunities"
+  ],
+  "solutions_proposed": [
+    "increase non-school-based youth performances"
+  ],
+  "cached_at": "2025-06-21T00:27:15.269202",
+  "cache_key": "cfff8f257d73f3362799bc75a8216561d7a65f9823fb1ac2e00d6e1e742d3e16",
+  "model": "gpt-41"
+}

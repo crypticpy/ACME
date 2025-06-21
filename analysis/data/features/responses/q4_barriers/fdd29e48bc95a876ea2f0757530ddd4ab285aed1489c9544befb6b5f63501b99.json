@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of reputable performance venues for BIPOC communities",
+    "limited opportunities for Jazz, Multi-disciplinary, and World Music ensembles",
+    "barriers to access for underrepresented genres and communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Access to reputable performance venues for members of the Bipoc communities",
+    "Lack of opportunities and venues Jazz, Multi-disciplinary and World Music ensembles"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of reputable performance venues for BIPOC communities",
+    "lack of opportunities and venues for Jazz, Multi-disciplinary, and World Music ensembles"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:54.351027",
+  "cache_key": "fdd29e48bc95a876ea2f0757530ddd4ab285aed1489c9544befb6b5f63501b99",
+  "model": "gpt-41"
+}

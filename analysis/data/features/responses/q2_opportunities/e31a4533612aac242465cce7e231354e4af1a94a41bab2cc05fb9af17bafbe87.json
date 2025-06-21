@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "program scheduling flexibility",
+    "shorter event duration",
+    "youth inclusion in cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "different times of day",
+    "shorter programs",
+    "opportunities that include youth in meaningful ways"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited program times",
+    "programs too long",
+    "lack of meaningful youth inclusion"
+  ],
+  "solutions_proposed": [
+    "offer programs at different times of day",
+    "provide shorter programs",
+    "create opportunities that include youth in meaningful ways"
+  ],
+  "cached_at": "2025-06-21T00:29:31.719982",
+  "cache_key": "e31a4533612aac242465cce7e231354e4af1a94a41bab2cc05fb9af17bafbe87",
+  "model": "gpt-41"
+}

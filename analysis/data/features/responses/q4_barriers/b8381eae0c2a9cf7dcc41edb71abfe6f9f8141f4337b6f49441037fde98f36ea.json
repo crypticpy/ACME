@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant eligibility requirements",
+    "barriers for emerging artists",
+    "access to exhibition venues",
+    "support for work development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "requirement to already have a venue or a booked exhibition",
+    "Nexus grants",
+    "supporting the development of work by individual artists",
+    "access to galleries and opportunities",
+    "emerging artist might not have"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus grants"
+  ],
+  "barriers_identified": [
+    "requirement to have a venue or booked exhibition to qualify for grants",
+    "lack of access to galleries and exhibition opportunities for emerging artists"
+  ],
+  "solutions_proposed": [
+    "support the development of work by individual artists regardless of if there is a scheduled exhibition"
+  ],
+  "cached_at": "2025-06-21T01:23:09.372879",
+  "cache_key": "b8381eae0c2a9cf7dcc41edb71abfe6f9f8141f4337b6f49441037fde98f36ea",
+  "model": "gpt-41"
+}

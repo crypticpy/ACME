@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic equity",
+    "community inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "spread through all the communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited distribution of programs across communities"
+  ],
+  "solutions_proposed": [
+    "spread funding programs through all the communities"
+  ],
+  "cached_at": "2025-06-21T01:13:36.341479",
+  "cache_key": "817bb90daa16f5940135d9b15a6e9f68ccde8f19e7c9f0084a3cebc212972432",
+  "model": "gpt-41"
+}

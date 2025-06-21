@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "gender bias in music and nightlife",
+    "pay inequity for women and gender-expansive individuals",
+    "lack of opportunities and access to resources",
+    "safety concerns in nightlife environments",
+    "underrepresentation in leadership and venue ownership",
+    "pervasive stereotypes about leadership suitability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "gender bias regularly",
+    "women or gender-expansive folks being judged harsher than male counterparts",
+    "not being given opportunities as easily as male counterparts",
+    "being paid less than male counterparts",
+    "receiving payment later than male counterparts",
+    "not having the same access to resources as male counterparts",
+    "general nightlife safety issues (being drugged, being touched inappropriately or worse\u2026)",
+    "lack of gender diversity in venue ownership and other positions of power",
+    "pervasive community idea that men are better suited for leadership positions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "BABE ATX"
+  ],
+  "barriers_identified": [
+    "gender bias",
+    "harsher judgment for women and gender-expansive individuals",
+    "fewer opportunities for women and gender-expansive individuals",
+    "pay inequity",
+    "delayed payment",
+    "limited access to resources",
+    "nightlife safety issues (drugging, inappropriate touching)",
+    "lack of gender diversity in venue ownership and leadership",
+    "stereotypes about men being better suited for leadership"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:21.668665",
+  "cache_key": "ff531460a396b0d1c0b223ab93b2f1af1a74d585133ad623fe0f519dd9d16f45",
+  "model": "gpt-41"
+}

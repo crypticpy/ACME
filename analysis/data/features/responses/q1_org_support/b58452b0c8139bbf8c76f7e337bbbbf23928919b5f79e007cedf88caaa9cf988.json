@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking opportunities",
+    "educational support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Networking",
+    "education"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Networking",
+    "education"
+  ],
+  "cached_at": "2025-06-20T10:30:28.172024",
+  "cache_key": "b58452b0c8139bbf8c76f7e337bbbbf23928919b5f79e007cedf88caaa9cf988",
+  "model": "gpt-41"
+}

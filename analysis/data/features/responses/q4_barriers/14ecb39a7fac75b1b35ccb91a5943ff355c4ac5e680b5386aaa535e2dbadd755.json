@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited access to funding programs",
+    "capacity restrictions in cultural support",
+    "exclusivity in program participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "limited amount of attendees accepted into funding programs in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited amount of attendees accepted into funding programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:30.210136",
+  "cache_key": "14ecb39a7fac75b1b35ccb91a5943ff355c4ac5e680b5386aaa535e2dbadd755",
+  "model": "gpt-41"
+}

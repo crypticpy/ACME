@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of venues",
+    "limited access to large indoor spaces",
+    "barriers for group performances"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "high cost of venue rental",
+    "limited options for large groups",
+    "access indoor performance spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of venue rental",
+    "limited options for large groups to access indoor performance spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:48.659100",
+  "cache_key": "8ed0056c1a670c392c6589dcc0638a255969900a335abf25d73f2fcc1d83e545",
+  "model": "gpt-41"
+}

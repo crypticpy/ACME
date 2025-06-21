@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant application support",
+    "educational programming",
+    "capacity building for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "live workshops",
+    "how to apply for grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of guidance on grant applications"
+  ],
+  "solutions_proposed": [
+    "offer live workshops on how to apply for grants"
+  ],
+  "cached_at": "2025-06-21T02:06:47.230063",
+  "cache_key": "d657bf3c244be2b4b9af5841044cbf22390ae4e900b749633815ce0ab9bbea15",
+  "model": "gpt-41"
+}

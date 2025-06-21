@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of core classical arts",
+    "need for support of symphony, ballet, and opera"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Core classical arts support",
+    "symphony, ballet, opera"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "symphony",
+    "ballet",
+    "opera"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase support for core classical arts such as symphony, ballet, and opera"
+  ],
+  "cached_at": "2025-06-21T01:58:51.504996",
+  "cache_key": "75856612a657a29f52950d1c576a0a020d137620c3748f1323da7b8c32b5662e",
+  "model": "gpt-41"
+}

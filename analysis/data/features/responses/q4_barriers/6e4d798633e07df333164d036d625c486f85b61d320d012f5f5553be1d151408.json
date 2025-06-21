@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Time constraints for artists with families",
+    "Financial barriers due to rising ticket prices",
+    "Parking challenges at downtown events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "The biggest barrier is making time for it.",
+    "As a full time musician with a family, my availability to access the arts is limited.",
+    "That's on me.",
+    "I would say the finances.",
+    "Ticket prices and events have gradually gone up and sometimes it's not in the budget to make some of these events.",
+    "Parking at some events is challenging, especially downtown."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited time due to family and work obligations",
+    "High and increasing ticket prices",
+    "Challenging parking, especially downtown"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:51.051422",
+  "cache_key": "6e4d798633e07df333164d036d625c486f85b61d320d012f5f5553be1d151408",
+  "model": "gpt-41"
+}

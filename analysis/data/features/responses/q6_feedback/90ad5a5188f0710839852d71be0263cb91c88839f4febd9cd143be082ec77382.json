@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased information about ACME's offerings",
+    "support for smaller arts organizations",
+    "support for BIPOC-run organizations",
+    "access to venues and facilities for artists",
+    "integration of marginalized groups into the Austin mainstream"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more information on All ACME has to offer",
+    "venues and facilities artists can use for performance and rehearsal",
+    "assistance to smaller arts organization",
+    "Bipoc ran organizations in there attempts to produce their art and events in the Austin mainstream"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about available venues and facilities",
+    "insufficient assistance for smaller and BIPOC-run organizations to produce art and events"
+  ],
+  "solutions_proposed": [
+    "provide more information on ACME's offerings, venues, and facilities",
+    "increase assistance to smaller arts organizations and BIPOC-run organizations"
+  ],
+  "cached_at": "2025-06-21T02:17:28.506507",
+  "cache_key": "90ad5a5188f0710839852d71be0263cb91c88839f4febd9cd143be082ec77382",
+  "model": "gpt-41"
+}

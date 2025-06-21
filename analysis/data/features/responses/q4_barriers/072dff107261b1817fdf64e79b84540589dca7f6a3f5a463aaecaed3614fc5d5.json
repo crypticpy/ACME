@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about sustained funding",
+    "financial barriers to access",
+    "need for long-term support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continued funding for years"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of continued funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:35.877042",
+  "cache_key": "072dff107261b1817fdf64e79b84540589dca7f6a3f5a463aaecaed3614fc5d5",
+  "model": "gpt-41"
+}

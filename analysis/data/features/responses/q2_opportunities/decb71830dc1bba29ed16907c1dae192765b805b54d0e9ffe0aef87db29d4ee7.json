@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for diversified arts funding beyond HOT funds",
+    "holistic advocacy for artists by the new department",
+    "corporate responsibility in supporting local arts",
+    "city facilitation of business investment in the arts",
+    "support for both tourist and community/educational programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Strategic funding for artists and arts organizations that relies not JUST on HOT funds",
+    "supports the artistic community for both tourist-related programming and educational and community-building offerings",
+    "I want to see this new Dept advocate for artists more holistically",
+    "looking for new ways to fund the arts and partnerships with local businesses",
+    "Large corporations like Google and Indeed...need to contribute to local artists, and they are not",
+    "The city could play a real role in making those kinds of investments happen on the part of the business community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overreliance on HOT funds",
+    "lack of corporate contributions to local artists"
+  ],
+  "solutions_proposed": [
+    "diversify funding sources for the arts beyond HOT funds",
+    "holistic advocacy by the new department for artists",
+    "develop partnerships with local businesses",
+    "city-facilitated investment from large corporations into the arts"
+  ],
+  "cached_at": "2025-06-21T00:43:35.159515",
+  "cache_key": "decb71830dc1bba29ed16907c1dae192765b805b54d0e9ffe0aef87db29d4ee7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for creative workspaces",
+    "affordable/liveable spaces for creatives",
+    "proximity to downtown"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "inclusion of spaces for creatives to work and/or live",
+    "near downtown"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces for creatives to work and/or live near downtown"
+  ],
+  "solutions_proposed": [
+    "inclusion of spaces for creatives to work and/or live near downtown"
+  ],
+  "cached_at": "2025-06-21T00:38:14.080890",
+  "cache_key": "e458802b3ec65155e37634e1ee6e5e912a6b6ac25468f68e8eaff67f0090c6f5",
+  "model": "gpt-41"
+}

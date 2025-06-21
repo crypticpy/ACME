@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support for local events",
+    "support for locally-run festivals",
+    "grantmaking and sponsorship as support mechanisms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grants and sponsorships",
+    "local run events",
+    "festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Grants and sponsorships of local run events and festivals"
+  ],
+  "cached_at": "2025-06-20T10:27:51.419148",
+  "cache_key": "4a26f28e6dea475a2429157da923249d6655ff96b75ac8c7743abb612ad58ec2",
+  "model": "gpt-41"
+}

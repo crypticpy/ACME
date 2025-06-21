@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion from funding",
+    "impact of targeted funding policies",
+    "definition of marginalized communities by EDD",
+    "harm to the broader arts community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding has been targeted exclusively to marginalized communities",
+    "as defined by EDD",
+    "devastated the Austin arts community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusive targeting of funding to marginalized communities",
+    "exclusion of non-marginalized groups from funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:36.671351",
+  "cache_key": "065ad07d878a19cddb79f02d301b0aeccfe0b7ac623085c8482c975d5c5165b6",
+  "model": "gpt-41"
+}

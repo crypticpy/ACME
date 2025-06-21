@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved communication",
+    "lack of awareness about programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "communication and awareness"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of communication",
+    "insufficient awareness"
+  ],
+  "solutions_proposed": [
+    "improve communication",
+    "increase awareness"
+  ],
+  "cached_at": "2025-06-21T01:08:12.429469",
+  "cache_key": "bf1e05968b8a18b1b951b67f460f50d2a106a165c667eb413f1d874f4b17e473",
+  "model": "gpt-41"
+}

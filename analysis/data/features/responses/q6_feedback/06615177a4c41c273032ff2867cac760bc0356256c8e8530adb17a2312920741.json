@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "anticipation for future information",
+    "support for organized cultural efforts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Looking forward to learning more",
+    "generally excited to see this organized effort"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:13:31.305788",
+  "cache_key": "06615177a4c41c273032ff2867cac760bc0356256c8e8530adb17a2312920741",
+  "model": "gpt-41"
+}

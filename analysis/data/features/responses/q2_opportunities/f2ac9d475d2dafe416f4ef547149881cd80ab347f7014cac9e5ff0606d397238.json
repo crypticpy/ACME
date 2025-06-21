@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased representation of Black artists",
+    "support for Black artistry",
+    "diversity in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Black artist and artistry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more opportunities for Black artist and artistry"
+  ],
+  "cached_at": "2025-06-21T00:27:56.863207",
+  "cache_key": "f2ac9d475d2dafe416f4ef547149881cd80ab347f7014cac9e5ff0606d397238",
+  "model": "gpt-41"
+}

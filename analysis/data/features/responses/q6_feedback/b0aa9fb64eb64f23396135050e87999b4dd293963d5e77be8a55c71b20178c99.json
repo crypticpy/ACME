@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "media coverage decline due to underfunding",
+    "developer impact on cultural spaces",
+    "lack of shade and environmental degradation at outdoor events",
+    "need for increased collaboration with local media",
+    "call for developer financial responsibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin chronicle needs more money",
+    "not as much coverage of events",
+    "The statesman needs to get better involved",
+    "Get money from developers",
+    "outdoor things need shade",
+    "Trees constantly being chopped down",
+    "Clarksville strip is going all high rise. Horrible.",
+    "could have kept this area Barton springs low rise and more art and music stuff but now just sad eyesores",
+    "Make these developers pony up some big bucks"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "declining local media coverage due to lack of funding",
+    "loss of shade and trees at outdoor venues",
+    "overdevelopment leading to loss of cultural spaces"
+  ],
+  "solutions_proposed": [
+    "Work with local PBS, radio, TV, venues to create awareness",
+    "Increase funding for Austin Chronicle",
+    "Encourage greater involvement from the Statesman",
+    "Obtain funding from developers",
+    "Provide shade for outdoor events",
+    "Require developers to contribute financially to cultural preservation"
+  ],
+  "cached_at": "2025-06-21T02:21:45.513722",
+  "cache_key": "b0aa9fb64eb64f23396135050e87999b4dd293963d5e77be8a55c71b20178c99",
+  "model": "gpt-41"
+}

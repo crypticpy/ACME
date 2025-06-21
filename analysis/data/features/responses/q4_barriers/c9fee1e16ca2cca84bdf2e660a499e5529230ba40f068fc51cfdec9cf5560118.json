@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of venues for cultural events",
+    "insufficient community gathering spaces",
+    "limited access to cultural classes in Del Valle"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "not enough places for cultural events",
+    "classes or community gatherings",
+    "Del Valle Area"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough places for cultural events",
+    "not enough places for classes",
+    "not enough places for community gatherings in Del Valle Area"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:14.061775",
+  "cache_key": "c9fee1e16ca2cca84bdf2e660a499e5529230ba40f068fc51cfdec9cf5560118",
+  "model": "gpt-41"
+}

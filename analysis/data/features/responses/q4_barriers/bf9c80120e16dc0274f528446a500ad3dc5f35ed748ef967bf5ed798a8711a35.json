@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "fiscal sponsorship limits funding eligibility",
+    "geographic eligibility barriers",
+    "address-based exclusion from Austin programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "currently a fiscally, sponsored organization rather than a nonprofit",
+    "limit some of our opportunities when it comes to receiving funding",
+    "my physical address is in round rock",
+    "we often rehearse and perform and offer workshops to Austin proper",
+    "when it comes to putting in your address, we are not included in the parameters"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fiscal sponsorship status limits funding opportunities",
+    "physical address outside Austin excludes organization from eligibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:17.667372",
+  "cache_key": "bf9c80120e16dc0274f528446a500ad3dc5f35ed748ef967bf5ed798a8711a35",
+  "model": "gpt-41"
+}

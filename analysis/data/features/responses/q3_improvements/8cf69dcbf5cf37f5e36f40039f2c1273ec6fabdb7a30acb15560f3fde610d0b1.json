@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about race or minority status as grant criteria",
+    "preference for merit-based selection",
+    "representation of Austin's diverse population",
+    "specific focus on visual art grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "selections based on merit, not race or minority status",
+    "specifically for the visual art grants",
+    "grant winners be an appropriate reflection of ALL of Austin's diverse population"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "selection based on race or minority status instead of merit"
+  ],
+  "solutions_proposed": [
+    "base selections on merit",
+    "ensure grant winners reflect all of Austin's diverse population"
+  ],
+  "cached_at": "2025-06-21T01:19:43.553633",
+  "cache_key": "8cf69dcbf5cf37f5e36f40039f2c1273ec6fabdb7a30acb15560f3fde610d0b1",
+  "model": "gpt-41"
+}

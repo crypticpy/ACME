@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Critique of current arts funding premises",
+    "Emphasis on public benefit and healthy arts ecosystem",
+    "Debate over support for emerging artists vs. professional sector",
+    "Concerns about gatekeeping in the arts",
+    "Recognition of ACME's creation as positive progress"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "this survey concerns me",
+    "faulty premises that have dominated the discussion about arts funding",
+    "where is the focus on public benefit?",
+    "a healthy professional arts sector is actually the most effective way to provide opportunities for emerging artists",
+    "move away from the idea that it is a public responsibility to foster emerging artists and reach every individual who thinks they are a creative",
+    "the very creation of ACME is a long needed good start"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "Dominance of faulty premises in arts funding discussions",
+    "Overemphasis on supporting every emerging artist",
+    "Potential negative framing of 'gatekeeping'"
+  ],
+  "solutions_proposed": [
+    "Refocus on public benefit in arts funding",
+    "Support a wide variety of cultural work and support systems",
+    "Strengthen the professional arts sector to benefit both emerging artists and the general public"
+  ],
+  "cached_at": "2025-06-21T02:15:14.249038",
+  "cache_key": "0b80011888b5722aedc9e7dbf9d24648cdb7523cd461f001efd9f557fd8f9855",
+  "model": "gpt-41"
+}

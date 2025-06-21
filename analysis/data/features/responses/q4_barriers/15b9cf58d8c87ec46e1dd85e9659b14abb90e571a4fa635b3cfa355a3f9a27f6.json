@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "political interference in cultural funding",
+    "threats to intellectual development",
+    "defunding of arts and culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Trump wants to defund anything",
+    "encourages utilizing brain power"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "political efforts to defund arts and culture",
+    "lack of support for intellectual and cultural activities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:07.374410",
+  "cache_key": "15b9cf58d8c87ec46e1dd85e9659b14abb90e571a4fa635b3cfa355a3f9a27f6",
+  "model": "gpt-41"
+}

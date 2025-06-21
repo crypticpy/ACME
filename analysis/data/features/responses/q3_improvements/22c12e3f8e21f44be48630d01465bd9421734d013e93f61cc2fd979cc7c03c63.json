@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "language accessibility",
+    "barriers to application",
+    "information dissemination"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Language access!",
+    "How can people know about and apply to these funding programs if they do not read or speak English."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of language access for non-English speakers"
+  ],
+  "solutions_proposed": [
+    "improve language accessibility"
+  ],
+  "cached_at": "2025-06-21T01:03:29.436706",
+  "cache_key": "22c12e3f8e21f44be48630d01465bd9421734d013e93f61cc2fd979cc7c03c63",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "long-term planning with arts and culture organizations",
+    "institutional strengthening for sustainability",
+    "retention of creative and artistic jobs in Austin",
+    "ensuring ongoing public access to quality cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "work with arts and culture orgs on a long term plan",
+    "strengthens institutions for the future",
+    "creative/artistic jobs will always be in Austin",
+    "public will always have quality cultural experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "work with arts and culture orgs on a long term plan",
+    "strengthen institutions for the future"
+  ],
+  "cached_at": "2025-06-20T10:32:15.788027",
+  "cache_key": "d5d0cd8ddab3c15c04eec565f48df0cb2eb2e2ec8a6c9651142da50cd6684c27",
+  "model": "gpt-41"
+}

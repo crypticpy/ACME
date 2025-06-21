@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of recognition for the fashion industry",
+    "unequal support among creative sectors",
+    "potential and talent in local fashion",
+    "personal experience of exclusion",
+    "desire for increased city support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "The City of Austin needs to include the FASHION INDUSTRY",
+    "we do not get the same level of support as other creative industries/professionals",
+    "I don't recall much being done by the City to support us",
+    "I wish more would be offered to the designers and others in the fashion industry"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACC Fashion Incubator"
+  ],
+  "barriers_identified": [
+    "fashion industry not included as a contributor to the creative, social, and cultural aspects",
+    "lack of support from the City compared to other creative industries"
+  ],
+  "solutions_proposed": [
+    "more support offered to designers and others in the fashion industry"
+  ],
+  "cached_at": "2025-06-20T10:29:51.337409",
+  "cache_key": "bdb40af6f9a9dc6f5b76224a27368fe1c995f83ccfb6bc9192f42e11ba84e10c",
+  "model": "gpt-41"
+}

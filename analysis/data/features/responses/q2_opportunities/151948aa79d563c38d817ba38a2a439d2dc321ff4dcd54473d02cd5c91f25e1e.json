@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for jazz music events",
+    "interest in music festivals",
+    "expansion of cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Jazz Festival"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Jazz Festival"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more Jazz Festivals"
+  ],
+  "cached_at": "2025-06-21T00:36:53.646241",
+  "cache_key": "151948aa79d563c38d817ba38a2a439d2dc321ff4dcd54473d02cd5c91f25e1e",
+  "model": "gpt-41"
+}

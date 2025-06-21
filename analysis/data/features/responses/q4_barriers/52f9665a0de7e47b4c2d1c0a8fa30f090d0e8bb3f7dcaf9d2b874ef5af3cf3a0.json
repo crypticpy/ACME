@@ -1,0 +1,23 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "insufficient funding for arts and culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Lack of funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:08.031382",
+  "cache_key": "52f9665a0de7e47b4c2d1c0a8fa30f090d0e8bb3f7dcaf9d2b874ef5af3cf3a0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of funding for the arts",
+    "insufficient performance spaces",
+    "support for organizations led by people of color",
+    "importance of diversity and cultural representation",
+    "community benefits from arts events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of funding and also spaces for people to perform",
+    "Early Era Collectives shows",
+    "bringing awareness to the dance community",
+    "producing shows that have multiple people of color along with powerful messages",
+    "Hip-Hop and Black led organizational shows",
+    "these events benefit the community so much",
+    "more diversity and culture is what\u2019s needed",
+    "organizations like these matter and benefit the most from this program"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Early Era Collectives"
+  ],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of spaces for people to perform"
+  ],
+  "solutions_proposed": [
+    "more diversity and culture is what\u2019s needed",
+    "organizations like these matter and benefit the most from this program to continue bringing community together"
+  ],
+  "cached_at": "2025-06-21T02:21:02.440728",
+  "cache_key": "3688a4356ac07970d9c329a201108071b14b2273d73132f191c246da598b586a",
+  "model": "gpt-41"
+}

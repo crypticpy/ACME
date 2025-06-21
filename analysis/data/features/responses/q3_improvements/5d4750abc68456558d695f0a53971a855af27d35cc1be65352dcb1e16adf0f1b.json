@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concerns about panel review quality",
+    "lack of attention to application details",
+    "need for improved evaluation process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "panel of judges that actually read and pay attention",
+    "information listed in applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "judges not reading or paying attention to application information"
+  ],
+  "solutions_proposed": [
+    "have a panel of judges that actually read and pay attention to information listed in applications"
+  ],
+  "cached_at": "2025-06-21T00:54:20.766082",
+  "cache_key": "5d4750abc68456558d695f0a53971a855af27d35cc1be65352dcb1e16adf0f1b",
+  "model": "gpt-41"
+}

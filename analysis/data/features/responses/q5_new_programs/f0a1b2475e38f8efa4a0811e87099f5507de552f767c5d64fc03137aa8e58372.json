@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "financial support for small and medium-sized organizations",
+    "access to affordable long-term space",
+    "transparency and equity in city lease programs",
+    "limited access to $1 lease contracts",
+    "collaboration between art nonprofits, developers, and the city"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Financial support for small and medium-sized organizations to lease and grow long-term spaces",
+    "A transparent and equitable program",
+    "application process for the $1 lease contract",
+    "few organizations enjoy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support for leasing and growing spaces",
+    "limited and inequitable access to $1 lease contracts",
+    "lack of transparency in current lease programs"
+  ],
+  "solutions_proposed": [
+    "Provide financial support for small and medium-sized organizations to lease and grow long-term spaces",
+    "Create a transparent and equitable program with an application process for $1 lease contracts between art nonprofits, developers, and the city"
+  ],
+  "cached_at": "2025-06-21T01:49:41.512617",
+  "cache_key": "f0a1b2475e38f8efa4a0811e87099f5507de552f767c5d64fc03137aa8e58372",
+  "model": "gpt-41"
+}

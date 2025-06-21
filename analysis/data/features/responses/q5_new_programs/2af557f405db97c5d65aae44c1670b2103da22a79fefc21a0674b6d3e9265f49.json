@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of Mariachi music education",
+    "increasing entertainment options",
+    "geographic/cultural outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More Mariachi music educational opportunity",
+    "provide more entertainment",
+    "in broader areas"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of Mariachi music education",
+    "limited entertainment in certain areas"
+  ],
+  "solutions_proposed": [
+    "Offer more Mariachi music educational opportunities",
+    "Expand entertainment offerings to broader areas"
+  ],
+  "cached_at": "2025-06-21T02:08:05.270344",
+  "cache_key": "2af557f405db97c5d65aae44c1670b2103da22a79fefc21a0674b6d3e9265f49",
+  "model": "gpt-41"
+}

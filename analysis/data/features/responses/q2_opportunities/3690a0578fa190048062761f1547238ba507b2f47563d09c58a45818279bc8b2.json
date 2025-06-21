@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for music-related visual arts",
+    "interest in local music legends",
+    "specific exhibition venue preference"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Stevie ray vaughan photos on exhibit",
+    "in the Long Center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Exhibit Stevie Ray Vaughan photos at the Long Center"
+  ],
+  "cached_at": "2025-06-21T00:48:37.440185",
+  "cache_key": "3690a0578fa190048062761f1547238ba507b2f47563d09c58a45818279bc8b2",
+  "model": "gpt-41"
+}

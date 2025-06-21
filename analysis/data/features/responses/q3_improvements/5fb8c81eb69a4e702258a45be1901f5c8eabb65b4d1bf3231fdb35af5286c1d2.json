@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "distribution of funding among artists",
+    "effectiveness of large grants",
+    "community impact versus popularity metrics",
+    "criteria for funding decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Spread the money to more artists",
+    "30k going to one person does not guarantee anything",
+    "does not guarantee more money for the city",
+    "does not guarantee the artist will uplift the community",
+    "Focus on artists who actually build a community",
+    "not just views, not just likes, not just followers",
+    "real impact in their message and ability to bring people together should be more important"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "concentration of funding in few individuals",
+    "funding based on popularity metrics rather than community impact"
+  ],
+  "solutions_proposed": [
+    "Distribute funding to more artists",
+    "Prioritize artists who build community and have real impact",
+    "De-emphasize metrics like views, likes, and followers in funding decisions"
+  ],
+  "cached_at": "2025-06-21T00:59:17.069463",
+  "cache_key": "5fb8c81eb69a4e702258a45be1901f5c8eabb65b4d1bf3231fdb35af5286c1d2",
+  "model": "gpt-41"
+}

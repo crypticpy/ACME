@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant cycle frequency",
+    "grant size and distribution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more cycles",
+    "smaller repeated grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "infrequent grant cycles",
+    "large, less frequent grants"
+  ],
+  "solutions_proposed": [
+    "having more cycles",
+    "smaller repeated grants"
+  ],
+  "cached_at": "2025-06-21T01:17:41.040799",
+  "cache_key": "485bc197c6e80ae9043cd7ab045e4ff9ac1bb42e451242ad4f8d545fa2b0b0da",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for beginner-friendly artistic opportunities",
+    "underrepresentation of novices and amateurs",
+    "access to arts for non-professionals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities for artistic beginners/novices/amateurs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for beginners/novices/amateurs"
+  ],
+  "solutions_proposed": [
+    "offer more opportunities for artistic beginners/novices/amateurs"
+  ],
+  "cached_at": "2025-06-21T02:00:51.862879",
+  "cache_key": "bb60b7a0fb8531b4ca14cfd258cefdf2c197334e06a2bf378475082c6a02257a",
+  "model": "gpt-41"
+}

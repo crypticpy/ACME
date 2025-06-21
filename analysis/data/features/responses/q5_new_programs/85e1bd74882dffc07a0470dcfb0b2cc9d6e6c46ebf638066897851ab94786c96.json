@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more festivals",
+    "musical diversity",
+    "underrepresentation of musical styles"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "set up and run more festivals",
+    "catering to different musical styles"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of festivals for different musical styles"
+  ],
+  "solutions_proposed": [
+    "set up and run more festivals catering to different musical styles"
+  ],
+  "cached_at": "2025-06-21T01:54:11.472375",
+  "cache_key": "85e1bd74882dffc07a0470dcfb0b2cc9d6e6c46ebf638066897851ab94786c96",
+  "model": "gpt-41"
+}

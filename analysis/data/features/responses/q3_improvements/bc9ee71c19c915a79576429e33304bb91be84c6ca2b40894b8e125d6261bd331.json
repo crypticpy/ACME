@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistency in program administration",
+    "lack of reviewer understanding",
+    "impact of individual reviewers",
+    "disappointment with review process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "We received funding then nothing - it was a surprise.",
+    "the person in charge of our's didn't seem to understand what our organization does.",
+    "The prior year was completely different with a different person in charge who did their homework and better understood what we do.",
+    "It is disappointing that one person's input, who didn't seem to have done their homework, had such a negative impact."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reviewers not understanding applicant organizations",
+    "inconsistent reviewer preparation",
+    "overreliance on single reviewer input"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:13:03.521102",
+  "cache_key": "bc9ee71c19c915a79576429e33304bb91be84c6ca2b40894b8e125d6261bd331",
+  "model": "gpt-41"
+}

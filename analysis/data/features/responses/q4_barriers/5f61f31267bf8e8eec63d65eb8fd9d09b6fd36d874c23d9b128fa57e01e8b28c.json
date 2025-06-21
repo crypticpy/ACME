@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding for artists",
+    "venue improvement needs",
+    "regulatory/code and permitting challenges",
+    "impact of high property taxes on rents",
+    "insufficient publicity for events",
+    "loss of theatre event listings"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Money for artists",
+    "money to improve venues",
+    "code and permitting for any project",
+    "high property taxes mean high rents",
+    "publicity for events",
+    "the Chronicle eliminated theatre listings",
+    "Maybe ACME could support some billboard promoting theatre and performance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of money for artists",
+    "lack of money to improve venues",
+    "complex code and permitting requirements",
+    "high property taxes leading to high rents",
+    "lack of publicity for events",
+    "elimination of theatre listings in the Chronicle"
+  ],
+  "solutions_proposed": [
+    "ACME could support some billboard promoting theatre and performance"
+  ],
+  "cached_at": "2025-06-21T01:35:32.611027",
+  "cache_key": "5f61f31267bf8e8eec63d65eb8fd9d09b6fd36d874c23d9b128fa57e01e8b28c",
+  "model": "gpt-41"
+}

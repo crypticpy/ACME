@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for organizations",
+    "support for organizations with community ties"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more support and funding",
+    "existing organizations with ties to the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support and funding for existing organizations with ties to the community"
+  ],
+  "cached_at": "2025-06-20T10:36:51.999515",
+  "cache_key": "4c1bbc7a58c846a67082087f9c768b5eacbb739545792fd6f66323a0c87d5910",
+  "model": "gpt-41"
+}

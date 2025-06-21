@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic concentration of arts events",
+    "transportation and accessibility challenges",
+    "deterrents related to parking and traffic"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "a lot of the arts are downtown",
+    "parking and traffic are intimidating",
+    "South (which is too far for me)"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "arts events concentrated downtown",
+    "intimidating parking and traffic",
+    "distance to South Austin events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:26.670318",
+  "cache_key": "0cdabe4f3ff7b82e85720de4a5aee5b706f85de1c359c7c1634da02f862f2b38",
+  "model": "gpt-41"
+}

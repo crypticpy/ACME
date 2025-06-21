@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for independent art spaces",
+    "support for innovative and unconventional art",
+    "concerns about high rental costs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more independent spaces",
+    "innovative out of the box art",
+    "without being too expensive in regard to rental fees"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rental fees"
+  ],
+  "solutions_proposed": [
+    "create more independent spaces for innovative art that are affordable"
+  ],
+  "cached_at": "2025-06-21T00:31:34.693228",
+  "cache_key": "a28aaa4835ce22bd2bd0d6c4add353ece7b10b86bd5ad58051dff8f033d2fc90",
+  "model": "gpt-41"
+}

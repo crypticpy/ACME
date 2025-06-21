@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "veterans as a cultural group",
+    "lack of funding for veterans",
+    "city neglect of veterans' organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "veterans as a culture",
+    "poorly funded by the city of Austin",
+    "terribly underfunded veterans and their organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underfunding of veterans and their organizations"
+  ],
+  "solutions_proposed": [
+    "consider veterans as a culture in funding programs",
+    "research and see how underfunded veterans and their organizations are"
+  ],
+  "cached_at": "2025-06-21T01:00:12.309481",
+  "cache_key": "f145a5d2efee8c573053dd7d6d822829e88843b2299e175de2dd34c721b6133f",
+  "model": "gpt-41"
+}

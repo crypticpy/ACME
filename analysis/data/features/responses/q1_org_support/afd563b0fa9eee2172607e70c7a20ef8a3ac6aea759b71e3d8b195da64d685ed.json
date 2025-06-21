@@ -1,0 +1,47 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "consistent support",
+    "clarity and accessibility of resources",
+    "impactful funding",
+    "promotion and visibility",
+    "collaboration and networking",
+    "opportunities and sponsorships"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "consistent, easy-to-understand, impactful resources",
+    "funding",
+    "promotion",
+    "collaborative efforts",
+    "opportunities",
+    "sponsorships",
+    "networking",
+    "accessibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent resources",
+    "lack of easy-to-understand information",
+    "limited accessibility"
+  ],
+  "solutions_proposed": [
+    "provide consistent resources",
+    "make resources easy to understand",
+    "offer impactful funding",
+    "increase promotion",
+    "facilitate collaborative efforts",
+    "create more opportunities",
+    "offer sponsorships",
+    "support networking",
+    "improve accessibility"
+  ],
+  "cached_at": "2025-06-20T10:27:42.925951",
+  "cache_key": "afd563b0fa9eee2172607e70c7a20ef8a3ac6aea759b71e3d8b195da64d685ed",
+  "model": "gpt-41"
+}

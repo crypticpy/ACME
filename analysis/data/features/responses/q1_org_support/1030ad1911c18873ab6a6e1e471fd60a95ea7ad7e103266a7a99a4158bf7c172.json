@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "grassroots support",
+    "equity-informed approaches",
+    "integration of environmental advocacy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "grassroots",
+    "equity informed support",
+    "incorporates environmental advocacy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide grassroots, equity-informed support",
+    "incorporate environmental advocacy into support"
+  ],
+  "cached_at": "2025-06-20T10:21:09.225183",
+  "cache_key": "1030ad1911c18873ab6a6e1e471fd60a95ea7ad7e103266a7a99a4158bf7c172",
+  "model": "gpt-41"
+}

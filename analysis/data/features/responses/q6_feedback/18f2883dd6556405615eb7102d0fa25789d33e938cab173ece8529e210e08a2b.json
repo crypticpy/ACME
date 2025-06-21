@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "geographic concentration of venues",
+    "high cost and inaccessibility of central areas",
+    "insufficient parking availability",
+    "inadequate public transportation to cultural spaces",
+    "distance between artists and rehearsal/meeting locations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "venues and rehearsal spaces are heavily concentrated around the most central areas",
+    "most expensive and the ones with the least accessible parking space",
+    "public transportation is risible as a way to get to these venues",
+    "it would take me 1h 41m and 2 transfers to get from where I live to Bass Concert Hall",
+    "most of the people I make art with live very far away from where we meet"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Bass Concert Hall"
+  ],
+  "barriers_identified": [
+    "centralization of venues and rehearsal spaces",
+    "high cost of central areas",
+    "lack of accessible parking",
+    "inadequate public transportation",
+    "long travel times and multiple transfers",
+    "distance between collaborators and meeting spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:21:41.091522",
+  "cache_key": "18f2883dd6556405615eb7102d0fa25789d33e938cab173ece8529e210e08a2b",
+  "model": "gpt-41"
+}

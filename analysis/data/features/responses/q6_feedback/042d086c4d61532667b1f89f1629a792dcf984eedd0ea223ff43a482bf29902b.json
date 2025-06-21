@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for transparent and consistent funding processes",
+    "importance of culturally competent communication",
+    "value of listening to diverse community voices",
+    "role of infrastructure (affordable spaces, hubs, networks) in creative ecosystems",
+    "balancing urgent equity work with long-term sustainability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "lead with humility and responsiveness",
+    "actively listening to both new and long-established voices",
+    "public trust depends on transparent processes, culturally competent communication, and consistency in funding",
+    "creative ecosystems thrive not just through grants, but through infrastructure\u2014like affordable spaces, community hubs, and peer networks",
+    "meaningful equity work takes time",
+    "balancing urgent correction with long-term sustainability requires steady dialogue, course correction, and care"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparent processes",
+    "inconsistent funding",
+    "insufficient culturally competent communication",
+    "overreliance on grants without supporting infrastructure"
+  ],
+  "solutions_proposed": [
+    "lead with humility and responsiveness",
+    "actively listen to both new and long-established voices",
+    "ensure transparent processes",
+    "practice culturally competent communication",
+    "maintain consistency in funding",
+    "support creative ecosystems with infrastructure like affordable spaces, community hubs, and peer networks",
+    "balance urgent equity correction with long-term sustainability through steady dialogue and course correction"
+  ],
+  "cached_at": "2025-06-21T02:15:05.172453",
+  "cache_key": "042d086c4d61532667b1f89f1629a792dcf984eedd0ea223ff43a482bf29902b",
+  "model": "gpt-41"
+}

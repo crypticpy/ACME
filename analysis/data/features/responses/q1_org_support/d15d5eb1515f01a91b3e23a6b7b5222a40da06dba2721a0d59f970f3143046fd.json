@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "financial barriers for non-nonprofit arts groups",
+    "venue affordability issues",
+    "lack of support for LLC and non-nonprofit organizations",
+    "pricing disparities between nonprofits and other groups",
+    "need for connection between venues and non-nonprofit arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "we make zero dollars off our art",
+    "we do not get non profit pricing for venues",
+    "even venues created for affordability reasons have become unaffordable",
+    "bridging the gap between arts orgs that are not nonprofit and venues would be amazing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of nonprofit pricing for LLC and non-nonprofit groups",
+    "unaffordable venues even when intended to be affordable"
+  ],
+  "solutions_proposed": [
+    "bridging the gap between arts orgs that are not nonprofit and venues"
+  ],
+  "cached_at": "2025-06-20T10:23:33.497593",
+  "cache_key": "d15d5eb1515f01a91b3e23a6b7b5222a40da06dba2721a0d59f970f3143046fd",
+  "model": "gpt-41"
+}

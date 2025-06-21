@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of transparency in funding process",
+    "unclear application requirements",
+    "impact of requirements on application success"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more transparency in the process",
+    "knowing what requirements hurt the chances of application"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in the process",
+    "unclear which requirements negatively affect applications"
+  ],
+  "solutions_proposed": [
+    "increase transparency in the process",
+    "clarify which requirements reduce application success"
+  ],
+  "cached_at": "2025-06-21T01:10:06.709116",
+  "cache_key": "3c2c65cada209d496ab0b8467a75487c11248c7a28c7cea7caac206e700b12a3",
+  "model": "gpt-41"
+}

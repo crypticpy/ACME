@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of current opinion",
+    "need for consultation with peers",
+    "memory limitations affecting feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "My memory is leaving me with no opinion here",
+    "I would need to speak with group members and mentors that have assisted in the past"
+  ],
+  "intent": "information_withholding",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "memory limitations",
+    "lack of individual perspective without group input"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:55:58.596147",
+  "cache_key": "4913b6dc09c62a58993f93bd7699518091d36429a8e433157927eca19b123891",
+  "model": "gpt-41"
+}

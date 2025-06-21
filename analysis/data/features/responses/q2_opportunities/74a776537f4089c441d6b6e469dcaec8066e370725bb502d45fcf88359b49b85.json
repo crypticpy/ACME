@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for small music festivals",
+    "opportunities for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Small music festivals",
+    "opportunities for emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase small music festivals",
+    "Create more opportunities for emerging artists"
+  ],
+  "cached_at": "2025-06-21T00:31:24.548789",
+  "cache_key": "74a776537f4089c441d6b6e469dcaec8066e370725bb502d45fcf88359b49b85",
+  "model": "gpt-41"
+}

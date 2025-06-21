@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "venue disengagement from city processes",
+    "lack of representation for venues in feedback channels",
+    "concerns about effectiveness of Music Commission and City staff engagement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Venues have stopped engaging with City staff and the Music Commission",
+    "the feedback they get through those channels does not account for the venue community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Music Commission"
+  ],
+  "barriers_identified": [
+    "venues not engaging with City staff and Music Commission",
+    "venue community not represented in official feedback channels"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:20:40.243184",
+  "cache_key": "db0307b6248937dae19b3c54cb25693f12ab916b5d6b48d5696ca12b222454a2",
+  "model": "gpt-41"
+}

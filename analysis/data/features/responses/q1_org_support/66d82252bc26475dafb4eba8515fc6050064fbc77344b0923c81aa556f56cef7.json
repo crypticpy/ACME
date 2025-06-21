@@ -1,0 +1,57 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Critique of top-down decision making",
+    "Call for cooperative and horizontal governance",
+    "Opposition to commodification and commercialization of culture",
+    "Equity and diversity in funding and access",
+    "Empowerment and self-determination for creatives",
+    "Solidarity economy and coalition building",
+    "Disconnect between community needs and institutional practices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more practice of horizontal and cooperative decision making",
+    "beyond 'hearing voices' and asking these surveys",
+    "actively giving decision making to your own staff, and public",
+    "rely less on top down structures",
+    "embrace cooperative decision making",
+    "eliminate the extractive commodification and commercialization of our culture",
+    "lead conversations and practices on solidarity economy in the arts",
+    "eliminating the hierarchy within our local artist community",
+    "help be a part of a just transition",
+    "creatives...a means to enable liberation for themselves and their greater community",
+    "give creatives the ability to hold and maintain their power",
+    "not used as bait to attract capital or investors who often displace communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "top down structures",
+    "extractive commodification and commercialization of culture",
+    "hierarchy within local artist community",
+    "decisions made without meaningful community participation",
+    "focus on revenue generation for tourism or economic development",
+    "lack of spaces that invite and provide opportunity regardless of profit potential",
+    "displacement by capital or investors"
+  ],
+  "solutions_proposed": [
+    "implement horizontal and cooperative decision making",
+    "give decision making power to staff and public",
+    "embrace cooperative decision making with equity and diversity lens",
+    "eliminate extractive commodification and commercialization of culture",
+    "lead conversations and practices on solidarity economy in the arts",
+    "create coalitions",
+    "eliminate hierarchy within local artist community",
+    "enable creatives to hold and maintain their power",
+    "provide spaces for creative expression regardless of profit",
+    "value creative lives on their own terms"
+  ],
+  "cached_at": "2025-06-20T01:17:40.466324",
+  "cache_key": "66d82252bc26475dafb4eba8515fc6050064fbc77344b0923c81aa556f56cef7",
+  "model": "gpt-41"
+}

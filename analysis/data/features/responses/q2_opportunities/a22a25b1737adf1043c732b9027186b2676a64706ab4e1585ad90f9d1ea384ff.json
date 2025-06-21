@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased representation of Latin-based arts",
+    "support for independent music and film",
+    "mentorship for emerging musicians",
+    "leveraging local musical legends"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More Latin-based arts",
+    "music, film, Independents",
+    "mentorship opportunities pairing upcoming, emerging musicians",
+    "with legends that reside here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase Latin-based arts offerings",
+    "create mentorship opportunities pairing emerging musicians with established local legends"
+  ],
+  "cached_at": "2025-06-21T00:42:37.676054",
+  "cache_key": "a22a25b1737adf1043c732b9027186b2676a64706ab4e1585ad90f9d1ea384ff",
+  "model": "gpt-41"
+}

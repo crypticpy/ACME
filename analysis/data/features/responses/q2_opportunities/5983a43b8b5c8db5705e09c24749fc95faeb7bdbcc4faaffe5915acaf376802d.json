@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance events",
+    "interest in performing arts",
+    "emphasis on Latin dance and music",
+    "interest in poetry events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance",
+    "performing arts",
+    "Latin dance and music",
+    "Poetry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More dance opportunities",
+    "More performing arts opportunities",
+    "More Latin dance and music events",
+    "More poetry events"
+  ],
+  "cached_at": "2025-06-21T00:29:15.534056",
+  "cache_key": "5983a43b8b5c8db5705e09c24749fc95faeb7bdbcc4faaffe5915acaf376802d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct engagement with organizations and leaders",
+    "needs assessment",
+    "participatory decision-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "ask them what they need"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ask organizations and cultural leaders what they need"
+  ],
+  "cached_at": "2025-06-20T10:26:18.086441",
+  "cache_key": "9c22ab8068a5a9ea87a5d2820dfb635a64746baa7c02c4327569c5f4e4490290",
+  "model": "gpt-41"
+}

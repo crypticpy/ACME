@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about misuse of funding",
+    "need for financial oversight",
+    "accountability in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Oversight that funding has been used correctly",
+    "not pocketed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of oversight",
+    "potential misappropriation of funds"
+  ],
+  "solutions_proposed": [
+    "implement oversight to ensure funding is used correctly"
+  ],
+  "cached_at": "2025-06-21T02:00:42.396918",
+  "cache_key": "165193ef3599970e90244de0a78c5e2be50c1bb3baaeb9e531a08c72985b1d8a",
+  "model": "gpt-41"
+}

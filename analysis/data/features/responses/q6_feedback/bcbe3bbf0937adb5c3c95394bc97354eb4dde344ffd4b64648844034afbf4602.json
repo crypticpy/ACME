@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Call for staff replacement in grants, music, and AIPP",
+    "Need for sector-experienced arts professionals",
+    "Distrust in current staff's ability to resolve issues",
+    "Accountability and acknowledgment of past mistakes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Please hire all new staff in grants, music and AIPP",
+    "legitimate arts professionals with real world sector experience",
+    "people who created these multiple messes",
+    "can't even acknowledge that they made a mess"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "grants",
+    "music",
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "Lack of qualified, sector-experienced staff",
+    "Current staff's failure to acknowledge or address problems"
+  ],
+  "solutions_proposed": [
+    "Hire all new staff in grants, music and AIPP",
+    "Employ legitimate arts professionals with real world sector experience"
+  ],
+  "cached_at": "2025-06-21T02:12:44.324606",
+  "cache_key": "bcbe3bbf0937adb5c3c95394bc97354eb4dde344ffd4b64648844034afbf4602",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for midrange budget opportunities",
+    "positive perception of Nexus and Elevate programs",
+    "dissatisfaction among legacy organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more bridge opportunities at AIPP (projects with midrange budgets)",
+    "nexus and elevate are actually great",
+    "a lot of legacy organizations are mad about them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "Nexus",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "lack of bridge opportunities at AIPP",
+    "dissatisfaction among legacy organizations with current programs"
+  ],
+  "solutions_proposed": [
+    "more bridge opportunities at AIPP (projects with midrange budgets)"
+  ],
+  "cached_at": "2025-06-21T00:54:37.486440",
+  "cache_key": "16b864f24bae18067006c198630bab0982a7aba97d445e198424d59a4fcc0705",
+  "model": "gpt-41"
+}

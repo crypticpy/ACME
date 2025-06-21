@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "depoliticization of art funding",
+    "artist and organization displacement risk",
+    "underrepresentation of artists",
+    "importance of everyday access to art resources",
+    "insufficiency of large annual events",
+    "need for creative ecosystem support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Stop politicizing art and artists",
+    "ALL ARTISTS are at risk of displacement",
+    "hugely underrepresented in this city",
+    "Art organizations are very much at risk too",
+    "crucial to a healthy creative ecosystem",
+    "requires more than a few big annual art related events",
+    "need everyday access to gallery shows, art studios, education, resources, and community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "politicization of art and artists",
+    "risk of displacement for artists and organizations",
+    "underrepresentation of artists",
+    "limited access to everyday art resources",
+    "overreliance on a few big annual events"
+  ],
+  "solutions_proposed": [
+    "depoliticize art funding and support",
+    "provide everyday access to gallery shows, art studios, education, resources, and community"
+  ],
+  "cached_at": "2025-06-21T00:57:50.163986",
+  "cache_key": "bafd065a58b88310a36ec455804ec926d55533a3d016f3a91915796338989676",
+  "model": "gpt-41"
+}

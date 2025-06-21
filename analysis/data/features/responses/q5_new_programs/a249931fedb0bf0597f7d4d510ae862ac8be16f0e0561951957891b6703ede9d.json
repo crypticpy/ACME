@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of disabled community",
+    "need for inclusive programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more things catered to the disabled Community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of programs for the disabled community"
+  ],
+  "solutions_proposed": [
+    "offer more programs or services catered to the disabled community"
+  ],
+  "cached_at": "2025-06-21T01:51:27.667173",
+  "cache_key": "a249931fedb0bf0597f7d4d510ae862ac8be16f0e0561951957891b6703ede9d",
+  "model": "gpt-41"
+}

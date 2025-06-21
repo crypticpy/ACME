@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "capacity building for nonprofits",
+    "use of local expertise over external consultants",
+    "expansion of paid opportunities for artists",
+    "community-driven program design",
+    "support for fundraising and development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Offer contracted Grant Writers and Development professionals",
+    "engage and contract these nonprofit stakeholders for future input rather than hiring non-local consulting firms",
+    "expand & improve paid performance opportunities and grant programs",
+    "utilizing nonprofit stakeholders to assist in gathering crucial community input"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to grant writing and development expertise",
+    "reliance on non-local consulting firms",
+    "insufficient paid opportunities for artists",
+    "limited community input in program design"
+  ],
+  "solutions_proposed": [
+    "Offer contracted Grant Writers and Development professionals to assist nonprofits",
+    "Engage and contract nonprofit stakeholders for future input",
+    "Expand and improve paid performance opportunities and grant programs",
+    "Utilize nonprofit stakeholders to assist in gathering community input"
+  ],
+  "cached_at": "2025-06-21T01:53:35.777578",
+  "cache_key": "0271c178652b3f0ceb14659c14171d23c19ce8c0656008ea3e35f7009ba23e5a",
+  "model": "gpt-41"
+}

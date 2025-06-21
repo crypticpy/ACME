@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.99,
+  "themes": [
+    "loss of affordable DIY venues",
+    "gentrification and cultural displacement",
+    "lack of support for artists",
+    "excessive bureaucracy in funding access",
+    "perceived exclusion by wealthier demographics"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "no affordable diy venues",
+    "soulless gentrified rich white ppl stuff",
+    "need more $ for artists",
+    "DAYS of paperwork to get crumbs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable DIY venues",
+    "gentrification leading to cultural displacement",
+    "funding processes require excessive paperwork",
+    "funding amounts are insufficient",
+    "cultural offerings cater to wealthy, white populations"
+  ],
+  "solutions_proposed": [
+    "more funding for artists",
+    "reduce paperwork required to access funding"
+  ],
+  "cached_at": "2025-06-21T01:21:15.443200",
+  "cache_key": "edd39250734191b147d92cab29925e23bec76570034883e975a37ede28a30397",
+  "model": "gpt-41"
+}

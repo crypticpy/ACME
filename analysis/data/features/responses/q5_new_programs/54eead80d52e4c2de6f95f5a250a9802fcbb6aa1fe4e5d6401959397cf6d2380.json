@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of public awareness",
+    "insider knowledge barriers",
+    "exclusivity of art community information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "only people inside the art commi'unity knows whats happening"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "information about programs is limited to insiders",
+    "lack of communication to the broader public"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:00:09.826906",
+  "cache_key": "54eead80d52e4c2de6f95f5a250a9802fcbb6aa1fe4e5d6401959397cf6d2380",
+  "model": "gpt-41"
+}

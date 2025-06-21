@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "artist burnout",
+    "financial support for artists",
+    "need for safe creative spaces",
+    "artist community and connection"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "supporting artists financially and otherwise",
+    "so they don't get so burnt out",
+    "making safe spaces",
+    "where they can get away and create and connect with other artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artist burnout",
+    "lack of safe creative spaces"
+  ],
+  "solutions_proposed": [
+    "supporting artists financially and otherwise",
+    "making safe spaces where they can get away and create and connect with other artists"
+  ],
+  "cached_at": "2025-06-20T10:38:39.800565",
+  "cache_key": "56c2e8c0aed6fc6a2f75aed02a57a52a285ea2dd803d914152baa4e6f9bccbf7",
+  "model": "gpt-41"
+}

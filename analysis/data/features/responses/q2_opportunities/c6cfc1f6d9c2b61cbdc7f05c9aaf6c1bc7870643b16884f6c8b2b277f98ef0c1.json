@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding for individual artists",
+    "support for nationally touring artists",
+    "resource allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more funding to individual artists",
+    "touring on a national level"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for individual artists touring nationally"
+  ],
+  "solutions_proposed": [
+    "increase funding to individual artists who are touring on a national level"
+  ],
+  "cached_at": "2025-06-21T00:29:35.127896",
+  "cache_key": "c6cfc1f6d9c2b61cbdc7f05c9aaf6c1bc7870643b16884f6c8b2b277f98ef0c1",
+  "model": "gpt-41"
+}

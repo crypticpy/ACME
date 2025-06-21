@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "lack of access to funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "lack of funds",
+    "access to funds"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funds",
+    "lack of access to funds"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:03.002188",
+  "cache_key": "68fef1dad782bc582b2500852f2fb91d931f11dba7c522fcb45a61227a9bad93",
+  "model": "gpt-41"
+}

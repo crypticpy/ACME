@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for Black History representation",
+    "Interest in African American dance performances",
+    "Support for plays and musicals featuring African American culture",
+    "Increased visibility for African American bands and performing artists",
+    "Call for more cultural events centered on African American experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Black History",
+    "African American dance performances",
+    "plays, musicals, bands",
+    "cultural events & performing artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for Black History and African American cultural performances and events"
+  ],
+  "cached_at": "2025-06-21T00:37:25.358188",
+  "cache_key": "be63d6c6e3a3ac3447b9bfc3434bfa7b045387c7bd7d8f72d662af4cc367cb18",
+  "model": "gpt-41"
+}

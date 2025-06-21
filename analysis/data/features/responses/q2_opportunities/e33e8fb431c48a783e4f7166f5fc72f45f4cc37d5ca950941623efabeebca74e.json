@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "accessibility of arts and entertainment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more reduced cost events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "offer more reduced cost events"
+  ],
+  "cached_at": "2025-06-21T00:33:40.092768",
+  "cache_key": "e33e8fb431c48a783e4f7166f5fc72f45f4cc37d5ca950941623efabeebca74e",
+  "model": "gpt-41"
+}

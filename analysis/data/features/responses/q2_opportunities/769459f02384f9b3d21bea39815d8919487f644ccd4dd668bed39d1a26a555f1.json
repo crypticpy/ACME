@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more public arts festivals",
+    "need for cooperation between arts organizations and artists",
+    "competition for funding among arts stakeholders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Public arts festivals",
+    "cooperation between arts organization and artists",
+    "It's just a fight for Money"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition for funding"
+  ],
+  "solutions_proposed": [
+    "more public arts festivals",
+    "increased cooperation between arts organizations and artists"
+  ],
+  "cached_at": "2025-06-21T00:36:17.214806",
+  "cache_key": "769459f02384f9b3d21bea39815d8919487f644ccd4dd668bed39d1a26a555f1",
+  "model": "gpt-41"
+}

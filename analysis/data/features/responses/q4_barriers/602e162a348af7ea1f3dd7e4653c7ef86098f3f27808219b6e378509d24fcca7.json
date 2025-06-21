@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient opportunities in arts and culture",
+    "lack of funding for cultural activities",
+    "cultural bias in selection processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Not enough opportunities available overall",
+    "Not enough funding",
+    "Cultural bias in the selection process"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough opportunities available overall",
+    "not enough funding",
+    "cultural bias in the selection process"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:51.430818",
+  "cache_key": "602e162a348af7ea1f3dd7e4653c7ef86098f3f27808219b6e378509d24fcca7",
+  "model": "gpt-41"
+}

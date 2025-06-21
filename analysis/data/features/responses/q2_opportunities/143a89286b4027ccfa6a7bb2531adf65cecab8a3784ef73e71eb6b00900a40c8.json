@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more dance opportunities",
+    "interest in increased theater offerings",
+    "support for visual arts expansion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance",
+    "theater",
+    "visual arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:28:00.381952",
+  "cache_key": "143a89286b4027ccfa6a7bb2531adf65cecab8a3784ef73e71eb6b00900a40c8",
+  "model": "gpt-41"
+}

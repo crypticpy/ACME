@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for higher wages in the arts",
+    "affordability of advertising for artists",
+    "economic barriers for arts professionals"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more higher paying jobs in the arts",
+    "more affordable advertising opportunities for the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "low pay in arts jobs",
+    "expensive advertising opportunities"
+  ],
+  "solutions_proposed": [
+    "create more higher paying jobs in the arts",
+    "provide more affordable advertising opportunities for the arts"
+  ],
+  "cached_at": "2025-06-21T00:44:36.632789",
+  "cache_key": "b56622c52e20eb3490fc9b32b11b7ce464d8c29bcae29910c43f2b3910e1112c",
+  "model": "gpt-41"
+}

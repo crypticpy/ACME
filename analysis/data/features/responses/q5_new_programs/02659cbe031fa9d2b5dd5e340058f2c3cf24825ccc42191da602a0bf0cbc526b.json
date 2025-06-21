@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for expanding existing funding",
+    "support for artists and organizations",
+    "no need for new services"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "No new services",
+    "expand existing offerings",
+    "HOT funds to artists and orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HOT funds"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "expand existing offerings of HOT funds to artists and orgs"
+  ],
+  "cached_at": "2025-06-21T01:50:50.606106",
+  "cache_key": "02659cbe031fa9d2b5dd5e340058f2c3cf24825ccc42191da602a0bf0cbc526b",
+  "model": "gpt-41"
+}

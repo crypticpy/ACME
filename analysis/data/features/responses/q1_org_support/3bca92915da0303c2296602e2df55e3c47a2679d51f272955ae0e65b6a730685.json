@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cross-functional collaboration",
+    "community engagement",
+    "inclusion of educational institutions",
+    "multi-generational participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Quarterly or Bi-Annual Community cross-functional focus groups",
+    "city personnel, city residents",
+    "cross generational students",
+    "k-12, community colleges, and HT, UT, St. Edwards, ACC"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Have Quarterly or Bi-Annual Community cross-functional focus groups including city personnel, residents, and students from k-12, community colleges, and local universities"
+  ],
+  "cached_at": "2025-06-20T10:36:35.412157",
+  "cache_key": "3bca92915da0303c2296602e2df55e3c47a2679d51f272955ae0e65b6a730685",
+  "model": "gpt-41"
+}

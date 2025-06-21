@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of advertising",
+    "awareness barriers",
+    "information accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Advertising"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Advertising"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:26.702733",
+  "cache_key": "dba5fdf4750b3f28c8957ebea0f2f5d81d7a01b1d89badef87d1a35f74eb82f9",
+  "model": "gpt-41"
+}

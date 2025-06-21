@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty locating application materials",
+    "lack of transparency about program status",
+    "program discontinuation or defunding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Could not find applications for all of them on the website",
+    "some of the programs are no longer funded"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inaccessible application materials",
+    "unclear or outdated information about program funding status"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:11:07.219417",
+  "cache_key": "3fdb270b0068ffe0e7e0f6303a55f776aee49e551fa6aee922c77a49975038fe",
+  "model": "gpt-41"
+}

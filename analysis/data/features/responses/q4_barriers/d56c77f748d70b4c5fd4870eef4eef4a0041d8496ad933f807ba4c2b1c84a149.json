@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of housing costs on cultural access",
+    "effects of urban development",
+    "transportation and traffic barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "rising cost of housing",
+    "out of control development",
+    "too heavy traffic"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising cost of housing",
+    "out of control development",
+    "too heavy traffic"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:48.058393",
+  "cache_key": "d56c77f748d70b4c5fd4870eef4eef4a0041d8496ad933f807ba4c2b1c84a149",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for mixed-genre or multi-act events",
+    "interest in charity or benefit performances"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "mixed bills",
+    "charity shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more mixed bills",
+    "organize more charity shows"
+  ],
+  "cached_at": "2025-06-21T00:49:54.335616",
+  "cache_key": "c9a7609b121e53f0a4db4ad3ea87eca3f27e09b9f99cbd7a38ec76ed01d8de52",
+  "model": "gpt-41"
+}

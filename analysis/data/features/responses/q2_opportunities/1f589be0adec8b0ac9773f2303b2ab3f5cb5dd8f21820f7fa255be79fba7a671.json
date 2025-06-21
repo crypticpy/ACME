@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for family-friendly arts events",
+    "support for community-curated gallery spaces",
+    "desire for increased sponsorship of local arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More family-friendly arts events",
+    "art festivals, craft fairs, makers' festivals",
+    "More sponsorship of community-curated gallery spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase family-friendly arts events (art festivals, craft fairs, makers' festivals)",
+    "Increase sponsorship of community-curated gallery spaces"
+  ],
+  "cached_at": "2025-06-21T00:36:37.857228",
+  "cache_key": "1f589be0adec8b0ac9773f2303b2ab3f5cb5dd8f21820f7fa255be79fba7a671",
+  "model": "gpt-41"
+}

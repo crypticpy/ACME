@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for multidimensional programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "multidimensional"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer multidimensional programs"
+  ],
+  "cached_at": "2025-06-21T02:03:02.127203",
+  "cache_key": "ead6a7aaa01cb8f6f8a9d2c6c723addac0097338cd76c477dddd1631abcaff92",
+  "model": "gpt-41"
+}

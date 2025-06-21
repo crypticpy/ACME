@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about available resources",
+    "awareness barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Knowing what\u2019s available"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of knowledge about available support or services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:30.913222",
+  "cache_key": "9306a3a4257b965f138fb448fb797d7727da722eb78a27ec78f22ebcf2dc0ff3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for music venues",
+    "opposition to restrictive noise ordinances",
+    "impact of condo development on cultural spaces",
+    "concerns about crime affecting venues",
+    "rising rent costs threatening cultural organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "listen to music venues",
+    "help them fight back against noise ordinances",
+    "condo encroachment",
+    "crime",
+    "rising cost of rent"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "noise ordinances",
+    "condo encroachment",
+    "crime",
+    "rising cost of rent"
+  ],
+  "solutions_proposed": [
+    "help music venues fight back against noise ordinances, condo encroachment, crime, and rising cost of rent"
+  ],
+  "cached_at": "2025-06-20T01:23:24.540850",
+  "cache_key": "67d976a261fb1f048222a0d3b807bc6943ae6515f79c3a6349c4cfe7e4db1157",
+  "model": "gpt-41"
+}

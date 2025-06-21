@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "amplification of marginalized Black voices",
+    "funding inequity for Black artists",
+    "representation of Black community in public spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Pay more for marginalized Black voices",
+    "already in the Austin population's extreme minority",
+    "to be amplified in public spaces/forums",
+    "Fund black art and voices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for marginalized Black voices",
+    "underrepresentation of Black community in public forums"
+  ],
+  "solutions_proposed": [
+    "Pay more for marginalized Black voices",
+    "Fund black art and voices"
+  ],
+  "cached_at": "2025-06-21T02:13:03.350446",
+  "cache_key": "c801b75d370bbdda6d5e22db0a2499e26fb2eab2008bd6e1824d0e754f0b5595",
+  "model": "gpt-41"
+}

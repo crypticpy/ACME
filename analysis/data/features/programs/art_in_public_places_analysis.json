@@ -1,0 +1,27 @@
+{
+  "program_name": "Art in Public Places",
+  "mention_count": 8,
+  "sentiment_summary": {
+    "mixed": 3,
+    "negative": 4,
+    "positive": 1
+  },
+  "strengths": [],
+  "improvement_areas": [],
+  "specific_requests": [],
+  "representative_quotes": [
+    "Also give applicants a chance to resubmit their app",
+    "I want to see something like the SeeSaw app used in NYC and LA: a well-designed, curated app, organizing a visitor's entry to a half-hidden and constantly moving art scene",
+    "Number one, I'm extremely underimpressed by your choices of art in public places",
+    "You can pay your light bill with an app, deposit checks with an app- this is how creatives operate",
+    "I kept waiting for the app to open and it never did, and nothing was said until the proposed deadline had almost passed",
+    "I love seeing Art in public places! More opportunities for artists"
+  ],
+  "impact_statements": [],
+  "accessibility_issues": [],
+  "demographic_reach": {
+    "resident": 3,
+    "artist": 4,
+    "organization": 1
+  }
+}

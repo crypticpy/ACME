@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "loss of specific cultural event",
+    "desire for program reinstatement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Get East tour back!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "East tour"
+  ],
+  "barriers_identified": [
+    "absence of East tour"
+  ],
+  "solutions_proposed": [
+    "bring back East tour"
+  ],
+  "cached_at": "2025-06-20T01:16:22.558571",
+  "cache_key": "e6ee7908de2aa619200a14ebfd29a67e2308b2f345dd8c6505a30876a88d8c7f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,47 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of transparency in process",
+    "exclusion of targeted artists and groups",
+    "misleading communication and surveys",
+    "concerns about conflicts of interest and legality",
+    "comparison to previous, more inclusive processes",
+    "calls for process reset and apology"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "badly handled from day one",
+    "secretive and not accessible",
+    "conflicts of interest and open meetings were clearly not legal",
+    "exercise of competitive and political power",
+    "announcement and the survey are extremely misleading",
+    "setting the stage for winners and losers that you choose",
+    "I did participate in the project that planned the existing funding for Thrive, Elevate, etc.",
+    "inclusive, managed by outside consultants without a pre-determined agenda",
+    "completely rejected and the city needs to start over",
+    "Stop, apologize, and start over"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "secretive and not accessible initial activities",
+    "exclusion of targeted artists and groups",
+    "misleading survey and communications",
+    "conflicts of interest",
+    "lack of clear objectives and accessible communications"
+  ],
+  "solutions_proposed": [
+    "completely rejected and the city needs to start over with clear objectives and accessible communications",
+    "stop, apologize, and start over"
+  ],
+  "cached_at": "2025-06-21T02:16:02.020030",
+  "cache_key": "d0ee689a6af5d89177dbbd27581749596bf35ad00a6761b1191a14129d4aada7",
+  "model": "gpt-41"
+}

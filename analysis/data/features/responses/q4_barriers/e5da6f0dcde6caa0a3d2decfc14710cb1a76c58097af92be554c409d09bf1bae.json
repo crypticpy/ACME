@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "diversity concerns in local arts organizations",
+    "questioning of inclusivity",
+    "organizational practices under scrutiny"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "the level of diversity was questioned",
+    "within some local arts organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diversity in local arts organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:01.463426",
+  "cache_key": "e5da6f0dcde6caa0a3d2decfc14710cb1a76c58097af92be554c409d09bf1bae",
+  "model": "gpt-41"
+}

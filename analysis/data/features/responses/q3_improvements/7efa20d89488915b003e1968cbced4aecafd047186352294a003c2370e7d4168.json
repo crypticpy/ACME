@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to public funding for large cultural venues",
+    "perception of inequity in funding allocation",
+    "critique of support for elite cultural forms (opera)",
+    "call for private funding from wealthy individuals/groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Stop subsidizing establishments like the Long Center and Zach Scott",
+    "If the old money and techbros want opera, they can pay for it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center",
+    "Zach Scott"
+  ],
+  "barriers_identified": [
+    "public funds directed toward elite institutions"
+  ],
+  "solutions_proposed": [
+    "Cease public subsidies for the Long Center and Zach Scott",
+    "Encourage private funding from wealthy individuals for elite cultural events"
+  ],
+  "cached_at": "2025-06-21T00:58:52.422532",
+  "cache_key": "7efa20d89488915b003e1968cbced4aecafd047186352294a003c2370e7d4168",
+  "model": "gpt-41"
+}

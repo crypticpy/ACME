@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "uncertainty about survey question intent",
+    "lack of clarity in city communication",
+    "barriers related to access to money and power"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Im uncertain if this question is asking what barriers HAS my community (or myself) faced",
+    "the question lacks the details needed to give more input",
+    "access to money and power"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear communication from the city",
+    "access to money and power"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:46.267636",
+  "cache_key": "b65bf1a7037adaa68885cb0a786db8ff10c0cd176c95aa8207cc6c998cf14362",
+  "model": "gpt-41"
+}

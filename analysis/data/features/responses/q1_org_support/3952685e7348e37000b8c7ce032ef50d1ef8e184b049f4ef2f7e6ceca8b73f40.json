@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for diversified and increased financial support",
+    "importance of supporting organizations of all sizes and ages",
+    "role of the arts in economic development and city identity",
+    "lack of diverse funding sources in Austin",
+    "infrastructure and collaboration support",
+    "direct engagement between ACME and arts leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "well-established arts and cultural organizations must be supported financially",
+    "Austin lacks diverse funding for non-profit cultural organizations",
+    "diversifying its own financial support of arts organizations",
+    "infrastructure assistance (facilitating collaborations for things like rent, in-kind services, etc.)",
+    "diverse organizations of all budget sizes, organizational age, and creative discipline must be supported",
+    "raise the profile of the arts and culture industry",
+    "leaders of ACME meet with the arts organizational leaders to get their direct input"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of diverse funding for non-profit cultural organizations",
+    "insufficient financial and infrastructure support"
+  ],
+  "solutions_proposed": [
+    "diversify ACME's financial support of arts organizations",
+    "provide grants and contracts as well as infrastructure assistance",
+    "facilitate collaborations for rent and in-kind services",
+    "support organizations of all budget sizes, ages, and disciplines",
+    "raise the profile of the arts and culture industry",
+    "ACME leaders meet directly with arts organizational leaders"
+  ],
+  "cached_at": "2025-06-20T10:43:38.990721",
+  "cache_key": "3952685e7348e37000b8c7ce032ef50d1ef8e184b049f4ef2f7e6ceca8b73f40",
+  "model": "gpt-41"
+}

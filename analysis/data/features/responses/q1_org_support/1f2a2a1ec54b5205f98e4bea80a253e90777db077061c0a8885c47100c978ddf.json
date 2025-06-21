@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased financial support",
+    "affordable access to event spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Financial support",
+    "An affordable event space"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support",
+    "lack of affordable event space"
+  ],
+  "solutions_proposed": [
+    "Provide financial support",
+    "Offer an affordable event space"
+  ],
+  "cached_at": "2025-06-20T10:28:57.462922",
+  "cache_key": "1f2a2a1ec54b5205f98e4bea80a253e90777db077061c0a8885c47100c978ddf",
+  "model": "gpt-41"
+}

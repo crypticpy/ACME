@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for small events",
+    "concern about inequitable funding",
+    "preference for relevance over size"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "support small and relevant events",
+    "vs the big guys with lots of funding already"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "large organizations already receive significant funding"
+  ],
+  "solutions_proposed": [
+    "prioritize support for small and relevant events over large, well-funded organizations"
+  ],
+  "cached_at": "2025-06-20T01:16:36.673517",
+  "cache_key": "83b01c9c41325fa36785af61a54b48f0b684c046f681f1494e1b959af32035f9",
+  "model": "gpt-41"
+}

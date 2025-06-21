@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "concern about gentrification",
+    "resistance to acculturation",
+    "desire for culturally sensitive funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.6,
+  "key_phrases": [
+    "do not promote gentrification",
+    "do not promote acculturation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gentrification",
+    "acculturation"
+  ],
+  "solutions_proposed": [
+    "Fund initiatives that do not promote gentrification or acculturation"
+  ],
+  "cached_at": "2025-06-21T00:58:25.040448",
+  "cache_key": "f764914a1fa12c6241a8c61fdd7578a3c39398d781c348cb5edb0a26cdf294fb",
+  "model": "gpt-41"
+}

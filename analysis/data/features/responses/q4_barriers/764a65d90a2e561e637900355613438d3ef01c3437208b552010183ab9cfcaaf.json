@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "displacement due to rising costs",
+    "impact of newcomers on affordability",
+    "loss of access to historic artistic spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "getting priced out by new comers",
+    "most not from Texas",
+    "property values raise prices to exist in historically artistic spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "being priced out by newcomers",
+    "increased property values",
+    "higher cost to exist in historically artistic spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:38.602133",
+  "cache_key": "764a65d90a2e561e637900355613438d3ef01c3437208b552010183ab9cfcaaf",
+  "model": "gpt-41"
+}

@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant policies discourage collaboration",
+    "inconsistency in grant distribution",
+    "lack of transparency in funding process",
+    "erosion of trust in city cultural programs",
+    "prioritization of impactful collaborations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "organizations are actually discouraged to collaborate and share resources",
+    "keep reporting and budgets 'clean'",
+    "antithetical to the goals of fostering collaboration",
+    "grants that have multiple organizations with a proven track record of impact should be prioritized",
+    "inconsistency of grant distribution",
+    "challenges like transparency and consistency erode trust",
+    "reviewers were inconsistent in their feedback and scoring"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CAD grants",
+    "Elevate",
+    "DAWA",
+    "Art Us Co"
+  ],
+  "barriers_identified": [
+    "grant policies discourage collaboration",
+    "inconsistent grant distribution",
+    "lack of transparency",
+    "inconsistent feedback and scoring"
+  ],
+  "solutions_proposed": [
+    "prioritize grants with multiple organizations with a proven track record of impact"
+  ],
+  "cached_at": "2025-06-20T10:37:03.783418",
+  "cache_key": "f7cbc5b578f2574d5811b4d62a56250fa862118ecbc2eb83cfc35b2877b8d0f0",
+  "model": "gpt-41"
+}

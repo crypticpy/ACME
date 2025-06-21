@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "time constraints as a barrier",
+    "financial considerations",
+    "barriers are manageable/not insurmountable"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "time, money",
+    "not impossible",
+    "always considerations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "time",
+    "money"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:54.171538",
+  "cache_key": "4d782f184f2ac273eff038b3d48d483f3b349a65036578242be005e01a91f2d9",
+  "model": "gpt-41"
+}

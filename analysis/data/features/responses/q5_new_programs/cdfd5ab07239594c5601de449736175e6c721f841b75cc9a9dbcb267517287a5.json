@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for artist studio space support",
+    "artist involvement in organizational feedback",
+    "artists as collaborators and consultants",
+    "peer-led grant writing education"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Grants for artists for studio spaces",
+    "A working group that ACME listens to for feedback",
+    "Hiring artists as collaborators and consultants for feedback about programs and activities",
+    "Hiring successful artists to teach others about grant writing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants for studio spaces",
+    "insufficient artist input in program feedback",
+    "limited opportunities for artists to serve as consultants",
+    "lack of peer-led grant writing education"
+  ],
+  "solutions_proposed": [
+    "Provide grants for artists for studio spaces",
+    "Create a working group that ACME listens to for feedback",
+    "Hire artists as collaborators and consultants for feedback about programs and activities",
+    "Hire successful artists to teach others about grant writing"
+  ],
+  "cached_at": "2025-06-21T02:02:51.939446",
+  "cache_key": "cdfd5ab07239594c5601de449736175e6c721f841b75cc9a9dbcb267517287a5",
+  "model": "gpt-41"
+}

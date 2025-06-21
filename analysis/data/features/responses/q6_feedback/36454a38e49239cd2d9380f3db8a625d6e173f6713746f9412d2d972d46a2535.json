@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessible and inclusive funding program design",
+    "capacity-building for artists and creative entrepreneurs",
+    "partnerships with community development organizations",
+    "wraparound support for marginalized creatives",
+    "addressing barriers related to income, language, and systemic inequities",
+    "ongoing community dialogue and collaboration in policy-making"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "set a national example",
+    "funding programs that are accessible, culturally inclusive, and capacity-building",
+    "investing in partnerships with community development organizations",
+    "wraparound support to artists and creative entrepreneurs",
+    "navigating barriers related to income, language, and systemic inequities",
+    "continue open dialogue and community collaboration",
+    "ongoing policy-making, not just one-time engagements"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "income",
+    "language",
+    "systemic inequities"
+  ],
+  "solutions_proposed": [
+    "designing funding programs that are accessible, culturally inclusive, and capacity-building",
+    "investing in partnerships with community development organizations",
+    "offering wraparound support to artists and creative entrepreneurs",
+    "continuing open dialogue and community collaboration as part of ongoing policy-making"
+  ],
+  "cached_at": "2025-06-21T02:11:35.171624",
+  "cache_key": "36454a38e49239cd2d9380f3db8a625d6e173f6713746f9412d2d972d46a2535",
+  "model": "gpt-41"
+}

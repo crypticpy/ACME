@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for emerging creatives",
+    "expanding opportunities for new artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more opportunities for newer/emerging creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more opportunities for newer/emerging creatives"
+  ],
+  "cached_at": "2025-06-21T00:45:31.247911",
+  "cache_key": "3caf25c4ac0b6a5aa9a7eb5c7ce5de4fcf94e112eb6ed82f104066e8d1a93024",
+  "model": "gpt-41"
+}

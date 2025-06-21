@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "process complexity and administrative burden",
+    "grant duration and stability",
+    "comparison to San Antonio's model"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "reducing the complexity of the process",
+    "San Antonio has a pretty good model for simplicity",
+    "reconsidering the length of a grant",
+    "giving the recipient/ winner a multi year commitment",
+    "alleviate the burden of reapplying",
+    "allows the recipient to focus on executing their project"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of the process",
+    "burden of reapplying for grants"
+  ],
+  "solutions_proposed": [
+    "reduce the complexity of the process",
+    "adopt a simpler model similar to San Antonio",
+    "offer multi-year grant commitments"
+  ],
+  "cached_at": "2025-06-21T01:15:55.496711",
+  "cache_key": "4db7672d14bfa835d2ee4b4ed715e348340ca169ffcbd6225ee1c4e9a1f95df9",
+  "model": "gpt-41"
+}

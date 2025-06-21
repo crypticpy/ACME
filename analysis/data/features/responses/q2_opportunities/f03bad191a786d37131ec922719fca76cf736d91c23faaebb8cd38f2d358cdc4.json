@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cultural diversity in events",
+    "collaboration with student artists",
+    "support for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "culturally diverse events",
+    "events that collaborate with students in the arts",
+    "emerging artists in the area"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more culturally diverse events",
+    "more events that collaborate with students in the arts",
+    "more events that collaborate with emerging artists in the area"
+  ],
+  "cached_at": "2025-06-21T00:42:45.308944",
+  "cache_key": "f03bad191a786d37131ec922719fca76cf736d91c23faaebb8cd38f2d358cdc4",
+  "model": "gpt-41"
+}

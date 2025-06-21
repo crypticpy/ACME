@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "infrastructure support",
+    "grantmaking criteria",
+    "measurable impact",
+    "qualitative and quantitative evaluation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grants that support infrastructure",
+    "measurable goals",
+    "qualitative and quantitative impacts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Grants that support infrastructure with measurable goals both qualitative and quantitative impacts"
+  ],
+  "cached_at": "2025-06-20T10:33:36.028130",
+  "cache_key": "4c86d7accdd276b34a424842018280f9abebf57edf5ac72e970f1b8cc4c35c65",
+  "model": "gpt-41"
+}

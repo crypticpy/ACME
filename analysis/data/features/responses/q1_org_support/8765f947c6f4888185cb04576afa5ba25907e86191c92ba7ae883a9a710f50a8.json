@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "support for musicians",
+    "expansion of programs targeting musicians"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more funding",
+    "programs for musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for musicians",
+    "lack of programs for musicians"
+  ],
+  "solutions_proposed": [
+    "more funding for musicians",
+    "more programs for musicians"
+  ],
+  "cached_at": "2025-06-20T10:36:38.752780",
+  "cache_key": "8765f947c6f4888185cb04576afa5ba25907e86191c92ba7ae883a9a710f50a8",
+  "model": "gpt-41"
+}

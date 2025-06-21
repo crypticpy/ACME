@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "confusion about grant criteria",
+    "barriers for organizations of color",
+    "need for clearer communication",
+    "desire for more accessible application materials"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "funder",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "confusion from applicants (esp. from organizations of color)",
+    "purposes of the grant and the cultural specificity that was needed",
+    "application process for funding can often feel quite byzantine",
+    "humanize/break down that application into the most basic of terms"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate",
+    "Thrive"
+  ],
+  "barriers_identified": [
+    "confusion about the purposes of the grant",
+    "unclear expectations for cultural specificity in applications",
+    "complex and byzantine application process"
+  ],
+  "solutions_proposed": [
+    "humanize/break down that application into the most basic of terms"
+  ],
+  "cached_at": "2025-06-21T01:07:15.817429",
+  "cache_key": "8f29a0436641c10497dca78fa1c347371dc3f968858935123520acc1aa528838",
+  "model": "gpt-41"
+}

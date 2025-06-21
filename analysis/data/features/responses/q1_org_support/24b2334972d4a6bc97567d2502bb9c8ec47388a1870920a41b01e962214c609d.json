@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equity in cultural funding",
+    "support for underrepresented creative communities",
+    "commitment to inclusive practices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "keep using an equity lens",
+    "remain committed to helping underrepresented creative communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "keep using an equity lens",
+    "remain committed to helping underrepresented creative communities"
+  ],
+  "cached_at": "2025-06-20T10:44:18.828402",
+  "cache_key": "24b2334972d4a6bc97567d2502bb9c8ec47388a1870920a41b01e962214c609d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of information and applications",
+    "digital divide affecting artists",
+    "importance of education and outreach",
+    "recognition of creative labor and living wages",
+    "community understanding of artists' needs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more prescence via both links to more info and applications",
+    "hard copy available to those who do not have access to computers or cellphones",
+    "many artists are challenged by those elements",
+    "information and education are key elements",
+    "appreciate very much what the city has done to insure living wages to creatives",
+    "important for our citizens as well as any venue that is looking to rent or to hire to fully understand the time commitment, experience, education and talent",
+    "if cultural funding programs or some part of ACME could address outreach to help with that understanding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "lack of access to computers or cellphones for artists",
+    "insufficient outreach and education about artists' needs"
+  ],
+  "solutions_proposed": [
+    "provide more links to information and applications",
+    "make hard copy materials available for those without digital access",
+    "increase outreach to educate citizens and venues about artists' time commitment, experience, education, and talent"
+  ],
+  "cached_at": "2025-06-21T01:06:26.375409",
+  "cache_key": "6d000493f1cd6c255b499b4460c4686323cb50b859278a7a0b4a28b7c621587f",
+  "model": "gpt-41"
+}

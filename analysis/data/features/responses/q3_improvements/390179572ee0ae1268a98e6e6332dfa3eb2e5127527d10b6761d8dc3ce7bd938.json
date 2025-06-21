@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "burdensome and complex application process",
+    "difficulty accessing general operating funds",
+    "limitations of funding tied to cultural tourism",
+    "challenges for non-performance-based arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the application process is very burdensome",
+    "harder and more complex than many national and state grants",
+    "lower barriers to apply for funding",
+    "make it easier to get general operating funds",
+    "don't tie it to cultural tourism only",
+    "hard for arts orgs that are not performance-based to get funding for the actual mission-based work they do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "burdensome application process",
+    "application process more complex than national and state grants",
+    "funding tied only to cultural tourism",
+    "difficulty for non-performance-based organizations to access funding for mission-based work"
+  ],
+  "solutions_proposed": [
+    "lower barriers to apply for funding",
+    "make it easier to get general operating funds",
+    "do not tie funding exclusively to cultural tourism"
+  ],
+  "cached_at": "2025-06-21T01:13:30.191966",
+  "cache_key": "390179572ee0ae1268a98e6e6332dfa3eb2e5127527d10b6761d8dc3ce7bd938",
+  "model": "gpt-41"
+}

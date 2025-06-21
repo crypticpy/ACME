@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding geographic eligibility",
+    "inclusion of non-Austin resources",
+    "regional collaboration"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "utilize other studios and producers outside of Austin",
+    "like San Marcos, Wimberley etc."
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited to Austin-based studios and producers"
+  ],
+  "solutions_proposed": [
+    "utilize studios and producers outside of Austin, such as in San Marcos and Wimberley"
+  ],
+  "cached_at": "2025-06-21T01:15:10.564735",
+  "cache_key": "52f8d045fcc4b2b5191b8f35de8037b5aa0b3755a6ed045afb6ba5afa75b0f1a",
+  "model": "gpt-41"
+}

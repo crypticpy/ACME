@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grant writing support",
+    "access to smaller funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "grant writing workshops",
+    "micro-grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant writing skills",
+    "limited access to small-scale funding"
+  ],
+  "solutions_proposed": [
+    "offer grant writing workshops",
+    "provide micro-grants"
+  ],
+  "cached_at": "2025-06-21T01:06:14.599363",
+  "cache_key": "7fd9556c5de530fe3ef68ef14cf03cad6e664a04a82b2ee7ce486d8e6b213a75",
+  "model": "gpt-41"
+}

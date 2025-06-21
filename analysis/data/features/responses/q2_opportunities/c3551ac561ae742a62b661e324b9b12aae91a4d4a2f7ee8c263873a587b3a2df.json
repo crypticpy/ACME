@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local artists",
+    "emphasis on locally produced arts",
+    "community-based cultural expression"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Local arts made by local artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for local arts made by local artists"
+  ],
+  "cached_at": "2025-06-21T00:36:33.408322",
+  "cache_key": "c3551ac561ae742a62b661e324b9b12aae91a4d4a2f7ee8c263873a587b3a2df",
+  "model": "gpt-41"
+}

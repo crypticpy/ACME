@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "outreach to underrepresented communities",
+    "focus on diversity, equity, and inclusion (DEI)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "increased outreach to historically underrepresented communities",
+    "maintain focus on DEI"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to historically underrepresented communities"
+  ],
+  "solutions_proposed": [
+    "increase outreach to historically underrepresented communities",
+    "maintain focus on DEI"
+  ],
+  "cached_at": "2025-06-21T01:13:34.310621",
+  "cache_key": "87e12159dda325638176de6884094979b99645888cd7fa0d7a3429b43cdde0bd",
+  "model": "gpt-41"
+}

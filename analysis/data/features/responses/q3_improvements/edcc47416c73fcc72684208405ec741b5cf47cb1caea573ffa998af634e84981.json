@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased awareness of programs",
+    "improved outreach to potential applicants",
+    "ongoing assistance and support during the funding process",
+    "enhancing participant experience and satisfaction",
+    "encouraging repeat applications and word-of-mouth sharing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Awareness, outreach, assistance",
+    "support throughout the award",
+    "such a good experience",
+    "impacted in a positive way",
+    "want to apply again",
+    "share the resource with others"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "insufficient outreach",
+    "limited assistance during the award process"
+  ],
+  "solutions_proposed": [
+    "increase awareness of cultural funding programs",
+    "expand outreach efforts",
+    "provide assistance and support throughout the award period",
+    "focus on positive participant experiences to encourage future engagement"
+  ],
+  "cached_at": "2025-06-21T01:09:39.617757",
+  "cache_key": "edcc47416c73fcc72684208405ec741b5cf47cb1caea573ffa998af634e84981",
+  "model": "gpt-41"
+}

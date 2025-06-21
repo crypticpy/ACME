@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for increased cultural representation",
+    "integration of culture into major events",
+    "broadening the focus beyond culture-specific events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "not only events centered around culture",
+    "more representation on major events and activations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of cultural representation in major events"
+  ],
+  "solutions_proposed": [
+    "increase representation on major events and activations"
+  ],
+  "cached_at": "2025-06-21T00:31:50.577019",
+  "cache_key": "058b6591b568004686844086013fdc1981916e8fa072a478a1a7de62e2c283a8",
+  "model": "gpt-41"
+}

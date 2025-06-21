@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "funding stability",
+    "application criteria",
+    "planning challenges for organizations",
+    "tension between artistic merit and social services requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "support that does not drastically change from year to year",
+    "so the organization can plan",
+    "cultural funding application that include history and artistic merit",
+    "not social services requirements"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "drastic year-to-year changes in support",
+    "funding applications requiring social services criteria"
+  ],
+  "solutions_proposed": [
+    "provide stable support from year to year",
+    "focus funding applications on history and artistic merit instead of social services requirements"
+  ],
+  "cached_at": "2025-06-20T01:18:12.676977",
+  "cache_key": "d027d5e11915320bbf90b6b59777253bcb9425d98de714851ecb28e6985640c6",
+  "model": "gpt-41"
+}

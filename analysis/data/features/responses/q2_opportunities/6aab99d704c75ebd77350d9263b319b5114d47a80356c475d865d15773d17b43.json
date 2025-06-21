@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more literary arts events",
+    "preference for smaller-scale live music",
+    "interest in spoken word and conversational formats"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More literary arts",
+    "more live music that\u2019s not an arena show",
+    "more spoken word (in conversations)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase literary arts opportunities",
+    "Offer more live music in smaller, non-arena venues",
+    "Provide more spoken word events in conversational formats"
+  ],
+  "cached_at": "2025-06-21T00:52:23.615380",
+  "cache_key": "6aab99d704c75ebd77350d9263b319b5114d47a80356c475d865d15773d17b43",
+  "model": "gpt-41"
+}

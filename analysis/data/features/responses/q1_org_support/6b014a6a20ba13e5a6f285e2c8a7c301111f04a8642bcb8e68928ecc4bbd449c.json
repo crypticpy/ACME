@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for artist residents",
+    "basic needs of artists (health, food, housing)",
+    "community value of artists",
+    "role of specific support programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "reinforce support for our artist residents",
+    "ensure their healthy, fed and housed",
+    "able to provide for their families",
+    "doing work that all of us in the community can enjoy and appreciate",
+    "they are what we love about living in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAM"
+  ],
+  "barriers_identified": [
+    "artists' inability to meet basic needs (health, food, housing)"
+  ],
+  "solutions_proposed": [
+    "reinforce support for artist residents through programs like HAM",
+    "ensure artists are healthy, fed, and housed"
+  ],
+  "cached_at": "2025-06-20T10:39:37.878261",
+  "cache_key": "6b014a6a20ba13e5a6f285e2c8a7c301111f04a8642bcb8e68928ecc4bbd449c",
+  "model": "gpt-41"
+}

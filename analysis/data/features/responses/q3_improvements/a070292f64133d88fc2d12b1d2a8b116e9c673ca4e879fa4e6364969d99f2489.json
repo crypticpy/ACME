@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continuity of funding",
+    "importance of ongoing support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue making funds available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue making funds available"
+  ],
+  "cached_at": "2025-06-21T00:55:40.522115",
+  "cache_key": "a070292f64133d88fc2d12b1d2a8b116e9c673ca4e879fa4e6364969d99f2489",
+  "model": "gpt-41"
+}

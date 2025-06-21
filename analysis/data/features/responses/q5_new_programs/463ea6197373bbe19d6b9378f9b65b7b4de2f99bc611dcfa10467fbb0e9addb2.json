@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community-based and nontraditional arts programming",
+    "certification and skills development for creatives",
+    "healing and wellness through the arts",
+    "STEAM and school-based arts programs",
+    "mobile arts program opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "community-based / nontraditional program services",
+    "certification programs (to strengthen creative transferrable/marketable skills)",
+    "'healing through the arts' health & well-being programs",
+    "school arts programs (STEAM)",
+    "program design opportunities for mobile arts",
+    "private/public school arts program opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer community-based and nontraditional program services",
+    "create certification programs to strengthen creative transferrable/marketable skills",
+    "develop 'healing through the arts' health & well-being programs",
+    "expand school arts programs (STEAM)",
+    "design opportunities for mobile arts programs",
+    "increase private/public school arts program opportunities"
+  ],
+  "cached_at": "2025-06-21T01:55:38.836935",
+  "cache_key": "463ea6197373bbe19d6b9378f9b65b7b4de2f99bc611dcfa10467fbb0e9addb2",
+  "model": "gpt-41"
+}

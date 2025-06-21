@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interconnectedness among organizations and leaders",
+    "collaboration opportunities",
+    "resource sharing",
+    "community building"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "supporting interconnectedness",
+    "opportunities for collaboration",
+    "resource sharing",
+    "community building"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "supporting interconnectedness",
+    "creating opportunities for collaboration",
+    "facilitating resource sharing",
+    "fostering community building"
+  ],
+  "cached_at": "2025-06-20T10:33:51.751373",
+  "cache_key": "8fc0377fdd47c77f63219971b40d5f7b9e20575cc020a8bdaace42e158bddd83",
+  "model": "gpt-41"
+}

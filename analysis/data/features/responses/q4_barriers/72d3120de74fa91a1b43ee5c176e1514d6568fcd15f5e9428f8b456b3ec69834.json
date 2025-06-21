@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gentrification displacing artists",
+    "grant monopolization by few groups",
+    "rising costs of local arts and events",
+    "corporate takeover of public spaces",
+    "loss of accessible and tranquil common spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin gentrifies our little neighborhoods and pushes lower wage earners farther and farther out",
+    "we lose our individual artists who can no longer afford to live here",
+    "a few groups are monopolizing the grants",
+    "Local arts and events are getting more expensive and geared more to young professionals than to normal wage earners",
+    "Corporations are taking over our parks via non profits and turning them into cash cows",
+    "removing the sanctity and tranquility of our common spaces",
+    "These common spaces add to Austin arts in an intangible but real way"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gentrification displacing lower wage earners and artists",
+    "grant funding monopolized by a few groups",
+    "increased cost of arts and events",
+    "arts events targeting young professionals over normal wage earners",
+    "corporate control of public parks",
+    "loss of tranquil common spaces for inspiration"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:37.976635",
+  "cache_key": "72d3120de74fa91a1b43ee5c176e1514d6568fcd15f5e9428f8b456b3ec69834",
+  "model": "gpt-41"
+}

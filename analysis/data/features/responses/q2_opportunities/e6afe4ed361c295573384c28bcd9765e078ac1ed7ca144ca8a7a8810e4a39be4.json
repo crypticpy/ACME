@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "celebration of artistic works",
+    "diversity of perspectives",
+    "representation across cultures",
+    "variety of artistic media"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "works being celebrated",
+    "a diverse range of perspectives shared",
+    "culturally and across different media"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "celebrate works",
+    "share a diverse range of perspectives culturally and across different media"
+  ],
+  "cached_at": "2025-06-21T00:31:56.593539",
+  "cache_key": "e6afe4ed361c295573384c28bcd9765e078ac1ed7ca144ca8a7a8810e4a39be4",
+  "model": "gpt-41"
+}

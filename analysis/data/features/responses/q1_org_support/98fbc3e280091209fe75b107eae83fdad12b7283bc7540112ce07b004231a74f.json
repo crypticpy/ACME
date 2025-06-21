@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of ACME",
+    "long-term local music participation",
+    "disconnect between cultural organizations and artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I don\u2019t know.",
+    "I\u2019ve never heard of ACME",
+    "I\u2019ve been playing music here since the late 90\u2019s"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach or visibility of ACME to local artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:23:27.712527",
+  "cache_key": "98fbc3e280091209fe75b107eae83fdad12b7283bc7540112ce07b004231a74f",
+  "model": "gpt-41"
+}

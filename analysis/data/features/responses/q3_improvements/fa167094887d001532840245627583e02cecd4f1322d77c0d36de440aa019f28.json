@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for outreach",
+    "support for grassroots organizations",
+    "inclusion of underrepresented groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "outreach to the smaller grassroots orgs",
+    "consistently host events for underrepresented groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to smaller grassroots organizations",
+    "underrepresentation in current funding outreach"
+  ],
+  "solutions_proposed": [
+    "increase outreach to smaller grassroots organizations that serve underrepresented groups"
+  ],
+  "cached_at": "2025-06-21T00:59:43.759324",
+  "cache_key": "fa167094887d001532840245627583e02cecd4f1322d77c0d36de440aa019f28",
+  "model": "gpt-41"
+}

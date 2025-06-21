@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "access to dramatic theater",
+    "pricing barriers to participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Free, or subsidized events",
+    "More dramatic theater at lower prices"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of events",
+    "lack of affordable dramatic theater"
+  ],
+  "solutions_proposed": [
+    "offer free or subsidized events",
+    "increase availability of dramatic theater at lower prices"
+  ],
+  "cached_at": "2025-06-21T00:50:03.420907",
+  "cache_key": "f2b86ce2c182815438729d7da2569aaa7d13fa047446091c62570b9e180c030c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for cultural diversity",
+    "representation of different cultures"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "All diversities",
+    "Different cultures"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities representing all diversities",
+    "Include different cultures in arts and entertainment"
+  ],
+  "cached_at": "2025-06-21T00:36:03.482604",
+  "cache_key": "67986fb83a378a14abf44eeadeb05ccff907b50dc99324319e9807565f062896",
+  "model": "gpt-41"
+}

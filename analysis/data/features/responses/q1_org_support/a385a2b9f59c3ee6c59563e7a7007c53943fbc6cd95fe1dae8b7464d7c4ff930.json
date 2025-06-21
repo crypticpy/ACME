@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct financial support",
+    "prioritizing diversity in events",
+    "support for organizations and leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support them with money",
+    "especially those that are working towards more diverse events and activities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide financial support to organizations and leaders working towards more diverse events and activities"
+  ],
+  "cached_at": "2025-06-20T10:33:27.254035",
+  "cache_key": "a385a2b9f59c3ee6c59563e7a7007c53943fbc6cd95fe1dae8b7464d7c4ff930",
+  "model": "gpt-41"
+}

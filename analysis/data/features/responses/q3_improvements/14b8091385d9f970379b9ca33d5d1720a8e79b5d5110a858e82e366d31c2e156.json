@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for literary arts",
+    "perceived underfunding of literary sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More funding for literary arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for literary arts"
+  ],
+  "solutions_proposed": [
+    "More funding for literary arts"
+  ],
+  "cached_at": "2025-06-21T01:19:38.923452",
+  "cache_key": "14b8091385d9f970379b9ca33d5d1720a8e79b5d5110a858e82e366d31c2e156",
+  "model": "gpt-41"
+}

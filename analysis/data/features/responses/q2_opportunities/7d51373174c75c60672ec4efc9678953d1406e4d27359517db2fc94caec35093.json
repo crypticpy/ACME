@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "satisfaction with current cultural mix",
+    "desire for increased quantity of cultural opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "good mix of culture opportunities",
+    "just want to see more of it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase the amount of existing cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:52:31.274027",
+  "cache_key": "7d51373174c75c60672ec4efc9678953d1406e4d27359517db2fc94caec35093",
+  "model": "gpt-41"
+}

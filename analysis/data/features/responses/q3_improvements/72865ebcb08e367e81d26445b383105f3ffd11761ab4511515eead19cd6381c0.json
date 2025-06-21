@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about for-profit involvement",
+    "need for greater accountability",
+    "importance of knowledgeable panelists",
+    "focus on artistic merit and production ability",
+    "community engagement in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "No for profits",
+    "more accountability and follow up",
+    "return to panelists that know the subject",
+    "retune scoring centered on art, production ability and community buy in"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledgeable panelists",
+    "insufficient accountability",
+    "involvement of for-profit entities",
+    "scoring not centered on art, production ability, or community buy-in"
+  ],
+  "solutions_proposed": [
+    "exclude for-profits from funding",
+    "increase accountability and follow up",
+    "use panelists with subject expertise",
+    "retune scoring to prioritize art, production ability, and community buy-in"
+  ],
+  "cached_at": "2025-06-21T01:11:56.769757",
+  "cache_key": "72865ebcb08e367e81d26445b383105f3ffd11761ab4511515eead19cd6381c0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for exhibitions",
+    "desire for more exhibition opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "support of exhibitions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support of exhibitions"
+  ],
+  "cached_at": "2025-06-21T00:25:22.009267",
+  "cache_key": "50fe45101c80e95f4def8411e73c3ca0199185cb49c276ade1cea22c63dad9ff",
+  "model": "gpt-41"
+}

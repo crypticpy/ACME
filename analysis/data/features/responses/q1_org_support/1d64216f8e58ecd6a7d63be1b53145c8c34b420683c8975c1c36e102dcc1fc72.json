@@ -1,0 +1,48 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived exclusion and tokenization in funding criteria",
+    "Challenges for intersectional and multicultural organizations",
+    "Financial precarity and lack of sustainable funding",
+    "Underrepresentation and underfunding of dance",
+    "Emotional toll and discouragement from funding processes",
+    "Disconnect between funding requirements and lived experience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "COA funding opportunities perpetuate seperation rather than inclusion",
+    "My dance company is a melting pot of cultures, and an LGBTQ+ friendly organization",
+    "I need to find a way to conform to existing standards that I feel are creating more of the same old issue",
+    "I refuse to tokenize members of the LGBTQ+ and their experience to get money",
+    "I don't fit the bill of COA requirements either",
+    "I do not want to attend cultural events because they make me feel like an outsider",
+    "Dance is extremely under supported fiscally in comparison to the other art forms",
+    "Our community of supporters are tapped out financially, and I do not have connections to wealthy patrons",
+    "The burden of supporting arts and humanities should not fall on the backs of the people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "Funding criteria that require tokenization or strict identity-based justification",
+    "Lack of fit with COA requirements for multicultural or intersectional organizations",
+    "Financial exhaustion of community supporters",
+    "No access to wealthy patrons",
+    "Dance being underfunded compared to other art forms",
+    "Discouragement and emotional toll from repeated funding denials"
+  ],
+  "solutions_proposed": [
+    "Reduce the burden of proof on organizations to demonstrate service to specific communities in a way that feels tokenizing",
+    "Rethink funding criteria to be more inclusive of intersectional and multicultural organizations",
+    "Increase sustainable funding for dance and underrepresented art forms",
+    "Shift the responsibility for arts funding away from the general public and towards more systemic support"
+  ],
+  "cached_at": "2025-06-20T01:20:54.819970",
+  "cache_key": "1d64216f8e58ecd6a7d63be1b53145c8c34b420683c8975c1c36e102dcc1fc72",
+  "model": "gpt-41"
+}

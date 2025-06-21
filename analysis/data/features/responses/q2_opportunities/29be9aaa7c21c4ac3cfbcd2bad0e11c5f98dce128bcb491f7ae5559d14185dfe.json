@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more writing workshops",
+    "interest in poetry readings",
+    "support for theatre performances"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "writing workshops",
+    "poetry readings",
+    "theatre performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more writing workshops",
+    "increase poetry readings",
+    "provide more theatre performances"
+  ],
+  "cached_at": "2025-06-21T00:31:39.579264",
+  "cache_key": "29be9aaa7c21c4ac3cfbcd2bad0e11c5f98dce128bcb491f7ae5559d14185dfe",
+  "model": "gpt-41"
+}

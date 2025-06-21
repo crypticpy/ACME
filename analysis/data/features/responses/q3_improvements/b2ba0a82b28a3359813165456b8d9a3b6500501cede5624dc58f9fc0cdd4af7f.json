@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "simplifying application processes",
+    "lowering barriers for new artists",
+    "removing experience requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "easy applications",
+    "no experience necessary",
+    "get new artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application processes",
+    "experience requirements for applicants"
+  ],
+  "solutions_proposed": [
+    "make applications easy",
+    "remove experience requirements to allow new artists"
+  ],
+  "cached_at": "2025-06-21T01:01:36.439171",
+  "cache_key": "b2ba0a82b28a3359813165456b8d9a3b6500501cede5624dc58f9fc0cdd4af7f",
+  "model": "gpt-41"
+}

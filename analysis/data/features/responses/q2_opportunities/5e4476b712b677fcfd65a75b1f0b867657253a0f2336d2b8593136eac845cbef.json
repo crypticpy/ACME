@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more art galleries",
+    "expansion of visual arts spaces"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More galleries"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase the number of galleries"
+  ],
+  "cached_at": "2025-06-21T00:24:46.814771",
+  "cache_key": "5e4476b712b677fcfd65a75b1f0b867657253a0f2336d2b8593136eac845cbef",
+  "model": "gpt-41"
+}

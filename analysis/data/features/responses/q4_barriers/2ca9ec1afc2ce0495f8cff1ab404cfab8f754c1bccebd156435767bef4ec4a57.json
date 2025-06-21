@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "relative size of cultural sector",
+    "comparison to technology industry",
+    "resource limitations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Industry size is small overall compared to tech"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "small size of arts, culture, music, and entertainment industry relative to tech sector"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:45.390086",
+  "cache_key": "2ca9ec1afc2ce0495f8cff1ab404cfab8f754c1bccebd156435767bef4ec4a57",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of opportunities for disabled artists",
+    "physical disability inclusion",
+    "accessibility in cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities for physically disabled Artist"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient opportunities for physically disabled artists"
+  ],
+  "solutions_proposed": [
+    "create more opportunities for physically disabled artists"
+  ],
+  "cached_at": "2025-06-20T01:15:48.806506",
+  "cache_key": "5e3d598632ae80e695c7371e74752da646ebacdd3b5d6d539cec3bd813f739e5",
+  "model": "gpt-41"
+}

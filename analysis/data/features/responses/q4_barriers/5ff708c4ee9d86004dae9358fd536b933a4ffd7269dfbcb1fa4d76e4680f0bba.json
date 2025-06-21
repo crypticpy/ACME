@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gender inequity in music careers",
+    "impact of caregiving responsibilities on women musicians",
+    "lack of affordable childcare",
+    "need for increased support/resources for women"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Women musicians struggle",
+    "having to leave their careers",
+    "lack of affordable childcare",
+    "care-giver roles for parents",
+    "I want to see more women resourced"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable childcare",
+    "care-giver roles for parents"
+  ],
+  "solutions_proposed": [
+    "more women resourced"
+  ],
+  "cached_at": "2025-06-21T01:22:50.765298",
+  "cache_key": "5ff708c4ee9d86004dae9358fd536b933a4ffd7269dfbcb1fa4d76e4680f0bba",
+  "model": "gpt-41"
+}

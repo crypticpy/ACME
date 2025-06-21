@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for support of non-mainstream genres (jazz, experimental, multicultural arts)",
+    "desire for cross-disciplinary and innovative arts programming",
+    "funding and recognition for mid-career and legacy artists",
+    "affordable and accessible venues for independent creatives",
+    "distinction between meaningful art and entertainment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Austin needs more support for jazz, experimental, and multicultural arts \u2014 not just mainstream genres",
+    "Jazz residencies and listening rooms",
+    "Cross-disciplinary festivals that blend music, film, dance, and spoken word",
+    "Grants for mid-career and legacy artists, not just emerging talent",
+    "Affordable performance venues for independent creatives",
+    "We need space for deep, meaningful art\u2014not just entertainment"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for non-mainstream genres",
+    "insufficient grants for mid-career and legacy artists",
+    "lack of affordable performance venues"
+  ],
+  "solutions_proposed": [
+    "increase support for jazz, experimental, and multicultural arts",
+    "establish jazz residencies and listening rooms",
+    "create cross-disciplinary festivals blending music, film, dance, and spoken word",
+    "provide grants for mid-career and legacy artists",
+    "increase affordable performance venues for independent creatives",
+    "create space for deep, meaningful art"
+  ],
+  "cached_at": "2025-06-21T00:41:06.279347",
+  "cache_key": "b538cf70c3a8d3a91bf0a2fcbf777614c18d6d677d82d2f638b48a0358c971d7",
+  "model": "gpt-41"
+}

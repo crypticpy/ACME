@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational sustainability challenges",
+    "inadequate staffing and compensation",
+    "multi-role burden on staff",
+    "lack of sufficient city financial support",
+    "need for development and grant writing assistance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "number one challenge is sustainability",
+    "have not been able to grow sustainably",
+    "hire additional staff or even pay a livable wage",
+    "many orgs, who often employ one staff member who must wear multiple hats",
+    "including fundraising and donor development as well as program administration",
+    "if the city is unable to financially support these orgs then perhaps they could employ contracted development and grant writing teams"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustainable funding",
+    "inability to hire additional staff",
+    "inability to pay a livable wage",
+    "staff required to perform multiple roles",
+    "insufficient city financial support"
+  ],
+  "solutions_proposed": [
+    "city could employ contracted development and grant writing teams to assist organizations"
+  ],
+  "cached_at": "2025-06-21T01:24:03.014042",
+  "cache_key": "e584afb573c189265f33c43bf91e102915cef6c59d92401c1418bda3c7ece4ec",
+  "model": "gpt-41"
+}

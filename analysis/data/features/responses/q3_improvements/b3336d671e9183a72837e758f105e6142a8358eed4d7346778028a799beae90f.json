@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "application process complexity",
+    "lack of transparency in funding decisions",
+    "challenges faced by small organizations",
+    "grant writing burden"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "easier and clearer process for the applicants",
+    "better understanding on how they are being graded",
+    "overwhelming enough to try to keep the lights on",
+    "having to find help with grant writing when you are a small org"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex and unclear application process",
+    "lack of transparency in evaluation criteria",
+    "grant writing burden for small organizations"
+  ],
+  "solutions_proposed": [
+    "make the application process easier and clearer",
+    "provide better understanding of grading criteria"
+  ],
+  "cached_at": "2025-06-21T01:04:42.353629",
+  "cache_key": "b3336d671e9183a72837e758f105e6142a8358eed4d7346778028a799beae90f",
+  "model": "gpt-41"
+}

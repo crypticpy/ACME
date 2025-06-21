@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of transparency in grant process",
+    "grant evaluation criteria unrelated to artistic merit",
+    "perceived unfairness in prioritizing disadvantaged applicants",
+    "frustration with grant reviewers not engaging with submitted work"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "NO Transparency",
+    "questions you lost points were what part of Austin do you live in, do you have bank account",
+    "did you'll even listen to my music on the grant review I requested and the person said NO",
+    "they just wanted the poorest or more disadvantaged artist to get grants and that is Wrong"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Austin Music Grant"
+  ],
+  "barriers_identified": [
+    "grant criteria not based on artistic merit",
+    "reviewers not listening to submitted work",
+    "focus on applicants' economic status over talent"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:17.312918",
+  "cache_key": "dbc8916262e4d55086d54a0222d1ff9e4aaf8244d9df4f5e72829c8fbb849e41",
+  "model": "gpt-41"
+}

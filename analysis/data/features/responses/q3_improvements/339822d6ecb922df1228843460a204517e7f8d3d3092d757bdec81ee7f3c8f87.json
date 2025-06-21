@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach",
+    "engagement with creative cultural groups",
+    "support for organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Outreach to creative cultural groups / organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach to creative cultural groups and organizations"
+  ],
+  "solutions_proposed": [
+    "increase outreach to creative cultural groups and organizations"
+  ],
+  "cached_at": "2025-06-21T00:54:04.917783",
+  "cache_key": "339822d6ecb922df1228843460a204517e7f8d3d3092d757bdec81ee7f3c8f87",
+  "model": "gpt-41"
+}

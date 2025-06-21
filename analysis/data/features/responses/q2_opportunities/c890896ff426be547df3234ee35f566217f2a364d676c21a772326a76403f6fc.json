@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more art tours",
+    "interest in art fairs",
+    "support for community art projects"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More Art Tours",
+    "Art Fairs",
+    "More community art projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More Art Tours",
+    "More Art Fairs",
+    "More community art projects"
+  ],
+  "cached_at": "2025-06-21T00:44:02.821875",
+  "cache_key": "c890896ff426be547df3234ee35f566217f2a364d676c21a772326a76403f6fc",
+  "model": "gpt-41"
+}

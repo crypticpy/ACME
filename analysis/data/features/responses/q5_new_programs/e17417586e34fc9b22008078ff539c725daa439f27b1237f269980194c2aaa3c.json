@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art expansion",
+    "artist healthcare needs",
+    "affordable housing for artists",
+    "financial support for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "High level public art murals",
+    "Health care for visual artists",
+    "Subsidized housing for visual artists",
+    "Stipends for working artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of health care for visual artists",
+    "lack of subsidized housing for visual artists",
+    "lack of financial stipends for working artists"
+  ],
+  "solutions_proposed": [
+    "offer high level public art murals",
+    "provide health care for visual artists",
+    "provide subsidized housing for visual artists",
+    "provide stipends for working artists"
+  ],
+  "cached_at": "2025-06-21T02:01:13.292283",
+  "cache_key": "e17417586e34fc9b22008078ff539c725daa439f27b1237f269980194c2aaa3c",
+  "model": "gpt-41"
+}

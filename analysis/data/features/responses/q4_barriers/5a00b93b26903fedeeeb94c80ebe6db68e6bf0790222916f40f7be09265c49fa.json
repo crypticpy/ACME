@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "reference to previous response",
+    "lack of direct answer",
+    "survey navigation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "See answer to #21"
+  ],
+  "intent": "refer_to_previous_answer",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:56.903932",
+  "cache_key": "5a00b93b26903fedeeeb94c80ebe6db68e6bf0790222916f40f7be09265c49fa",
+  "model": "gpt-41"
+}

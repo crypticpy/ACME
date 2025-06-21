@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding eligible funding uses",
+    "support for individual creative projects",
+    "limitations of current funding focus"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "funding for projects that go beyond community/public programming",
+    "funding to release an album",
+    "funding to write and publish a book"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current funding restricted to community/public programming"
+  ],
+  "solutions_proposed": [
+    "expand funding eligibility to include projects like releasing an album or publishing a book"
+  ],
+  "cached_at": "2025-06-21T01:01:34.200008",
+  "cache_key": "ee5a209784f3c228dd28f83049de68a6366f0002a1b7af99841af4da1abd0354",
+  "model": "gpt-41"
+}

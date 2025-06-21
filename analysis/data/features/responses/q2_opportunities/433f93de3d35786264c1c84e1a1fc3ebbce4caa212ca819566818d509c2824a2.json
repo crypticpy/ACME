@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more cultural festivals",
+    "interest in cultural dance showcases",
+    "interest in cultural music showcases"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cultural festivals",
+    "cultural dance and music showcases"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More cultural festivals",
+    "More cultural dance and music showcases"
+  ],
+  "cached_at": "2025-06-21T00:51:33.596293",
+  "cache_key": "433f93de3d35786264c1c84e1a1fc3ebbce4caa212ca819566818d509c2824a2",
+  "model": "gpt-41"
+}

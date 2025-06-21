@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "peer-led workshops and trainings for collective action",
+    "continuation of transitional support for creative spaces",
+    "impact of affordability crisis on artists and venues",
+    "potential for universal basic income for artists",
+    "recognition of non-economic value of art"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "contract local experts to offer workshops or trainings for peers",
+    "foster more collective action and collaboration across the arts community",
+    "share the wealth of knowledge local arts folks have",
+    "Creative Space Assistance Program (still active?) has served an essential stopgap",
+    "help artistic venues survive amidst the city's affordability crisis",
+    "CSAP, or something like it, should continue to be implemented as a transitional measure",
+    "experiment with a UBI / basic income pilot program for artists",
+    "create the conditions for artists in which they have the time and space required to make deeply impactful art",
+    "cost of living . housing didn't require people to work multiple jobs to survive, or move out of the city limits, as now",
+    "recognizing the powerful *non-economic* value of art as a public good"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Creative Space Assistance Program",
+    "Rally Austin"
+  ],
+  "barriers_identified": [
+    "affordability crisis wrought by unfettered growth-hyperfocused economic development",
+    "cost of living and housing requiring people to work multiple jobs or move out of the city limits",
+    "lack of recognition of the non-economic value of art"
+  ],
+  "solutions_proposed": [
+    "city to contract local experts to offer workshops or trainings for peers",
+    "continue or replicate the Creative Space Assistance Program as a transitional measure",
+    "experiment with a UBI / basic income pilot program for artists",
+    "public support for artists recognizing the non-economic value of art"
+  ],
+  "cached_at": "2025-06-21T01:55:07.013088",
+  "cache_key": "73ab0172bb8ff90ecbaebfe91cc25f2290fc540b70bd1e9059c49ad9ef5015c8",
+  "model": "gpt-41"
+}

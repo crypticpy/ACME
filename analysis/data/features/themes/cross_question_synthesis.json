@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "synthesis_date": "2025-06-21T02:23:08.508969",
+    "questions_analyzed": 6,
+    "total_responses": 4268
+  },
+  "recurring_themes": {
+    "need for increased funding": {
+      "theme": "need for increased funding",
+      "question_count": 2,
+      "total_mentions": 43,
+      "question_ids": [
+        "q3_improvements",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.7099673202614379,
+      "sentiment_distribution": {
+        "negative": 8,
+        "neutral": 29,
+        "mixed": 3,
+        "positive": 3
+      }
+    },
+    "support for emerging artists": {
+      "theme": "support for emerging artists",
+      "question_count": 4,
+      "total_mentions": 35,
+      "question_ids": [
+        "q2_opportunities",
+        "q5_new_programs",
+        "q3_improvements",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.528125,
+      "sentiment_distribution": {
+        "positive": 22,
+        "negative": 3,
+        "mixed": 3,
+        "neutral": 7
+      }
+    },
+    "insufficient funding": {
+      "theme": "insufficient funding",
+      "question_count": 3,
+      "total_mentions": 34,
+      "question_ids": [
+        "q3_improvements",
+        "q4_barriers",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.9732905982905983,
+      "sentiment_distribution": {
+        "negative": 26,
+        "neutral": 8
+      }
+    },
+    "affordability of cultural events": {
+      "theme": "affordability of cultural events",
+      "question_count": 2,
+      "total_mentions": 21,
+      "question_ids": [
+        "q2_opportunities",
+        "q4_barriers"
+      ],
+      "average_urgency": 0.5681818181818181,
+      "sentiment_distribution": {
+        "positive": 5,
+        "neutral": 4,
+        "mixed": 1,
+        "negative": 11
+      }
+    },
+    "resource allocation": {
+      "theme": "resource allocation",
+      "question_count": 2,
+      "total_mentions": 19,
+      "question_ids": [
+        "q3_improvements",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.7755681818181819,
+      "sentiment_distribution": {
+        "neutral": 18,
+        "positive": 1
+      }
+    },
+    "community engagement": {
+      "theme": "community engagement",
+      "question_count": 3,
+      "total_mentions": 18,
+      "question_ids": [
+        "q6_feedback",
+        "q3_improvements",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.38333333333333336,
+      "sentiment_distribution": {
+        "positive": 8,
+        "neutral": 10
+      }
+    },
+    "support for local artists": {
+      "theme": "support for local artists",
+      "question_count": 2,
+      "total_mentions": 12,
+      "question_ids": [
+        "q2_opportunities",
+        "q6_feedback"
+      ],
+      "average_urgency": 0.45,
+      "sentiment_distribution": {
+        "negative": 1,
+        "positive": 9,
+        "mixed": 2
+      }
+    },
+    "networking opportunities": {
+      "theme": "networking opportunities",
+      "question_count": 2,
+      "total_mentions": 9,
+      "question_ids": [
+        "q5_new_programs",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.3875,
+      "sentiment_distribution": {
+        "neutral": 7,
+        "positive": 2
+      }
+    },
+    "need for increased outreach": {
+      "theme": "need for increased outreach",
+      "question_count": 2,
+      "total_mentions": 9,
+      "question_ids": [
+        "q3_improvements",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.625,
+      "sentiment_distribution": {
+        "neutral": 7,
+        "negative": 2
+      }
+    },
+    "artist compensation": {
+      "theme": "artist compensation",
+      "question_count": 2,
+      "total_mentions": 8,
+      "question_ids": [
+        "q5_new_programs",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.9166666666666667,
+      "sentiment_distribution": {
+        "negative": 5,
+        "neutral": 2,
+        "positive": 1
+      }
+    },
+    "lack of awareness of acme": {
+      "theme": "lack of awareness of acme",
+      "question_count": 2,
+      "total_mentions": 7,
+      "question_ids": [
+        "q5_new_programs",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.55,
+      "sentiment_distribution": {
+        "neutral": 6,
+        "negative": 1
+      }
+    },
+    "support for artists": {
+      "theme": "support for artists",
+      "question_count": 2,
+      "total_mentions": 7,
+      "question_ids": [
+        "q6_feedback",
+        "q5_new_programs"
+      ],
+      "average_urgency": 0.5625,
+      "sentiment_distribution": {
+        "neutral": 4,
+        "positive": 3
+      }
+    },
+    "financial support for artists": {
+      "theme": "financial support for artists",
+      "question_count": 2,
+      "total_mentions": 5,
+      "question_ids": [
+        "q5_new_programs",
+        "q1_org_support"
+      ],
+      "average_urgency": 0.7916666666666667,
+      "sentiment_distribution": {
+        "positive": 1,
+        "negative": 1,
+        "mixed": 1,
+        "neutral": 2
+      }
+    }
+  },
+  "stakeholder_perspectives": {
+    "organization": {
+      "total_responses": 557,
+      "questions_engaged": 6,
+      "top_concerns": [
+        {
+          "theme": "need for increased funding",
+          "mentions": 8
+        },
+        {
+          "theme": "insufficient funding",
+          "mentions": 5
+        },
+        {
+          "theme": "financial barriers to participation",
+          "mentions": 3
+        },
+        {
+          "theme": "support for organizations and leaders",
+          "mentions": 2
+        },
+        {
+          "theme": "community engagement",
+          "mentions": 2
+        },
+        {
+          "theme": "support for emerging artists",
+          "mentions": 2
+        },
+        {
+          "theme": "resource allocation",
+          "mentions": 2
+        },
+        {
+          "theme": "application process complexity",
+          "mentions": 2
+        },
+        {
+          "theme": "resource sharing",
+          "mentions": 1
+        },
+        {
+          "theme": "direct financial support",
+          "mentions": 1
+        }
+      ],
+      "engagement_rate": 100.0
+    },
+    "unknown": {
+      "total_responses": 1298,
+      "questions_engaged": 6,
+      "top_concerns": [
+        {
+          "theme": "need for increased funding",
+          "mentions": 17
+        },
+        {
+          "theme": "insufficient funding",
+          "mentions": 11
+        },
+        {
+          "theme": "support for emerging artists",
+          "mentions": 7
+        },
+        {
+          "theme": "resource allocation",
+          "mentions": 7
+        },
+        {
+          "theme": "financial barriers to participation",
+          "mentions": 7
+        },
+        {
+          "theme": "application process complexity",
+          "mentions": 5
+        },
+        {
+          "theme": "support for organizations and leaders",
+          "mentions": 4
+        },
+        {
+          "theme": "community engagement",
+          "mentions": 4
+        },
+        {
+          "theme": "equity in cultural funding",
+          "mentions": 3
+        },
+        {
+          "theme": "transportation barriers",
+          "mentions": 3
+        }
+      ],
+      "engagement_rate": 100.0
+    },
+    "resident": {
+      "total_responses": 1267,
+      "questions_engaged": 6,
+      "top_concerns": [
+        {
+          "theme": "support for emerging artists",
+          "mentions": 11
+        },
+        {
+          "theme": "affordability of cultural events",
+          "mentions": 10
+        },
+        {
+          "theme": "financial barriers to participation",
+          "mentions": 10
+        },
+        {
+          "theme": "desire for more dance opportunities",
+          "mentions": 7
+        },
+        {
+          "theme": "support for local artists",
+          "mentions": 7
+        },
+        {
+          "theme": "insufficient funding",
+          "mentions": 6
+        },
+        {
+          "theme": "affordability of cultural opportunities",
+          "mentions": 5
+        },
+        {
+          "theme": "interest in performing arts",
+          "mentions": 5
+        },
+        {
+          "theme": "transportation barriers",
+          "mentions": 5
+        },
+        {
+          "theme": "desire for more theater opportunities",
+          "mentions": 4
+        }
+      ],
+      "engagement_rate": 100.0
+    },
+    "artist": {
+      "total_responses": 1071,
+      "questions_engaged": 6,
+      "top_concerns": [
+        {
+          "theme": "need for increased funding",
+          "mentions": 9
+        },
+        {
+          "theme": "financial barriers to participation",
+          "mentions": 8
+        },
+        {
+          "theme": "support for emerging artists",
+          "mentions": 7
+        },
+        {
+          "theme": "insufficient funding",
+          "mentions": 7
+        },
+        {
+          "theme": "resource allocation",
+          "mentions": 4
+        },
+        {
+          "theme": "transportation barriers",
+          "mentions": 4
+        },
+        {
+          "theme": "affordability of cultural events",
+          "mentions": 3
+        },
+        {
+          "theme": "application process complexity",
+          "mentions": 3
+        },
+        {
+          "theme": "transportation challenges",
+          "mentions": 3
+        },
+        {
+          "theme": "financial barriers to access",
+          "mentions": 3
+        }
+      ],
+      "engagement_rate": 100.0
+    },
+    "business_owner": {
+      "total_responses": 19,
+      "questions_engaged": 6,
+      "top_concerns": [],
+      "engagement_rate": 100.0
+    },
+    "venue_operator": {
+      "total_responses": 30,
+      "questions_engaged": 6,
+      "top_concerns": [],
+      "engagement_rate": 100.0
+    },
+    "educator": {
+      "total_responses": 25,
+      "questions_engaged": 6,
+      "top_concerns": [],
+      "engagement_rate": 100.0
+    },
+    "funder": {
+      "total_responses": 1,
+      "questions_engaged": 1,
+      "top_concerns": [],
+      "engagement_rate": 16.666666666666664
+    }
+  },
+  "systemic_issues": [
+    {
+      "insight_type": "recurring_barrier",
+      "description": "Insufficient Funding identified as a persistent barrier across 3 questions",
+      "supporting_questions": [
+        "q3_improvements",
+        "q4_barriers",
+        "q1_org_support"
+      ],
+      "evidence_count": 34,
+      "confidence": 0.9,
+      "implications": [
+        "Affects 3 stakeholder groups",
+        "Mentioned 34 times across survey",
+        "Requires coordinated policy response"
+      ],
+      "affected_stakeholders": [
+        "organization",
+        "unknown",
+        "artist"
+      ],
+      "severity_score": 0.9732905982905983
+    }
+  ],
+  "sentiment_patterns": {
+    "overall_sentiment": {
+      "negative": 33.1302717900656,
+      "neutral": 30.24835988753515,
+      "positive": 26.522961574507963,
+      "mixed": 10.098406747891284
+    },
+    "total_responses_analyzed": 4268,
+    "outlier_questions": [
+      {
+        "question_id": "q4_barriers",
+        "question_text": "What barriers do you or your community face in accessing support or services related to arts, cultur...",
+        "negative_percentage": 86.78010471204189,
+        "difference": 53.64983292197629
+      }
+    ]
+  },
+  "strategic_insights": [
+    {
+      "insight": "Establish a sustainable, equity-focused funding model that prioritizes both the overall increase in available resources and addresses persistent underfunding. By tying funding allocations to clear equity metrics, the city can ensure that historically marginalized and emerging artists receive proportionate support, directly addressing the root cause of insufficient funding and resource allocation."
+    },
+    {
+      "insight": "Develop targeted grant and capacity-building programs specifically for emerging and local artists, with streamlined application processes and mentorship components. This systemic intervention will lower barriers to entry and ensure that new and diverse voices are supported, fostering a more inclusive and dynamic cultural ecosystem."
+    },
+    {
+      "insight": "Implement policies that require fair compensation standards for artists and cultural workers in all city-supported cultural initiatives. This addresses the root issue of undervaluation and underpayment, and ensures that creative professionals can sustainably contribute to Austin's cultural life."
+    },
+    {
+      "insight": "Create a citywide cultural affordability initiative, including subsidized ticketing, sliding-scale pricing, and free community events, to address the affordability barrier for both audiences and participants. This will expand access and engagement, particularly for low-income and underrepresented communities."
+    },
+    {
+      "insight": "Reform resource allocation processes to be more transparent and participatory, incorporating community input and data-driven equity assessments. This will build trust, ensure resources reach those most in need, and address systemic disparities in support."
+    },
+    {
+      "insight": "Expand outreach and networking infrastructure, such as city-sponsored networking events, artist directories, and digital platforms, to foster stronger connections among artists, organizations, and communities. This will address gaps in community engagement and professional development, especially for those with limited existing networks."
+    }
+  ]
+}

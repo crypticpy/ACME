@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "undervaluation and underfunding of street art",
+    "marginalization of talented artists and musicians",
+    "impact of social and community biases on artist recognition",
+    "vilification of artists due to irrelevant circumstances",
+    "disconnect between how marginalized experiences are treated in different platforms"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "street art in Austin...is grossly underrated underrepresented and under-funded",
+    "rich culture of artists of types as well as musicians who are incredibly talented and highly skilled yet are let to be unknown and unappreciated",
+    "current social and community biases",
+    "vilified due to circumstances that shouldn't have relevance to the talent and art being made",
+    "from a marginalized viewpoint of an artists personal experience in life, which in other platforms we reward"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrating and underfunding of street art",
+    "social and community biases against artists",
+    "vilification of artists due to irrelevant personal circumstances",
+    "lack of recognition for marginalized artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:59:03.145416",
+  "cache_key": "80493136dd49a5139a87bf06172a135006123038b48c8e82c77a74abc8a34bd8",
+  "model": "gpt-41"
+}

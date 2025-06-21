@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of independent film cinemas",
+    "decline of Alamo Drafthouse's cultural relevance",
+    "need for funding for small live music venues",
+    "desire to reclaim SXSW as a local independent festival",
+    "support for art centers for children in low income districts",
+    "focus on equity for District 2"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More independent film cinemas, there currently aren't any",
+    "Alamo lost its way many moons ago",
+    "Funding to small venues for live music",
+    "obtaining the rights for SXSW back to be a local independent music festival",
+    "Funding local art centers for children in low income districts, especially district2"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Alamo",
+    "SXSW"
+  ],
+  "barriers_identified": [
+    "absence of independent film cinemas",
+    "loss of local control over SXSW",
+    "insufficient funding for small venues",
+    "lack of resources for art centers in low income districts"
+  ],
+  "solutions_proposed": [
+    "create or support more independent film cinemas",
+    "provide funding to small venues for live music",
+    "obtain the rights for SXSW to return it to a local independent music festival",
+    "fund local art centers for children in low income districts, especially district2"
+  ],
+  "cached_at": "2025-06-21T00:40:48.623810",
+  "cache_key": "f6526c6bee35e1d3c05d776dd27d3b467a560b9894dadc5d88a751f06bd4086a",
+  "model": "gpt-41"
+}

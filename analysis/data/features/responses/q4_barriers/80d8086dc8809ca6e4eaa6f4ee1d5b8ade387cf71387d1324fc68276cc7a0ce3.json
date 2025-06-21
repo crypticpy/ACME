@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistent funding for cultural events",
+    "lack of affordable venues",
+    "underrepresentation of Filipino and AAPI communities",
+    "difficulty producing culturally relevant events",
+    "challenges reaching wider audiences"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "access to consistent funding and affordable venues",
+    "smaller and often underrepresented group",
+    "Filipino and broader AAPI community in Austin",
+    "struggles to secure the financial support needed",
+    "venue costs and availability make it difficult",
+    "host gatherings that reflect our traditions",
+    "reach a wider audience"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent funding",
+    "high venue costs",
+    "limited venue availability",
+    "underrepresentation of Filipino and AAPI communities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:22.299497",
+  "cache_key": "80d8086dc8809ca6e4eaa6f4ee1d5b8ade387cf71387d1324fc68276cc7a0ce3",
+  "model": "gpt-41"
+}

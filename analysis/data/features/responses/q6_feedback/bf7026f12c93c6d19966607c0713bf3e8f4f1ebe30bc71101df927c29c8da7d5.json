@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased local arts funding",
+    "decline in federal arts funding",
+    "municipal responsibility for arts support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "increasing local funding for the arts",
+    "Federal funding for the arts is shrinking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "shrinking federal funding for the arts"
+  ],
+  "solutions_proposed": [
+    "increase local funding for the arts"
+  ],
+  "cached_at": "2025-06-21T02:19:03.525553",
+  "cache_key": "bf7026f12c93c6d19966607c0713bf3e8f4f1ebe30bc71101df927c29c8da7d5",
+  "model": "gpt-41"
+}

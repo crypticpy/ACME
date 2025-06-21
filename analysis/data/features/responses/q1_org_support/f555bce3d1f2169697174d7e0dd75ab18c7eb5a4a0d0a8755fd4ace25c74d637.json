@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event hosting in public spaces",
+    "access to public venues",
+    "administrative or logistical barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "making it easier to host events in public spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty hosting events in public spaces"
+  ],
+  "solutions_proposed": [
+    "make it easier to host events in public spaces"
+  ],
+  "cached_at": "2025-06-20T10:37:15.395910",
+  "cache_key": "f555bce3d1f2169697174d7e0dd75ab18c7eb5a4a0d0a8755fd4ace25c74d637",
+  "model": "gpt-41"
+}

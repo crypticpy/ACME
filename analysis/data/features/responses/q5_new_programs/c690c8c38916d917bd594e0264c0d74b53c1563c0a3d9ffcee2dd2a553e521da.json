@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist economic sustainability",
+    "retention of creative professionals",
+    "perceived inadequacy of current support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "make Austin entertainment economy worth it for artists",
+    "continue to work in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient economic incentives for artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:57:03.685734",
+  "cache_key": "c690c8c38916d917bd594e0264c0d74b53c1563c0a3d9ffcee2dd2a553e521da",
+  "model": "gpt-41"
+}

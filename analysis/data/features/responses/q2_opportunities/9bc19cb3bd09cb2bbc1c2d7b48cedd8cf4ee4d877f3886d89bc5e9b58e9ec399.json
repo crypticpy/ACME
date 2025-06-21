@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for outdoor cultural events",
+    "interest in live music experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Outdoor concerts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More outdoor concerts"
+  ],
+  "cached_at": "2025-06-21T00:49:09.254321",
+  "cache_key": "9bc19cb3bd09cb2bbc1c2d7b48cedd8cf4ee4d877f3886d89bc5e9b58e9ec399",
+  "model": "gpt-41"
+}

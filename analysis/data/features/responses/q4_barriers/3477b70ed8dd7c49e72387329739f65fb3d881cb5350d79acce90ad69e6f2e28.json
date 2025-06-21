@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of available resources",
+    "perceived difficulty of grant applications",
+    "psychological barriers among creatives (self-worth, project value)",
+    "need for public information campaigns",
+    "barriers to entry for grant support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Lack of awareness is the main issue",
+    "perceived high barriers may be stopping people from actually applying",
+    "The phrase 'applying for grants' does not paint a picture of ease for most people",
+    "it would likely take a wide-scale public info campaign to address this barrier",
+    "creatives also struggle with not feeling like their projects are 'worth it' or 'enough' to pursue grants for",
+    "Lowering the perceived barrier to entry may be the most effective way of supporting creatives on all levels"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "City of Austin programs"
+  ],
+  "barriers_identified": [
+    "lack of awareness of resources",
+    "perceived high barriers to applying for grants",
+    "psychological barriers (self-doubt, project worthiness)"
+  ],
+  "solutions_proposed": [
+    "wide-scale public info campaign",
+    "lowering the perceived barrier to entry"
+  ],
+  "cached_at": "2025-06-21T01:33:29.311482",
+  "cache_key": "3477b70ed8dd7c49e72387329739f65fb3d881cb5350d79acce90ad69e6f2e28",
+  "model": "gpt-41"
+}

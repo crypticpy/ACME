@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for open air markets",
+    "interest in outdoor cultural experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Open Air Markets"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More open air markets"
+  ],
+  "cached_at": "2025-06-21T00:50:32.809431",
+  "cache_key": "0d768e782af5324b62259aed8ca8c36fbea3f9df5e5306193a2f20e4b3938e45",
+  "model": "gpt-41"
+}

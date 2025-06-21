@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for artists and creatives",
+    "collaboration with local farms",
+    "subsidized access to resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Subsidized CPA program",
+    "local farms",
+    "for artists and creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CPA program"
+  ],
+  "barriers_identified": [
+    "lack of subsidized access to local farm resources for artists and creatives"
+  ],
+  "solutions_proposed": [
+    "Subsidized CPA program with local farms for artists and creatives"
+  ],
+  "cached_at": "2025-06-21T01:58:45.377159",
+  "cache_key": "656ce1445cc1c3a723e84ac62309ae3db54aaf302766f7016fa68d35fdc0bdfa",
+  "model": "gpt-41"
+}

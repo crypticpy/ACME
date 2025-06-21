@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased theatre offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More theatre"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More theatre"
+  ],
+  "cached_at": "2025-06-21T00:29:43.276932",
+  "cache_key": "9e1de8656fefddfcd7c645f22e9110e0be060b580ba8511e3d2ed7f57ef4ec65",
+  "model": "gpt-41"
+}

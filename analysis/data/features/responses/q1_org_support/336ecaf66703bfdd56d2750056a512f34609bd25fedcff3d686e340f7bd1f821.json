@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased financial support",
+    "support for artistic venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more financial support",
+    "artistic venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient financial support for artistic venues"
+  ],
+  "solutions_proposed": [
+    "provide more financial support for artistic venues"
+  ],
+  "cached_at": "2025-06-20T10:39:12.608496",
+  "cache_key": "336ecaf66703bfdd56d2750056a512f34609bd25fedcff3d686e340f7bd1f821",
+  "model": "gpt-41"
+}

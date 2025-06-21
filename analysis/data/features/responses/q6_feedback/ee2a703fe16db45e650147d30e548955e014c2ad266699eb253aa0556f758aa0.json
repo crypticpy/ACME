@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for ACME's work",
+    "challenges of being an artist in Austin",
+    "artist displacement from Austin",
+    "struggles of remaining artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Thank you for all you do",
+    "Creating art in Austin is no small feat",
+    "high-level/established artists who have been forced to locate elsewhere",
+    "your work is essential to those of us still struggling it out in the trenches",
+    "THANK YOU!"
+  ],
+  "intent": "appreciation_expression",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "established artists forced to locate elsewhere",
+    "struggling to create art in Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:18:26.758011",
+  "cache_key": "ee2a703fe16db45e650147d30e548955e014c2ad266699eb253aa0556f758aa0",
+  "model": "gpt-41"
+}

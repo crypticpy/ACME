@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gentrification and its impact on affordability",
+    "influx of resources alongside displacement",
+    "loss of artist community and diversity",
+    "need for increased support for local artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "gentrification is very much at play",
+    "much needed resources coming into to improve quality of life",
+    "causing affordability issues",
+    "most diverse and was a hub for artists",
+    "more ways to assist local artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gentrification causing affordability issues",
+    "displacement of artists and diverse communities"
+  ],
+  "solutions_proposed": [
+    "more ways to assist local artists"
+  ],
+  "cached_at": "2025-06-21T01:48:06.561464",
+  "cache_key": "9d21ba31deafae5a5f9a53e08744f6a2812e3a0d0986342ab0ab6b5962e778f2",
+  "model": "gpt-41"
+}

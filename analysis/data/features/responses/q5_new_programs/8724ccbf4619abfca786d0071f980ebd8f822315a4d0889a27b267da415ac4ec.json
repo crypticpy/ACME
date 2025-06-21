@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "seed funding for new ensembles",
+    "support based on artistic merit",
+    "opportunities for emerging groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Seed funding for new ensembles",
+    "based on artistic merit"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of seed funding for new ensembles"
+  ],
+  "solutions_proposed": [
+    "Provide seed funding for new ensembles based on artistic merit"
+  ],
+  "cached_at": "2025-06-21T02:04:22.629959",
+  "cache_key": "8724ccbf4619abfca786d0071f980ebd8f822315a4d0889a27b267da415ac4ec",
+  "model": "gpt-41"
+}

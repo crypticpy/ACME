@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for young artists and creatives",
+    "need for financial aid/grants",
+    "investment in emerging talent",
+    "concern about focus on established organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Financial aid/grants for young artists and creatives",
+    "trying to put down roots in the community",
+    "invest in the future, not just established orgs and communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support for young artists",
+    "funding disproportionately directed to established organizations"
+  ],
+  "solutions_proposed": [
+    "offer financial aid/grants for young artists and creatives",
+    "invest in emerging talent rather than only established organizations"
+  ],
+  "cached_at": "2025-06-21T02:01:11.080265",
+  "cache_key": "631ee72ac286d91a49e4a83ff12b3d3793e2278d57be9065a00752c3fcad754d",
+  "model": "gpt-41"
+}

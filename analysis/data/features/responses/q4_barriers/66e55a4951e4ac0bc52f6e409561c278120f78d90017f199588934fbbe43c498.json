@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about available support",
+    "difficulty finding information",
+    "gatekeeping in access to resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of knowledge",
+    "unknown resources",
+    "gatekeepers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of knowledge",
+    "unknown resources",
+    "gatekeepers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:56.693954",
+  "cache_key": "66e55a4951e4ac0bc52f6e409561c278120f78d90017f199588934fbbe43c498",
+  "model": "gpt-41"
+}

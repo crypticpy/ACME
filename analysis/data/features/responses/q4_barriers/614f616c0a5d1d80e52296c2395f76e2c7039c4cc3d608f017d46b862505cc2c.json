@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of effective marketing options",
+    "insufficient venue availability",
+    "inadequate funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Effective marketing options",
+    "venue availability",
+    "funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of effective marketing options",
+    "limited venue availability",
+    "insufficient funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:22.509355",
+  "cache_key": "614f616c0a5d1d80e52296c2395f76e2c7039c4cc3d608f017d46b862505cc2c",
+  "model": "gpt-41"
+}

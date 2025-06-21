@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more educational opportunities",
+    "interest in workshops",
+    "interest in classes"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "workshops/classes/educational"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more workshops",
+    "more classes",
+    "more educational opportunities"
+  ],
+  "cached_at": "2025-06-21T00:37:26.809678",
+  "cache_key": "e361d20b06b97783a08bc5fed79855a42f58118cbeb2023d2669b7ff20028242",
+  "model": "gpt-41"
+}

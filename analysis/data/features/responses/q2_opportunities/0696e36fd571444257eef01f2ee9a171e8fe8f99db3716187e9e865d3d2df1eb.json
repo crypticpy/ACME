@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more TV arts opportunities",
+    "interest in film-related events or programming",
+    "support for mixed media arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "TV, film, and mixed media"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:42:35.908788",
+  "cache_key": "0696e36fd571444257eef01f2ee9a171e8fe8f99db3716187e9e865d3d2df1eb",
+  "model": "gpt-41"
+}

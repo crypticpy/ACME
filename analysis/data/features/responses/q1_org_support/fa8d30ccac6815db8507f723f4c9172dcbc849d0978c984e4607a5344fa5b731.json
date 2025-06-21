@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational consolidation",
+    "resource sharing",
+    "executive workforce pooling",
+    "grant competition among similar organizations",
+    "cost-saving strategies"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "help consolidate art organizations",
+    "limited funds",
+    "fractional executive level workforce",
+    "work across organizations",
+    "save money",
+    "limit the number of similar organizations going out for the same grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funds",
+    "similar organizations competing for the same grants"
+  ],
+  "solutions_proposed": [
+    "help consolidate art organizations",
+    "set up fractional executive level workforce to work across organizations"
+  ],
+  "cached_at": "2025-06-20T10:31:39.483273",
+  "cache_key": "fa8d30ccac6815db8507f723f4c9172dcbc849d0978c984e4607a5344fa5b731",
+  "model": "gpt-41"
+}

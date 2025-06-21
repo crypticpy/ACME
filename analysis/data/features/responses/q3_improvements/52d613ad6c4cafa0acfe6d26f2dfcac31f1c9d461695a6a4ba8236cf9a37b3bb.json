@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient outreach",
+    "lack of program visibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more widely advertised"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited awareness of programs"
+  ],
+  "solutions_proposed": [
+    "increase advertising"
+  ],
+  "cached_at": "2025-06-21T01:14:49.613878",
+  "cache_key": "52d613ad6c4cafa0acfe6d26f2dfcac31f1c9d461695a6a4ba8236cf9a37b3bb",
+  "model": "gpt-41"
+}

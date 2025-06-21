@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for free events",
+    "community-wide participation",
+    "accessibility of cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More free events",
+    "larger community participation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events",
+    "limited community participation"
+  ],
+  "solutions_proposed": [
+    "offer more free events",
+    "increase opportunities for broader community involvement"
+  ],
+  "cached_at": "2025-06-21T00:42:24.926426",
+  "cache_key": "1f298b7c2b345b31bd26789debf1b49269075a73d32919b2d243c1b0e30f2a30",
+  "model": "gpt-41"
+}

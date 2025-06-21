@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable funding distribution",
+    "recognition of legacy and new groups",
+    "inclusivity in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "funding be available to all groups",
+    "those who built Austin (20+ years or more)",
+    "new and upcoming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited funding access for certain groups"
+  ],
+  "solutions_proposed": [
+    "make funding available to both long-standing and new groups"
+  ],
+  "cached_at": "2025-06-21T02:12:36.369845",
+  "cache_key": "44da76bc119fb8f04f39093860340b822ea2b69025869bbc992ff62f18791846",
+  "model": "gpt-41"
+}

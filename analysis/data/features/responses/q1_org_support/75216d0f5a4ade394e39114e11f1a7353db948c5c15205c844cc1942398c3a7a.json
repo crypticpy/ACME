@@ -1,0 +1,41 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "education opportunities",
+    "access improvement",
+    "increased funding",
+    "networking opportunities",
+    "collaboration opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Education",
+    "access",
+    "funding",
+    "networking",
+    "collaboration opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of education",
+    "limited access",
+    "insufficient funding",
+    "lack of networking opportunities",
+    "lack of collaboration opportunities"
+  ],
+  "solutions_proposed": [
+    "provide education",
+    "improve access",
+    "increase funding",
+    "create networking opportunities",
+    "facilitate collaboration opportunities"
+  ],
+  "cached_at": "2025-06-20T10:41:12.302250",
+  "cache_key": "75216d0f5a4ade394e39114e11f1a7353db948c5c15205c844cc1942398c3a7a",
+  "model": "gpt-41"
+}

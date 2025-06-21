@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding cycle duration",
+    "frequency of funding opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "shorter funding cycle",
+    "more calls per year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "infrequent funding opportunities",
+    "long funding cycles"
+  ],
+  "solutions_proposed": [
+    "shorten funding cycle",
+    "increase number of calls per year"
+  ],
+  "cached_at": "2025-06-21T00:58:36.942335",
+  "cache_key": "26ac21b57898e81eb52afabad4e7783b7f9e11a2c74db07501461828133a2777",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "reference to previous detailed feedback",
+    "preparation for in-person engagement",
+    "conciseness and organization of input"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I've addressed this through my long answers",
+    "I'll try to have a concise list",
+    "bring with me to one of the public forums"
+  ],
+  "intent": "defer_feedback",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:08:38.050567",
+  "cache_key": "6305a44e24ad49a9a33179aba0bc64882ba79966e59cce302267b089d97315de",
+  "model": "gpt-41"
+}

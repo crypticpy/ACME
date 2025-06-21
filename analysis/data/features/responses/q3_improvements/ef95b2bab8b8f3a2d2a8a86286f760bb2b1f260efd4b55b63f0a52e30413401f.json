@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for new organizations",
+    "expansion of grant opportunities",
+    "access to funding for emerging groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more grants to new orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited grant access for new organizations"
+  ],
+  "solutions_proposed": [
+    "increase grants to new organizations"
+  ],
+  "cached_at": "2025-06-21T01:10:29.945903",
+  "cache_key": "ef95b2bab8b8f3a2d2a8a86286f760bb2b1f260efd4b55b63f0a52e30413401f",
+  "model": "gpt-41"
+}

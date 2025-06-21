@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of education about funding processes",
+    "difficulty identifying available resources",
+    "challenges in applying for funding",
+    "general accessibility issues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Education regarding the process of identifying available resources",
+    "how to apply for such funding",
+    "Accessibility"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of education about available resources",
+    "uncertainty about application processes",
+    "accessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:46.831298",
+  "cache_key": "121369425e126a6f0ba17e83a9c6358c2901a7d0f654ff698668b260fcf4a0b6",
+  "model": "gpt-41"
+}

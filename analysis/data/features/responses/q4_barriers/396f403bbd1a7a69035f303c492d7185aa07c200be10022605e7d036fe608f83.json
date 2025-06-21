@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "classism in cultural access",
+    "lack of diverse representation",
+    "systemic exclusion"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "classist lack of diverse voices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "classism",
+    "lack of diverse voices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:05.069262",
+  "cache_key": "396f403bbd1a7a69035f303c492d7185aa07c200be10022605e7d036fe608f83",
+  "model": "gpt-41"
+}

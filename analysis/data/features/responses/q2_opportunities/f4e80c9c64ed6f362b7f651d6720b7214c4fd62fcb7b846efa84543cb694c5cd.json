@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for Black leadership in cultural events",
+    "Representation of Black communities",
+    "Expansion of opportunities for Black artists and organizers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More Black led events",
+    "opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of Black led events and opportunities"
+  ],
+  "solutions_proposed": [
+    "Increase Black led events and opportunities"
+  ],
+  "cached_at": "2025-06-21T00:47:33.824059",
+  "cache_key": "f4e80c9c64ed6f362b7f651d6720b7214c4fd62fcb7b846efa84543cb694c5cd",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "review panel bias and lack of understanding",
+    "transparency in the review process",
+    "strictness and inflexibility of deadlines",
+    "technical issues with application submission",
+    "emotional impact of funding denial"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "A better informed panel of reviewers",
+    "reviewers on cable access discuss my project was infuriating",
+    "they really misrepresented and/or misunderstood what our projects were about",
+    "the reviewing panel had biases and simply made up things about our application",
+    "More transparency in the reviewing process",
+    "common sense leniency in deadlines",
+    "We were one minute late in submitting our Nexus application due to the site refreshing on us while applying and erasing our answers a few times",
+    "We were denied the ability to apply rather cruelly",
+    "panel deciding to enforce the letter of the law over the spirit of the law",
+    "It was very disheartening and crippled our theater for a few months"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "review panel bias and misunderstanding",
+    "lack of transparency in review process",
+    "strict enforcement of deadlines without leniency",
+    "technical issues with application portal"
+  ],
+  "solutions_proposed": [
+    "better informed panel of reviewers",
+    "more transparency in the reviewing process",
+    "common sense leniency in deadlines"
+  ],
+  "cached_at": "2025-06-21T01:02:41.964483",
+  "cache_key": "a6ea94a0c8f9b38533159f836ee72abbf02ae1d5e0a816a35254e45ab199cb9d",
+  "model": "gpt-41"
+}

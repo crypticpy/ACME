@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "support for logistical and backstage roles",
+    "recognition of support businesses in cultural sector",
+    "importance of marketing and documentation services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Additional Funding",
+    "businesses that coordinate, handle logistics, provide support staff",
+    "build staging, backdrops and props",
+    "do marketing, design, and other documenting/documentary style work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for support businesses"
+  ],
+  "solutions_proposed": [
+    "Provide additional funding, especially for businesses that coordinate, handle logistics, provide support staff, build staging, backdrops and props, and do marketing, design, and documentary work for other businesses"
+  ],
+  "cached_at": "2025-06-20T01:14:50.392144",
+  "cache_key": "f30227dd1ca3c3ffd11c24566cfe0d9c07a7d48e7d47b5fc4a58fa3a4f68d583",
+  "model": "gpt-41"
+}

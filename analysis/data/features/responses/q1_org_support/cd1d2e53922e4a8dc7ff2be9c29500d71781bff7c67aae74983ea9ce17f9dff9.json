@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "inconsistency in grant awarding",
+    "insufficient number of grants",
+    "grant amounts too low",
+    "funding not meeting cost-of-living",
+    "artists unable to pay themselves adequately"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "awarded in a very odd manner",
+    "doesn't appear to be consistent at all",
+    "there aren't enough grants",
+    "grants of $5k is kind of ridiculously low",
+    "after taxes, the artist has very little budget",
+    "city-funded art programs and awards pay below the cost-of-living"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent grant awarding",
+    "insufficient grant availability",
+    "grant amounts too low to cover costs",
+    "funding below city cost-of-living"
+  ],
+  "solutions_proposed": [
+    "increase number of grants",
+    "increase grant amounts to meet cost-of-living"
+  ],
+  "cached_at": "2025-06-20T10:30:37.872193",
+  "cache_key": "cd1d2e53922e4a8dc7ff2be9c29500d71781bff7c67aae74983ea9ce17f9dff9",
+  "model": "gpt-41"
+}

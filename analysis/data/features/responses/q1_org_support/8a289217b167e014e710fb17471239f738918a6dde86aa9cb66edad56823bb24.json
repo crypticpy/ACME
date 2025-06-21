@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "targeted outreach for diverse talent",
+    "conflict of interest in funding eligibility",
+    "support for historically disinvested communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "keep finding diverse talent by targeted outreach",
+    "stop allowing people on art and music commissions to be able to apply for funding",
+    "keep seeking talent that is historically disinvested"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "conflict of interest for commission members applying for funding",
+    "lack of outreach to historically disinvested talent"
+  ],
+  "solutions_proposed": [
+    "targeted outreach to find diverse talent",
+    "prohibit commission members from applying for funding",
+    "actively seek talent from historically disinvested communities"
+  ],
+  "cached_at": "2025-06-20T01:18:37.741299",
+  "cache_key": "8a289217b167e014e710fb17471239f738918a6dde86aa9cb66edad56823bb24",
+  "model": "gpt-41"
+}

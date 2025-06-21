@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for diverse ethnicities",
+    "inclusion of underrepresented groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Making it accessible to diverse ethnicities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility for diverse ethnicities"
+  ],
+  "solutions_proposed": [
+    "make it accessible to diverse ethnicities"
+  ],
+  "cached_at": "2025-06-20T10:44:02.684547",
+  "cache_key": "0c2f3798faa5b61a7373022adabee37cdfdf64eb0e0a63aabb2e7faaa414a8bc",
+  "model": "gpt-41"
+}

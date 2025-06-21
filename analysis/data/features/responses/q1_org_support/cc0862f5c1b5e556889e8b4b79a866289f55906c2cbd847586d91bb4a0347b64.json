@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for cultural preservation agents",
+    "community education about funding",
+    "culturally relevant approaches"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "promote the participation of agents that preserve different cultures",
+    "educating communities about the funding opportunities",
+    "provide cultural relevant approaches"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community education about funding opportunities",
+    "absence of culturally relevant approaches"
+  ],
+  "solutions_proposed": [
+    "educate communities about the funding opportunities",
+    "provide culturally relevant approaches"
+  ],
+  "cached_at": "2025-06-20T10:35:07.278031",
+  "cache_key": "cc0862f5c1b5e556889e8b4b79a866289f55906c2cbd847586d91bb4a0347b64",
+  "model": "gpt-41"
+}

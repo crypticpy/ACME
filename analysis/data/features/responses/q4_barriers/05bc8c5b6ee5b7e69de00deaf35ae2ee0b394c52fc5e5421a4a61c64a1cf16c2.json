@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "loss of financial support",
+    "grant funding withdrawal",
+    "barriers to accessing cultural resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Pulled grant funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Pulled grant funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:14.785492",
+  "cache_key": "05bc8c5b6ee5b7e69de00deaf35ae2ee0b394c52fc5e5421a4a61c64a1cf16c2",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived unfairness and bias in grant distribution",
+    "outsourcing of grant management to external organizations",
+    "need for broader local resident access to grants",
+    "role of intermediary organizations in connecting creative people and audiences"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "unfair/biased grant issuing policies",
+    "Outsourcing grants to the Long Center was a big mistake",
+    "Grants should go to as many local residents as possible",
+    "aCME could bring the needs of the creative people together with the needs of the arts consumers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center",
+    "aCME"
+  ],
+  "barriers_identified": [
+    "unfair/biased grant issuing policies",
+    "outsourcing grants to the Long Center"
+  ],
+  "solutions_proposed": [
+    "Grants should go to as many local residents as possible",
+    "aCME could bring the needs of the creative people together with the needs of the arts consumers"
+  ],
+  "cached_at": "2025-06-21T01:04:05.184121",
+  "cache_key": "a12debf439426e91c6b6adb12793755ce9a19de228556128413283febd0fc006",
+  "model": "gpt-41"
+}

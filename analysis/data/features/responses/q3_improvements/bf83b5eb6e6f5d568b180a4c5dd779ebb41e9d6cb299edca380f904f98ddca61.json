@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased publicity and outreach",
+    "visibility of grant recipients",
+    "expanding program reach through communication",
+    "uncertainty about grant distribution models"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "get the word out",
+    "Publicize winners",
+    "show their work",
+    "I'm not in a position to know if more grants for less money makes sense but it would extend the reach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of cultural funding programs and recipients"
+  ],
+  "solutions_proposed": [
+    "increase publicity and outreach",
+    "publicize winners",
+    "show recipients' work"
+  ],
+  "cached_at": "2025-06-21T01:08:59.303753",
+  "cache_key": "bf83b5eb6e6f5d568b180a4c5dd779ebb41e9d6cb299edca380f904f98ddca61",
+  "model": "gpt-41"
+}

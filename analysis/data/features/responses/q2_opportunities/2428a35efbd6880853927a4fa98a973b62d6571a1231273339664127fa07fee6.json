@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Indigenous cultural representation",
+    "Local history and heritage",
+    "Opportunities for cultural education"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Culture of the Indigenous people",
+    "once lived along the rivers of Travis County/Austin, Texas",
+    "opportunities to know more about their culture and art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More opportunities to know about Indigenous culture and art"
+  ],
+  "cached_at": "2025-06-21T00:26:39.380678",
+  "cache_key": "2428a35efbd6880853927a4fa98a973b62d6571a1231273339664127fa07fee6",
+  "model": "gpt-41"
+}

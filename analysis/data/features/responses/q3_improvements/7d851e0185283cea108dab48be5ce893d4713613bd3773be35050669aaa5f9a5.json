@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for transparent and well-defined evaluation criteria",
+    "importance of panelist representation and expertise",
+    "timeliness and predictability of funding processes",
+    "barriers faced by underrepresented artists and organizations",
+    "trust and cashflow challenges for marginalized communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "well-informed questions that consider artistic merit and value to the community",
+    "transparent rubrics/criteria",
+    "informed and attentive panelists who are representative of the communities who are applying",
+    "timeliness of award announcement and payouts",
+    "underrepresented artists, orgs, and communities often don't have the cashflow or established trust with the city",
+    "predictable/dependable times of year that opportunities open"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of timely award announcements and payouts",
+    "underrepresented artists, orgs, and communities lacking cashflow",
+    "lack of established trust with the city",
+    "unpredictable timing of funding opportunities"
+  ],
+  "solutions_proposed": [
+    "use well-informed questions that consider artistic merit and community value",
+    "implement transparent rubrics/criteria",
+    "ensure panelists are informed, attentive, and representative of applicant communities",
+    "announce awards and provide payouts in a timely manner",
+    "establish predictable and dependable times of year for funding opportunities"
+  ],
+  "cached_at": "2025-06-21T01:08:19.418937",
+  "cache_key": "7d851e0185283cea108dab48be5ce893d4713613bd3773be35050669aaa5f9a5",
+  "model": "gpt-41"
+}

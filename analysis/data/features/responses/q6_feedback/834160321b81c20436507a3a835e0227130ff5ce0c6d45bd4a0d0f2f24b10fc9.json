@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of direct impact for creatives on policy",
+    "Governance issues and personal agendas within boards/commissions",
+    "Value and effectiveness of foundational support programs",
+    "Challenges faced by working creatives",
+    "Recognition of both problems and strengths in Austin's creative sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "The power to have direct impact",
+    "chased off when I mentioned serious acoustic problems",
+    "very little impact on policy",
+    "brazen attempts to use it for personal agendas",
+    "difficult to see some these problems",
+    "HAAM, SIMMs, Sonic Guild, and city grants are all an exceptionally great foundation",
+    "We have problems, but we have great strengths to build on"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "HAAM",
+    "SIMMs",
+    "Sonic Guild",
+    "city grants"
+  ],
+  "barriers_identified": [
+    "Lack of direct impact for creatives on policy",
+    "Personal agendas undermining board/commission effectiveness",
+    "Dismissal or marginalization of concerns (e.g., acoustic problems)"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:55.185368",
+  "cache_key": "834160321b81c20436507a3a835e0227130ff5ce0c6d45bd4a0d0f2f24b10fc9",
+  "model": "gpt-41"
+}

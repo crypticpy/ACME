@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more museums",
+    "interest in theater opportunities",
+    "comparison to New York City cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Museums like in NYC",
+    "theathers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase museums similar to those in NYC",
+    "Expand theater opportunities"
+  ],
+  "cached_at": "2025-06-21T00:34:17.362132",
+  "cache_key": "3662ae171434b18ea3539cc5c2627ec8761bc18d5638ea8d6d5c940c97d51fc0",
+  "model": "gpt-41"
+}

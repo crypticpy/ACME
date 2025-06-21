@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more visual arts opportunities",
+    "support for arts serving under-represented communities",
+    "interest in video game development as cultural arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Visual arts",
+    "arts for under-represented communities",
+    "video games development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more visual arts opportunities",
+    "more arts opportunities for under-represented communities",
+    "more video games development opportunities"
+  ],
+  "cached_at": "2025-06-21T00:31:11.032734",
+  "cache_key": "4ac3febfc44f425a219f2a2243e7ca44d19c0ff78e53b7d80bd8c5f4e000a059",
+  "model": "gpt-41"
+}

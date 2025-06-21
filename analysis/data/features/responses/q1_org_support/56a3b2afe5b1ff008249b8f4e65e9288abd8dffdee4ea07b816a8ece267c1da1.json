@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient spaces for art and music",
+    "need for future-oriented cultural planning",
+    "importance of resource stewardship",
+    "fiscal responsibility in cultural initiatives",
+    "desire for continuous, measurable results"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "spaces to curate and showcase art and music is lacking",
+    "not a city moving into the future in this arena",
+    "needs reimagining",
+    "assist with stewarding and executing the resulting plan",
+    "mindful of resources",
+    "staying fiscally sound",
+    "delivering continuous results"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces to curate and showcase art and music"
+  ],
+  "solutions_proposed": [
+    "reimagining the city's approach to art and music spaces",
+    "ACME assisting with stewardship and execution of a new plan",
+    "being mindful of resources",
+    "staying fiscally sound",
+    "delivering continuous results"
+  ],
+  "cached_at": "2025-06-20T10:43:55.625319",
+  "cache_key": "56a3b2afe5b1ff008249b8f4e65e9288abd8dffdee4ea07b816a8ece267c1da1",
+  "model": "gpt-41"
+}

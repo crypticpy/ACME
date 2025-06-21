@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased monetary support",
+    "facilitating connections between artists and businesses",
+    "affordable rent for artists and organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Monetary support",
+    "facilitating and connecting artists with businesses and organizations that need those services",
+    "keeping rent low"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of monetary support",
+    "difficulty connecting with businesses and organizations",
+    "high rent"
+  ],
+  "solutions_proposed": [
+    "provide monetary support",
+    "facilitate connections between artists and businesses/organizations",
+    "keep rent low"
+  ],
+  "cached_at": "2025-06-20T10:42:28.403314",
+  "cache_key": "e6bdd5df25de33dedb8cb9e44d2b4cbe6370e26014867414918b40b132875d5d",
+  "model": "gpt-41"
+}

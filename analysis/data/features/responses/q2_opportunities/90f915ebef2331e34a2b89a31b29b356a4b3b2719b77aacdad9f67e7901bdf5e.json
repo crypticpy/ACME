@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for film",
+    "support for film sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Increased funding for film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increased funding for film"
+  ],
+  "cached_at": "2025-06-21T00:48:41.360922",
+  "cache_key": "90f915ebef2331e34a2b89a31b29b356a4b3b2719b77aacdad9f67e7901bdf5e",
+  "model": "gpt-41"
+}

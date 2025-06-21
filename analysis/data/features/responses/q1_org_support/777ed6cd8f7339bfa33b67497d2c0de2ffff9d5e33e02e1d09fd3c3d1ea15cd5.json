@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "property tax burden on artists and organizations",
+    "need for financial stability for cultural leaders",
+    "administrative complexity due to funding structures",
+    "government's role in financial challenges",
+    "urgency of support in the context of technological change (A.I. era)",
+    "attracting and retaining responsible creators"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Offer a property tax rebate for home and studio-owning organizations and leaders",
+    "create massive stability",
+    "an unnecessary complexity and massive distraction from creation",
+    "all purely to keep vital funds that the government is taking",
+    "We need a tax exemption/rebate program for artists",
+    "You can save the art movement in Austin without spending a dollar",
+    "They need this stability and agility going into the agentic A.I. era",
+    "select for stable and responsible creators and orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "property tax burden",
+    "administrative complexity of maintaining sister non-profits",
+    "distraction from creative work due to financial structures"
+  ],
+  "solutions_proposed": [
+    "property tax rebate or exemption for artists and organizations",
+    "tax exemption/rebate program for artists"
+  ],
+  "cached_at": "2025-06-20T01:17:29.793630",
+  "cache_key": "777ed6cd8f7339bfa33b67497d2c0de2ffff9d5e33e02e1d09fd3c3d1ea15cd5",
+  "model": "gpt-41"
+}

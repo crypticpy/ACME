@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "multidisciplinary collaboration",
+    "breaking down institutional silos",
+    "diversity, equity, and inclusion (DEI)",
+    "connection between art and democracy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "support multidisciplinary collaboration",
+    "disruption of the siloing",
+    "DEI is essential",
+    "for art and democracy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "siloing that can happen with arts and culture institutions"
+  ],
+  "solutions_proposed": [
+    "support multidisciplinary collaboration",
+    "disruption of the siloing",
+    "prioritize DEI"
+  ],
+  "cached_at": "2025-06-21T02:05:29.242073",
+  "cache_key": "248efc8a83f1abb04984072812f4480b1041dc4ffe22e1110033bccba93b3c0c",
+  "model": "gpt-41"
+}

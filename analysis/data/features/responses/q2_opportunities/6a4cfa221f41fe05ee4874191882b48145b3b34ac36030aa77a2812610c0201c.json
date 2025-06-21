@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived sufficiency of arts and entertainment options",
+    "cost of living as a barrier for creatives",
+    "lack of perceived gaps in offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin has a wide variety of arts and entertainment options",
+    "the cost of living can be prohibitive for many creative types",
+    "I don't personally see any big gaps in arts and entertainment"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living can be prohibitive for many creative types"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:27:33.507129",
+  "cache_key": "6a4cfa221f41fe05ee4874191882b48145b3b34ac36030aa77a2812610c0201c",
+  "model": "gpt-41"
+}

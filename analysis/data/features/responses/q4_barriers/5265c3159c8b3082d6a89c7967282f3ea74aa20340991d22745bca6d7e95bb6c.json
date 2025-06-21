@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inequitable access to funding",
+    "administrative capacity challenges for small organizations",
+    "lack of affordable performance and rehearsal spaces",
+    "transportation barriers for youth",
+    "limited visibility for culturally rooted programs",
+    "difficulties sustaining and growing programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "equitable access to funding and resources",
+    "lack the administrative capacity to compete for major grants",
+    "lack of affordable performance and rehearsal spaces",
+    "transportation challenges for youth",
+    "limited visibility for culturally rooted programs",
+    "serve underserved communities",
+    "harder to grow, sustain programming, and reach the students who need it most"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inequitable access to funding and resources",
+    "insufficient administrative capacity for small organizations",
+    "lack of affordable performance and rehearsal spaces",
+    "transportation challenges for youth",
+    "limited visibility for culturally rooted programs serving underserved communities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:29.374650",
+  "cache_key": "5265c3159c8b3082d6a89c7967282f3ea74aa20340991d22745bca6d7e95bb6c",
+  "model": "gpt-41"
+}

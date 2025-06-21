@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more literary events",
+    "interest in poetry readings",
+    "need for workshops and panels",
+    "programming for children"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Literary events",
+    "more poetry readings",
+    "workshops",
+    "panels",
+    "kids series"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more poetry readings",
+    "more workshops",
+    "more panels",
+    "more kids series"
+  ],
+  "cached_at": "2025-06-21T00:42:51.926593",
+  "cache_key": "941ddccec3fe4cf9c8a18cb70555d35d0aac6839894effdd71c4e4bfc69ff4d3",
+  "model": "gpt-41"
+}

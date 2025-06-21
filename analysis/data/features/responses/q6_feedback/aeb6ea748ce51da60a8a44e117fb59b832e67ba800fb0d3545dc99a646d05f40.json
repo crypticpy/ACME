@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping in the arts",
+    "lack of global art perspectives",
+    "need for integration of visual art in daily life",
+    "arts community isolation",
+    "importance of public art discourse"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "there is a still a level of gatekeeping within the arts",
+    "limit global art perspectives",
+    "better integration of visual art in daily life",
+    "all people are open to exploring the unique dynamics",
+    "we need to talk about art more",
+    "arts community is siloed off",
+    "may not be well integrated into daily life"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping within the arts",
+    "lack of integration of arts into daily life",
+    "arts community being siloed"
+  ],
+  "solutions_proposed": [
+    "better integration of visual art in daily life",
+    "talk about art more"
+  ],
+  "cached_at": "2025-06-21T02:11:20.976906",
+  "cache_key": "aeb6ea748ce51da60a8a44e117fb59b832e67ba800fb0d3545dc99a646d05f40",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "demand for increased public funding",
+    "expectation of tax revenue allocation",
+    "support for cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin needs to fund these opportunities",
+    "We pay a lot in taxes",
+    "those dollar should fund cultural experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient public funding for cultural experiences"
+  ],
+  "solutions_proposed": [
+    "allocate tax dollars to fund cultural experiences"
+  ],
+  "cached_at": "2025-06-20T10:29:18.552243",
+  "cache_key": "a09c07ccc71d985a40a761d6bb5bb3f1fdceaca86a9b71c11b11b0e08aa29f9a",
+  "model": "gpt-41"
+}

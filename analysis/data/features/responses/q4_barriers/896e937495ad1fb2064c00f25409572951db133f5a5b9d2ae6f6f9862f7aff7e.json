@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical accessibility challenges",
+    "mobility device accommodation",
+    "parking proximity to venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Accessibility for people on walkers, wheelchairs, canes",
+    "where parking is concerned in relation to the venue"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible parking near venues",
+    "difficulty accessing venues for people using walkers, wheelchairs, or canes"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:43.811231",
+  "cache_key": "896e937495ad1fb2064c00f25409572951db133f5a5b9d2ae6f6f9862f7aff7e",
+  "model": "gpt-41"
+}

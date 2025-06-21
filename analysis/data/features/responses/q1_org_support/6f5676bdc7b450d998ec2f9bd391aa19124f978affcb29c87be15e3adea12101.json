@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "promotion of organizations and leaders",
+    "incentivizing business engagement",
+    "support for local talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Promoting them",
+    "giving incentives to businesses",
+    "hiring local talent"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Promoting organizations and cultural leaders",
+    "Giving incentives to businesses for hiring local talent"
+  ],
+  "cached_at": "2025-06-20T10:39:02.958730",
+  "cache_key": "6f5676bdc7b450d998ec2f9bd391aa19124f978affcb29c87be15e3adea12101",
+  "model": "gpt-41"
+}

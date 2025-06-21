@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "musician access to downtown/east Austin",
+    "parking challenges for musicians",
+    "public transit connectivity between Manor, east Austin, and downtown"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "reserved/musician permit parking throughout downtown and east Austin",
+    "public transit initiative to connect Manor to east Austin and downtown",
+    "red line train"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of reserved parking for musicians",
+    "insufficient public transit connectivity between Manor, east Austin, and downtown"
+  ],
+  "solutions_proposed": [
+    "initiative to bring reserved/musician permit parking throughout downtown and east Austin",
+    "public transit initiative to connect Manor to east Austin and downtown with the red line train"
+  ],
+  "cached_at": "2025-06-21T02:13:43.789011",
+  "cache_key": "e30634bdf3c97e4cb998d49d5319a23e52414820bbbd448fca7f8f4bb6dcb5ef",
+  "model": "gpt-41"
+}

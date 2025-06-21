@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "early arts exposure in schools",
+    "career awareness in the arts",
+    "financial insecurity in art careers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Get artists out to K-6 schools!",
+    "Show kids opportunities and options in the art world.",
+    "I loved art but chose architecture because of the financial uncertainty"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial uncertainty in art careers",
+    "lack of exposure to art opportunities for young students"
+  ],
+  "solutions_proposed": [
+    "Get artists out to K-6 schools",
+    "Show kids opportunities and options in the art world"
+  ],
+  "cached_at": "2025-06-21T02:03:38.254704",
+  "cache_key": "8b3f87f8cf83a0bc93e37d40e46c72cd7bdb5c9cae215139d0f64ed51f186247",
+  "model": "gpt-41"
+}

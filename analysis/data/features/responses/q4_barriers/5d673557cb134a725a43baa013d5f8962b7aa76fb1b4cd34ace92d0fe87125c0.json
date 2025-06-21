@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of awareness of opportunities",
+    "difficulty understanding support/services",
+    "challenges in application processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "knowing about it",
+    "understanding it",
+    "applying for it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about support/services",
+    "difficulty understanding available support/services",
+    "complexity or difficulty in applying for support/services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:29.755520",
+  "cache_key": "5d673557cb134a725a43baa013d5f8962b7aa76fb1b4cd34ace92d0fe87125c0",
+  "model": "gpt-41"
+}

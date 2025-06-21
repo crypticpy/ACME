@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "communication with organizations",
+    "communication with artists",
+    "transparency",
+    "consistency"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "clear, transparent and consistent communication",
+    "with orgs and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear, transparent and consistent communication"
+  ],
+  "solutions_proposed": [
+    "clear, transparent and consistent communication with orgs and artists"
+  ],
+  "cached_at": "2025-06-20T10:35:00.442781",
+  "cache_key": "616bcba08d13abe190df363ec5623b1240a58aa0a8ce34ab5bf265a1ed90b887",
+  "model": "gpt-41"
+}

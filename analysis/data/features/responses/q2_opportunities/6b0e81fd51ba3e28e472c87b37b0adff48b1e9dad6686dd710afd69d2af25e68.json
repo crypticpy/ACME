@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "geographic inequity in cultural events",
+    "lack of access for communities of color",
+    "desire for park-based entertainment",
+    "need for event distribution outside central Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more entertainment in local parks in other districts",
+    "other than central Austin",
+    "south Austin where is predominantly brown and black should have more access",
+    "events like blues on the green or movies in the park"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "blues on the green",
+    "movies in the park"
+  ],
+  "barriers_identified": [
+    "limited access to events in south Austin",
+    "concentration of events in central Austin",
+    "lack of cultural programming in predominantly brown and black neighborhoods"
+  ],
+  "solutions_proposed": [
+    "increase entertainment in local parks in districts outside central Austin",
+    "provide events like 'blues on the green' or 'movies in the park' in south Austin"
+  ],
+  "cached_at": "2025-06-21T00:29:48.635184",
+  "cache_key": "6b0e81fd51ba3e28e472c87b37b0adff48b1e9dad6686dd710afd69d2af25e68",
+  "model": "gpt-41"
+}

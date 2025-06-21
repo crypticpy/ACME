@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Frustration with unimplemented planning processes",
+    "Declining City Council support for the arts",
+    "Threats to preservation of bed tax funds",
+    "Long-term instability of arts funding",
+    "Potential collapse of the cultural ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "tapped to participate in visioning the future",
+    "plan that gets placed in a drawer and never used",
+    "Don't waste our time if you can't deliver",
+    "City Council is less supportive of the arts now than I've seen in my 44 years working in the arts in Austin",
+    "preservation of bed tax funds to support the arts",
+    "under constant siege for 25 years",
+    "If it goes away, we will see the cultural ecosystem take a nosedive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of follow-through on planning processes",
+    "Decreasing political support from City Council",
+    "Threat to dedicated arts funding (bed tax funds)"
+  ],
+  "solutions_proposed": [
+    "Preserve bed tax funds to support the arts"
+  ],
+  "cached_at": "2025-06-21T02:10:41.453174",
+  "cache_key": "647a8c7fd1d1c4558ddd130bebb56c07cd36a1fa03be3f60a71e2cf35b0829db",
+  "model": "gpt-41"
+}

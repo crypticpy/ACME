@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty navigating city requirements",
+    "support for public event organization",
+    "need for guidance or assistance services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "navigating all the city's requirements",
+    "public events",
+    "for an organization"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of city requirements for public events"
+  ],
+  "solutions_proposed": [
+    "help navigating all the city's requirements for public events for an organization"
+  ],
+  "cached_at": "2025-06-21T02:07:54.472826",
+  "cache_key": "32f12ecfdb65e41078a38fe9e2ff5935f0bb5377323b4e9ea43d4b6d9aa1d8cb",
+  "model": "gpt-41"
+}

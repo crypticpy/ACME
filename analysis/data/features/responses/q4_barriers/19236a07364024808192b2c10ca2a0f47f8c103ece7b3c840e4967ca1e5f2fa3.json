@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived bias in funding process",
+    "Exclusion of cultural organizations",
+    "Barriers to facility access at Asian American Resource Center",
+    "Gatekeeping by staff and reviewers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Current funding process and policies are aimed to fund organizations that looks appealing to ACME employees and their own selected reviewers",
+    "With current structure and setup it is impossible for actual Cultural organizations get funding or even weekly rental at Asian American Resource Center",
+    "AARC staff consistently decline requests for SAturday weekly rental requests for Cultural events",
+    "Just reality and facts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Asian American Resource Center"
+  ],
+  "barriers_identified": [
+    "Funding process favors organizations appealing to ACME employees and reviewers",
+    "Cultural organizations unable to obtain funding",
+    "Cultural organizations unable to secure weekly rental at Asian American Resource Center",
+    "AARC staff consistently decline Saturday rental requests for cultural events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:59.539596",
+  "cache_key": "19236a07364024808192b2c10ca2a0f47f8c103ece7b3c840e4967ca1e5f2fa3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for education on engaging with philanthropists",
+    "desire for networking opportunities with funders",
+    "clarification of expectations around fundraising support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "programs really teach how to engage with philanthropists",
+    "introduce to philanthropists",
+    "Would not expect 'fundraising done for you'",
+    "introductions would be amazing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to philanthropists",
+    "insufficient guidance on engaging with funders"
+  ],
+  "solutions_proposed": [
+    "programs should teach how to engage with philanthropists",
+    "programs should introduce participants to philanthropists"
+  ],
+  "cached_at": "2025-06-21T01:17:51.283859",
+  "cache_key": "a1d261b99bb292d653e91cd46a1e216a5e7e1d910a0dd3c7cd4288912801a3c7",
+  "model": "gpt-41"
+}

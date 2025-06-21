@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of transparency in grant decisions",
+    "need for improved communication about funding rejections"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more clarity on why grants are NOT given"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear reasons for grant rejection"
+  ],
+  "solutions_proposed": [
+    "provide more clarity on why grants are not given"
+  ],
+  "cached_at": "2025-06-21T02:19:11.459883",
+  "cache_key": "7119395ae15b49d4100f7ff6f530fe833d94c33595cc2ef44c65ac8c324b944c",
+  "model": "gpt-41"
+}

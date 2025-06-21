@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for Persian cultural representation",
+    "interest in multicultural holiday celebrations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Persian holidays"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more Persian holiday celebrations"
+  ],
+  "cached_at": "2025-06-21T00:52:43.678690",
+  "cache_key": "bc4cfc6e38da38f882c985845ecfc56533c840758f1a06a7652f4840f7e45207",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "grant accessibility",
+    "grant awareness",
+    "event quality"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "make grants more available",
+    "widely known",
+    "support cooler events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited grant availability",
+    "lack of awareness about grants"
+  ],
+  "solutions_proposed": [
+    "make grants more available",
+    "make grants more widely known",
+    "support cooler events"
+  ],
+  "cached_at": "2025-06-20T01:21:02.621506",
+  "cache_key": "e6175b1bb2932ed0d27522ef67eb932296f36a7912206b5386298fd2bbb39c37",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for specific musical organizations",
+    "recognition of artistic excellence",
+    "impact of music on individuals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin needs to support the Symphony",
+    "especially the award winning Conspirare choral group",
+    "Their music is life-changing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Symphony",
+    "Conspirare choral group"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support the Symphony",
+    "support the award winning Conspirare choral group"
+  ],
+  "cached_at": "2025-06-21T01:12:18.674637",
+  "cache_key": "652b8bbe04bbd3e8732d43eb8c26aa5a8e99d58ba0dd2bd40bfbb1cf775815c3",
+  "model": "gpt-41"
+}

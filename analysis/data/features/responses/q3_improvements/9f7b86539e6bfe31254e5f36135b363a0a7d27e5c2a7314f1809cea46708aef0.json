@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for funding for non-BIPoC organizations to reach BIPoC communities",
+    "Decline of classical music community in Austin",
+    "Comparison of Austin and Dallas cultural funding support",
+    "Impact of lack of funding on community outreach and vibrancy",
+    "Perception of city identity and cultural value"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "help non-BIPoC orgs reach BIPoC communities",
+    "Not providing funding means they then can't reach anyone at all",
+    "a classical music community ... is now dying",
+    "Every concert I go to in Dallas proudly proclaims that they are supported by the City of Dallas Office of Arts and Culture",
+    "If Dallas ... can do it then there is exactly zero reason Austin ... cannot"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "City of Dallas Office of Arts and Culture"
+  ],
+  "barriers_identified": [
+    "Lack of funding for non-BIPoC organizations",
+    "Inability to reach BIPoC communities due to funding gaps",
+    "Declining vibrancy of classical music community"
+  ],
+  "solutions_proposed": [
+    "Provide funding to non-BIPoC organizations to enable outreach to BIPoC communities"
+  ],
+  "cached_at": "2025-06-21T00:56:02.468241",
+  "cache_key": "9f7b86539e6bfe31254e5f36135b363a0a7d27e5c2a7314f1809cea46708aef0",
+  "model": "gpt-41"
+}

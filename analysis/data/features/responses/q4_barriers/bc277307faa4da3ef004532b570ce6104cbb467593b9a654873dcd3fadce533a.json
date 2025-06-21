@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of government support for the arts",
+    "decline in diversity, equity, and inclusion funding",
+    "funding as a primary barrier"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Our largest barrier is funding sources",
+    "government support for the arts",
+    "diversity, equity, and inclusion are disappearing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding sources",
+    "disappearing government support for the arts",
+    "declining support for diversity, equity, and inclusion"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:15.854326",
+  "cache_key": "bc277307faa4da3ef004532b570ce6104cbb467593b9a654873dcd3fadce533a",
+  "model": "gpt-41"
+}

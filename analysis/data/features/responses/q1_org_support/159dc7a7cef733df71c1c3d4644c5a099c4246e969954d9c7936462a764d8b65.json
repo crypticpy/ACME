@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for general operating funding over project-based funding",
+    "Recognition and support for nationally reputable organizations",
+    "Complexity and burden of the funding application process",
+    "Overly critical and harsh public review panels",
+    "Balancing accountability with accessibility in funding processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Funding arts orgs for the work they do, not for a new program they have to create in order to get the funding",
+    "giving general operating funding to orgs that are nationally reputable, recognized organizations that put Austin on the map",
+    "Balancing need for accountability/organizational fit for funding with an application process that is complex, overwhelming, and burdensome",
+    "publicly posted review panels that are overly critical and, to be honest, outright mean to some orgs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Ballet Austin",
+    "Contemporary",
+    "Texas Book Fest"
+  ],
+  "barriers_identified": [
+    "Requirement to create new programs to access funding",
+    "Complex, overwhelming, and burdensome application process",
+    "Overly critical and mean review panels"
+  ],
+  "solutions_proposed": [
+    "Provide general operating funding rather than only project-based funding",
+    "Balance accountability with a less burdensome application process"
+  ],
+  "cached_at": "2025-06-20T10:37:10.159119",
+  "cache_key": "159dc7a7cef733df71c1c3d4644c5a099c4246e969954d9c7936462a764d8b65",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "need for funding",
+    "need for grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Funding and grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase funding",
+    "Provide grants"
+  ],
+  "cached_at": "2025-06-20T10:34:32.388150",
+  "cache_key": "ee57fc0daabfc5898cab87a81db50e3007a2b9af4055c4583c15f0bb27f56f6e",
+  "model": "gpt-41"
+}

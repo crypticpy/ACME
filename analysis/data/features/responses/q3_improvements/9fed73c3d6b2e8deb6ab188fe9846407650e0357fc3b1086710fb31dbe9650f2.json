@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of adherence to established rules",
+    "concern about program integrity",
+    "accountability in administration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "They should follow their own rules"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "programs not following their own rules"
+  ],
+  "solutions_proposed": [
+    "follow their own rules"
+  ],
+  "cached_at": "2025-06-21T01:12:55.678961",
+  "cache_key": "9fed73c3d6b2e8deb6ab188fe9846407650e0357fc3b1086710fb31dbe9650f2",
+  "model": "gpt-41"
+}

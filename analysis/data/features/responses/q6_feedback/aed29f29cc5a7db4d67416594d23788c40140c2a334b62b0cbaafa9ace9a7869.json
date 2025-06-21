@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Call for broader definition of diversity",
+    "Marginalization of non-mainstream creators",
+    "Age-related marginalization in the arts",
+    "Critique of funding prioritizing commercial success"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "TRUE diversity requires support of all creators",
+    "even those of us who don\u2019t fit easily into a slot for the 'marginalized'",
+    "All of us who don\u2019t devote ourselves to the Big $$$ are marginalized",
+    "especially all we get older"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Narrow definitions of marginalized groups",
+    "Lack of support for creators outside commercial/mainstream focus",
+    "Marginalization of older artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:12:13.816385",
+  "cache_key": "aed29f29cc5a7db4d67416594d23788c40140c2a334b62b0cbaafa9ace9a7869",
+  "model": "gpt-41"
+}

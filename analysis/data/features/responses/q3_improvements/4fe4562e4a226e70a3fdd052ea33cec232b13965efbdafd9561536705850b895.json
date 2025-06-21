@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "system transparency",
+    "user-friendly funding process",
+    "comprehensive support for arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more intuitive funding system",
+    "transparent",
+    "support needs across the entire arts ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency",
+    "complex or unintuitive funding system",
+    "insufficient support for all parts of the arts ecosystem"
+  ],
+  "solutions_proposed": [
+    "create a more intuitive funding system",
+    "increase transparency",
+    "ensure support for needs across the entire arts ecosystem"
+  ],
+  "cached_at": "2025-06-21T00:58:42.591630",
+  "cache_key": "4fe4562e4a226e70a3fdd052ea33cec232b13965efbdafd9561536705850b895",
+  "model": "gpt-41"
+}

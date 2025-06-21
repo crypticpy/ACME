@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "audience development",
+    "regional marketing",
+    "attracting out-of-state visitors",
+    "economic impact through arts spending"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "audience development",
+    "regional marketing",
+    "bring folks from all over Texas, Louisiana, Arkansas and Oklahoma",
+    "see Austin arts",
+    "spend money on it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of regional marketing"
+  ],
+  "solutions_proposed": [
+    "implement regional marketing to attract audiences from neighboring states"
+  ],
+  "cached_at": "2025-06-21T02:02:53.745264",
+  "cache_key": "3a97692805e137dbbefc926a718697dcc02115bcae5e85b51454a3850be70804",
+  "model": "gpt-41"
+}

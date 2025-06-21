@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outsourcing of non-core services",
+    "role clarity between city and community organizations",
+    "misalignment of staff responsibilities",
+    "preference for city-led administration and technical assistance",
+    "critique of current training and mentorship offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "outsource any services and programs not related to grant making and the cultural centers",
+    "Community organizations are better suited to do this work",
+    "administration and technical assistance should be moved back into the City",
+    "They are not the right people to be offering fundraising training or mentorship",
+    "they are the people to help you fill out the application and process it in a timely manner",
+    "Staff really got it backwards"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "misallocation of responsibilities between city staff and community organizations",
+    "inappropriate outsourcing of administration and technical assistance",
+    "staff providing training and mentorship instead of application support"
+  ],
+  "solutions_proposed": [
+    "outsource only non-grantmaking and non-cultural center programs to community organizations",
+    "move administration and technical assistance back into the City",
+    "limit staff roles to application support and processing"
+  ],
+  "cached_at": "2025-06-21T01:56:37.852237",
+  "cache_key": "aa3b64adbb1f73d983d39860dac3b3b84a6de0fbfe81cdca21a9fb459d73d3e5",
+  "model": "gpt-41"
+}

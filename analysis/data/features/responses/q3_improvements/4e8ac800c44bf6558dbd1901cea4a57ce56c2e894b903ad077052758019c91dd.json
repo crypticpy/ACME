@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "application process opacity",
+    "desire for personalized feedback",
+    "navigating funding requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "application process was a little opaque",
+    "I\u2019d love if someone from the city was like hey here\u2019s what you could do better to get this idea funded"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "opaque application process",
+    "lack of direct feedback from city"
+  ],
+  "solutions_proposed": [
+    "city staff provide personalized feedback on applications"
+  ],
+  "cached_at": "2025-06-21T01:05:30.908507",
+  "cache_key": "4e8ac800c44bf6558dbd1901cea4a57ce56c2e894b903ad077052758019c91dd",
+  "model": "gpt-41"
+}

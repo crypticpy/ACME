@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Concerns about language used in DEI efforts",
+    "Risk of alienating community members through terminology",
+    "Suggestion to use more neutral, unifying language",
+    "Desire for broader community resonance and inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "current language might feel overly focused on specific terms",
+    "could unintentionally alienate some community members",
+    "adopt more neutral language that emphasizes unity, shared goals, and community collaboration",
+    "terms like 'welcoming all residents' or 'building a stronger community together' might resonate more broadly"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Alienation caused by overly specific DEI language"
+  ],
+  "solutions_proposed": [
+    "Adopt more neutral language that emphasizes unity, shared goals, and community collaboration",
+    "Use terms like 'welcoming all residents' or 'building a stronger community together'"
+  ],
+  "cached_at": "2025-06-21T02:14:12.720489",
+  "cache_key": "2276389cc837680f4d745e3e72369183916eaf13dbd3a7b0d4d4e2eecbe17061",
+  "model": "gpt-41"
+}

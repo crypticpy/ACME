@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of literature and fine arts",
+    "need for increased grant funding",
+    "equity across art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding for literature and fine arts",
+    "non-performing arts or music",
+    "increased grant funding for music and performing arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for literature and fine arts",
+    "insufficient grant funding for music and performing arts"
+  ],
+  "solutions_proposed": [
+    "provide funding for literature and fine arts",
+    "increase grant funding for music and performing arts"
+  ],
+  "cached_at": "2025-06-21T01:54:25.136020",
+  "cache_key": "0fe28c71a331708627e5c8f4a2d06fbd445f98de0370966165c03a6ff2e485d7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "artist-driven proposals",
+    "direct artist-to-venue sales",
+    "importance of the airport as a cultural gateway",
+    "visibility for local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "huge proposal came in #2 of 14",
+    "selling sync media direct from artists to the airport",
+    "The airport is the MOST VISITED VENUE IN AUSTIN",
+    "the gateway"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "selling sync media direct from artists to the airport"
+  ],
+  "cached_at": "2025-06-21T02:15:21.235212",
+  "cache_key": "069ed5ab963794440a6bb35bb492688333449f4800318e74e638cea2c48c6c9e",
+  "model": "gpt-41"
+}

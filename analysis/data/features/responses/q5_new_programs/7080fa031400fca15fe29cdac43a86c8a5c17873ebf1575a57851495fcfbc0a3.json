@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "gender inequity in grant funding",
+    "overrepresentation of white men in grant awards",
+    "perceived low quality of funded art",
+    "artist disillusionment and divestment",
+    "lack of support for talented underrepresented artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "All female grants",
+    "Men have had WAY MORE than their share",
+    "sickened by the amount of mediocre white men that I see getting thousands of dollars from the city grants",
+    "talented artists who apply and don\u2019t get chosen",
+    "It makes us divest and literally move away from the city",
+    "the city doesn\u2019t care about us",
+    "most of the art is just not that deep"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "bias in grant awarding towards white men",
+    "lack of opportunities for female and underrepresented artists",
+    "perceived disregard for artistic quality in funding decisions",
+    "artists leaving the city due to lack of support"
+  ],
+  "solutions_proposed": [
+    "All female grants"
+  ],
+  "cached_at": "2025-06-21T01:50:31.682182",
+  "cache_key": "7080fa031400fca15fe29cdac43a86c8a5c17873ebf1575a57851495fcfbc0a3",
+  "model": "gpt-41"
+}

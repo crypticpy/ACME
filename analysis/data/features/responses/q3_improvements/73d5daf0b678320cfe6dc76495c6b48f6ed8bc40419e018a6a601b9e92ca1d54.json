@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cross-departmental collaboration",
+    "community engagement",
+    "cost sharing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more engagement",
+    "cost sharing cross-departmentally"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase engagement",
+    "implement cost sharing across departments"
+  ],
+  "cached_at": "2025-06-21T01:12:53.886711",
+  "cache_key": "73d5daf0b678320cfe6dc76495c6b48f6ed8bc40419e018a6a601b9e92ca1d54",
+  "model": "gpt-41"
+}

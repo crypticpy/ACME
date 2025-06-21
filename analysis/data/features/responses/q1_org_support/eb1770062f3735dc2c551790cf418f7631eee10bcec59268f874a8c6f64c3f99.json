@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for emerging artists",
+    "funding opportunities",
+    "facilitation of creative projects",
+    "support for students",
+    "support for art organizers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "providing funding and/or opportunities for emerging artists in Austin",
+    "support the creative community",
+    "facilitating creative projects or endeavors for emerging artists, students and art organizers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "providing funding and/or opportunities for emerging artists",
+    "facilitating creative projects or endeavors for emerging artists, students and art organizers"
+  ],
+  "cached_at": "2025-06-20T10:37:22.542803",
+  "cache_key": "eb1770062f3735dc2c551790cf418f7631eee10bcec59268f874a8c6f64c3f99",
+  "model": "gpt-41"
+}

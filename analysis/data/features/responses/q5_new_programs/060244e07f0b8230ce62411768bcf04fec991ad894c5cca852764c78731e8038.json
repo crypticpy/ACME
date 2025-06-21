@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more visual arts programming",
+    "desire for more performing arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Visual arts",
+    "performing arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer more visual arts programs",
+    "Offer more performing arts programs"
+  ],
+  "cached_at": "2025-06-21T01:57:51.535924",
+  "cache_key": "060244e07f0b8230ce62411768bcf04fec991ad894c5cca852764c78731e8038",
+  "model": "gpt-41"
+}

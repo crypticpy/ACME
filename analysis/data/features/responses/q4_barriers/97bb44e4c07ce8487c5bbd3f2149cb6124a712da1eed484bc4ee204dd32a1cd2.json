@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient communication from cultural institutions",
+    "barriers to information access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of communication"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of communication"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:19.431938",
+  "cache_key": "97bb44e4c07ce8487c5bbd3f2149cb6124a712da1eed484bc4ee204dd32a1cd2",
+  "model": "gpt-41"
+}

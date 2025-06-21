@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity of eligibility criteria",
+    "application process transparency"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more clarity on which areas can and cannot apply"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear eligibility for applicants"
+  ],
+  "solutions_proposed": [
+    "provide more clarity on which areas can and cannot apply"
+  ],
+  "cached_at": "2025-06-21T00:57:38.534685",
+  "cache_key": "c0e00e44ba1c90f312474879543bff3836061b3fdcd7aac230c41ef3c412a2ac",
+  "model": "gpt-41"
+}

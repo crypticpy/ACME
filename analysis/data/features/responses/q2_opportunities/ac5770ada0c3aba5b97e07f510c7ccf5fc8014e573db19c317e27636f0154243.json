@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased support for community arts venues",
+    "importance of educational programming in the arts",
+    "desire for city-led arts events and initiatives",
+    "fostering community connections through the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "venues that create community and educational programming centered around the arts need more support",
+    "city-led events and initiatives would be attractive",
+    "help foster more connections through the many arts scenes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for venues that create community and educational programming"
+  ],
+  "solutions_proposed": [
+    "provide more support to community and educational arts venues",
+    "increase city-led arts events and initiatives"
+  ],
+  "cached_at": "2025-06-21T00:38:01.674572",
+  "cache_key": "ac5770ada0c3aba5b97e07f510c7ccf5fc8014e573db19c317e27636f0154243",
+  "model": "gpt-41"
+}

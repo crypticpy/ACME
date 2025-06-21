@@ -1,0 +1,51 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "under-support and invisibility of smaller or newer organizations",
+    "need for intentional outreach and communication",
+    "lack of transparency and complexity in grant processes",
+    "importance of visibility and amplification for grassroots organizations",
+    "necessity for regular, institutionalized feedback mechanisms",
+    "equity and inclusion in decision-making"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "a lot of them are under-supported or overlooked",
+    "making sure they are actually being listened to",
+    "going beyond the usual circles",
+    "opportunities like grants, events, or resources are hard to find unless you already know someone in the loop",
+    "more intentional outreach and communication",
+    "more transparency around funding",
+    "the process can feel really confusing if you don\u2019t have a full development team",
+    "grant process was more open and easier to understand",
+    "amplifying the work of local creatives",
+    "regular spaces for artists to be heard",
+    "town halls, surveys, feedback sessions that are standard, not occasional",
+    "serious about equity and support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "under-support or being overlooked for smaller or newer organizations",
+    "lack of access to information unless already connected",
+    "confusing and opaque grant process",
+    "lack of transparency in funding decisions",
+    "insufficient regular opportunities for feedback"
+  ],
+  "solutions_proposed": [
+    "intentional outreach to a wider range of arts organizations",
+    "improving communication so smaller or newer organizations are included",
+    "increasing transparency around funding",
+    "making the grant process more open and easier to understand",
+    "providing clearer timelines and educational support for grants",
+    "amplifying the work of grassroots organizations",
+    "establishing regular town halls, surveys, and feedback sessions"
+  ],
+  "cached_at": "2025-06-20T10:25:20.683814",
+  "cache_key": "7c49ef0360612b8221e87d4d7169f4b4ef1c6e25eb1cc435559374e2de1d5aa3",
+  "model": "gpt-41"
+}

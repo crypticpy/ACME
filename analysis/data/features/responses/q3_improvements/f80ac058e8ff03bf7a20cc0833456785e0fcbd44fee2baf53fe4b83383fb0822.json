@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gratitude for support of music and film industries",
+    "concern about neglect of fashion industry",
+    "desire for broader industry inclusion in funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I am grateful that the City is so behind/supportive of the music and film industries",
+    "please don't forget the fashion industry"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fashion industry being overlooked in funding"
+  ],
+  "solutions_proposed": [
+    "include the fashion industry in cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T01:07:53.645505",
+  "cache_key": "f80ac058e8ff03bf7a20cc0833456785e0fcbd44fee2baf53fe4b83383fb0822",
+  "model": "gpt-41"
+}

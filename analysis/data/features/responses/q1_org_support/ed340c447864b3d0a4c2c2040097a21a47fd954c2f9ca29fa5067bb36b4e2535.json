@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "uncertainty about ACME's current support and transparency",
+    "desire for amplification of cultural centers and sites",
+    "need for improved marketing and informational materials",
+    "protection and preservation of marginalized communities' history and culture",
+    "concern about attacks on conversations around Black history, gender equality, and race",
+    "advocacy for artists and creatives from marginalized communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I\u2019m not 100% which organizations or leaders that ACME supports and how",
+    "amplify the voices and programming of Austin\u2019s cultural centers and sites",
+    "budgets for updated advertisements, maps, merch, and on site reading materials",
+    "brochure or bifold that helps unify the spaces",
+    "help protect/preserve the history and culture of Austin\u2019s marginalized communities",
+    "conversations about Black History, gender equality, or race in general are under attack",
+    "advocate for artists and creatives of marginalized communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Carver",
+    "Zilker"
+  ],
+  "barriers_identified": [
+    "lack of clarity about ACME's support for organizations and leaders",
+    "insufficient marketing and informational materials for cultural sites",
+    "threats to open conversations about Black history, gender equality, and race",
+    "pressure on marginalized artists to minimize their voices or expression"
+  ],
+  "solutions_proposed": [
+    "increase budgets for updated advertisements, maps, merch, and on-site reading materials",
+    "create a brochure or bifold to unify cultural spaces by category",
+    "amplify voices and programming of cultural centers and sites",
+    "advocate for and protect artists and creatives from marginalized communities"
+  ],
+  "cached_at": "2025-06-20T01:20:24.262197",
+  "cache_key": "ed340c447864b3d0a4c2c2040097a21a47fd954c2f9ca29fa5067bb36b4e2535",
+  "model": "gpt-41"
+}

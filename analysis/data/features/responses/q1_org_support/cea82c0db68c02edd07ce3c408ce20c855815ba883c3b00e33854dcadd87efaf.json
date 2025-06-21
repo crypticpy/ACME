@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "redistribution of existing funds",
+    "accessibility for smaller and diverse communities",
+    "broader definition of diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More money is always going to be the answer",
+    "different distribution of the funding",
+    "Make venues and funding more accessible to the smaller, more diverse communities",
+    "see diversity as more than ethnicity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding not accessible to smaller, more diverse communities",
+    "narrow definition of diversity"
+  ],
+  "solutions_proposed": [
+    "increase overall funding",
+    "redistribute funding",
+    "make venues and funding more accessible to smaller, more diverse communities",
+    "expand the definition of diversity beyond ethnicity"
+  ],
+  "cached_at": "2025-06-20T01:20:34.661415",
+  "cache_key": "cea82c0db68c02edd07ce3c408ce20c855815ba883c3b00e33854dcadd87efaf",
+  "model": "gpt-41"
+}

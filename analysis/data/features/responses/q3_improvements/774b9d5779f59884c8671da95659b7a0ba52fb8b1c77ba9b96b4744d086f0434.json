@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "value of language translation for first-time applicants",
+    "effectiveness of staff-led workshops",
+    "competition between large and small organizations for funding",
+    "role of large donors in funding allocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "language translator was very helpful to a lot of first time applicant artist",
+    "workshops that staff provided were the best process to explain the matrix",
+    "competition for funding and matching funds by the Symphony, Opera, Ballet and other organization are frequented by large donors verse the smaller organization"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Symphony",
+    "Opera",
+    "Ballet"
+  ],
+  "barriers_identified": [
+    "competition for funding between large and small organizations",
+    "large donors frequenting major organizations over smaller ones"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:55:45.708490",
+  "cache_key": "774b9d5779f59884c8671da95659b7a0ba52fb8b1c77ba9b96b4744d086f0434",
+  "model": "gpt-41"
+}

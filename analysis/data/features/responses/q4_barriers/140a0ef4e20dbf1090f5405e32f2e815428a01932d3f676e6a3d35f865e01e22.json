@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers to arts access",
+    "parking challenges",
+    "geographic accessibility",
+    "need for improved public transit"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Location, transportation, parking.",
+    "The Arts ecosystem in Austin would flourish further if Austin got serious about its public transportation."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "location",
+    "transportation",
+    "parking"
+  ],
+  "solutions_proposed": [
+    "Austin got serious about its public transportation"
+  ],
+  "cached_at": "2025-06-21T01:49:21.610000",
+  "cache_key": "140a0ef4e20dbf1090f5405e32f2e815428a01932d3f676e6a3d35f865e01e22",
+  "model": "gpt-41"
+}

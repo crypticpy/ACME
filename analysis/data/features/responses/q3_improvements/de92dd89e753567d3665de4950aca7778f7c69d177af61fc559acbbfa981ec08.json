@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient funding levels",
+    "organizational sustainability",
+    "inclusivity in decision-making",
+    "community support for increased funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Larger funding amounts",
+    "$30K is not enough to keep an organization thriving",
+    "Make the table that we all have seat at a much bigger table",
+    "The citizens of Austin would absolutely support this"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding amounts"
+  ],
+  "solutions_proposed": [
+    "Increase funding amounts",
+    "Expand inclusivity in decision-making ('a much bigger table')"
+  ],
+  "cached_at": "2025-06-21T00:57:00.648681",
+  "cache_key": "de92dd89e753567d3665de4950aca7778f7c69d177af61fc559acbbfa981ec08",
+  "model": "gpt-41"
+}

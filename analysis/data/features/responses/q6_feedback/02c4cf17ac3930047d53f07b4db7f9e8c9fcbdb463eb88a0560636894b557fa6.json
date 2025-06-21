@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "poor marketing as root cause",
+    "impact on venues, artists, programs, and events",
+    "affordability and involvement linked to marketing",
+    "singular focus on communication challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "The primary problem, across the board ... is poor marketing",
+    "Fix that, address that, and almost all other challenges disappear"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "poor marketing"
+  ],
+  "solutions_proposed": [
+    "improve marketing"
+  ],
+  "cached_at": "2025-06-21T02:13:56.118086",
+  "cache_key": "02c4cf17ac3930047d53f07b4db7f9e8c9fcbdb463eb88a0560636894b557fa6",
+  "model": "gpt-41"
+}

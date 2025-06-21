@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial strain on live music venues",
+    "lack of small business support",
+    "high operational costs (rent, taxes)",
+    "support for artists versus business sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Small business support",
+    "my live music venue pays half a million dollars a year to support artists",
+    "cant afford rent, taxes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford rent",
+    "inability to afford taxes",
+    "insufficient small business support"
+  ],
+  "solutions_proposed": [
+    "small business support"
+  ],
+  "cached_at": "2025-06-21T02:07:04.466059",
+  "cache_key": "583c50c8f7cba9ed0a500c2c1683a2fc90a3984b78bacb65818291f785ffd7be",
+  "model": "gpt-41"
+}

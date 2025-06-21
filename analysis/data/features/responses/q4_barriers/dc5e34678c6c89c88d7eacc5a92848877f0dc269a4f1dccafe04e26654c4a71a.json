@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible platforms",
+    "support for emerging artists",
+    "visibility for local talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more accessible platforms",
+    "local emmerging artists",
+    "share their work"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient accessible platforms for emerging artists"
+  ],
+  "solutions_proposed": [
+    "provide more accessible platforms for local emerging artists"
+  ],
+  "cached_at": "2025-06-21T01:32:54.177480",
+  "cache_key": "dc5e34678c6c89c88d7eacc5a92848877f0dc269a4f1dccafe04e26654c4a71a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for predictable grant funding",
+    "instability of funding programs",
+    "difficulty in long-term planning"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "predictable sources of grant funding",
+    "whiplash of new cultural funding programs and calendars",
+    "hard for organizations to plan for the long term"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "frequent changes in funding programs and calendars",
+    "lack of predictability in grant funding"
+  ],
+  "solutions_proposed": [
+    "provide predictable sources of grant funding for existing organizations"
+  ],
+  "cached_at": "2025-06-20T10:35:36.900769",
+  "cache_key": "3c8be30747b627f27594ac04fffd4a585f8c7e78e0439289764261cdc0b901e3",
+  "model": "gpt-41"
+}

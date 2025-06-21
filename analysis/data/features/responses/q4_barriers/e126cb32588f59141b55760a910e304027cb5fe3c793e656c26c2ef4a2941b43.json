@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability barriers",
+    "lack of program awareness",
+    "transportation and geographic accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cost",
+    "visibility of programs",
+    "location accessibility"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Cost",
+    "visibility of programs",
+    "location accessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:05.617088",
+  "cache_key": "e126cb32588f59141b55760a910e304027cb5fe3c793e656c26c2ef4a2941b43",
+  "model": "gpt-41"
+}

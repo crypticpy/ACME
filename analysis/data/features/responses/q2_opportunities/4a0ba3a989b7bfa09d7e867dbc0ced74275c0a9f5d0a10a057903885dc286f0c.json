@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Caribbean cultural representation",
+    "Diversity within Caribbean communities",
+    "Food and music events",
+    "Diaspora inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Caribbean themed food and music events",
+    "breadth of that region's different nationals",
+    "resident in the Austin diaspora"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Organize Caribbean themed food and music events that include the breadth of that region's different nationals resident in Austin"
+  ],
+  "cached_at": "2025-06-21T00:30:26.355578",
+  "cache_key": "4a0ba3a989b7bfa09d7e867dbc0ced74275c0a9f5d0a10a057903885dc286f0c",
+  "model": "gpt-41"
+}

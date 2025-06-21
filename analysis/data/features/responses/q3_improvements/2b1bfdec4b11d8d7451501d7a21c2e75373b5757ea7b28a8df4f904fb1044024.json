@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for returning applicants",
+    "funding stability and predictability",
+    "community building through funding consistency"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "guaranteed or preferential funding for organizations that have previously qualified",
+    "having to reapply with a blank slate with no assurances isn't good for community building"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "having to reapply with a blank slate with no assurances"
+  ],
+  "solutions_proposed": [
+    "guaranteed or preferential funding for organizations that have previously qualified"
+  ],
+  "cached_at": "2025-06-21T01:11:08.981876",
+  "cache_key": "2b1bfdec4b11d8d7451501d7a21c2e75373b5757ea7b28a8df4f904fb1044024",
+  "model": "gpt-41"
+}

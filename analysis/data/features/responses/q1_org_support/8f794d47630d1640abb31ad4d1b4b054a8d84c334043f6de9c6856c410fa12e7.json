@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of grant funding for emerging initiatives",
+    "support for dance and art organizations",
+    "need for city involvement in funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "emerging dance and art initiatives",
+    "in need of grant funding from the city",
+    "collaborate with"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant funding from the city"
+  ],
+  "solutions_proposed": [
+    "provide grant funding to emerging dance and art initiatives"
+  ],
+  "cached_at": "2025-06-20T10:38:29.589471",
+  "cache_key": "8f794d47630d1640abb31ad4d1b4b054a8d84c334043f6de9c6856c410fa12e7",
+  "model": "gpt-41"
+}

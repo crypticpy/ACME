@@ -1,0 +1,47 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Arts as essential civic infrastructure",
+    "Cross-sector collaboration and integration",
+    "Artist-led solutions to civic challenges",
+    "Affordable creative space and anti-displacement",
+    "Multi-year funding for nonprofit cultural anchors",
+    "Leveraging non-arts and federal funding streams",
+    "Creative workforce sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "positioning the arts as essential infrastructure",
+    "integrate the arts into areas like health, housing, transportation, education, and social services",
+    "artist residencies in public health departments",
+    "affordable creative space, access to equipment, mentorship, and operational support",
+    "long-standing, community-based organizations are being displaced due to rising costs",
+    "multi-year funding for NPOs providing a cultural anchor",
+    "redefine what arts funding can be (without solely dependent on HOT)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Rally Austin"
+  ],
+  "barriers_identified": [
+    "Displacement of community-based organizations due to rising costs",
+    "Lack of affordable creative space",
+    "Dependence on HOT (Hotel Occupancy Tax) funding",
+    "Insufficient operational support for artists and organizations"
+  ],
+  "solutions_proposed": [
+    "Integrate arts into non-cultural city sectors (health, housing, transportation, education, social services)",
+    "Launch artist-led programs addressing civic challenges",
+    "Pursue federal and non-arts funding streams for creative initiatives",
+    "Prioritize affordable creative space through partnerships, subsidies, and policy change",
+    "Conduct a citywide site survey of vacant, city-owned properties for cultural activation",
+    "Provide multi-year funding for NPOs offering year-round programming and mentorship"
+  ],
+  "cached_at": "2025-06-20T01:15:31.412757",
+  "cache_key": "9c5409b0c071766dcc3bc85fab632dad3dfe6d0078604d5141660c77885721dd",
+  "model": "gpt-41"
+}

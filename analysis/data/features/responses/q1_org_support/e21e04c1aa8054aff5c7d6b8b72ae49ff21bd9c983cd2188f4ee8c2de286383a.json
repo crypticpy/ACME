@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for world music",
+    "cultural diversity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Support world music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support world music"
+  ],
+  "cached_at": "2025-06-20T10:45:43.158761",
+  "cache_key": "e21e04c1aa8054aff5c7d6b8b72ae49ff21bd9c983cd2188f4ee8c2de286383a",
+  "model": "gpt-41"
+}

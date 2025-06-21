@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for financial support",
+    "support for venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Financial support to venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Financial support to venues"
+  ],
+  "cached_at": "2025-06-20T01:14:18.838289",
+  "cache_key": "1cda781a32e9b8dddae310356910055933b6e37eb28823bac76c50380ab4d79b",
+  "model": "gpt-41"
+}

@@ -1,0 +1,48 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Information and communication barriers",
+    "Insider knowledge and social networks",
+    "Differences between long-term and new residents",
+    "Event and grant advertising practices",
+    "Clarity and differentiation of event types",
+    "City website usability and management"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "the biggest barrier for the community faces when searching for support is information",
+    "you have to know the right people or go to the right spaces",
+    "gap between Austinites who've been here for a decade or so versus those who are fairly new",
+    "anything that is deadline driven, it should be clearly on display or advertised within our sites, parks, and libraries",
+    "programs or grants could be advertised in spaces like the Alamo or Austin's Film Society during previews",
+    "distinguishable difference between a historical event, an event at the park, and a festival or musical event",
+    "cities website uses similar verbiage and advertising tactics for events that are worlds apart",
+    "more flexibility with how different sites are managed online on the cities website"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACL",
+    "Alamo",
+    "Austin's Film Society"
+  ],
+  "barriers_identified": [
+    "Lack of accessible information",
+    "Need for insider knowledge or connections",
+    "Communication gap between long-term and new residents",
+    "Unclear or undifferentiated event advertising",
+    "City website's lack of flexibility and clarity"
+  ],
+  "solutions_proposed": [
+    "Clearly display or advertise deadline-driven opportunities at sites, parks, and libraries",
+    "Advertise programs or grants in venues like the Alamo or Austin's Film Society during previews",
+    "Create a distinguishable difference in how different event types are presented",
+    "Increase flexibility in online management of different sites on the city's website"
+  ],
+  "cached_at": "2025-06-21T01:23:49.376326",
+  "cache_key": "4bcccffc8fde0b3e42875efc22ce8381fc43a1e76105240ab881cc589059c25b",
+  "model": "gpt-41"
+}

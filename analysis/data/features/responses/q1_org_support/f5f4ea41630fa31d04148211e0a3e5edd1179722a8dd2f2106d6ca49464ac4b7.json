@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritizing established organizations",
+    "skepticism toward funding inexperienced startups",
+    "emphasis on experience and ecosystem",
+    "pathways for leadership development"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "invest in those foundational groups who have been making it work for years",
+    "now is not the time to fund start ups run by people with no experience",
+    "they get experience by working through the existing ecosystem",
+    "then they have the tools to start their own things"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding directed to inexperienced startups",
+    "lack of experience among new applicants"
+  ],
+  "solutions_proposed": [
+    "invest in foundational groups with proven track records",
+    "require new leaders to gain experience within existing organizations before starting their own"
+  ],
+  "cached_at": "2025-06-20T10:26:40.062770",
+  "cache_key": "f5f4ea41630fa31d04148211e0a3e5edd1179722a8dd2f2106d6ca49464ac4b7",
+  "model": "gpt-41"
+}

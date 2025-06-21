@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Austin's cultural uniqueness",
+    "Need for improvement in cultural/art offerings",
+    "Resource distribution equity",
+    "Focus on disadvantaged groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "What makes Austin unique is its diverse cultural/art offerings",
+    "could be improved",
+    "important for changes that innovate how the resources are more widely distributed",
+    "among the more disadvantaged groups in the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inequitable distribution of resources",
+    "disadvantaged groups not receiving sufficient support"
+  ],
+  "solutions_proposed": [
+    "innovate how the resources are more widely distributed among the more disadvantaged groups"
+  ],
+  "cached_at": "2025-06-20T10:22:11.005101",
+  "cache_key": "a43e2a04faddfa2f9c49e0ee8abc6d6d589feeed1704ac89462c876dea405bc3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "decoupling arts funding from tourism",
+    "support for non-tourism related events",
+    "funding for arts education",
+    "capacity building for artists/organizations",
+    "support for professional development (conferences, scholarships)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding that is not tied to Hotel Occupancy Tax",
+    "events that are not tourism related can be funded",
+    "funding for arts education",
+    "capacity building",
+    "travelling to conferences/scholarships to pay the registration fee"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding restrictions tied to Hotel Occupancy Tax",
+    "lack of support for non-tourism related events",
+    "limited funding for professional development"
+  ],
+  "solutions_proposed": [
+    "provide funding sources not tied to Hotel Occupancy Tax",
+    "fund arts education and capacity building",
+    "offer support for travel to conferences and scholarships for registration fees"
+  ],
+  "cached_at": "2025-06-21T00:48:00.574109",
+  "cache_key": "8d94d09eaa429fa2340b4a983a4b1873bf1c14c307ce9195dcc1e44a7775bbe2",
+  "model": "gpt-41"
+}

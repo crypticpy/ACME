@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "elevating local talent",
+    "public recognition of artists",
+    "place-based cultural honor",
+    "community identity through art"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "focus and elevate showcasing local talent",
+    "honor local talent with mural or sculptures or street names",
+    "in neighborhoods where they lived in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "focus and elevate showcasing local talent",
+    "honor local talent with mural or sculptures or street names in neighborhoods where they lived"
+  ],
+  "cached_at": "2025-06-21T01:18:19.981852",
+  "cache_key": "a9e8815be62801809323db21e1e8a925ec1299fe1432f52d8ad8bd80fc4e75a8",
+  "model": "gpt-41"
+}

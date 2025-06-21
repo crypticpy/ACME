@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "improving event communication",
+    "increasing visibility of cultural events",
+    "inclusion of classical musicians in city events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "use the internet to publish a schedule of events",
+    "use classical musicians at Council Chambers as Live Music interlude",
+    "in addition to other musicians"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible event schedule"
+  ],
+  "solutions_proposed": [
+    "publish a schedule of events online",
+    "include classical musicians as live music interludes at Council Chambers"
+  ],
+  "cached_at": "2025-06-21T01:19:21.267891",
+  "cache_key": "a76373fbf8e37b6ef6afcb65ed08c0af4f34b5ed14ae8d280823e14725efdc4c",
+  "model": "gpt-41"
+}

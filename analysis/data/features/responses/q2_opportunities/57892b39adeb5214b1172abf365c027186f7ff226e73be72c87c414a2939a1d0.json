@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "allegations of organizational misconduct",
+    "misuse of public funds",
+    "artist exploitation",
+    "legal action and accountability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "stop wasting millions of dollars on these orgs",
+    "almost real things who literally lies and rips artists off",
+    "makes money off them",
+    "all of this will come to light",
+    "there\u2019s lawyers involved"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "almost real things"
+  ],
+  "barriers_identified": [
+    "organizations lying and ripping artists off",
+    "misappropriation of city funds"
+  ],
+  "solutions_proposed": [
+    "stop funding organizations that exploit artists"
+  ],
+  "cached_at": "2025-06-21T00:39:22.595422",
+  "cache_key": "57892b39adeb5214b1172abf365c027186f7ff226e73be72c87c414a2939a1d0",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support for organizations and leaders",
+    "encouragement of new initiatives",
+    "support for presenting and subsidizing other artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "financially",
+    "encouraging them to create initiatives",
+    "present and subsidize other artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide financial support",
+    "encourage organizations and leaders to create initiatives to present and subsidize other artists"
+  ],
+  "cached_at": "2025-06-20T10:24:46.096745",
+  "cache_key": "7ed306dc8ab88a06350bd6facd3f4b4bdc9dac21fbece2cf1971c4c14d21d2e3",
+  "model": "gpt-41"
+}

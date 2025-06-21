@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of grant application training",
+    "difficulty making work stand out in grant process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "not enough training",
+    "how to complete the grant process",
+    "have your work stand out"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "not enough training in grant process",
+    "difficulty making work stand out in applications"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:46.422128",
+  "cache_key": "8a718773bd87a0ab5be9be92fb7a427e8c2cf93a24277c591ec5b9db9259ea1c",
+  "model": "gpt-41"
+}

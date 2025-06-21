@@ -1,0 +1,41 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding funding sources and regranting",
+    "legal support for artists and organizations",
+    "business education for artists and arts organizations",
+    "health insurance access for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Connecting funding and grants from additional sources to artists",
+    "finding it yourselves as a regranting organization",
+    "Connecting arts orgs and artists with legal advisors",
+    "Classes on the business of running an arts org or solo artist business",
+    "Health insurance for artists similar to HAAM"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [
+    "limited access to diverse funding sources",
+    "lack of legal support",
+    "insufficient business education for artists",
+    "lack of health insurance options for artists"
+  ],
+  "solutions_proposed": [
+    "Connect funding and grants from additional sources to artists",
+    "ACME acting as a regranting organization",
+    "Connect arts organizations and artists with legal advisors",
+    "Offer classes on the business of running an arts organization or solo artist business",
+    "Provide health insurance for artists similar to HAAM"
+  ],
+  "cached_at": "2025-06-21T01:57:36.221477",
+  "cache_key": "8cfe1fae4933b0c35ac3a86f7332ae40cde478ae0a450dddfb063678d917ede5",
+  "model": "gpt-41"
+}

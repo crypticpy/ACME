@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial support",
+    "organizational support",
+    "marketing assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "financial and organizational support",
+    "marketing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "provide financial support",
+    "provide organizational support",
+    "provide marketing support"
+  ],
+  "cached_at": "2025-06-20T01:16:58.452378",
+  "cache_key": "542b7e611873589ec3e3d5fd6dcac5c44f1c8572fa395f31385b2a9be18ada0d",
+  "model": "gpt-41"
+}

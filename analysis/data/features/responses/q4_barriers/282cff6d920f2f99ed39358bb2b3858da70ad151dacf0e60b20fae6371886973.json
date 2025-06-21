@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of arts venues due to rising rent and development",
+    "insufficient funding for arts events",
+    "threat to Austin's creative diversity",
+    "need for government and grant support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "biggest barrier is access to funding and venue spaces",
+    "places that support and spread the arts in Austin are closing or moving out as rent increases and development continues",
+    "we are at a crucial time where the arts community needs support",
+    "if we want Austin to remain a creatively diverse and supportive city we need funding and support from grants and government sponsored programs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to funding",
+    "loss of venue spaces",
+    "increasing rent",
+    "ongoing development displacing arts spaces"
+  ],
+  "solutions_proposed": [
+    "funding and support from grants and government sponsored programs"
+  ],
+  "cached_at": "2025-06-21T01:26:08.284635",
+  "cache_key": "282cff6d920f2f99ed39358bb2b3858da70ad151dacf0e60b20fae6371886973",
+  "model": "gpt-41"
+}

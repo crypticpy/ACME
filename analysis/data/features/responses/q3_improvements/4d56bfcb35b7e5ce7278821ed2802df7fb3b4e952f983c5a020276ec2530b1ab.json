@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "eligibility restrictions after receiving awards",
+    "limited opportunities for repeat recipients",
+    "frustration with commission limits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "not eligible for any more commissions",
+    "after winning 2 tempo commissions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "tempo commissions"
+  ],
+  "barriers_identified": [
+    "ineligibility for further commissions after previous awards"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:55:53.372242",
+  "cache_key": "4d56bfcb35b7e5ce7278821ed2802df7fb3b4e952f983c5a020276ec2530b1ab",
+  "model": "gpt-41"
+}

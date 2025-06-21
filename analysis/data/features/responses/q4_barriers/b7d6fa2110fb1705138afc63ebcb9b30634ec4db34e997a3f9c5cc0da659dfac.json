@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable venues",
+    "insufficient public dance halls",
+    "cost barriers to cultural spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Affordable venues",
+    "lack of affordable public dance halls"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable venues",
+    "lack of affordable public dance halls"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:06.588791",
+  "cache_key": "b7d6fa2110fb1705138afc63ebcb9b30634ec4db34e997a3f9c5cc0da659dfac",
+  "model": "gpt-41"
+}

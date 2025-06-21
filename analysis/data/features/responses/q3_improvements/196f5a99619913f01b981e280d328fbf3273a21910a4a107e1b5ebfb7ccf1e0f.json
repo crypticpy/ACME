@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of community awareness about grants",
+    "overreliance on informal communication channels",
+    "need for improved outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more awareness in the community of the grants",
+    "people should not have to rely on word-of-mouth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reliance on word-of-mouth for information about grants"
+  ],
+  "solutions_proposed": [
+    "increase community awareness of grants",
+    "reduce reliance on word-of-mouth for grant information"
+  ],
+  "cached_at": "2025-06-21T01:02:15.365742",
+  "cache_key": "196f5a99619913f01b981e280d328fbf3273a21910a4a107e1b5ebfb7ccf1e0f",
+  "model": "gpt-41"
+}

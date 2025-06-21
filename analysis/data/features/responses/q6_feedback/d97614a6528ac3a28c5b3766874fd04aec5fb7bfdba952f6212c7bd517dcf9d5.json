@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "access to funding",
+    "support for LLC educational companies"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "better access to funding",
+    "LLC educational companies"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funding for LLC educational companies"
+  ],
+  "solutions_proposed": [
+    "better access to funding for LLC educational companies"
+  ],
+  "cached_at": "2025-06-21T02:11:42.455224",
+  "cache_key": "d97614a6528ac3a28c5b3766874fd04aec5fb7bfdba952f6212c7bd517dcf9d5",
+  "model": "gpt-41"
+}

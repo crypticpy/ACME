@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of access to funding and resources",
+    "need for physical and informational spaces",
+    "insufficient expertise in marketing and outreach",
+    "visibility and awareness gaps in specific communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more access to resources including funding, spaces, and expertise",
+    "expertise in areas like marketing and outreach",
+    "stronger information/visibility pipeline",
+    "building arts and arts resource awareness within certain communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to funding",
+    "lack of available spaces",
+    "insufficient marketing and outreach expertise",
+    "poor visibility and awareness of arts resources in certain communities"
+  ],
+  "solutions_proposed": [
+    "increase access to resources including funding, spaces, and expertise",
+    "develop a stronger information/visibility pipeline to build arts and arts resource awareness"
+  ],
+  "cached_at": "2025-06-20T10:27:23.033690",
+  "cache_key": "0b942371dd1762201b7945bf447f87623fc7557e01681161de3dbf69e28f55a9",
+  "model": "gpt-41"
+}

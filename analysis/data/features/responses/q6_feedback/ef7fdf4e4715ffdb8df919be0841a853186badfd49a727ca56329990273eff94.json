@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for higher standards in cultural funding",
+    "Distinction between commercial and cultural activities",
+    "Concerns about misuse of public funds",
+    "Support for underrepresented cultural forms",
+    "Willingness to make unpopular decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Do not be afraid to make some people unhappy",
+    "raise the bar for what constitutes the type of cultural work that is worthy of government financial support",
+    "why should public money fund crafts markets for jewelry, candle and soap makers",
+    "commercial endeavors to sell consumer goods",
+    "no lack of soap, candles or jewelry in hundreds of shops literally all over Austin",
+    "Queer Black Feminist theatre is not common at all and should be supported by public funds"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Public funding going to commercial rather than cultural activities",
+    "Lack of clear standards for what constitutes cultural work"
+  ],
+  "solutions_proposed": [
+    "Raise the bar for what constitutes cultural work worthy of government financial support",
+    "Do not subsidize commercial crafts markets",
+    "Support rare and underrepresented cultural forms such as Queer Black Feminist theatre"
+  ],
+  "cached_at": "2025-06-21T02:13:29.873598",
+  "cache_key": "ef7fdf4e4715ffdb8df919be0841a853186badfd49a727ca56329990273eff94",
+  "model": "gpt-41"
+}

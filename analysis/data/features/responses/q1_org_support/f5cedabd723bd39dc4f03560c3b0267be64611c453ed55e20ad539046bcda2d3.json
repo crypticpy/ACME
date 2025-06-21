@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding support (grants)",
+    "capacity building (mentorship)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Grants",
+    "mentorship programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Grants",
+    "mentorship programs"
+  ],
+  "cached_at": "2025-06-20T10:24:00.953408",
+  "cache_key": "f5cedabd723bd39dc4f03560c3b0267be64611c453ed55e20ad539046bcda2d3",
+  "model": "gpt-41"
+}

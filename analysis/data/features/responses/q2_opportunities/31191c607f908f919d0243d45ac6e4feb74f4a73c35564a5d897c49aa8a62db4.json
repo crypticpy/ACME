@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient municipal support for small arts organizations",
+    "sustainability challenges for artists",
+    "impact of rising cost of living on the arts community",
+    "disparity between large and small arts events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "most of it is done more for love than money",
+    "City doesn't provide an underpinning of support",
+    "not for the big ones but for the small ones as well",
+    "harder and harder to sustain this level",
+    "cost of living continues to rise in Austin",
+    "pricing many artists out altogether"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city support for small arts organizations",
+    "rising cost of living",
+    "artists being priced out"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:40:12.595048",
+  "cache_key": "31191c607f908f919d0243d45ac6e4feb74f4a73c35564a5d897c49aa8a62db4",
+  "model": "gpt-41"
+}

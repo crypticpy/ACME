@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "City responsibility for increased arts funding",
+    "Recognition of diverse arts communities (Latino, Black, Asian)",
+    "Equity as a funding priority",
+    "Underfunding despite strong talent",
+    "Arts as a driver for tourism and residency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "over delivering on small budgets",
+    "the onus of the city to increase support",
+    "multiple playwright hubs, growing comedy community, Latino, Black and Asian arts groups, diverse film festivals",
+    "core vibrancy that brings tourists and new residents",
+    "realistic funding that continues to put equity as its priority"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of realistic funding",
+    "insufficient prioritization of equity in funding"
+  ],
+  "solutions_proposed": [
+    "increase city support for arts groups",
+    "continue to put equity as a funding priority"
+  ],
+  "cached_at": "2025-06-21T00:53:12.278810",
+  "cache_key": "e4bc0edeb8764b20123356aa962e4a0259052a06df5f52caab49a02cb59ba667",
+  "model": "gpt-41"
+}

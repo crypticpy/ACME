@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable investment in BIPOC-led and grassroots organizations",
+    "multi-year, unrestricted funding for community-based organizations",
+    "reducing permitting barriers and costs for under-resourced groups",
+    "access to affordable venues and rehearsal spaces in marginalized neighborhoods",
+    "mentorship and capacity-building for emerging cultural leaders",
+    "embedding cultural equity in policy decisions",
+    "impact of strategic partnerships and inclusive planning on public spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "prioritize sustained, equitable investment in grassroots and BIPOC-led arts organizations",
+    "increasing direct funding to community-based organizations through multi-year, unrestricted grants",
+    "streamlining permitting processes and reducing associated costs for cultural events",
+    "expanding access to affordable venues and rehearsal spaces",
+    "creating mentorship and capacity-building programs",
+    "embedding cultural equity in all policy decisions",
+    "strategic partnerships and inclusive planning can transform public spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustained and equitable investment in grassroots and BIPOC-led organizations",
+    "complex and costly permitting processes for cultural events",
+    "limited access to affordable venues and rehearsal spaces in marginalized neighborhoods",
+    "insufficient mentorship and capacity-building opportunities for emerging leaders"
+  ],
+  "solutions_proposed": [
+    "prioritize sustained, equitable investment in grassroots and BIPOC-led arts organizations",
+    "increase direct funding to community-based organizations through multi-year, unrestricted grants",
+    "streamline permitting processes and reduce associated costs for cultural events",
+    "expand access to affordable venues and rehearsal spaces, particularly in historically marginalized neighborhoods",
+    "create mentorship and capacity-building programs connecting emerging leaders with established institutions",
+    "embed cultural equity in all policy decisions"
+  ],
+  "cached_at": "2025-06-20T10:38:24.352458",
+  "cache_key": "f6d12498b8e2ec23ac442198cf6a1a31a0ee5d022469ed0540c55b7bea862947",
+  "model": "gpt-41"
+}

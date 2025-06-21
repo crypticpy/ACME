@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "healthcare access for artists",
+    "bureaucratic challenges for permits",
+    "affordability and rent control for art studios"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Health care for visual artists",
+    "Easier/expedited process for permits",
+    "Limit on how high landlords can raise the rent for art studios"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of health care for visual artists",
+    "complicated or slow permit process",
+    "rising rent for art studios"
+  ],
+  "solutions_proposed": [
+    "provide health care for visual artists",
+    "make the process for permits easier or expedited",
+    "limit how high landlords can raise rent for art studios"
+  ],
+  "cached_at": "2025-06-21T00:25:30.439106",
+  "cache_key": "d718459c9be0657095c6fbc8d6099253583a4178be8b120cda334d95040db144",
+  "model": "gpt-41"
+}

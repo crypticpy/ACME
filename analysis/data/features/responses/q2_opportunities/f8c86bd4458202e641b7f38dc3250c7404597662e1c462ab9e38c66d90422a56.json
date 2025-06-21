@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of large, high-quality venues",
+    "difficulty attracting big international artists",
+    "comparison to other cities (Chicago)",
+    "appreciation for diverse and smaller artists",
+    "positive mention of existing festivals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin doesn't have alot of nice larger venues",
+    "everything at larger scale gets botched",
+    "a lot of big international artists don't come to Austin",
+    "at least sometimes smaller ones do",
+    "I enjoy that there are more diverse artists coming to town for things like SXSW and Psych Fest"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "SXSW",
+    "Psych Fest"
+  ],
+  "barriers_identified": [
+    "lack of nice larger venues",
+    "inability to attract big international artists",
+    "poor execution of large-scale events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:50:48.872477",
+  "cache_key": "f8c86bd4458202e641b7f38dc3250c7404597662e1c462ab9e38c66d90422a56",
+  "model": "gpt-41"
+}

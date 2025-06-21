@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding for organizations supporting artists",
+    "support for venues to enable artist support",
+    "investment in forward-thinking and innovative art and music activities",
+    "prioritization of funding based on artistic value and impact"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Fund organizations that support artists",
+    "Fund venues so they can support artists",
+    "Fund activities that are forward-thinking and progressing art and music into the future",
+    "Prioritize funding for artistic value and impact"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund organizations that support artists",
+    "Fund venues so they can support artists",
+    "Fund activities that are forward-thinking and progressing art and music into the future",
+    "Prioritize funding for artistic value and impact"
+  ],
+  "cached_at": "2025-06-20T10:43:05.820217",
+  "cache_key": "55f16f62eb786ddf25f127779449c684695bfebf2bca2351494ae418e776d036",
+  "model": "gpt-41"
+}

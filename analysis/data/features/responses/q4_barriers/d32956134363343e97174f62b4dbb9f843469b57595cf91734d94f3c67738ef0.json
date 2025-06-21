@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of participation",
+    "lack of accessible rehearsal and performance spaces",
+    "geographic centrality and transportation challenges",
+    "time lost due to traffic"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Affordability, straight up",
+    "access to safe, quality rehearsal + performance space",
+    "somewhere semi-central",
+    "folks don't spend hours of valuable time stuck in traffic",
+    "not able to get places on time"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability",
+    "lack of safe, quality rehearsal and performance space",
+    "lack of centrally located spaces",
+    "time lost in traffic"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:29.433860",
+  "cache_key": "d32956134363343e97174f62b4dbb9f843469b57595cf91734d94f3c67738ef0",
+  "model": "gpt-41"
+}

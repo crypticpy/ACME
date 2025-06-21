@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "engagement with diverse communities",
+    "inclusion of varied perspectives",
+    "support for multiple art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "tap into diverse communities",
+    "perspectives",
+    "diverse types of arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "tap into diverse communities",
+    "tap into diverse perspectives",
+    "tap into diverse types of arts"
+  ],
+  "cached_at": "2025-06-20T10:42:12.674005",
+  "cache_key": "a648fda20e740d750fe2efcc16e82361cb8c2e548e889d54eab405b60c191000",
+  "model": "gpt-41"
+}

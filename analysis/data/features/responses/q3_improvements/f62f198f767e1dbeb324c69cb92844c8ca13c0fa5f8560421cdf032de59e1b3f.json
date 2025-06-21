@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "timeliness of grant applications",
+    "application process complexity",
+    "redundancy in application materials",
+    "definition and understanding of diversity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "timeliness of grant applications",
+    "ease of completion",
+    "eliminate redundancy",
+    "definition of diversity needs work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "redundancy in application process",
+    "lack of clarity in diversity definition",
+    "complex or time-consuming application process"
+  ],
+  "solutions_proposed": [
+    "improve timeliness of grant applications",
+    "make applications easier to complete",
+    "eliminate redundancy in application materials",
+    "revise or clarify definition of diversity"
+  ],
+  "cached_at": "2025-06-21T01:02:27.380463",
+  "cache_key": "f62f198f767e1dbeb324c69cb92844c8ca13c0fa5f8560421cdf032de59e1b3f",
+  "model": "gpt-41"
+}

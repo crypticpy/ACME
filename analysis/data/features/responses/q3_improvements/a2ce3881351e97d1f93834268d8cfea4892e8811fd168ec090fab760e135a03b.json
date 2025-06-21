@@ -1,0 +1,38 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "effective outreach and communication",
+    "helpfulness of grant application workshops",
+    "need to further demystify and democratize processes",
+    "lowering barriers for artists to present and make work",
+    "support for visual artists' participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "admirable job in outreach and explaining the grant application process",
+    "workshops that were very helpful",
+    "continuing to demystify and democratize all the processes",
+    "lowering the barriers to making work",
+    "visual artists are used to working alone",
+    "show them more options for participation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complexity of processes for presenting work",
+    "barriers to making work",
+    "visual artists' isolation and lack of participation options"
+  ],
+  "solutions_proposed": [
+    "continue to demystify and democratize all the processes",
+    "lower the barriers to making work",
+    "show visual artists more options for participation"
+  ],
+  "cached_at": "2025-06-21T01:08:04.776698",
+  "cache_key": "a2ce3881351e97d1f93834268d8cfea4892e8811fd168ec090fab760e135a03b",
+  "model": "gpt-41"
+}

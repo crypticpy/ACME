@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for direct communication with cultural leaders",
+    "value of frontline experience in arts organizations",
+    "importance of understanding real needs for arts provision"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Listen carefully",
+    "They are in the trenches",
+    "know the reality of what they need",
+    "continue to provide all types of arts to the Austin Community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of listening to those in the trenches"
+  ],
+  "solutions_proposed": [
+    "Listen carefully to organizations and cultural leaders"
+  ],
+  "cached_at": "2025-06-20T10:38:12.373235",
+  "cache_key": "a7cfb70585ba792f602cc6d0c386a7b37dbfb2ff899c70ef374ce3fd75523f56",
+  "model": "gpt-41"
+}

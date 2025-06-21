@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.7,
+  "themes": [
+    "program reach",
+    "accessibility"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Very likely reach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:19:44.907819",
+  "cache_key": "97f445018ab34c4fec02b0d2f0a971225642660cb8a5c404f8b5df5343debba4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for increased support of visual arts",
+    "Need for increased support of literary arts",
+    "Perceived overemphasis on live music and performance arts",
+    "Historical neglect of certain art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Strong investment/support of visual arts and literary arts",
+    "areas that have sometimes been overlooked",
+    "Austin's (understandable) emphasis on live music and performance-based arts experiences"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overlooked because of Austin's emphasis on live music and performance-based arts experiences"
+  ],
+  "solutions_proposed": [
+    "Strong investment/support of visual arts and literary arts"
+  ],
+  "cached_at": "2025-06-21T00:44:50.796827",
+  "cache_key": "84697afb2558cec092f8f8496917973198868fb4488cf875ab688b65f3454331",
+  "model": "gpt-41"
+}

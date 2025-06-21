@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion of non-marginalized artists",
+    "frustration with equity-focused funding priorities",
+    "age, gender, and economic status as overlooked factors",
+    "liberal policy critique from within the liberal community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "decades I have struggled to create both visual and literary art of exceptional quality fall by the wayside",
+    "rush to shower opportunities on the Marginalized du Jour",
+    "Liberal Tunnel Vision to be a barrier to my access to support and services",
+    "I am older, white, poor, and female"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived prioritization of support for currently marginalized groups over others",
+    "feeling overlooked due to age, race, gender, and economic status",
+    "ideological bias in funding decisions ('Liberal Tunnel Vision')"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:14.794800",
+  "cache_key": "878e4fcffd1045fa2ff32c72170cae4a2ed842a237c2dfc65160601d25398913",
+  "model": "gpt-41"
+}

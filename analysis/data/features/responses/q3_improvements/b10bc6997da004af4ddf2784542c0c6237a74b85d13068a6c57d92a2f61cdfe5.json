@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "reference to previous feedback",
+    "legacy arts organizations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Please see my previous response",
+    "legacy arts organizations"
+  ],
+  "intent": "refer_to_prior_input",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:07:18.874987",
+  "cache_key": "b10bc6997da004af4ddf2784542c0c6237a74b85d13068a6c57d92a2f61cdfe5",
+  "model": "gpt-41"
+}

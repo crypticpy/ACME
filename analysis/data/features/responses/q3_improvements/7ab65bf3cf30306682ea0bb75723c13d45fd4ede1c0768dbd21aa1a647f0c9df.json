@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of awareness about grant opportunities among artists",
+    "Complexity and discouragement in the grant application process",
+    "Filmmakers feeling invisible and unsupported",
+    "Funding programs favoring musicians and traditional visual artists over filmmakers",
+    "Financial precarity and self-funding among filmmakers",
+    "Film's broad community and economic impact"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "About 90% of the artists I speak with have never even heard of these grants",
+    "the process is so complex and discouraging that they'd rather fund their projects out of pocket",
+    "filmmakers often feel invisible",
+    "Most grant opportunities are tailored to musicians, traditional visual artists, or performers, leaving filmmakers overlooked",
+    "filmmakers to assume they'll need to crowdfund, scrape together personal savings, and juggle multiple jobs just to survive and create",
+    "building small, self-sustaining artistic communities with almost no institutional support",
+    "Film is one of the only art forms that requires a truly diverse village to bring it to life",
+    "Few other art forms mobilize such a broad and inclusive community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of awareness of grant opportunities",
+    "Complex and discouraging application process",
+    "Funding programs not tailored to filmmakers",
+    "Financial burden on filmmakers to self-fund projects",
+    "Lack of institutional support for filmmakers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:56:12.179449",
+  "cache_key": "7ab65bf3cf30306682ea0bb75723c13d45fd4ede1c0768dbd21aa1a647f0c9df",
+  "model": "gpt-41"
+}

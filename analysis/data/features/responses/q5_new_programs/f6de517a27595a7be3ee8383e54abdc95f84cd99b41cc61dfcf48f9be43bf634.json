@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased diversity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More diversity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More diversity"
+  ],
+  "cached_at": "2025-06-21T02:04:54.500609",
+  "cache_key": "f6de517a27595a7be3ee8383e54abdc95f84cd99b41cc61dfcf48f9be43bf634",
+  "model": "gpt-41"
+}

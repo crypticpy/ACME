@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased promotion",
+    "visibility of cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "more promotion"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient promotion"
+  ],
+  "solutions_proposed": [
+    "more promotion"
+  ],
+  "cached_at": "2025-06-21T01:07:08.551999",
+  "cache_key": "21891cb77452896d7a46cd7e64df97d7e7bce886b200cf41eff08dde78522dd7",
+  "model": "gpt-41"
+}

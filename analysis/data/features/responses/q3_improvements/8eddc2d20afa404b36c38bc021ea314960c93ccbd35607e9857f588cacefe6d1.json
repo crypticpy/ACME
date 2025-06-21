@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increasing access",
+    "workshop-based support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "workshops to enhance access"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access"
+  ],
+  "solutions_proposed": [
+    "workshops to enhance access"
+  ],
+  "cached_at": "2025-06-21T01:19:31.756905",
+  "cache_key": "8eddc2d20afa404b36c38bc021ea314960c93ccbd35607e9857f588cacefe6d1",
+  "model": "gpt-41"
+}

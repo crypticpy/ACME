@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "inclusivity in funding",
+    "support for diverse groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "overall, inclusive",
+    "support groups"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusivity"
+  ],
+  "solutions_proposed": [
+    "support groups that are overall, inclusive"
+  ],
+  "cached_at": "2025-06-21T01:09:59.367951",
+  "cache_key": "5aca62bc88fe3dbf16af2aeb709efff5d4fcb47de4e7ff9ca8f0cde283d562be",
+  "model": "gpt-41"
+}

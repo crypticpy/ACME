@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "centralized information access",
+    "application process clarity",
+    "direct human support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "one stop shop on a webpage",
+    "access info on these different cultural funding opportunities",
+    "clear instructions on how to apply",
+    "dedicated line to inquire with a living person"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing information",
+    "unclear application instructions",
+    "lack of direct human assistance"
+  ],
+  "solutions_proposed": [
+    "create a one stop shop webpage for funding opportunities",
+    "provide clear instructions on how to apply",
+    "establish a dedicated phone line for live assistance"
+  ],
+  "cached_at": "2025-06-21T01:02:29.447670",
+  "cache_key": "0fad3d7e5b52f31bbaf447aba9dbe0163e259b5433545c84b032a28c58c17f3d",
+  "model": "gpt-41"
+}

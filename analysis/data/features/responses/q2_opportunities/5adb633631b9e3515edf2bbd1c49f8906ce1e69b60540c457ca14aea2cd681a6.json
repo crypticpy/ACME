@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more cultural festivals and fairs",
+    "representation of local history through art",
+    "support and visibility for local indigenous groups",
+    "increased funding for new or less established cultural organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cultural festivals/fairs",
+    "artistic renderings of local history",
+    "platforms/resources/events for local indigenous groups",
+    "more funding given to cultural orgs that are new or less established"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for new or less established cultural organizations",
+    "limited platforms/resources/events for local indigenous groups"
+  ],
+  "solutions_proposed": [
+    "increase funding for new or less established cultural organizations",
+    "create more platforms, resources, and events for local indigenous groups",
+    "offer more cultural festivals and fairs",
+    "promote artistic renderings of local history"
+  ],
+  "cached_at": "2025-06-21T00:42:18.833783",
+  "cache_key": "5adb633631b9e3515edf2bbd1c49f8906ce1e69b60540c457ca14aea2cd681a6",
+  "model": "gpt-41"
+}

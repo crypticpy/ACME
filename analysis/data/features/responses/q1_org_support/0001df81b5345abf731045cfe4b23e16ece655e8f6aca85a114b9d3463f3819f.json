@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased funding for organizations",
+    "more grants for artists",
+    "financial support as a priority"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "More funding for organizations",
+    "grants for artists",
+    "would be huge"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for organizations",
+    "lack of grants for artists"
+  ],
+  "solutions_proposed": [
+    "increase funding for organizations",
+    "provide more grants for artists"
+  ],
+  "cached_at": "2025-06-20T10:22:40.292124",
+  "cache_key": "0001df81b5345abf731045cfe4b23e16ece655e8f6aca85a114b9d3463f3819f",
+  "model": "gpt-41"
+}

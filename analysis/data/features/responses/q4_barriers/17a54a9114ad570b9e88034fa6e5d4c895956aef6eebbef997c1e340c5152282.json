@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of information sources",
+    "team knowledge",
+    "lack of barriers experienced"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "knowledgeable about where to look for information"
+  ],
+  "intent": "barrier_negation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:47.182590",
+  "cache_key": "17a54a9114ad570b9e88034fa6e5d4c895956aef6eebbef997c1e340c5152282",
+  "model": "gpt-41"
+}

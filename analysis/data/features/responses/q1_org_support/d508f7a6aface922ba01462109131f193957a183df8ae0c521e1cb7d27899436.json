@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "City council's support for real estate development over creative community",
+    "Impact of large infrastructure projects on affordability",
+    "Misallocation of city funds away from the creative sector",
+    "Critique of Project Connect and Convention Center expansion",
+    "Policy decisions affecting opportunities for creative people"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "rubber-stamping real estate development projects",
+    "hurting affordability and opportunities for creative people",
+    "Project Connect is a real estate project with some transportation added",
+    "The city could get so much more for so much less, freeing up $$$ for the creative community",
+    "Same for the new Convention Center and DB90 zoning"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Project Connect",
+    "Convention Center",
+    "DB90 zoning"
+  ],
+  "barriers_identified": [
+    "City prioritizing real estate development over creative sector",
+    "Affordability issues for creative people",
+    "City funding directed to large projects instead of creative community"
+  ],
+  "solutions_proposed": [
+    "Educate the city council about the negative impact of current development philosophy",
+    "Redirect city funds from large real estate projects to support the creative community"
+  ],
+  "cached_at": "2025-06-20T10:23:18.939426",
+  "cache_key": "d508f7a6aface922ba01462109131f193957a183df8ae0c521e1cb7d27899436",
+  "model": "gpt-41"
+}

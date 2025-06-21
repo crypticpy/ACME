@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "threat to equity and access for organizations led by and serving people of color",
+    "impact of funding changes on community programming sustainability",
+    "risk of accelerating loss of Black and Brown residents",
+    "potential decline in diversity and number of funded projects",
+    "concern that proposed model limits participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "50% match requirement threaten to undo the equity and access initiatives",
+    "helped organizations led by and serving people of color thrive",
+    "risk accelerating that loss",
+    "make it significantly harder for organizations to plan and sustain meaningful, community programming",
+    "could severely limit participation",
+    "lead to a decline in both the number and diversity of funded projects"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "50% match requirement",
+    "difficulty in planning and sustaining meaningful, community programming",
+    "severely limited participation for organizations led by and serving people of color"
+  ],
+  "solutions_proposed": [
+    "avoid implementing the proposed 50% match requirement"
+  ],
+  "cached_at": "2025-06-20T01:15:13.797404",
+  "cache_key": "25f6a8f124d424d0dc4e21e616d288494180834f32b439cab17124bffd8e7612",
+  "model": "gpt-41"
+}

@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "exclusion from decision-making due to grant eligibility",
+    "need for broader community input",
+    "willingness to participate in engagement efforts",
+    "optimism about ACME's vision for the arts ecosystem"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "our org was ineligible to serve on the initial ACME working group",
+    "this may be prohibitive in fully gathering community input",
+    "we are happy to help and available to do so",
+    "excited and hopeful about ACME's vision and potential",
+    "create a more healthy and supportive ecosystem"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "ineligibility to serve on the working group due to program participation",
+    "limited community input from industry stakeholders and professionals"
+  ],
+  "solutions_proposed": [
+    "other methods of engagement"
+  ],
+  "cached_at": "2025-06-21T02:12:03.631605",
+  "cache_key": "c13dabe2ab3fc29a92a8c9266e55152796cc94584332ebc69b7c4e972d814cba",
+  "model": "gpt-41"
+}

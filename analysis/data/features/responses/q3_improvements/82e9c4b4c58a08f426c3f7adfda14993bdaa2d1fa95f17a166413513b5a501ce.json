@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased program awareness",
+    "need for accessible participation tools"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Awareness and tools to be part of this programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "lack of tools to participate"
+  ],
+  "solutions_proposed": [
+    "increase awareness of programs",
+    "provide tools to enable participation"
+  ],
+  "cached_at": "2025-06-21T00:58:54.634471",
+  "cache_key": "82e9c4b4c58a08f426c3f7adfda14993bdaa2d1fa95f17a166413513b5a501ce",
+  "model": "gpt-41"
+}

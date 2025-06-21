@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of outreach from ACME",
+    "need for community engagement",
+    "importance of trust-building",
+    "exclusion from decision-making",
+    "concerns about proposed funding changes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I direct a nonprofit organization, and I have not been reached out to by the office",
+    "None of my peers have been reached out to by the office",
+    "Creating opportunities for collective voice",
+    "Getting to know the community and building trust with us, before proposing changes to the funding structure, is imperative"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach from ACME",
+    "exclusion from communication and engagement"
+  ],
+  "solutions_proposed": [
+    "ACME should reach out to organizations and cultural leaders",
+    "Create opportunities for collective voice",
+    "Build trust with the community before proposing changes to the funding structure"
+  ],
+  "cached_at": "2025-06-20T01:11:45.741182",
+  "cache_key": "919ade633d356bb76c8505adab1c9b8c648fed6eed9daaa7c936102b5c7b8ef7",
+  "model": "gpt-41"
+}

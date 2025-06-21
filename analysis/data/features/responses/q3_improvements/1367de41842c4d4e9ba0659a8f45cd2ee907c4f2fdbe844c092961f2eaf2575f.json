@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of panelist expertise and training",
+    "exclusion of grant applicants from funding discussions",
+    "decline in support for arts venues",
+    "inadequate funding despite strong track record",
+    "changes in funding process procedures"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Better panelists",
+    "panelists seem to lack training or expertise",
+    "grant writers are not allowed to speak",
+    "panelists and grant applicants met in a room and applicants were allowed to speak",
+    "no longer takes into account the importance of supporting the few venues we have left",
+    "I run one of only a handful of arts venues in the city",
+    "received the minimum amount of funding in the past two funding cycles"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "panelists lack training or expertise",
+    "grant writers/applicants not allowed to speak during discussions",
+    "funding process does not prioritize support for remaining venues",
+    "inadequate funding allocation despite high performance"
+  ],
+  "solutions_proposed": [
+    "improve panelist selection and training",
+    "allow grant applicants to participate in funding discussions as in previous years",
+    "prioritize support for existing arts venues"
+  ],
+  "cached_at": "2025-06-21T01:14:58.603719",
+  "cache_key": "1367de41842c4d4e9ba0659a8f45cd2ee907c4f2fdbe844c092961f2eaf2575f",
+  "model": "gpt-41"
+}

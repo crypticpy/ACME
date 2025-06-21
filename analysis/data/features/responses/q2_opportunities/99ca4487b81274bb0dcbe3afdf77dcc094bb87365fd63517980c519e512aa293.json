@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more Black Theatre",
+    "Interest in increased concerts",
+    "Interest in more festivals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More Black Theatre",
+    "concerts",
+    "festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase Black Theatre opportunities",
+    "Offer more concerts",
+    "Host more festivals"
+  ],
+  "cached_at": "2025-06-21T00:27:43.960169",
+  "cache_key": "99ca4487b81274bb0dcbe3afdf77dcc094bb87365fd63517980c519e512aa293",
+  "model": "gpt-41"
+}

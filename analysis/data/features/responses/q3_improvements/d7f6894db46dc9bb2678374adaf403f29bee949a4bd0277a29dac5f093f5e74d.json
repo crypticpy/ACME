@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Lack of standard checks and balances in Austin's programs",
+    "Concerns about rapid city growth and inadequate adaptation",
+    "Critique of funding for for-profit organizations",
+    "Need for fiscal sponsorship requirements",
+    "Insufficient expertise in grant adjudication",
+    "Preference for adopting best practices from other cities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "reinstate some of the standard checks and balances",
+    "leverage the best practices of what has been done elsewhere",
+    "short-sighted, extremely flawed programs that hurt more than help",
+    "reinstate the requirement of fiscal sponsorship for those that are not 501(c)3 orgs",
+    "deny funding for for-profit orgs",
+    "siphoning tax dollars out of the community into the hands of orgs that are designed to make profits",
+    "legitimate training for adjudication of grant applications",
+    "individuals passing judgements on grant applications with NO working knowledge of the industry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "for-profit organizations competing with nonprofits for funding",
+    "lack of fiscal sponsorship requirement for non-501(c)3 organizations",
+    "grant adjudicators lacking industry knowledge"
+  ],
+  "solutions_proposed": [
+    "reinstate standard checks and balances",
+    "adopt best practices from other cities",
+    "reinstate requirement of fiscal sponsorship for non-501(c)3 organizations",
+    "deny funding for for-profit organizations",
+    "provide legitimate training for adjudication of grant applications"
+  ],
+  "cached_at": "2025-06-21T00:55:26.558573",
+  "cache_key": "d7f6894db46dc9bb2678374adaf403f29bee949a4bd0277a29dac5f093f5e74d",
+  "model": "gpt-41"
+}

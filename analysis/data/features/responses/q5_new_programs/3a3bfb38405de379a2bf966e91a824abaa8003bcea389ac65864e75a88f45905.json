@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of Asian cultural events",
+    "desire for increased cultural diversity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More Asian Cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of Asian cultural events"
+  ],
+  "solutions_proposed": [
+    "offer more Asian Cultural events"
+  ],
+  "cached_at": "2025-06-21T01:57:28.134533",
+  "cache_key": "3a3bfb38405de379a2bf966e91a824abaa8003bcea389ac65864e75a88f45905",
+  "model": "gpt-41"
+}

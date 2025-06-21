@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased visibility for visual arts",
+    "increased visibility for sound arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more prominence for visual arts",
+    "more prominence for sound arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase prominence for visual arts",
+    "increase prominence for sound arts"
+  ],
+  "cached_at": "2025-06-21T00:29:13.896189",
+  "cache_key": "4a7c39c639bd236c00f6f0322dcd7ac23b914a44aa2453151fb62425a65590e9",
+  "model": "gpt-41"
+}

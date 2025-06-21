@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artists and solidarity economy",
+    "coalition-building among creative entities",
+    "creative economies prioritizing social wellbeing",
+    "ecological restoration and sustainability",
+    "creativity as a tool for liberation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Artists & Solidarity Economy Program",
+    "strengthen and form coalition around entities",
+    "creative economies that are focused on social wellbeing and ecological restoration and sustainability over profit",
+    "using our creativity as a means of production to liberation for all"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Artists & Solidarity Economy Program"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Help organize an Artists & Solidarity Economy Program",
+    "Form coalitions around creative entities focused on social wellbeing and sustainability"
+  ],
+  "cached_at": "2025-06-21T01:52:34.410656",
+  "cache_key": "7094477ab5704c18d53e552ef8442ac2b0ec7b8531c8e9647391450127e4f4fa",
+  "model": "gpt-41"
+}

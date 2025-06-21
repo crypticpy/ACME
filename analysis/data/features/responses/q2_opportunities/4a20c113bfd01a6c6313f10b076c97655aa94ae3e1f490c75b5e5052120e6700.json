@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "multicultural celebrations",
+    "representation of Asian cultures",
+    "community cultural events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Celebrations of cultures",
+    "Chinese New Year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Chinese New Year"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More celebrations of cultures such as Chinese New Year"
+  ],
+  "cached_at": "2025-06-21T00:47:16.677474",
+  "cache_key": "4a20c113bfd01a6c6313f10b076c97655aa94ae3e1f490c75b5e5052120e6700",
+  "model": "gpt-41"
+}

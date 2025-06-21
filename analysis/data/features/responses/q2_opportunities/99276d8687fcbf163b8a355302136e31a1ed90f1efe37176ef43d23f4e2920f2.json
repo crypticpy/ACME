@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Preference for local and DIY festivals over corporate events",
+    "Desire for increased support from local businesses for the arts",
+    "Critique of large outside companies using public resources without local benefit",
+    "Recognition for local business contributions to the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Local DIY &/or municipal festivals and events to counter large corporate festivals",
+    "More local businesses supporting the arts",
+    "being recognized for their support",
+    "large companies from outside Austin using our public facilities and infrastructure, but not contributing to the local economy and community year round"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Large companies from outside Austin using public facilities and infrastructure but not contributing to the local economy and community year round"
+  ],
+  "solutions_proposed": [
+    "Increase local DIY and municipal festivals and events",
+    "Encourage more local businesses to support the arts",
+    "Recognize local businesses for their support"
+  ],
+  "cached_at": "2025-06-21T00:52:35.689837",
+  "cache_key": "99276d8687fcbf163b8a355302136e31a1ed90f1efe37176ef43d23f4e2920f2",
+  "model": "gpt-41"
+}

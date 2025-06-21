@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "distribution of funding",
+    "standardization of grant amounts",
+    "organizational capacity review"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding spread out among more organizations",
+    "Amounts more standard across all organizations",
+    "Better review of an organization's planning and financial capabilities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uneven distribution of funding",
+    "inconsistent funding amounts",
+    "insufficient review of organizational planning and financial capabilities"
+  ],
+  "solutions_proposed": [
+    "Spread funding among more organizations",
+    "Standardize funding amounts across all organizations",
+    "Improve review of organization's planning and financial capabilities"
+  ],
+  "cached_at": "2025-06-21T01:18:54.693124",
+  "cache_key": "a0365e1e92d4c5e0e2a344220e36bbc5cef086fc7ce8d37d01479c1e37474ddf",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusion of working professionals and artists in decision-making",
+    "investment in foundational non-profits",
+    "support for new and emerging artists",
+    "separation of non-profit and commercial funding streams",
+    "concern about competition between non-profits and commercial artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Utilize working professionals and artists in the process",
+    "invest in the overall eco system",
+    "support foundational non-profits",
+    "set working investments in new and emerging artists",
+    "Do not mix non-profit funding sources with commercial artistic support",
+    "creating competition that should not exist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition between non-profits and commercial artists due to mixed funding sources"
+  ],
+  "solutions_proposed": [
+    "Utilize working professionals and artists in the process",
+    "invest in the overall ecosystem to support foundational non-profits",
+    "set investments in new and emerging artists",
+    "do not mix non-profit funding sources with commercial artistic support"
+  ],
+  "cached_at": "2025-06-20T10:35:27.803856",
+  "cache_key": "25d6b6a34b61a9113707256403e4427ce6c2d06f571316bcd943e5329b08a93a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach",
+    "community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Much more outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "increase outreach"
+  ],
+  "cached_at": "2025-06-21T01:03:42.382519",
+  "cache_key": "30ae9688e410a11aba0120397bae07fd27769eb016b2708aab570b34d7a63288",
+  "model": "gpt-41"
+}

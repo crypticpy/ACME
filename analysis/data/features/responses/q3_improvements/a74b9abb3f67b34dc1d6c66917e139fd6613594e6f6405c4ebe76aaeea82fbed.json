@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding for comedy and experimental theater",
+    "complexity and lack of clarity in application guidelines",
+    "barriers for artists without professional grant writing experience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More funding for comedy and experimental theater",
+    "clearer guidelines for the applications",
+    "I am a professional grant writer and I have still struggled with the structure of the Nexus applications",
+    "how difficult it would be for other artists who do not have a professional writing background"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "complex structure of the Nexus applications",
+    "lack of clear guidelines",
+    "difficulty for artists without professional writing background"
+  ],
+  "solutions_proposed": [
+    "more funding for comedy and experimental theater",
+    "clearer guidelines for the applications"
+  ],
+  "cached_at": "2025-06-21T01:09:28.643447",
+  "cache_key": "a74b9abb3f67b34dc1d6c66917e139fd6613594e6f6405c4ebe76aaeea82fbed",
+  "model": "gpt-41"
+}

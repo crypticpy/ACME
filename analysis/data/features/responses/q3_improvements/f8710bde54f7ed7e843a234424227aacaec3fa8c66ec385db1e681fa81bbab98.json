@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived overcorrection in funding priorities",
+    "economic pressures on artists",
+    "loss of young and emerging artists",
+    "affordability and class barriers",
+    "need for balanced support across artist demographics"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin shifted its model so that its priority was SOLELY to support art from underrepresented communities",
+    "that is a GREAT and IMPORTANT priority, but it shouldn't be the only priority",
+    "Artists across the board are struggling",
+    "we're losing the generation of young, talented artists",
+    "only the old and established, the young and trust-funded, or the young and have-a-job-in-tech can afford to make the art"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding perceived as exclusive to underrepresented communities",
+    "high cost of living in Austin",
+    "economic barriers for artists without independent wealth or tech jobs"
+  ],
+  "solutions_proposed": [
+    "broaden funding priorities to support a wider range of artists"
+  ],
+  "cached_at": "2025-06-21T01:09:05.091430",
+  "cache_key": "f8710bde54f7ed7e843a234424227aacaec3fa8c66ec385db1e681fa81bbab98",
+  "model": "gpt-41"
+}

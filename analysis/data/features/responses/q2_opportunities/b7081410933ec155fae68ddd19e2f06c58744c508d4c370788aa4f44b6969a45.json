@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of art museums",
+    "support for emerging artists",
+    "mentorship opportunities",
+    "increasing public appreciation for the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "New and more art museums",
+    "Grants that help out the new artist",
+    "Mentor programs",
+    "Grow an appreciation for the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for new artists",
+    "insufficient art museums",
+    "limited mentorship opportunities"
+  ],
+  "solutions_proposed": [
+    "create new and more art museums",
+    "provide grants for new artists",
+    "establish mentor programs",
+    "promote appreciation for the arts"
+  ],
+  "cached_at": "2025-06-21T00:44:30.882761",
+  "cache_key": "b7081410933ec155fae68ddd19e2f06c58744c508d4c370788aa4f44b6969a45",
+  "model": "gpt-41"
+}

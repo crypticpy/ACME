@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty accessing funding",
+    "burdensome application process",
+    "perceived lack of institutional support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "ease of access to funds",
+    "applications are cumbersome",
+    "feels like they are trying to trip you not help you out"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cumbersome application process",
+    "perception that the system is adversarial rather than supportive"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:55.004891",
+  "cache_key": "c0d2b03696670d1f0c5d7b7c5d5cbf8637c5dfffaf541ae6d3b43097289208c6",
+  "model": "gpt-41"
+}

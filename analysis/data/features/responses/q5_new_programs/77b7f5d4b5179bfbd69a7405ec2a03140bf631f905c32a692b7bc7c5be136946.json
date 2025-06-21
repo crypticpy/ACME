@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "corporate engagement with arts nonprofits",
+    "organizational mergers and consolidation",
+    "inefficiency and replication in the arts sector",
+    "outsourcing of technical support and grant administration",
+    "decline in service quality for applicants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "connecting corporations to arts nonprofits",
+    "encouraging mergers and consolidation among similar arts organizations",
+    "Austin has too much replication in the arts sector",
+    "return technical support and grant administration to within the City",
+    "outsourcing such important work has led to confusion and poorer service for applicants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "replication in the arts sector",
+    "confusion and poorer service due to outsourcing of technical support and grant administration"
+  ],
+  "solutions_proposed": [
+    "connect corporations to arts nonprofits",
+    "encourage mergers and consolidation among similar arts organizations",
+    "return technical support and grant administration to within the City"
+  ],
+  "cached_at": "2025-06-21T01:55:28.285229",
+  "cache_key": "77b7f5d4b5179bfbd69a7405ec2a03140bf631f905c32a692b7bc7c5be136946",
+  "model": "gpt-41"
+}

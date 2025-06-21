@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for larger-scale cultural events",
+    "expansion of existing cultural offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "see the cultural events scaled up"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "scale up cultural events"
+  ],
+  "cached_at": "2025-06-21T00:33:37.662147",
+  "cache_key": "b0704da3f8bfa8eab2501e8463a31f2c6773b0dfeeb61446e5df7fea10379d3a",
+  "model": "gpt-41"
+}

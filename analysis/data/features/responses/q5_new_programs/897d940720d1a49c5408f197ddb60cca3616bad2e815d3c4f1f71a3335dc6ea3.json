@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for public art education",
+    "concerns about material durability in public art",
+    "critique of superficiality in art presentations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "what we really need is an education of public art",
+    "what it takes, materials, best materials for longevity",
+    "I see waay too many public art that has no clue what is actually long lived",
+    "they sure had a fancy presentation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about durable materials in public art",
+    "focus on presentation over substance"
+  ],
+  "solutions_proposed": [
+    "offer education on public art materials and longevity"
+  ],
+  "cached_at": "2025-06-21T02:01:25.391685",
+  "cache_key": "897d940720d1a49c5408f197ddb60cca3616bad2e815d3c4f1f71a3335dc6ea3",
+  "model": "gpt-41"
+}

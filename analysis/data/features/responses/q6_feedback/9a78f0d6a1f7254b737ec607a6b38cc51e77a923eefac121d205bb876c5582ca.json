@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived prioritization of corporations and developers over citizens",
+    "skepticism about the value of arts funding compared to basic needs",
+    "reference to Maslow's hierarchy of needs in public funding priorities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "given everything to corporations and real estate developers",
+    "left citizens high and dry",
+    "funding artists is nice but Maslow's hierarchy of needs says otherwise"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived lack of support for citizens' basic needs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:20:51.839537",
+  "cache_key": "9a78f0d6a1f7254b737ec607a6b38cc51e77a923eefac121d205bb876c5582ca",
+  "model": "gpt-41"
+}

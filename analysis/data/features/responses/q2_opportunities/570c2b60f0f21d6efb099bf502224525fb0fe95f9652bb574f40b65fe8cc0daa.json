@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for multicultural music experiences",
+    "interest in themed cultural events",
+    "preference for live theater options",
+    "preference for indoor venues over outdoor"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Music from different cultures",
+    "themed nights with musicians or bands actually from that culture",
+    "More live theater options",
+    "the summer theater at zilker is nice but I want to be indoors lol"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "summer theater at zilker"
+  ],
+  "barriers_identified": [
+    "outdoor venues not preferred"
+  ],
+  "solutions_proposed": [
+    "themed nights with musicians or bands actually from that culture",
+    "more live theater options",
+    "indoor theater options"
+  ],
+  "cached_at": "2025-06-21T00:47:20.082546",
+  "cache_key": "570c2b60f0f21d6efb099bf502224525fb0fe95f9652bb574f40b65fe8cc0daa",
+  "model": "gpt-41"
+}

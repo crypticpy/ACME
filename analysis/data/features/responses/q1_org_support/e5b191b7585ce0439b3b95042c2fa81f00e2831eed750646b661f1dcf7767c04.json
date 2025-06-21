@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "instability of annual funding cycles",
+    "challenges for small organizations",
+    "dependence on city funding",
+    "competitive grant environment",
+    "need for long-term sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "focus on long-term sustainability",
+    "year-to-year change can throw off an organization's ability to plan long-term",
+    "responsibility to make sure that your funding is a stable source",
+    "really competitive environment each year",
+    "small organizations are also really dependent on continued funding",
+    "not receiving a grant one year can be devastating to a small arts group"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unstable year-to-year funding",
+    "highly competitive grant process",
+    "dependency on city funding for survival"
+  ],
+  "solutions_proposed": [
+    "focus on long-term sustainability in funding programs",
+    "make funding a stable source"
+  ],
+  "cached_at": "2025-06-20T10:35:05.484450",
+  "cache_key": "e5b191b7585ce0439b3b95042c2fa81f00e2831eed750646b661f1dcf7767c04",
+  "model": "gpt-41"
+}

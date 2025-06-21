@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Overcrowding and affordability limiting enjoyment of cultural events",
+    "Desire for smaller, more intimate arts opportunities",
+    "Need for geographic distribution of events across the city",
+    "Partnerships with schools, non-profits, and private entities",
+    "Demand for more downtown art galleries",
+    "Support for pop-up arts events to showcase new artists and perspectives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Austin is too expensive and too crowded to enjoy the same way in years past",
+    "offer smaller, more intimate opportunities throughout the city",
+    "partner with schools, non-profits, private entities",
+    "need more art galleries downtown",
+    "Allowing for pop-ups in the various arts is helpful",
+    "bring out fresh perspectives, new artists and creatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Austin is too expensive",
+    "Austin is too crowded"
+  ],
+  "solutions_proposed": [
+    "Offer smaller, more intimate opportunities throughout the city",
+    "Partner with schools, non-profits, private entities",
+    "Increase the number of art galleries downtown",
+    "Allow pop-ups in the various arts to bring out new artists and creatives"
+  ],
+  "cached_at": "2025-06-21T00:39:11.960924",
+  "cache_key": "f09a173ba04ba7be2d1303e3a6802876640bde2194a44e025a12d1610e79b9cb",
+  "model": "gpt-41"
+}

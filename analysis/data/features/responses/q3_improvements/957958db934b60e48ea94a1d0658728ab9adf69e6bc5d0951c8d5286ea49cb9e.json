@@ -1,0 +1,44 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "ineffective communication before and during grant process",
+    "complex and confusing grant application steps",
+    "delays in disbursement of award funds",
+    "difficulty navigating multiple city portals and websites",
+    "perceived inequitable distribution of grant funds"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Communication prior to grants... needs a BIG overhaul",
+    "the city music grant looked like a Big pool of money but didn't seem to serve that many people",
+    "steps seem to be long and a bit convoluted",
+    "Award money takes a while to be sent through",
+    "multiple portals I need to go to along the way",
+    "city website is the most unhelpful resource",
+    "Streamlining the communication and creating pages/documents with hyper links would be helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "city music grant",
+    "Heritage Preservation Grant"
+  ],
+  "barriers_identified": [
+    "poor communication about grants",
+    "complex and lengthy application process",
+    "slow disbursement of funds",
+    "fragmented online portals",
+    "unhelpful city website"
+  ],
+  "solutions_proposed": [
+    "overhaul communication prior to grants",
+    "streamline communication",
+    "create pages/documents with hyperlinks"
+  ],
+  "cached_at": "2025-06-21T01:09:23.471414",
+  "cache_key": "957958db934b60e48ea94a1d0658728ab9adf69e6bc5d0951c8d5286ea49cb9e",
+  "model": "gpt-41"
+}

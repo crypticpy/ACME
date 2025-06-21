@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of living impacting artists",
+    "competition with tech sector for housing",
+    "artists working multiple low wage jobs",
+    "lack of time for artistic practice"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of time due to high cost of living",
+    "Local artists can\u2019t compete with high paying tech jobs",
+    "forced to work several low wage jobs",
+    "less time to dedicate to their art"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living",
+    "inability to compete with tech sector wages",
+    "need to work multiple low wage jobs",
+    "insufficient time for art due to economic pressures"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:13.054935",
+  "cache_key": "b489f60286a6aa2fde4d686151f58d3906de0f44165d020be0357ad1478e8103",
+  "model": "gpt-41"
+}

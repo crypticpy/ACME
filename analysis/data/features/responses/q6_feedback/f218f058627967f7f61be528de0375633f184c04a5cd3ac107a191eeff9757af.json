@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "appreciation for public engagement",
+    "desire for ongoing dialogue"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Thankyou for taking time for this survey with the public",
+    "Let\u2019s keep the conversation going"
+  ],
+  "intent": "express_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:52.442125",
+  "cache_key": "f218f058627967f7f61be528de0375633f184c04a5cd3ac107a191eeff9757af",
+  "model": "gpt-41"
+}

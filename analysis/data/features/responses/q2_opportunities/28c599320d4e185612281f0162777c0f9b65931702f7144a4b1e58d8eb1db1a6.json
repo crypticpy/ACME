@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for short performances",
+    "inclusion of community musical groups",
+    "variety in performance types (choirs, theater, comedians)",
+    "integration of performances at events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more short sampler-type community musical group performances",
+    "like choirs or theater groups or comedians, etc",
+    "included at events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Include more short sampler-type community musical group performances at events"
+  ],
+  "cached_at": "2025-06-21T00:30:52.756428",
+  "cache_key": "28c599320d4e185612281f0162777c0f9b65931702f7144a4b1e58d8eb1db1a6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of South Asian communities",
+    "representation in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Involve south Asian communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of involvement of South Asian communities"
+  ],
+  "solutions_proposed": [
+    "Involve south Asian communities"
+  ],
+  "cached_at": "2025-06-21T01:04:13.213816",
+  "cache_key": "382f9b19b283ffc3de7b191f28ffc39dd4b1d611c3486f2d1e402d31475e9375",
+  "model": "gpt-41"
+}

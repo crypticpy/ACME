@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for direct funding",
+    "application language barriers",
+    "misalignment between requirements and accessibility",
+    "importance of local consultant involvement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fund them",
+    "work with local consultants on the language of the applications",
+    "Everything seems disjointed",
+    "the language and stipulations for the funding do not align",
+    "makes it accessible to those that need it most"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "disjointed language and stipulations in funding applications",
+    "lack of accessibility for those who need funding most"
+  ],
+  "solutions_proposed": [
+    "provide funding directly",
+    "collaborate with local consultants to improve application language"
+  ],
+  "cached_at": "2025-06-20T10:39:06.136887",
+  "cache_key": "a3786bdf0de2ebfac83b0f64a3a498a190743c51b0d31c9c3ebd15d0aa640371",
+  "model": "gpt-41"
+}

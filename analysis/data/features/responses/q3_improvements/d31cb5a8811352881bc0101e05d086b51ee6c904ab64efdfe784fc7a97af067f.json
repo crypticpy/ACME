@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "equal consideration for legacy and new organizations",
+    "support for organizations with their own performance spaces",
+    "prioritizing diversity and accessibility",
+    "audience engagement and encouragement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "equal consideration should be given to established legacy companies",
+    "especially those that support their own performance spaces",
+    "new organizations with a focus on diversity and accessibility for all",
+    "encouragement for audiences to get out to see the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equal consideration between legacy and new organizations",
+    "insufficient focus on diversity and accessibility",
+    "insufficient audience engagement"
+  ],
+  "solutions_proposed": [
+    "equal consideration for established legacy companies and new organizations",
+    "support for organizations that maintain their own performance spaces",
+    "focus on diversity and accessibility for all",
+    "encouragement for audiences to attend arts events"
+  ],
+  "cached_at": "2025-06-21T01:13:28.116608",
+  "cache_key": "d31cb5a8811352881bc0101e05d086b51ee6c904ab64efdfe784fc7a97af067f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased support for classical music organizations",
+    "personal bias or preference acknowledged",
+    "specific mention of local classical groups"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I am biased.",
+    "I would love more support for classical organizations",
+    "such as Conspirare and the Texas Early Music Project"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Conspirare",
+    "Texas Early Music Project"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support for classical organizations"
+  ],
+  "cached_at": "2025-06-21T00:51:24.735455",
+  "cache_key": "51e6108888409650332a541b629414d00fc73865e9a80d699bf85e6994323eb8",
+  "model": "gpt-41"
+}

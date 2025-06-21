@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "empowerment of existing cultural ecosystem",
+    "job creation for cultural workers",
+    "leveraging funding for systemic change",
+    "equity and inclusion in hiring and programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "empower the existing ecosystem",
+    "use its expertise and experience to create new jobs for cultural workers",
+    "use its funding leverage to bend this ecosystem toward greater equity and inclusion",
+    "equity and inclusion in hiring and programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equity and inclusion in hiring and programming"
+  ],
+  "solutions_proposed": [
+    "empower the existing ecosystem to use its expertise and experience",
+    "create new jobs for cultural workers",
+    "use funding leverage to promote equity and inclusion in hiring and programming"
+  ],
+  "cached_at": "2025-06-20T10:27:56.084175",
+  "cache_key": "7428a21c0054803769c02d89127cb50ec626887721cd6906b8382c875f4676ba",
+  "model": "gpt-41"
+}

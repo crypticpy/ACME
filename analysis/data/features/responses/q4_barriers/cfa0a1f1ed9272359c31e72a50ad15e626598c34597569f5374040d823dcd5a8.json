@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "lack of available space for arts and culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "financial barriers",
+    "space limitations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial barriers",
+    "space limitations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:58.860040",
+  "cache_key": "cfa0a1f1ed9272359c31e72a50ad15e626598c34597569f5374040d823dcd5a8",
+  "model": "gpt-41"
+}

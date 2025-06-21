@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased grant opportunities for musicians",
+    "support for music-related expenses (recording, touring, gear)",
+    "addressing high cost of living for musicians"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more grants and programs for musicians",
+    "help fund recording, touring, gear",
+    "high cost of living"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living",
+    "lack of funding for recording, touring, and gear"
+  ],
+  "solutions_proposed": [
+    "more grants and programs for musicians to help fund recording, touring, gear, and high cost of living"
+  ],
+  "cached_at": "2025-06-21T02:04:45.756165",
+  "cache_key": "39c7392df2d9c5d10ec6060e6f16ec018def8b344263ade8e3ce1f47fa38727a",
+  "model": "gpt-41"
+}

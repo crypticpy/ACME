@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "local decision-making and community involvement",
+    "artist affordability and displacement",
+    "building on existing cultural strengths",
+    "resource accessibility for artists",
+    "concern over loss of Austin's artistic identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Make local organizational and cultural centered decisions",
+    "invite and involve local cultural workers in every step and aspect of decisions",
+    "build on what\u2019s already working rather than take one step forward and three steps back",
+    "invest in programs that prioritize affordability and accessibility to resources for artists",
+    "artists are not forced to leave and go somewhere else just to survive",
+    "build on Austin\u2019s historic reputation as a special place intertwined with the arts",
+    "exploiting the remaining fumes of times gone by where artists could truly live and work here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordability for artists",
+    "insufficient accessibility to resources",
+    "artists being forced to leave Austin to survive",
+    "decision-making processes that exclude local cultural workers"
+  ],
+  "solutions_proposed": [
+    "make local organizational and cultural centered decisions",
+    "invite and involve local cultural workers in every step and aspect of decisions",
+    "build on what\u2019s already working",
+    "invest in programs that prioritize affordability and accessibility to resources for artists",
+    "build on Austin\u2019s historic reputation as a special place intertwined with the arts"
+  ],
+  "cached_at": "2025-06-20T01:17:18.466384",
+  "cache_key": "1502af348ecfaa25c2231f16f49e7ee7573a84d24caf6e0ae74171e2c90f54b8",
+  "model": "gpt-41"
+}

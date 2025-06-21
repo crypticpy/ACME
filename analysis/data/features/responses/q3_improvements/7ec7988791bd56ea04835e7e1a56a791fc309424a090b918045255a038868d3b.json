@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process complexity",
+    "bureaucratic barriers",
+    "need for simplification"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "application process less confusing",
+    "less bureaucratic"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "confusing application process",
+    "bureaucratic procedures"
+  ],
+  "solutions_proposed": [
+    "make application process less confusing",
+    "reduce bureaucracy"
+  ],
+  "cached_at": "2025-06-21T01:12:50.781428",
+  "cache_key": "7ec7988791bd56ea04835e7e1a56a791fc309424a090b918045255a038868d3b",
+  "model": "gpt-41"
+}

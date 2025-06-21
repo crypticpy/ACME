@@ -1,0 +1,41 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for more exhibition spaces",
+    "publicity for community art venues",
+    "utilization of underused wall spaces",
+    "recognition and support for organizations facilitating art displays",
+    "community access to art exhibitions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more exhibition spaces, public and private",
+    "more publicity for community spaces for art exhibitions like the YMCA",
+    "underused wall spaces that could show community artists",
+    "Creative Arts Society does a great job",
+    "should be encouraged, recognised and rewarded"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "YMCA",
+    "Creative Arts Society"
+  ],
+  "barriers_identified": [
+    "lack of exhibition spaces",
+    "insufficient publicity for community art venues",
+    "underutilization of available wall spaces"
+  ],
+  "solutions_proposed": [
+    "create more exhibition spaces, both public and private",
+    "increase publicity for community art exhibition spaces",
+    "encourage use of underused wall spaces for community artists",
+    "recognize and reward organizations that organize art displays in nontraditional venues"
+  ],
+  "cached_at": "2025-06-21T00:35:39.542532",
+  "cache_key": "aa5604236a72ef4ef1fb9f52fcaf914432031fcb166b5e6ffaec5035ba58d5a5",
+  "model": "gpt-41"
+}

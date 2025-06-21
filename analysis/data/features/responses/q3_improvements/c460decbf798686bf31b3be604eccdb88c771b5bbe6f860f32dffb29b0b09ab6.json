@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived favoritism in grant distribution",
+    "equity among diverse communities",
+    "validity and value of different cultural narratives",
+    "distribution of funding across organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "specific communities have recently been more favored with grants",
+    "large amounts of money instead of money being spread across a larger number of organizations",
+    "Austin is a very diverse city",
+    "who is to say that a queer story or femme story or black story is more valid when compared to another from one of those groups"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "perceived inequity in grant allocation",
+    "lack of clarity in how cultural value is determined"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:04:38.112851",
+  "cache_key": "c460decbf798686bf31b3be604eccdb88c771b5bbe6f860f32dffb29b0b09ab6",
+  "model": "gpt-41"
+}

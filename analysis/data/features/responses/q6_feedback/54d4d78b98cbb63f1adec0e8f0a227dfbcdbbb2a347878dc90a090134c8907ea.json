@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "request for increased institutional support",
+    "recognition of long-term contribution",
+    "focus on a specific cultural institution"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Support The Museum of Fine Arts, Austin more",
+    "we have been doing shows for 34 years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Museum of Fine Arts, Austin"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support The Museum of Fine Arts, Austin more"
+  ],
+  "cached_at": "2025-06-21T02:23:01.299226",
+  "cache_key": "54d4d78b98cbb63f1adec0e8f0a227dfbcdbbb2a347878dc90a090134c8907ea",
+  "model": "gpt-41"
+}

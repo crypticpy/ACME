@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordability of large festivals",
+    "accessibility of cultural events",
+    "pricing as a barrier to participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Make big festivals accessible price wise"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of big festivals"
+  ],
+  "solutions_proposed": [
+    "make big festivals more affordable"
+  ],
+  "cached_at": "2025-06-21T00:24:39.253845",
+  "cache_key": "445d2c299f77e5a88c27a4dcd8a3d0f5b0ce6cd60da4ca8cb84de10f3ab89a82",
+  "model": "gpt-41"
+}

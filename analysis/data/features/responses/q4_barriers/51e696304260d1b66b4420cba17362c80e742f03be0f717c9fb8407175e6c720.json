@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of clarity in grant guidelines",
+    "insufficient communication about application outcomes",
+    "need for transparency in funding processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "guideline process wasn't clear",
+    "no follow up for applicants",
+    "know why they got denied",
+    "clarity is helpful"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "live musician grant"
+  ],
+  "barriers_identified": [
+    "unclear grant guidelines",
+    "lack of feedback or follow up for denied applicants"
+  ],
+  "solutions_proposed": [
+    "provide clearer guidelines",
+    "offer follow up or feedback to applicants"
+  ],
+  "cached_at": "2025-06-21T01:31:12.384283",
+  "cache_key": "51e696304260d1b66b4420cba17362c80e742f03be0f717c9fb8407175e6c720",
+  "model": "gpt-41"
+}

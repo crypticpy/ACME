@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "simplification of grant application process",
+    "support for individual musicians",
+    "distribution of funding across more organizations",
+    "multi-year funding availability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "individual awards for musicians",
+    "smaller in amount but require less paperwork, reporting, and usage restrictions",
+    "funding spread out between more organizations",
+    "offered multi-year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "excessive paperwork",
+    "reporting requirements",
+    "usage restrictions"
+  ],
+  "solutions_proposed": [
+    "individual awards for musicians that are smaller in amount but require less paperwork, reporting, and usage restrictions",
+    "funding spread out between more organizations",
+    "funding offered multi-year"
+  ],
+  "cached_at": "2025-06-21T00:52:12.990765",
+  "cache_key": "96ccb25378596e9596d364ddab7ca76a47fb68eb415e181c69eb5909ff7f10d6",
+  "model": "gpt-41"
+}

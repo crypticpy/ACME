@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "redistribution of funding to marginalized groups",
+    "critique of historical inequity",
+    "prioritizing POC and women in funding decisions",
+    "exclusion of white cisgender men from future funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Give more POC + women money",
+    "stop giving $ to white cis men",
+    "they already had their turn for the last 2,000+ years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "historical and ongoing funding bias toward white cisgender men"
+  ],
+  "solutions_proposed": [
+    "increase funding for POC and women",
+    "stop funding white cisgender men"
+  ],
+  "cached_at": "2025-06-21T00:54:50.681310",
+  "cache_key": "eea7d88d3935a2aac51b2ffcb7a0ad7138178a1bec07668c60fbdeff68bcb882",
+  "model": "gpt-41"
+}

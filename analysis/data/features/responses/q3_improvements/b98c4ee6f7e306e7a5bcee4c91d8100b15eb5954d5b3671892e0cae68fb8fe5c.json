@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient publicity of funding programs",
+    "burdensome legal requirements in application process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "better publicity",
+    "fewer legal requirements for applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of publicity",
+    "legal requirements for applications"
+  ],
+  "solutions_proposed": [
+    "increase publicity",
+    "reduce legal requirements for applications"
+  ],
+  "cached_at": "2025-06-21T00:53:43.291204",
+  "cache_key": "b98c4ee6f7e306e7a5bcee4c91d8100b15eb5954d5b3671892e0cae68fb8fe5c",
+  "model": "gpt-41"
+}

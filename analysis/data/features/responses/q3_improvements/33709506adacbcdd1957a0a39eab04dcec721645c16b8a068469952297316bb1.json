@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "desire for city engagement at events",
+    "support for program improvement",
+    "alignment with organizational mission"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "like to see the city come out to the events",
+    "help them make their programs better",
+    "support their mission"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Thrive"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "city come out to the events with the Thrive",
+    "help them make their programs better support their mission"
+  ],
+  "cached_at": "2025-06-21T00:54:52.152100",
+  "cache_key": "33709506adacbcdd1957a0a39eab04dcec721645c16b8a068469952297316bb1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of opportunities",
+    "confusing grant application process",
+    "perceived exclusivity for experienced artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Artists are unaware of opportunities that are available",
+    "Grant application process is confusing for new artists",
+    "Artists may feel like they need to be a 'professional' or have a lot of experience in order to be granted access to resources"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Unawareness of available opportunities",
+    "Confusing grant application process for new artists",
+    "Perception that only professionals or experienced artists can access resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:58.677599",
+  "cache_key": "a9a9895b75ab371737843da592c0458de51d1fa6768b373d4cffa284e6e08e40",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "survey design inadequacy",
+    "lack of foundation for grant structuring",
+    "unproductive dichotomy between music and arts",
+    "critique of focus group effectiveness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "do not provide a foundation for how to structure the grant programs",
+    "nor did the focus groups",
+    "putting questions like who do you believe we need to support and pinning music vs arts is destructive and not productive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "poorly structured survey questions",
+    "divisive framing between music and arts"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:21:28.539329",
+  "cache_key": "bd635350ad21cd2988b0bb41c1f86081014015b1a0468f5045cdf07cebce1ca9",
+  "model": "gpt-41"
+}

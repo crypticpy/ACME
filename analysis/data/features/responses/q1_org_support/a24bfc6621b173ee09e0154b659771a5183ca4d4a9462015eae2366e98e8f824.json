@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived overfunding of minority programs",
+    "loss of established organizations (Big Medium)",
+    "critique of Cultural Arts entity's decision making",
+    "broken promises regarding Dougherty Arts Center replacement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "funding too many minority programs",
+    "long standing organizations like Big Medium have met their demise",
+    "poor decision making by the Cultural Arts entity",
+    "broken promises made",
+    "replace the Dougherty Arts Center"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Big Medium",
+    "Dougherty Arts Center"
+  ],
+  "barriers_identified": [
+    "poor decision making by the Cultural Arts entity",
+    "broken promises by the City"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:21:15.837567",
+  "cache_key": "a24bfc6621b173ee09e0154b659771a5183ca4d4a9462015eae2366e98e8f824",
+  "model": "gpt-41"
+}

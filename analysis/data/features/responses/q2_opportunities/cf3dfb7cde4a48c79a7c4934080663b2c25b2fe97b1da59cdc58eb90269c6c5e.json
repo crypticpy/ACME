@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "barriers for emerging artists",
+    "pay-to-play concerns",
+    "desire for accessible artist engagement",
+    "lack of opportunities for visual artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Engagement opportunities as an artist",
+    "not only pay to play",
+    "How can I be involved as an emerging visual artist?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "pay to play requirements",
+    "lack of accessible opportunities for emerging visual artists"
+  ],
+  "solutions_proposed": [
+    "provide engagement opportunities that are not pay to play"
+  ],
+  "cached_at": "2025-06-21T00:37:30.258135",
+  "cache_key": "cf3dfb7cde4a48c79a7c4934080663b2c25b2fe97b1da59cdc58eb90269c6c5e",
+  "model": "gpt-41"
+}

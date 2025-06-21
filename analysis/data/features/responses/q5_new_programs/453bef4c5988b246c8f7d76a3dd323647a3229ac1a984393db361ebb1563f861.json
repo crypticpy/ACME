@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for Latino cultural center",
+    "demand for practice spaces",
+    "need for meeting spaces for creatives",
+    "performance infrastructure (stage and dance floor)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Latino cultural center",
+    "practice spaces",
+    "meeting spaces for creatives",
+    "stage for performers",
+    "dance floor"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of dedicated Latino cultural center",
+    "insufficient practice and meeting spaces for creatives",
+    "lack of stage and dance floor for performers"
+  ],
+  "solutions_proposed": [
+    "create a Latino cultural center that provides practice spaces",
+    "offer meeting spaces for creatives",
+    "include a stage for performers",
+    "include a dance floor"
+  ],
+  "cached_at": "2025-06-21T02:08:17.109995",
+  "cache_key": "453bef4c5988b246c8f7d76a3dd323647a3229ac1a984393db361ebb1563f861",
+  "model": "gpt-41"
+}

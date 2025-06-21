@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of venues",
+    "need for more venue options"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more venue options",
+    "affordable"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable venues"
+  ],
+  "solutions_proposed": [
+    "increase affordable venue options"
+  ],
+  "cached_at": "2025-06-21T00:26:27.953327",
+  "cache_key": "c4fd18885aa153f3f4b091d3e15435717130e5ac7be2637ad90cbc6b920f2f5b",
+  "model": "gpt-41"
+}

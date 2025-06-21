@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of program visibility",
+    "limited opportunities for small organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "mas visibles",
+    "dieran oportunidad a las organizacion peque\u00f1as"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient visibility of programs",
+    "lack of opportunities for small organizations"
+  ],
+  "solutions_proposed": [
+    "increase program visibility",
+    "provide more opportunities to small organizations"
+  ],
+  "cached_at": "2025-06-21T01:11:40.207080",
+  "cache_key": "515d6cc21ec9dd68bf42313959da83592d0574eb9ddf1294f2205a4171b93e97",
+  "model": "gpt-41"
+}

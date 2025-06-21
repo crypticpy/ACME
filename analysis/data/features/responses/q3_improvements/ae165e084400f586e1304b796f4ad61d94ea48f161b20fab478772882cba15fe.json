@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased opportunities for new artists",
+    "support for emerging talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities to a new artist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for new artists"
+  ],
+  "solutions_proposed": [
+    "provide more opportunities to new artists"
+  ],
+  "cached_at": "2025-06-21T01:17:27.254426",
+  "cache_key": "ae165e084400f586e1304b796f4ad61d94ea48f161b20fab478772882cba15fe",
+  "model": "gpt-41"
+}

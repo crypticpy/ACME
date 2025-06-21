@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to access",
+    "digital barriers to access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "financial and digital barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial barriers",
+    "digital barriers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:23.424471",
+  "cache_key": "2cb0fbb9ca793e22726d547ae11d8dde1bd8cef57dab82a1292781aa234e9047",
+  "model": "gpt-41"
+}

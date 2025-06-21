@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of non-matching cultural arts funding",
+    "sustainability of current funding practices",
+    "diversification of funding sources beyond HOT tax",
+    "arts as essential for residents, not just tourists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "cultural arts funding that does not require a funding match",
+    "this was such an awesome move, and feels so important to keep",
+    "funding for cultural arts from a different revenue source than just the HOT tax",
+    "the arts are important to the life and well-being of Austinites, not just tourists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reliance on HOT tax as sole funding source",
+    "requirement for funding match"
+  ],
+  "solutions_proposed": [
+    "maintain non-matching cultural arts funding",
+    "develop funding for cultural arts from sources other than HOT tax"
+  ],
+  "cached_at": "2025-06-21T02:00:57.048981",
+  "cache_key": "4f3d16f895d7c1cd9446beb3d10406ed5bf09b1122d6df0a8b23fb3cfd2f57e5",
+  "model": "gpt-41"
+}

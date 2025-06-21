@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "capacity-building for organizations",
+    "importance of communications",
+    "need for arts journalism",
+    "strategic and innovative storytelling",
+    "raising awareness of cultural work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "capacity-building initiatives",
+    "strong communications",
+    "arts journalism",
+    "strategic, innovative storytelling",
+    "awareness initiatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "capacity-building initiatives",
+    "strong communications",
+    "arts journalism",
+    "strategic, innovative storytelling and awareness initiatives"
+  ],
+  "cached_at": "2025-06-20T10:39:59.163063",
+  "cache_key": "92cbb241204297cb8410b5309ce4b09aea8a4b1001949de3b8c8e3a6b4b53151",
+  "model": "gpt-41"
+}

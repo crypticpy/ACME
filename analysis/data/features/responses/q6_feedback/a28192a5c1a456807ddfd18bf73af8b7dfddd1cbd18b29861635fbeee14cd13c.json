@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "accountability for past decisions",
+    "critique of pilot program funding allocation",
+    "removal of artistic merit from funding criteria",
+    "lack of community input in decision-making",
+    "distrust in current leadership and processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "People must be held accountable for the chaos and destruction of the pilot programs era",
+    "Why was 100% of funding devoted to untested 'pilots'?",
+    "How did any consideration of artistic merit get removed from scoring?",
+    "Why was community input ignored?",
+    "there will be no trust in the City processes"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accountability for decision-makers",
+    "elimination of artistic merit from funding criteria",
+    "exclusion of community input",
+    "continued presence of responsible individuals in commissions and ACME"
+  ],
+  "solutions_proposed": [
+    "hold people accountable for past decisions",
+    "remove or replace individuals responsible for previous choices from commissions and ACME"
+  ],
+  "cached_at": "2025-06-21T02:13:15.229142",
+  "cache_key": "a28192a5c1a456807ddfd18bf73af8b7dfddd1cbd18b29861635fbeee14cd13c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "walking tours as cultural programming",
+    "highlighting both positive and negative history",
+    "focus on neighborhoods, cemeteries, and parks",
+    "integration of cultural, architectural, and environmental education"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Walking tours (of neighborhoods, cemeteries, parks)",
+    "highlight history (good and bad)",
+    "cultural, architectural & environmental features"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer walking tours that highlight history and cultural, architectural & environmental features"
+  ],
+  "cached_at": "2025-06-21T01:57:23.933204",
+  "cache_key": "e276344258ed4033ab20d539ab5b63d0ebda4b777cb5f27d113abdd1b681145d",
+  "model": "gpt-41"
+}

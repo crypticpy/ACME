@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of ACME",
+    "interest in exploring offerings",
+    "appreciation for outreach"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "thanks for doing this survey",
+    "now that I've heard of ACME",
+    "I can explore the offerings"
+  ],
+  "intent": "acknowledgement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of prior awareness of ACME"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:18.927796",
+  "cache_key": "07803225f81f700e1ffc7945d22ea8bd2ec35193b18ff79dd2b02b7f7e050801",
+  "model": "gpt-41"
+}

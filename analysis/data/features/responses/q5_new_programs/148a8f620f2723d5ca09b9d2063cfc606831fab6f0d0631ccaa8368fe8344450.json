@@ -1,0 +1,44 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "centralized opportunity calendar",
+    "artist development for visual artists",
+    "parity between visual artists and musicians",
+    "networking and partnership opportunities",
+    "community showcases and exposure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Centralized calendar to view what opportunities are available in the next month",
+    "filterable by medium of work",
+    "Artist Development resources for visual artists matching what is available for musicians",
+    "Opportunities to show work",
+    "interviews with visual artists",
+    "community showcases at large events",
+    "directory",
+    "statewide network",
+    "Local, national and international partnerships"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of centralized information on opportunities",
+    "insufficient artist development resources for visual artists compared to musicians"
+  ],
+  "solutions_proposed": [
+    "Create a centralized calendar filterable by medium of work",
+    "Provide artist development resources for visual artists equivalent to those for musicians",
+    "Offer opportunities to show work",
+    "Conduct interviews with visual artists",
+    "Organize community showcases at large events",
+    "Develop a directory and statewide network",
+    "Foster local, national, and international partnerships"
+  ],
+  "cached_at": "2025-06-21T01:55:51.842115",
+  "cache_key": "148a8f620f2723d5ca09b9d2063cfc606831fab6f0d0631ccaa8368fe8344450",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased program visibility",
+    "insufficient public awareness",
+    "improvement in advertising/outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More awareness/advertising"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness"
+  ],
+  "solutions_proposed": [
+    "increase awareness",
+    "improve advertising"
+  ],
+  "cached_at": "2025-06-21T01:17:00.939827",
+  "cache_key": "c6b85e2c5dbb6693e0dcee101a078a1cd62491bd211a79632641014243b27010",
+  "model": "gpt-41"
+}

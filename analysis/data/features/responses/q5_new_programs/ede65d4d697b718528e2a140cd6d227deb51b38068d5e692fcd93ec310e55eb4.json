@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insurance coverage for artists",
+    "healthcare access for arts sector",
+    "support services for arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Provide General Liability Insurance",
+    "health insurance to artists and arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of general liability insurance",
+    "lack of health insurance"
+  ],
+  "solutions_proposed": [
+    "Provide General Liability Insurance to artists and arts organizations",
+    "Provide health insurance to artists and arts organizations"
+  ],
+  "cached_at": "2025-06-21T02:06:39.561734",
+  "cache_key": "ede65d4d697b718528e2a140cd6d227deb51b38068d5e692fcd93ec310e55eb4",
+  "model": "gpt-41"
+}

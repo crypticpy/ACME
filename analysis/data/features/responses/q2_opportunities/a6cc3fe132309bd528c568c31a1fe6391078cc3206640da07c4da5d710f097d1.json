@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for Queer Black cultural events",
+    "need for financial and logistical assistance",
+    "existing grassroots initiatives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Queer Black and Free events",
+    "already happening",
+    "in need of support both financial and logistical"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Queer Black and Free events"
+  ],
+  "barriers_identified": [
+    "lack of financial support",
+    "lack of logistical support"
+  ],
+  "solutions_proposed": [
+    "provide financial support",
+    "provide logistical support"
+  ],
+  "cached_at": "2025-06-21T00:44:52.807571",
+  "cache_key": "a6cc3fe132309bd528c568c31a1fe6391078cc3206640da07c4da5d710f097d1",
+  "model": "gpt-41"
+}

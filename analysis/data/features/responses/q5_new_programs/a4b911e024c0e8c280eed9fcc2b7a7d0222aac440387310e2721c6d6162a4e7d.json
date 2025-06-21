@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration between arts organizations",
+    "networking opportunities",
+    "inter-organizational partnerships"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "opportunities to collaborate",
+    "many arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "opportunities to collaborate with many arts organizations"
+  ],
+  "cached_at": "2025-06-21T01:54:17.757477",
+  "cache_key": "a4b911e024c0e8c280eed9fcc2b7a7d0222aac440387310e2721c6d6162a4e7d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "promotion of international and ethnic diversity",
+    "influence of other cities (Houston, New York)",
+    "need for more diverse cultural events (music, festivals, food, art)"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "promote more International and ethnic diversity",
+    "through music, festivals, food, and art events",
+    "to influence Austin, the way Houston and even New York does",
+    "Austin needs more international influence"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of international and ethnic diversity in Austin's cultural scene"
+  ],
+  "solutions_proposed": [
+    "promote more International and ethnic diversity through music, festivals, food, and art events"
+  ],
+  "cached_at": "2025-06-21T02:22:03.465222",
+  "cache_key": "8d204500192666a20cd78510593d9f4643f9fa453f769b67dd2a72a5095ea7fc",
+  "model": "gpt-41"
+}

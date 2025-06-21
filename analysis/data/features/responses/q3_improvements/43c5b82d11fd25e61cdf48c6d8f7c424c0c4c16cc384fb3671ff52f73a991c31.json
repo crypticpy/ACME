@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Support for BIPOC artists and organizations",
+    "Pathways to ownership and establishment for marginalized groups",
+    "Predominance of white-owned or led venues and organizations",
+    "Preservation and renovation of cultural venues",
+    "Stability and sustainability for organizations",
+    "Role of venues in cultural and historical preservation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "support of BIPOC artists and owned and led organizations",
+    "help sustain them and help in a pathway to ownership/establishment",
+    "Most venues and orgs in Austin are white owned or led",
+    "coverage support of preservation and renovation of venues",
+    "offer organizations stability in not having to move",
+    "preserve culture and history"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Most venues and orgs in Austin are white owned or led",
+    "Lack of support for BIPOC artists and organizations",
+    "Organizations lack stability due to venue insecurity"
+  ],
+  "solutions_proposed": [
+    "Support BIPOC artists and owned and led organizations",
+    "Help sustain BIPOC organizations and provide pathways to ownership/establishment",
+    "Provide funding/support for preservation and renovation of venues"
+  ],
+  "cached_at": "2025-06-21T01:19:01.613085",
+  "cache_key": "43c5b82d11fd25e61cdf48c6d8f7c424c0c4c16cc384fb3671ff52f73a991c31",
+  "model": "gpt-41"
+}

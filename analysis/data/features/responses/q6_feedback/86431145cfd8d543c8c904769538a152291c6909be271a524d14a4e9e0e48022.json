@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for genuine engagement with artists and cultural workers",
+    "Distrust of top-down decision-making and extraction of ideas",
+    "Importance of power and resource redistribution",
+    "Accountability to marginalized communities",
+    "Critique of tokenism and superficial inclusion",
+    "Value of existing community-led structures and programs",
+    "Concerns about displacement, erasure, and underinvestment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Start by listening \u2014 really listening \u2014 to the artists, organizers, and cultural workers",
+    "Don\u2019t assume alignment",
+    "Don\u2019t extract ideas or stories to justify top-down decisions",
+    "Build trust through direct relationships, transparent processes, and redistribution of power and resources",
+    "be accountable to the public \u2014 especially those most impacted by displacement, erasure, and underinvestment",
+    "centering BIPOC, working-class, disabled, immigrant, and queer artists \u2014 not just checking boxes or putting them on panels",
+    "Trust what\u2019s already here. Fund what\u2019s already working",
+    "don\u2019t create new structures that bury the ones we\u2019ve been trying to keep alive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Top-down decision-making",
+    "Extraction of ideas without genuine engagement",
+    "Lack of accountability to marginalized communities",
+    "Tokenism (box-checking, superficial inclusion)",
+    "Creation of new structures that undermine existing community efforts",
+    "Displacement, erasure, and underinvestment"
+  ],
+  "solutions_proposed": [
+    "Listen to artists, organizers, and cultural workers with lived experience",
+    "Build trust through direct relationships and transparent processes",
+    "Redistribute power and resources",
+    "Center BIPOC, working-class, disabled, immigrant, and queer artists",
+    "Fund existing, effective community-led programs",
+    "Avoid creating new structures that overshadow or replace existing ones"
+  ],
+  "cached_at": "2025-06-21T02:13:23.261094",
+  "cache_key": "86431145cfd8d543c8c904769538a152291c6909be271a524d14a4e9e0e48022",
+  "model": "gpt-41"
+}

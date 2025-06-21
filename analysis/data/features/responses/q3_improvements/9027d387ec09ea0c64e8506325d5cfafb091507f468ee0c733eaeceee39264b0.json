@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "visibility of funding programs",
+    "inclusion of underrepresented artists",
+    "outreach and communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "make themselves more visible",
+    "underrepresented artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility to underrepresented artists"
+  ],
+  "solutions_proposed": [
+    "increase visibility to underrepresented artists"
+  ],
+  "cached_at": "2025-06-21T01:00:34.096108",
+  "cache_key": "9027d387ec09ea0c64e8506325d5cfafb091507f468ee0c733eaeceee39264b0",
+  "model": "gpt-41"
+}

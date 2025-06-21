@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased investment in proven organizations and individuals",
+    "maintaining support for underrepresented artists",
+    "expanding overall cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "larger investments in organizations and individuals who have a proven record of success",
+    "wouldn't have to come at the expense of underrepresented artists",
+    "more funds need to be made available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient overall funding"
+  ],
+  "solutions_proposed": [
+    "increase investments in proven organizations and individuals",
+    "make more funds available overall"
+  ],
+  "cached_at": "2025-06-21T01:15:32.932703",
+  "cache_key": "db41f8c7e5e63ca076bdb8b2c783eac0e3cac7c1957fd54c952a4a662a9a8210",
+  "model": "gpt-41"
+}

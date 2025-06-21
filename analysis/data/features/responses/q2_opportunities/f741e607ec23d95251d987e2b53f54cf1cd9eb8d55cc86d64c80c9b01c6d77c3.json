@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for the entire arts ecosystem",
+    "use of HOT tax for arts funding",
+    "desire for flourishing arts community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "whole arts ecosystem in Austin flourish",
+    "support from the HOT tax"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support the whole arts ecosystem in Austin with HOT tax"
+  ],
+  "cached_at": "2025-06-21T00:29:00.227802",
+  "cache_key": "f741e607ec23d95251d987e2b53f54cf1cd9eb8d55cc86d64c80c9b01c6d77c3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expansion of songwriting community",
+    "cultural inclusivity through music",
+    "underrepresentation of songwriting programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "expand the songwriting community",
+    "it involves all cultures"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "expand the songwriting community"
+  ],
+  "cached_at": "2025-06-21T02:06:13.551583",
+  "cache_key": "5d7bd3a9c55541e03b8db599e91b5129deffbab1b8fa89137a212620c922bc58",
+  "model": "gpt-41"
+}

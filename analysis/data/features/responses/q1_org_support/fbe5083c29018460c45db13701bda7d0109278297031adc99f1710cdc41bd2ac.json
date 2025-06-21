@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for marginalized artists",
+    "threats to disenfranchised communities",
+    "livelihood insecurity",
+    "organizational advocacy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "stand up for and behind marginalized artists",
+    "critical time",
+    "attacks against already disenfranchised communities",
+    "costing people their livelihood"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "attacks against already disenfranchised communities",
+    "threats to livelihood"
+  ],
+  "solutions_proposed": [
+    "ACME should stand up for and behind marginalized artists"
+  ],
+  "cached_at": "2025-06-20T10:30:26.555678",
+  "cache_key": "fbe5083c29018460c45db13701bda7d0109278297031adc99f1710cdc41bd2ac",
+  "model": "gpt-41"
+}

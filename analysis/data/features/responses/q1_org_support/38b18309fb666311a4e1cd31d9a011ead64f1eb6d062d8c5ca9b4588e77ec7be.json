@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Commercialization of public parks",
+    "Lack of truly affordable housing for artists",
+    "Temporary nature of affordable housing",
+    "Need for dedicated artist studio spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Quit turning our parks into corporate venues for high dollar performers",
+    "Preserve true AFFORDABLE housing",
+    "not crappy apartments that are affordable for a few years then revert to market value",
+    "Artists need to be housed",
+    "The city should fund studios complexes for artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Commercialization of parks limits access for local artists",
+    "Affordable housing that reverts to market value",
+    "Lack of housing and studio space for artists"
+  ],
+  "solutions_proposed": [
+    "Stop converting parks into corporate venues",
+    "Preserve truly affordable, permanent housing",
+    "City funding for artist studio complexes"
+  ],
+  "cached_at": "2025-06-20T10:43:52.490101",
+  "cache_key": "38b18309fb666311a4e1cd31d9a011ead64f1eb6d062d8c5ca9b4588e77ec7be",
+  "model": "gpt-41"
+}

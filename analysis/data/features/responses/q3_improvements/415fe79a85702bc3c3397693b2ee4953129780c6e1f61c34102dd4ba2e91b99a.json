@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for promotional support",
+    "need for sales assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support in promotion and sales"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support in promotion",
+    "lack of support in sales"
+  ],
+  "solutions_proposed": [
+    "Provide support in promotion",
+    "Provide support in sales"
+  ],
+  "cached_at": "2025-06-21T00:59:51.380806",
+  "cache_key": "415fe79a85702bc3c3397693b2ee4953129780c6e1f61c34102dd4ba2e91b99a",
+  "model": "gpt-41"
+}

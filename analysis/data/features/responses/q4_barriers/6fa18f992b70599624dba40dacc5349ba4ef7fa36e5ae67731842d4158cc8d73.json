@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "complexity of funding process",
+    "technical barriers to application",
+    "bias in peer review panels",
+    "mainstream arts group favoritism"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding process is complex",
+    "requires some technical expertise/equipment",
+    "peer panels were biased toward mainstream arts groups"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex funding process",
+    "requirement for technical expertise/equipment",
+    "bias in peer panels favoring mainstream arts groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:00.724988",
+  "cache_key": "6fa18f992b70599624dba40dacc5349ba4ef7fa36e5ae67731842d4158cc8d73",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers",
+    "geographic accessibility",
+    "centralization of cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "traffic issues",
+    "distance from central Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "traffic issues",
+    "distance from central Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:36.677859",
+  "cache_key": "a2e36310fb294da2f094777fcd7c9bcdd3997aee40bf333b84a0a54a668c389a",
+  "model": "gpt-41"
+}

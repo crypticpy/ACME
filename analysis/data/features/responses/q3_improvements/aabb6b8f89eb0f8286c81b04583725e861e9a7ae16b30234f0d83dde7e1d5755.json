@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for first-time applicants",
+    "accessibility of application process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more assistance for first time applicants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of assistance for first-time applicants"
+  ],
+  "solutions_proposed": [
+    "more assistance for first time applicants"
+  ],
+  "cached_at": "2025-06-21T01:03:35.222711",
+  "cache_key": "aabb6b8f89eb0f8286c81b04583725e861e9a7ae16b30234f0d83dde7e1d5755",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of access to information",
+    "event awareness barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of widespread Access to information about events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of widespread access to information about events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:41.550143",
+  "cache_key": "8056018af61038a98805ec82cd833611b2f749446da54a17a8dbfd5980beb8da",
+  "model": "gpt-41"
+}

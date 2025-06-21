@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased support of local artists",
+    "concern about funding going to corporate entities",
+    "value of Austin's unique cultural identity",
+    "positive impact of grants for artists",
+    "desire for sustainable cultural funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "The local culture needs to be supported",
+    "Austin is a great city because of the artists and musicians",
+    "a lot of the money goes to corporate entities",
+    "I would love to see our local culture preserved and enhanced",
+    "the grants have done a wonderful job to support artists",
+    "more sustainable support for local artists",
+    "so we don't lose the creativity that makes Austin so amazing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding diverted to corporate entities instead of local artists"
+  ],
+  "solutions_proposed": [
+    "more sustainable support for local artists",
+    "preservation and enhancement of local culture"
+  ],
+  "cached_at": "2025-06-21T02:18:50.271148",
+  "cache_key": "d9ce7f51134d283d17d10ce32dbb7ddbb3882b609c541f3c88c30daaaaac4ccd",
+  "model": "gpt-41"
+}

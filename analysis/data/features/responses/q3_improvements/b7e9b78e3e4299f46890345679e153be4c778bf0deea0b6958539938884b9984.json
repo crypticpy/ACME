@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "focus on underserved communities",
+    "cultural enrichment",
+    "children and youth programming",
+    "evaluation of organizational impact"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "provide cultural enrichment for the underserved communities",
+    "programs that deal with children and youth",
+    "look at what the organization is doing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of focus on underserved communities",
+    "insufficient attention to children and youth"
+  ],
+  "solutions_proposed": [
+    "evaluate organizations based on their provision of cultural enrichment for underserved communities",
+    "prioritize programs that deal with children and youth"
+  ],
+  "cached_at": "2025-06-21T01:09:36.284498",
+  "cache_key": "b7e9b78e3e4299f46890345679e153be4c778bf0deea0b6958539938884b9984",
+  "model": "gpt-41"
+}

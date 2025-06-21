@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Burden of workers comp insurance requirements",
+    "City Legal's influence on policy",
+    "Financial strain on small arts organizations",
+    "Grant funds diverted to insurance costs",
+    "Comparison to other cities' policies",
+    "City staff reluctance to challenge legal requirements"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Insurance requirements imposed by City Legal",
+    "not even the state of Texas requires",
+    "asinine requirement",
+    "big waste of money for small arts organizations",
+    "City staff should push back against City Legal",
+    "driving up costs in the sector",
+    "wasting limited grant funds",
+    "grant program for heritage tourism now allows for using grants on insurance costs",
+    "other cities - they do not require this"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "grant program for heritage tourism"
+  ],
+  "barriers_identified": [
+    "City-mandated workers comp insurance requirements",
+    "Increased costs for small arts organizations",
+    "Grant funds being used for insurance instead of programming"
+  ],
+  "solutions_proposed": [
+    "City staff should push back against City Legal",
+    "Review and align insurance requirements with other cities"
+  ],
+  "cached_at": "2025-06-21T01:32:26.358575",
+  "cache_key": "65cc4884de449690aba444715c7458b364e0aa454f0dbc9a7ef8646dadf20134",
+  "model": "gpt-41"
+}

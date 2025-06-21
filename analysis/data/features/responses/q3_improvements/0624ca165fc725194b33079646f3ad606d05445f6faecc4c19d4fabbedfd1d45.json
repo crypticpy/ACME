@@ -1,0 +1,49 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistency of funding opportunities",
+    "need for operational and living wage support",
+    "accessibility for non-English speakers and those outside city limits",
+    "modernization and usability of application systems",
+    "transparency in city policies and services",
+    "barriers from event alcohol and insurance policies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more consistent funding",
+    "grants that allow organizations to pay rent at facilities and pay their staff living wage",
+    "funding toward outreach- to get new people aware of the grants, non English speakers and folks who live outside the city limits",
+    "modern, mobile friendly, easy to use multilingual database",
+    "artists can register to be a 'registered vendor', see opportunities like grants or space rental",
+    "more transparency in general",
+    "more straightforward direction about what they do and can't do",
+    "transparency about the alcohol policies for events",
+    "policy on insurance for renters- these policies are prohibitive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent, one-time grant opportunities",
+    "lack of operational funding (rent, living wage)",
+    "limited outreach to non-English speakers and those outside city limits",
+    "outdated or inaccessible application systems",
+    "lack of transparency in city services and policies",
+    "unclear or prohibitive alcohol and insurance policies for events"
+  ],
+  "solutions_proposed": [
+    "provide more consistent and operational funding",
+    "create grants for rent and living wage support",
+    "allocate funding for outreach to non-English speakers and those outside city limits",
+    "develop a modern, mobile-friendly, multilingual database/app for artists and organizations",
+    "increase transparency and provide clear guidance on city services and limitations",
+    "clarify alcohol policies for events",
+    "review and revise insurance requirements for renters"
+  ],
+  "cached_at": "2025-06-21T01:10:13.126518",
+  "cache_key": "0624ca165fc725194b33079646f3ad606d05445f6faecc4c19d4fabbedfd1d45",
+  "model": "gpt-41"
+}

@@ -1,0 +1,53 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "intentional partnerships",
+    "financial support for organizations and leaders",
+    "amplifying diverse voices",
+    "audience development and connection",
+    "sustainable infrastructure building",
+    "shared resources and collaborative programming",
+    "access to creative production facilities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "intentional partnerships",
+    "financial support",
+    "ongoing visibility efforts",
+    "aid amplifying our voices",
+    "connecting us with new audiences",
+    "helping us build sustainable infrastructures",
+    "shared resources",
+    "collaborative programming",
+    "mentorship opportunities",
+    "platforms for star telling that honored that diverse voices",
+    "recording Studios and podcast resources",
+    "honor austin\u2019s creative ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility for diverse voices",
+    "limited access to shared resources",
+    "insufficient infrastructure for sustainability",
+    "inadequate access to recording and podcast resources"
+  ],
+  "solutions_proposed": [
+    "intentional partnerships",
+    "increased financial support",
+    "ongoing visibility efforts",
+    "amplifying voices and connecting with new audiences",
+    "shared resources",
+    "collaborative programming",
+    "mentorship opportunities",
+    "platforms for storytelling that honor diverse voices",
+    "providing recording studios and podcast resources"
+  ],
+  "cached_at": "2025-06-20T10:30:03.199486",
+  "cache_key": "7f5112e1a26c49311553e9944d5db8a208e4eb7bfb1ee1efcd57e188362d4583",
+  "model": "gpt-41"
+}

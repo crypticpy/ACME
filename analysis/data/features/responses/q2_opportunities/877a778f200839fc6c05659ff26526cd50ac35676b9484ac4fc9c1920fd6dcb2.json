@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "collaborative artistic development",
+    "support for emerging artists",
+    "cross-community engagement through art",
+    "increasing accessibility to arts spaces",
+    "integration of local music into major events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "brainstorming sessions offline and in circle",
+    "joint ventures, partnerships, sponsorships",
+    "affirm the artistic value and boost the confidence of emerging artist",
+    "murals that end up drawing communities across city and area code boundaries",
+    "exposing them to areas they believed were formerly inaccessible",
+    "KAZI-KOOP-KUTX playlists of established and emerging artists announced next to large events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACC fashion incubator",
+    "KAZI",
+    "KOOP",
+    "KUTX"
+  ],
+  "barriers_identified": [
+    "areas they believed were formerly inaccessible",
+    "areas they've felt out of their realm/isolated"
+  ],
+  "solutions_proposed": [
+    "brainstorming sessions offline and in circle",
+    "joint ventures, partnerships, sponsorships",
+    "murals that draw communities across city and area code boundaries",
+    "announcing playlists of established and emerging artists next to large events"
+  ],
+  "cached_at": "2025-06-21T00:26:30.196247",
+  "cache_key": "877a778f200839fc6c05659ff26526cd50ac35676b9484ac4fc9c1920fd6dcb2",
+  "model": "gpt-41"
+}

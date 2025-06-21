@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "lack of information about events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Cost",
+    "knowledge about events that are happening"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Cost",
+    "lack of knowledge about events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:21.340235",
+  "cache_key": "8bf4ed3b69e09fb0e6dd85fbe1f4ec28c6731f2cc66f14ae1f1776d22306f3c1",
+  "model": "gpt-41"
+}

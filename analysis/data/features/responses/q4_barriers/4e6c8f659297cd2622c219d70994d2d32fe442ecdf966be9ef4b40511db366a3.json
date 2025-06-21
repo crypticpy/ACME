@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "unrecognized community history and creativity",
+    "disconnect between administration and local arts identity",
+    "concern over loss of Austin's artistic reputation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "our community is full of history and creativity",
+    "new administrations fail to recognize the skills and creativity",
+    "made Austin an artistic icon"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of recognition by new administrations of community's artistic skills and creativity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:10.885151",
+  "cache_key": "4e6c8f659297cd2622c219d70994d2d32fe442ecdf966be9ef4b40511db366a3",
+  "model": "gpt-41"
+}

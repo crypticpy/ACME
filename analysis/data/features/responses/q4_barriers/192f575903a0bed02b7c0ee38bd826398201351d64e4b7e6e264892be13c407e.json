@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation challenges",
+    "parking difficulties",
+    "cost barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Transportation",
+    "parking",
+    "cost of attendance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "transportation",
+    "parking",
+    "cost of attendance"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:21.532616",
+  "cache_key": "192f575903a0bed02b7c0ee38bd826398201351d64e4b7e6e264892be13c407e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible and affordable dance studio spaces",
+    "need for rehearsal spaces for performing artists",
+    "loss of coworking and studio rental spaces due to gentrification",
+    "importance of casual venues for artist collaboration",
+    "impact of pandemic and new ownership on cultural spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "missing accessible and affordable dance studio spaces",
+    "rehearsal spaces for performing artists",
+    "co-working or more casual venues",
+    "facilitate artists and organizers areas to meet",
+    "the type that the Motion Media Arts Center used to have at their Tillery location",
+    "lost it due to gentrification when new ownership took it over during the pandemic"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Motion Media Arts Center"
+  ],
+  "barriers_identified": [
+    "lack of accessible and affordable dance studio spaces",
+    "loss of coworking and studio rental spaces",
+    "gentrification",
+    "impact of new ownership during the pandemic"
+  ],
+  "solutions_proposed": [
+    "offer accessible and affordable dance studio and rehearsal spaces",
+    "provide coworking or casual venues for artists and organizers to meet and collaborate",
+    "restore or replace spaces similar to what Motion Media Arts Center offered at Tillery location"
+  ],
+  "cached_at": "2025-06-21T01:52:28.802290",
+  "cache_key": "ffabebf60ba323c9bf093678404ad4c30deb79c3ff46bac9398a2fa02182f68f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Spanish-language theater support",
+    "Latino artist leadership in programming",
+    "Spanish-language marketing and outreach",
+    "Youth theater programs in Spanish",
+    "Professional development and networking",
+    "Community-driven programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support for Spanish-language theater",
+    "cultural programing led by Latino artists",
+    "Spanish marketing and outreach",
+    "youth theater programs in Spanish",
+    "professional development and networking",
+    "community-drive programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of Spanish-language theater support",
+    "Underrepresentation of Latino-led programming",
+    "Insufficient Spanish marketing and outreach",
+    "Limited youth theater programs in Spanish",
+    "Lack of professional development and networking opportunities",
+    "Insufficient community-driven programming"
+  ],
+  "solutions_proposed": [
+    "Increase support for Spanish-language theater",
+    "Develop cultural programming led by Latino artists",
+    "Expand Spanish marketing and outreach",
+    "Create youth theater programs in Spanish",
+    "Offer professional development and networking opportunities",
+    "Implement more community-driven programming"
+  ],
+  "cached_at": "2025-06-21T02:01:43.728967",
+  "cache_key": "652c1be698b978abddce9b53aa99294ca24a3e6b49b04aff2d4451e23231ebab",
+  "model": "gpt-41"
+}

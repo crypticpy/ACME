@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural spaces",
+    "accessibility of venues",
+    "need for fully equipped theatrical spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "affordable, accessible, fully equipped theatrical spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable theatrical spaces",
+    "lack of accessible venues",
+    "insufficiently equipped theatrical spaces"
+  ],
+  "solutions_proposed": [
+    "offer affordable, accessible, fully equipped theatrical spaces"
+  ],
+  "cached_at": "2025-06-21T02:04:47.545091",
+  "cache_key": "b50410fc3f3909973ac90ee445e982052e08b368735d99615183bb8d531568a3",
+  "model": "gpt-41"
+}

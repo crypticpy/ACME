@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of clear communication about application periods",
+    "difficulty navigating the City of Austin website",
+    "inaccessibility of funding opportunities for newcomers",
+    "need for equitable access to information"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Information about when the next application period opens up is not clearly posted",
+    "the COA website is clunky and hard to navigate",
+    "these opportunities for funding need to be accessible to everyone",
+    "a lot of folks starting out never hear about them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear posting of application periods",
+    "difficult website navigation",
+    "lack of outreach to newcomers"
+  ],
+  "solutions_proposed": [
+    "make funding opportunities accessible to everyone",
+    "improve clarity and posting of application period information",
+    "improve website usability"
+  ],
+  "cached_at": "2025-06-21T01:05:54.473438",
+  "cache_key": "fc660a8f40aaaedca33353ab132712420cb2197dc0eaf51bb27717fa5051c8aa",
+  "model": "gpt-41"
+}

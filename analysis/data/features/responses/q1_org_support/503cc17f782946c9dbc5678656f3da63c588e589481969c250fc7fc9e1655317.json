@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "organizational sustainability",
+    "resource accessibility",
+    "capacity-building support",
+    "marketing and visibility for organizations",
+    "assessment and evaluation services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "assessing the mission and goals of each",
+    "marketing those to the creative communities",
+    "support in finding and accessing resources",
+    "make those organizations sustainable",
+    "offering a free assessment",
+    "provide recommendations for sustainability and growth"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty finding and accessing resources",
+    "lack of sustainability support"
+  ],
+  "solutions_proposed": [
+    "assess the mission and goals of each organization",
+    "market organizations to creative communities",
+    "support in finding and accessing resources",
+    "offer a free assessment of structure, finances, and goals",
+    "provide recommendations for sustainability and growth"
+  ],
+  "cached_at": "2025-06-20T10:41:56.307610",
+  "cache_key": "503cc17f782946c9dbc5678656f3da63c588e589481969c250fc7fc9e1655317",
+  "model": "gpt-41"
+}

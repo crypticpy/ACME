@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for uplifting art",
+    "preference for positive messaging in arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Positive messages",
+    "Uplifting Art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More uplifting art",
+    "Increase positive messaging in cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:36:41.496561",
+  "cache_key": "099ac077d66c9d1f2c22a29fc4edee37765002c320d6071c01c3a09e82e06d7a",
+  "model": "gpt-41"
+}

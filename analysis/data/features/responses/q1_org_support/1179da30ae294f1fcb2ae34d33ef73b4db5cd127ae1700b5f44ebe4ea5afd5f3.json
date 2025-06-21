@@ -1,0 +1,48 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Inclusive participation in funding decisions",
+    "Recognition and support for legacy and heritage organizations",
+    "Mentorship and intergenerational knowledge transfer",
+    "Barriers due to economic inequity and lack of access to space",
+    "Penalization of artists for success or visibility",
+    "Need for equitable and sustainable funding systems"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "artists and organizations be granted seats on funding committees",
+    "creation of a dedicated 'Heritage Fund'",
+    "mentor emerging artists rather than compete with them",
+    "do not penalize artists for achieving visibility or success",
+    "affordable\u2014or preferably free\u2014access to rehearsal studios, performance spaces, and other necessary facilities",
+    "poverty remains a barrier to artistic development and access",
+    "funding system that honors legacy, supports sustainability, and fosters collaboration"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Heritage Fund"
+  ],
+  "barriers_identified": [
+    "Exclusion from funding decision processes",
+    "Competition between experienced and emerging artists for limited funding",
+    "Penalization for artist visibility or international recognition",
+    "Lack of affordable or free access to rehearsal and performance spaces",
+    "Economic discrimination and poverty"
+  ],
+  "solutions_proposed": [
+    "Grant artists and organizations seats on funding committees",
+    "Direct involvement of impacted groups in funding improvement initiatives",
+    "Creation of a dedicated Heritage Fund",
+    "Provide mentorship opportunities instead of competitive funding structures",
+    "Stop penalizing artists for visibility or success",
+    "Ensure affordable or free access to creative spaces",
+    "Institutional support for artists with a demonstrated capacity for community-based work"
+  ],
+  "cached_at": "2025-06-20T10:31:15.998301",
+  "cache_key": "1179da30ae294f1fcb2ae34d33ef73b4db5cd127ae1700b5f44ebe4ea5afd5f3",
+  "model": "gpt-41"
+}

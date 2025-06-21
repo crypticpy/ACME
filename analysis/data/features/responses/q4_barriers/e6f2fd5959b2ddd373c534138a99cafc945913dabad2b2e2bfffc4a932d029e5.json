@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "political divestment from DEI",
+    "political divestment from LGBT initiatives",
+    "state-level policy barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Texas politics divesting from DEI and LGBT initiatives"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "divestment from DEI initiatives",
+    "divestment from LGBT initiatives"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:37.770705",
+  "cache_key": "e6f2fd5959b2ddd373c534138a99cafc945913dabad2b2e2bfffc4a932d029e5",
+  "model": "gpt-41"
+}

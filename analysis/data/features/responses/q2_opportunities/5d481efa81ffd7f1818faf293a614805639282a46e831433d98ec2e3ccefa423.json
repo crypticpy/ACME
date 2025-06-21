@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increase in local film and TV production",
+    "job creation for actors",
+    "support for the entertainment industry workforce"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more film and TV shot in the area",
+    "providing jobs for actors"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase film and TV productions in Austin to provide jobs for actors"
+  ],
+  "cached_at": "2025-06-21T00:42:54.185908",
+  "cache_key": "5d481efa81ffd7f1818faf293a614805639282a46e831433d98ec2e3ccefa423",
+  "model": "gpt-41"
+}

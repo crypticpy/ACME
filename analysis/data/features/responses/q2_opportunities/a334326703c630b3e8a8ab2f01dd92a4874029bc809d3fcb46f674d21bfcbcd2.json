@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for fashion community",
+    "desire for more fashion-related opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "nurturing of the fashion community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "nurturing of the fashion community"
+  ],
+  "cached_at": "2025-06-21T00:41:15.115813",
+  "cache_key": "a334326703c630b3e8a8ab2f01dd92a4874029bc809d3fcb46f674d21bfcbcd2",
+  "model": "gpt-41"
+}

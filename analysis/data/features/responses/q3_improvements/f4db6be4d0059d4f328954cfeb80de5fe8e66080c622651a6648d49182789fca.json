@@ -1,0 +1,46 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "displacement of Black native Austinites",
+    "resource inequity between natives and newcomers",
+    "lack of operational support for Black native creatives",
+    "loss of dignity and recognition for long-term residents",
+    "need for consistent and protected funding for Black natives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Fund Black native creative Austinites",
+    "nonexistent, wiped out, &-or hidden/buried in displacement",
+    "undercapitalized for so long",
+    "creatives who are not from here absorbing all the resources",
+    "consistent/non-negotiable funding for Black natives of this land",
+    "bedrock of the city",
+    "most historical knowledge & lived experience",
+    "oxygen for a dying breed",
+    "no honor/dignity",
+    "creative natives feel like outsiders now",
+    "scrap for dollars while people who just got here...cash in",
+    "respecting our own first"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "displacement due to undercapitalization",
+    "resource absorption by non-native creatives",
+    "lack of consistent funding for Black native creatives",
+    "feeling of being overlooked and treated as outsiders",
+    "scrambling for limited funds"
+  ],
+  "solutions_proposed": [
+    "consistent/non-negotiable funding for Black natives of this land",
+    "funds should cover general operational support at the least",
+    "start with respecting our own first"
+  ],
+  "cached_at": "2025-06-21T01:00:58.409933",
+  "cache_key": "f4db6be4d0059d4f328954cfeb80de5fe8e66080c622651a6648d49182789fca",
+  "model": "gpt-41"
+}

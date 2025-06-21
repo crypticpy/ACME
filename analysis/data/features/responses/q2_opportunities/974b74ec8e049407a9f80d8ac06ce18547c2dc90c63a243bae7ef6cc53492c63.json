@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of Austin's unique cultural identity",
+    "desire for more unconventional or 'weird' arts",
+    "perceived decline in cultural vibrancy post-pandemic"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More weird",
+    "Austin is bland now post pandemic"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of 'weirdness' in local culture after the pandemic"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:25:53.486868",
+  "cache_key": "974b74ec8e049407a9f80d8ac06ce18547c2dc90c63a243bae7ef6cc53492c63",
+  "model": "gpt-41"
+}

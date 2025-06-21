@@ -1,0 +1,27 @@
+{
+  "program_name": "Economic Development Department",
+  "mention_count": 11,
+  "sentiment_summary": {
+    "mixed": 2,
+    "negative": 9
+  },
+  "strengths": [],
+  "improvement_areas": [],
+  "specific_requests": [],
+  "representative_quotes": [
+    "I would like to express my deep concern regarding the review process and the panel members of the Cultural Funding Team at the City of Austin Economic Development Department (Cultural Arts Division)",
+    "The City of Austin's Economic Development Department, and the general \"those who have more, get more\" which is a common problem in funding",
+    "Don't try to control us like EDD did",
+    "It's only been difficult because EDD chose to center its own social engineering ideas, rather than proven systems",
+    "This is an example of a shocking logic gap and lack of initiative in the programs as run by EDD",
+    "Over the past five years, funding has been targeted exclusively to marginalized communities, as defined by EDD",
+    "There has long been a sense that EDD grants staff played favorites (MoHA, Proyecto Teatro, Almost Real Things, etc) and conversely, retaliated against its critics (too many to list)",
+    "Do not repeat EDD's mistakes of trying to do everything and please everybody"
+  ],
+  "impact_statements": [],
+  "accessibility_issues": [],
+  "demographic_reach": {
+    "organization": 8,
+    "artist": 3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information on entry points",
+    "uncertainty about engagement process"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "unsure of where to start",
+    "how to get involved"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about where to start",
+    "lack of knowledge on how to get involved"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:34.210903",
+  "cache_key": "e25d7f959e78a86d9c9ac4c57029f3bad32abf7542ad218a6ecf5978ad547c17",
+  "model": "gpt-41"
+}

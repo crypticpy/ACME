@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for funding for performance arts",
+    "underrepresentation of specific performance genres",
+    "support for marginalized or alternative art forms"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Grants/funding for performance arts",
+    "aerial arts, drag, burlesque, sideshow performers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants/funding for performance arts",
+    "underrepresentation of aerial arts, drag, burlesque, sideshow performers"
+  ],
+  "solutions_proposed": [
+    "Provide grants/funding for performance arts (aerial arts, drag, burlesque, sideshow performers, etc.)"
+  ],
+  "cached_at": "2025-06-21T02:02:48.142775",
+  "cache_key": "897d4181be2ce2f630ca936e75388d0ae6cd06d6b23c7ed09456a0d7373447ac",
+  "model": "gpt-41"
+}

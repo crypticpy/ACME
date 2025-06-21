@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility of cultural opportunities",
+    "support for existing arts and entertainment",
+    "affordability of venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We have plenty",
+    "make them more accessible",
+    "support them better",
+    "more affordable venues"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility",
+    "insufficient support",
+    "high cost of venues"
+  ],
+  "solutions_proposed": [
+    "make them more accessible",
+    "support them better",
+    "have more affordable venues"
+  ],
+  "cached_at": "2025-06-21T00:29:59.535064",
+  "cache_key": "85e68023531d09f9f1ac91124c7786a99c1ef9b12c210ab7e2fef553a76e633b",
+  "model": "gpt-41"
+}

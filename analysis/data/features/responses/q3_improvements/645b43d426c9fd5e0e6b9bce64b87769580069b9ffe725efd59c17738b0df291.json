@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for artists",
+    "inequity in financial support",
+    "comparison to other cities' support for artists",
+    "inclusivity in cultural infrastructure",
+    "commercial potential of the arts",
+    "disparity between music and visual arts support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I go back to getting more funding",
+    "artists ... are a historically under-funded segment of society",
+    "the rest of us are scrambling",
+    "other cities ... provide more funding to support their local artists",
+    "the cultural infrastructure becomes inherently more inclusive",
+    "expand the commercial potential",
+    "the city hypes Austin as the Music Capitol of the World",
+    "how much the city has hyped Austin's visual arts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for artists",
+    "inequitable distribution of support",
+    "limited financial infrastructure for most artists"
+  ],
+  "solutions_proposed": [
+    "expand support/funding options to all artists, organizations, and communities",
+    "provide more funding to support local artists"
+  ],
+  "cached_at": "2025-06-21T01:18:45.175864",
+  "cache_key": "645b43d426c9fd5e0e6b9bce64b87769580069b9ffe725efd59c17738b0df291",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inequitable funding distribution",
+    "lack of diversity in support/services"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Equal Funding/Financial",
+    "lack of diversity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inequitable funding",
+    "lack of diversity"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:30.678914",
+  "cache_key": "8b12eeca042ef535c4cdf1e89f72a1ccc2e4878f390066768859d78554b5e979",
+  "model": "gpt-41"
+}

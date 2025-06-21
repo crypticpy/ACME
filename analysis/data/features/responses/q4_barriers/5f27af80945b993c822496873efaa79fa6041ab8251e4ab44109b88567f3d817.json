@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty securing sustained public funding",
+    "impact of shifting city priorities",
+    "challenges for nonprofit brick and mortar gallery spaces",
+    "threats to sustainability of community-serving organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "nonprofit brick and mortar gallery spaces are having greater difficulties",
+    "receiving sustained public funding",
+    "shifting city priorities",
+    "harder for them to continue serving the community sustainably"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "greater difficulties in receiving sustained public funding",
+    "shifting city priorities affecting funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:32.215264",
+  "cache_key": "5f27af80945b993c822496873efaa79fa6041ab8251e4ab44109b88567f3d817",
+  "model": "gpt-41"
+}

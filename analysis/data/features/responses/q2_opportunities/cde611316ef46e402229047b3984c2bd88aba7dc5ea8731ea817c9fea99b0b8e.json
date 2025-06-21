@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "intellectual engagement",
+    "public talks by experts",
+    "cross-disciplinary learning"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Presentations/Lectures/Interviews",
+    "Preeminent thinkers authors, researchers and doers",
+    "in all fields"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase presentations, lectures, and interviews by preeminent thinkers, authors, researchers, and doers in all fields"
+  ],
+  "cached_at": "2025-06-21T00:49:27.752574",
+  "cache_key": "cde611316ef46e402229047b3984c2bd88aba7dc5ea8731ea817c9fea99b0b8e",
+  "model": "gpt-41"
+}

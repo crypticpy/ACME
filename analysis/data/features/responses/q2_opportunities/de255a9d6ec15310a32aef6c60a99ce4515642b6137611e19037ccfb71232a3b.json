@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in literary arts",
+    "desire for more drama/theater opportunities",
+    "interest in film-related events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Literary",
+    "drama",
+    "film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities in literary, drama, and film"
+  ],
+  "cached_at": "2025-06-21T00:36:20.362371",
+  "cache_key": "de255a9d6ec15310a32aef6c60a99ce4515642b6137611e19037ccfb71232a3b",
+  "model": "gpt-41"
+}

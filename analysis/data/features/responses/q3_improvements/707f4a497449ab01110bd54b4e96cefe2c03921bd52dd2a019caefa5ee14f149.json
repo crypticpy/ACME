@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "desire for increased funding",
+    "demand for expansion",
+    "perceived insufficiency of current programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "More more more"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the amount or scope of cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T01:00:24.663010",
+  "cache_key": "707f4a497449ab01110bd54b4e96cefe2c03921bd52dd2a019caefa5ee14f149",
+  "model": "gpt-41"
+}

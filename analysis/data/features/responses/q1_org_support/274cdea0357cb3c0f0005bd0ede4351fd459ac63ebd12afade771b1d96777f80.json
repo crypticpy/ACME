@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sustaining support for existing cultural and educational events",
+    "investment in new programming",
+    "support for individual artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Continue to support current cultural and educational events",
+    "invest in new programming or artist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue to support current cultural and educational events",
+    "invest in new programming or artist"
+  ],
+  "cached_at": "2025-06-20T10:41:24.045018",
+  "cache_key": "274cdea0357cb3c0f0005bd0ede4351fd459ac63ebd12afade771b1d96777f80",
+  "model": "gpt-41"
+}

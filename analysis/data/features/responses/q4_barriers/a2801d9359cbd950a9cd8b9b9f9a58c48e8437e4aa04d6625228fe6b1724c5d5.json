@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient communication from venues or organizations",
+    "high ticket pricing compared to value",
+    "perceived poor quality of local performances",
+    "comparison to national/international theater pricing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Lack of communication?",
+    "Pricing too high",
+    "can get better seats at Tony nominated Broadway shows for less money through the lottery system",
+    "to risk another bad show at Zach?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Zach"
+  ],
+  "barriers_identified": [
+    "lack of communication from arts organizations",
+    "high ticket prices",
+    "perceived risk of low-quality performances"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:46.427941",
+  "cache_key": "a2801d9359cbd950a9cd8b9b9f9a58c48e8437e4aa04d6625228fe6b1724c5d5",
+  "model": "gpt-41"
+}

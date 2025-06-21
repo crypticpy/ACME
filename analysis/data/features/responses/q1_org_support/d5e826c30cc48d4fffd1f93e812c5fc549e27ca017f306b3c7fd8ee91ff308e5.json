@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sustaining legacy organizations and leaders",
+    "need for sustainable funding",
+    "visibility for longstanding contributors",
+    "platforms for intergenerational collaboration",
+    "concern over focus on trends versus long-term impact",
+    "bridging generations in the creative community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "prioritizing sustainable funding, visibility, and platforms for collaboration",
+    "organizations and artists who\u2019ve been quietly doing the work for decades without high-profile recognition",
+    "tendency to focus on what\u2019s new or trendy",
+    "long-term impact often comes from those who\u2019ve been consistently engaged",
+    "bridge generations, uplift legacy voices",
+    "ensure that newer initiatives are building with these foundations, not in place of them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of high-profile recognition for longstanding organizations and artists",
+    "tendency to focus on new or trendy initiatives over legacy contributors"
+  ],
+  "solutions_proposed": [
+    "prioritize sustainable funding for established organizations and leaders",
+    "increase visibility for longstanding contributors",
+    "create platforms for collaboration across generations",
+    "ensure newer initiatives build upon, rather than replace, foundational organizations and leaders"
+  ],
+  "cached_at": "2025-06-20T10:30:59.667844",
+  "cache_key": "d5e826c30cc48d4fffd1f93e812c5fc549e27ca017f306b3c7fd8ee91ff308e5",
+  "model": "gpt-41"
+}

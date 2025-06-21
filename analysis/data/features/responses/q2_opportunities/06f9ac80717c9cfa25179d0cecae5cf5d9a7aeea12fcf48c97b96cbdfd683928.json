@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased downtown cultural events",
+    "collaboration with hotels for venues",
+    "access to performance spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Art fairs, shows, performances",
+    "downtown venues",
+    "work with hotels to offer their ballrooms pro bono"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to downtown venues"
+  ],
+  "solutions_proposed": [
+    "work with hotels to offer their ballrooms pro bono"
+  ],
+  "cached_at": "2025-06-21T00:44:11.101537",
+  "cache_key": "06f9ac80717c9cfa25179d0cecae5cf5d9a7aeea12fcf48c97b96cbdfd683928",
+  "model": "gpt-41"
+}

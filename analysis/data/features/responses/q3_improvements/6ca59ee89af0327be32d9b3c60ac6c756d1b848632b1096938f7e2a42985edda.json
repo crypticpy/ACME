@@ -1,0 +1,49 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Accessibility of application processes",
+    "Equity in funding distribution",
+    "Support for marginalized and under-resourced artists",
+    "Transparency and accountability in decision-making",
+    "Capacity-building and ongoing support",
+    "Sustainable funding models",
+    "Microgrants and operational support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "become more accessible, equitable, and transparent",
+    "simplified applications",
+    "many creatives are excluded simply because the process is too complex or time-consuming",
+    "equity-centered distribution",
+    "prioritized for BIPOC, LGBTQ+, disabled, and economically disadvantaged artists",
+    "microgrants + operational support",
+    "not everything needs to be project-based",
+    "more transparency + accountability",
+    "clarify how decisions are made",
+    "year-round relationship building",
+    "bridge to sustainability"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex or time-consuming application process",
+    "exclusion of independent artists, grassroots organizations, and historically marginalized communities",
+    "lack of transparency in decision-making",
+    "limited support for operational and capacity-building needs"
+  ],
+  "solutions_proposed": [
+    "streamlined, mobile-friendly applications with video/audio submission options",
+    "prioritizing funding for BIPOC, LGBTQ+, disabled, and economically disadvantaged artists and collectives",
+    "offering microgrants and multi-year operational funding",
+    "clarifying decision-making processes and publishing metrics and feedback",
+    "hosting workshops, one-on-one support sessions, and community check-ins year-round",
+    "using public funding as a catalyst for long-term infrastructure and sustainable income through partnerships, residencies, or cooperative models"
+  ],
+  "cached_at": "2025-06-21T01:05:39.405351",
+  "cache_key": "6ca59ee89af0327be32d9b3c60ac6c756d1b848632b1096938f7e2a42985edda",
+  "model": "gpt-41"
+}

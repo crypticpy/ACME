@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "prioritization of existing programs",
+    "concern about program effectiveness",
+    "hesitation to expand offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "correct the programs that already exist",
+    "before we add new ones"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "existing programs are not functioning properly"
+  ],
+  "solutions_proposed": [
+    "improve or fix current programs before introducing new ones"
+  ],
+  "cached_at": "2025-06-21T01:53:16.253853",
+  "cache_key": "ec1912a3c006001d8cf5a724ec3ff8ea88eba2a004147a9749c0402da4b16a24",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased visibility",
+    "awareness of cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Better visibility"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of visibility"
+  ],
+  "solutions_proposed": [
+    "increase visibility"
+  ],
+  "cached_at": "2025-06-21T01:15:44.365289",
+  "cache_key": "014236c5304a0df58323dc7930986883308a97a0ede4bfbf4b80ecdb18454395",
+  "model": "gpt-41"
+}

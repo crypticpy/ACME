@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for smaller, hands-on events",
+    "inclusivity across all areas of town",
+    "preference for earlier or shorter musical performances",
+    "support for local and emerging artists",
+    "interest in both visual and performance arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "smaller, hands-on events for all",
+    "in all areas of town",
+    "earlier/shorter musical performances and opportunities",
+    "events that feature local artists and emerging artists",
+    "visual and performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of events in all areas of town",
+    "limited opportunities for local and emerging artists",
+    "events not accessible to all (implied by 'for all')",
+    "event timing/length not suitable for some audiences"
+  ],
+  "solutions_proposed": [
+    "offer smaller, hands-on events",
+    "distribute events throughout all areas of town",
+    "schedule earlier or shorter musical performances",
+    "feature local and emerging artists in events",
+    "include both visual and performance arts"
+  ],
+  "cached_at": "2025-06-21T00:28:20.942057",
+  "cache_key": "a3c456fafc94ae2556506996ee5d564eeb0000d3c09fe691f38af90ef0a21274",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of direct experience with programs",
+    "inability to provide feedback without participation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "I have not applied before",
+    "I cannot speak directly about these programs"
+  ],
+  "intent": "disclosure_of_inexperience",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of prior application"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:57:27.324835",
+  "cache_key": "2b6fe3e08259c87fd8ba0c8bd4dd9ecf29dcf05d8ee941ae46130deed69856a8",
+  "model": "gpt-41"
+}

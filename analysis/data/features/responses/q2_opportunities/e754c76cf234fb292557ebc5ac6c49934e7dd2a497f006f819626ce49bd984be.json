@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community-centered experiences",
+    "visual arts engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "community centered experiences",
+    "visual arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more community centered experiences with the visual arts"
+  ],
+  "cached_at": "2025-06-21T00:49:52.875840",
+  "cache_key": "e754c76cf234fb292557ebc5ac6c49934e7dd2a497f006f819626ce49bd984be",
+  "model": "gpt-41"
+}

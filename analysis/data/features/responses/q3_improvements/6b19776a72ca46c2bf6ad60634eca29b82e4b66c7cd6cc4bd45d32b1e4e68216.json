@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "burdensome grant documentation",
+    "complexity of close-out process",
+    "strict promotional requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "a headache to document",
+    "the close-out",
+    "making sure all the exact verbiage/logos are included in all promotions"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "difficult documentation requirements",
+    "complicated close-out process",
+    "strict requirements for promotional materials"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:17:18.303929",
+  "cache_key": "6b19776a72ca46c2bf6ad60634eca29b82e4b66c7cd6cc4bd45d32b1e4e68216",
+  "model": "gpt-41"
+}

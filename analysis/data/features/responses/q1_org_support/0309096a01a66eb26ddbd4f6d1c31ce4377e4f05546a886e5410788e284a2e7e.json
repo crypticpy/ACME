@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community involvement",
+    "outreach methods",
+    "use of surveys",
+    "use of social media"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "involve the community",
+    "outreach like surveys and social media"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "involve the community through outreach like surveys and social media"
+  ],
+  "cached_at": "2025-06-20T10:34:49.655222",
+  "cache_key": "0309096a01a66eb26ddbd4f6d1c31ce4377e4f05546a886e5410788e284a2e7e",
+  "model": "gpt-41"
+}

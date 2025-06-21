@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about exclusion of non-POC managed groups",
+    "risk of losing cultural venues and touchstones",
+    "tokenization of people of color in funding processes",
+    "gaming the funding system"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "There must be a pathway for groups not managed by people of color to get funding",
+    "leads to venues not having funding",
+    "loss of cultural touchstones",
+    "tokenization of people of color to game the system"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding pathways for groups not managed by people of color",
+    "tokenization of people of color",
+    "potential loss of funding for venues"
+  ],
+  "solutions_proposed": [
+    "create a pathway for groups not managed by people of color to get funding"
+  ],
+  "cached_at": "2025-06-21T00:55:10.554255",
+  "cache_key": "77435c75ca4dd7bcb4d88e13e3e94575f4e4f260fb51bff1c03d80a0e714ec2c",
+  "model": "gpt-41"
+}

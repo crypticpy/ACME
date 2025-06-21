@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Perceived exclusion of African American artists from funding and venues",
+    "Displacement of African American communities in East Austin",
+    "Misrepresentation of service to marginalized groups by white artists and organizations",
+    "Accusations of unfair and discriminatory funding practices",
+    "Use of language to obscure inequities in funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "others are excluded from funding and venues",
+    "African American artists aren't given the same access to funding and opportunities",
+    "majority of African-Americans have been displaced from their community in East Austin",
+    "White Artists and culture groups in East Austin use the term undeserved and displaced people in order to get funding even though they don't serve anyone in those groups",
+    "funding is very unfair and discriminatory towards African-Americans",
+    "the city and other groups try to hide it by using select terms to claim they're serving the excluded people"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Exclusion from funding and venues for African American artists",
+    "Displacement from East Austin",
+    "Misuse of funding criteria by organizations not serving marginalized groups",
+    "Discriminatory funding practices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:28:45.204520",
+  "cache_key": "3b05b769a1d58427b132a286933e7dbf757ba4a1a2f9911bdcd6d851a4f7ec7a",
+  "model": "gpt-41"
+}

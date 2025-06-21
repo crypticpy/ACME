@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of free high-quality arts events",
+    "over-commercialization of cultural events",
+    "dissatisfaction with event quality",
+    "need for public funding for the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more free events",
+    "aren't just about selling me handmade jewelry",
+    "lame DJ spins someone else's music",
+    "Free high quality arts deserve public funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "events focused on commercial sales rather than art",
+    "low-quality or unoriginal music at events",
+    "insufficient free, high-quality arts programming"
+  ],
+  "solutions_proposed": [
+    "increase public funding for free high-quality arts events"
+  ],
+  "cached_at": "2025-06-21T01:34:22.831428",
+  "cache_key": "6317fe262fe261a8aea8e2f7dab3e1a776ead642a279b52fabb54f7773ce4f18",
+  "model": "gpt-41"
+}

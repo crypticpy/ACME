@@ -1,0 +1,43 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Concerns about proposed funding structure changes",
+    "Equitable access to funding",
+    "Impact on small organizations and artists",
+    "Critique of matching requirements and funding caps",
+    "Call for community engagement before policy changes",
+    "Potential harm to organizational sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "become more accessible and equitable, not less",
+    "proposed changes to the current funding structure would be detrimental",
+    "50% match, a required year off from funding, funding caps based on the organization's operating budget, and requirement to either be a nonprofit or fiscally sponsored",
+    "greatly prohibitive to equitable access",
+    "remove funding from the majority of organizations and artists",
+    "put it in the hands of the few large institutions who already dominate the scene",
+    "forced to lay off staff, cut programming, and decrease hourly pay for artists",
+    "pause this anonymous working group, and connect with the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "50% match requirement",
+    "required year off from funding",
+    "funding caps based on operating budget",
+    "requirement to be a nonprofit or fiscally sponsored"
+  ],
+  "solutions_proposed": [
+    "Pause this anonymous working group",
+    "Connect with the community before moving suggestions forward to Council"
+  ],
+  "cached_at": "2025-06-21T00:53:32.036209",
+  "cache_key": "96f7a72a08e8fffdf0db50a63aa8fd328304d90a4b8a2b2542e14849d35900f4",
+  "model": "gpt-41"
+}

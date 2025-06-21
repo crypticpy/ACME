@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "insufficient grant opportunities",
+    "lack of artist and venue networking",
+    "affordability of housing for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more grant opportunities",
+    "more of a network of venues and artists",
+    "cheaper housing for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited grant opportunities",
+    "insufficient networking infrastructure",
+    "high cost of housing for artists"
+  ],
+  "solutions_proposed": [
+    "increase grant opportunities",
+    "develop a network of venues and artists",
+    "provide cheaper housing for artists"
+  ],
+  "cached_at": "2025-06-21T01:56:54.138440",
+  "cache_key": "024e8a95ceabc1b4095e79485cc02bb64629fda9b10014a183343527c8acf1fa",
+  "model": "gpt-41"
+}

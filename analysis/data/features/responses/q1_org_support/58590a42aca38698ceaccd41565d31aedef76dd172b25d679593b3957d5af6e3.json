@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued grant support",
+    "support for arts organizations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue to support arts organizations through grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "continue to support arts organizations through grants"
+  ],
+  "cached_at": "2025-06-20T10:31:36.186146",
+  "cache_key": "58590a42aca38698ceaccd41565d31aedef76dd172b25d679593b3957d5af6e3",
+  "model": "gpt-41"
+}

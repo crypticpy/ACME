@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "leveraging respected community leaders",
+    "community engagement",
+    "event enhancement through notable figures"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Loop in Hugh Forrest",
+    "he knows and cares for our community\u2019s creatives",
+    "I respect his perspective",
+    "he would be a draw to a ACME event"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Involve Hugh Forrest in ACME activities or events"
+  ],
+  "cached_at": "2025-06-20T10:37:47.461785",
+  "cache_key": "c0edb932f469baf8485ae9553aafcaef85737451e34473ce7728b99ba677a5d0",
+  "model": "gpt-41"
+}

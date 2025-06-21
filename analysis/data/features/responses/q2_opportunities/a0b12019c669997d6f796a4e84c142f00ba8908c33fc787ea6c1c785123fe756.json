@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "access to city-owned spaces",
+    "support for events and performances",
+    "facilitation of local shops and markets"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "availability of City spaces",
+    "use for events",
+    "shops",
+    "shows"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited availability of City spaces for cultural use"
+  ],
+  "solutions_proposed": [
+    "increase availability of City spaces for events, shops, and shows"
+  ],
+  "cached_at": "2025-06-21T00:42:56.965625",
+  "cache_key": "a0b12019c669997d6f796a4e84c142f00ba8908c33fc787ea6c1c785123fe756",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "improving existing systems rather than overhauling",
+    "artist-centered policy and funding",
+    "bridging creative community and hospitality sector",
+    "business development support for small creative businesses",
+    "community-led and compensated programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Improve what already exists based on the needs of the artists",
+    "instead of overhauling and creating a new system",
+    "Find better ways to bridge gaps between the creative community and hospitality services",
+    "Offer more programming for business development geared toward small businesses",
+    "ideally lead by community members and paid for by the ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gaps between the creative community and hospitality services",
+    "lack of business development programming for small businesses"
+  ],
+  "solutions_proposed": [
+    "Improve existing systems based on artist needs",
+    "Bridge gaps between creative community and hospitality services",
+    "Offer more business development programming for small businesses",
+    "Ensure programming is community-led and compensated by ACME"
+  ],
+  "cached_at": "2025-06-21T02:15:45.324938",
+  "cache_key": "e107897edd3f4b27d46657a77b41b1847202f4c27c4ea6f95ce32fd3476515b7",
+  "model": "gpt-41"
+}

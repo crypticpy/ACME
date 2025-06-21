@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Recognition of long-term contributions by artists and organizations",
+    "Perceived unfairness and abuse in grant distribution",
+    "Need for integrity and vision in cultural funding administration",
+    "Importance of staff dedication and respect for the arts community",
+    "Consideration of community impact in funding decisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Honor the longevity of artists and organizations",
+    "helped make Austin a vital creative community",
+    "section which addresses the art form and the recognition of the artists/arts organization of longevity",
+    "Make sure grants are one per applicant",
+    "one person gamed the system and received over $700,000",
+    "Such a disgusting abuse of the system",
+    "ACME must be a department that has integrity and vision",
+    "employ staff that respect and are dedicated to the arts community",
+    "The amount of people impacted by the individual non-profit should be taken into consideration"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Abuse of the grant system by individuals",
+    "Lack of recognition for long-term contributors",
+    "Perceived lack of integrity and respect from funding administrators"
+  ],
+  "solutions_proposed": [
+    "Include a section in applications addressing art form and recognition of longevity",
+    "Limit grants to one per applicant",
+    "Employ staff dedicated and respectful to the arts community",
+    "Consider the number of people impacted by non-profits in funding decisions"
+  ],
+  "cached_at": "2025-06-20T01:18:43.524289",
+  "cache_key": "dd381d8fc7e637e9846d6b65e8f22fdee5319c6395167cb3568380c2c736fdfb",
+  "model": "gpt-41"
+}

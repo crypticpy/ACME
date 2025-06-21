@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct financial support for musicians",
+    "cost of living pressures on local artists",
+    "economic impact of tourism on local culture",
+    "retention of creative workforce"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "provide a type of credit card",
+    "help with rent/food and living expenses",
+    "keep them in Austin",
+    "Austin makes millions of dollars in tourism and taxes",
+    "music capital of the world"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability of rent, food, and living expenses for full time local musicians"
+  ],
+  "solutions_proposed": [
+    "provide a type of credit card in amounts to be determined to full time local musicians to help with rent/food and living expenses"
+  ],
+  "cached_at": "2025-06-21T01:57:46.536327",
+  "cache_key": "75cb9e5ab19e8935ed595a024f717f4ae99a32b5b1f04dcfe4ea4d2b530178b7",
+  "model": "gpt-41"
+}

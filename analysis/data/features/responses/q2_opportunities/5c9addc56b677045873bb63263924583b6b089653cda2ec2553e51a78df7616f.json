@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "hands-on learning opportunities",
+    "library-based workshops",
+    "nature education and identification",
+    "environmental stewardship through cultural activities",
+    "outdoor aerial arts in parks",
+    "artist-led programming with equipment rental"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More hands on learning",
+    "workshops at the library are great",
+    "more nature identification and education based activities",
+    "strengthen resident's relationships with the nature around them",
+    "influencing respect and stronger environmental stewardship",
+    "Aerials at the park could be cool",
+    "Several artists around town have rentable aerial equipment and insurance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More hands-on learning opportunities",
+    "Increase workshops at the library",
+    "Expand nature identification and education-based activities",
+    "Offer aerial arts activities in parks using local artists' equipment"
+  ],
+  "cached_at": "2025-06-21T00:30:43.430490",
+  "cache_key": "5c9addc56b677045873bb63263924583b6b089653cda2ec2553e51a78df7616f",
+  "model": "gpt-41"
+}

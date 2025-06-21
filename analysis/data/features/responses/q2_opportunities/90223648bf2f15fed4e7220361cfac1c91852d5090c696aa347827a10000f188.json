@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable theater",
+    "quality of performing arts",
+    "accessibility of cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "good-quality theater",
+    "not too expensive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of theater"
+  ],
+  "solutions_proposed": [
+    "increase availability of affordable, high-quality theater"
+  ],
+  "cached_at": "2025-06-21T00:35:52.424869",
+  "cache_key": "90223648bf2f15fed4e7220361cfac1c91852d5090c696aa347827a10000f188",
+  "model": "gpt-41"
+}

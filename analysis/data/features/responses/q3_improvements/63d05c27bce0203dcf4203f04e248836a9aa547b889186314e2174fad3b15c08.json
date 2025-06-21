@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Mismatch between city requirements and organizational capacity",
+    "Burden of DEI requirements on underserved organizations",
+    "Lack of city-provided ADA accessibility in facilities",
+    "Perceived hypocrisy or double standard in city expectations",
+    "Call for realistic and attainable requirements"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "requirements and desires from the city are not feasible",
+    "most arts organizations in Austin",
+    "a ton of boxes to check for DEI",
+    "most underserved organizations don\u2019t even have the bandwidth",
+    "city facilities lack substantial ADA accessibility",
+    "get on the level of what\u2019s actually possible and attainable"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Excessive administrative requirements",
+    "Limited organizational capacity (bandwidth)",
+    "Inadequate ADA accessibility in city facilities",
+    "Unrealistic expectations for underserved organizations"
+  ],
+  "solutions_proposed": [
+    "Align city requirements with what is possible and attainable for most organizations",
+    "Ensure city facilities meet the same accessibility standards required of applicants"
+  ],
+  "cached_at": "2025-06-21T00:55:22.585120",
+  "cache_key": "63d05c27bce0203dcf4203f04e248836a9aa547b889186314e2174fad3b15c08",
+  "model": "gpt-41"
+}

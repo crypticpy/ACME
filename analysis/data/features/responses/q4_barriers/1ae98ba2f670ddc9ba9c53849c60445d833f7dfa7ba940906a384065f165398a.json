@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of city funding",
+    "financial barriers to fair wages",
+    "difficulty sustaining artistic work",
+    "high community demand unmet",
+    "historical funding reduction"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "We need funding from the city",
+    "to keep paying our company members/artists and many collaborators a fair wage",
+    "We used to get $20,000 from the city for decades, and now we receive nothing",
+    "It has made it difficult to continue even though there is high demand for what we do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of city funding",
+    "inability to pay fair wages",
+    "financial instability threatening continuation of work"
+  ],
+  "solutions_proposed": [
+    "restore city funding"
+  ],
+  "cached_at": "2025-06-21T01:43:35.993958",
+  "cache_key": "1ae98ba2f670ddc9ba9c53849c60445d833f7dfa7ba940906a384065f165398a",
+  "model": "gpt-41"
+}

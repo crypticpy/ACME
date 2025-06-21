@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "health insurance for artists",
+    "mental health resources",
+    "support for working artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "health insurance",
+    "mental health resources",
+    "working artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of health insurance",
+    "lack of mental health resources"
+  ],
+  "solutions_proposed": [
+    "provide health insurance for working artists",
+    "offer mental health resources for working artists"
+  ],
+  "cached_at": "2025-06-21T01:52:01.943881",
+  "cache_key": "730653478f03b7935713ff2881fc8ea9317401fcce6063cc3b5aa871932e60b0",
+  "model": "gpt-41"
+}

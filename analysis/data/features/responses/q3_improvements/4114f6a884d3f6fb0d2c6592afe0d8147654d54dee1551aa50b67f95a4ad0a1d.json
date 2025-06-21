@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of funding programs",
+    "outreach and communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "making sure more people know about it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of public awareness"
+  ],
+  "solutions_proposed": [
+    "increase awareness of the programs"
+  ],
+  "cached_at": "2025-06-21T01:19:59.715852",
+  "cache_key": "4114f6a884d3f6fb0d2c6592afe0d8147654d54dee1551aa50b67f95a4ad0a1d",
+  "model": "gpt-41"
+}

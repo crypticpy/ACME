@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for business skills development",
+    "support for arts freelancers",
+    "professional sustainability in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Surviving as a arts business/freelancer workshop"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business survival skills for arts freelancers"
+  ],
+  "solutions_proposed": [
+    "offer a workshop on surviving as an arts business/freelancer"
+  ],
+  "cached_at": "2025-06-21T02:03:08.667524",
+  "cache_key": "48b60d2d0be4e2a4b53a6c575b1327bb97ea5a3b9086fa85197dc0a5e3d040f0",
+  "model": "gpt-41"
+}

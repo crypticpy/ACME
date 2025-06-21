@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Need for experienced and visionary leadership",
+    "Inclusion of non-commercial and experimental art",
+    "Underrepresentation of the visual art scene",
+    "Overemphasis on music and entertainment sectors"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more leaders with experience, vision, stockholding and a strong familiarity with the scene",
+    "including non-commercial, and experimental work within the Austin visual art scene",
+    "not just the music and entertainment scene at the table"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of leaders familiar with non-commercial and experimental visual art",
+    "Overrepresentation of music and entertainment perspectives"
+  ],
+  "solutions_proposed": [
+    "Include more leaders with experience, vision, and familiarity with the non-commercial and experimental Austin visual art scene"
+  ],
+  "cached_at": "2025-06-21T01:10:18.418936",
+  "cache_key": "b0d649ba9e0884b4860067cd206e3bbba1b40d0725bfd1df947dd8e095ecb976",
+  "model": "gpt-41"
+}

@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increasing uncertainty in national arts funding",
+    "existential threat to small and emerging organizations",
+    "difficulty accessing traditional philanthropic funding",
+    "importance of local support",
+    "need for risk-taking in grantmaking",
+    "barriers for new and unproven initiatives",
+    "equity and vibrancy in Austin's creative community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "The national landscape for nonprofit arts funding has grown increasingly uncertain",
+    "existential challenge for small and emerging arts organizations",
+    "difficult it is to access traditional philanthropic funding",
+    "local support, from both the Austin community and organizations like ACME, is more crucial than ever",
+    "expanding the number of grants available",
+    "making the application process more accessible and user-friendly",
+    "take more risks on newer artists and organizations",
+    "Supporting emerging talent isn\u2019t just equitable, it\u2019s essential for keeping Austin\u2019s creative community vibrant and forward-thinking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "National Endowment for the Arts"
+  ],
+  "barriers_identified": [
+    "uncertain national funding climate",
+    "threat to federal support",
+    "hostility toward nonprofit institutions",
+    "difficulty accessing traditional philanthropic funding",
+    "foundations hesitant to invest in new or unproven initiatives"
+  ],
+  "solutions_proposed": [
+    "expand the number of grants available",
+    "make the application process more accessible and user-friendly",
+    "take more risks on newer artists and organizations"
+  ],
+  "cached_at": "2025-06-20T01:16:25.180820",
+  "cache_key": "6e456a6c0fefda8053e412717161b8066b9e01ffc352b67c2a63c5dc7920794d",
+  "model": "gpt-41"
+}

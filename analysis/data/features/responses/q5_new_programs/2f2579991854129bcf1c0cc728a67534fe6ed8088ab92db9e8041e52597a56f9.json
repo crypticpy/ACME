@@ -1,0 +1,45 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable creative spaces",
+    "capacity-building workshops",
+    "collaborative residency programs",
+    "support for underrepresented artists",
+    "sustained funding and mentorship",
+    "decentralization of cultural opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "subsidized network of rehearsal studios, gallery spaces, and multipurpose venues",
+    "empower more artists and organizations to create and share their work without financial strain",
+    "workshops on topics like grant writing, marketing, budgeting, and intellectual property",
+    "invaluable especially for artists and cultural leaders who are self-taught or operating without institutional backing",
+    "residency programs that bring together artists, organizers, educators, and technologists",
+    "community-centered projects",
+    "hosted outside of the central city core",
+    "year-long funding cohorts that combine financial support with mentorship, visibility, and community building",
+    "especially for underrepresented artists and small orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial strain",
+    "lack of affordable creative spaces",
+    "limited access to professional development for self-taught artists",
+    "centralization of opportunities in the city core",
+    "short-term, one-time grant funding"
+  ],
+  "solutions_proposed": [
+    "create a subsidized network of rehearsal studios, gallery spaces, and multipurpose venues",
+    "offer workshops on grant writing, marketing, budgeting, and intellectual property",
+    "establish residency programs for cross-sector collaboration on community-centered projects outside the city core",
+    "pilot year-long funding cohorts with financial support, mentorship, visibility, and community building for underrepresented artists and small organizations"
+  ],
+  "cached_at": "2025-06-21T02:02:19.872540",
+  "cache_key": "2f2579991854129bcf1c0cc728a67534fe6ed8088ab92db9e8041e52597a56f9",
+  "model": "gpt-41"
+}

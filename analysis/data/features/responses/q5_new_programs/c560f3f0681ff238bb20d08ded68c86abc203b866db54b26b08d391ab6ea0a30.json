@@ -1,0 +1,42 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "financial barriers for artists",
+    "accessibility and inclusion (ASL, Spanish translation, child care)",
+    "support for artists' professional needs (archival video/work samples)",
+    "community responsibility and philanthropy",
+    "advocacy targeting wealthy citizens"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Subsidizing venue rental for artists",
+    "Free/subsidized archival video/work samples for artists",
+    "Free/subsidized ASL and Spanish translation",
+    "Free/subsidized child care for artists in rehearsal and artists and audience during performances",
+    "Campaign to pressure wealthy citizens to give more to the arts",
+    "\"do your duty to this city and give money to the arts\" kind of campaign"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of venue rental",
+    "lack of affordable access to archival video/work samples",
+    "insufficient ASL and Spanish translation services",
+    "lack of affordable child care for artists and audiences",
+    "insufficient philanthropic giving from wealthy citizens"
+  ],
+  "solutions_proposed": [
+    "Subsidizing venue rental for artists",
+    "Providing free or subsidized archival video/work samples",
+    "Providing free or subsidized ASL and Spanish translation",
+    "Providing free or subsidized child care for artists and audiences",
+    "Launching a campaign to pressure wealthy citizens to give more to the arts"
+  ],
+  "cached_at": "2025-06-21T01:52:32.224967",
+  "cache_key": "c560f3f0681ff238bb20d08ded68c86abc203b866db54b26b08d391ab6ea0a30",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for revival of discontinued festivals",
+    "nostalgia for past cultural events",
+    "interest in community-wide arts celebrations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Bring back aquafest",
+    "spring arts festival like what used to be at Laguna Gloria"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "aquafest",
+    "spring arts festival",
+    "Laguna Gloria"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Bring back aquafest",
+    "Bring back spring arts festival like what used to be at Laguna Gloria"
+  ],
+  "cached_at": "2025-06-21T00:47:14.981201",
+  "cache_key": "7540e130f60db14d0722335508a33adcaba52801329989e81e56b336b39b4a7b",
+  "model": "gpt-41"
+}

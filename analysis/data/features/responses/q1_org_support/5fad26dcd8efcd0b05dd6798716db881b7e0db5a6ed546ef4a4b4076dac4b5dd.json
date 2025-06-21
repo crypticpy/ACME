@@ -1,0 +1,34 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for accessible funding information",
+    "marketing support for emerging organizations",
+    "sustainability challenges for new groups",
+    "importance of audience development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Provide funding and information about grants as needed",
+    "help in marketing events for small new organizations or individual endeavors",
+    "don't have the audience reach yet",
+    "Without ticket sales, these new groups and their events can't remain sustainable"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of audience reach",
+    "insufficient ticket sales",
+    "limited access to funding information"
+  ],
+  "solutions_proposed": [
+    "provide funding and information about grants",
+    "help in marketing events for small new organizations or individual endeavors"
+  ],
+  "cached_at": "2025-06-20T10:23:10.320702",
+  "cache_key": "5fad26dcd8efcd0b05dd6798716db881b7e0db5a6ed546ef4a4b4076dac4b5dd",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more frequent events",
+    "preference for free cultural opportunities",
+    "interest in small-scale music concerts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more frequent",
+    "free",
+    "small music concerts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of attendance",
+    "limited frequency of events"
+  ],
+  "solutions_proposed": [
+    "increase frequency of free small music concerts"
+  ],
+  "cached_at": "2025-06-21T00:46:32.329215",
+  "cache_key": "30bf40941adde9701c9b1d6f4e6a6dfb565ffbc8b6dd3a9ced08ee205f1123c9",
+  "model": "gpt-41"
+}

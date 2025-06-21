@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "preference for authenticity over trendiness",
+    "desire for events rooted in local history",
+    "critique of marketing-driven cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "less marketing/trendy",
+    "more authentic events",
+    "rooted in local HISTORY"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "prevalence of marketing/trendy events over authentic, history-based offerings"
+  ],
+  "solutions_proposed": [
+    "offer more authentic events rooted in local history"
+  ],
+  "cached_at": "2025-06-21T00:28:47.351539",
+  "cache_key": "2951fe8a9afbb4869a8e3dc8bdb8ee17405d3295abc7c7e3efd06af5b206535d",
+  "model": "gpt-41"
+}

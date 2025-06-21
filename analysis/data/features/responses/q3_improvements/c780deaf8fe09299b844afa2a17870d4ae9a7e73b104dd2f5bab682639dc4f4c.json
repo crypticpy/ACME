@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased opportunities for musicians",
+    "gender equity in music funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more opportunities for musicians",
+    "especially women"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for women musicians"
+  ],
+  "solutions_proposed": [
+    "create more opportunities for musicians, especially women"
+  ],
+  "cached_at": "2025-06-21T00:58:49.939709",
+  "cache_key": "c780deaf8fe09299b844afa2a17870d4ae9a7e73b104dd2f5bab682639dc4f4c",
+  "model": "gpt-41"
+}

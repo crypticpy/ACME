@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "investment in arts education at the high school level",
+    "preparing youth for creative careers in Austin",
+    "awareness and education about arts grants",
+    "building practical skills for future arts participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "investment in local arts in high school education",
+    "teaching students in the community how they might be able to have a creative practice in Austin",
+    "teach the students about the grants",
+    "practical groundwork for participating in the arts scene"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of early education about arts grants and creative practice pathways"
+  ],
+  "solutions_proposed": [
+    "invest in local arts in high school education",
+    "teach students about available grants",
+    "provide practical groundwork for students to participate in the arts scene"
+  ],
+  "cached_at": "2025-06-21T01:10:43.165622",
+  "cache_key": "c74995a23423471c5cabea476590da7c94ec9eb294d283f37357094c4092ff08",
+  "model": "gpt-41"
+}

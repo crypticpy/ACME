@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "integration of cultural funding with education",
+    "expanding access to youth and schools"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Share with schools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Share with schools"
+  ],
+  "cached_at": "2025-06-21T01:07:05.408949",
+  "cache_key": "bc82c1a4f68ad61cde68f27944e382b0ce856b7e3df856ce45f1b00dcd5a1873",
+  "model": "gpt-41"
+}

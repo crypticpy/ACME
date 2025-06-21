@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "language barriers",
+    "lack of information in Spanish",
+    "insufficient support in Spanish"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "La barrera del idioma",
+    "informacion y ayuda en espa\u00f1ol"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "language barrier",
+    "lack of information in Spanish",
+    "lack of assistance in Spanish"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:41.361468",
+  "cache_key": "e3c179a1dd14e51edca4fc3c60c9cc3aa3b785ee2a1060961100267cbe3acfd6",
+  "model": "gpt-41"
+}

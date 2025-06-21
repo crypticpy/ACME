@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of artists' work",
+    "expanding audiences beyond local communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "promoting the artists work outside of their own communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited exposure of artists to audiences outside their own communities"
+  ],
+  "solutions_proposed": [
+    "promoting the artists work outside of their own communities"
+  ],
+  "cached_at": "2025-06-20T10:28:52.908940",
+  "cache_key": "89c26f7d88761ff9d14c3720a3aa21a95ddc5b45de9f0d62dd55db79feb5c7b7",
+  "model": "gpt-41"
+}

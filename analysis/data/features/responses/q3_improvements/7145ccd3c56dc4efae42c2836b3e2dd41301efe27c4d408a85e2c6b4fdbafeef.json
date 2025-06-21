@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased awareness",
+    "need for improved access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "increased awareness",
+    "access"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "limited access"
+  ],
+  "solutions_proposed": [
+    "increase awareness",
+    "improve access"
+  ],
+  "cached_at": "2025-06-21T01:08:11.127049",
+  "cache_key": "7145ccd3c56dc4efae42c2836b3e2dd41301efe27c4d408a85e2c6b4fdbafeef",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "local decision-making",
+    "community representation in funding",
+    "review process improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "local panel of judges",
+    "review the local projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "A local panel of judges to review the local projects"
+  ],
+  "cached_at": "2025-06-21T01:15:17.947793",
+  "cache_key": "1e1f04796cbc68d19d3d10b21947a09e07a6dc58c8536624057f5f53f0b2ec94",
+  "model": "gpt-41"
+}

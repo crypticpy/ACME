@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Impact of rising property values on cultural venues",
+    "Role of historic rezoning in tax relief",
+    "Examples of successful tax mitigation for venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Rising property values are causing higher rents",
+    "Many venues could be rezoned to be 'historic' which cuts property taxes",
+    "This has helped the Continental Club, and now the Broken Spoke"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Continental Club",
+    "Broken Spoke"
+  ],
+  "barriers_identified": [
+    "Rising property values",
+    "Higher rents for venues"
+  ],
+  "solutions_proposed": [
+    "Rezone venues as 'historic' to cut property taxes"
+  ],
+  "cached_at": "2025-06-21T01:46:20.852183",
+  "cache_key": "2be75444a5bf26f27955b3109fec87cc7ca0ac84f971b7a1500c37b3dc9f6941",
+  "model": "gpt-41"
+}

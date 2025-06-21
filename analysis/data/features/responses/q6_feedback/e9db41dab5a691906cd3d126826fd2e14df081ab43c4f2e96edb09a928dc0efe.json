@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "politicization of Arts Commission roles",
+    "perceived manipulation in appointments",
+    "concerns about city staff influence",
+    "commissioner interference in appointment process"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "should not be a political role",
+    "mouthpiece for the city staff",
+    "appointments should be left up to the seating council member",
+    "push back from sitting commissioners",
+    "blatant manipulation and coercion"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "political manipulation in commission appointments",
+    "coercion and interference by commissioners",
+    "lack of autonomy for council members in appointments"
+  ],
+  "solutions_proposed": [
+    "leave Arts Commission appointments up to the seating council member without push back from sitting commissioners"
+  ],
+  "cached_at": "2025-06-21T02:11:48.654717",
+  "cache_key": "e9db41dab5a691906cd3d126826fd2e14df081ab43c4f2e96edb09a928dc0efe",
+  "model": "gpt-41"
+}

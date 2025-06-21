@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for increased representation of African American culture",
+    "Interest in culturally specific events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "African American events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More African American events"
+  ],
+  "cached_at": "2025-06-21T00:48:10.627304",
+  "cache_key": "5364bd9f7cfab2bdd044980a17713cb37865422f07ae0f17614c2032e55f5faf",
+  "model": "gpt-41"
+}

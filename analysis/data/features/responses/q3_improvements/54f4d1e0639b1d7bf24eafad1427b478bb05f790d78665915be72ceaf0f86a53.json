@@ -1,0 +1,26 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for racial equity focus",
+    "concern over influence of white-led and legacy organizations",
+    "disappointment with potential policy reversal"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I like the direction that cultural funding was going in terms of focusing on racial equity",
+    "I'm disappointed to hear that the City may be giving in to white-led and legacy org complaints"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "influence of white-led and legacy organizations on policy direction"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:00:48.855814",
+  "cache_key": "54f4d1e0639b1d7bf24eafad1427b478bb05f790d78665915be72ceaf0f86a53",
+  "model": "gpt-41"
+}

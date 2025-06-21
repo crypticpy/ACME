@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "geographic accessibility challenges",
+    "event scheduling conflicts with traffic",
+    "transportation barriers from NW Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "hours and locations of events can be hard to reach",
+    "from NW Austin",
+    "weekday evenings",
+    "traveling during peak traffic times"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "event locations are difficult to access from NW Austin",
+    "events scheduled during weekday evenings conflict with peak traffic",
+    "transportation and traffic issues limit participation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:33:22.422750",
+  "cache_key": "ad167abf7c17a3ecaa5da7145432bfbafedcd1c61d16fb7125a5bd4f83157538",
+  "model": "gpt-41"
+}

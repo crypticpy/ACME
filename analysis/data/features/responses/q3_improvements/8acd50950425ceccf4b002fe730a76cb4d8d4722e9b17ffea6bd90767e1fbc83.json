@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of funding programs",
+    "outreach to cultural groups",
+    "application process assistance"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "getting the word out that they exist",
+    "assisting them with the application"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of programs",
+    "difficulty with application process"
+  ],
+  "solutions_proposed": [
+    "increase outreach to cultural groups",
+    "provide assistance with the application"
+  ],
+  "cached_at": "2025-06-21T01:01:23.619029",
+  "cache_key": "8acd50950425ceccf4b002fe730a76cb4d8d4722e9b17ffea6bd90767e1fbc83",
+  "model": "gpt-41"
+}

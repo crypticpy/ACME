@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "digital divide in information sharing",
+    "exclusion of elderly and people with disabilities",
+    "reliance on internet-based communication"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Information sharing",
+    "If people don't have access or prefer not to be connect via internet",
+    "there's a population let out",
+    "elderly, varies disabilities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of internet access",
+    "preference not to use internet",
+    "exclusion of elderly",
+    "exclusion of people with disabilities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:15.470008",
+  "cache_key": "c0341de38e2e0cbe2a8084491505f2e5e8ce2abd89e35bb36ef739b3fe04f990",
+  "model": "gpt-41"
+}

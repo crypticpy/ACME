@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "satisfaction with current program variety",
+    "need for predictable support",
+    "desire for sustained funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "good variety of options",
+    "more and lasting, predictable support is needed"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of lasting, predictable support"
+  ],
+  "solutions_proposed": [
+    "provide more and lasting, predictable support"
+  ],
+  "cached_at": "2025-06-21T02:04:49.746078",
+  "cache_key": "b2875d05fa72ececfe594059e212b96b0311dd7126025e1fb674c1fc3fe6a6ef",
+  "model": "gpt-41"
+}

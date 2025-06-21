@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for continued and expanded funding for arts support programs",
+    "impact of rising rent and housing prices on artists",
+    "artists being displaced from Austin",
+    "need for affordable housing and parking for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "continued funding and expansion of programs like sims, haam, and others",
+    "artists get pushed farther and farther out of town due to rent and housing prices",
+    "create affordable housing and parking for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "sims",
+    "haam"
+  ],
+  "barriers_identified": [
+    "rent and housing prices pushing artists out of town",
+    "lack of affordable housing for artists",
+    "lack of affordable parking for artists"
+  ],
+  "solutions_proposed": [
+    "continued funding and expansion of arts support programs",
+    "create affordable housing for artists",
+    "create affordable parking for artists"
+  ],
+  "cached_at": "2025-06-20T10:22:26.125711",
+  "cache_key": "57ea725db8123a0b3e3f2a4781e5cdd2e39d513e1be26b1e7b23c398eec6d1da",
+  "model": "gpt-41"
+}

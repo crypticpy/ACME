@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application complexity",
+    "accessibility challenges",
+    "navigation difficulties"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "application is complex",
+    "difficult to navigate",
+    "many individuals and organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "difficulty navigating application"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:07:32.639382",
+  "cache_key": "87d7b915ad1303cc9e71d10586bb45b26514e803da1a78bf286f9ab46030efdb",
+  "model": "gpt-41"
+}

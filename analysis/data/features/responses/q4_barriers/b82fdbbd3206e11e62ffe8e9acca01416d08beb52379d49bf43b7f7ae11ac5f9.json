@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial inaccessibility",
+    "economic barriers to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Financial barriers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial barriers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:45:34.190454",
+  "cache_key": "b82fdbbd3206e11e62ffe8e9acca01416d08beb52379d49bf43b7f7ae11ac5f9",
+  "model": "gpt-41"
+}

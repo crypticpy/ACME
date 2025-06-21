@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "outreach via local media",
+    "promotion of ACME's initiatives",
+    "community engagement through interviews"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "welcome Angela Means to be interviewed on KMFA",
+    "talk about ACME's initiatives",
+    "KMFA is a highly effective platform for connecting with the cultural community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "KMFA"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "invite Angela Means to be interviewed on KMFA to discuss ACME's initiatives"
+  ],
+  "cached_at": "2025-06-21T02:16:30.498522",
+  "cache_key": "31354c437c2861ff8a82e2af93650a27cb25700fd740204557be8733ffbd3d21",
+  "model": "gpt-41"
+}

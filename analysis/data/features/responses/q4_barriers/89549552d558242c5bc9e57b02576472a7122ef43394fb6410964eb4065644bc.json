@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers in North Austin",
+    "cultural isolation of lower income neighborhoods",
+    "centralization of arts and culture events",
+    "lack of accessible opportunities for families"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "difficulties with transportation can be very limiting",
+    "lower income areas of north austin feel very culturally isolated",
+    "goings on in central austin, where a lot of arts and culture based events/etc are held",
+    "not many large and/or publicized opportunities for families who can\u2019t easily leave the area"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulties with transportation",
+    "cultural isolation of lower income areas",
+    "events concentrated in central Austin",
+    "lack of large or publicized opportunities in North Austin",
+    "families unable to easily leave their area"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:29.974988",
+  "cache_key": "89549552d558242c5bc9e57b02576472a7122ef43394fb6410964eb4065644bc",
+  "model": "gpt-41"
+}

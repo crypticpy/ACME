@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of authentic arts focus in funding programs",
+    "Confusing or non-descriptive program naming",
+    "Lack of genuine equity in program design",
+    "Excessive academic/elitist barriers in application process",
+    "Negative staff experiences (except for one individual)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "The actual arts component must be restored",
+    "the names are silly and illustrate that the people creating them were not serious about equity",
+    "Grant programs should be named according to who and what they are for",
+    "the applicant is forced to do the extra work of researching",
+    "the questions betrayed an elitist, academic lens",
+    "I shouldn't need a graduate degree in social theory to fill out an arts grant",
+    "the staff is terrible, except for Anne-Marie"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Confusing or unclear program names requiring extra research",
+    "Elitist, academic language in application questions",
+    "Unwelcoming or unsupportive staff (with one exception)"
+  ],
+  "solutions_proposed": [
+    "Restore the actual arts component",
+    "Rename grant programs to clearly state who and what they are for (e.g., 'Visual Arts Support for Women of Color')",
+    "Simplify application questions to remove academic/elitist barriers"
+  ],
+  "cached_at": "2025-06-21T01:02:35.417205",
+  "cache_key": "2a44497bc6e5566a08f220fd6601f907301e693afdd2ee085c01a00623a98196",
+  "model": "gpt-41"
+}

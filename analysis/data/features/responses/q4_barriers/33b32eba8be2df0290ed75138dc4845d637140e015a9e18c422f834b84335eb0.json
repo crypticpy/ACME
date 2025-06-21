@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient city and private sector support",
+    "high cost of maintaining facilities and staff",
+    "impact of high city property taxes",
+    "financial strain on small businesses and arts groups",
+    "expensive venues in key areas"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding.",
+    "Lack of support from the city and from the private sector.",
+    "too expensive to maintain facilities and staff in the city without support.",
+    "venues in areas where tourists and patrons are located are incredibly expensive",
+    "high city taxes on properties",
+    "running out small businesses and arts groups trying to provide services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of support from city and private sector",
+    "high cost of facilities and staff",
+    "expensive venues in tourist and patron areas",
+    "high city property taxes",
+    "financial pressure forcing out small businesses and arts groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:39.827045",
+  "cache_key": "33b32eba8be2df0290ed75138dc4845d637140e015a9e18c422f834b84335eb0",
+  "model": "gpt-41"
+}

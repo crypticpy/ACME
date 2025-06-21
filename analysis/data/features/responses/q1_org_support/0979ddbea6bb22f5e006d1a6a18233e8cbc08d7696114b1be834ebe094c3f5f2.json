@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of transparency in funding decisions",
+    "difficulty accessing information on website",
+    "need for clarity about organizational support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more transparency in which organizers ACME is supporting",
+    "in what ways",
+    "I cannot easily find this information on the ACME website"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "information about supported organizers is not easily accessible on the website"
+  ],
+  "solutions_proposed": [
+    "provide more transparency in which organizers ACME is supporting and in what ways"
+  ],
+  "cached_at": "2025-06-20T10:25:31.131137",
+  "cache_key": "0979ddbea6bb22f5e006d1a6a18233e8cbc08d7696114b1be834ebe094c3f5f2",
+  "model": "gpt-41"
+}

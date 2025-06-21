@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability crisis in Austin",
+    "economic barriers to cultural participation",
+    "concern about social division",
+    "universal needs across communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The biggest barrier in all of Austin is money",
+    "It is a prohibitively expensive city",
+    "Most Texans cannot afford to live here",
+    "Don\u2019t splice and dice people and create division or hostility",
+    "We all need the same things in this town"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of living in Austin",
+    "economic inaccessibility"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:30:42.027019",
+  "cache_key": "59eaff1c864f795bb6a34c4a848afc532b70de4dd8c070cceefe769e312e1172",
+  "model": "gpt-41"
+}

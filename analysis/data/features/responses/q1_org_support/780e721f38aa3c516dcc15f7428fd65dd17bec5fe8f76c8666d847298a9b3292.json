@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "facilitating regular meetings for organizations",
+    "encouraging broader participation from residents and creatives",
+    "community engagement strategies"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "regular meetings for these orgs",
+    "a call to residents / artists / creatives to participate"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of regular meetings for organizations",
+    "insufficient outreach to residents, artists, and creatives"
+  ],
+  "solutions_proposed": [
+    "hold regular meetings for organizations",
+    "issue a call to residents, artists, and creatives to participate"
+  ],
+  "cached_at": "2025-06-20T10:33:45.872456",
+  "cache_key": "780e721f38aa3c516dcc15f7428fd65dd17bec5fe8f76c8666d847298a9b3292",
+  "model": "gpt-41"
+}

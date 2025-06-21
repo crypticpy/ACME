@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for technical support",
+    "administrative support improvements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "better technical support",
+    "admin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of technical support",
+    "insufficient administrative support"
+  ],
+  "solutions_proposed": [
+    "better technical support",
+    "better admin"
+  ],
+  "cached_at": "2025-06-21T01:04:27.065471",
+  "cache_key": "c51d1e1598b5ea88bd1d23e26a5beadc32092a2c99df4ee1c06b7c1478dc8a8a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,53 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of corporate and out-of-state landlords on housing",
+    "affordability and accessibility of live/work spaces for artists",
+    "need for supportive zoning and code expertise for artist studios",
+    "public transportation as essential infrastructure",
+    "policy interventions to discourage vacant properties",
+    "critique of current apartment and commercial development models"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Get big finance COMPLETELY out of housing",
+    "100% full ban on corporate landlords, and out of state landlords with more than a couple properties",
+    "seize their assets",
+    "must be possible to make ends meet on a part time job",
+    "housing with enough space to actually work on projects and store /support equipment",
+    "European style public transportation is an absolute non negotiable must",
+    "Zoning requirements must be realigned to allow housing that would actually work for artists",
+    "self built studios need support from a department that can help with code and expertise issues",
+    "Apartments are completely unworkable for most artists and musicians",
+    "Live/work spaces should be the norm, not the exception",
+    "ban 5 over 1s",
+    "exorbitant property tax for empty non primary residences and commercial spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "corporate and out-of-state ownership of housing and commercial spaces",
+    "lack of affordable and suitable live/work spaces for artists",
+    "zoning and code barriers for self-built studios",
+    "unworkable apartment models for artists and musicians",
+    "vacant properties kept off the market"
+  ],
+  "solutions_proposed": [
+    "ban corporate landlords and out-of-state landlords with more than a couple properties",
+    "ban investment groups from real estate and seize their assets",
+    "enable affordable housing with enough space for creative work",
+    "implement European style public transportation",
+    "realign zoning to allow residential use of industrial and commercial spaces",
+    "create departmental support for self-built studios with code expertise",
+    "make live/work spaces the norm",
+    "ban or regulate '5 over 1' apartment developments",
+    "impose high property taxes on empty non-primary residences and commercial spaces"
+  ],
+  "cached_at": "2025-06-20T10:35:22.492208",
+  "cache_key": "a5364582f6058c791d28c4389714276cb11364750861523fc2aab1fa3d6d7b42",
+  "model": "gpt-41"
+}

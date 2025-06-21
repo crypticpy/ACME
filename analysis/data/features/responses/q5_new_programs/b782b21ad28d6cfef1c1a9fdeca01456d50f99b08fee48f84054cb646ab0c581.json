@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient grant application support",
+    "loss of helpful workshops",
+    "difficulty with current grant programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Better assistance to organizations and artists in applying for grants",
+    "grant application workshops were offered that were very helpful",
+    "did not find that level of help when applying for Elevate and The Live Music Fund"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate",
+    "The Live Music Fund"
+  ],
+  "barriers_identified": [
+    "lack of assistance in applying for grants",
+    "absence of helpful grant application workshops"
+  ],
+  "solutions_proposed": [
+    "offer better assistance to organizations and artists in applying for grants",
+    "reinstate grant application workshops"
+  ],
+  "cached_at": "2025-06-21T02:02:32.164974",
+  "cache_key": "b782b21ad28d6cfef1c1a9fdeca01456d50f99b08fee48f84054cb646ab0c581",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial literacy support",
+    "business startup guidance",
+    "tax education for creatives",
+    "contract and legal requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "FINANCIAL COACHING",
+    "TAXES",
+    "HOW TO JUMPSTART A BUSINESS",
+    "REQUIREMENTS",
+    "CONTRACTS"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial coaching",
+    "insufficient support for business startup",
+    "uncertainty about tax and contract requirements"
+  ],
+  "solutions_proposed": [
+    "Offer financial coaching programs",
+    "Provide education on taxes",
+    "Support for starting a business",
+    "Workshops on requirements and contracts"
+  ],
+  "cached_at": "2025-06-21T02:02:21.521487",
+  "cache_key": "9dfad254a11612424a0474e27a0b4f457d5454d4cd090bdc4cc05274c952c609",
+  "model": "gpt-41"
+}

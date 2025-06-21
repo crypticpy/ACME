@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of local artists",
+    "concern about funding allocation",
+    "exclusion of non-local participants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more funding to these programs",
+    "for actual local artists",
+    "not new transplants or out of towners"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding going to new transplants or out of towners instead of local artists"
+  ],
+  "solutions_proposed": [
+    "increase funding for programs supporting actual local artists"
+  ],
+  "cached_at": "2025-06-21T00:32:14.660533",
+  "cache_key": "0903cc911b0843d815cf39b4f8b74fef468b8753f918a6629c4aababe8ab4a73",
+  "model": "gpt-41"
+}

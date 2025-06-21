@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "event communication",
+    "information accessibility",
+    "community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "maintaining a metro-wide calendar of events",
+    "email blast with reminders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of centralized event information",
+    "insufficient reminders for events"
+  ],
+  "solutions_proposed": [
+    "maintain a metro-wide calendar of events",
+    "send email blasts with reminders"
+  ],
+  "cached_at": "2025-06-20T10:23:52.486523",
+  "cache_key": "7a8b5eda7cca769d12091e222fea5e018e61df5f15fe91582d269fa5b92fc12b",
+  "model": "gpt-41"
+}

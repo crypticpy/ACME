@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "unrestricted artist funding",
+    "limitations of targeted grant programs",
+    "need for affordable creative spaces",
+    "geographic equity (north Austin)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more opportunities for giving artists money to do whatever they want",
+    "Nexus and Elevate are great but they make artist contained to serving certain populations",
+    "that can change what an artist can produce",
+    "give artists more affordable spaces",
+    "especially north Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus",
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "grant programs require serving certain populations",
+    "lack of affordable spaces for artists",
+    "geographic inequity in affordable space availability"
+  ],
+  "solutions_proposed": [
+    "provide unrestricted funding to artists",
+    "offer more affordable spaces for artists, especially in north Austin"
+  ],
+  "cached_at": "2025-06-21T00:41:29.915601",
+  "cache_key": "c0185f07e294e44167c628722d618df16ed2e1e32be58bd29e33b86185c56373",
+  "model": "gpt-41"
+}

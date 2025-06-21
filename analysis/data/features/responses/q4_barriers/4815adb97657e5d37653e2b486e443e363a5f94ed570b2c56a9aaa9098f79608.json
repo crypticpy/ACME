@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for citywide promotional campaign",
+    "competition with large touring shows",
+    "competition with video games",
+    "importance of marketing and audience development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "We need a city wide campaign encouraging people to check out local live music and arts",
+    "We are competing against big touring shows, and video games",
+    "Marketing and audience development is necessary"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "competition from big touring shows",
+    "competition from video games",
+    "lack of marketing and audience development"
+  ],
+  "solutions_proposed": [
+    "city wide campaign encouraging people to check out local live music and arts",
+    "increased marketing and audience development"
+  ],
+  "cached_at": "2025-06-21T01:37:39.410195",
+  "cache_key": "4815adb97657e5d37653e2b486e443e363a5f94ed570b2c56a9aaa9098f79608",
+  "model": "gpt-41"
+}

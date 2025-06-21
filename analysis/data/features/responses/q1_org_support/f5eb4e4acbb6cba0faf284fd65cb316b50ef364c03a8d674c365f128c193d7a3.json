@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "highlighting specific local cultural events",
+    "implied support for existing programs"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "The east austin studio tour"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "east austin studio tour"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:26:54.283258",
+  "cache_key": "f5eb4e4acbb6cba0faf284fd65cb316b50ef364c03a8d674c365f128c193d7a3",
+  "model": "gpt-41"
+}

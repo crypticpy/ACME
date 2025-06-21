@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of existing organizations",
+    "organizations' role in public service",
+    "connection between organizations and healthy local culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Existing organizations that create opportunities",
+    "serve the public",
+    "key to healthy local culture"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:31:49.784670",
+  "cache_key": "619058fd3ce22ea4229e205e7f5660f3d8877a1a7a47bff0e396b8896388841a",
+  "model": "gpt-41"
+}

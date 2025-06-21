@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concern about regressive policy changes",
+    "desire for authentic progress in arts and culture",
+    "Austin's reputation as an innovator",
+    "community dissatisfaction with current direction"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "People look to Austin as a national innovator in the arts and culture realm",
+    "Let's not roll back to the old way of doing things",
+    "That's not the kind of change we asked for"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "regressive changes to arts and culture policy"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:05.428119",
+  "cache_key": "199ec6282f5278ed048f7f7559872fd274441105bdca3bec5d5192974f2da898",
+  "model": "gpt-41"
+}

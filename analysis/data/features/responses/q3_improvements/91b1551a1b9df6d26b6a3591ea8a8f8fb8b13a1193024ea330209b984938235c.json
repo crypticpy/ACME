@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "creative freedom",
+    "flexibility in fund usage"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more creative freedom",
+    "usage of the funds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "restrictions on use of funds"
+  ],
+  "solutions_proposed": [
+    "allow more creative freedom in the usage of funds"
+  ],
+  "cached_at": "2025-06-21T00:56:00.020821",
+  "cache_key": "91b1551a1b9df6d26b6a3591ea8a8f8fb8b13a1193024ea330209b984938235c",
+  "model": "gpt-41"
+}

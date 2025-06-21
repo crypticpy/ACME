@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding access barriers",
+    "local decision-making",
+    "grant process simplification"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Less requirements to access funding",
+    "local panel of judges to review cultural projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "requirements to access funding"
+  ],
+  "solutions_proposed": [
+    "Less requirements to access funding",
+    "local panel of judges to review cultural projects"
+  ],
+  "cached_at": "2025-06-20T10:39:40.307642",
+  "cache_key": "ab77839aefaf005b5d3e45d582d0c2f3f514bc642f1f76085f1c127b78069616",
+  "model": "gpt-41"
+}

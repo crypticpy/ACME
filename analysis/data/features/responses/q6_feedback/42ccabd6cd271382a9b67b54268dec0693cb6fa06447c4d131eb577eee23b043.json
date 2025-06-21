@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritizing music and musicians",
+    "importance of venues",
+    "risk of losing Austin's identity as Live Music Capital",
+    "simplicity in cultural funding approach"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Keep it simple",
+    "focus on the music and musicians-artists and venues",
+    "if you get that right-.. you can write your ticket",
+    "The alternative is we are not the Live Music Capital anymore"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of focus on core music ecosystem"
+  ],
+  "solutions_proposed": [
+    "Keep it simple",
+    "focus on the music and musicians-artists and venues"
+  ],
+  "cached_at": "2025-06-21T02:21:24.772408",
+  "cache_key": "42ccabd6cd271382a9b67b54268dec0693cb6fa06447c4d131eb577eee23b043",
+  "model": "gpt-41"
+}

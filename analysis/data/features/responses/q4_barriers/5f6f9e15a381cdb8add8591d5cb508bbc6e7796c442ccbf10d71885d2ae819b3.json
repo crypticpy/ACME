@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about programs and events",
+    "insufficient diversity, equity, and inclusion in cultural offerings"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Unaware of programs and events",
+    "Lack of diversity, equity and inclusion in programs and services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Unaware of programs and events",
+    "Lack of diversity, equity and inclusion in programs and services"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:43.763361",
+  "cache_key": "5f6f9e15a381cdb8add8591d5cb508bbc6e7796c442ccbf10d71885d2ae819b3",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "threats to organizational funding",
+    "concerns about ACME's proposed CAD structure changes",
+    "impact of federal and state funding cuts",
+    "burden of advocacy on arts organizations",
+    "need for municipal support to maintain Austin's progressive identity",
+    "accessibility and responsiveness of ACME leadership"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "threats to our funding like ACME's proposed changes to the CAD structure",
+    "federal and state cuts to funding that are threatening our existence",
+    "having to advocate to keep the support that we were given is a tremendous barrier",
+    "hope that ACME leadership can back track this proposal",
+    "become accessible to the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME",
+    "CAD"
+  ],
+  "barriers_identified": [
+    "threats to existing funding due to proposed structural changes",
+    "necessity to continually advocate for previously awarded support",
+    "organizational burden from unstable funding environment"
+  ],
+  "solutions_proposed": [
+    "ACME leadership should back track the proposal",
+    "ACME leadership should become accessible to the community"
+  ],
+  "cached_at": "2025-06-21T01:20:12.596007",
+  "cache_key": "47139d3dd92c04c8fc0c2af01367d8952022eab223bb75ac4d25a1465f0b9ced",
+  "model": "gpt-41"
+}

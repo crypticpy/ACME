@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local music and entertainment venues",
+    "resource provision for event spaces",
+    "sustainability of cultural event spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Helping fund or provide resources",
+    "local music/entertainment venues",
+    "spaces for these events can stay open"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding or resources for venues",
+    "risk of event spaces closing"
+  ],
+  "solutions_proposed": [
+    "fund or provide resources to local music/entertainment venues"
+  ],
+  "cached_at": "2025-06-20T10:22:36.244499",
+  "cache_key": "627b79422015f213625ae3fb36bee43cfc4a8b94c991c45e10b6cba4936169ef",
+  "model": "gpt-41"
+}

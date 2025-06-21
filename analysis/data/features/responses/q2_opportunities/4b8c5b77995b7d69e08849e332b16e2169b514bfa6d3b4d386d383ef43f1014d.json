@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expansion of grant opportunities",
+    "support for arts funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continue to grow the grant opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "grow the grant opportunities"
+  ],
+  "cached_at": "2025-06-21T00:48:56.268651",
+  "cache_key": "4b8c5b77995b7d69e08849e332b16e2169b514bfa6d3b4d386d383ef43f1014d",
+  "model": "gpt-41"
+}

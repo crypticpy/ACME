@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of childcare",
+    "need for family-friendly activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "childcare",
+    "family friendly activities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of childcare",
+    "lack of family-friendly activities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:08.558676",
+  "cache_key": "867ffb5af536c53554176258a4f0487ceed2c9ffdd68a8f413cc98a0556f417d",
+  "model": "gpt-41"
+}

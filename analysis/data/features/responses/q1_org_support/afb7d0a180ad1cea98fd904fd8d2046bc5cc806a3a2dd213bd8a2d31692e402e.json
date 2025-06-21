@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of yoga studios in cultural funding",
+    "recognition of yoga as cultural practice",
+    "Austin's identity as a yoga hub",
+    "support for maintaining local cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "yoga studios and their offerings should be included",
+    "yoga studios offer rich culture",
+    "Austin is a hub for yoga in the world",
+    "we should help maintain this culture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "exclusion of yoga studios from cultural funding or recognition"
+  ],
+  "solutions_proposed": [
+    "include yoga studios and their offerings in the category supported by ACME"
+  ],
+  "cached_at": "2025-06-20T10:22:43.500537",
+  "cache_key": "afb7d0a180ad1cea98fd904fd8d2046bc5cc806a3a2dd213bd8a2d31692e402e",
+  "model": "gpt-41"
+}

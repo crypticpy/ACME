@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "rising cost of living impacting cultural access",
+    "economic exclusion from arts participation",
+    "need for equitable access for working and middle class communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "rising costs for housing, parking, and entertainment in Austin",
+    "Arts shouldn't just be for the wealthy",
+    "support working and middle class communities with access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs for housing",
+    "rising costs for parking",
+    "rising costs for entertainment",
+    "economic barriers for working and middle class communities"
+  ],
+  "solutions_proposed": [
+    "support working and middle class communities with access"
+  ],
+  "cached_at": "2025-06-21T01:44:53.417476",
+  "cache_key": "cf662d6b289175ea4a3d49803b9bf5837ea3853e7cc03957a002a7e9a3960497",
+  "model": "gpt-41"
+}

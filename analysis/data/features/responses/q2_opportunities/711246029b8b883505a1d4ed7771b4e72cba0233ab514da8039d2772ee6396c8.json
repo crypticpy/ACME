@@ -1,0 +1,36 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "business education for creatives",
+    "youth art engagement",
+    "longer-duration art activities for children",
+    "creative workspace and facilities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more business classes for creatives",
+    "more art activities for kids",
+    "not just a couple of hours",
+    "actual projects",
+    "facilities for creatives to work from"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of business education for creatives",
+    "insufficient duration of children's art activities",
+    "lack of dedicated creative workspaces"
+  ],
+  "solutions_proposed": [
+    "offer more business classes for creatives",
+    "provide art activities for kids that involve actual projects and are longer than a couple of hours",
+    "establish facilities for creatives to work from"
+  ],
+  "cached_at": "2025-06-21T00:36:23.917646",
+  "cache_key": "711246029b8b883505a1d4ed7771b4e72cba0233ab514da8039d2772ee6396c8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expanding access for MENA creative community",
+    "outreach to underrepresented cultural groups",
+    "representation and spotlighting of diverse communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "expand access and outreach to the MENA creative community",
+    "more cultural groups being represented and spotlighted",
+    "as a member of the Middle Eastern community in ATX"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access and outreach to the MENA creative community",
+    "underrepresentation of certain cultural groups"
+  ],
+  "solutions_proposed": [
+    "expand access and outreach to the MENA creative community",
+    "increase representation and spotlighting of more cultural groups"
+  ],
+  "cached_at": "2025-06-21T02:22:45.772577",
+  "cache_key": "a5ce0458811ba6d468e4ea7a1c59314a4dc39708978cfcfd32a82f7225e6c14f",
+  "model": "gpt-41"
+}

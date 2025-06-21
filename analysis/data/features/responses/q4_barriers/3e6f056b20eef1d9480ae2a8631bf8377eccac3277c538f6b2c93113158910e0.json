@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "institutional barriers",
+    "perceived obstruction by city government",
+    "role of major cultural venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "the largest barrier has been the City for years",
+    "but now also the Long Center"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Long Center"
+  ],
+  "barriers_identified": [
+    "the City as a barrier",
+    "the Long Center as a barrier"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:31:41.353200",
+  "cache_key": "3e6f056b20eef1d9480ae2a8631bf8377eccac3277c538f6b2c93113158910e0",
+  "model": "gpt-41"
+}

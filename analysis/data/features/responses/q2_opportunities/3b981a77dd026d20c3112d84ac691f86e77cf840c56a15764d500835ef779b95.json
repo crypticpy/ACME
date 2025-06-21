@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased dance performances",
+    "representation of female artists",
+    "preference for smaller venues over large theaters"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Dance performance",
+    "Female artists",
+    "Smaller venues than huge theaters such as Paramount or Bass"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "large theaters as dominant venues"
+  ],
+  "solutions_proposed": [
+    "more dance performances",
+    "more opportunities for female artists",
+    "use of smaller venues instead of large theaters"
+  ],
+  "cached_at": "2025-06-21T00:34:45.857765",
+  "cache_key": "3b981a77dd026d20c3112d84ac691f86e77cf840c56a15764d500835ef779b95",
+  "model": "gpt-41"
+}

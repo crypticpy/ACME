@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sudden funding changes",
+    "organizational stability",
+    "risk of organizational failure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Don't make sudden, major funding changes",
+    "cause existing organizations to fail"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "sudden, major funding changes"
+  ],
+  "solutions_proposed": [
+    "Avoid making sudden, major funding changes"
+  ],
+  "cached_at": "2025-06-20T10:36:28.882420",
+  "cache_key": "0b185c99097345575f25f1763c0cda65b892e013b64da1628c1349d70bdcc603",
+  "model": "gpt-41"
+}

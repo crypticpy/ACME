@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Preservation of existing impactful work",
+    "Concerns about privileging vocal minority voices",
+    "Implementation of arts commission recommendations",
+    "Recognition of progress for historically underfunded organizations",
+    "Skepticism about overreliance on AI and artificial deadlines",
+    "Importance of direct engagement and questioning"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "ASK QUESTIONS to the resources within the department",
+    "do not throw away years of important and impactful work",
+    "a small sector of the community has the privilege of being the loudest",
+    "arts commission has presented specific adjustments to the existing programs",
+    "Organizations that were historically underfunded due to systemic barriers have received transformational funding",
+    "Talk directly to them and ask the questions around improvements and changes",
+    "AI is not going to paint the whole picture",
+    "do not put all your faith into it just to meet a fabricated deadline"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Systemic barriers leading to historical underfunding",
+    "Dominance of privileged, vocal minority in decision-making",
+    "Overreliance on AI tools",
+    "Artificial or externally imposed deadlines"
+  ],
+  "solutions_proposed": [
+    "Implement specific adjustments recommended by the arts commission before starting over",
+    "Engage directly with historically underfunded organizations for feedback",
+    "Ask questions to internal resources",
+    "Do not rely solely on AI for decision-making"
+  ],
+  "cached_at": "2025-06-21T02:22:59.938894",
+  "cache_key": "e9c99530ed8b31c0aabe455b6926735400ff1b634e05242fcc0e56480ea60525",
+  "model": "gpt-41"
+}

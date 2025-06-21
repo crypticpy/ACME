@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived racial bias in grant evaluation",
+    "barriers to grant eligibility for caucasian artists",
+    "frustration with current grant grading criteria"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "would not qualify for the visual art grants",
+    "currently graded based on, and slanted towards minority racial status",
+    "I happen to be caucasian",
+    "That is a huge barrier"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "visual art grants (for individual artists)"
+  ],
+  "barriers_identified": [
+    "grant criteria favoring minority racial status",
+    "lack of eligibility for caucasian artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:10.445723",
+  "cache_key": "8f79e223b94424ef77b363d8b7d6572f4d5f69eb2a3abefe302c6458dbb08fec",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "insufficient funding",
+    "lack of media collaboration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding",
+    "Media collaborations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Funding",
+    "Media collaborations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:01.835933",
+  "cache_key": "52bc95711e58d20906dfe45fbb40d8be92d715211d6dd530eac5786b29e2932c",
+  "model": "gpt-41"
+}

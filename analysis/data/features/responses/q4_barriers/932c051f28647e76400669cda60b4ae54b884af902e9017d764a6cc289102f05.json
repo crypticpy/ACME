@@ -1,0 +1,22 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "uncertainty about barriers",
+    "lack of specific feedback"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I am not sure"
+  ],
+  "intent": "information_gap",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:01.126178",
+  "cache_key": "932c051f28647e76400669cda60b4ae54b884af902e9017d764a6cc289102f05",
+  "model": "gpt-41"
+}

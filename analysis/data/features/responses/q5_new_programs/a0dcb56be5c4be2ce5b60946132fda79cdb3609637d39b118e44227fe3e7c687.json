@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "arts education",
+    "youth engagement",
+    "school outreach",
+    "cultivating interest in the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "outreach to schools",
+    "encourage interest in the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of outreach to schools"
+  ],
+  "solutions_proposed": [
+    "outreach to schools to encourage interest in the arts"
+  ],
+  "cached_at": "2025-06-21T02:05:09.926869",
+  "cache_key": "a0dcb56be5c4be2ce5b60946132fda79cdb3609637d39b118e44227fe3e7c687",
+  "model": "gpt-41"
+}

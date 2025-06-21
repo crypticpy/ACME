@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "delays in program fulfillment",
+    "unrealistic project timelines",
+    "expectations versus capacity for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "The length of time to fulfill the NEXUS",
+    "Artists are asked to 'dream big'",
+    "present projects in a 6 month time frame"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "NEXUS"
+  ],
+  "barriers_identified": [
+    "lengthy fulfillment process for NEXUS",
+    "short project completion timeframe for ambitious projects"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:25.833267",
+  "cache_key": "9e9c0e19bad3680085f6953c4945f7352b8bd8cedabe32031fd61a3a5fb0f26a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "youth arts development",
+    "support for young musicians",
+    "support for young artists",
+    "citywide cultural programming",
+    "arts education in schools"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "develop young musicians and artists",
+    "middle school/high school",
+    "citywide"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Develop young musicians and artists in middle school/high school citywide"
+  ],
+  "cached_at": "2025-06-21T01:56:09.067866",
+  "cache_key": "13e852b9d2d0b9f3cfd5ddb5828131255d8ede43062c1c42d07354ecb2a77555",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "centrality of literary arts to civic progress",
+    "need for increased support for writers and literary organizations",
+    "visibility for literary arts beyond the library system",
+    "connection between literacy and positive social change"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "literary arts must be central to the community",
+    "writers, presses, and literary arts organizations need major support and visibility",
+    "beyond the library system",
+    "progressive city that values literacy, critical thinking, and thought-provoking conversations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of major support and visibility for literary arts organizations beyond the library system"
+  ],
+  "solutions_proposed": [
+    "provide major support and visibility from the city for writers, presses, and literary arts organizations beyond the library system"
+  ],
+  "cached_at": "2025-06-21T00:24:18.943354",
+  "cache_key": "b952e7518372b2a18d677ba012a5f8f7591fa69545ef794d98c96f8c81d9b93f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about gentrification",
+    "equitable access to services"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Avoid gentrification of services"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gentrification of services"
+  ],
+  "solutions_proposed": [
+    "Avoid gentrification of services"
+  ],
+  "cached_at": "2025-06-21T02:21:09.920652",
+  "cache_key": "57103ec18e3454dc4e03f45434cf20d21b4788cb711ccc0b13225c1d1166b10e",
+  "model": "gpt-41"
+}

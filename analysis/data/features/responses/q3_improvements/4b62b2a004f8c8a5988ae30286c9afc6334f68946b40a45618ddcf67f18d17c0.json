@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for feedback on funding decisions",
+    "transparency in application outcomes",
+    "guidance for future improvement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Send feedback by email",
+    "reason why we were not approved",
+    "what can we improve for next time"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of feedback on application outcome"
+  ],
+  "solutions_proposed": [
+    "Send feedback by email about the reason for non-approval and suggestions for improvement"
+  ],
+  "cached_at": "2025-06-21T00:57:11.297710",
+  "cache_key": "4b62b2a004f8c8a5988ae30286c9afc6334f68946b40a45618ddcf67f18d17c0",
+  "model": "gpt-41"
+}

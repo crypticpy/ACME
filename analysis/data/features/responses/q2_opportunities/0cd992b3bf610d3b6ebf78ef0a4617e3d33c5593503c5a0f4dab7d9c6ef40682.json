@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for increased artist funding",
+    "broad support for all types of cultural opportunities",
+    "frustration with current funding levels"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Literally anything",
+    "Fund artists",
+    "full stop"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund artists"
+  ],
+  "cached_at": "2025-06-21T00:27:02.101981",
+  "cache_key": "0cd992b3bf610d3b6ebf78ef0a4617e3d33c5593503c5a0f4dab7d9c6ef40682",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "concentration of control by a single organization",
+    "need for diversification in leadership and roles",
+    "power imbalance in cultural management"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Diversify and split up the organizations and roles",
+    "The Long Center controls too much"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Long Center"
+  ],
+  "barriers_identified": [
+    "excessive control by The Long Center"
+  ],
+  "solutions_proposed": [
+    "diversify and split up the organizations and roles"
+  ],
+  "cached_at": "2025-06-20T10:40:41.577536",
+  "cache_key": "2bb4307e4a1d2fd028d30e3af3577264b883562b2ceba24d89b57e1a6175d88f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of program awareness",
+    "need for increased promotion",
+    "communication gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "share and promote programs more",
+    "i dont know all of the things you offer"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient information about available programs"
+  ],
+  "solutions_proposed": [
+    "increase sharing and promotion of programs"
+  ],
+  "cached_at": "2025-06-21T02:03:25.312684",
+  "cache_key": "b1782f4a2e01b9298615932c431f91e5eb8995b0ea06e033d40d1e88cab5676b",
+  "model": "gpt-41"
+}

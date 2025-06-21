@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "uncertainty about current support",
+    "need for accessible funding",
+    "need for flexible funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "I am not sure which organizations ACME supports",
+    "creating accessible and flexible funding opportunities is crucial"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible funding opportunities",
+    "lack of flexible funding opportunities"
+  ],
+  "solutions_proposed": [
+    "create accessible and flexible funding opportunities"
+  ],
+  "cached_at": "2025-06-20T01:14:29.895226",
+  "cache_key": "03189923245c9eb67df64b00174abb538d29f72e029dcd1ab873baa20a129c69",
+  "model": "gpt-41"
+}

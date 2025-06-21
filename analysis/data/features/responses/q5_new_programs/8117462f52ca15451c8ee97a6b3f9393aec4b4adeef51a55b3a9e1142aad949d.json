@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist and organization capacity-building",
+    "tailored support for artists at different stages",
+    "shared access to professional services",
+    "affordability of expert resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "incubator program that meets artists and arts organizations where they are",
+    "helps them level up into something more substantial",
+    "concierge programs that create pooled resources",
+    "experts in business planning and marketing on retainer",
+    "artists could access more easily and more cheaply"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing business planning and marketing expertise",
+    "cost of professional services for artists"
+  ],
+  "solutions_proposed": [
+    "incubator program tailored to artists' current needs",
+    "concierge programs with pooled expert resources",
+    "retainer-based access to business planning and marketing experts",
+    "making professional services more accessible and affordable for artists"
+  ],
+  "cached_at": "2025-06-21T01:53:45.457053",
+  "cache_key": "8117462f52ca15451c8ee97a6b3f9393aec4b4adeef51a55b3a9e1142aad949d",
+  "model": "gpt-41"
+}

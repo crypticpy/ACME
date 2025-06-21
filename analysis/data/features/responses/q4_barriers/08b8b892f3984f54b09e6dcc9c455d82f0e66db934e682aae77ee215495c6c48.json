@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "event oversaturation",
+    "insufficient community outreach",
+    "information dissemination challenges"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lots of events at once",
+    "not enough news spread to people in the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "too many events scheduled simultaneously",
+    "lack of effective communication about events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:38.324016",
+  "cache_key": "08b8b892f3984f54b09e6dcc9c455d82f0e66db934e682aae77ee215495c6c48",
+  "model": "gpt-41"
+}

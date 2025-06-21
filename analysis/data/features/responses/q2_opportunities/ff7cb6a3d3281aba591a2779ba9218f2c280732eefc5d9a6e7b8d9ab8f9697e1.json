@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "free access to the arts",
+    "support for cultural diversity",
+    "equitable funding for diverse and emerging organizations",
+    "community cohesion through the arts",
+    "opportunity and fairness in arts funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "free access to the arts for all people",
+    "makes our cultural fabric here in Austin rich and textured by diversity",
+    "builds a cohesive community",
+    "those who provide cultural diversity in the arts should be supported",
+    "support them on par with the older, more established organizations",
+    "everyone should be given an opportunity to compete and an opportunity to shine"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equitable support for organizations providing cultural diversity",
+    "disparity in support between newer/diverse organizations and older, established organizations"
+  ],
+  "solutions_proposed": [
+    "provide free access to the arts for all people",
+    "support organizations providing cultural diversity on par with older, more established organizations",
+    "ensure everyone has an opportunity to compete and shine"
+  ],
+  "cached_at": "2025-06-21T00:24:33.641632",
+  "cache_key": "ff7cb6a3d3281aba591a2779ba9218f2c280732eefc5d9a6e7b8d9ab8f9697e1",
+  "model": "gpt-41"
+}

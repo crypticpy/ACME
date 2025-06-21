@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility services",
+    "support for cultural contractors",
+    "inclusion of interpreters and closed captioning"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "built in wrap around services",
+    "cultural contractors",
+    "interpreters",
+    "closed captioning"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of built-in accessibility services for cultural contractors"
+  ],
+  "solutions_proposed": [
+    "provide built in wrap around services such as interpreters and closed captioning for cultural contractors"
+  ],
+  "cached_at": "2025-06-21T01:51:03.192727",
+  "cache_key": "3458cd5b6bec40cc8a96ab4e4eaff62da8bbe401b8fe412b191d570322ec39d7",
+  "model": "gpt-41"
+}

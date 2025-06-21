@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding availability",
+    "transparency in funding process",
+    "clear logic for fund distribution",
+    "standardized panel review process",
+    "applicant engagement with review panels"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.75,
+  "key_phrases": [
+    "More money in the pot",
+    "transparency",
+    "a logic for distribution of funds within each grant program",
+    "one panel for all applicants in each grant program",
+    "the opportunity to answer panel questions / address issues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency",
+    "unclear distribution logic",
+    "inconsistent panel review process",
+    "limited applicant engagement with panels"
+  ],
+  "solutions_proposed": [
+    "Increase funding pool",
+    "Improve transparency",
+    "Establish clear logic for fund distribution",
+    "Use one panel for all applicants in each grant program",
+    "Allow applicants to answer panel questions and address issues"
+  ],
+  "cached_at": "2025-06-21T01:04:51.475563",
+  "cache_key": "fb71dd8d96e43e1b48a4368e05a5c61a46a0ff423734945286cc666197b5fe0e",
+  "model": "gpt-41"
+}

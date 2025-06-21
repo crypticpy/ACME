@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of available resources",
+    "intimidation by grant application process",
+    "insufficient funding for culture"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Lack of awareness of what resources exist",
+    "intimidation of the grant application process",
+    "not enough funding to support culture"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of resources",
+    "intimidation by the grant application process",
+    "not enough funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:43.836338",
+  "cache_key": "235089b96caba7cf4373fa311a6f1ba3087e1b6efaebc46f5947f5b223f8ded4",
+  "model": "gpt-41"
+}

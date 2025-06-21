@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Exclusion of organizations with specialized missions",
+    "Application process misaligned with arts focus",
+    "Lack of discipline-specific expertise on review panels",
+    "Funding elimination for long-term recipients",
+    "Support for expanding funding to underrepresented groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "programs opened to other arts organizations that...can not really focus on serving specific underrepresented groups",
+    "greatly improved applications (particularly for Elevate) that are more arts oriented and less like a social services application",
+    "applications to be reviewed by people knowledgable about the specific discipline",
+    "panel that did not have knowledge of our art form and had serious misunderstandings that affected our scores",
+    "funding needed to be expanded to underrepresented groups",
+    "funding...not completely eliminated (our group received funding for over 20 years)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate"
+  ],
+  "barriers_identified": [
+    "Exclusion of organizations not focused on underrepresented groups",
+    "Application process not tailored to arts organizations",
+    "Review panels lacking discipline-specific expertise",
+    "Complete elimination of funding for longstanding recipients"
+  ],
+  "solutions_proposed": [
+    "Open programs to organizations with specialized missions not focused on underrepresented groups",
+    "Make applications more arts oriented and less like a social services application",
+    "Ensure applications are reviewed by people knowledgeable about the specific discipline"
+  ],
+  "cached_at": "2025-06-21T01:10:09.680382",
+  "cache_key": "00b8c09de4b0e65a6d0b4158048c26dadf508d126c1403563fd3542f93799609",
+  "model": "gpt-41"
+}

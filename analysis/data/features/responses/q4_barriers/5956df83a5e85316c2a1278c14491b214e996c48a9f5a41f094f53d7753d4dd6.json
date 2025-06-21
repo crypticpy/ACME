@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of consistent performance space",
+    "infrastructure barriers for arts presentation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "access to consistent performance space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent performance space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:09.529693",
+  "cache_key": "5956df83a5e85316c2a1278c14491b214e996c48a9f5a41f094f53d7753d4dd6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusivity in funding processes",
+    "need for better organization",
+    "equitable grant awareness",
+    "equal opportunity for artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Be more inclusive",
+    "better funding",
+    "more organized",
+    "Equal opportunity for all artists",
+    "to be aware of/ receive grants and other fundings"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusivity",
+    "insufficient organization",
+    "unequal access to grant awareness",
+    "inequitable distribution of funding"
+  ],
+  "solutions_proposed": [
+    "be more inclusive",
+    "provide better funding",
+    "be more organized",
+    "ensure equal opportunity for all artists to be aware of and receive grants and funding"
+  ],
+  "cached_at": "2025-06-20T10:43:27.272350",
+  "cache_key": "22ff418f5d0995aa23da6061f308b5bcf100c88a28464211aea0b2a7e9f125ce",
+  "model": "gpt-41"
+}

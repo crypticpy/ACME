@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "federal grant requirement changes",
+    "loss of existing federal grants",
+    "restrictions on consecutive-year funding",
+    "need for policy reconsideration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "changes to federal grant requirements",
+    "clawback of existing federal grants",
+    "reconsider the limits against getting funding on consecutive years"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limits against getting funding on consecutive years"
+  ],
+  "solutions_proposed": [
+    "reconsider the limits against getting funding on consecutive years"
+  ],
+  "cached_at": "2025-06-20T01:16:40.081397",
+  "cache_key": "247937903a63add1119122c650127258ff6f78427d0345a8c8726769412c4e3a",
+  "model": "gpt-41"
+}

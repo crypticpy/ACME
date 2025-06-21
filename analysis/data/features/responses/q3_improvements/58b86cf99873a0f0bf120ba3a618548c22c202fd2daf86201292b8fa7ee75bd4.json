@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of transparency in application process",
+    "absence of feedback on application outcomes",
+    "perception of favoritism or insider access",
+    "distrust in grant allocation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "extremely non-transparent",
+    "no feedback on the application/scoring or why it was rejected",
+    "hard to trust the process",
+    "looks like the grant donors are just 'hooking up' their friends, or 'name'/legacy Austin performers"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "non-transparent application and acceptance process",
+    "lack of feedback on application or scoring",
+    "perceived favoritism towards friends or legacy performers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:59:41.276563",
+  "cache_key": "58b86cf99873a0f0bf120ba3a618548c22c202fd2daf86201292b8fa7ee75bd4",
+  "model": "gpt-41"
+}

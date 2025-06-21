@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusivity of funding eligibility",
+    "support for individual artists",
+    "limitations of nonprofit-only funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "support the artist",
+    "allowing funds to be distributed to individual artists",
+    "fiscally sponsored organizations instead of non-Profits only"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funds restricted to non-Profits only"
+  ],
+  "solutions_proposed": [
+    "allow funds to be distributed to individual artists",
+    "allow funds to be distributed to fiscally sponsored organizations"
+  ],
+  "cached_at": "2025-06-20T10:44:32.893265",
+  "cache_key": "d92bb28ef759fd5a3976bb77aec135a45fa5a6ce4baa5875734268cdc64a792b",
+  "model": "gpt-41"
+}

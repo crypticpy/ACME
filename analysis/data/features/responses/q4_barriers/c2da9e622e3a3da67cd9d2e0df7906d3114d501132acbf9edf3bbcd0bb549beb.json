@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "lack of diverse venue spaces",
+    "prevalence of alcohol-centered spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding",
+    "diversity of venue spaces",
+    "lack space that aren't centered around alcohol / alcohol consumption"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "limited diversity of venue spaces",
+    "lack of spaces not centered around alcohol"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:33.660481",
+  "cache_key": "c2da9e622e3a3da67cd9d2e0df7906d3114d501132acbf9edf3bbcd0bb549beb",
+  "model": "gpt-41"
+}

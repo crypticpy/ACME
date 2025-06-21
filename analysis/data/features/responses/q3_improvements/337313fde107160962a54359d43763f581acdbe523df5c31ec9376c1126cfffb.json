@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inter-organizational communication",
+    "partnership building",
+    "awareness of cultural programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "better communication",
+    "partnership among organizations",
+    "increase knowledge",
+    "word around these programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of communication among organizations",
+    "insufficient awareness of programs"
+  ],
+  "solutions_proposed": [
+    "better communication and partnership among organizations"
+  ],
+  "cached_at": "2025-06-21T00:56:31.044789",
+  "cache_key": "337313fde107160962a54359d43763f581acdbe523df5c31ec9376c1126cfffb",
+  "model": "gpt-41"
+}

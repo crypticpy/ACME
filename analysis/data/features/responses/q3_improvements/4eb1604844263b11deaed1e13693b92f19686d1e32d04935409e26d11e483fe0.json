@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "restoration of arts funding",
+    "arts education in public schools",
+    "youth access to cultural resources"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "bring funding for the arts back to our public schools"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of arts funding in public schools"
+  ],
+  "solutions_proposed": [
+    "Initiatives to bring funding for the arts back to our public schools"
+  ],
+  "cached_at": "2025-06-21T01:08:16.954131",
+  "cache_key": "4eb1604844263b11deaed1e13693b92f19686d1e32d04935409e26d11e483fe0",
+  "model": "gpt-41"
+}

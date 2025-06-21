@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "racial barriers to access",
+    "economic inequality",
+    "lack of information or awareness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Race",
+    "wealth",
+    "knowledge"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "race",
+    "wealth",
+    "knowledge"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:10.830586",
+  "cache_key": "5eb3fdbe099864cde3ea2e4956113fe6a8a85c26b5dc52ced5ff5512697d74a5",
+  "model": "gpt-41"
+}

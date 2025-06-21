@@ -1,0 +1,47 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "long-term trust-building and power-sharing with artists and cultural leaders",
+    "funding cultural ecosystems rather than individual projects",
+    "support for artist-led organizations, mutual aid networks, and informal collectives",
+    "meaningful feedback loops and participatory governance",
+    "prioritizing equity for marginalized communities (BIPOC, LGBTQ+, disabled, youth, immigrant creatives)",
+    "the importance of accessibility, responsiveness, and human-centered approaches",
+    "redefining public cultural support as stewardship and collective care"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "center is long-term trust-building and power-sharing",
+    "fund ecosystems",
+    "support artist-led organizations, mutual aid networks, community venues, and informal collectives",
+    "Create feedback loops that matter",
+    "artists and cultural workers are involved after the survey stage",
+    "Prioritize the communities most impacted by displacement, erasure, and underfunding",
+    "Equity isn\u2019t just a value it\u2019s a measurable outcome",
+    "Be accessible, responsive, and people-first",
+    "not just as a gatekeeper of resources, but as a steward of collective care, shared power, and visionary imagination"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "little to no institutional support for artists, organizers, and cultural leaders",
+    "displacement, erasure, and underfunding of marginalized communities",
+    "lack of meaningful involvement of artists and cultural workers in decision-making",
+    "systems that overlook people"
+  ],
+  "solutions_proposed": [
+    "center long-term trust-building and power-sharing with existing cultural leaders",
+    "fund cultural ecosystems including artist-led organizations, mutual aid networks, community venues, and informal collectives",
+    "create feedback loops that involve artists and cultural workers in advisory boards, selection committees, co-designing programs, and accountability structures",
+    "prioritize funding and support for communities most impacted by displacement, erasure, and underfunding (BIPOC, LGBTQ+, disabled, youth, immigrant creatives)",
+    "adopt accessible, responsive, and people-first approaches",
+    "redefine public cultural support as stewardship and collective care"
+  ],
+  "cached_at": "2025-06-21T02:15:24.956755",
+  "cache_key": "c0732889949a8f903e460be481f55f7d496cefe67e56a39ccbff873eced8e9e2",
+  "model": "gpt-41"
+}

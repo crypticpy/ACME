@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "free and accessible dance performances",
+    "public art installations in parks",
+    "integration of local artists into school art programs",
+    "student art showcases"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Free dance performances",
+    "more tempo art in parks",
+    "opportunities in schools that connect local artists with art classes",
+    "showcase the work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free dance performances",
+    "insufficient public art in parks",
+    "limited opportunities for students to connect with local artists"
+  ],
+  "solutions_proposed": [
+    "Increase free dance performances",
+    "Install more temporary art in parks",
+    "Create more opportunities in schools for local artists to connect with art classes and showcase student work"
+  ],
+  "cached_at": "2025-06-21T00:27:40.623468",
+  "cache_key": "a8aa3214f58a071d69b1c137e989aed022a33d46ec2f6b8636102cef93e85ded",
+  "model": "gpt-41"
+}

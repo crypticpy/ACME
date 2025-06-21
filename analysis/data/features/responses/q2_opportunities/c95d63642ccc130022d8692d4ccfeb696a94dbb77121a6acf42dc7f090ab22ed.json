@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for young artists",
+    "focus on classical music",
+    "focus on jazz music",
+    "youth encouragement in the arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "encouragement of young classical and jazz artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "encouragement of young classical and jazz artists"
+  ],
+  "cached_at": "2025-06-21T00:51:08.222880",
+  "cache_key": "c95d63642ccc130022d8692d4ccfeb696a94dbb77121a6acf42dc7f090ab22ed",
+  "model": "gpt-41"
+}

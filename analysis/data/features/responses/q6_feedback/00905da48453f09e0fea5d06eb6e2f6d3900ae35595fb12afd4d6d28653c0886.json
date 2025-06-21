@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Distrust of the Long Center's motives and financial practices",
+    "Burden of fees on small arts organizations",
+    "Lack of community support for the Creative Consortium",
+    "Concerns about sustainability and livability for artists",
+    "Importance of trust and community building"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "The Long Center's Creative Consortium idea is NOT supported in the arts community",
+    "They want to charge 'fee for service' for every little thing",
+    "They want to make money (and fundraise) on the backs of the tiny orgs that have next to nothing",
+    "small orgs cannot afford to pay anything AND they didn't want what the Long Center was offering",
+    "Community building is about trust",
+    "There is no trust in the Long Center",
+    "Long is UNSUSTAINABLE. Not livable",
+    "Let's make Austin a livable city for working artists!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Long Center's Creative Consortium"
+  ],
+  "barriers_identified": [
+    "Fee for service model burdens small organizations",
+    "Lack of trust in the Long Center",
+    "Offerings not aligned with small organizations' needs",
+    "Financial unsustainability for small arts organizations"
+  ],
+  "solutions_proposed": [
+    "Make Austin a livable city for working artists",
+    "Focus on trust and community building rather than profit-driven models"
+  ],
+  "cached_at": "2025-06-21T02:10:45.723811",
+  "cache_key": "00905da48453f09e0fea5d06eb6e2f6d3900ae35595fb12afd4d6d28653c0886",
+  "model": "gpt-41"
+}

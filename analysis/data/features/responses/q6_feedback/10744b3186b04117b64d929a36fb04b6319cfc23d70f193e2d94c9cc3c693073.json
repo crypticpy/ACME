@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preservation of local cultural identity",
+    "support for Austin's uniqueness"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Keep Austin Weird!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Maintain and support Austin's unique cultural character"
+  ],
+  "cached_at": "2025-06-21T02:11:16.457982",
+  "cache_key": "10744b3186b04117b64d929a36fb04b6319cfc23d70f193e2d94c9cc3c693073",
+  "model": "gpt-41"
+}

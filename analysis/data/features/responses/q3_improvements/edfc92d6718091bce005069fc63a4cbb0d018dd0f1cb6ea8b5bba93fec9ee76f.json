@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Spanish-language cultural events",
+    "Family-oriented programming",
+    "Culinary cultural workshops",
+    "Cultural inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More events in Spanish",
+    "events for families",
+    "more culinary events",
+    "workshops of how to make cultural dishes",
+    "eg tamales",
+    "these are great for families"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of Spanish-language events",
+    "Limited family-oriented cultural programming",
+    "Insufficient culinary cultural workshops"
+  ],
+  "solutions_proposed": [
+    "Increase events in Spanish",
+    "Offer more family-oriented events",
+    "Provide more culinary workshops on making cultural dishes (e.g., tamales)"
+  ],
+  "cached_at": "2025-06-21T01:18:03.225925",
+  "cache_key": "edfc92d6718091bce005069fc63a4cbb0d018dd0f1cb6ea8b5bba93fec9ee76f",
+  "model": "gpt-41"
+}

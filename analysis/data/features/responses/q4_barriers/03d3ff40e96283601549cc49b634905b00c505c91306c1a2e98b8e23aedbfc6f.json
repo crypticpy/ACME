@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding sources",
+    "lack of opportunities for local artists and musicians",
+    "inadequate cultural infrastructure",
+    "preservation of Austin\u2019s cultural legacy"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "insufficient funding sources",
+    "lack of opportunities for local artists and musicians",
+    "inadequate cultural infrastructure",
+    "preserve and perpetuate Austin\u2019s cultural legacy",
+    "we must address these limitations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding sources",
+    "lack of opportunities for local artists and musicians",
+    "inadequate cultural infrastructure"
+  ],
+  "solutions_proposed": [
+    "address these limitations"
+  ],
+  "cached_at": "2025-06-21T01:43:25.705921",
+  "cache_key": "03d3ff40e96283601549cc49b634905b00c505c91306c1a2e98b8e23aedbfc6f",
+  "model": "gpt-41"
+}

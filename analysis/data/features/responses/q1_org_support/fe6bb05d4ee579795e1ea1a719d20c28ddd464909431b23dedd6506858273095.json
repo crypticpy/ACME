@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of program visibility",
+    "difficulty with registration process",
+    "need for improved technology",
+    "frustration with user experience"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "so difficult to find your programs",
+    "like they are secrets",
+    "really, really difficult to register",
+    "better software for signups",
+    "using sites like Eventbrite would help"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "guitar classes"
+  ],
+  "barriers_identified": [
+    "difficulty finding programs",
+    "complicated registration process"
+  ],
+  "solutions_proposed": [
+    "better software for signups",
+    "using sites like Eventbrite"
+  ],
+  "cached_at": "2025-06-20T10:42:54.113481",
+  "cache_key": "fe6bb05d4ee579795e1ea1a719d20c28ddd464909431b23dedd6506858273095",
+  "model": "gpt-41"
+}

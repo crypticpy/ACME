@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inadequate compensation for musicians",
+    "economic barriers for artists",
+    "venue responsibility in artist support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "not paying musicians enough"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues are not paying musicians enough"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:02.867861",
+  "cache_key": "ea4db516ab41326b77f97e6c43156e248a48ac7d38d3ca912140ef9ac2a02b32",
+  "model": "gpt-41"
+}

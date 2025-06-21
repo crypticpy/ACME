@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with City Council",
+    "increased allocation of HOT taxes",
+    "support for grants to artists and arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I would love to collaborate",
+    "get City Council to put more of our HOT taxes toward your grants",
+    "artists and arts orgs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborate on efforts to get City Council to put more HOT taxes toward grants for artists and arts orgs"
+  ],
+  "cached_at": "2025-06-21T02:22:09.763206",
+  "cache_key": "1347af515b64724fa0b8a2a5275979b8c9b2807559bedabe68cca135b56948df",
+  "model": "gpt-41"
+}

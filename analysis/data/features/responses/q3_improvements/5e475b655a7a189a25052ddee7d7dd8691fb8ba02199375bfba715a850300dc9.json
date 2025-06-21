@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "distribution of funding",
+    "support for multiple organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "spread the money",
+    "lots of arts organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "concentration of funding"
+  ],
+  "solutions_proposed": [
+    "spread the money to lots of arts organizations"
+  ],
+  "cached_at": "2025-06-21T01:05:32.174563",
+  "cache_key": "5e475b655a7a189a25052ddee7d7dd8691fb8ba02199375bfba715a850300dc9",
+  "model": "gpt-41"
+}

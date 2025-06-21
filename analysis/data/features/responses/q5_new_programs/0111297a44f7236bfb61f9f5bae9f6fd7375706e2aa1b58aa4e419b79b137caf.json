@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant application process",
+    "need for clearer communication",
+    "access to funding information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more clarity on how to apply for grants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clarity in grant application process"
+  ],
+  "solutions_proposed": [
+    "provide more clarity on how to apply for grants"
+  ],
+  "cached_at": "2025-06-21T01:59:51.393408",
+  "cache_key": "0111297a44f7236bfb61f9f5bae9f6fd7375706e2aa1b58aa4e419b79b137caf",
+  "model": "gpt-41"
+}

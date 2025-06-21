@@ -1,0 +1,40 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "evidence-based arts education",
+    "research-driven arts fellowships",
+    "community-created public art",
+    "importance of proven methodologies",
+    "role of master creators in public projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "True arts educational programming",
+    "research based and proven to work methodology",
+    "Arts research fellowships",
+    "promise for true, relevant innovation",
+    "track record of immersive research and past relevant results",
+    "Arts in public spaces created by the public",
+    "under the guidance of a master creator",
+    "discussed, designed, physically created by members of the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of research-based and proven arts education programs",
+    "absence of research-driven fellowships with demonstrated results",
+    "insufficient opportunities for community-led public art creation"
+  ],
+  "solutions_proposed": [
+    "Offer arts educational programming based on research-proven methodologies",
+    "Create arts research fellowships with a focus on innovation and immersive research",
+    "Facilitate public art projects designed and created by the community under expert guidance"
+  ],
+  "cached_at": "2025-06-21T02:01:36.854670",
+  "cache_key": "9d5c7550d35fd611969ed18c0105dd615593e82e7325b87f7d81302e2e48768a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty accessing funding",
+    "repeated concern over funding access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "access to program funding",
+    "once again"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "access to program funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:58.161472",
+  "cache_key": "c3e3f6741467c6a33f0f0ace7323028812e125e0b88d7139d1e15a2db6dfcc5b",
+  "model": "gpt-41"
+}

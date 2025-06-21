@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "time constraints as a barrier",
+    "complexity of accessing support",
+    "difficulty in discovering and understanding resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "finding the time to discover, understand, and apply for support",
+    "can be difficult"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of time to discover support",
+    "lack of time to understand support",
+    "lack of time to apply for support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:09.486952",
+  "cache_key": "068917ea56eca689b9ebc6b58d03e8212d8288eed694c42d0845a0c78ea9d5fc",
+  "model": "gpt-41"
+}

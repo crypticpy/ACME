@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for more theater opportunities",
+    "interest in music performances"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Theater",
+    "music performance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more theater",
+    "more music performance"
+  ],
+  "cached_at": "2025-06-21T00:37:03.933703",
+  "cache_key": "d98a5134356041238886efd02d52e414a8551ec91a1a643c516b1b0a9a5b6d51",
+  "model": "gpt-41"
+}

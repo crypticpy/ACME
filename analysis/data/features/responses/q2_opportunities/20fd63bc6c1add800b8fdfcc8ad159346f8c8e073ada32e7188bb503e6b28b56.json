@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for innovation in cultural programming",
+    "amplifying underrepresented voices",
+    "critique of established organizations",
+    "need for diversity in arts opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "thriving and rapidly diversifying Austin deserves better",
+    "showcase new and innovative ideas",
+    "amplify voices that wouldn't have the opportunity",
+    "caving to these already well-funded but also stale organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dominance of well-funded, stale organizations",
+    "lack of opportunities for new and underrepresented voices"
+  ],
+  "solutions_proposed": [
+    "showcase new and innovative ideas",
+    "amplify voices that wouldn't have the opportunity"
+  ],
+  "cached_at": "2025-06-21T00:34:04.903473",
+  "cache_key": "20fd63bc6c1add800b8fdfcc8ad159346f8c8e073ada32e7188bb503e6b28b56",
+  "model": "gpt-41"
+}

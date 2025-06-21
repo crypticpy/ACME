@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping by industry professionals",
+    "lack of access to music industry contacts",
+    "need for mentorship and information sharing",
+    "economic barriers for local musicians",
+    "importance of marketing and professional development"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Access to professionals 'gate keepers' such as promoters, booking agents and PR firms is reserved for the few successful artists",
+    "If these professionals could volunteer information to artists via ACME",
+    "create a pipeline of working musicians that professionals within the music industry could mentor",
+    "Economic challenges are also a barrier for local musicians",
+    "Teaching independent musicians how to market their music and work with professionals could help them become profitable"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "gatekeeping by promoters, booking agents, and PR firms",
+    "limited access to industry professionals for most musicians",
+    "economic challenges for local musicians",
+    "lack of knowledge on marketing and working with professionals"
+  ],
+  "solutions_proposed": [
+    "professionals could volunteer information to artists via ACME",
+    "lay out clear paths to musicians on how to obtain these contacts and services",
+    "create a pipeline of working musicians for mentorship",
+    "teach independent musicians how to market their music and work with professionals"
+  ],
+  "cached_at": "2025-06-21T01:48:46.856168",
+  "cache_key": "f81eba5b72d90032972593d6158013400e99fb27c6e61f0c165183507ef94ce2",
+  "model": "gpt-41"
+}

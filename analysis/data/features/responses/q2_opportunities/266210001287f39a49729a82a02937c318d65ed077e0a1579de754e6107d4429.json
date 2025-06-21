@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more creative improvised music",
+    "increased visibility for African American music",
+    "greater emphasis on African American cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "creative improvised music",
+    "more spotlight on African American music",
+    "African American cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities for creative improvised music",
+    "provide more spotlight on African American music and cultural events"
+  ],
+  "cached_at": "2025-06-21T00:25:42.733521",
+  "cache_key": "266210001287f39a49729a82a02937c318d65ed077e0a1579de754e6107d4429",
+  "model": "gpt-41"
+}

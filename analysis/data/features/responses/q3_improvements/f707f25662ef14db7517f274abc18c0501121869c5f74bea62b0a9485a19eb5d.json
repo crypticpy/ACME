@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "representation of sub-groups within the Black community",
+    "need for specificity in cultural programming",
+    "diversity within Black cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "sub-genre and sub-group specific events",
+    "overall black community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sub-group specific events for the Black community"
+  ],
+  "solutions_proposed": [
+    "create sub-genre and sub-group specific events within the Black community"
+  ],
+  "cached_at": "2025-06-21T01:00:14.307015",
+  "cache_key": "f707f25662ef14db7517f274abc18c0501121869c5f74bea62b0a9485a19eb5d",
+  "model": "gpt-41"
+}

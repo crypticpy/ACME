@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "venue cost coverage",
+    "support for cultural projects",
+    "annual funding opportunity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "cover full venue cost",
+    "once by year",
+    "each cultural project in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venue cost"
+  ],
+  "solutions_proposed": [
+    "cover full venue cost once by year for each cultural project"
+  ],
+  "cached_at": "2025-06-21T02:06:18.530743",
+  "cache_key": "7bc1025191a0b6dc1563ce96671640d0fd0405ad11cfa436bcce246e632cfd18",
+  "model": "gpt-41"
+}

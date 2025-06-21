@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for rehearsal spaces",
+    "provision of food/snacks",
+    "costume/dress-up facilities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Rehearsal rooms",
+    "snacks",
+    "dress up room"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of rehearsal rooms",
+    "lack of snacks/refreshments",
+    "lack of dress up room"
+  ],
+  "solutions_proposed": [
+    "offer rehearsal rooms",
+    "provide snacks",
+    "create a dress up room"
+  ],
+  "cached_at": "2025-06-21T01:59:00.445950",
+  "cache_key": "a0f1e6dc96ac5ee389792c9fe41f462a4d7ef723f9dee2f24bec170ff28bda88",
+  "model": "gpt-41"
+}

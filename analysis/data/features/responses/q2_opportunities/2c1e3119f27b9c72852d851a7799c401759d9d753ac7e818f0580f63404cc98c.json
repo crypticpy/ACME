@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preservation of small venues",
+    "support for local cultural infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "preserve small venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "preserve small venues"
+  ],
+  "cached_at": "2025-06-21T00:45:06.390416",
+  "cache_key": "2c1e3119f27b9c72852d851a7799c401759d9d753ac7e818f0580f63404cc98c",
+  "model": "gpt-41"
+}

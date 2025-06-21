@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Loss of funding for early music organizations",
+    "Impact of new funding programs on established organizations",
+    "Reduction in opera productions",
+    "Perceived exclusion of organizations not serving specific underserved populations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Reopen funding opportunities for arts organizations that do not serve specific underserved populations",
+    "Every music organization focused on early music lost funding",
+    "the others have truly suffered due to the loss of funding",
+    "The opera has gone from offering three fully staged operas to one opera, one concert and one musical"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Loss of funding for organizations not serving specific underserved populations",
+    "Negative impact of new funding programs on early music organizations",
+    "Reduced capacity for opera productions"
+  ],
+  "solutions_proposed": [
+    "Reopen funding opportunities for arts organizations that do not serve specific underserved populations"
+  ],
+  "cached_at": "2025-06-20T10:32:54.835546",
+  "cache_key": "f22c6bafa1b3ff2044f17e2233afe5c57c9b7753eb26c201e7543d8feed8206d",
+  "model": "gpt-41"
+}

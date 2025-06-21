@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable funding distribution",
+    "support for local arts organizations",
+    "recognition of quality programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "share funding equally",
+    "local arts organizations",
+    "producing quality programming for the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unequal funding distribution"
+  ],
+  "solutions_proposed": [
+    "share funding equally amongst local arts organizations that are producing quality programming for the community"
+  ],
+  "cached_at": "2025-06-20T10:42:15.720120",
+  "cache_key": "9079a3370f11825a8d6bf1f9b14fc6d584208bc13f98c81d7e3b5215195c6479",
+  "model": "gpt-41"
+}

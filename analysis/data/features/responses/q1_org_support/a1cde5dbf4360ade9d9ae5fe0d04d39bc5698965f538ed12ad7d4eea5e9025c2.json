@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived neglect of traditional arts organizations",
+    "impact of shifting grant criteria on established groups",
+    "loss of public funding leading to organizational closure",
+    "focus on diversity and new organizations over legacy groups",
+    "call for genre diversity in funding support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the City has lost interest in supporting more 'traditional' arts groups",
+    "forced out of existence in 2024 due to lack of public funding",
+    "criteria changed for City of Austin grants to focus almost entirely on new organizations and 'diversity'",
+    "Ensemble VIII lost all funding from the City",
+    "I hope this will change so that there is also a diversity of genres supported"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Ensemble VIII"
+  ],
+  "barriers_identified": [
+    "loss of city funding for traditional arts organizations",
+    "grant criteria shift away from established groups",
+    "overemphasis on new organizations and diversity at expense of legacy groups"
+  ],
+  "solutions_proposed": [
+    "support a diversity of genres, including longtime arts organizations",
+    "restore public financial support to established groups with proven track records"
+  ],
+  "cached_at": "2025-06-20T01:17:50.492848",
+  "cache_key": "a1cde5dbf4360ade9d9ae5fe0d04d39bc5698965f538ed12ad7d4eea5e9025c2",
+  "model": "gpt-41"
+}

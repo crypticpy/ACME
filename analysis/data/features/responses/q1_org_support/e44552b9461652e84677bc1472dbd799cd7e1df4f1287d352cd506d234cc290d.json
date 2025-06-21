@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanding outreach",
+    "inclusion of more organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Outreach to more organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited outreach"
+  ],
+  "solutions_proposed": [
+    "Outreach to more organizations"
+  ],
+  "cached_at": "2025-06-20T10:21:22.288228",
+  "cache_key": "e44552b9461652e84677bc1472dbd799cd7e1df4f1287d352cd506d234cc290d",
+  "model": "gpt-41"
+}

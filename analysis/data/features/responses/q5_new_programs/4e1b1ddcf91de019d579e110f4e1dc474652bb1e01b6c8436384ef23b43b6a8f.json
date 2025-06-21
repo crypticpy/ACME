@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for a city-wide arts festival",
+    "Need for increased youth programming support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "City-wide arts festival",
+    "Support for youth programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer a city-wide arts festival",
+    "Increase support for youth programming"
+  ],
+  "cached_at": "2025-06-21T01:52:19.808302",
+  "cache_key": "4e1b1ddcf91de019d579e110f4e1dc474652bb1e01b6c8436384ef23b43b6a8f",
+  "model": "gpt-41"
+}

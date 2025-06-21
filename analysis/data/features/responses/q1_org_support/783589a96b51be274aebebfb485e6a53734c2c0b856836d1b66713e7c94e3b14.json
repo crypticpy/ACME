@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "evaluation of organizational effectiveness",
+    "value to creative community",
+    "streamlining support processes",
+    "concern about inefficiency or misallocation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "vet existing orgs",
+    "determine which are REALLY providing value",
+    "support effective organizations",
+    "minimal red tape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "red tape",
+    "support for ineffective organizations"
+  ],
+  "solutions_proposed": [
+    "vet existing organizations to assess value",
+    "support effective organizations with minimal bureaucracy"
+  ],
+  "cached_at": "2025-06-20T01:21:25.636053",
+  "cache_key": "783589a96b51be274aebebfb485e6a53734c2c0b856836d1b66713e7c94e3b14",
+  "model": "gpt-41"
+}

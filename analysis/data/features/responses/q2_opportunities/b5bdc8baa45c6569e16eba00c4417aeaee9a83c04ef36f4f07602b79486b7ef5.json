@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for vocal music genres",
+    "interest in choral, a cappella, and vocal jazz",
+    "proposal for a vocal arts festival",
+    "youth chorus performance opportunities",
+    "desire for inclusive, multi-group events"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more support for vocal music",
+    "particularly choral, a cappella, vocal jazz",
+    "personal pet project idea for a vocal arts festival",
+    "welcomes many types of groups all in one large venue each year",
+    "including youth chorus performance opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "organize a vocal arts festival that welcomes many types of groups in one large venue each year",
+    "include youth chorus performance opportunities"
+  ],
+  "cached_at": "2025-06-21T00:29:17.462949",
+  "cache_key": "b5bdc8baa45c6569e16eba00c4417aeaee9a83c04ef36f4f07602b79486b7ef5",
+  "model": "gpt-41"
+}

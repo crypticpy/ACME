@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for multi-year funding",
+    "expansion of small grant opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "sustainable funding over a period of time longer than a year",
+    "more small grant opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of sustainable, multi-year funding",
+    "insufficient small grant opportunities"
+  ],
+  "solutions_proposed": [
+    "provide sustainable funding over a period longer than a year",
+    "offer more small grant opportunities"
+  ],
+  "cached_at": "2025-06-21T01:53:37.563007",
+  "cache_key": "132306f1642e78b895b00cc02abdad808ae817907ecd5861ba2fd39f71f96e34",
+  "model": "gpt-41"
+}

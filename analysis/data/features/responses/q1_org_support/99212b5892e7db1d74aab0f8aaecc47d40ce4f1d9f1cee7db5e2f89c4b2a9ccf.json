@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "support for organizations impacting artists and creatives",
+    "inclusivity for both established and emerging artists",
+    "need for affordable studio spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "directly impact artists and creatives",
+    "variety of programming",
+    "for both established artists and new emerging artists",
+    "help create affordable studio spaces for artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable studio spaces"
+  ],
+  "solutions_proposed": [
+    "continue to support organizations that impact artists and creatives",
+    "support programming for both established and emerging artists",
+    "help create affordable studio spaces for artists"
+  ],
+  "cached_at": "2025-06-20T10:25:56.134763",
+  "cache_key": "99212b5892e7db1d74aab0f8aaecc47d40ce4f1d9f1cee7db5e2f89c4b2a9ccf",
+  "model": "gpt-41"
+}

@@ -1,0 +1,41 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community feedback integration",
+    "advocacy for increased funding",
+    "diversification of grant sources",
+    "transparency in grant decisions",
+    "support for native Austin artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "center community feedback in all stages of the funding and contracting process",
+    "advocate to council for increased ACME funding",
+    "diversity grant funding sources (from foundations, etc).",
+    "increase transparency in grant decision making",
+    "provide specific funding/incentives for artists that are native to Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community feedback in funding process",
+    "insufficient ACME funding",
+    "limited grant funding sources",
+    "lack of transparency in grant decision making",
+    "insufficient support for native Austin artists"
+  ],
+  "solutions_proposed": [
+    "center community feedback in all stages of the funding and contracting process",
+    "advocate to council for increased ACME funding",
+    "diversify grant funding sources (from foundations, etc)",
+    "increase transparency in grant decision making",
+    "provide specific funding/incentives for artists that are native to Austin"
+  ],
+  "cached_at": "2025-06-20T10:34:25.348107",
+  "cache_key": "c8c9964c72b04b63f58f0d4716eb95fa07e72abce1dd1d1dbe81749f90b6e277",
+  "model": "gpt-41"
+}

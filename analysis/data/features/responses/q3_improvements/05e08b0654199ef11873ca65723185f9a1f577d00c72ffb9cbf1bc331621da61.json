@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for established organizations",
+    "application process reform",
+    "peer panelist familiarity with organizations",
+    "perceived bias or exclusion in evaluation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "How accessible are these programs for established organizations",
+    "application questions need to change",
+    "peer panelists need to know the organizations they are rating",
+    "What is The Vortex?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "The Vortex"
+  ],
+  "barriers_identified": [
+    "application questions not suited for established organizations",
+    "peer panelists unfamiliar with organizations they are evaluating"
+  ],
+  "solutions_proposed": [
+    "change the application questions",
+    "ensure peer panelists are familiar with the organizations they rate"
+  ],
+  "cached_at": "2025-06-21T00:57:22.124273",
+  "cache_key": "05e08b0654199ef11873ca65723185f9a1f577d00c72ffb9cbf1bc331621da61",
+  "model": "gpt-41"
+}

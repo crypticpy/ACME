@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for unaffiliated artists",
+    "individual grants",
+    "access to funding outside institutions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "individual grants for artists/groups",
+    "may not be affiliated with an institution"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for unaffiliated artists/groups"
+  ],
+  "solutions_proposed": [
+    "provide individual grants for artists/groups who may not be affiliated with an institution"
+  ],
+  "cached_at": "2025-06-21T00:25:33.139528",
+  "cache_key": "eac61fc2a0f930ad8e74fc363434d5e8b7ed7a7c2ad791782b5868ce2f226d40",
+  "model": "gpt-41"
+}

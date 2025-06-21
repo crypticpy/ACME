@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging and unrepresented artists",
+    "affordable access to creative spaces",
+    "transparent and inclusive leadership",
+    "community-led funding decisions",
+    "long-term investment vs. one-off grants",
+    "metrics of success beyond economic impact"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "increased support for emerging and unrepresented artists",
+    "affordable access to creative spaces",
+    "transparent and inclusive leadership",
+    "community-let funding decisions",
+    "long-term investment rather than one-off grants",
+    "clear metrics of success beyond economic impact (community enrichment)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for emerging and unrepresented artists",
+    "unaffordable creative spaces",
+    "lack of transparency and inclusivity in leadership",
+    "top-down funding decisions",
+    "short-term, one-off grants",
+    "overemphasis on economic impact as a metric"
+  ],
+  "solutions_proposed": [
+    "increase support for emerging and unrepresented artists",
+    "make creative spaces more affordable",
+    "ensure leadership is transparent and inclusive",
+    "implement community-led funding decisions",
+    "prioritize long-term investment over one-off grants",
+    "use clear metrics of success that include community enrichment"
+  ],
+  "cached_at": "2025-06-21T01:09:07.377106",
+  "cache_key": "e815e8f5e8f8c6837e0a7ab16d385a53c009e6bdd5e823359087d668b04ab312",
+  "model": "gpt-41"
+}

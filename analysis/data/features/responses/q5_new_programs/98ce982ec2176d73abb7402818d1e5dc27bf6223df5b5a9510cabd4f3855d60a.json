@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for professional development",
+    "arts management skills",
+    "collaboration with local nonprofits",
+    "social media and marketing training"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "periodic workshops focusing on arts management, social media, marketing, etc.",
+    "helpful",
+    "in collaboration with local nonprofits with this expertise",
+    "the City has done some of this"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "periodic workshops focusing on arts management, social media, marketing",
+    "collaboration with local nonprofits with this expertise"
+  ],
+  "cached_at": "2025-06-21T01:52:41.073101",
+  "cache_key": "98ce982ec2176d73abb7402818d1e5dc27bf6223df5b5a9510cabd4f3855d60a",
+  "model": "gpt-41"
+}

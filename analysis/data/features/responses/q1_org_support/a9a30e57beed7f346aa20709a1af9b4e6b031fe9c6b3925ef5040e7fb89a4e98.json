@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "resource allocation",
+    "support for cultural programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "increase the resources for cultural programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase the resources for cultural programs"
+  ],
+  "cached_at": "2025-06-20T10:40:58.191157",
+  "cache_key": "a9a30e57beed7f346aa20709a1af9b4e6b031fe9c6b3925ef5040e7fb89a4e98",
+  "model": "gpt-41"
+}

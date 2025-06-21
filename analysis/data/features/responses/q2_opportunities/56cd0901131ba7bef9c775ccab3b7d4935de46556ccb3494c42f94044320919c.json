@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "affordability of cultural events",
+    "desire for diverse activities",
+    "critique of repetitive event offerings",
+    "inclusivity for all age groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "free or very low-cost festivals and events",
+    "wide range of things to do for all ages",
+    "not just beer, bounce houses. and food trucks"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited variety in event activities",
+    "cost of participation"
+  ],
+  "solutions_proposed": [
+    "offer free or very low-cost festivals and events",
+    "include a wide range of activities for all ages",
+    "move beyond beer, bounce houses, and food trucks as primary attractions"
+  ],
+  "cached_at": "2025-06-21T00:42:13.201294",
+  "cache_key": "56cd0901131ba7bef9c775ccab3b7d4935de46556ccb3494c42f94044320919c",
+  "model": "gpt-41"
+}

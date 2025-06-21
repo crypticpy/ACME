@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural opportunities",
+    "desire for free or no-cost events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "free or no cost"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of participation"
+  ],
+  "solutions_proposed": [
+    "offer more free or no-cost cultural arts or entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:24:48.081754",
+  "cache_key": "bf558a03546149318d52712b9455d578aa21ff84c7f22c6e1cca57a64fb5e884",
+  "model": "gpt-41"
+}

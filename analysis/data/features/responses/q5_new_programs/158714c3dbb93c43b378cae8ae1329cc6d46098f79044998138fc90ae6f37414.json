@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of information about ACME's aims",
+    "uncertainty in providing feedback",
+    "need for organizational clarity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Am not sure how to answer this question",
+    "it's unclear to me what exactly ACME's aims are"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear organizational aims"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:04:19.272636",
+  "cache_key": "158714c3dbb93c43b378cae8ae1329cc6d46098f79044998138fc90ae6f37414",
+  "model": "gpt-41"
+}

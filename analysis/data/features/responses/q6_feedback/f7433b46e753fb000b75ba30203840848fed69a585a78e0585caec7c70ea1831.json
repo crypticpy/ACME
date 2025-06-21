@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "sustainability of cultural events",
+    "environmental impact of arts programming",
+    "public communication about sustainability",
+    "behavior change through arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "outsized impact in increasing awareness and changing behavior",
+    "sustainable events",
+    "zero-waste (minimum 90% diversion of waste from landfill)",
+    "powered by 99% renewable electricity",
+    "public communication on the event's sustainabilty efforts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "events should be zero-waste (minimum 90% diversion of waste from landfill)",
+    "events should be powered by 99% renewable electricity",
+    "public communication on the event's sustainability efforts"
+  ],
+  "cached_at": "2025-06-21T02:21:58.963354",
+  "cache_key": "f7433b46e753fb000b75ba30203840848fed69a585a78e0585caec7c70ea1831",
+  "model": "gpt-41"
+}

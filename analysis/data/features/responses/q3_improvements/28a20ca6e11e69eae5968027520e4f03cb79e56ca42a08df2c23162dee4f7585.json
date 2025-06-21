@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dominance of single organizations in funding",
+    "lack of equitable access for individual artists",
+    "competition between organizations and individual artists",
+    "exclusion based on years of experience",
+    "lack of transparency or clarity in application instructions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "One cultural art organization should not be allowed to gobble up multiple grants",
+    "to the detriment of other cultural arts organizations",
+    "ALL AUSTIN ARTISTS should have access to funding",
+    "OG artists that put time in the trenches with little compensation",
+    "mid-career artists trying to sustain their practice",
+    "emerging artists",
+    "The number of years an artist has dedicated to their practice should not eliminate them from funding",
+    "they should not be forced to compete with cultural arts organizations for funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dominance of single organizations receiving multiple grants",
+    "lack of access for artists who did not receive specific application instructions",
+    "competition between individual artists and organizations for the same funding",
+    "exclusion of artists based on years of experience"
+  ],
+  "solutions_proposed": [
+    "Prevent one organization from receiving multiple project grants",
+    "Ensure all Austin artists have access to funding regardless of career stage or years of experience",
+    "Do not force individual artists to compete with organizations for funding"
+  ],
+  "cached_at": "2025-06-21T01:00:04.848816",
+  "cache_key": "28a20ca6e11e69eae5968027520e4f03cb79e56ca42a08df2c23162dee4f7585",
+  "model": "gpt-41"
+}

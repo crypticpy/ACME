@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "lack of transparency in funding criteria",
+    "confusing or unhelpful feedback from committees",
+    "perceived incompetence of committee members",
+    "disconnect between committees and local arts history",
+    "frustration with application rejection despite compliance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Never know what the funding committees are looking for",
+    "feedback... doesn't make sense",
+    "committees have incompetent people",
+    "don't know the history of arts in Austin",
+    "submitted an application that met all the requirements to a tee and still got rejected"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear funding criteria",
+    "confusing or inadequate feedback",
+    "committee members' lack of relevant knowledge",
+    "perceived bias or incompetence in decision-making",
+    "rejection despite meeting requirements"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:32:04.288607",
+  "cache_key": "150e3b558bab8a250eaaec62532988222753a3ca281dd4d1e031203f85b1acdc",
+  "model": "gpt-41"
+}

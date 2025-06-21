@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about rushed implementation",
+    "preference for incremental change",
+    "need for thoughtful, inclusive process",
+    "critique of change driven by a few voices or leadership ego",
+    "suggestion of bridge funding or phased rollout"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Take time to do this right, but don't delay launching in August",
+    "bridge year of funding",
+    "very slightly modified changes that can be quickly and easily incorporated",
+    "bridge year in August, a small program like Nexus a few months after that, and the sweeping changes of a 'creative reset' sometime next year",
+    "Save bigger changes for next year when there is more time to thoughtfully consider and implement them",
+    "changing things either for the sake of changing them because ACME wants to put their stamp on things or because a few voices have reached those in power is a horrible idea",
+    "will exacerbate, not help, Austin's cultural ecosystem"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "rushed or poorly planned changes",
+    "changes driven by a few influential voices or leadership ego"
+  ],
+  "solutions_proposed": [
+    "implement a bridge year of funding",
+    "make only very slight, easily incorporated changes for August launch",
+    "phase in a small program like Nexus after August",
+    "delay sweeping changes until next year for more thoughtful consideration"
+  ],
+  "cached_at": "2025-06-20T10:40:30.836537",
+  "cache_key": "df45652e3e4e9ef30df5b51407da39d17343bbaa490d183fa97aef2d14c7af9d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for grants and funding in performance art",
+    "importance of venue partnerships with artists and producers",
+    "facilitation of live entertainment and performance art opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "my own mediums in the performance art world",
+    "grants and funding",
+    "specific venues that partner with artists and producers",
+    "facilitate live entertainment and performance art opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grants and funding",
+    "insufficient venue partnerships for performance art"
+  ],
+  "solutions_proposed": [
+    "increase grants and funding for performance art",
+    "develop specific venues that partner with artists and producers"
+  ],
+  "cached_at": "2025-06-21T00:41:20.616945",
+  "cache_key": "d4cf0858380e189f972f33e7cc3bd5b6b0e46b64f5457439612f7b136e35034a",
+  "model": "gpt-41"
+}

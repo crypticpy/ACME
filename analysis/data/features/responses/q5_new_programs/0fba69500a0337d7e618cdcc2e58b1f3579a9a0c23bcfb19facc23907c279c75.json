@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for smaller-scale public art opportunities",
+    "support for individual/independent artists",
+    "emphasis on wall murals as a unique feature of Austin",
+    "comparison to other U.S. cities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more Arts in Public Places opportunities that are smaller in scope & scale",
+    "tailored towards individual/independent artists",
+    "wall murals",
+    "the abundance and variety of public murals makes Austin unique"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Arts in Public Places"
+  ],
+  "barriers_identified": [
+    "lack of smaller-scale opportunities for individual/independent artists"
+  ],
+  "solutions_proposed": [
+    "offer more Arts in Public Places opportunities that are smaller in scope & scale",
+    "tailor programs towards individual/independent artists",
+    "increase opportunities for wall murals"
+  ],
+  "cached_at": "2025-06-21T01:58:00.696496",
+  "cache_key": "0fba69500a0337d7e618cdcc2e58b1f3579a9a0c23bcfb19facc23907c279c75",
+  "model": "gpt-41"
+}

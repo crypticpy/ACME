@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "centralized resource for arts opportunities",
+    "arts as economic development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Be a clearing house for opportunities",
+    "promote the arts as economic development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Serve as a clearing house for opportunities",
+    "Promote the arts as economic development"
+  ],
+  "cached_at": "2025-06-21T02:13:44.987872",
+  "cache_key": "f37a24a5445b79ee8d4f5eb11854701da0c51a7e2f7fcfe46d2bc9e857d0c35c",
+  "model": "gpt-41"
+}

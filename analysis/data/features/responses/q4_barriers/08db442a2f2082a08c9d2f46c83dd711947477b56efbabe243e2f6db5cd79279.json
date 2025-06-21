@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty accessing event information without social media",
+    "desire for centralized communication about arts activities",
+    "information barriers to cultural participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Hard to know about events without being on social media",
+    "Would LOVE a newsletter with all the arts activities going on every week or two"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "reliance on social media for event information"
+  ],
+  "solutions_proposed": [
+    "create a newsletter with all the arts activities going on every week or two"
+  ],
+  "cached_at": "2025-06-21T01:46:31.852344",
+  "cache_key": "08db442a2f2082a08c9d2f46c83dd711947477b56efbabe243e2f6db5cd79279",
+  "model": "gpt-41"
+}

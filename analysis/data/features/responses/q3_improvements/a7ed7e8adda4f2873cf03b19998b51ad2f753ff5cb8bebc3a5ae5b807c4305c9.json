@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "competition between established artists and organizations for funding",
+    "recognition of artists' long-term commitment and financial struggles",
+    "concern over terminology: 'Creatives' vs. 'Artist'",
+    "distinction between professional artists and hobbyists",
+    "value of emerging and established artists to the community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Established Artists should NOT have to compete with cultural organizations for funding",
+    "They have proven their committment to art through years of work",
+    "Even the most successful artists cannot make a living on their artwork and must teach or take on other work",
+    "They should not be eliminated from funding because of their longevity",
+    "I would like to see the word Creatives replaced with Artist",
+    "Creatives is a catch all word that includes hobbyists",
+    "Artists are not hobbyists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Established artists competing with organizations for funding",
+    "Established artists being eliminated from funding due to longevity",
+    "Use of the term 'Creatives' diluting recognition of professional artists"
+  ],
+  "solutions_proposed": [
+    "Established artists should not have to compete with organizations for funding",
+    "Replace the word 'Creatives' with 'Artist' in program language"
+  ],
+  "cached_at": "2025-06-21T01:09:56.126457",
+  "cache_key": "a7ed7e8adda4f2873cf03b19998b51ad2f753ff5cb8bebc3a5ae5b807c4305c9",
+  "model": "gpt-41"
+}

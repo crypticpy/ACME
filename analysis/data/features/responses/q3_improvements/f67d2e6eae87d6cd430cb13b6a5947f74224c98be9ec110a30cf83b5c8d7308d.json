@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty of application process",
+    "time investment required",
+    "insufficient financial return"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "not easy funding programs to enter",
+    "takes a ton of time",
+    "$ received may not outweigh the effort"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex or inaccessible application process",
+    "high time commitment",
+    "low financial compensation relative to effort"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:09:30.894825",
+  "cache_key": "f67d2e6eae87d6cd430cb13b6a5947f74224c98be9ec110a30cf83b5c8d7308d",
+  "model": "gpt-41"
+}

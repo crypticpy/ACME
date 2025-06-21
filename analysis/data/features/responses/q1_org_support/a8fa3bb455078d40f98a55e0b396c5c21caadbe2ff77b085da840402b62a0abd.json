@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "continued financial support",
+    "funding for organizations and leaders",
+    "bringing performers back to Austin"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "continuing to support them",
+    "Funds",
+    "Bring back to Austin more to perform"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue supporting organizations and leaders",
+    "Provide funds",
+    "Bring more performers back to Austin"
+  ],
+  "cached_at": "2025-06-20T10:27:10.140223",
+  "cache_key": "a8fa3bb455078d40f98a55e0b396c5c21caadbe2ff77b085da840402b62a0abd",
+  "model": "gpt-41"
+}

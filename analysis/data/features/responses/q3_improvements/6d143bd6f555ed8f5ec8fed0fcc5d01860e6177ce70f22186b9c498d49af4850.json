@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "underrepresentation of non-music performing arts",
+    "need for more funding for dance",
+    "lack of support for non-Eurocentric dance forms",
+    "insufficient funding for diverse Latinx arts",
+    "overemphasis on Mexican arts within Latinx funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more funding toward other performing arts outside of music",
+    "more funding toward cultural arts that represent more than just Eurocentric dance forms",
+    "fund more diverse Latinx arts not just Mexican"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overrepresentation of Eurocentric dance forms",
+    "limited funding for non-music performing arts",
+    "lack of diversity within Latinx arts funding"
+  ],
+  "solutions_proposed": [
+    "increase funding for performing arts outside of music",
+    "increase funding for dance, especially non-Eurocentric forms",
+    "fund more diverse Latinx arts beyond just Mexican"
+  ],
+  "cached_at": "2025-06-21T01:14:26.344593",
+  "cache_key": "6d143bd6f555ed8f5ec8fed0fcc5d01860e6177ce70f22186b9c498d49af4850",
+  "model": "gpt-41"
+}

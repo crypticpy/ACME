@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "appreciation for community engagement",
+    "importance of broad outreach",
+    "suggestion to increase survey visibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "started in the right foot",
+    "asking Austinites to take this survey",
+    "tell KUT and the local TV stations to advertise this survey",
+    "so you get a big response"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited survey awareness"
+  ],
+  "solutions_proposed": [
+    "advertise this survey on KUT and the local TV stations"
+  ],
+  "cached_at": "2025-06-21T02:14:47.091952",
+  "cache_key": "e10c47503a0c7091e8d4983da94da7b201e29796fddbfa9118867457ce45e988",
+  "model": "gpt-41"
+}

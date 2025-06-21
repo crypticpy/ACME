@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "insufficient funding for arts and culture",
+    "lack of available performance spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Lack of funding",
+    "Lack of performance space"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "lack of performance space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:26.325078",
+  "cache_key": "684a11ae73b77e34170f9373749b1371a510da7d88c4ce493d3faf11444e4e2b",
+  "model": "gpt-41"
+}

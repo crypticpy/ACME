@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "meaningful partnership",
+    "collaboration between ACME and organizations/cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "partner with them in meaningful ways"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "partner with them in meaningful ways"
+  ],
+  "cached_at": "2025-06-20T10:32:21.658274",
+  "cache_key": "f9492a49c4b4bb9dc8d2d2b33cb5096642621a4e931084648a0ef665f2933d0a",
+  "model": "gpt-41"
+}

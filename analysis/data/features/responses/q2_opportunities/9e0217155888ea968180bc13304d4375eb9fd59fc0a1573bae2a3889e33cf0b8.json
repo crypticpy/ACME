@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art in everyday spaces",
+    "integration of art into city infrastructure"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Every parking garage should be covered in art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Cover parking garages in art"
+  ],
+  "cached_at": "2025-06-21T00:31:26.122222",
+  "cache_key": "9e0217155888ea968180bc13304d4375eb9fd59fc0a1573bae2a3889e33cf0b8",
+  "model": "gpt-41"
+}

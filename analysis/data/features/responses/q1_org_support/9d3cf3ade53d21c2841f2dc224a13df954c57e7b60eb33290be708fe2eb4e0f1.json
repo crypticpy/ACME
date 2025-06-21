@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for opportunities for newcomers",
+    "bias toward experienced recipients",
+    "potential of less-experienced individuals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Give opportunities to new faces",
+    "money often goes to people with lots of experience",
+    "just because someone lack experience doesn\u2019t mean they don\u2019t have the potential"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "preference for experienced applicants"
+  ],
+  "solutions_proposed": [
+    "Give opportunities to new faces"
+  ],
+  "cached_at": "2025-06-20T10:35:34.099231",
+  "cache_key": "9d3cf3ade53d21c2841f2dc224a13df954c57e7b60eb33290be708fe2eb4e0f1",
+  "model": "gpt-41"
+}

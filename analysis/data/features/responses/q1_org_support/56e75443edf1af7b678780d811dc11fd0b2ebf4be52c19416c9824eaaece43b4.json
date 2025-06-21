@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "delays in funding process",
+    "responsiveness of ACME",
+    "support for applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Better response time for funding applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "slow response time for funding applications"
+  ],
+  "solutions_proposed": [
+    "Better response time for funding applications"
+  ],
+  "cached_at": "2025-06-20T10:36:26.294774",
+  "cache_key": "56e75443edf1af7b678780d811dc11fd0b2ebf4be52c19416c9824eaaece43b4",
+  "model": "gpt-41"
+}

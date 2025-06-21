@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for public engagement",
+    "gratitude for feedback solicitation"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "thank you for seeking public feedback"
+  ],
+  "intent": "expression_of_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:23.352566",
+  "cache_key": "fd55c229278dcbb087e92bff18a243e84aece99a259be1773f8e65d078c24a0e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bilingual communication",
+    "outreach to diverse geographic areas",
+    "artist engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Trading in English and Spanish",
+    "more communications/publicity to artists",
+    "more diverse areas of the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of bilingual communication",
+    "insufficient outreach to artists in diverse areas"
+  ],
+  "solutions_proposed": [
+    "Trading in English and Spanish",
+    "more communications/publicity to artists in more diverse areas of the city"
+  ],
+  "cached_at": "2025-06-21T01:05:07.772260",
+  "cache_key": "f52550b587a11b734d6f3ea78adbc8f7c88113b828c152acefa68cfaab894881",
+  "model": "gpt-41"
+}

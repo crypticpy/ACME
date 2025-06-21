@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "absence of meaningful arts access",
+    "lack of inclusion for individuals with IDD",
+    "insufficient ongoing and sustained programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "literal absence of ongoing, sustained, meaningful access to the arts",
+    "especially for individuals with IDD and more complex needs",
+    "I have no experience with them"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "absence of ongoing, sustained, meaningful access to the arts",
+    "lack of access for individuals with IDD and more complex needs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:18:27.532214",
+  "cache_key": "88602d3eead3427c944ae96a3ef24da0ece00fb1f5f7874caa424c9b4b3d0e15",
+  "model": "gpt-41"
+}

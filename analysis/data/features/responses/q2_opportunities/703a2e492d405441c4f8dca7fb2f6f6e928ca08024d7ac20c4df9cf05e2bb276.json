@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased grant funding for artists",
+    "affordable housing and studio space for artists",
+    "support for artist residency programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more grants for artists",
+    "subsidies for affordable housing and studio space",
+    "residency programs that give a platform and money to artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing and studio space",
+    "insufficient grant funding for artists",
+    "limited access to residency programs with financial support"
+  ],
+  "solutions_proposed": [
+    "more grants for artists",
+    "subsidies for affordable housing and studio space",
+    "residency programs that give a platform and money to artists"
+  ],
+  "cached_at": "2025-06-21T00:37:13.988265",
+  "cache_key": "703a2e492d405441c4f8dca7fb2f6f6e928ca08024d7ac20c4df9cf05e2bb276",
+  "model": "gpt-41"
+}

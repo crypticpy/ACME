@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for increased cultural diversity",
+    "support for organizations making diversity efforts",
+    "concern about lack of support/funding for organizations",
+    "broad inclusivity in cultural production"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more of everything, produced by everyone",
+    "orgs that are making good-faith efforts to diversify",
+    "supported so they can do this, not starved to death"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "organizations being starved to death (lack of support/funding)"
+  ],
+  "solutions_proposed": [
+    "support organizations making good-faith efforts to diversify"
+  ],
+  "cached_at": "2025-06-21T00:26:34.917730",
+  "cache_key": "6297dc4752fe0648b2050e6525d2d73e4a218510734639646194bcf0b46cd24e",
+  "model": "gpt-41"
+}

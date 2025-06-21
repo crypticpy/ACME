@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "immediate need for funding",
+    "financial support for arts institutions",
+    "urgency of current funding situation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Start with funding",
+    "Arts institutions need to be funded now more than ever"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for arts institutions"
+  ],
+  "solutions_proposed": [
+    "provide funding to arts institutions"
+  ],
+  "cached_at": "2025-06-20T10:36:04.337443",
+  "cache_key": "34030881c3ecfda0d7029433ad6b56abe27a060b4956c3df0136b945796f4022",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about rushed decision-making",
+    "critique of prioritizing speed over quality",
+    "perception of superficial results"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Take time to make informed decisions",
+    "you seem to be racing for results",
+    "Fast is not better",
+    "Fast doesn\u2019t save face"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "decisions made too quickly without sufficient information"
+  ],
+  "solutions_proposed": [
+    "Take time to make informed decisions"
+  ],
+  "cached_at": "2025-06-20T10:36:50.650337",
+  "cache_key": "ad3ce275751e2781289d0eae0fce0d42ee2d234e86b19750e5cfa0bfeee691bc",
+  "model": "gpt-41"
+}

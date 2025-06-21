@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of key arts organization",
+    "lack of transparency in city-organization relations",
+    "need for proactive support",
+    "emergency preparedness for arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "the day Big Medium shut down it was a dark day for the Austin visual arts world",
+    "offering check-ins with them every few months",
+    "see how they need to be supported",
+    "keeping an emergency fund available"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "lack of ongoing support mechanisms",
+    "insufficient crisis resources for organizations"
+  ],
+  "solutions_proposed": [
+    "offering check-ins with organizations every few months",
+    "keeping an emergency fund available"
+  ],
+  "cached_at": "2025-06-20T10:31:10.230274",
+  "cache_key": "8de92bbbc9c863dae2fdaa18b23372d6bc635fe8f784534098793c964424a5e5",
+  "model": "gpt-41"
+}

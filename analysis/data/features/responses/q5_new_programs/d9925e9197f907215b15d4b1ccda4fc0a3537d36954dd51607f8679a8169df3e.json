@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artists-in-residence programs",
+    "unrestricted funding for artists",
+    "public outreach events",
+    "support for artist work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "series of City artists-in-residence throughout the year",
+    "funding could be unrestricted towards supporting the artists' work",
+    "some kind of public outreach event - lecture, performance, exhibition, screening"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "series of City artists-in-residence throughout the year",
+    "unrestricted funding towards supporting the artists' work",
+    "public outreach event such as lecture, performance, exhibition, screening"
+  ],
+  "cached_at": "2025-06-21T02:00:25.251799",
+  "cache_key": "d9925e9197f907215b15d4b1ccda4fc0a3537d36954dd51607f8679a8169df3e",
+  "model": "gpt-41"
+}

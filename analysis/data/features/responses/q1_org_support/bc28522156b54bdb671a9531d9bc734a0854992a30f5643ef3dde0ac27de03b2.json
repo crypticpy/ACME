@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion in major cultural events",
+    "visibility for organizations",
+    "support for cultural leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "ensure that these organizations are part of major events",
+    "South by Southwest",
+    "Austin City Limits Music Festival"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "South by Southwest",
+    "Austin City Limits Music Festival"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "ensure that these organizations are part of major events like South by Southwest and Austin City Limits Music Festival"
+  ],
+  "cached_at": "2025-06-20T01:22:48.699282",
+  "cache_key": "bc28522156b54bdb671a9531d9bc734a0854992a30f5643ef3dde0ac27de03b2",
+  "model": "gpt-41"
+}

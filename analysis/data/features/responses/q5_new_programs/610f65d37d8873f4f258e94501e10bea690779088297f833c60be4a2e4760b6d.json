@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "desire for partnerships",
+    "collaboration opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Partnerships"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer partnerships"
+  ],
+  "cached_at": "2025-06-21T02:02:45.400300",
+  "cache_key": "610f65d37d8873f4f258e94501e10bea690779088297f833c60be4a2e4760b6d",
+  "model": "gpt-41"
+}

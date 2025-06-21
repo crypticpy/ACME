@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient physical space",
+    "growing demand for cultural activities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Limited space for increasing demand"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Limited space"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:52.674081",
+  "cache_key": "579f8cb16758989c3c33465868d643a9f58abaee4d8dae33f5962fbfc588c2c9",
+  "model": "gpt-41"
+}

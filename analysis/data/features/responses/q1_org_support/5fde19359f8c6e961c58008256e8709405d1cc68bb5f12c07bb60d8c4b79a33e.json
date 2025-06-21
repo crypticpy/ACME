@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach to artist-run businesses",
+    "inclusion of photographers and studios",
+    "support for creative entrepreneurs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "reach out to Artists who run businesses",
+    "Photographers or Studios"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Reach out to artists who run businesses such as photographers or studios"
+  ],
+  "cached_at": "2025-06-20T01:20:32.600206",
+  "cache_key": "5fde19359f8c6e961c58008256e8709405d1cc68bb5f12c07bb60d8c4b79a33e",
+  "model": "gpt-41"
+}

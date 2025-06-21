@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of existing programs",
+    "impact of small-scale funding opportunities",
+    "youth empowerment through arts",
+    "personal transformation via cultural participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I don't think I know enough about current programs and services",
+    "mini-grant program",
+    "allowed me to produce a small play on campus",
+    "that literally changed my life",
+    "What if more kids had that opportunity?"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of current programs"
+  ],
+  "solutions_proposed": [
+    "introduce a mini-grant program for youth"
+  ],
+  "cached_at": "2025-06-21T01:58:17.181292",
+  "cache_key": "603923a93fc3c42c77ceedf00055e7c51d1cccedb668e6a995d37aa3f9181a84",
+  "model": "gpt-41"
+}

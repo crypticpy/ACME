@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "connecting organizations to funding",
+    "amplifying organizational success"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "connect them to additional funding sources",
+    "amplify their success"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to additional funding sources"
+  ],
+  "solutions_proposed": [
+    "connect organizations and cultural leaders to additional funding sources"
+  ],
+  "cached_at": "2025-06-20T01:14:55.755590",
+  "cache_key": "e12f24a52492ddeaf08947cc36439bebebef3d9204119a19ce1fe734edc1f02c",
+  "model": "gpt-41"
+}

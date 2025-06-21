@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "diversification of arts funding sources",
+    "community-focused funding",
+    "concern about tourist-centered events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "diversification of funding sources for arts funding",
+    "monies can go toward the growth and support of our community",
+    "not just tourist-centered events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding prioritized for tourist-centered events"
+  ],
+  "solutions_proposed": [
+    "diversification of funding sources for arts funding",
+    "direct funding toward community growth and support"
+  ],
+  "cached_at": "2025-06-20T10:39:30.121149",
+  "cache_key": "c23d6f01869ffe173e4a311a5493ede1909ebff2c9f2b6cca5c4b78051e7322e",
+  "model": "gpt-41"
+}

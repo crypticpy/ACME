@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for literary organizations",
+    "value of existing programming",
+    "recognition of the Writers\u2019 League of Texas"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support for the Writers\u2019 League of Texas",
+    "they have awesome programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Writers\u2019 League of Texas"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support for the Writers\u2019 League of Texas"
+  ],
+  "cached_at": "2025-06-21T00:42:26.889692",
+  "cache_key": "ba201e33bd8eef34816d98f471f86e1474bd3382d13d58ab9101b516147262a2",
+  "model": "gpt-41"
+}

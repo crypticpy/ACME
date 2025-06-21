@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "City's role should be to support existing organizations",
+    "Preference for indirect support over direct services",
+    "Sustainability of service-providing organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We don't need services from the City",
+    "we need the City to insure that the organizations who know how to provide services are sustained"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of sustained support for organizations providing services"
+  ],
+  "solutions_proposed": [
+    "City should insure that organizations who know how to provide services are sustained"
+  ],
+  "cached_at": "2025-06-21T01:36:11.875513",
+  "cache_key": "20e7469b2913b0a27d7971a06ec46fe97c8993424e359c2c4ed80f512170a783",
+  "model": "gpt-41"
+}

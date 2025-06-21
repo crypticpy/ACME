@@ -1,0 +1,28 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "balance between established and new organizations",
+    "concern about overemphasis on new organizations",
+    "desire for inclusivity in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "a mix of the older organizations and the new organization",
+    "not just the new organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential exclusion of older organizations"
+  ],
+  "solutions_proposed": [
+    "include both older and new organizations in cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:27:45.490552",
+  "cache_key": "58a7ea2eace3e5744952f2f0bd7922c5c41f2d8d2482a3a1fddedb2d8c2c0236",
+  "model": "gpt-41"
+}

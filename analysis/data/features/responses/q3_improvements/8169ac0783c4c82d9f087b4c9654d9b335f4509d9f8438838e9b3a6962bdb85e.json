@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "panelist selection process",
+    "panelist training and expertise",
+    "fairness of evaluation",
+    "impact of uninformed reviewers",
+    "panelist term limits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "improved selection and training of panelists",
+    "ensure fair and informed evaluation",
+    "same panelist serve two years in a row",
+    "did not demonstrate an understanding of our work",
+    "disheartening and potentially detrimental to the review process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "panelists lacking understanding of applicants' work",
+    "repeated panelist appointments",
+    "potentially unfair or uninformed evaluations"
+  ],
+  "solutions_proposed": [
+    "improved selection and training of panelists",
+    "avoid having the same panelist serve two years in a row"
+  ],
+  "cached_at": "2025-06-21T01:03:49.923144",
+  "cache_key": "8169ac0783c4c82d9f087b4c9654d9b335f4509d9f8438838e9b3a6962bdb85e",
+  "model": "gpt-41"
+}

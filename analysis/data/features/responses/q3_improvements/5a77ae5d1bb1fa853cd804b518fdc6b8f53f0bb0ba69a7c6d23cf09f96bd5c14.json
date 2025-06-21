@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "administrative burden",
+    "grant reporting challenges",
+    "platform usability"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "difficulty managing the grant reporting platform"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty managing the grant reporting platform"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:11:10.043260",
+  "cache_key": "5a77ae5d1bb1fa853cd804b518fdc6b8f53f0bb0ba69a7c6d23cf09f96bd5c14",
+  "model": "gpt-41"
+}

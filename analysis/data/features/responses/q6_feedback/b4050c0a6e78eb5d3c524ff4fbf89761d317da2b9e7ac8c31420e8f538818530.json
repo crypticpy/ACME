@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "gratitude for city support of musicians",
+    "recognition of musician as a business",
+    "impact of HAAM program",
+    "benefit of airport-funded opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.99,
+  "key_phrases": [
+    "Thanks for doing this",
+    "the city doesn't owe the musicians anything",
+    "being a musician is a business as any other business",
+    "Austin has far succeeded most cities in the US, in helping us out",
+    "especially with HAAM, which is a gigantic benefit",
+    "The airport funded opportunities I have received as well, have been super helpful and inspiring to craft my trade",
+    "I know the city does a lot and I'm very grateful for it"
+  ],
+  "intent": "expression_of_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "HAAM"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:13:35.424032",
+  "cache_key": "b4050c0a6e78eb5d3c524ff4fbf89761d317da2b9e7ac8c31420e8f538818530",
+  "model": "gpt-41"
+}

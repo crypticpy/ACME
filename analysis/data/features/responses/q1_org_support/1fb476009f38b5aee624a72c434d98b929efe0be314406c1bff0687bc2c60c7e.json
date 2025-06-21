@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for arts organizations",
+    "personal impact of funding shortages",
+    "disagreement with current funding narrative"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "art organizations need funding",
+    "I been affected for lack of funding",
+    "this is not true"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:16:44.868613",
+  "cache_key": "1fb476009f38b5aee624a72c434d98b929efe0be314406c1bff0687bc2c60c7e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct engagement with organizational leaders",
+    "active listening by funders",
+    "improving consultation processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "thorough process of sitting with the leaders",
+    "actually listening to them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of genuine listening to organizational leaders"
+  ],
+  "solutions_proposed": [
+    "thorough process of sitting with the leaders of these existing organizations",
+    "actually listening to them"
+  ],
+  "cached_at": "2025-06-20T10:37:16.996258",
+  "cache_key": "50b87d6ec53083d284fda08581bba700cb75a079a120b3c1ed73f408bfa75034",
+  "model": "gpt-41"
+}

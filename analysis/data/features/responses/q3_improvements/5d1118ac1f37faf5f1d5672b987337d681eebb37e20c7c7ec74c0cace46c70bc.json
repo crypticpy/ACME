@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion of literary arts",
+    "lack of support for authors",
+    "grant approval process concerns"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "NOT ONE event or program for authors was approved",
+    "2024 grant season for Elivate"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Elivate"
+  ],
+  "barriers_identified": [
+    "no events or programs for authors approved"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:54:19.336643",
+  "cache_key": "5d1118ac1f37faf5f1d5672b987337d681eebb37e20c7c7ec74c0cace46c70bc",
+  "model": "gpt-41"
+}

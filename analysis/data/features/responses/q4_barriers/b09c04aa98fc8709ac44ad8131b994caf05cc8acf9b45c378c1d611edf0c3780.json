@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "desire for direct engagement with organization",
+    "need for increased organizational visibility",
+    "support for creatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Face to face with your organization",
+    "more opportunities to see your organization help creatives"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of face-to-face interaction with organization",
+    "insufficient opportunities to observe organizational support for creatives"
+  ],
+  "solutions_proposed": [
+    "increase face-to-face engagement with the organization",
+    "provide more visible opportunities for the organization to help creatives"
+  ],
+  "cached_at": "2025-06-21T01:20:49.461034",
+  "cache_key": "b09c04aa98fc8709ac44ad8131b994caf05cc8acf9b45c378c1d611edf0c3780",
+  "model": "gpt-41"
+}

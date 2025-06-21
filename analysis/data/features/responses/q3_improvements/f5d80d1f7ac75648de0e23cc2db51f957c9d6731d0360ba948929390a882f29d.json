@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "frustration with restrictive eligibility requirements",
+    "preference for merit-based funding",
+    "opposition to geographic limitations",
+    "desire for inclusivity over exclusivity",
+    "concern about demographic biases (race, gender, age)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "take away so many 'you must\u2026\u2026and\u2026..to be eligible'",
+    "Merit, not geography",
+    "Desire, not established",
+    "Yes in lieu of No",
+    "No race, gender, age bias"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "restrictive eligibility requirements",
+    "geographic limitations",
+    "bias based on race, gender, age",
+    "preference for established applicants over those with desire"
+  ],
+  "solutions_proposed": [
+    "spread funding further",
+    "remove excessive eligibility requirements",
+    "base funding on merit rather than geography",
+    "prioritize desire over established status",
+    "eliminate race, gender, and age bias"
+  ],
+  "cached_at": "2025-06-21T01:04:16.534689",
+  "cache_key": "f5d80d1f7ac75648de0e23cc2db51f957c9d6731d0360ba948929390a882f29d",
+  "model": "gpt-41"
+}

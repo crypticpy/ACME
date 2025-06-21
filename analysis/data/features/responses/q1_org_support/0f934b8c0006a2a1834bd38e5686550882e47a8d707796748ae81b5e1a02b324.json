@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for free and accessible art spaces",
+    "support for individual artists",
+    "concern over sustainability of artistic labor",
+    "preference for ongoing exhibitions over temporary events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Free spaces for art shows and ongoing exhibitions not just pop ups",
+    "funding for individuals not just non profits",
+    "make it even out with time, energy and earned income",
+    "we do it for the love of the art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free and ongoing exhibition spaces",
+    "limited funding for individual artists",
+    "imbalance between effort and financial return"
+  ],
+  "solutions_proposed": [
+    "provide free spaces for art shows and ongoing exhibitions",
+    "offer funding opportunities for individuals, not just nonprofits"
+  ],
+  "cached_at": "2025-06-20T01:15:08.986587",
+  "cache_key": "0f934b8c0006a2a1834bd38e5686550882e47a8d707796748ae81b5e1a02b324",
+  "model": "gpt-41"
+}

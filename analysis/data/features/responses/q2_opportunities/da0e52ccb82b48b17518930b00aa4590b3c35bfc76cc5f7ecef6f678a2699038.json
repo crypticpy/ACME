@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "public art installations",
+    "mosaic murals",
+    "local artistic identity",
+    "inspiration from other cities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "mosaic murals",
+    "like san antonios but austins style"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Create mosaic murals in Austin that reflect the city's unique style, inspired by San Antonio's examples"
+  ],
+  "cached_at": "2025-06-21T00:43:19.236303",
+  "cache_key": "da0e52ccb82b48b17518930b00aa4590b3c35bfc76cc5f7ecef6f678a2699038",
+  "model": "gpt-41"
+}

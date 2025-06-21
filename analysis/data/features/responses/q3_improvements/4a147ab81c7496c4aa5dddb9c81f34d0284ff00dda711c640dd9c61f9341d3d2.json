@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased awareness",
+    "community engagement",
+    "complexity of grant applications",
+    "accessibility of funding processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "more awareness",
+    "working with the community",
+    "demystify the grants or applications"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "complex or confusing grant/application process"
+  ],
+  "solutions_proposed": [
+    "increase awareness",
+    "work with the community",
+    "demystify the grants or applications"
+  ],
+  "cached_at": "2025-06-21T01:13:13.206020",
+  "cache_key": "4a147ab81c7496c4aa5dddb9c81f34d0284ff00dda711c640dd9c61f9341d3d2",
+  "model": "gpt-41"
+}

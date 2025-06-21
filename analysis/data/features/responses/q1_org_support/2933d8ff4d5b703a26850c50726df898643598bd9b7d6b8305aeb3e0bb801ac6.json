@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "financial accessibility for audiences",
+    "ticket price barriers",
+    "support for low-income participants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "supplement a pay what you can ticket option",
+    "people who can\u2019t afford full price"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford full price tickets"
+  ],
+  "solutions_proposed": [
+    "supplement a pay what you can ticket option"
+  ],
+  "cached_at": "2025-06-20T10:34:07.001297",
+  "cache_key": "2933d8ff4d5b703a26850c50726df898643598bd9b7d6b8305aeb3e0bb801ac6",
+  "model": "gpt-41"
+}

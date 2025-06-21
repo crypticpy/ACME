@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "cultural dominance",
+    "lack of inter-community engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "general cultural dominance",
+    "lack of crossover between communities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "general cultural dominance",
+    "lack of crossover between communities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:33.203653",
+  "cache_key": "14a9e270f310ea8a82646509cf203146af24ae0c21c75194eca93cff10b01978",
+  "model": "gpt-41"
+}

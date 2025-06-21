@@ -1,0 +1,42 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient operational funding for immigrant cultural organizations",
+    "reliance on volunteer labor",
+    "need for sustainable administrative support",
+    "underrepresentation of international and ethnic cultures in mainstream venues",
+    "limited visibility and opportunities for diverse cultural groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Limited Operational Funding",
+    "operate on tight budgets",
+    "rely heavily on volunteer efforts",
+    "significant need for consistent operational funding",
+    "support administrative costs, rent, staff, and marketing",
+    "essential for long-term sustainability",
+    "underrepresentation in mainstream venues and programming",
+    "do not adequately feature the rich array of international and ethnic cultural expressions",
+    "limits opportunities for these groups to showcase their art and reach a broader audience"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited operational funding",
+    "heavy reliance on volunteer efforts",
+    "lack of consistent funding for administrative costs, rent, staff, and marketing",
+    "underrepresentation in mainstream arts and entertainment venues and programming",
+    "limited opportunities for international and ethnic groups to showcase their art"
+  ],
+  "solutions_proposed": [
+    "provide consistent operational funding to support administrative costs, rent, staff, and marketing",
+    "increase representation of international and ethnic cultural expressions in mainstream venues and programming"
+  ],
+  "cached_at": "2025-06-21T01:48:22.412883",
+  "cache_key": "a8e8b74e49e5b39539ed0a4ae88b62afaa0c01d45cb0a2e88a0f22d436e928ad",
+  "model": "gpt-41"
+}

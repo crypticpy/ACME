@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underutilized community center",
+    "lack of time due to work",
+    "preference for science, art, and history over music",
+    "absence of significant barriers"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "My neighborhood doesn't have any barriers",
+    "we're too busy working",
+    "seemingly underutilized community center",
+    "I'd just like to see more emphasis put on science, art, & history versus music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "too busy working"
+  ],
+  "solutions_proposed": [
+    "more emphasis put on science, art, & history versus music"
+  ],
+  "cached_at": "2025-06-21T01:32:19.971120",
+  "cache_key": "4c6944612390b40dc9a232655db0dce149b8d926257c719d75ae80b41e3dfdc7",
+  "model": "gpt-41"
+}

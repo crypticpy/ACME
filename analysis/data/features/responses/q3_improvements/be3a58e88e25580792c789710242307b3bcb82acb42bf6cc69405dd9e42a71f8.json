@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist compensation",
+    "increasing paid opportunities",
+    "support for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more opportunities for artists to get paid"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient paid opportunities for artists"
+  ],
+  "solutions_proposed": [
+    "create more opportunities for artists to get paid"
+  ],
+  "cached_at": "2025-06-21T01:15:01.333052",
+  "cache_key": "be3a58e88e25580792c789710242307b3bcb82acb42bf6cc69405dd9e42a71f8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "gatekeeping by small groups",
+    "lack of equitable access to officials",
+    "barriers to authentic community engagement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "small loud group of interested people",
+    "monopolizing conversations",
+    "access to CMO",
+    "make access to high level officials available for everyone",
+    "true community engagement"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "monopolization of conversations by a small group",
+    "limited access to high level officials (CMO)",
+    "lack of inclusive community engagement"
+  ],
+  "solutions_proposed": [
+    "make access to high level officials available for everyone"
+  ],
+  "cached_at": "2025-06-21T01:23:36.354911",
+  "cache_key": "a533adb012292b2a8abd0153594a3d94a07d90798b3188d71494c3016bc4eae6",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "equity across creative industries",
+    "expansion of support programs",
+    "uncertainty about existing offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "programs that the City provides to support and preserve music venues",
+    "do they exist for other creative industries?",
+    "if not, then do that",
+    "if you do a few, do more"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "potential lack of support programs for non-music creative industries"
+  ],
+  "solutions_proposed": [
+    "create City support programs for other creative industries if they do not exist",
+    "expand the number of such programs if only a few exist"
+  ],
+  "cached_at": "2025-06-21T02:01:15.889619",
+  "cache_key": "a959a92750939baa54abbfa03a25d8b60e98119d94f41ba7dfddfe0355c26eba",
+  "model": "gpt-41"
+}

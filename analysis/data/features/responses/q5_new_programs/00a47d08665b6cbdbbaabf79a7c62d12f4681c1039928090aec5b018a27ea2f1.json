@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of representation at events",
+    "insufficient community knowledge about events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "people do not attend events",
+    "lack of representation",
+    "lack of knowledge"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of representation",
+    "lack of knowledge"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:59:59.527347",
+  "cache_key": "00a47d08665b6cbdbbaabf79a7c62d12f4681c1039928090aec5b018a27ea2f1",
+  "model": "gpt-41"
+}

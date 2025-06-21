@@ -1,0 +1,41 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for greater diversity among artists",
+    "lack of representation for artists of color",
+    "dominance of white, realism-focused artists",
+    "affordability and accessibility of art spaces",
+    "promotion of artists and art locations",
+    "support for artists from varied backgrounds and ages"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "amplify artists and known locations for the public to visit",
+    "make art spaces cheaper",
+    "make more space for unique, poc artists",
+    "a lot of the artists are white with realism",
+    "we need more variety",
+    "more ranges of ages and backgrounds"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of art spaces",
+    "lack of space for unique, poc artists",
+    "overrepresentation of white, realism artists",
+    "limited variety in artist backgrounds and ages"
+  ],
+  "solutions_proposed": [
+    "amplify artists and known locations for the public to visit",
+    "make art spaces cheaper",
+    "make more space for unique, poc artists",
+    "increase variety in artist backgrounds and ages"
+  ],
+  "cached_at": "2025-06-20T10:44:54.456942",
+  "cache_key": "08978937a7121308a76009f08c1f54ca35ae32671735f0c20fec83a132fee1ab",
+  "model": "gpt-41"
+}

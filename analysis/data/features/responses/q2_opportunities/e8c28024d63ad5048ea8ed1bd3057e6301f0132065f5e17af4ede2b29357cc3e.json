@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased representation of Iranian/Persian/Middle Eastern culture",
+    "interest in diverse art forms (art, poetry, music, film)",
+    "call for cultural diversity in Austin's arts scene"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Iranian/Persian/middle eastern art",
+    "poetry",
+    "music",
+    "film"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for Iranian/Persian/Middle Eastern art, poetry, music, and film"
+  ],
+  "cached_at": "2025-06-21T00:52:42.566432",
+  "cache_key": "e8c28024d63ad5048ea8ed1bd3057e6301f0132065f5e17af4ede2b29357cc3e",
+  "model": "gpt-41"
+}

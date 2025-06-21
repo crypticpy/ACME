@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of rehearsal and performance spaces",
+    "lack of accessible mid-size venues (200-500 seats)",
+    "need for fully equipped city facilities",
+    "abundance of artists but lack of venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More affordable rehearsal and theatrical performance space (200-500 seats)",
+    "Affordable, fully equipped city facilities (lights, sound & AV)",
+    "We have plenty of artists of every genre, but no place they can afford to perform"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of rehearsal and performance spaces",
+    "lack of affordable, fully equipped city facilities"
+  ],
+  "solutions_proposed": [
+    "create more affordable rehearsal and theatrical performance spaces (200-500 seats)",
+    "provide affordable, fully equipped city facilities with lights, sound & AV"
+  ],
+  "cached_at": "2025-06-21T00:44:19.973553",
+  "cache_key": "f92cc8f399a1c2bad0684d2ef8c4a803bd06f7fb09d21882c01238c0be17affc",
+  "model": "gpt-41"
+}

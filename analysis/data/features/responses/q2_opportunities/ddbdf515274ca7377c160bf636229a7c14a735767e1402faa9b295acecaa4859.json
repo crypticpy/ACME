@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for mid-level funding opportunities",
+    "Bridging the gap between emerging and established creatives",
+    "Scaling grants with organizational growth",
+    "Revamping existing public art programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Scaled opportunities to cover the gap between emerging and established creatives/organizations",
+    "AIPP projects with mid-sized budgets",
+    "a revamp of TEMPO",
+    "grants that scale as the organization and impact grows to build capacity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP",
+    "TEMPO"
+  ],
+  "barriers_identified": [
+    "Gap between emerging and established creatives/organizations",
+    "Lack of mid-sized budget opportunities"
+  ],
+  "solutions_proposed": [
+    "Create scaled opportunities for mid-level creatives/organizations",
+    "Introduce AIPP projects with mid-sized budgets",
+    "Revamp the TEMPO program",
+    "Offer grants that scale as the organization and impact grows"
+  ],
+  "cached_at": "2025-06-21T00:43:08.565847",
+  "cache_key": "ddbdf515274ca7377c160bf636229a7c14a735767e1402faa9b295acecaa4859",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of program awareness",
+    "need for improved outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More awareness of these programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "low public awareness of programs"
+  ],
+  "solutions_proposed": [
+    "increase awareness of these programs"
+  ],
+  "cached_at": "2025-06-21T01:03:28.237373",
+  "cache_key": "74b8e6fa34f9d960f241569812320ae534e5c64aef9008423911a429a46afd2c",
+  "model": "gpt-41"
+}

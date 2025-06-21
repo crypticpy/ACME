@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "preservation of small and medium venues",
+    "concern for venue sustainability",
+    "support for local cultural infrastructure"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "please keep the small and medium sized venues alive"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "threat to survival of small and medium venues"
+  ],
+  "solutions_proposed": [
+    "keep the small and medium sized venues alive"
+  ],
+  "cached_at": "2025-06-21T00:28:16.061559",
+  "cache_key": "cc60389fd8a071e4bc1f88e19313b05000a6c8abbedfeecc8e7b5a18ced56ab4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant process transparency",
+    "feedback for unsuccessful applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Grant feedback if denied"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of feedback for denied grant applications"
+  ],
+  "solutions_proposed": [
+    "Provide feedback to applicants whose grants are denied"
+  ],
+  "cached_at": "2025-06-21T02:00:12.381672",
+  "cache_key": "d1c3b1792720d36fb8cfe666af71c0d9cd4a415c99edac2c4bf14fa7ee06676d",
+  "model": "gpt-41"
+}

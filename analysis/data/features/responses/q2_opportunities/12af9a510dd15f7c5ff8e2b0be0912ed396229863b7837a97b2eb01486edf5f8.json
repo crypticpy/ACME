@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "food-based cultural opportunities",
+    "historical programming",
+    "freedom of expression in the arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Food",
+    "history",
+    "freedom of expression"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:49:57.221397",
+  "cache_key": "12af9a510dd15f7c5ff8e2b0be0912ed396229863b7837a97b2eb01486edf5f8",
+  "model": "gpt-41"
+}

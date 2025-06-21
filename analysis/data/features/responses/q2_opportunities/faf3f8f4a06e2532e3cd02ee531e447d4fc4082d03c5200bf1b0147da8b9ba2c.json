@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "curation quality",
+    "affordability of arts experiences",
+    "accessibility through free events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "well curated arts experiences",
+    "affordable or free"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of participation"
+  ],
+  "solutions_proposed": [
+    "offer well curated arts experiences that are affordable or free"
+  ],
+  "cached_at": "2025-06-21T00:37:53.572305",
+  "cache_key": "faf3f8f4a06e2532e3cd02ee531e447d4fc4082d03c5200bf1b0147da8b9ba2c",
+  "model": "gpt-41"
+}

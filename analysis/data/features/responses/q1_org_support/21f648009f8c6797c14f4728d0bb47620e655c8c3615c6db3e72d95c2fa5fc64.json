@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration among organizations",
+    "shared goal setting",
+    "coalition building"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "form a coalition",
+    "build a set of shared goals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "form a coalition",
+    "build a set of shared goals"
+  ],
+  "cached_at": "2025-06-20T10:27:24.264484",
+  "cache_key": "21f648009f8c6797c14f4728d0bb47620e655c8c3615c6db3e72d95c2fa5fc64",
+  "model": "gpt-41"
+}

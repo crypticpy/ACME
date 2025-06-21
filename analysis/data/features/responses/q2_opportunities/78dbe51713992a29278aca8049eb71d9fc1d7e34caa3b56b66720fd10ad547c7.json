@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more classical music",
+    "limited classical music opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More classical music opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more classical music opportunities"
+  ],
+  "cached_at": "2025-06-21T00:27:46.900360",
+  "cache_key": "78dbe51713992a29278aca8049eb71d9fc1d7e34caa3b56b66720fd10ad547c7",
+  "model": "gpt-41"
+}

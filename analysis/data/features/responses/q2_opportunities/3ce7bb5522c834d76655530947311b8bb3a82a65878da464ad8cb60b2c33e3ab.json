@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in Latino cultural events",
+    "desire for resource-focused festivals",
+    "support for arts festivals"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Latino Fest",
+    "resources fest",
+    "arts fest"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Latino Fest"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more Latino Fest",
+    "more resources fest",
+    "more arts fest"
+  ],
+  "cached_at": "2025-06-21T00:25:19.666239",
+  "cache_key": "3ce7bb5522c834d76655530947311b8bb3a82a65878da464ad8cb60b2c33e3ab",
+  "model": "gpt-41"
+}

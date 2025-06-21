@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging artists",
+    "grant writing education",
+    "access to funding information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "teaching emerging artists",
+    "grant writing",
+    "funding sources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge about grant writing",
+    "limited awareness of funding sources"
+  ],
+  "solutions_proposed": [
+    "teaching emerging artists about grant writing",
+    "educating about funding sources"
+  ],
+  "cached_at": "2025-06-21T01:54:28.829881",
+  "cache_key": "d07f7436dce12b004f0a7dfe27066f8293ce740701321777196292d5a5bc33e8",
+  "model": "gpt-41"
+}

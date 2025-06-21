@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of personal experience with services",
+    "uncertainty about eligibility to respond",
+    "non-engagement with cultural support systems"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "I don't feel equipped to answer this",
+    "I have never applied for these services"
+  ],
+  "intent": "disclosure_of_nonparticipation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:22.631554",
+  "cache_key": "6b68e0612e769fed42b7a8ce9f41ef8d8bbe8d4f7e08b4a2efcc04ecf4175d36",
+  "model": "gpt-41"
+}

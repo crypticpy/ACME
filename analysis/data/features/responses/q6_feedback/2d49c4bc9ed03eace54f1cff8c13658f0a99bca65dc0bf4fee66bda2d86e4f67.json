@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of local artists in decision making",
+    "community-informed policy",
+    "representation in cultural funding processes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "be informed by",
+    "include the local artist community",
+    "in your decision making"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of local artist inclusion in decision making"
+  ],
+  "solutions_proposed": [
+    "be informed by and include the local artist community in your decision making"
+  ],
+  "cached_at": "2025-06-21T02:11:22.772466",
+  "cache_key": "2d49c4bc9ed03eace54f1cff8c13658f0a99bca65dc0bf4fee66bda2d86e4f67",
+  "model": "gpt-41"
+}

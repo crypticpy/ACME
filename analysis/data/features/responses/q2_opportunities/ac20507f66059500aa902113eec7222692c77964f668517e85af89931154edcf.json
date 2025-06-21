@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more open air events",
+    "interest in live music experiences",
+    "preference for nature-integrated cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Open air events",
+    "Strings in the woods - Will Taylor"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Strings in the woods"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More open air events like Strings in the woods"
+  ],
+  "cached_at": "2025-06-21T00:44:21.207384",
+  "cache_key": "ac20507f66059500aa902113eec7222692c77964f668517e85af89931154edcf",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of Black music festivals",
+    "desire for more theatre programming",
+    "interest in heritage-focused events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Black music festivals",
+    "Theatre",
+    "heritage"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer Black music festivals",
+    "Increase theatre programming",
+    "Provide more heritage-related programs"
+  ],
+  "cached_at": "2025-06-21T01:52:51.599390",
+  "cache_key": "30c9190d00f711126db71310d5c1c64628ff1e03bdc8220382cd7a65e0f7d580",
+  "model": "gpt-41"
+}

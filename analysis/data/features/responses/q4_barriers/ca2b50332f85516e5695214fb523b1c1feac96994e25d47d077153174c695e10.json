@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to cultural participation"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "just financial"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:10.811164",
+  "cache_key": "ca2b50332f85516e5695214fb523b1c1feac96994e25d47d077153174c695e10",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of legitimacy",
+    "insufficient funding access",
+    "limited community support",
+    "inaccessible growth spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Legitimacy",
+    "access to funding",
+    "community support",
+    "accessible spaces for growth"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of legitimacy",
+    "limited access to funding",
+    "insufficient community support",
+    "lack of accessible spaces for growth"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:47.857574",
+  "cache_key": "bc07fb71ba0f04376f67382ced0bed1c91964458c47b342bd4ae5a6076e71fd3",
+  "model": "gpt-41"
+}

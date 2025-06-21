@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "substantive inclusion in policy-making",
+    "equity-informed decision-making",
+    "overrepresentation of legacy organizations",
+    "historical inequities in city processes",
+    "broadening participation of Austin's artistic community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "substantive inclusion by representatives of creative organizations",
+    "equity-informed policy decisions",
+    "identifying some ('legacy') organizations that may have outsize influence",
+    "ensuring that a larger number of representatives of the Austin artistic community can participate",
+    "correcting historical inequities that the city participated in perpetuating"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "outsize influence of legacy organizations due to greater resources",
+    "historical inequities perpetuated by the city",
+    "limited participation of broader artistic community"
+  ],
+  "solutions_proposed": [
+    "substantive inclusion by representatives of creative organizations in crafting policies and program details",
+    "ensuring a larger number of representatives from the Austin artistic community can participate"
+  ],
+  "cached_at": "2025-06-20T01:23:36.263556",
+  "cache_key": "17a13ddaa5b7d2dfedcc6978109d4d122d815253fd7366c29b5464abd906999e",
+  "model": "gpt-41"
+}

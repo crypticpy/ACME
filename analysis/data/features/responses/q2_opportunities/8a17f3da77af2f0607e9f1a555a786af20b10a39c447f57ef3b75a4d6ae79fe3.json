@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased theater opportunities",
+    "equity for local performers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More theater opportunities",
+    "Equity opportunities for local performers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equity opportunities for local performers"
+  ],
+  "solutions_proposed": [
+    "provide more theater opportunities",
+    "increase equity opportunities for local performers"
+  ],
+  "cached_at": "2025-06-21T00:51:53.293711",
+  "cache_key": "8a17f3da77af2f0607e9f1a555a786af20b10a39c447f57ef3b75a4d6ae79fe3",
+  "model": "gpt-41"
+}

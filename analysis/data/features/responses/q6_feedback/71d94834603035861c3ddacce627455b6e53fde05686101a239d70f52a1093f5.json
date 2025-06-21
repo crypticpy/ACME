@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "representation of Asian communities",
+    "alignment of programming with demographics",
+    "cultural inclusivity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Encourage more Asia-centric events",
+    "consistent with the 20% Asian population in Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of Asia-centric events"
+  ],
+  "solutions_proposed": [
+    "Encourage more Asia-centric events consistent with the 20% Asian population in Austin"
+  ],
+  "cached_at": "2025-06-21T02:14:33.432179",
+  "cache_key": "71d94834603035861c3ddacce627455b6e53fde05686101a239d70f52a1093f5",
+  "model": "gpt-41"
+}

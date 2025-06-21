@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of opportunities for older visual artists",
+    "perceived exclusion of white, heterosexual artists",
+    "resentment over grant distribution practices",
+    "struggles with poverty among long-time artists",
+    "frustration with equity-driven funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More opportunities for visual artists!",
+    "Including older, 'mature', hetero, (and dare I even say the word WHITE?) artists",
+    "struggling along in near poverty for decades",
+    "watching grants and opportunities being handed out to make up for past sins",
+    "the supposed goodies that I never got"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding opportunities for older, white, heterosexual artists",
+    "perceived bias in grant distribution",
+    "long-term poverty among certain artist demographics"
+  ],
+  "solutions_proposed": [
+    "increase opportunities for visual artists from underrepresented (in this context, older, white, heterosexual) groups"
+  ],
+  "cached_at": "2025-06-21T00:28:57.056145",
+  "cache_key": "e2f0317b53d8e1b9097550806311b4933747feb991def5718e23564c379793cd",
+  "model": "gpt-41"
+}

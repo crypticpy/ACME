@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility for creatives with dependents",
+    "need for more open calls",
+    "inclusion of caregivers in opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "more open calls",
+    "opportunities for creatives with dependents",
+    "children, elderly, ect"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of opportunities for creatives with dependents"
+  ],
+  "solutions_proposed": [
+    "more open calls with opportunities for creatives with dependents"
+  ],
+  "cached_at": "2025-06-21T01:17:12.079219",
+  "cache_key": "bed37cbb9e82ad1edd5e724432d4a29154995306595ccbb8dab22f949da8c042",
+  "model": "gpt-41"
+}

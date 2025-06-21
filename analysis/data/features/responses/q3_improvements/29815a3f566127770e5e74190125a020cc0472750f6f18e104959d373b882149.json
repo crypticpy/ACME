@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued funding for cultural programs",
+    "support for artistic production",
+    "focus on endangered communities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Continue to fund them",
+    "Continue to support the artistic production by and for endangered communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continue to fund them",
+    "Continue to support the artistic production by and for endangered communities"
+  ],
+  "cached_at": "2025-06-21T00:54:46.615270",
+  "cache_key": "29815a3f566127770e5e74190125a020cc0472750f6f18e104959d373b882149",
+  "model": "gpt-41"
+}

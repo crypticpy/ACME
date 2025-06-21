@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for unrestricted funding",
+    "flexibility in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Unrestricted funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "restricted funding limits flexibility"
+  ],
+  "solutions_proposed": [
+    "Provide unrestricted funding"
+  ],
+  "cached_at": "2025-06-21T00:41:46.811403",
+  "cache_key": "963aba4f984028df7683af8b4e0b931aa9f295ebca9c4642cd0e8d965378cfcd",
+  "model": "gpt-41"
+}

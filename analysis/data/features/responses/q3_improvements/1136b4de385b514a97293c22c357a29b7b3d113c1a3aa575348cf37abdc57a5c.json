@@ -1,0 +1,51 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for foundational/infrastructure support",
+    "return of CSAP program",
+    "support for service providers and space access",
+    "more frequent Nexus cycles",
+    "diversity and training of panelists",
+    "cross-sector alignment (health, housing, transit)",
+    "distinction between event funding and year-round sustainability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin hasn\u2019t resolved its cultural infrastructure crisis",
+    "CSAP must return",
+    "foundational support for those providing space and services",
+    "Funding should focus *only* on events but also on sustaining the people and places",
+    "More support for service providers and space access",
+    "Frequent Nexus cycles to keep emerging work fresh and relevant",
+    "Better-trained, more diverse panelists for equitable decision-making",
+    "Stronger alignment with non-arts sectors (health, housing, transit) to expand impact and funding sources",
+    "Events are the outcome\u2014not the foundation"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CSAP",
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "lack of foundational support for infrastructure",
+    "insufficient support for service providers and space access",
+    "infrequent Nexus cycles",
+    "lack of diversity and training among panelists",
+    "insufficient alignment with non-arts sectors"
+  ],
+  "solutions_proposed": [
+    "Return CSAP program",
+    "Increase support for service providers and space access",
+    "Implement more frequent Nexus cycles",
+    "Improve training and diversity of panelists",
+    "Align funding programs with non-arts sectors (health, housing, transit)",
+    "Invest in sustaining people and places that enable year-round programming"
+  ],
+  "cached_at": "2025-06-21T00:55:43.898435",
+  "cache_key": "1136b4de385b514a97293c22c357a29b7b3d113c1a3aa575348cf37abdc57a5c",
+  "model": "gpt-41"
+}

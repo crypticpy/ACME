@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of established organizations",
+    "financial obligations (rent and payroll)",
+    "track record and public engagement",
+    "critique of funding for one-off projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "stronger focus on established entities",
+    "rent and payroll obligations",
+    "proven track record of successfully showcasing events open to the public",
+    "rather than paying individuals for one off projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for organizations with ongoing financial obligations"
+  ],
+  "solutions_proposed": [
+    "focus funding on established entities with proven track records and ongoing financial obligations"
+  ],
+  "cached_at": "2025-06-20T10:40:13.179850",
+  "cache_key": "b174a03fb21ada7baf6f570193bd76f382ae2f3f8edbdb5061a2a4afd0c54608",
+  "model": "gpt-41"
+}

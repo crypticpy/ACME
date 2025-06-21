@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "High cost of tickets and admission",
+    "Limited availability of event tickets",
+    "Need for more accessible public performances"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Ticket prices are out of control",
+    "usually sold out in minutes",
+    "Admission to museums is high",
+    "Need to have more public performances"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "High ticket prices",
+    "Events selling out quickly",
+    "High museum admission fees"
+  ],
+  "solutions_proposed": [
+    "Have more public performances"
+  ],
+  "cached_at": "2025-06-21T01:44:43.371609",
+  "cache_key": "6910bfbe2e782505ac0482bf987d8e7ceff26a7cf53a8fd72dcb3782e7e78ab7",
+  "model": "gpt-41"
+}

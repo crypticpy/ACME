@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to access",
+    "affordability of cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Cost of tickets/entry"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Cost of tickets/entry"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:10.684949",
+  "cache_key": "06e6e336ea3bd96ecb1f8da41eb60c9a7259c12c4d6b31615b76abce083e0a49",
+  "model": "gpt-41"
+}

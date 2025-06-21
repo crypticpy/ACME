@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "bureaucratic obstacles",
+    "administrative inefficiency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Cut out the red tape"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "red tape"
+  ],
+  "solutions_proposed": [
+    "Cut out the red tape"
+  ],
+  "cached_at": "2025-06-21T02:21:14.944783",
+  "cache_key": "98ab67e9d9b2f3c25094d3c5d517027b979a38e2a67ae3e2f7f87ef4332eceb3",
+  "model": "gpt-41"
+}

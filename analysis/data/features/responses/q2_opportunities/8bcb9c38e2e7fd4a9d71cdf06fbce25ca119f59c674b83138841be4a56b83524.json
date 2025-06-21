@@ -1,0 +1,40 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of venue spaces",
+    "need for increased grant funding",
+    "access to professional development for artists",
+    "legal and tax support for artists and small businesses",
+    "art as a tool for political advocacy and education"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More affordable venue spaces",
+    "More grant funding",
+    "Free artist professional development classes, workshops",
+    "Legal and tax support for independent artists and small businesses",
+    "events that provide community members tools + education on how to use art for political advocacy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unaffordable venue spaces",
+    "insufficient grant funding",
+    "lack of access to professional development",
+    "lack of legal and tax support for independent artists and small businesses"
+  ],
+  "solutions_proposed": [
+    "provide more affordable venue spaces",
+    "increase grant funding",
+    "offer free artist professional development classes and workshops",
+    "offer legal and tax support for independent artists and small businesses",
+    "host cultural arts and entertainment events that educate on art for political advocacy"
+  ],
+  "cached_at": "2025-06-21T00:29:39.783612",
+  "cache_key": "8bcb9c38e2e7fd4a9d71cdf06fbce25ca119f59c674b83138841be4a56b83524",
+  "model": "gpt-41"
+}

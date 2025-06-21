@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "importance of legacy organizations",
+    "role of organizations in supporting arts community",
+    "concern about recognition and support for established entities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "do not discount the legacy organizations",
+    "KMFA 89.5",
+    "help to uplift the rest of the arts community",
+    "venue space and promotional assistance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "KMFA 89.5"
+  ],
+  "barriers_identified": [
+    "potential lack of recognition or support for legacy organizations"
+  ],
+  "solutions_proposed": [
+    "do not discount the legacy organizations like KMFA 89.5"
+  ],
+  "cached_at": "2025-06-21T02:16:35.408911",
+  "cache_key": "294f0008ae179d1a308626ad6e9448d8f37907d4050942f7bb3de6450707e8a5",
+  "model": "gpt-41"
+}

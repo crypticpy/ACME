@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of Caribbean culture",
+    "focus on Latino Caribbean islands",
+    "cultural diversity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Caribbean Culture",
+    "latino islands"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of Caribbean culture representation",
+    "underrepresentation of Latino islands"
+  ],
+  "solutions_proposed": [
+    "offer programs focused on Caribbean Culture",
+    "increase representation of Latino islands"
+  ],
+  "cached_at": "2025-06-21T01:58:15.135849",
+  "cache_key": "1a89146e89cc27b9024ab7dd9349b2217018e4faac8bbf049cee69ce89ac09a0",
+  "model": "gpt-41"
+}

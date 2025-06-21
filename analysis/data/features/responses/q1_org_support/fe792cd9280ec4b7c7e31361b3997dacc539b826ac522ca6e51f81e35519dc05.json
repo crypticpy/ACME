@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Impact of Austin's high cost of living on cultural organizations",
+    "Limitations of grant funding as a long-term solution",
+    "Need for structural or policy change to reduce reliance on city funding",
+    "Importance of connecting artists to corporate partnerships",
+    "Value of financial education and workshops for artists",
+    "Emphasis on understanding artists' specific needs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin's cost of living affects venue fees, paying staff, insurance",
+    "Providing grants is only a band-aid",
+    "building a foundations and pushing policy that wont require financial support from the city",
+    "Changes that lower the cost of living",
+    "connect local artists to corporate partnerships",
+    "financial workshops",
+    "see what other artists need"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Austin's high cost of living",
+    "High venue fees",
+    "Difficulty paying staff",
+    "Insurance costs"
+  ],
+  "solutions_proposed": [
+    "Building foundations and pushing policy that won't require financial support from the city",
+    "Changes that lower the cost of living",
+    "Connecting local artists to corporate partnerships",
+    "Providing financial workshops",
+    "Assessing what other artists need"
+  ],
+  "cached_at": "2025-06-20T10:33:54.981397",
+  "cache_key": "fe792cd9280ec4b7c7e31361b3997dacc539b826ac522ca6e51f81e35519dc05",
+  "model": "gpt-41"
+}

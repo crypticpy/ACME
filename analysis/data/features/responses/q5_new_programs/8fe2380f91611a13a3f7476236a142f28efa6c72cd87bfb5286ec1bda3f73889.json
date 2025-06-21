@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for sustainable funding",
+    "support for artists",
+    "support for art organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "long-term funding",
+    "artists and art organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of long-term funding"
+  ],
+  "solutions_proposed": [
+    "provide long-term funding for artists and art organizations"
+  ],
+  "cached_at": "2025-06-21T02:02:00.665335",
+  "cache_key": "8fe2380f91611a13a3f7476236a142f28efa6c72cd87bfb5286ec1bda3f73889",
+  "model": "gpt-41"
+}

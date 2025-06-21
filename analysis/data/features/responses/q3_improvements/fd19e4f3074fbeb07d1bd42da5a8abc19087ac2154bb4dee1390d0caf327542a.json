@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Discomfort with public grant vetting panels",
+    "Transparency versus respect in grant evaluation",
+    "Progressive taxation for arts funding",
+    "Funding for low/no-cost arts programming",
+    "Tax policy as a tool for cultural support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "public vetting of arts grants is...an uncomfortable arrangement",
+    "I'm all for transparency, but the idea of a public panel shitting all over applicants is unseemly",
+    "additional sales tax affixed to ticket prices for seats over $100",
+    "used to fund additional low to no cost arts programming",
+    "increase in the hotel occupancy tax",
+    "additional slew of parking taxes",
+    "additional measure of property tax assigned to properties worth more than $750,000"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Uncomfortable and potentially disrespectful public grant evaluation process"
+  ],
+  "solutions_proposed": [
+    "Reform public vetting of arts grants to be less uncomfortable/unseemly",
+    "Implement additional sales tax on high-priced event tickets to fund arts programming",
+    "Increase hotel occupancy tax for arts funding",
+    "Add parking taxes (private lot and valet) to support arts",
+    "Assign additional property tax to high-value properties to fund arts and culture"
+  ],
+  "cached_at": "2025-06-21T00:54:15.282735",
+  "cache_key": "fd19e4f3074fbeb07d1bd42da5a8abc19087ac2154bb4dee1390d0caf327542a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased fine arts offerings"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More fine arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase fine arts opportunities"
+  ],
+  "cached_at": "2025-06-21T00:30:46.388478",
+  "cache_key": "c6dbc1f6c23e4057f6f4c33fdf7987f8b00c84b6356a919ef2c0878f11255123",
+  "model": "gpt-41"
+}

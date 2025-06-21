@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "real estate affordability",
+    "barriers to property ownership",
+    "impact of rising costs on cultural businesses"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "More funding to secure real estate",
+    "rent is our #1 obstacle",
+    "We would love to buy but prices rise faster than we can save"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent",
+    "rapidly rising real estate prices",
+    "inability to save fast enough to purchase property"
+  ],
+  "solutions_proposed": [
+    "more funding to secure real estate"
+  ],
+  "cached_at": "2025-06-20T01:17:00.455326",
+  "cache_key": "8056ef293a79ba5ed5a4b147aa44f3adb0d5b9f1be819667ea592a305873c03c",
+  "model": "gpt-41"
+}

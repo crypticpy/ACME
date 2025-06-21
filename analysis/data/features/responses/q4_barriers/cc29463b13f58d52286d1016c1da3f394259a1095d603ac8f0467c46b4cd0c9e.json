@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "conflict between venues and arts/musicians",
+    "competition for support/resources",
+    "need for unity or collaboration"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Venues are constantly pitted against the 'arts' and musicians",
+    "This has to stop"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "venues being positioned in opposition to arts and musicians"
+  ],
+  "solutions_proposed": [
+    "stop pitting venues against the arts and musicians"
+  ],
+  "cached_at": "2025-06-21T01:45:03.413332",
+  "cache_key": "cc29463b13f58d52286d1016c1da3f394259a1095d603ac8f0467c46b4cd0c9e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for large scale public art",
+    "interest in sculpture installations"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More large scale art",
+    "More sculpture"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase large scale art",
+    "Increase sculpture"
+  ],
+  "cached_at": "2025-06-21T00:31:38.376724",
+  "cache_key": "3aaa27ede04c17d3209784b323961b728c386f8ef427401eae88273e2009a0b4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "paid opportunities for teens",
+    "youth engagement in the arts",
+    "internship programs",
+    "expansion of existing models"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More paid teen internship programs",
+    "like Caminos"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Caminos"
+  ],
+  "barriers_identified": [
+    "lack of paid teen internship programs"
+  ],
+  "solutions_proposed": [
+    "increase paid teen internship programs modeled after Caminos"
+  ],
+  "cached_at": "2025-06-21T00:46:28.077323",
+  "cache_key": "67bef4ef0745a0f8c554d7254005f0ce31b8a0c4df00ffcf2118cd9c592d5495",
+  "model": "gpt-41"
+}

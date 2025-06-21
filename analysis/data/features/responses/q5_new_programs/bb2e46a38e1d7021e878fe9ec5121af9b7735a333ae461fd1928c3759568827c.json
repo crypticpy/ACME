@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for centralized event information",
+    "visibility challenges for small organizations",
+    "lack of professional marketing resources",
+    "difficulty with cost-effective advertising"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "provide an attractive easily found calendar of events",
+    "many small organizations do not have professional marketing staff",
+    "hard to reach people with cost effective advertising like social media"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of professional marketing staff",
+    "difficulty reaching people with cost effective advertising",
+    "absence of a centralized calendar of events"
+  ],
+  "solutions_proposed": [
+    "provide an attractive easily found calendar of events in Austin that you support or that meet your requirements even when you don't have funds available to support them"
+  ],
+  "cached_at": "2025-06-21T01:57:26.497235",
+  "cache_key": "bb2e46a38e1d7021e878fe9ec5121af9b7735a333ae461fd1928c3759568827c",
+  "model": "gpt-41"
+}

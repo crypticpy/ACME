@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of outreach by the city",
+    "insufficient awareness of cultural offerings",
+    "financial barriers to access",
+    "physical accessibility barriers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "not enough effort on the part of the city to reach out",
+    "make all communities aware of the multitude of offerings",
+    "not enough effort to make those offerings available to those with limited funds or physical access"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "insufficient city outreach",
+    "financial limitations",
+    "physical access limitations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:25:12.248958",
+  "cache_key": "d6a35964bfd919ba009384c4bb2ea0d6fbb43315d71548556297c33592db6478",
+  "model": "gpt-41"
+}

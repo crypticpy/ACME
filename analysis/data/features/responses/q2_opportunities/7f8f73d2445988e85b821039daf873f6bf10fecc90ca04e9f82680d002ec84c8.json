@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased African American cultural representation",
+    "interest in art and culture events",
+    "call for diversity in cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More African American art and culture events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More African American art and culture events"
+  ],
+  "cached_at": "2025-06-21T00:39:56.900981",
+  "cache_key": "7f8f73d2445988e85b821039daf873f6bf10fecc90ca04e9f82680d002ec84c8",
+  "model": "gpt-41"
+}

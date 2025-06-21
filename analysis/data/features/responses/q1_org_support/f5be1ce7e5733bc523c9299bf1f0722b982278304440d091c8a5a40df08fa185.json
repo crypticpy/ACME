@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "confusion about survey question",
+    "lack of clarity in communication"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Don't understand the question"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear survey question"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:23:38.959212",
+  "cache_key": "f5be1ce7e5733bc523c9299bf1f0722b982278304440d091c8a5a40df08fa185",
+  "model": "gpt-41"
+}

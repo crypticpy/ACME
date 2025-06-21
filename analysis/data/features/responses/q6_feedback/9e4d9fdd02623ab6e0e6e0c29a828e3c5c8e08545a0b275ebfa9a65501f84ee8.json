@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "optimism about new office's impact",
+    "need for streamlined opportunities for artists",
+    "urgency for new Dougherty Arts Center construction",
+    "improvement for DAC, MCP, and COA cultural divisions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "such a hopeful improvement for DAC and MCP",
+    "streamline offerings and opportunities for artists",
+    "PLEASE GET THE NEW DOUGHERTY BUILT!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "DAC",
+    "MCP",
+    "COA cultural divisions",
+    "Dougherty"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "build the new Dougherty Arts Center"
+  ],
+  "cached_at": "2025-06-21T02:18:00.540909",
+  "cache_key": "9e4d9fdd02623ab6e0e6e0c29a828e3c5c8e08545a0b275ebfa9a65501f84ee8",
+  "model": "gpt-41"
+}

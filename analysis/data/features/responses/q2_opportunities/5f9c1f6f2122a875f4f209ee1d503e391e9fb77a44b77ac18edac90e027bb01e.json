@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "aspiration for a thriving recording and music production arts scene",
+    "comparison with Nashville's music industry",
+    "recognition of local musical talent",
+    "desire for Austin to produce nationally recognized artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Thriving Recording and Music Production Arts scene",
+    "rivals the Nashville scene",
+    "Big names would come out of Austin",
+    "lots of talent here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:40:51.265356",
+  "cache_key": "5f9c1f6f2122a875f4f209ee1d503e391e9fb77a44b77ac18edac90e027bb01e",
+  "model": "gpt-41"
+}

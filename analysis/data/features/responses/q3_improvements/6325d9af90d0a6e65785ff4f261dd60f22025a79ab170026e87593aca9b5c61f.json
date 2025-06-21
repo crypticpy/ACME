@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding",
+    "broader distribution of resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more money for more people"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "limited access to funding"
+  ],
+  "solutions_proposed": [
+    "increase funding",
+    "expand funding access to more people"
+  ],
+  "cached_at": "2025-06-21T00:53:56.839268",
+  "cache_key": "6325d9af90d0a6e65785ff4f261dd60f22025a79ab170026e87593aca9b5c61f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,40 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding of organizations outside Austin/ETJ",
+    "grant restructuring favoring inexperienced groups",
+    "lack of focus on diverse audiences",
+    "concerns about stewardship of public funds",
+    "comparison to other major cities' funding policies",
+    "impact of funding decisions on artist retention"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "There needs to be more emphasis on diverse audiences, not just diverse staff.",
+    "The grant restructuring favored certain groups without a history of arts programming or track record of actually mentoring and supporting artists.",
+    "the grant programs were funding organizations outside the ETJ area, sending Austin tax dollars outside of our community.",
+    "This practice should be stopped immediately.",
+    "Major cities like Philadelphia, New York, and Chicago do not allow this.",
+    "this city needs to mature in its grant-giving.",
+    "we need to be better stewards of our limited funds."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding organizations outside the ETJ area",
+    "grant restructuring favoring groups without arts programming history",
+    "lack of emphasis on diverse audiences"
+  ],
+  "solutions_proposed": [
+    "stop funding organizations outside the ETJ area",
+    "place more emphasis on serving diverse audiences",
+    "improve stewardship and maturity in grant-giving"
+  ],
+  "cached_at": "2025-06-21T01:03:23.365014",
+  "cache_key": "20157c823cd14c4a2e6373f7307db69db31973d52b5a68dcc679bf979dbc52e0",
+  "model": "gpt-41"
+}

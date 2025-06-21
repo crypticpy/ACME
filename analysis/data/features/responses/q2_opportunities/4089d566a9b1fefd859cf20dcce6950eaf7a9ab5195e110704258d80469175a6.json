@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "local hiring and representation of people of color",
+    "competitive wages for cultural workers",
+    "updating and maintaining city-owned facilities",
+    "modernizing technology and equipment in recreation centers",
+    "maximizing use of existing neighborhood spaces",
+    "infrastructure improvements (outdoor pavilions, shade, parking)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "People of color producing and working events",
+    "hire locally, pay competitive wages",
+    "update City equipment, tech, and spaces to keep up with industry standards",
+    "The City owns many properties but lacks the funds and attention to keep the facilities up to date",
+    "Rec Centers could all be updated to have functioning tech",
+    "more usable spaces if the city-owned spaces were renovated",
+    "add performance pavillions outside, outdoor shade and better parking"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding and attention for facility maintenance",
+    "outdated city equipment and technology",
+    "limited usable spaces due to lack of renovation"
+  ],
+  "solutions_proposed": [
+    "hire locally and ensure people of color are producing and working events",
+    "pay competitive wages",
+    "update city equipment, technology, and spaces",
+    "renovate existing city-owned spaces rather than acquiring new venues",
+    "update Rec Centers to have functioning tech",
+    "add outdoor performance pavilions, shade, and better parking"
+  ],
+  "cached_at": "2025-06-21T00:40:57.077436",
+  "cache_key": "4089d566a9b1fefd859cf20dcce6950eaf7a9ab5195e110704258d80469175a6",
+  "model": "gpt-41"
+}

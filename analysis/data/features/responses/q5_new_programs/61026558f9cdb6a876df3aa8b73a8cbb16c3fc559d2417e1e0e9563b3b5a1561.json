@@ -1,0 +1,49 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging and independent artists",
+    "lack of access to gallery representation or formal networks",
+    "need for mentorship and professional development",
+    "affordable or subsidized creative spaces",
+    "business skills for artists",
+    "artist-in-residence and pop-up opportunities",
+    "promotion of cultural diversity and accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "support emerging and independent artists",
+    "without gallery representation or formal networks",
+    "mentorship opportunities",
+    "subsidized studio or exhibition space",
+    "workshops on navigating the business side of art",
+    "artist-in-residence programs",
+    "pop-up shows in public spaces",
+    "culturally diverse showcases",
+    "highlight underrepresented voices",
+    "make the arts more accessible across communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of gallery representation",
+    "absence of formal networks",
+    "limited access to affordable studio or exhibition space",
+    "insufficient business knowledge",
+    "underrepresentation of diverse voices"
+  ],
+  "solutions_proposed": [
+    "mentorship opportunities",
+    "subsidized studio or exhibition space",
+    "workshops on navigating the business side of art",
+    "artist-in-residence programs",
+    "pop-up shows in public spaces",
+    "culturally diverse showcases"
+  ],
+  "cached_at": "2025-06-21T02:09:21.757950",
+  "cache_key": "61026558f9cdb6a876df3aa8b73a8cbb16c3fc559d2417e1e0e9563b3b5a1561",
+  "model": "gpt-41"
+}

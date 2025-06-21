@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inconsistency in funding rules",
+    "unpredictability of city support",
+    "negative impact on artists and groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "consistency in rules/funding",
+    "the rug keeps being pulled out from under artists and groups",
+    "by the city of Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent rules and funding"
+  ],
+  "solutions_proposed": [
+    "increase consistency in rules and funding"
+  ],
+  "cached_at": "2025-06-21T02:14:58.122052",
+  "cache_key": "ce7163da86c52fecc3eff83c9a31b27ea9e9ea8d644ed07fcbd5f6576eb0080f",
+  "model": "gpt-41"
+}

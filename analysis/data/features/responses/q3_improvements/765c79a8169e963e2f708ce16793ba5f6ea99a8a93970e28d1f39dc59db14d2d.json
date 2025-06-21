@@ -1,0 +1,47 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived lack of research and understanding in funding decisions",
+    "Negative impacts of funding cuts on specific art forms (early music)",
+    "Consequences for artists' livelihoods and organizational survival",
+    "Concerns about the implementation and outcomes of DEI-focused funding",
+    "Loss of cultural diversity and fixtures in Austin",
+    "Need for broader and more informed decision-making panels",
+    "Poor communication and feedback from funding bodies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "funding was pulled from groups that represent important aspects of music and art",
+    "justification for pulling that funding felt barely researched",
+    "Ensemble VIII literally died",
+    "Large organizations that used to receive more funding have cut their season activity because they couldn't pay artists",
+    "Those funding cuts made a lasting impact on artists in Austin that relied on regular work",
+    "so poorly thought through in the name of supporting DEI",
+    "Cultural fixtures in Austin that actually do support DEI suffered",
+    "I think a wider lense is necessary when making funding decisions",
+    "feedback and questions that came back to orgs when they didn't receive funding were clearly ill-informed and sometimes downright embarrassing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Ensemble VIII",
+    "ACME"
+  ],
+  "barriers_identified": [
+    "Loss of funding for organizations representing diverse art forms and time periods",
+    "Funding decisions based on superficial assessments of diversity",
+    "Lack of informed decision-makers in funding process",
+    "Poor quality and embarrassing feedback from funding bodies",
+    "Reduced opportunities and income for artists"
+  ],
+  "solutions_proposed": [
+    "A wider lens is necessary when making funding decisions",
+    "More informed members making those decisions about the art on the table"
+  ],
+  "cached_at": "2025-06-21T01:03:10.419448",
+  "cache_key": "765c79a8169e963e2f708ce16793ba5f6ea99a8a93970e28d1f39dc59db14d2d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "centralized promotion of local arts",
+    "municipal support for art sales",
+    "visibility and marketing for local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "coordinated centralized promotion",
+    "city run stores for locally made art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of centralized promotion",
+    "limited retail opportunities for local art"
+  ],
+  "solutions_proposed": [
+    "coordinated centralized promotion",
+    "city run stores for locally made art"
+  ],
+  "cached_at": "2025-06-21T01:54:42.773837",
+  "cache_key": "b402db35263c61404fbe2474400b0de5674ee02532c2730ccef74910fd19365d",
+  "model": "gpt-41"
+}

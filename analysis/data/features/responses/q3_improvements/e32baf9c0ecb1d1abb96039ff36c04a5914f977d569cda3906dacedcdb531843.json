@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant criteria restrict artistic expression",
+    "misalignment between grant requirements and artists' authentic work",
+    "pressure to adapt art to funding demands"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "very particular in its demands",
+    "encouraging artists to craft work to suit the grant",
+    "rather than the grant trying to meet artists where their work may be most vital"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Nexus grant"
+  ],
+  "barriers_identified": [
+    "grant requirements force artists to alter their work"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:09:19.085154",
+  "cache_key": "e32baf9c0ecb1d1abb96039ff36c04a5914f977d569cda3906dacedcdb531843",
+  "model": "gpt-41"
+}

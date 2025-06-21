@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for ACME's direction",
+    "personal passion for cultural progress",
+    "affirmation of organizational change"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "I am heartened",
+    "taking this step",
+    "a direction I impassioned to move in"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:14:56.783562",
+  "cache_key": "24db935a4510bc41e594dc9e0a4630cf4cf19f8afddc6e3822a5bcee1a1a6b96",
+  "model": "gpt-41"
+}

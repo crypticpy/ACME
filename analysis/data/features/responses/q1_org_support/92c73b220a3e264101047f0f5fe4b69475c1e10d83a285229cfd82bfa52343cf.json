@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "systematic displacement of marginalized communities",
+    "gentrification's impact on artists and cultural participation",
+    "economic barriers to art-making and attendance",
+    "lack of institutional honesty about exclusion"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "systematically pushed out lower-income people",
+    "including artists, POC, and the disabled",
+    "gentrified neighborhoods so much",
+    "anyone without backup funding (trust fund, family money, wealthy spouse) can NOT prioritize art-making or attendance",
+    "be honest about the fact"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "systematic displacement of lower-income people",
+    "gentrification of neighborhoods",
+    "economic barriers for those without backup funding",
+    "exclusion of marginalized groups (artists, POC, disabled)"
+  ],
+  "solutions_proposed": [
+    "be honest about the fact that Austin has systematically pushed out lower-income people and gentrified neighborhoods"
+  ],
+  "cached_at": "2025-06-20T10:35:59.406129",
+  "cache_key": "92c73b220a3e264101047f0f5fe4b69475c1e10d83a285229cfd82bfa52343cf",
+  "model": "gpt-41"
+}

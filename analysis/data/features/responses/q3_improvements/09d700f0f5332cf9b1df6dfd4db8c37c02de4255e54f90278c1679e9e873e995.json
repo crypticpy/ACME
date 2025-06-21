@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Support local artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support local artists"
+  ],
+  "cached_at": "2025-06-21T00:58:16.750440",
+  "cache_key": "09d700f0f5332cf9b1df6dfd4db8c37c02de4255e54f90278c1679e9e873e995",
+  "model": "gpt-41"
+}

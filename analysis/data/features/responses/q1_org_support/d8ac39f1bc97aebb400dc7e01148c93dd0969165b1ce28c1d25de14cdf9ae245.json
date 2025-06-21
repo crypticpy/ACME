@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty affording venues",
+    "need for affordable, flexible spaces",
+    "reliance on private homes",
+    "public communication challenges"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "being able to afford a venue to meet, to learn, to practice, to share knowledge and works with the public has become very, very difficult",
+    "We've defaulted to member's homes",
+    "Venues and affordable as-needed spaces - not just leased studios would help a lot",
+    "ACME could likely also help us build improved communication to the public"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford venues",
+    "lack of affordable as-needed spaces",
+    "having to use members' homes instead of public venues"
+  ],
+  "solutions_proposed": [
+    "provide venues and affordable as-needed spaces (not just leased studios)",
+    "help build improved communication to the public"
+  ],
+  "cached_at": "2025-06-20T10:24:25.961614",
+  "cache_key": "d8ac39f1bc97aebb400dc7e01148c93dd0969165b1ce28c1d25de14cdf9ae245",
+  "model": "gpt-41"
+}

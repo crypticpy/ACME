@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accessibility of arts education",
+    "affordability of cultural opportunities",
+    "diversity of artistic venues",
+    "collaboration between organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more accessible, low cost classes",
+    "across all artistic venues",
+    "cross organization activities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessible, low cost classes"
+  ],
+  "solutions_proposed": [
+    "offer more accessible, low cost classes",
+    "increase cross organization activities"
+  ],
+  "cached_at": "2025-06-21T00:51:16.644330",
+  "cache_key": "1d5e0c6e5407f7267edcbe466a545df94c216a0795bde31cdea9dbbb676159ad",
+  "model": "gpt-41"
+}

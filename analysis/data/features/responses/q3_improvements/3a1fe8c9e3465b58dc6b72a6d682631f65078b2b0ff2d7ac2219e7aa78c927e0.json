@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding",
+    "support for existing programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More funding for existing programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for existing programs"
+  ],
+  "solutions_proposed": [
+    "increase funding for existing programs"
+  ],
+  "cached_at": "2025-06-21T01:13:56.813230",
+  "cache_key": "3a1fe8c9e3465b58dc6b72a6d682631f65078b2b0ff2d7ac2219e7aa78c927e0",
+  "model": "gpt-41"
+}

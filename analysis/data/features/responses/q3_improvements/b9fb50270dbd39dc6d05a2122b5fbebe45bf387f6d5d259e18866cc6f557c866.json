@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "intentional outreach to Black and Brown-led organizations",
+    "decolonizing application processes",
+    "flexibility in application formats (video submissions)",
+    "application requirements as barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "inform black and brown led organizations more intentionally",
+    "decolonize your process",
+    "why can't they submit a video",
+    "stop making the requirements a barrier to applying"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of intentional outreach to Black and Brown-led organizations",
+    "restrictive application requirements",
+    "inability to submit video applications"
+  ],
+  "solutions_proposed": [
+    "inform Black and Brown-led organizations more intentionally about the programs",
+    "decolonize the application process",
+    "allow video submissions",
+    "reduce or remove requirements that act as barriers to applying"
+  ],
+  "cached_at": "2025-06-21T01:02:17.233593",
+  "cache_key": "b9fb50270dbd39dc6d05a2122b5fbebe45bf387f6d5d259e18866cc6f557c866",
+  "model": "gpt-41"
+}

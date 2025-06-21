@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "generosity of grant programs",
+    "direct support for established artists",
+    "support for venues"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "grant programs are a very generous way",
+    "directly support the work of Austin established artists and venues"
+  ],
+  "intent": "affirmation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:43:10.067017",
+  "cache_key": "a398edecccf60306ee10246be0ae3a53e616aed2dfe3e54d5920ba14f669db7b",
+  "model": "gpt-41"
+}

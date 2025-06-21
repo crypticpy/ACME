@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for free events",
+    "interest in unique event offerings",
+    "need for increased event awareness"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Free events",
+    "unique events",
+    "more awareness of events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of events",
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "offer more free events",
+    "provide more unique events",
+    "increase awareness of events"
+  ],
+  "cached_at": "2025-06-21T00:29:02.678139",
+  "cache_key": "0d8be7feeb7df07f1020a88f04c0cb75cc1f37bd6606a07d15f0fa9f26ecce6c",
+  "model": "gpt-41"
+}

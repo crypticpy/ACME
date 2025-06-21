@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about focus on immutable traits in funding",
+    "advocacy for merit-based grant allocation",
+    "perceived impact on audience experience"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Stop focusing on immutable traits",
+    "give grants to the most talented",
+    "The audience wins!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding decisions based on immutable traits"
+  ],
+  "solutions_proposed": [
+    "allocate grants based on talent rather than immutable traits"
+  ],
+  "cached_at": "2025-06-21T00:59:12.024844",
+  "cache_key": "ae356a90d4d546f0821da2a1da1ad7fe65842c20a6d7c4c86e1b836563c3d0c8",
+  "model": "gpt-41"
+}

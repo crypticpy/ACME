@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "youth engagement in the arts",
+    "literary arts opportunities",
+    "performance opportunities for young people"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "youth centered",
+    "literary arts",
+    "performance opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase youth centered literary arts and performance opportunities"
+  ],
+  "cached_at": "2025-06-21T00:47:06.710960",
+  "cache_key": "5bf1f8b4fe94777b6063cdd088afdf4ed64cd79fa6bea3397a12dfb5dfe20c07",
+  "model": "gpt-41"
+}

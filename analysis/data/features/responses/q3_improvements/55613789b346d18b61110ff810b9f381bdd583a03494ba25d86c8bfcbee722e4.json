@@ -1,0 +1,27 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of historically ignored artists",
+    "negative impact on legacy organizations",
+    "feelings of desertion and desperation among established groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "historically ignored artists a priority",
+    "legacy orgs feeling deserted and desperate"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "legacy organizations feeling deserted",
+    "legacy organizations feeling desperate"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:16:22.771100",
+  "cache_key": "55613789b346d18b61110ff810b9f381bdd583a03494ba25d86c8bfcbee722e4",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in street art",
+    "desire for pop-up performances",
+    "support for performances in unconventional spaces"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Street art",
+    "pop-up performances",
+    "performances in unconventional spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More street art",
+    "More pop-up performances",
+    "More performances in unconventional spaces"
+  ],
+  "cached_at": "2025-06-21T00:33:05.749934",
+  "cache_key": "106f8cd844b42aab17652f9d21aa367f7d0315f41feb67a8eb560f02f8a11157",
+  "model": "gpt-41"
+}

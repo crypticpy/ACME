@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "continued financial support",
+    "support for specific organizations",
+    "recognition of Oro Dance Company"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Continued financial support",
+    "organizations like Oro Dance Company"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro Dance Company"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Continued financial support for organizations like Oro Dance Company"
+  ],
+  "cached_at": "2025-06-20T10:41:18.115255",
+  "cache_key": "bc7265f25ded0b7101d7f26b8fd4090473429c2e33292e74740498fcbf1ec370",
+  "model": "gpt-41"
+}

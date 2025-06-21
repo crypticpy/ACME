@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "lack of promotion for events outside Austin City Limits",
+    "insufficient visibility for smaller events",
+    "desire for spotlighting uncommon event series"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Promotion for events outside of Austin City Limits is practically non existent",
+    "nice to see smaller event spotlights",
+    "more 'uncommon' event series"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of promotion for events outside Austin City Limits",
+    "limited visibility for smaller or uncommon events"
+  ],
+  "solutions_proposed": [
+    "spotlight smaller events",
+    "feature more uncommon event series"
+  ],
+  "cached_at": "2025-06-20T10:34:52.109708",
+  "cache_key": "5810a567fbf43c0b6b11b73f25e8d3be0202a8cb766935194430218c47675ebe",
+  "model": "gpt-41"
+}

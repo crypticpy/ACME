@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased literary events",
+    "support for literacy",
+    "free access to cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Literary and Literacy-supporting events",
+    "free cultural programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of cultural programming"
+  ],
+  "solutions_proposed": [
+    "more literary and literacy-supporting events",
+    "increase free cultural programming"
+  ],
+  "cached_at": "2025-06-21T00:24:21.668478",
+  "cache_key": "faf618d900422d9d41928f8901a96fb641d982c7ffac575e504249d3fb654b1d",
+  "model": "gpt-41"
+}

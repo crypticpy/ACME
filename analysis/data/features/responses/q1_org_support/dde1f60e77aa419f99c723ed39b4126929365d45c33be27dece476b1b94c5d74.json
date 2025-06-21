@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "importance of community outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding",
+    "community outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase funding",
+    "expand community outreach"
+  ],
+  "cached_at": "2025-06-20T10:38:26.496328",
+  "cache_key": "dde1f60e77aa419f99c723ed39b4126929365d45c33be27dece476b1b94c5d74",
+  "model": "gpt-41"
+}

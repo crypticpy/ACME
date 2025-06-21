@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "difficulty accessing funding",
+    "unreliable funding processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more easily accessible and reliable funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inaccessible funding",
+    "unreliable funding"
+  ],
+  "solutions_proposed": [
+    "make funding more accessible",
+    "make funding more reliable"
+  ],
+  "cached_at": "2025-06-21T02:03:18.091265",
+  "cache_key": "acdddd8191e087ed98c32d6950672305195431d2c2bfb5d38e1a3c5b2fec1dd4",
+  "model": "gpt-41"
+}

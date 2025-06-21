@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for more small-scale touring groups",
+    "interest in daring or experimental art",
+    "preference for intimate, smaller experiences",
+    "saturation or excess of large festivals",
+    "support for local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More small groups touring here",
+    "more daring art",
+    "more art-for-a-roomful",
+    "Smaller experiences, not always bigger experiences",
+    "We have enough festivals",
+    "Invest in the artists who are here"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overabundance of large festivals"
+  ],
+  "solutions_proposed": [
+    "bring more small groups to tour",
+    "present more daring art",
+    "offer smaller, intimate experiences",
+    "invest in local artists"
+  ],
+  "cached_at": "2025-06-21T00:35:20.159926",
+  "cache_key": "31f59318285dbdc12e7c2a9939684f0bbb82560704fb70723a12b657d7eebb25",
+  "model": "gpt-41"
+}

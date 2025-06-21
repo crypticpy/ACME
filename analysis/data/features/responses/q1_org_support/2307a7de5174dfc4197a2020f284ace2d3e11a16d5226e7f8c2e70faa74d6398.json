@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for participatory decision-making with organizational and cultural leaders",
+    "Transparency and timely communication about strategic changes",
+    "Concerns about changes to grant scoring methods",
+    "Balancing support between established and emerging organizations",
+    "Staff well-being, compensation, and professional development"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Consult organizational and cultural leaders before making decisions",
+    "implementing surveys and/or creating long term work groups",
+    "Inform the public in a timely manner about strategic changes and decisions",
+    "Return to the former scoring method for grants",
+    "community member panels",
+    "grant application that allows applicants to include long form responses",
+    "balance support for existing organizations while also making space for new/emerging organizations",
+    "Prioritize the well-being of ACME staff",
+    "providing them access to benefits, fair pay, accommodations, flexible schedules, professional development opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of consultation with organizational and cultural leaders",
+    "Insufficient transparency and communication about decisions",
+    "Grant scoring method changes reducing applicant voice",
+    "Difficulty balancing support for established and new organizations",
+    "Inadequate staff support and benefits"
+  ],
+  "solutions_proposed": [
+    "Implement surveys and/or create long term work groups for consultation",
+    "Inform the public in a timely manner about strategic changes and decisions",
+    "Return to the former scoring method for grants, including community member panels and long form responses",
+    "Balance support for existing and new/emerging organizations",
+    "Provide ACME staff with benefits, fair pay, accommodations, flexible schedules, and professional development opportunities"
+  ],
+  "cached_at": "2025-06-20T01:22:10.672822",
+  "cache_key": "2307a7de5174dfc4197a2020f284ace2d3e11a16d5226e7f8c2e70faa74d6398",
+  "model": "gpt-41"
+}

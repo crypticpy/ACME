@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for increased cultural diversity",
+    "interest in diverse events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Cultural Diversity events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More cultural diversity events"
+  ],
+  "cached_at": "2025-06-21T00:52:14.333528",
+  "cache_key": "8ba9ccddc6a6bbedbef2982f5169aacaeb0aa0eeb42d95fbbb244a7d8617822b",
+  "model": "gpt-41"
+}

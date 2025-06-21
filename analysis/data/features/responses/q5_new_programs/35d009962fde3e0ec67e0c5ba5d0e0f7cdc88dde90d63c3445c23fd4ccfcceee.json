@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding for community instrumental groups",
+    "need for restoration of funding",
+    "affordable venues as a concern"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding for community instrumental groups (concert bands, orchestras, etc) is virtually non-existent right now.",
+    "It would be good if at least some of that funding could be restored.",
+    "Affordable venues for these types of groups is also a major concern."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for community instrumental groups",
+    "lack of affordable venues"
+  ],
+  "solutions_proposed": [
+    "restore at least some funding for community instrumental groups"
+  ],
+  "cached_at": "2025-06-21T01:53:32.538712",
+  "cache_key": "35d009962fde3e0ec67e0c5ba5d0e0f7cdc88dde90d63c3445c23fd4ccfcceee",
+  "model": "gpt-41"
+}

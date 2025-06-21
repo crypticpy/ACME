@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "limited funding access for arts small businesses",
+    "equity between nonprofits and for-profit arts organizations",
+    "affordable space challenges for educational arts companies"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "access to funding for small businesses (not non profits) in the arts could be better",
+    "educational companies still struggle to find affordable space",
+    "just as much as the non profits do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding access for arts small businesses",
+    "difficulty finding affordable space"
+  ],
+  "solutions_proposed": [
+    "improve access to funding for small businesses in the arts"
+  ],
+  "cached_at": "2025-06-20T01:18:35.827892",
+  "cache_key": "505df8f89f4534a8ad3060f50d1398f4529c53540914ad12a9d7d0d1cde71a75",
+  "model": "gpt-41"
+}

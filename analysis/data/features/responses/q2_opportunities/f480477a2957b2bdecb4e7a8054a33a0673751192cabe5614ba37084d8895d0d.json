@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "desire for high quality programming",
+    "accessibility of arts opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "low cost and free events",
+    "high quality"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "offer more low cost and free events of high quality"
+  ],
+  "cached_at": "2025-06-21T00:36:13.654441",
+  "cache_key": "f480477a2957b2bdecb4e7a8054a33a0673751192cabe5614ba37084d8895d0d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "application process difficulty",
+    "funding accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "make it easier to apply for funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty applying for funding"
+  ],
+  "solutions_proposed": [
+    "make it easier to apply for funding"
+  ],
+  "cached_at": "2025-06-20T10:40:39.720137",
+  "cache_key": "c5fb8beb12492c641049f73a8e69992457094587469eecd04191b4d1cdfb81ef",
+  "model": "gpt-41"
+}

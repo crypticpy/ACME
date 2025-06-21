@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased program quantity",
+    "general satisfaction with current offerings",
+    "interest in cultural funding expansion"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.6,
+  "key_phrases": [
+    "I would just like for there to be more of them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase the number of cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T00:55:51.141032",
+  "cache_key": "1d174d12ad168fa99bdda2428bc093f5cb6323caaea2bfe9c5b7b7de5521a19a",
+  "model": "gpt-41"
+}

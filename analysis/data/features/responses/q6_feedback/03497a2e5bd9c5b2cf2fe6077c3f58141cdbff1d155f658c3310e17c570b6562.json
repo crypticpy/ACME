@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "enthusiasm for ACME's creation",
+    "potential positive impact on artists",
+    "community trust-building",
+    "anticipation of future engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "so excited that ACME was developed",
+    "make a great difference in the lives of artists here in Austin",
+    "if that's what it sets out to do",
+    "look forward to connecting with you all",
+    "seeing ACME build trust with the community"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:09:48.319495",
+  "cache_key": "03497a2e5bd9c5b2cf2fe6077c3f58141cdbff1d155f658c3310e17c570b6562",
+  "model": "gpt-41"
+}

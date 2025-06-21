@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of trust in organizational follow-through",
+    "consultant compensation concerns",
+    "staff input not leading to change",
+    "perceived futility of providing feedback"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "fear that all of this goes on a dark shelf somewhere",
+    "consultants get paid a lot of money to answer this question",
+    "never seen a new program get implemented based on this"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of trust that feedback will be used",
+    "perceived inaction on staff and consultant input",
+    "skepticism about organizational responsiveness"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:53:24.424285",
+  "cache_key": "26425bcd871a1e4b694b625a61afe7a997d57b8e735b8db569dc3aa119a355b7",
+  "model": "gpt-41"
+}

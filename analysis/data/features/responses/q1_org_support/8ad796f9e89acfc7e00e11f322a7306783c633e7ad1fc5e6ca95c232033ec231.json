@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "need for increased funding",
+    "support for organizations and leaders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "Financial support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Financial support"
+  ],
+  "cached_at": "2025-06-20T10:24:35.731603",
+  "cache_key": "8ad796f9e89acfc7e00e11f322a7306783c633e7ad1fc5e6ca95c232033ec231",
+  "model": "gpt-41"
+}

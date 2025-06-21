@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for early music concerts (Medieval, Renaissance, Baroque)",
+    "need for more fully staged operas",
+    "interest in art fairs that integrate music events",
+    "demand for live music events with dancing space"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More early music concerts (Medieval, Renaissance and Baroque music)",
+    "more fully staged operas (there will be just one next year)",
+    "more art fairs (like EAST) that include music events",
+    "more live music with space for dancing"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "EAST"
+  ],
+  "barriers_identified": [
+    "there will be just one [fully staged opera] next year"
+  ],
+  "solutions_proposed": [
+    "Increase early music concerts",
+    "Offer more fully staged operas",
+    "Expand art fairs with integrated music events",
+    "Provide more live music with space for dancing"
+  ],
+  "cached_at": "2025-06-21T00:40:54.486114",
+  "cache_key": "57456911a69dbaaeed0e0bb82fa42bbbdac44e363f56bed676ae93169f45a743",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased involvement",
+    "need for better communication",
+    "interest in receiving information"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Would like to be more involved",
+    "appreciate information about this"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information"
+  ],
+  "solutions_proposed": [
+    "provide more information to facilitate involvement"
+  ],
+  "cached_at": "2025-06-21T02:17:12.196475",
+  "cache_key": "5edd47ad16455c8a3c7932f0c64fd4004202823effeec170f5bb75d1f4af50fb",
+  "model": "gpt-41"
+}

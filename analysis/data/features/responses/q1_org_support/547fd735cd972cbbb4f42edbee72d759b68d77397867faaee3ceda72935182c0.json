@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "collaboration with job-creating venues and organizations",
+    "valuing local knowledge and history",
+    "support for artist employment"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Venues and orgs that create jobs for artists are key",
+    "collaborate effectively with them",
+    "honor their knowledge and history of serving Austin"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "collaborate effectively with venues and organizations that create jobs for artists",
+    "honor the knowledge and history of organizations serving Austin"
+  ],
+  "cached_at": "2025-06-20T10:34:04.519565",
+  "cache_key": "547fd735cd972cbbb4f42edbee72d759b68d77397867faaee3ceda72935182c0",
+  "model": "gpt-41"
+}

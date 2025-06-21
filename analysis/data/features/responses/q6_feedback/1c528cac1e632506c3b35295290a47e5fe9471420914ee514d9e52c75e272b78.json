@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for city engagement",
+    "gratitude for cultural investment",
+    "recognition of city government's efforts",
+    "admiration for striving for greatness"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Thank you for doing this poll",
+    "thank you for caring",
+    "I appreciate that you all are striving for greatness",
+    "I\u2019ve always admired this city government for its investment in the arts / culture / and music"
+  ],
+  "intent": "expression_of_appreciation",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:20:44.937430",
+  "cache_key": "1c528cac1e632506c3b35295290a47e5fe9471420914ee514d9e52c75e272b78",
+  "model": "gpt-41"
+}

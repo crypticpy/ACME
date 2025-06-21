@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "funding inequity for service organizations",
+    "grant eligibility tied to cash budgets",
+    "lack of support for non-producing organizations",
+    "affordability crisis for artists and musicians",
+    "threat to cultural identity due to displacement"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "we are often overlooked because of our smaller cash budget",
+    "grants and funding opportunities are not directed toward our efforts",
+    "we support artists and do not produce artistic content",
+    "musicians and artists affordability must be addressed",
+    "arts remain center to our identity"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding opportunities based on cash budget rather than value of donated services",
+    "exclusion of service organizations that do not produce artistic content from grants",
+    "increasing unaffordability for low-income artists and musicians"
+  ],
+  "solutions_proposed": [
+    "affordability must be addressed to ensure that arts remain center to our identity"
+  ],
+  "cached_at": "2025-06-21T01:48:27.772125",
+  "cache_key": "c2b0a87eb9ae770c8bb7e6d8ea1fe0ce70a438fdc6d0226ec73e867326b3c7f8",
+  "model": "gpt-41"
+}

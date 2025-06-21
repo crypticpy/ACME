@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More affordable ones"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost"
+  ],
+  "solutions_proposed": [
+    "increase affordability of cultural arts or entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:52:22.098989",
+  "cache_key": "0033534974e2b9ae388d932550fb05177d09e6f387faff5188ee94ed8efc40d4",
+  "model": "gpt-41"
+}

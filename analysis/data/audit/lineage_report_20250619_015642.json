@@ -1,0 +1,83 @@
+{
+  "session_id": "20250619_015642",
+  "start_time": "2025-06-19T01:56:42.494280",
+  "end_time": "2025-06-19T01:57:15.539256",
+  "operations": 19,
+  "transformations": [],
+  "validations": [],
+  "llm_calls": [],
+  "errors": [
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:43.428411"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:47.438873"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:51.447579"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:51.484005"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:55.493741"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:59.502260"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:56:59.504763"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:57:03.515525"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:57:07.524013"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:57:07.525797"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:57:11.536628"
+    },
+    {
+      "operation": "llm_generate_response",
+      "type": "TypeError",
+      "message": "Responses.create() got an unexpected keyword argument 'max_tokens'",
+      "timestamp": "2025-06-19T01:57:15.539256"
+    }
+  ]
+}

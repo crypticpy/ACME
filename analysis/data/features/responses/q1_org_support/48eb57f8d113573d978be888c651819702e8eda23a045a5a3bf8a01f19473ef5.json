@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "advocacy against discrimination",
+    "sexual orientation bigotry",
+    "organizational responsibility to speak out"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "be outspoken",
+    "stand up to sexual orientation bigotry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "sexual orientation bigotry"
+  ],
+  "solutions_proposed": [
+    "be outspoken and stand up to sexual orientation bigotry"
+  ],
+  "cached_at": "2025-06-20T10:42:46.850113",
+  "cache_key": "48eb57f8d113573d978be888c651819702e8eda23a045a5a3bf8a01f19473ef5",
+  "model": "gpt-41"
+}

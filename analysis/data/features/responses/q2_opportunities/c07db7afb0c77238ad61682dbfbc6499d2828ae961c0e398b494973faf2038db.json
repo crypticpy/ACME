@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of creative spaces",
+    "access to dance studios",
+    "access to theater venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "affordable dance studio rental",
+    "theater rental"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of dance studio rental",
+    "high cost of theater rental"
+  ],
+  "solutions_proposed": [
+    "increase affordable dance studio rental options",
+    "increase affordable theater rental options"
+  ],
+  "cached_at": "2025-06-21T00:33:41.428353",
+  "cache_key": "c07db7afb0c77238ad61682dbfbc6499d2828ae961c0e398b494973faf2038db",
+  "model": "gpt-41"
+}

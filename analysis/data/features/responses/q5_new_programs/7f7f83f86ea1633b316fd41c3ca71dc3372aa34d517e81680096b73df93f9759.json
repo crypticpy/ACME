@@ -1,0 +1,44 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable rehearsal and meeting space",
+    "city-owned cultural infrastructure",
+    "soundproofing and acoustic needs",
+    "central location and accessibility",
+    "parking and load-in convenience",
+    "safety of venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "city-owned rehearsal venue",
+    "meeting and office space",
+    "sound proofing",
+    "large, acoustic rooms",
+    "rented out affordably",
+    "safe, accessible, somewhat central",
+    "simple parking and load-in"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable rehearsal and meeting space",
+    "insufficient soundproofing and acoustic rooms",
+    "limited central, accessible venues",
+    "inadequate parking and load-in options",
+    "concerns about safety"
+  ],
+  "solutions_proposed": [
+    "build a city-owned rehearsal venue",
+    "include soundproofing and large acoustic rooms",
+    "ensure affordability",
+    "make venue safe, accessible, and central",
+    "provide simple parking and load-in"
+  ],
+  "cached_at": "2025-06-21T01:50:46.473706",
+  "cache_key": "7f7f83f86ea1633b316fd41c3ca71dc3372aa34d517e81680096b73df93f9759",
+  "model": "gpt-41"
+}

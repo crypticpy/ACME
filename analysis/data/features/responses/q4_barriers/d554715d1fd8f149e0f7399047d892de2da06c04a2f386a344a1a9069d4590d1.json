@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of creative sector representation",
+    "decision-making dominated by business interests",
+    "exclusion from top-level conversations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "not having representation of the creative sector",
+    "top level conversations",
+    "more readily serve business interests"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of creative sector representation in decision-making",
+    "decisions favoring business interests over creative sector"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:12.092538",
+  "cache_key": "d554715d1fd8f149e0f7399047d892de2da06c04a2f386a344a1a9069d4590d1",
+  "model": "gpt-41"
+}

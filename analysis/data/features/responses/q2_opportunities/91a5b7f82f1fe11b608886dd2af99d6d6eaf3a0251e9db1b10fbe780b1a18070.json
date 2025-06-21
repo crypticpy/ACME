@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for free, family-friendly events",
+    "concern about artist and organization sustainability",
+    "oversaturation of events and organizations",
+    "insufficient funding for existing arts ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Free, family-friendly events",
+    "we need our organizations and artists to be able to make a living",
+    "there are TOO many events and TOO many organizations",
+    "to be sustained by current funding opportunities"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "current funding opportunities are insufficient to sustain the number of events and organizations"
+  ],
+  "solutions_proposed": [
+    "support organizations and artists to make a living on what they are already producing"
+  ],
+  "cached_at": "2025-06-21T00:43:57.397052",
+  "cache_key": "91a5b7f82f1fe11b608886dd2af99d6d6eaf3a0251e9db1b10fbe780b1a18070",
+  "model": "gpt-41"
+}

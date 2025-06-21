@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable creative education",
+    "community-building through the arts",
+    "adaptation of successful program models",
+    "expanding access to performing arts and writing"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "free or donation based beginner creative classes",
+    "art nights ATX has a great model",
+    "could be adapted for performing arts, writing etc.",
+    "more regular people together making things"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "art nights ATX"
+  ],
+  "barriers_identified": [
+    "lack of affordable beginner creative classes"
+  ],
+  "solutions_proposed": [
+    "offer free or donation based beginner creative classes",
+    "adapt the art nights ATX model for performing arts and writing",
+    "create more opportunities for people to make things together"
+  ],
+  "cached_at": "2025-06-21T01:55:16.658652",
+  "cache_key": "f72fcc4012381e09e61569aad30aa32185fe0b67c02c29ee5c385d861ad7d23e",
+  "model": "gpt-41"
+}

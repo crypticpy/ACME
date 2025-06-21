@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "flexibility in funding use",
+    "operational and staff costs",
+    "artist compensation",
+    "burdensome funding restrictions",
+    "exclusion of for-profit entities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Money. For Operation costs and artist pay.",
+    "Don't tie money to specific events or cultural exploitation or for non-profit entities only.",
+    "Theaters and Venues and Artists need money to pay rent, pay staff and fix equipment and furniture.",
+    "Putting up rules that tie funding to very specific programming and/or a narrow window of acceptable expenses makes all of this pointless.",
+    "I can't tell you the amount of times i had to create a project to justify funding when all I needed was to pay our staff and our rent."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding tied to specific events",
+    "funding restricted to non-profit entities",
+    "narrow window of acceptable expenses",
+    "requirement to create projects just to justify funding"
+  ],
+  "solutions_proposed": [
+    "Allow funding for operational costs and artist pay",
+    "Do not restrict funding to specific events or non-profit entities",
+    "Remove rules tying funding to narrow programming or expenses"
+  ],
+  "cached_at": "2025-06-20T10:23:21.427391",
+  "cache_key": "8cb4330c036c023cbbf6c5c612d333b01d94444b4ba6461d282093fdf1cbe932",
+  "model": "gpt-41"
+}

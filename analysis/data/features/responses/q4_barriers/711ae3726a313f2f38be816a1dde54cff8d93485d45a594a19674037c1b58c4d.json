@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of major entertainment events",
+    "limited discretionary income for cultural participation",
+    "competition between large venues and small independent venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Cost.",
+    "Folks' entertainment budgets are easily used up by attending 1 concert at Moody Center",
+    "leaves less discretionary income available for the small, independent music venues and concerts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Moody Center"
+  ],
+  "barriers_identified": [
+    "high cost of attending major concerts",
+    "reduced ability to support small, independent music venues due to limited budgets"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:59.201826",
+  "cache_key": "711ae3726a313f2f38be816a1dde54cff8d93485d45a594a19674037c1b58c4d",
+  "model": "gpt-41"
+}

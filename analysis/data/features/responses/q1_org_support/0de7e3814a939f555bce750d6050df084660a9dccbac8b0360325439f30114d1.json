@@ -1,0 +1,29 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "importance of longstanding community programs",
+    "threat of reduced government funding",
+    "vulnerability of cultural organizations",
+    "community identity tied to cultural programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "so important to keep funding programs that have been enrooted in the Austin community for a long time",
+    "They are the heart of this community",
+    "need help more than ever right now",
+    "government funding being pulled"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "government funding being pulled"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:29:22.221546",
+  "cache_key": "0de7e3814a939f555bce750d6050df084660a9dccbac8b0360325439f30114d1",
+  "model": "gpt-41"
+}

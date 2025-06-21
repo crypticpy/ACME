@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived lack of strong organizational foundation",
+    "disagreement with prevailing narrative about existing organizations",
+    "experience on the arts commission"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I don't believe there is a strong foundation of existing organizations",
+    "I was on the arts commission for a couple of years",
+    "I believe that is not true"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of strong foundation among existing organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T01:22:41.505071",
+  "cache_key": "a6fb2e354a1976968d0ee5a0643a90f6f0755f601f2fdefaf760fca420a1143f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,51 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for diverse and experimental programming",
+    "support for established arts organizations",
+    "interest in interactive and participatory events",
+    "enthusiasm for unconventional or 'weird' art forms",
+    "value placed on after-hours/casual cultural experiences"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I like Austin Symphony programming",
+    "bring in guest performers",
+    "very enthusiastic about weird stuff",
+    "high brow puppet theater",
+    "uncomfortable sculptures",
+    "experimental noise performances",
+    "our fabulous costumed marching bands",
+    "skills workshops at the Dougherty",
+    "creekshow(s)",
+    "more umlauf after dark",
+    "throw in some Blanton after dark"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Symphony",
+    "skills workshops at the Dougherty",
+    "creekshow",
+    "umlauf after dark",
+    "Blanton after dark"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "enable Austin Symphony to bring in guest performers",
+    "increase offerings of high brow puppet theater",
+    "present more uncomfortable sculptures",
+    "host more experimental noise performances",
+    "support costumed marching bands",
+    "expand skills workshops at the Dougherty",
+    "offer more creekshows",
+    "increase umlauf after dark events",
+    "add more Blanton after dark events"
+  ],
+  "cached_at": "2025-06-21T00:39:33.130659",
+  "cache_key": "8e5d39a09d4328e30ed2929acab60a2e317906b5bc846c4e76b4419a92f2d4ca",
+  "model": "gpt-41"
+}

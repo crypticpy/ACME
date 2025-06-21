@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.8,
+  "themes": [
+    "perceived inaction by ACME",
+    "demand for concrete steps"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Take action"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Take action"
+  ],
+  "cached_at": "2025-06-20T10:34:21.688591",
+  "cache_key": "e0d531016bb494ebedc476f2201d28858dcc673a35fbc7d985940480e5a14b5e",
+  "model": "gpt-41"
+}

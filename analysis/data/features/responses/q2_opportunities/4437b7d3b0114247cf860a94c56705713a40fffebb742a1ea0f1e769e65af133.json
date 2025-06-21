@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Disproportionate funding for film and music over other performing arts",
+    "Need for increased city support for theatre, dance, and live performing arts",
+    "Negative impact of redirecting funds from non-profits to large commercial events",
+    "Recognition that film and music are important but not at the expense of other arts",
+    "Long-term frustration with funding practices in Austin"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "out-sized focus on film and music, versus the other performing arts",
+    "theatre, dance, and other live performing arts need more support from the city",
+    "attempts to siphon money from struggling non-profits to redirect funds to things like SXSW and ACL",
+    "incredibly dispiriting",
+    "help the worthy organizations that actually NEED the city's help"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "Funding being redirected from struggling non-profits to large commercial events",
+    "Lack of city support for theatre, dance, and other live performing arts"
+  ],
+  "solutions_proposed": [
+    "Increase city support for theatre, dance, and other live performing arts",
+    "Help organizations that actually need the city's help"
+  ],
+  "cached_at": "2025-06-21T00:29:20.373018",
+  "cache_key": "4437b7d3b0114247cf860a94c56705713a40fffebb742a1ea0f1e769e65af133",
+  "model": "gpt-41"
+}

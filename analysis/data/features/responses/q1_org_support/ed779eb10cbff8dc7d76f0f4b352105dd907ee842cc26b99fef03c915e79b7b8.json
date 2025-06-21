@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for foundational support",
+    "community desire for a developed art scene",
+    "support for diverse art forms (dance, art, entertainment technologies)"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Give more funding for developing these foundations",
+    "The people want a more developed art scene in Austin",
+    "whether that be dance, art, or entertainment technologies"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding for foundational development"
+  ],
+  "solutions_proposed": [
+    "Give more funding for developing these foundations"
+  ],
+  "cached_at": "2025-06-20T10:32:37.025698",
+  "cache_key": "ed779eb10cbff8dc7d76f0f4b352105dd907ee842cc26b99fef03c915e79b7b8",
+  "model": "gpt-41"
+}

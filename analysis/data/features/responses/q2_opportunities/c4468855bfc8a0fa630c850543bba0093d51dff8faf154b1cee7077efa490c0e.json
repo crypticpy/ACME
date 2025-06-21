@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "accessibility of cultural events",
+    "marketing and promotion of events",
+    "inclusion of culturally diverse small businesses",
+    "representation of diverse brands"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more accessible and marketed events",
+    "include and feature culturally diverse small businesses and brands"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of accessibility",
+    "insufficient marketing",
+    "underrepresentation of culturally diverse small businesses and brands"
+  ],
+  "solutions_proposed": [
+    "make events more accessible",
+    "improve marketing of events",
+    "include and feature culturally diverse small businesses and brands"
+  ],
+  "cached_at": "2025-06-21T00:34:39.386029",
+  "cache_key": "c4468855bfc8a0fa630c850543bba0093d51dff8faf154b1cee7077efa490c0e",
+  "model": "gpt-41"
+}

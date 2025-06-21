@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist compensation",
+    "municipal funding priorities",
+    "comparison to corporate incentives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "pay artists",
+    "if the city can give tax incentives to corporations they can pay artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct payment to artists",
+    "municipal preference for corporate incentives over artist support"
+  ],
+  "solutions_proposed": [
+    "city should pay artists directly"
+  ],
+  "cached_at": "2025-06-21T00:34:16.124419",
+  "cache_key": "ac31518fc84601a5896cc1c5818525c917a1dba87bef1e27e376bd7c52c5a39d",
+  "model": "gpt-41"
+}

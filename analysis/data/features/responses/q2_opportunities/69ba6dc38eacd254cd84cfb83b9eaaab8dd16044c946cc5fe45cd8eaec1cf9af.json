@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for free live music",
+    "interest in expanded art education opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Free live music",
+    "expanded art classes"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide more free live music",
+    "Expand availability of art classes"
+  ],
+  "cached_at": "2025-06-21T00:45:13.876800",
+  "cache_key": "69ba6dc38eacd254cd84cfb83b9eaaab8dd16044c946cc5fe45cd8eaec1cf9af",
+  "model": "gpt-41"
+}

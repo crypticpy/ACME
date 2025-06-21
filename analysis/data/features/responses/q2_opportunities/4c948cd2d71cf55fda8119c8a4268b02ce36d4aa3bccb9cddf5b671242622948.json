@@ -1,0 +1,36 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased jazz music offerings",
+    "greater visibility for women and non-binary performers",
+    "enhanced African American representation",
+    "inclusion of Latino/Hispanic and non-white ethnicities",
+    "diversity in art shows and music scenes"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More jazz music",
+    "art shows",
+    "music scenes with women/ non binary people fronting showcases",
+    "more African American representation",
+    "Latino/ Hispanic and non white ethnicities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "underrepresentation of women and non-binary people in music scenes",
+    "lack of African American and Latino/Hispanic visibility"
+  ],
+  "solutions_proposed": [
+    "increase jazz music events",
+    "feature more women and non-binary people as leads in music showcases",
+    "improve representation of African American, Latino/Hispanic, and non-white ethnicities in cultural offerings"
+  ],
+  "cached_at": "2025-06-21T00:34:30.288760",
+  "cache_key": "4c948cd2d71cf55fda8119c8a4268b02ce36d4aa3bccb9cddf5b671242622948",
+  "model": "gpt-41"
+}

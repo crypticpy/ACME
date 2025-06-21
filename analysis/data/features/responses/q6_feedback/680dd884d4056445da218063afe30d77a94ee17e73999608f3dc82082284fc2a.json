@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of trust between ACME and the community",
+    "need for improved community relations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "work on trust in the community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of trust in the community"
+  ],
+  "solutions_proposed": [
+    "work on trust in the community"
+  ],
+  "cached_at": "2025-06-21T02:19:27.583753",
+  "cache_key": "680dd884d4056445da218063afe30d77a94ee17e73999608f3dc82082284fc2a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "gender equity in cultural funding",
+    "support for women in male-dominated industries",
+    "age inclusivity in training programs",
+    "career transitions for women into film"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More support for woman and other underrepresented artist in male dominated industries",
+    "More training, behind AFS, for women on crews but women of all ages",
+    "Not just 18-24",
+    "About of women I know are transitioning into film later in life"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AFS"
+  ],
+  "barriers_identified": [
+    "lack of support for women and underrepresented artists in male dominated industries",
+    "limited training opportunities for women of all ages",
+    "age restrictions on training programs"
+  ],
+  "solutions_proposed": [
+    "More support for women and underrepresented artists in male dominated industries",
+    "More training for women on crews",
+    "Expand training opportunities to women of all ages, not just 18-24"
+  ],
+  "cached_at": "2025-06-21T01:11:34.176517",
+  "cache_key": "9888fefb707494da4aad635744b77e513f49ce40ae6ab6afae5c89195d085342",
+  "model": "gpt-41"
+}

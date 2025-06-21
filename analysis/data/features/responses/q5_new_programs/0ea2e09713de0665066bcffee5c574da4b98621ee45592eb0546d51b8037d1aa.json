@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Venue ownership and operational responsibility",
+    "Balancing event programming with facility maintenance",
+    "Need for investment in physical infrastructure",
+    "Sustainability and growth of cultural organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "own and operate their own venues",
+    "additional layer of responsibility",
+    "balance the planning and execution of cultural events and festivals with the ongoing maintenance and preservation of their facilities",
+    "growth and long-term sustainability",
+    "consistent investment in the physical spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Balancing programming with facility maintenance",
+    "Lack of consistent investment in physical spaces"
+  ],
+  "solutions_proposed": [
+    "Consistent investment in the physical spaces that support this work"
+  ],
+  "cached_at": "2025-06-21T02:05:53.889619",
+  "cache_key": "0ea2e09713de0665066bcffee5c574da4b98621ee45592eb0546d51b8037d1aa",
+  "model": "gpt-41"
+}

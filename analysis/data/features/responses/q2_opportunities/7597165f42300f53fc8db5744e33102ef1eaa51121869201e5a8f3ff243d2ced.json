@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "emphasis on quality of cultural offerings",
+    "support for local arts production"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "High quality",
+    "locally generated"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase high quality, locally generated cultural opportunities"
+  ],
+  "cached_at": "2025-06-21T00:39:54.910566",
+  "cache_key": "7597165f42300f53fc8db5744e33102ef1eaa51121869201e5a8f3ff243d2ced",
+  "model": "gpt-41"
+}

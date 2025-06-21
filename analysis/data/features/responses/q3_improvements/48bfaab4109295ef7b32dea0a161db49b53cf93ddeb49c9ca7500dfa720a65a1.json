@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for systemic overhaul",
+    "use of national best practices",
+    "inconsistent enforcement of guidelines",
+    "lack of transparency or perceived arbitrariness"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Everything need to be rebuilt",
+    "using proven national best practices",
+    "guidelines and scoring have to be consistently enforced",
+    "rather than seemingly making it up as you go along"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inconsistent enforcement of guidelines",
+    "lack of established best practices",
+    "perceived arbitrariness in decision-making"
+  ],
+  "solutions_proposed": [
+    "rebuild the programs using proven national best practices",
+    "consistently enforce guidelines and scoring"
+  ],
+  "cached_at": "2025-06-21T01:12:20.265845",
+  "cache_key": "48bfaab4109295ef7b32dea0a161db49b53cf93ddeb49c9ca7500dfa720a65a1",
+  "model": "gpt-41"
+}

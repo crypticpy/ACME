@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for diversity in music genres",
+    "interest in both global and local cultural expressions",
+    "support for music and dance opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "global and local genres of music and dance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase opportunities for global and local genres of music and dance"
+  ],
+  "cached_at": "2025-06-21T00:46:29.532874",
+  "cache_key": "1106a815e2f0a77d4529288df37126f5aa3c926ffdb3c929ffabb0b4c3c562bf",
+  "model": "gpt-41"
+}

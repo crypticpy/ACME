@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to participation",
+    "transportation challenges",
+    "parking difficulties",
+    "distance from events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "it's had to show up",
+    "lack of funds",
+    "long drive",
+    "hard to get parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funds",
+    "long drive",
+    "hard to get parking"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:26:11.968545",
+  "cache_key": "2371dab8128e7f34d76d4e9bc32983cf76ec0921d9be4dab2231822fb1357696",
+  "model": "gpt-41"
+}

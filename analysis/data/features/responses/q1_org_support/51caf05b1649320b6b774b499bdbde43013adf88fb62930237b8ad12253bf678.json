@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Recognition of overlooked contributors",
+    "Support for organizations with proven community impact",
+    "Sustained funding for consistent organizations",
+    "Economic contributions of unfunded groups"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "look at the ppl who never got a grant that have done amazing work for the economy",
+    "organizations that have year after gotten bigger that create needed events",
+    "support them the ones who are consistent with showing up for the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of grant access for impactful organizations"
+  ],
+  "solutions_proposed": [
+    "Consider funding organizations that have not previously received grants but contribute to the economy",
+    "Continue supporting organizations that consistently serve the community"
+  ],
+  "cached_at": "2025-06-20T10:28:39.494942",
+  "cache_key": "51caf05b1649320b6b774b499bdbde43013adf88fb62930237b8ad12253bf678",
+  "model": "gpt-41"
+}

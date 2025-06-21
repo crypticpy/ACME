@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for opera performances",
+    "Affordable or free symphony events",
+    "Outdoor cultural programming in winter",
+    "Support for local performers",
+    "Preference for alternatives to large-scale festivals like ACL"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Opera",
+    "a free or inexpensive Symphony in the park series in the winter months",
+    "local performers at the park",
+    "Not ACL style"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Ravinia",
+    "Henley Festival",
+    "ACL"
+  ],
+  "barriers_identified": [
+    "Cost of symphony events"
+  ],
+  "solutions_proposed": [
+    "Offer free or inexpensive symphony concerts in the park during winter",
+    "Feature local performers in park settings",
+    "Provide opera performances",
+    "Avoid large-scale festival formats like ACL"
+  ],
+  "cached_at": "2025-06-21T00:32:06.375418",
+  "cache_key": "535ac56a6bd7e21b67cfe79488d9ee0e6d8cfba7e7a41b70c8ca231ba6b2d4f6",
+  "model": "gpt-41"
+}

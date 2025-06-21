@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty increasing public arts funding",
+    "need for private sector and corporate support",
+    "lack of dedicated grant opportunities at Austin Community Foundation",
+    "fundraising challenges for non-profit arts organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "public funding for arts will be hard to increase",
+    "helping foster an environment where local corporations, businesses and 'new money' types are more willing to support",
+    "funding is a deep issue, particularly in the non-profit arts space",
+    "not a single dedicated grant or funding opportunity at the Austin Community Foundation for ARTS organizations",
+    "very few avenues for non-profits to fundraise at large levels"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Community Foundation"
+  ],
+  "barriers_identified": [
+    "difficulty increasing public arts funding",
+    "lack of dedicated grant or funding opportunities at the Austin Community Foundation",
+    "very few avenues for non-profits to fundraise at large levels"
+  ],
+  "solutions_proposed": [
+    "helping foster an environment where local corporations, businesses and 'new money' types are more willing to support large and small arts organizations"
+  ],
+  "cached_at": "2025-06-21T02:13:17.799622",
+  "cache_key": "fcf8e2eff5772af4c318b5b53a6b6ce39772b5f2f1cd2b7980b8e9ed29999315",
+  "model": "gpt-41"
+}

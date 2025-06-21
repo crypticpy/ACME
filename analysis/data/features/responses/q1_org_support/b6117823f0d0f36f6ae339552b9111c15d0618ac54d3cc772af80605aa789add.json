@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for local artists",
+    "access to space for artists",
+    "opportunities for emerging artists",
+    "hosting shows and pageants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support local artists",
+    "give space and access to local and upcoming artist",
+    "shows and pageants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of space and access for local and upcoming artists"
+  ],
+  "solutions_proposed": [
+    "Support local artists",
+    "give space and access to local and upcoming artist",
+    "host shows and pageants"
+  ],
+  "cached_at": "2025-06-20T10:23:47.263246",
+  "cache_key": "b6117823f0d0f36f6ae339552b9111c15d0618ac54d3cc772af80605aa789add",
+  "model": "gpt-41"
+}

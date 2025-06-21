@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of professional and diverse dance opportunities",
+    "limited support for drag artists outside bars",
+    "absence of cirque arts and circus performances",
+    "need for affordable choral music rehearsal and performance spaces",
+    "inclusivity concerns for marginalized populations in arts spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more professional dance (not only ballet, but also modern dance, contemporary dance, cutting-edge and up-and-coming dance)",
+    "only one big Dance organization (Ballet Austin)",
+    "more opportunities for Drag artists outside of bars",
+    "would also love to see cirque arts take off in our city",
+    "choral music needs affordable spaces to perform and rehearse in",
+    "churches have been amazing in letting us use their spaces for a fraction of the cost",
+    "there should be more support from the city",
+    "so many people from marginalized populations do not feel at home in a church"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Ballet Austin"
+  ],
+  "barriers_identified": [
+    "limited number of professional dance organizations",
+    "drag artists primarily confined to bars",
+    "lack of circus/cirque arts performances",
+    "lack of affordable rehearsal/performance spaces for choral music",
+    "marginalized populations not feeling at home in churches"
+  ],
+  "solutions_proposed": [
+    "increase support for more and more varied dance organizations",
+    "create opportunities for drag artists outside of bars",
+    "support for cirque arts and circus performances in Austin",
+    "provide affordable, non-church spaces for choral music groups",
+    "increase city support for arts that foster community and connection"
+  ],
+  "cached_at": "2025-06-21T00:50:24.628297",
+  "cache_key": "01f1c77bbd8fc6c03b9d80e4c18c7bf1a1b757b96480612a5ebe29600b66ee25",
+  "model": "gpt-41"
+}

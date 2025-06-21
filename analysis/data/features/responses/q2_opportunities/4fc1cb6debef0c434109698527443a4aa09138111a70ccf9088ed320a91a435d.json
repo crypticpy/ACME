@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for young marginalized artists",
+    "need for dedicated creative spaces",
+    "accessibility for all communities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more resources for young marginalized artists",
+    "devoted spaces to showcase original work",
+    "accessible to all communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of resources for young marginalized artists",
+    "insufficient accessible spaces for showcasing original work"
+  ],
+  "solutions_proposed": [
+    "provide more resources for young marginalized artists",
+    "create devoted spaces to showcase original work that are accessible to all communities"
+  ],
+  "cached_at": "2025-06-21T00:36:18.880215",
+  "cache_key": "4fc1cb6debef0c434109698527443a4aa09138111a70ccf9088ed320a91a435d",
+  "model": "gpt-41"
+}

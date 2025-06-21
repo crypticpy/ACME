@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "artist compensation",
+    "affordable venues",
+    "artist residencies"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding to pay artists",
+    "affordable venues",
+    "more residencies"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for artists",
+    "unaffordable venues",
+    "insufficient residencies"
+  ],
+  "solutions_proposed": [
+    "funding to pay artists",
+    "affordable venues",
+    "more residencies"
+  ],
+  "cached_at": "2025-06-20T10:38:18.855779",
+  "cache_key": "b649e27211cefae1d5fe1951054482120dee6b723d286926f635e49ea0bda8c9",
+  "model": "gpt-41"
+}

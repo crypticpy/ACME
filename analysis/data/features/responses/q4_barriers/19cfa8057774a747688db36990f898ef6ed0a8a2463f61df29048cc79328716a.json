@@ -1,0 +1,46 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underrepresentation of women of color in film direction",
+    "gatekeeping and homogeneity among funders and producers",
+    "economic barriers and lack of generational wealth",
+    "market demand for diverse stories",
+    "potential for Austin to become a hub for filmmakers of color",
+    "lack of access and connections in established film centers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Women of color only account for 3% of Hollywood's directors",
+    "the overwhelming majority of white men who fund and produce our media",
+    "they're spending more money on movies that share their point of view",
+    "the market is not their mirror",
+    "POC film audiences actually outspend their counterparts",
+    "Hollywood is losing an estimation of $10 billion per year over a lack of representation",
+    "We don't have the connections in LA nor the generational wealth to move there",
+    "Money and access are our top barriers",
+    "what if Austin offered POC and female filmmakers both?",
+    "If ACME was intentional with this mission... it would be a moneymaker for the city and for its most underserved artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "lack of representation among directors and producers",
+    "homogeneity of funders and decision-makers",
+    "lack of industry connections in LA",
+    "lack of generational wealth",
+    "insufficient access to money and resources"
+  ],
+  "solutions_proposed": [
+    "Austin becoming the top indie filmmaking hub for artists of color",
+    "ACME intentionally supporting POC and female filmmakers, even if coded for political purposes"
+  ],
+  "cached_at": "2025-06-21T01:47:49.383274",
+  "cache_key": "19cfa8057774a747688db36990f898ef6ed0a8a2463f61df29048cc79328716a",
+  "model": "gpt-41"
+}

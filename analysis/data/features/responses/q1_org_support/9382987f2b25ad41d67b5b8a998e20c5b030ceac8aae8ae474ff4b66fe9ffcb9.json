@@ -1,0 +1,23 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for nonprofits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Better support nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Better support nonprofits"
+  ],
+  "cached_at": "2025-06-20T10:41:07.500359",
+  "cache_key": "9382987f2b25ad41d67b5b8a998e20c5b030ceac8aae8ae474ff4b66fe9ffcb9",
+  "model": "gpt-41"
+}

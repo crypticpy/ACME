@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct engagement with organizational leadership",
+    "financial support for sustaining existing cultural spaces",
+    "investment in emerging artistic talent"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Direct contact with the individuals and boards that run these organizations",
+    "Financial support that focuses on keeping existing spaces open",
+    "fostering new talent in the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct engagement with organizational leadership",
+    "insufficient financial support for maintaining spaces"
+  ],
+  "solutions_proposed": [
+    "Increase direct contact with individuals and boards running organizations",
+    "Provide financial support to keep existing spaces open",
+    "Support the development of new talent in the arts"
+  ],
+  "cached_at": "2025-06-20T10:37:07.670943",
+  "cache_key": "5c59441e78d9ac479f0e61de04f27cff356ccff435926ab2d4e6f3ef92267d2a",
+  "model": "gpt-41"
+}

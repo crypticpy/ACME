@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased grant funding",
+    "support for nonprofits"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More grants for nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More grants for nonprofits"
+  ],
+  "cached_at": "2025-06-20T10:22:15.455102",
+  "cache_key": "cc4ab41ca8aa8322359673b37fc2212c82216dd00c93748fff68294c81b674ac",
+  "model": "gpt-41"
+}

@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Overemphasis on EDI/intersectionality in grant scoring",
+    "Negative impact on established arts groups",
+    "Disruption following pandemic hardships",
+    "Need for multi-year operating grants",
+    "Sustainability of grantees"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "intersectionality and diversity took up too much of the scoring criteria",
+    "leaving a lot of established arts groups without support from the city",
+    "too much of a shakeup, especially after the pandemic devastated the performing arts industry",
+    "grants should be multi-year operating grants",
+    "to better ensure sustainability among grantees",
+    "not grants that can change from year to year"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Overweighting of EDI/intersectionality in scoring criteria",
+    "Lack of support for established arts groups",
+    "Instability of year-to-year grant funding"
+  ],
+  "solutions_proposed": [
+    "Reduce emphasis on intersectionality and diversity in scoring criteria",
+    "Provide multi-year operating grants to ensure sustainability"
+  ],
+  "cached_at": "2025-06-21T01:11:43.657354",
+  "cache_key": "64ea0e15537a0cc95955be738fc2e25f0de32a8abf340cf362d29db0f58cf54a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inclusion of legacy organizations in funding",
+    "recognition of long-standing cultural impact",
+    "need for tailored grant categories",
+    "sustainability amidst rising operational costs",
+    "preservation of Austin\u2019s cultural identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Ensure that legacy organizations\u2014those with over five years of proven impact and a strong track record in Austin\u2014are actively included in the grant process",
+    "not overlooked and or excluded",
+    "establishing a separate grant category specifically for long-standing organizations",
+    "contributed significantly to the cultural fabric of the city",
+    "must receive support to sustain their value amidst the rising costs of operations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "legacy organizations being overlooked or excluded from the grant process",
+    "rising costs of operations threatening sustainability"
+  ],
+  "solutions_proposed": [
+    "actively include legacy organizations in the grant process",
+    "establish a separate grant category for long-standing organizations"
+  ],
+  "cached_at": "2025-06-21T01:14:40.624192",
+  "cache_key": "5adae79e20beefb7f98b7dba8ac635714128705f96abcd464b1a19ac0a1448f6",
+  "model": "gpt-41"
+}

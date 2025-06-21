@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "popular education",
+    "educational programming",
+    "underrepresentation of educational services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "popular education",
+    "other educational programs"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer popular education programs",
+    "offer other educational programs"
+  ],
+  "cached_at": "2025-06-21T02:05:14.533263",
+  "cache_key": "c949fbfa83862868f808948132bc5d30433bfe915f2d301174b6a183643926f7",
+  "model": "gpt-41"
+}

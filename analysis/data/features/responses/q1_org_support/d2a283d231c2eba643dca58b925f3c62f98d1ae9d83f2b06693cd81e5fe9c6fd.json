@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for consistent funding",
+    "importance of budgeting for support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "consistent budgeted financial support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent financial support"
+  ],
+  "solutions_proposed": [
+    "provide consistent budgeted financial support"
+  ],
+  "cached_at": "2025-06-20T10:34:30.111562",
+  "cache_key": "d2a283d231c2eba643dca58b925f3c62f98d1ae9d83f2b06693cd81e5fe9c6fd",
+  "model": "gpt-41"
+}

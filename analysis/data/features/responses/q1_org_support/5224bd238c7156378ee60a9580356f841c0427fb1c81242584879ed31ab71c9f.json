@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "access to venue space",
+    "utilization of cultural centers",
+    "support for organizations and leaders"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "giving them access to venue space",
+    "at the cultural centers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access to venue space"
+  ],
+  "solutions_proposed": [
+    "give organizations and cultural leaders access to venue space at the cultural centers"
+  ],
+  "cached_at": "2025-06-20T01:14:10.227206",
+  "cache_key": "5224bd238c7156378ee60a9580356f841c0427fb1c81242584879ed31ab71c9f",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "raising awareness of artists and musicians",
+    "community growth through cultural support",
+    "the expanding Austin community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Support the awareness of artists and musicians",
+    "their art, within the ever expanding community of Austin",
+    "everything will grow from it",
+    "A tide that raises all ships"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Support the awareness of artists and musicians and their art within the community"
+  ],
+  "cached_at": "2025-06-20T10:28:08.954135",
+  "cache_key": "5970646a54d29949178f8f6d261772830d2d71fede650c8af1a99c44b8a584db",
+  "model": "gpt-41"
+}

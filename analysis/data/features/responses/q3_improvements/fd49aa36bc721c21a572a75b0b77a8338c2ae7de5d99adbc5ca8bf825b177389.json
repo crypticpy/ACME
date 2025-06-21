@@ -1,0 +1,45 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Need for improved communication strategies",
+    "Active outreach to underrepresented populations",
+    "Panelist recruitment and training from target communities",
+    "Support for grassroots and under-resourced arts organizations",
+    "Diversification of communication channels",
+    "Locally-led training and workshops"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "communication remains the biggest area for improvement",
+    "active outreach and engagement",
+    "increasing accessibility for historically underrepresented populations",
+    "robust support to identify, engage, and train funding program panelists",
+    "experiments in outreach to ensure that such desired constituencies are aware and apply",
+    "collaboration...to engage organizations/collectives/individuals already serving them",
+    "broader network of communication channels",
+    "workshops...paired with others led by locals within the creative community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient communication",
+    "lack of outreach to underrepresented populations",
+    "limited support for grassroots and under-resourced community workers",
+    "overreliance on external (tourism consultancy) workshops"
+  ],
+  "solutions_proposed": [
+    "Focused attention on communications",
+    "More robust support to identify, engage, and train funding program panelists from and committed to serving desired constituencies",
+    "Active experiments in outreach to ensure awareness and support for underrepresented groups",
+    "Collaboration with organizations/collectives/individuals already serving under-resourced communities",
+    "Implementing a broader network of communication channels",
+    "Pairing mandatory workshops with sessions led by local creative community experts"
+  ],
+  "cached_at": "2025-06-21T01:00:28.277382",
+  "cache_key": "fd49aa36bc721c21a572a75b0b77a8338c2ae7de5d99adbc5ca8bf825b177389",
+  "model": "gpt-41"
+}

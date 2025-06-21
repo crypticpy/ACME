@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct financial support for musicians",
+    "cost of living challenges",
+    "needs-based assistance",
+    "municipal responsibility in supporting artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "give support to Full time musicians",
+    "credit card amount to be determined on the need",
+    "help off set the high cost of rent/food/gas and necessities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of rent",
+    "high cost of food",
+    "high cost of gas",
+    "high cost of necessities"
+  ],
+  "solutions_proposed": [
+    "City of Austin should give support to full time musicians with a credit card amount based on need"
+  ],
+  "cached_at": "2025-06-20T10:25:16.013926",
+  "cache_key": "b85467aa4ccd85fc96023a0d382bd4513ac4ab0fb2dfcf21bdf9b2c785cf78d1",
+  "model": "gpt-41"
+}

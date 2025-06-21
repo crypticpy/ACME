@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased funding",
+    "perceived funding insufficiency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "More funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "increase funding"
+  ],
+  "cached_at": "2025-06-21T02:07:16.452289",
+  "cache_key": "030856d0bff6e3ea0f33135ad594f7b3d0f5d3589987ab5b684a508e78704a32",
+  "model": "gpt-41"
+}

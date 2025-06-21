@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of instruments",
+    "cost of costumes",
+    "access to decent performance venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "afford instruments",
+    "costumes to perform",
+    "decent venues to perform"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inability to afford instruments",
+    "inability to afford costumes",
+    "lack of access to decent venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:13.259459",
+  "cache_key": "c1569b60edd1ddae29bfbf49ae33cbf9e9970f167e8a927f95a27f061b14290f",
+  "model": "gpt-41"
+}

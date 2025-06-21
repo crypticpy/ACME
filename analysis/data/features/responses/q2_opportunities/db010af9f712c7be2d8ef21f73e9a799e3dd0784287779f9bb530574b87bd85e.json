@@ -1,0 +1,42 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "multidisciplinary and immersive art experiences",
+    "centering BIPOC, queer, and femme voices",
+    "experimental and non-traditional performance formats",
+    "community healing and sensuality in the arts",
+    "artist risk-taking and cross-medium collaboration",
+    "funding and accessibility for bold artistic work"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more multidisciplinary, immersive art experiences",
+    "blend performance, poetry, movement, and visual storytelling",
+    "rooted in culture, sensuality, and community healing",
+    "platforms that center BIPOC, queer, and femme voices",
+    "experimental formats\u2014not just traditional stage shows",
+    "spaces where artists can take risks, collaborate across mediums",
+    "poetry-infused burlesque, interactive installations, ritual performance, sensory-based experiences",
+    "opportunities funded and accessible\u2014so artists can be bold and sustainable"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of platforms that center BIPOC, queer, and femme voices",
+    "limited experimental/non-traditional performance opportunities",
+    "insufficient funding and accessibility for bold artistic work"
+  ],
+  "solutions_proposed": [
+    "create more multidisciplinary, immersive art experiences",
+    "develop platforms centering BIPOC, queer, and femme voices in experimental formats",
+    "provide spaces for artist risk-taking and cross-medium collaboration",
+    "fund and make accessible opportunities for bold and sustainable artistic work"
+  ],
+  "cached_at": "2025-06-21T00:46:23.542035",
+  "cache_key": "db010af9f712c7be2d8ef21f73e9a799e3dd0784287779f9bb530574b87bd85e",
+  "model": "gpt-41"
+}

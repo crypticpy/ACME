@@ -1,0 +1,43 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for authentic grassroots experiences",
+    "accessibility of artists",
+    "proximity and walkability of venues",
+    "concern about commercialization",
+    "affordability for average attendees",
+    "overall event atmosphere and vibe"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "going back to the authentic grassroots of SXSW",
+    "artists were accessible",
+    "venues were all located close together",
+    "creating a nice vibe for foot traffic",
+    "less commercialization",
+    "average customer could attend",
+    "walk away feeling like they had a great experience"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "SXSW"
+  ],
+  "barriers_identified": [
+    "commercialization",
+    "lack of affordability for average attendees",
+    "reduced accessibility to artists"
+  ],
+  "solutions_proposed": [
+    "return to authentic grassroots format",
+    "increase artist accessibility",
+    "locate venues close together for walkability",
+    "reduce commercialization to improve affordability"
+  ],
+  "cached_at": "2025-06-21T00:48:59.907401",
+  "cache_key": "6d2a97e794742718797d79fb562228b9ac33b8b553b73dfa1bc13526d4fd568f",
+  "model": "gpt-41"
+}

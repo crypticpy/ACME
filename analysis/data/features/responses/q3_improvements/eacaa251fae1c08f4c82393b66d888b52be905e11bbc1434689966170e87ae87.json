@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "prioritization of longstanding events",
+    "financial pressures on established events",
+    "concern about funding allocation to new events",
+    "threat of displacement due to rising costs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "consider existing events that have taken place for decades",
+    "trying to overcome increasing cost",
+    "forcing them out",
+    "save existing events first before helping new unproven events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "increasing cost forcing out longstanding events"
+  ],
+  "solutions_proposed": [
+    "prioritize saving existing events before funding new unproven events"
+  ],
+  "cached_at": "2025-06-21T01:02:49.510777",
+  "cache_key": "eacaa251fae1c08f4c82393b66d888b52be905e11bbc1434689966170e87ae87",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for local events",
+    "support for community-run festivals",
+    "municipal grants and sponsorships"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Grants and sponsorships",
+    "local run events",
+    "festivals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Provide grants and sponsorships for locally run events and festivals"
+  ],
+  "cached_at": "2025-06-21T00:36:39.313488",
+  "cache_key": "50e83b0afd7f9ba35af4c382bff8653c78125b9eeeec452a9d4e447eef1056b8",
+  "model": "gpt-41"
+}

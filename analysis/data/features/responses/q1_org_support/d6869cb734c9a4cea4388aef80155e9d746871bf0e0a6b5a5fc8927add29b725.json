@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of funding for Big Medium",
+    "community needs unmet",
+    "negative impact on cultural ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Big Medium needed funding",
+    "That was lost",
+    "gaping hole in the community",
+    "a need within the community that is grossly, not met"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "loss of funding for key cultural organization"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:27:32.481377",
+  "cache_key": "d6869cb734c9a4cea4388aef80155e9d746871bf0e0a6b5a5fc8927add29b725",
+  "model": "gpt-41"
+}

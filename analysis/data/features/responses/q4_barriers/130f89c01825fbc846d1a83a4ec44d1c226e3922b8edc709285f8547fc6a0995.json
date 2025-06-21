@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of information about programs",
+    "difficulty accessing support",
+    "awareness barriers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Not having info on any of these programs",
+    "how to get support"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information on programs",
+    "unclear process for getting support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:14.993629",
+  "cache_key": "130f89c01825fbc846d1a83a4ec44d1c226e3922b8edc709285f8547fc6a0995",
+  "model": "gpt-41"
+}

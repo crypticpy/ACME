@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about programs",
+    "need for increased social media outreach"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "I\u2019m unsure of these",
+    "more social media presence"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "uncertainty about available programs"
+  ],
+  "solutions_proposed": [
+    "more social media presence"
+  ],
+  "cached_at": "2025-06-21T01:15:00.076193",
+  "cache_key": "20b1695a77c656df6ebf3c4bdc90b5fc62574123a7ffd69130460cac2a83f291",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived lack of institutional support for traditional community music groups",
+    "Tension between tradition and contemporary programming",
+    "Recognition without corresponding support",
+    "Undervaluing of longstanding cultural traditions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "we're a community band that values older music",
+    "we program much in the way of younger composers and a variety of current composers",
+    "we still are a Community band that plays in the town square",
+    "Your program just doesn't value us at all",
+    "We're the 'Official Band' of the City of Austin",
+    "we don't feel like ANY support for continuing our tradition is there"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Perceived lack of value and support from city cultural programs for traditional community bands",
+    "Disconnect between official recognition and actual support"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:57.021750",
+  "cache_key": "9006ef63494835709292f6eb7f67f8ab4207633ba1ddb93a29612fddc6174553",
+  "model": "gpt-41"
+}

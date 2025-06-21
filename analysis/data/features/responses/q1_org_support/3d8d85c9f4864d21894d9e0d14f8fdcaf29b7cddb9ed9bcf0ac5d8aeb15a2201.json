@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "importance of grassroots and community-based organizations",
+    "need for expanded and accessible grant funding",
+    "inclusion of cultural leaders in decision-making",
+    "support for underserved and diverse communities",
+    "barriers faced by smaller organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "powerful local music organizations",
+    "building connection, belonging, and mental well-being",
+    "prioritize continued and expanded grant funding",
+    "actively include cultural leaders from these organizations in decision-making processes",
+    "ensure that funding is accessible\u2014not just to large institutions, but also to the smaller groups",
+    "serve diverse and often underserved communities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding is not accessible to smaller groups",
+    "smaller groups that serve diverse and underserved communities face challenges"
+  ],
+  "solutions_proposed": [
+    "prioritize continued and expanded grant funding for grassroots and community-based groups",
+    "actively include cultural leaders from these organizations in decision-making processes",
+    "ensure that funding is accessible to smaller groups as well as large institutions"
+  ],
+  "cached_at": "2025-06-20T10:32:24.619174",
+  "cache_key": "3d8d85c9f4864d21894d9e0d14f8fdcaf29b7cddb9ed9bcf0ac5d8aeb15a2201",
+  "model": "gpt-41"
+}

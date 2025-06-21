@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "underrepresentation of non-Mexican Latin music",
+    "desire for cultural diversity in music programming",
+    "lack of access to specific cultural expressions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More access to Latin music that is NOT Mexican"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to non-Mexican Latin music"
+  ],
+  "solutions_proposed": [
+    "offer more access to Latin music that is not Mexican"
+  ],
+  "cached_at": "2025-06-21T01:52:00.326703",
+  "cache_key": "9a5ef2892506194d1be7207cc731082d558a47306e3fb001eb20f9022d63616d",
+  "model": "gpt-41"
+}

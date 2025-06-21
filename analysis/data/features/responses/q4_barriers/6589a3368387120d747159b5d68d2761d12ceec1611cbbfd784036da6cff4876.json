@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible communication channels",
+    "financial barriers to participation",
+    "reliance on social media for information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "without social media it is hard to know what is going on",
+    "funding for tickets and/or venue prices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing information without social media",
+    "cost of tickets and venue prices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:46.206664",
+  "cache_key": "6589a3368387120d747159b5d68d2761d12ceec1611cbbfd784036da6cff4876",
+  "model": "gpt-41"
+}

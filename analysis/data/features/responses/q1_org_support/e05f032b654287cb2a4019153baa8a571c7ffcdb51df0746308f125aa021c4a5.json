@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased promotion of artists",
+    "financial compensation for artists",
+    "valuing artists' time and work"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more promotion",
+    "financial support",
+    "artists are paid for their time and work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of promotion",
+    "insufficient financial support",
+    "artists not being paid for their time and work"
+  ],
+  "solutions_proposed": [
+    "more promotion",
+    "increased financial support so that artists are paid"
+  ],
+  "cached_at": "2025-06-20T10:37:58.351721",
+  "cache_key": "e05f032b654287cb2a4019153baa8a571c7ffcdb51df0746308f125aa021c4a5",
+  "model": "gpt-41"
+}

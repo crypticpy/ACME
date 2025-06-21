@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of public awareness about programs",
+    "confusion due to too many city programs and sponsors",
+    "need for better communication and education",
+    "accessibility defined as informational clarity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "I have no idea what all you offer or what you are about",
+    "way too many city programs, sponsors, and departments",
+    "focus on educating the people on what's what and who does what first",
+    "that's the biggest 'accessabilty' issue here"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information about available programs",
+    "confusion caused by multiple overlapping city entities"
+  ],
+  "solutions_proposed": [
+    "focus on educating the people on what's what and who does what first"
+  ],
+  "cached_at": "2025-06-21T02:04:27.137767",
+  "cache_key": "41d802f4c83c848f0d69e194d2a72f394f2c9ce188f02965129dbad51028be27",
+  "model": "gpt-41"
+}

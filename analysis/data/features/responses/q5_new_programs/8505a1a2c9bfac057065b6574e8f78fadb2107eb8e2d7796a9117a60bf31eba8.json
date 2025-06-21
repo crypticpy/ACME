@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "failure to release voter-approved arts funding",
+    "impact of real estate price increases on artists",
+    "lack of affordable creative space",
+    "perceived opposition within city government to arts needs",
+    "missed opportunities for property acquisition"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Austin voted $15,000,000, (12,000,000) in bonds for creative property acquisition",
+    "At least 8 years went by without releasing any of it despite multiple viable sites",
+    "Real estates price have tripled since then",
+    "Hard proof that there are folks in city government that are working directly against fundamental arts needs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "failure to release allocated bond funds",
+    "rising real estate prices",
+    "lack of affordable space for artists",
+    "perceived obstruction by city government"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:58:08.071249",
+  "cache_key": "8505a1a2c9bfac057065b6574e8f78fadb2107eb8e2d7796a9117a60bf31eba8",
+  "model": "gpt-41"
+}

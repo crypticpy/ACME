@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "barriers faced by marginalized artists",
+    "racial and LGBTQ+ inequity",
+    "organizational responsibility for access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "marginalized artists",
+    "especially Black and queer artists",
+    "facing extra barriers",
+    "would love to have organizations remove some of these"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "extra barriers for marginalized artists",
+    "additional challenges for Black and queer artists"
+  ],
+  "solutions_proposed": [
+    "organizations remove some of these barriers"
+  ],
+  "cached_at": "2025-06-21T01:43:54.960109",
+  "cache_key": "ee912d010875dc949b75661d8a78b501fae3583acbda6de28dcdb6b883e6edab",
+  "model": "gpt-41"
+}

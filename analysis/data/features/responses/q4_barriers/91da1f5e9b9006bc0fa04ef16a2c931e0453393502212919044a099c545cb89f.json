@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "compartmentalized thinking as a barrier",
+    "environmental crisis impacting arts community",
+    "inadequate financial support for sustainable arts practices",
+    "rejection of arts as entertainment only"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "A massive barrier is compartmentalized thinking",
+    "severe drought, massive development is destroying our water-table and green spaces",
+    "the arts community cannot be expected to operate as the king's jester",
+    "should be absolutely financially supported for sustainable practices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "compartmentalized thinking",
+    "environmental degradation (drought, destruction of water-table and green spaces)",
+    "expectation for arts community to serve as entertainment only",
+    "lack of financial support for sustainable practices"
+  ],
+  "solutions_proposed": [
+    "financially support the arts community for sustainable practices"
+  ],
+  "cached_at": "2025-06-21T01:21:45.768510",
+  "cache_key": "91da1f5e9b9006bc0fa04ef16a2c931e0453393502212919044a099c545cb89f",
+  "model": "gpt-41"
+}

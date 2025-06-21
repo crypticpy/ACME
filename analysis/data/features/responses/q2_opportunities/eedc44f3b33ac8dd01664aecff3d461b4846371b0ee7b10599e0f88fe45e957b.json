@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "inclusivity in cultural arts",
+    "integration with mainstream opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more inclusive cultural arts",
+    "entertainment integrated into mainstream opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of inclusivity in mainstream cultural arts and entertainment"
+  ],
+  "solutions_proposed": [
+    "integrate inclusive cultural arts and entertainment into mainstream opportunities"
+  ],
+  "cached_at": "2025-06-21T00:38:23.744108",
+  "cache_key": "eedc44f3b33ac8dd01664aecff3d461b4846371b0ee7b10599e0f88fe45e957b",
+  "model": "gpt-41"
+}

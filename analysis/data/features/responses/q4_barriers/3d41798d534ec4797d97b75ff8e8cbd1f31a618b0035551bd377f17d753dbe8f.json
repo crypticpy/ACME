@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of producing arts",
+    "high cost of participating in arts",
+    "financial barriers to access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "too expensive to put on",
+    "too expensive to participate in"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of producing arts events",
+    "cost of participating in arts activities"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:24:55.007968",
+  "cache_key": "3d41798d534ec4797d97b75ff8e8cbd1f31a618b0035551bd377f17d753dbe8f",
+  "model": "gpt-41"
+}

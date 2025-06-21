@@ -1,0 +1,39 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "deep personal connection to Austin and its creative culture",
+    "negative impact of cultural funding policy changes post-Covid",
+    "perceived penalization due to board/leadership demographics",
+    "loss of unique cultural programming (Latin American music)",
+    "urgency of supporting the arts in challenging societal times"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I love this city so. very. much.",
+    "I poured my heart into the ensemble I started right here in Austin in 2011",
+    "Covid hit. As we came out of Covid, I was hopeful that we'd quickly get back to where we were, but then the massive changes to cultural arts funding hit",
+    "we were penalized because our board and directors are not BIPoC",
+    "the art we present is very directly related to BIPoC cultures/communities, but because of the whiteness of our leadership, we were penalized and shut out of funding",
+    "The Latin American music we presented all of the time was in many instances performed nowhere else in the country",
+    "now that we've had to go on long-term hiatus due to funding issues, it's not being played anywhere in the US at all",
+    "we need all of the arts more than ever",
+    "Please help us do our part to guide our community through these scary times by supporting us in our efforts to add some beauty to what is rapidly becoming a very ugly world"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "penalization in funding due to lack of BIPoC leadership despite diverse musician pool",
+    "loss of funding leading to long-term hiatus of ensemble",
+    "inability to present unique cultural programming (Latin American music)"
+  ],
+  "solutions_proposed": [
+    "support us in our efforts to add some beauty to what is rapidly becoming a very ugly world"
+  ],
+  "cached_at": "2025-06-21T02:10:58.106570",
+  "cache_key": "1756187aa013dd59fde606212fed9d4fe2f10e063f200560b0b4c76063c643ea",
+  "model": "gpt-41"
+}

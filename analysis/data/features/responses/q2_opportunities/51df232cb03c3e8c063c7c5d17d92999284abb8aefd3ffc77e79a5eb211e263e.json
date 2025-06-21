@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for spaces for visual artists",
+    "support for visual arts infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "spaces for visual artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of spaces for visual artists"
+  ],
+  "solutions_proposed": [
+    "create or provide more spaces for visual artists"
+  ],
+  "cached_at": "2025-06-21T00:53:19.746282",
+  "cache_key": "51df232cb03c3e8c063c7c5d17d92999284abb8aefd3ffc77e79a5eb211e263e",
+  "model": "gpt-41"
+}

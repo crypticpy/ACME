@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "increased public art",
+    "expanded music presence",
+    "desire for ubiquity of cultural experiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More art and music everywhere"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the presence of art and music in more locations"
+  ],
+  "cached_at": "2025-06-21T01:15:26.302121",
+  "cache_key": "d2382bdc4aa1be3eb3be3e2690cad63abdc579f30adb5dbf81f65531c29adddc",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of funding for impactful organizations",
+    "lack of city support for established arts organizations",
+    "decision-makers' lack of understanding of the arts landscape",
+    "need for greater engagement by city staff",
+    "importance of partnerships with knowledgeable stakeholders"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "an organization that gave space for over 1000 artists each year lost their city funding",
+    "a testament to how poorly the city is supporting existing organizations",
+    "people who are in a position to be able to make decisions about where funding goes [do not] understand the landscape well enough",
+    "ACME could better support the arts by investing more of their time, or partnering with people who do invest their time in understanding the existing landscape",
+    "I've never seen anyone who works for the city and makes decisions about the future of Austin's art community at any events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium"
+  ],
+  "barriers_identified": [
+    "loss of city funding for impactful organizations",
+    "decision-makers' lack of understanding of the arts landscape",
+    "lack of city staff presence at arts events"
+  ],
+  "solutions_proposed": [
+    "ACME investing more time in understanding the existing landscape",
+    "partnering with people who do invest their time in understanding the arts community"
+  ],
+  "cached_at": "2025-06-20T01:18:25.512799",
+  "cache_key": "66821fc1378260a0ee16b919b427604be6b09a355906679cc0546ff988f862d1",
+  "model": "gpt-41"
+}

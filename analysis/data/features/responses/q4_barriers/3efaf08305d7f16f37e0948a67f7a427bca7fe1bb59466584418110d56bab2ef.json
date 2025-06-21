@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness about available resources",
+    "complex or time-consuming application processes",
+    "limited funding for smaller or grassroots groups",
+    "insufficient outreach to underrepresented communities",
+    "transportation challenges",
+    "affordability of events or programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "lack of awareness about available resources",
+    "complex or time-consuming application processes",
+    "limited funding for smaller or grassroots groups",
+    "insufficient outreach to underrepresented communities",
+    "transportation and affordability can also be challenges"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about available resources",
+    "complex or time-consuming application processes",
+    "limited funding for smaller or grassroots groups",
+    "insufficient outreach to underrepresented communities",
+    "transportation challenges",
+    "affordability challenges"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:48:32.916036",
+  "cache_key": "3efaf08305d7f16f37e0948a67f7a427bca7fe1bb59466584418110d56bab2ef",
+  "model": "gpt-41"
+}

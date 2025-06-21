@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "zoning restrictions",
+    "lack of neighborhood venues",
+    "regulatory barriers to cultural spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Zoning prevents smaller venues from operating in neighborhoods"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "zoning prevents smaller venues from operating in neighborhoods"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:53.491968",
+  "cache_key": "b415b597cbeeca7b28898c26ddf8a0330bc4edf522c3a065f32f94cd98e81fad",
+  "model": "gpt-41"
+}

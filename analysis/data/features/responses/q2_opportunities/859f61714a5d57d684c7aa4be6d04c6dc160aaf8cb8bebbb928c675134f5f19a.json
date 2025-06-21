@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live theater",
+    "interest in public art (murals)"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Live theater",
+    "murals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase live theater opportunities",
+    "increase murals in the city"
+  ],
+  "cached_at": "2025-06-21T00:35:33.706906",
+  "cache_key": "859f61714a5d57d684c7aa4be6d04c6dc160aaf8cb8bebbb928c675134f5f19a",
+  "model": "gpt-41"
+}

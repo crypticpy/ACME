@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach",
+    "support with application process",
+    "awareness of assistance organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more advertisements",
+    "organizations who help you fill out the application process",
+    "for the grants and loans"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about organizations that assist with applications"
+  ],
+  "solutions_proposed": [
+    "more advertisements about the organizations who help you fill out the application process"
+  ],
+  "cached_at": "2025-06-21T01:18:06.320358",
+  "cache_key": "0d891c4835c449cd3519bfed0c0b1da6d23f6f4be767e446c36ef942b9c057a4",
+  "model": "gpt-41"
+}

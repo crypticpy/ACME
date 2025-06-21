@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "desire for free public events",
+    "fair compensation for artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more free events for the public",
+    "artists are being paid fairly"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free events",
+    "artists not being paid fairly"
+  ],
+  "solutions_proposed": [
+    "increase free events for the public",
+    "ensure fair payment for artists"
+  ],
+  "cached_at": "2025-06-21T00:43:52.359868",
+  "cache_key": "21335063fc91db55fae563ecf08150c57af61d5d98b784088274e9b91d0d8fc4",
+  "model": "gpt-41"
+}

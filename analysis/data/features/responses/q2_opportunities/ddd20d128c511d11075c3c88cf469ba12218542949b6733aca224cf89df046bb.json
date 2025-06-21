@@ -1,0 +1,44 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "culturally-rooted and interdisciplinary experiences",
+    "artist-led pop-ups and immersive events in underrepresented neighborhoods",
+    "affordable and accessible live events for locals",
+    "creative economies and skill-sharing opportunities",
+    "leadership and programming centering marginalized communities (BIPOC, queer, immigrant, disabled)",
+    "sustainable, independent nightlife and music venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "culturally-rooted, interdisciplinary, and community-powered experiences",
+    "pop-up shows, street-level galleries, or site-specific performances",
+    "accessible, sliding-scale live events",
+    "created intentionally for locals, not just for tourists or tech audiences",
+    "workshops, residencies, and marketplaces where artists can learn business skills",
+    "events that center BIPOC, queer, immigrant, and disabled voices",
+    "small, safe, independent music venues that prioritize local talent, fair pay, and longevity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of culturally-rooted and interdisciplinary experiences",
+    "events designed mainly for tourists or tech audiences",
+    "limited access to affordable events for locals",
+    "insufficient leadership and representation of marginalized communities",
+    "gentrification and venue closures threatening independent music spaces"
+  ],
+  "solutions_proposed": [
+    "increase artist-led pop-ups and immersive experiences in underrepresented neighborhoods",
+    "offer more accessible, sliding-scale or free live events for locals",
+    "create workshops, residencies, and marketplaces for skill-sharing and collaboration",
+    "develop programming that centers marginalized voices in leadership, storytelling, and funding",
+    "support small, independent music venues prioritizing local talent and fair pay"
+  ],
+  "cached_at": "2025-06-21T00:35:59.199090",
+  "cache_key": "ddd20d128c511d11075c3c88cf469ba12218542949b6733aca224cf89df046bb",
+  "model": "gpt-41"
+}

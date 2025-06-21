@@ -1,0 +1,41 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for the arts",
+    "loss of foundational arts events",
+    "lack of collective vision or collaboration among organizations",
+    "failure to sustain important community programs",
+    "need for organizational support during crises"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "More funding",
+    "a collective vision for the arts in the town",
+    "The studio tour was so valuable to me",
+    "How was such a fundamental arts event and service left to fail",
+    "I wish there was more support for the studio tour from other organizations",
+    "when it became clear that big medium could not support it"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "studio tour",
+    "big medium"
+  ],
+  "barriers_identified": [
+    "lack of funding",
+    "over-reliance on a single organization",
+    "insufficient support from other organizations"
+  ],
+  "solutions_proposed": [
+    "more funding",
+    "a collective vision for the arts",
+    "more support for the studio tour from other organizations"
+  ],
+  "cached_at": "2025-06-20T10:33:34.649642",
+  "cache_key": "6463fa6b513fd9490d240e5154705d662d161379eacc4f7711fd3d233618ad53",
+  "model": "gpt-41"
+}

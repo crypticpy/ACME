@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for grant funding",
+    "support for legacy artists and organizations",
+    "reference to discontinued or changed funding programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grant funding for legacy artists and organizations",
+    "like the CORE grant used to support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CORE grant"
+  ],
+  "barriers_identified": [
+    "lack of grant funding for legacy artists and organizations"
+  ],
+  "solutions_proposed": [
+    "Provide grant funding similar to the CORE grant for legacy artists and organizations"
+  ],
+  "cached_at": "2025-06-20T01:12:23.989306",
+  "cache_key": "ac78c42034b8bc5702ba6436056d849ed0f85ede689f8d3a6916872b4de7db4d",
+  "model": "gpt-41"
+}

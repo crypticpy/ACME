@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community building",
+    "leadership transition",
+    "networking opportunities",
+    "artist and organization engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "A reception to welcome the New Director Angela Means and staff",
+    "allow artists organizations to enjoy some interactions"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Host a reception to welcome the new director and staff and facilitate interactions among artists and organizations"
+  ],
+  "cached_at": "2025-06-21T01:51:19.973397",
+  "cache_key": "502ac935d78cc15a963a999d9588589887480162b74792c6860f877e17d09dee",
+  "model": "gpt-41"
+}

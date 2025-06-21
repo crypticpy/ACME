@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more bellydance education",
+    "interest in dance classes conducted in Spanish",
+    "cultural inclusivity through language"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "educate more about bellydance",
+    "dance classes in Spanish"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of dance classes in Spanish",
+    "limited educational opportunities about bellydance"
+  ],
+  "solutions_proposed": [
+    "increase opportunities to educate about bellydance",
+    "offer more dance classes in Spanish"
+  ],
+  "cached_at": "2025-06-21T00:27:35.667138",
+  "cache_key": "1c1da28fca387d754da53610b57cfd90e6a59c30e51be3e4de8348a9234e9dea",
+  "model": "gpt-41"
+}

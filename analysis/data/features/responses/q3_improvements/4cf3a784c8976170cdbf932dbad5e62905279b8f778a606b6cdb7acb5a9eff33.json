@@ -1,0 +1,26 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for specific collectives",
+    "funding allocation requests"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Fund early era collective!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "early era collective"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Fund early era collective"
+  ],
+  "cached_at": "2025-06-21T01:15:49.059597",
+  "cache_key": "4cf3a784c8976170cdbf932dbad5e62905279b8f778a606b6cdb7acb5a9eff33",
+  "model": "gpt-41"
+}

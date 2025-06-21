@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of independent cinema venues",
+    "critique of current film infrastructure",
+    "request for municipal funding for film",
+    "desire for more film opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More film",
+    "There is no film center for independent cinema in Austin",
+    "the strip mall AFS",
+    "The city should fund a specific cinema venue"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AFS"
+  ],
+  "barriers_identified": [
+    "no film center for independent cinema",
+    "current venue is a strip mall"
+  ],
+  "solutions_proposed": [
+    "The city should fund a specific cinema venue"
+  ],
+  "cached_at": "2025-06-21T00:33:13.378098",
+  "cache_key": "a21c47c1900069268e72f5fa4569121b875afb128713d080461a578bf18743bc",
+  "model": "gpt-41"
+}

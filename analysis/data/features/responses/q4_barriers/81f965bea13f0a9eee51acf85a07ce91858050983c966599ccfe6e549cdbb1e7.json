@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transportation barriers",
+    "geographic accessibility"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Location/Transportation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "location",
+    "transportation"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:22:00.545587",
+  "cache_key": "81f965bea13f0a9eee51acf85a07ce91858050983c966599ccfe6e549cdbb1e7",
+  "model": "gpt-41"
+}

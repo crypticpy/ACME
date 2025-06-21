@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for Afro Caribbean cultural representation",
+    "interest in Native American dance and art",
+    "expansion of cultural diversity in arts programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Afro Carribean",
+    "Native American dance and art",
+    "Cultural arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase opportunities for Afro Caribbean dance and art",
+    "Increase opportunities for Native American dance and art"
+  ],
+  "cached_at": "2025-06-21T00:46:13.859384",
+  "cache_key": "63cc754110979421b1bb6698cd0bea0c539f90cbdbdf95f803c1e2398ae06bd6",
+  "model": "gpt-41"
+}

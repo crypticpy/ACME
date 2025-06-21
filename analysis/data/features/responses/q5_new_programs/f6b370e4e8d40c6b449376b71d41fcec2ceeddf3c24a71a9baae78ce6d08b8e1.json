@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived lack of local author support",
+    "preference for Texas/Austin-focused programming",
+    "critique of current funding priorities",
+    "advocacy for local cultural identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Texas Book Festival is a great event, it focuses on authors and publishers outside of Texas",
+    "events like the Lone Star Festival which focuses on Austin authors and authors from Texas ONLY should be given greater support",
+    "current ZERO support",
+    "Austin should support what they do"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Texas Book Festival",
+    "Lone Star Festival"
+  ],
+  "barriers_identified": [
+    "lack of support for local (Austin/Texas) authors and festivals"
+  ],
+  "solutions_proposed": [
+    "greater support for events like the Lone Star Festival that focus on Austin and Texas authors"
+  ],
+  "cached_at": "2025-06-21T01:50:07.595878",
+  "cache_key": "f6b370e4e8d40c6b449376b71d41fcec2ceeddf3c24a71a9baae78ce6d08b8e1",
+  "model": "gpt-41"
+}

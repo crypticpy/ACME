@@ -1,0 +1,23 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for engagement",
+    "gratitude for organizational efforts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Thank you for this survey opportunity.",
+    "Thank you for your efforts."
+  ],
+  "intent": "expression_of_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:19:23.950509",
+  "cache_key": "173656617febda7e4ca644c1ee0526e106dc3ca9c540cda4920de332b704a349",
+  "model": "gpt-41"
+}

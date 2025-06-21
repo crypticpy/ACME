@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for funding to establish creative spaces",
+    "improving existing creative spaces",
+    "impact of displacement by new development"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "money that can be used to establish new creative spaces",
+    "improve existing ones",
+    "beyond the limitation of being displaced by new development"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limitation of being displaced by new development"
+  ],
+  "solutions_proposed": [
+    "funding that can be used to establish new creative spaces",
+    "funding that can improve existing creative spaces",
+    "funding not limited by risk of displacement from new development"
+  ],
+  "cached_at": "2025-06-21T01:07:45.593650",
+  "cache_key": "32c3bc86ffbb0dc430f4b9f0f26e4099d1fdccb005f31d4931d50ab1a134d907",
+  "model": "gpt-41"
+}

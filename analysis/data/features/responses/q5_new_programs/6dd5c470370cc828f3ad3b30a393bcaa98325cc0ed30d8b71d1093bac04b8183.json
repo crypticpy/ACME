@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for women artists",
+    "career development at all stages",
+    "business skills for artists",
+    "intersectional and inclusive program design",
+    "community partnership in program development",
+    "addressing gaps in access and opportunity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "programs specifically designed to support women artists at all stages of their careers",
+    "grant funding, mentorship networks, residencies, and curated exhibitions that center women\u2019s perspectives",
+    "services that help women navigate the business side of their creative practice",
+    "legal, financial, and marketing support are critically needed",
+    "inclusive, intersectional, and built in partnership with women in the local arts community",
+    "address real gaps in access and opportunity"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gaps in access and opportunity for women artists",
+    "lack of business support services for women artists"
+  ],
+  "solutions_proposed": [
+    "programs specifically for women artists at all career stages",
+    "grant funding for women artists",
+    "mentorship networks for women artists",
+    "residencies for women artists",
+    "curated exhibitions centering women\u2019s perspectives",
+    "legal, financial, and marketing support services for women artists",
+    "inclusive and intersectional program design",
+    "building programs in partnership with women in the local arts community"
+  ],
+  "cached_at": "2025-06-21T01:53:13.794917",
+  "cache_key": "6dd5c470370cc828f3ad3b30a393bcaa98325cc0ed30d8b71d1093bac04b8183",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for events",
+    "inability to pay artists",
+    "financial barriers for performers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "lack of funds to put in events",
+    "pay our artists"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funds to put in events",
+    "lack of funds to pay artists"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:49.060243",
+  "cache_key": "e0b866cde1b820771e4e973db6902618a6e74f07d5c1c3ba58bee205025106d9",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "parking difficulties",
+    "location accessibility",
+    "lack of awareness about events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Parking/location accessiblity",
+    "being uneducated on the availablity of arts and entertainment events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "parking/location accessibility",
+    "lack of awareness of arts and entertainment events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:38:18.349495",
+  "cache_key": "2ef346f66737faa2827a7dc290709bb66db52c0c285514ddfa76af56a2efdabe",
+  "model": "gpt-41"
+}

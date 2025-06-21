@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for artists",
+    "access to practice space",
+    "accessibility for people with disabilities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Help artists get affordable housing locally",
+    "space to practice their crafts",
+    "Provide parking for the handicapped"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable housing for artists",
+    "lack of practice space",
+    "insufficient parking for the handicapped"
+  ],
+  "solutions_proposed": [
+    "Help artists get affordable housing locally",
+    "Provide space to practice their crafts",
+    "Provide parking for the handicapped"
+  ],
+  "cached_at": "2025-06-20T10:42:43.237253",
+  "cache_key": "7c88af544ec8056b5efc3a9b3abbed2a86fe41f90a2b04abce1b6631694c9600",
+  "model": "gpt-41"
+}

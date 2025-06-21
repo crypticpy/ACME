@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased funding",
+    "support for administrative capacity",
+    "equitable distribution of resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "better funding for all",
+    "additional funding for arts organizations",
+    "administrative help for funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of administrative support for funding"
+  ],
+  "solutions_proposed": [
+    "create better funding for all",
+    "create additional funding for arts organizations that need administrative help for funding"
+  ],
+  "cached_at": "2025-06-20T10:35:23.955046",
+  "cache_key": "a35bc2fd11d378f2fae87b1a066b74c0fa37627426ebdf0692863276b5084cdc",
+  "model": "gpt-41"
+}

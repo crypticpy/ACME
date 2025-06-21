@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in music events",
+    "interest in dance events",
+    "desire for competitive cultural programming"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "music and dance competition"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer more music and dance competitions"
+  ],
+  "cached_at": "2025-06-21T00:53:00.839570",
+  "cache_key": "dbf737b2b0eebb5d0307d072ae416f3af69c3336e8229de906a37eeb385726d9",
+  "model": "gpt-41"
+}

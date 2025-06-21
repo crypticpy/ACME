@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased diversity in cultural offerings",
+    "representation of minority groups in arts and entertainment",
+    "concern about dominance of major ethnicity in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more diverse cultural arts and entertainment opportunities",
+    "represent not just the major ethnicity in this city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "overrepresentation of the major ethnicity in cultural programming"
+  ],
+  "solutions_proposed": [
+    "increase diversity of cultural arts and entertainment opportunities",
+    "ensure representation of minority groups"
+  ],
+  "cached_at": "2025-06-21T00:28:51.872207",
+  "cache_key": "b96ef827d47a18a35fee0388ef94df290b8b088013a1d7d202e7025ec1683892",
+  "model": "gpt-41"
+}

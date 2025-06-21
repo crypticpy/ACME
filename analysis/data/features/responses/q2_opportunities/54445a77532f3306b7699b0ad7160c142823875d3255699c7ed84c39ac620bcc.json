@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in digital installations",
+    "preference for architectural installations",
+    "disinterest in murals",
+    "desire for LED walls with rotating features"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Digital and architectural installations",
+    "Not murals",
+    "LED walls with rotating features"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase digital and architectural installations",
+    "Install LED walls with rotating features",
+    "Reduce focus on murals"
+  ],
+  "cached_at": "2025-06-21T00:35:50.825352",
+  "cache_key": "54445a77532f3306b7699b0ad7160c142823875d3255699c7ed84c39ac620bcc",
+  "model": "gpt-41"
+}

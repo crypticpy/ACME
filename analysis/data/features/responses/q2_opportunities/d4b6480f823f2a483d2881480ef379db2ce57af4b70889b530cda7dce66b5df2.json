@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for the arts",
+    "need for operational support",
+    "inadequate compensation for arts workers",
+    "support for one-off productions and events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "WE NEED MORE MONEY",
+    "more money for operating costs",
+    "for one-off productions and events",
+    "to pay living wages to contractors, performers and workers in the arts"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for operating costs",
+    "insufficient resources for productions and events",
+    "inability to pay living wages to arts workers"
+  ],
+  "solutions_proposed": [
+    "increase funding for operating costs",
+    "increase funding for one-off productions and events",
+    "provide living wages to contractors, performers, and workers in the arts"
+  ],
+  "cached_at": "2025-06-21T00:48:46.162262",
+  "cache_key": "d4b6480f823f2a483d2881480ef379db2ce57af4b70889b530cda7dce66b5df2",
+  "model": "gpt-41"
+}

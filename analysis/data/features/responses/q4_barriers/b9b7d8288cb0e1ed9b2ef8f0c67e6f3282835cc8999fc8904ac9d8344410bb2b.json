@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical accessibility of venues",
+    "transportation challenges",
+    "parking difficulties",
+    "affordability of ticket prices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Accessible spaces (locality, transportation, parking)",
+    "Ticket prices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "locality of venues",
+    "transportation",
+    "parking",
+    "ticket prices"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:20.651659",
+  "cache_key": "b9b7d8288cb0e1ed9b2ef8f0c67e6f3282835cc8999fc8904ac9d8344410bb2b",
+  "model": "gpt-41"
+}

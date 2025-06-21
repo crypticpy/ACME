@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for clear grant guidelines",
+    "desire for transparent application feedback",
+    "recognition of long-term local contributors",
+    "support for established local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "Clarity on EXACT guidelines for grant applicants",
+    "follow up on why the applications were specifically denied",
+    "help to understand what didn't work",
+    "hone in appropriately for future applications",
+    "30yr active female resident musician/performer in Austin",
+    "focus on folks who have been here awhile",
+    "helping to bring Austin to what it is today"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of clear grant guidelines",
+    "insufficient feedback on denied applications"
+  ],
+  "solutions_proposed": [
+    "provide exact guidelines for grant applicants",
+    "offer specific feedback on denied applications",
+    "focus funding on long-term local contributors"
+  ],
+  "cached_at": "2025-06-21T01:02:01.850816",
+  "cache_key": "64dd5f22e1e4811941903af2bdceecafbd395a6a4fad33c7627f3963527dd968",
+  "model": "gpt-41"
+}

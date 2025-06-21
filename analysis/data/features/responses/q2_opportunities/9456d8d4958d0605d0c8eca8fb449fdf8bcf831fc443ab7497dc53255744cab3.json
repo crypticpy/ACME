@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "expanded cultural arts for children",
+    "impact of arts on youth development",
+    "representation of local artists and composers",
+    "accessibility and approachability of entertainment",
+    "bringing arts programming into the community"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "expanded cultural arts offerings for children",
+    "nearly miraculous impacts on students",
+    "inspire the next generation of musicians and music lovers",
+    "Live Music Capital of the World",
+    "featuring local artists and composers",
+    "accessible and approachable",
+    "bringing them out of concert halls and into the community"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited accessibility of entertainment opportunities",
+    "arts programming confined to concert halls"
+  ],
+  "solutions_proposed": [
+    "expand cultural arts offerings for children",
+    "feature local artists and composers in programming",
+    "make entertainment opportunities accessible and approachable",
+    "bring arts programming out of concert halls and into the community"
+  ],
+  "cached_at": "2025-06-21T00:45:35.828910",
+  "cache_key": "9456d8d4958d0605d0c8eca8fb449fdf8bcf831fc443ab7497dc53255744cab3",
+  "model": "gpt-41"
+}

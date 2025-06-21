@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for Mexican American cultural events",
+    "support for cultural diversity",
+    "allocation of resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More funds going to Mexican American Cultural Events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase funding for Mexican American Cultural Events"
+  ],
+  "cached_at": "2025-06-21T01:18:07.667735",
+  "cache_key": "1ebbb6f22ca8afde0cf46d93c8d0f1c96b91a69b8d3839b2825b1cbf77842c4c",
+  "model": "gpt-41"
+}

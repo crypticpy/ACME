@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for venues",
+    "shared spaces for multiple organizations",
+    "infrastructure for arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more support for venues",
+    "serving multiple organizations"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of support for venues serving multiple organizations"
+  ],
+  "solutions_proposed": [
+    "increase support for venues that serve multiple organizations"
+  ],
+  "cached_at": "2025-06-21T00:44:05.830318",
+  "cache_key": "ecca200a0a8db98a65bfc9036ebe6b83d0dcd5013c1d635ab0ba102bccd7ca26",
+  "model": "gpt-41"
+}

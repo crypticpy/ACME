@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of venues for Latin music",
+    "exclusion of non-Mexican Latin music",
+    "need for cultural diversity in music programming"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "We need venues to perform Latin music",
+    "that is NOT Mexican music"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of venues for non-Mexican Latin music"
+  ],
+  "solutions_proposed": [
+    "provide venues for Latin music that is not Mexican"
+  ],
+  "cached_at": "2025-06-21T02:11:06.840119",
+  "cache_key": "f31376bbbd00c5e48ef868492ca9bfcf923d8c4852e26ddf1c04adb58369bb39",
+  "model": "gpt-41"
+}

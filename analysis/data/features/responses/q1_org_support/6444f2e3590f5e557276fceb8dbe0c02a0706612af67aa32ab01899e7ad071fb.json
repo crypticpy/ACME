@@ -1,0 +1,44 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Benchmarking Austin against comparable cities",
+    "Advocacy for external grant programs to include Texas",
+    "Artist salary support through city programs",
+    "Lack of affordable, artist-specific housing",
+    "Need for free or affordable city-owned venue spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Look at cities of comparable size",
+    "bring those to austin",
+    "South Arts Collective gives one author a $25k prize in each state",
+    "Pushing them to add Texas to that lineup would be good",
+    "NOLA and NY provide one-year salaries for artists via an application process",
+    "not enough artist-specific housing",
+    "free venue spaces owned by the city",
+    "don't have to pay lots of money as residents to book out spaces"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "South Arts Collective"
+  ],
+  "barriers_identified": [
+    "Lack of artist-specific housing",
+    "High cost to book venue spaces",
+    "Exclusion from certain grant opportunities (e.g., South Arts Collective not including Texas)"
+  ],
+  "solutions_proposed": [
+    "Research and adopt funding opportunities from comparable cities",
+    "Advocate for inclusion of Texas in South Arts Collective prize",
+    "Implement one-year salary programs for artists via application",
+    "Build artist-specific housing",
+    "Provide free city-owned venue spaces for residents"
+  ],
+  "cached_at": "2025-06-20T10:32:06.350597",
+  "cache_key": "6444f2e3590f5e557276fceb8dbe0c02a0706612af67aa32ab01899e7ad071fb",
+  "model": "gpt-41"
+}

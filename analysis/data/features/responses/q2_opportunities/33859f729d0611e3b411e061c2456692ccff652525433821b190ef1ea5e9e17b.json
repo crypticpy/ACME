@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability as a core challenge",
+    "slow pace of current support efforts",
+    "need for urgent city action",
+    "vulnerability of arts community members",
+    "role of advocacy organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "affordability is the main challenge",
+    "admirable, essential efforts underway",
+    "inevitably quite slow-moving",
+    "energetic advocate for urgent action",
+    "material challenges that our arts ecosystem faces",
+    "most vulnerable members of that community"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "affordability",
+    "slow-moving support efforts"
+  ],
+  "solutions_proposed": [
+    "ACME act as an energetic advocate for urgent action by the city",
+    "confront the material challenges that our arts ecosystem faces"
+  ],
+  "cached_at": "2025-06-21T00:30:36.466201",
+  "cache_key": "33859f729d0611e3b411e061c2456692ccff652525433821b190ef1ea5e9e17b",
+  "model": "gpt-41"
+}

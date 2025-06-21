@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived exclusion from opportunities",
+    "lack of organizational change",
+    "feelings of sadness and resignation",
+    "disqualification based on survey answers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "the answers I gave will disqualify me",
+    "until the organization seeks real change",
+    "I will pretty much always be secluded",
+    "It's sad"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "disqualification based on survey responses",
+    "lack of organizational change leading to exclusion"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:17:13.561139",
+  "cache_key": "ec72f3970aead81e71b59f81b347bd30cdc0b5c070476f0af9efa3e6a3f3e7dc",
+  "model": "gpt-41"
+}

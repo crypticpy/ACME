@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "restrictive funding requirements",
+    "artistic freedom and intuition",
+    "lack of support for open-ended projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more opportunities that cover projects that don't have a goal",
+    "developing a project to meet a handful of requirements...is constricting to art",
+    "artists should have the freedom to let their intuition guide the project",
+    "not necessarily mandates on what the project should be about"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "constricting requirements for project funding",
+    "mandates on project content"
+  ],
+  "solutions_proposed": [
+    "offer opportunities for projects without predetermined goals",
+    "reduce or remove mandates on project topics",
+    "allow artists more freedom and intuition in project development"
+  ],
+  "cached_at": "2025-06-21T01:02:56.195334",
+  "cache_key": "ed9fb4ff439ad1be334baeba1d540bab3a6bad244b3a32b14f365ed2a2c521f1",
+  "model": "gpt-41"
+}

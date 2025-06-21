@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived discrimination against legacy organizations",
+    "opposition to ideological litmus tests in funding",
+    "concern over equity initiatives marginalizing existing groups",
+    "fear of reprisal among artists for expressing dissent"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Support legacy organizations",
+    "do not give ideological litmus tests to those seeking funding",
+    "not discrimination under the camouflage of helping 'marginalized groups'",
+    "great community organizations are literally being marginalized in the name of equity",
+    "artists...are afraid to speak up for fear of reprisal"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "ideological litmus tests for funding",
+    "discrimination against legacy organizations",
+    "fear of reprisal for expressing dissent"
+  ],
+  "solutions_proposed": [
+    "Support legacy organizations",
+    "provide fair opportunities",
+    "do not give ideological litmus tests to those seeking funding"
+  ],
+  "cached_at": "2025-06-20T10:39:22.876736",
+  "cache_key": "4b3afcbc8577d8e9a13338c541db7a3a54d50d791052bfe765a8d2b3142d3cf6",
+  "model": "gpt-41"
+}

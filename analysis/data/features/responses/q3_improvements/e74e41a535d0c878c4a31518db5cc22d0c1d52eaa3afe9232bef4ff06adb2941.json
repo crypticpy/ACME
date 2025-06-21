@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for organizations addressing basic needs",
+    "ecological awareness in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more support for organizations addressing basic needs",
+    "ecological awareness"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more support for organizations addressing basic needs",
+    "more support for organizations addressing ecological awareness"
+  ],
+  "cached_at": "2025-06-21T00:55:11.870481",
+  "cache_key": "e74e41a535d0c878c4a31518db5cc22d0c1d52eaa3afe9232bef4ff06adb2941",
+  "model": "gpt-41"
+}

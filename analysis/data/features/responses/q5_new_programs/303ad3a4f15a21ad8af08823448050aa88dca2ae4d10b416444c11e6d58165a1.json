@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship",
+    "support for underrepresented founders",
+    "equity in program access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "Mentorship for underrepresented founders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mentorship for underrepresented founders"
+  ],
+  "solutions_proposed": [
+    "Offer mentorship for underrepresented founders"
+  ],
+  "cached_at": "2025-06-21T01:50:09.340605",
+  "cache_key": "303ad3a4f15a21ad8af08823448050aa88dca2ae4d10b416444c11e6d58165a1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "feelings of exclusion among artists",
+    "complexity of application processes",
+    "lack of institutional trust",
+    "financial barriers and hidden costs",
+    "need for more accessible outreach"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Too many artists don\u2019t apply because they feel shut out before they start",
+    "The process is hard to navigate",
+    "the trust isn\u2019t there",
+    "the hidden costs are too high",
+    "ACME needs to meet people where they are, not where the system assumes they should already be"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "ACME"
+  ],
+  "barriers_identified": [
+    "feelings of being shut out",
+    "hard to navigate process",
+    "lack of trust in the system",
+    "hidden costs"
+  ],
+  "solutions_proposed": [
+    "ACME needs to meet people where they are, not where the system assumes they should already be"
+  ],
+  "cached_at": "2025-06-21T01:25:27.482187",
+  "cache_key": "58099c8f3fe42f6b06ca0483c7bf23524a60643fff6b9b9190f2343fa561bf70",
+  "model": "gpt-41"
+}

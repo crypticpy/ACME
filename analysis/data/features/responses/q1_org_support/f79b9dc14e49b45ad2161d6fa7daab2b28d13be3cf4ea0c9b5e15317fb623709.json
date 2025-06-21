@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Perceived underperformance of longstanding organizations",
+    "Comparisons to other cities' artistic reputations",
+    "Critique of funding allocation based on organizational longevity",
+    "Call for investment in new institutions and venues",
+    "Desire for new artistic infrastructure"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "many longstanding organizations are low-performing, low-impact, and without much reputation/recognition",
+    "Austin isn't a more respected artistic city compared to Houston or Dallas",
+    "Rather than continuing to fund low-impact organizations just because they have been around for 20 years",
+    "put money toward new institutions and venues",
+    "the creation of a new artistic infrastructure for the city"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Continued funding of low-impact, longstanding organizations",
+    "Lack of recognition and reputation for Austin's arts scene"
+  ],
+  "solutions_proposed": [
+    "Redirect funding toward new institutions and venues",
+    "Create a new artistic infrastructure for the city"
+  ],
+  "cached_at": "2025-06-20T10:29:33.582654",
+  "cache_key": "f79b9dc14e49b45ad2161d6fa7daab2b28d13be3cf4ea0c9b5e15317fb623709",
+  "model": "gpt-41"
+}

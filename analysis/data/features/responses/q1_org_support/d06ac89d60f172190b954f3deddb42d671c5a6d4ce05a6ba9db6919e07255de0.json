@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for facility funding",
+    "infrastructure support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Funding for facilities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding for facilities"
+  ],
+  "solutions_proposed": [
+    "provide funding for facilities"
+  ],
+  "cached_at": "2025-06-20T10:34:42.201254",
+  "cache_key": "d06ac89d60f172190b954f3deddb42d671c5a6d4ce05a6ba9db6919e07255de0",
+  "model": "gpt-41"
+}

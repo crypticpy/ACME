@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of public awareness",
+    "insufficient information dissemination",
+    "difficulty discovering programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more information about them",
+    "I didn\u2019t know they existed",
+    "searched for them specifically online"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness",
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "provide more information about cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T00:57:47.835576",
+  "cache_key": "3185bca9801d16500c64b420a1d1960a97522f9dd8241c1bfd11c4fafe88f091",
+  "model": "gpt-41"
+}

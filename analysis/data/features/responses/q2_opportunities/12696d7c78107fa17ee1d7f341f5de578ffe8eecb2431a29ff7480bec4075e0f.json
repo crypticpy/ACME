@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased representation of Black and Brown communities",
+    "increased representation of Queer communities",
+    "support for emerging creatives",
+    "opportunities for professional and financial growth",
+    "artist markets and public recognition"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More Black and Brown events",
+    "More Queer events",
+    "More opportunities for new creatives to break in",
+    "Markets and artists highlights",
+    "Shout outs and Financial/Professional Opportunities for people to grow"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of events for Black and Brown communities",
+    "lack of events for Queer communities",
+    "insufficient opportunities for new creatives",
+    "limited financial/professional growth opportunities"
+  ],
+  "solutions_proposed": [
+    "increase Black and Brown events",
+    "increase Queer events",
+    "create more opportunities for new creatives to break in",
+    "organize markets and artist highlights",
+    "provide shout outs and financial/professional opportunities for people to grow"
+  ],
+  "cached_at": "2025-06-21T00:40:34.633734",
+  "cache_key": "12696d7c78107fa17ee1d7f341f5de578ffe8eecb2431a29ff7480bec4075e0f",
+  "model": "gpt-41"
+}

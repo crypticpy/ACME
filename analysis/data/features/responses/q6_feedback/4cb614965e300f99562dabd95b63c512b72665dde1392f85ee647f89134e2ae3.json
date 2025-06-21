@@ -1,0 +1,31 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of community support for for-profit cultural entities",
+    "painful transition from for-profit to non-profit status",
+    "desire for funding/support for for-profit organizations and artists",
+    "mission continuity despite organizational change"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "lots of good for-profit companies out there",
+    "converted to a non-profit painfully because we weren't getting any community support",
+    "our mission has remained the same",
+    "would love to see support of for-profit organizations and artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of community support for for-profit organizations"
+  ],
+  "solutions_proposed": [
+    "support of for-profit organizations and artists"
+  ],
+  "cached_at": "2025-06-21T02:11:19.160273",
+  "cache_key": "4cb614965e300f99562dabd95b63c512b72665dde1392f85ee647f89134e2ae3",
+  "model": "gpt-41"
+}

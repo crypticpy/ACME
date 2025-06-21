@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability barriers",
+    "insufficient physical space",
+    "parking limitations",
+    "restricted operating hours",
+    "outdated facilities or resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Cost",
+    "lack of space",
+    "lack of parking",
+    "Limited hours",
+    "Outdated resources"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Cost",
+    "lack of space",
+    "lack of parking",
+    "Limited hours",
+    "Outdated resources"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:39:16.117608",
+  "cache_key": "49116f196c7e192946e325e4aa9cb2dd8f95ff31b844df0d3b10b07a966c5c50",
+  "model": "gpt-41"
+}

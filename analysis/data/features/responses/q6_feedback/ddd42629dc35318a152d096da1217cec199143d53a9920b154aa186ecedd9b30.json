@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "appreciation for staff",
+    "acknowledgement of hard work",
+    "gratitude toward ACME and former CAD staff"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "This is hard work",
+    "I appreciate the core ACME staff (former CAD staff) so much",
+    "Thank you"
+  ],
+  "intent": "expression_of_gratitude",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:38.073028",
+  "cache_key": "ddd42629dc35318a152d096da1217cec199143d53a9920b154aa186ecedd9b30",
+  "model": "gpt-41"
+}

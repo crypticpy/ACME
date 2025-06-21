@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "dissatisfaction with new grant structure",
+    "impact on established arts groups",
+    "concern over funding denial",
+    "balancing support for new and existing organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Return to the prior structure for the city arts grants",
+    "Groups like the Austin Civic Wind Ensemble were denied funding twice",
+    "shocking and misguided",
+    "support new organizations without abandoning others"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Austin Civic Wind Ensemble"
+  ],
+  "barriers_identified": [
+    "denial of funding to established groups under new system"
+  ],
+  "solutions_proposed": [
+    "Return to the prior structure for the city arts grants",
+    "support new organizations without abandoning others"
+  ],
+  "cached_at": "2025-06-21T00:55:17.070546",
+  "cache_key": "c5b7d4e895db4bcd343d68acc4572c3924c2f0d8108ca70d1d84459a33329b52",
+  "model": "gpt-41"
+}

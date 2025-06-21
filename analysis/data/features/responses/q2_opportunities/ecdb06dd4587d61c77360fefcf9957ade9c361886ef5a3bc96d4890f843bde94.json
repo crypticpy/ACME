@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient Latino art events",
+    "tokenization of Latino culture",
+    "lack of year-round representation",
+    "city funding inadequacy for Latino community"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "More Latino art events, not just on cultural holidays",
+    "the city funds a few and expects that to satisfy a Latino population",
+    "the largest community of color in town"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited number of Latino art events",
+    "events concentrated only on cultural holidays",
+    "city underfunding relative to population size"
+  ],
+  "solutions_proposed": [
+    "increase the number of Latino art events beyond cultural holidays"
+  ],
+  "cached_at": "2025-06-21T00:51:47.392127",
+  "cache_key": "ecdb06dd4587d61c77360fefcf9957ade9c361886ef5a3bc96d4890f843bde94",
+  "model": "gpt-41"
+}

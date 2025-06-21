@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "loss of faith in government",
+    "hope in community and creativity",
+    "importance of supporting arts and music",
+    "preservation of local cultural identity",
+    "fear of cultural change or loss"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Please help us lean into the arts and the people.",
+    "I\u2019ve lost a lot of hope in the government but I have hope in people and things we create out of our emotions and mental spaces",
+    "our ability to curate spaces for one another to grow, a place to stretch their soul creatively so to speak",
+    "Please let us be that place.",
+    "please don\u2019t let us let go of music and art",
+    "I don\u2019t wanna be cali."
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "loss of hope in government support"
+  ],
+  "solutions_proposed": [
+    "lean into the arts and the people",
+    "let us be a place for creative growth",
+    "do not let go of music and art"
+  ],
+  "cached_at": "2025-06-21T02:21:36.368930",
+  "cache_key": "867114b77131d60a269831b431aa6aa2615f005083cb348ac7c08c78a73f30be",
+  "model": "gpt-41"
+}

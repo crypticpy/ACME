@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of paid opportunities for artists",
+    "exclusion of new or lesser-known artists",
+    "perceived favoritism in artist selection"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Paid opportunities for artists",
+    "not the same 10 artists that always seem to be in rotation"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to paid opportunities",
+    "repetitive selection of the same artists"
+  ],
+  "solutions_proposed": [
+    "provide paid opportunities to a broader range of artists"
+  ],
+  "cached_at": "2025-06-21T00:27:30.389836",
+  "cache_key": "a10a235619ec8cd5df463bf044478a69cd2bdcb596ab83e2bc6f6afb9c0f6612",
+  "model": "gpt-41"
+}

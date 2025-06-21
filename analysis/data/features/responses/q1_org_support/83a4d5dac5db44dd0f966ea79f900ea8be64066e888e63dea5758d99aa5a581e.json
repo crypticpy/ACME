@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for increased funding and resources",
+    "importance of listening and compassion",
+    "visibility and media coverage for cultural events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "providing them with the funding, resources, spaces and tools necessary to thrive and grow",
+    "listening to their needs and keeping compassion",
+    "providing more visibility and media coverage of creative/cultural events"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding, resources, spaces, and tools",
+    "insufficient visibility and media coverage"
+  ],
+  "solutions_proposed": [
+    "provide funding, resources, spaces, and tools",
+    "listen to needs and show compassion",
+    "increase visibility and media coverage of events"
+  ],
+  "cached_at": "2025-06-20T10:39:24.725537",
+  "cache_key": "83a4d5dac5db44dd0f966ea79f900ea8be64066e888e63dea5758d99aa5a581e",
+  "model": "gpt-41"
+}

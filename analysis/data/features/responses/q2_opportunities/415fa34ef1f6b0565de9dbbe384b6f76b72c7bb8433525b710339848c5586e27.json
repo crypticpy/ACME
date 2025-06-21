@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more choral music",
+    "interest in vocal/ensemble arts"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More choral music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase choral music opportunities"
+  ],
+  "cached_at": "2025-06-21T00:31:48.254250",
+  "cache_key": "415fa34ef1f6b0565de9dbbe384b6f76b72c7bb8433525b710339848c5586e27",
+  "model": "gpt-41"
+}

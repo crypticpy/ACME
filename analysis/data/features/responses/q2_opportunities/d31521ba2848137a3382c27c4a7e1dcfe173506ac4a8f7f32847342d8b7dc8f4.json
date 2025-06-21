@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for Black and Brown cultural producers",
+    "need for increased financial resources",
+    "representation of marginalized communities in cultural events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "BLACK AND BROWN PRODUCED EVENTS",
+    "AMPLE FINANCIAL SUPPORT"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support for Black and Brown produced events"
+  ],
+  "solutions_proposed": [
+    "provide ample financial support for Black and Brown produced events"
+  ],
+  "cached_at": "2025-06-21T00:32:13.039659",
+  "cache_key": "d31521ba2848137a3382c27c4a7e1dcfe173506ac4a8f7f32847342d8b7dc8f4",
+  "model": "gpt-41"
+}

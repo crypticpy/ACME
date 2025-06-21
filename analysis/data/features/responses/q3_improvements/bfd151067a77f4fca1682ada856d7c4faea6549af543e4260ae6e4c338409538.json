@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "support for emerging artists",
+    "access to public art opportunities",
+    "need for small-scale projects",
+    "stepping stones to larger funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more small scale AIPP projects",
+    "emerging artists",
+    "get their foot in the door",
+    "bigger budgets",
+    "30k-50k and under"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "AIPP"
+  ],
+  "barriers_identified": [
+    "lack of small-scale project opportunities for emerging artists"
+  ],
+  "solutions_proposed": [
+    "create more small scale AIPP projects for emerging artists",
+    "offer projects with budgets of 30k-50k and under"
+  ],
+  "cached_at": "2025-06-21T00:56:25.275822",
+  "cache_key": "bfd151067a77f4fca1682ada856d7c4faea6549af543e4260ae6e4c338409538",
+  "model": "gpt-41"
+}

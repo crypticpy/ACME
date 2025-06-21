@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "family participation in performance spaces",
+    "hostile or unwelcoming venue policies",
+    "resilience in the face of barriers",
+    "lack of standardized venue practices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "venues always threaten to throw her out on the street after we play",
+    "my child is in one of my performing bands",
+    "this could be standardized or something",
+    "I will continue to make art and music regardless of the environment or 'barriers' placed in front of me",
+    "None of them really matter"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "threat of ejection from venues for family members",
+    "lack of standardized policies regarding performers' families"
+  ],
+  "solutions_proposed": [
+    "standardized venue policies"
+  ],
+  "cached_at": "2025-06-21T01:22:37.598635",
+  "cache_key": "eec3f52ed918c4bebf09da9fbebf46190908c8f29206b847fe400eee100038e5",
+  "model": "gpt-41"
+}

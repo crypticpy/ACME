@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for guidance on accessing funding",
+    "impact of funding cuts",
+    "navigation of grant processes"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more advice about how to access grants and funding",
+    "recent cuts to federal, state, and city funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of advice about accessing grants and funding",
+    "recent cuts to federal, state, and city funding"
+  ],
+  "solutions_proposed": [
+    "provide more advice about how to access grants and funding"
+  ],
+  "cached_at": "2025-06-20T10:35:52.122912",
+  "cache_key": "bbdee758fc1c43928264df5163b4dedf2c2ad29f2a4f0735e0a8ede5c0d88316",
+  "model": "gpt-41"
+}

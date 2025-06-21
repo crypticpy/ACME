@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased promotion",
+    "outreach to potential applicants",
+    "artist engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More promotion and outreach",
+    "Invite artists to apply"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient promotion",
+    "lack of artist outreach"
+  ],
+  "solutions_proposed": [
+    "More promotion and outreach",
+    "Invite artists to apply"
+  ],
+  "cached_at": "2025-06-21T00:54:33.742280",
+  "cache_key": "c58fa439c600fc3eefd1a9087cf488cae0f194fd5d3c5f843304e7536ee316f1",
+  "model": "gpt-41"
+}

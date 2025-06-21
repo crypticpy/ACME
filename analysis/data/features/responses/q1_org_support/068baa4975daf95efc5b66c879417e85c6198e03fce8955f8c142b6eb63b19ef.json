@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "expanding grant funding",
+    "improving accessibility of funding",
+    "enabling access to larger venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "broader and more accessible grant funding program",
+    "bolster the ability for more groups",
+    "access to bigger venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access to grant funding",
+    "difficulty accessing bigger venues"
+  ],
+  "solutions_proposed": [
+    "broader and more accessible grant funding program"
+  ],
+  "cached_at": "2025-06-20T10:42:30.049436",
+  "cache_key": "068baa4975daf95efc5b66c879417e85c6198e03fce8955f8c142b6eb63b19ef",
+  "model": "gpt-41"
+}

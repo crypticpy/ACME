@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community-led programming",
+    "support for existing programs",
+    "community-driven services"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "community led and driven",
+    "supporting programs and services that exist"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer community-led and community-driven programs",
+    "Support programs and services that already exist"
+  ],
+  "cached_at": "2025-06-21T02:06:14.957610",
+  "cache_key": "66b96f9ecc30506b4bb4f0c95b99fa38994f5225fc51b8d43a550746ef03bf65",
+  "model": "gpt-41"
+}

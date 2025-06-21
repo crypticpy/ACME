@@ -1,0 +1,38 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "simplicity in resource access",
+    "apolitical approach",
+    "reduction of bureaucracy",
+    "creative-led mission and strategy",
+    "citizen input in offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Maintain simplicity in resource access for creatives",
+    "Be apolitical",
+    "Minimize bureaucracy",
+    "Let the input of our creatives drive the mission and strategy",
+    "allowing citizenry to inform desired offerings"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "bureaucracy",
+    "complex resource access"
+  ],
+  "solutions_proposed": [
+    "Maintain simplicity in resource access for creatives",
+    "Be apolitical",
+    "Minimize bureaucracy",
+    "Let the input of creatives drive the mission and strategy",
+    "Allow citizenry to inform desired offerings"
+  ],
+  "cached_at": "2025-06-21T02:21:26.724635",
+  "cache_key": "ca73b08df5e40a88b3ec43cf74b0d91606e7b8fab72da04e764891b7da77c659",
+  "model": "gpt-41"
+}

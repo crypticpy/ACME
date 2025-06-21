@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for international heritage and cultural festivals",
+    "interest in free outdoor performing arts",
+    "reference to successful models in other cities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "international heritage and cultural festivals",
+    "free theater and classical music in outdoor amphitheater",
+    "like Miller Outdoor Theater in Houston"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Miller Outdoor Theater"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more international heritage and cultural festivals",
+    "free theater and classical music in outdoor amphitheater"
+  ],
+  "cached_at": "2025-06-21T00:40:24.954719",
+  "cache_key": "7e7805f25410b5578dcaf9058103a654a4347c9a5c745bc10772547e0afa0bcb",
+  "model": "gpt-41"
+}

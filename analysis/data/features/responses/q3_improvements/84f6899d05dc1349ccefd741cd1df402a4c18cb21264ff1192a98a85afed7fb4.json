@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in application process",
+    "clarity in grant award decisions"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more transparency",
+    "how the applications are graded",
+    "how grants are awarded"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency in application grading and grant awarding"
+  ],
+  "solutions_proposed": [
+    "increase transparency in how applications are graded",
+    "increase transparency in how grants are awarded"
+  ],
+  "cached_at": "2025-06-21T01:06:18.198406",
+  "cache_key": "84f6899d05dc1349ccefd741cd1df402a4c18cb21264ff1192a98a85afed7fb4",
+  "model": "gpt-41"
+}

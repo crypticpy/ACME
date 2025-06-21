@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant writing support for emerging artists",
+    "personal benefit from grant writing opportunities",
+    "role of Almost Real Things in skill development"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Assistance with grant writing for emerging artists",
+    "I took advantage of grant writing opportunities that were provided and it really helped me",
+    "I learned grain writing through Almost Real Things"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Almost Real Things"
+  ],
+  "barriers_identified": [
+    "lack of grant writing skills among emerging artists"
+  ],
+  "solutions_proposed": [
+    "provide assistance with grant writing for emerging artists"
+  ],
+  "cached_at": "2025-06-21T01:11:47.739872",
+  "cache_key": "b824d4f845486a1e6f76445f9bd1748d52046a72374011a0cfb1ec13adf91b92",
+  "model": "gpt-41"
+}

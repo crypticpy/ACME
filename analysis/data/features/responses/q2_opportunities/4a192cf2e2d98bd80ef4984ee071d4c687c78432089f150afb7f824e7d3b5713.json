@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased youth theater opportunities",
+    "bilingual and multicultural performances",
+    "free arts education and workshops for emerging artists",
+    "support and training for nonprofit arts organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "educator",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More theater for youth",
+    "bilingual theatre/performances",
+    "Free workshops/training for emerging artists (including children & teens)",
+    "Free or supported best practices learning for nonprofit arts organizations (boards, nonprofit staff)"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of free workshops/training for emerging artists",
+    "limited access to best practices learning for nonprofit arts organizations"
+  ],
+  "solutions_proposed": [
+    "More theater for youth",
+    "bilingual theatre/performances",
+    "Free workshops/training for emerging artists (including children & teens)",
+    "Free or supported best practices learning for nonprofit arts organizations (boards, nonprofit staff)"
+  ],
+  "cached_at": "2025-06-21T00:35:26.631380",
+  "cache_key": "4a192cf2e2d98bd80ef4984ee071d4c687c78432089f150afb7f824e7d3b5713",
+  "model": "gpt-41"
+}

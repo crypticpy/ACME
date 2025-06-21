@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for more large-scale public art",
+    "Loss of Austin's unique cultural identity ('keep it weird' vibe)",
+    "Support for local artists in the face of rising living costs",
+    "Need for city-contracted opportunities for local artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more big (large scale) pieces of art in the city",
+    "we are losing the 'keep it weird' vibe",
+    "more public art, that would support our unique culture",
+    "Opportunities for local artists to do this work would help them afford the rising costs of living and working in Austin",
+    "local artists were contracted to provide new art for the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "rising costs of living and working in Austin",
+    "lack of opportunities for local artists to create public art"
+  ],
+  "solutions_proposed": [
+    "increase large-scale public art in the city",
+    "contract local artists to provide new art for the city"
+  ],
+  "cached_at": "2025-06-21T00:40:32.171268",
+  "cache_key": "450fa46b001011f6549daf4646a6dde5357ed8483ddc06529ec53e2ee5a76686",
+  "model": "gpt-41"
+}

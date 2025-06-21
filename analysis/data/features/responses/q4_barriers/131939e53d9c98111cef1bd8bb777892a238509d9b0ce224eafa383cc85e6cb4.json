@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "impact of weather on participation",
+    "lack of child-focused cultural offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Weather",
+    "lack of things for kids"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "weather",
+    "lack of activities or programs for children"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:47:23.366177",
+  "cache_key": "131939e53d9c98111cef1bd8bb777892a238509d9b0ce224eafa383cc85e6cb4",
+  "model": "gpt-41"
+}

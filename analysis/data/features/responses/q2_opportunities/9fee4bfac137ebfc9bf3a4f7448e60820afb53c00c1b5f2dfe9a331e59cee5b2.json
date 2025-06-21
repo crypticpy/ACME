@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased live theater offerings",
+    "improved quality of venues"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more live theater",
+    "better venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of adequate venues"
+  ],
+  "solutions_proposed": [
+    "increase live theater opportunities",
+    "improve venue quality"
+  ],
+  "cached_at": "2025-06-21T00:52:51.231842",
+  "cache_key": "9fee4bfac137ebfc9bf3a4f7448e60820afb53c00c1b5f2dfe9a331e59cee5b2",
+  "model": "gpt-41"
+}

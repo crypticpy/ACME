@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cost as a barrier",
+    "lack of event information",
+    "language accessibility"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "El precio",
+    "el enterearme de los evento",
+    "el idioma"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost",
+    "lack of awareness of events",
+    "language barriers"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:00.308871",
+  "cache_key": "4b73d629a13f055c4391e6120ad083b9401cc5f43d1d6d311516025460ebd848",
+  "model": "gpt-41"
+}

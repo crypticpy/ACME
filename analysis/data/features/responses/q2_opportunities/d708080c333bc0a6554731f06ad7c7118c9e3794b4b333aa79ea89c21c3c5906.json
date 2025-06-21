@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Highlighting BIPOC culture",
+    "Celebrating Black diaspora",
+    "Cultural and historical representation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "events that highlight the culture and history of our BIPOC community",
+    "specifically the Black diaspora"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More events that highlight the culture and history of our BIPOC community",
+    "More events specifically focused on the Black diaspora"
+  ],
+  "cached_at": "2025-06-21T00:45:01.493148",
+  "cache_key": "d708080c333bc0a6554731f06ad7c7118c9e3794b4b333aa79ea89c21c3c5906",
+  "model": "gpt-41"
+}

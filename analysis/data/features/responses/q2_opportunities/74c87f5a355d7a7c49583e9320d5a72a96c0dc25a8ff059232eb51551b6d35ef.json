@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for international arts",
+    "interest in cultural art diversity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "international",
+    "cultural art"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase international cultural art opportunities"
+  ],
+  "cached_at": "2025-06-21T00:52:26.239309",
+  "cache_key": "74c87f5a355d7a7c49583e9320d5a72a96c0dc25a8ff059232eb51551b6d35ef",
+  "model": "gpt-41"
+}

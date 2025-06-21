@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of awareness of events and resources",
+    "transportation and accessibility challenges",
+    "impact of urban displacement and rising costs",
+    "need for convenience for vulnerable groups"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "difficulty in knowing what events and resources even exist",
+    "events being hard to get to bc of traffic or distance, or no parking on site",
+    "convenience of accessing the support and services should be prioritized",
+    "convenient for those who need them the most ... like the elderly, children and parents, and for those who are being displaced by rising costs of living"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty in knowing what events and resources exist",
+    "difficulty finding events and resources",
+    "events hard to get to because of traffic",
+    "events hard to get to because of distance",
+    "no parking on site",
+    "inconvenience for elderly, children, parents, and displaced residents"
+  ],
+  "solutions_proposed": [
+    "prioritize convenience of accessing support and services for those who need them the most"
+  ],
+  "cached_at": "2025-06-21T01:23:43.642752",
+  "cache_key": "0991210fbd0472668ed5cbdfbb13032a95ca919b18eeec5fb420b150a972329f",
+  "model": "gpt-41"
+}

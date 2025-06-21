@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more literary events",
+    "interest in opportunities for all ages",
+    "support for emerging film professionals",
+    "request for more film festivals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more literary events for all ages",
+    "more film festivals for emerging film professionals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase literary events for all ages",
+    "increase film festivals for emerging film professionals"
+  ],
+  "cached_at": "2025-06-21T00:47:01.247710",
+  "cache_key": "e7ff2d58eab7160c54aed6cb8a3b736a9864ae37da86bc8cf081f3b9d44027fe",
+  "model": "gpt-41"
+}

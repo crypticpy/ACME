@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for improved marketing",
+    "community engagement in cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Marketing and community involvement"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "improved marketing",
+    "increased community involvement"
+  ],
+  "cached_at": "2025-06-21T01:02:05.325432",
+  "cache_key": "1221b877c94ef962f72715d1e0f229a54b2f7cb5070e3741d41a0fb6584b9c48",
+  "model": "gpt-41"
+}

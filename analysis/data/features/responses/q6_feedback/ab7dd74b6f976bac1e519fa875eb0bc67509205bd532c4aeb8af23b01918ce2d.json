@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in continued participation in grant scoring",
+    "prior experience with Cultural Arts Fund grants",
+    "volunteering for grant review processes"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "I served as part of the team who scored Cultural Arts Fund grants",
+    "I would like to serve again in the grant scoring process"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Cultural Arts Fund grants"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Allowing previous grant scorers to participate again"
+  ],
+  "cached_at": "2025-06-21T02:21:48.478987",
+  "cache_key": "ab7dd74b6f976bac1e519fa875eb0bc67509205bd532c4aeb8af23b01918ce2d",
+  "model": "gpt-41"
+}

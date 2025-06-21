@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "preference for established organizations",
+    "skepticism toward newer organizations",
+    "perceived value of organizational longevity"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "tried and true organizations have put in the sweat",
+    "no reason to think newer orgs are better because they are newer"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "bias toward newer organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:07:42.900124",
+  "cache_key": "66b2d590ed39b703c24cf7c1b689f048634438e4b3bb833bebe79390ed08afbf",
+  "model": "gpt-41"
+}

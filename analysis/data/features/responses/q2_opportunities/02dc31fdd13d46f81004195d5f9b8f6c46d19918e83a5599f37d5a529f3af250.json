@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more live performances",
+    "interest in theatre",
+    "interest in film",
+    "interest in music",
+    "interest in storytelling"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Live performances of theatre, film, music, storytelling"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More live performances of theatre, film, music, storytelling"
+  ],
+  "cached_at": "2025-06-21T00:48:02.392988",
+  "cache_key": "02dc31fdd13d46f81004195d5f9b8f6c46d19918e83a5599f37d5a529f3af250",
+  "model": "gpt-41"
+}

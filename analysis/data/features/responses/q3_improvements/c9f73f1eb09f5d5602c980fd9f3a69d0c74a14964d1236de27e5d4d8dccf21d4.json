@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "prioritization of basic needs over cultural funding",
+    "housing affordability",
+    "wage concerns",
+    "skepticism toward cultural programs"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "We don\u2019t need cultural programs",
+    "we need cheaper rent",
+    "higher wages"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high rent",
+    "low wages"
+  ],
+  "solutions_proposed": [
+    "cheaper rent",
+    "higher wages"
+  ],
+  "cached_at": "2025-06-21T00:59:18.441701",
+  "cache_key": "c9f73f1eb09f5d5602c980fd9f3a69d0c74a14964d1236de27e5d4d8dccf21d4",
+  "model": "gpt-41"
+}

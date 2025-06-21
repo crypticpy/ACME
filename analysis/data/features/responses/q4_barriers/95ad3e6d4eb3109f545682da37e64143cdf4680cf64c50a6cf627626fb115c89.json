@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to arts participation",
+    "lack of child-friendly spaces",
+    "inaccessibility for neurodivergent individuals",
+    "high cost of camps and after school programs",
+    "insufficient affordable services for families"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "barriers come down to finances and childcare",
+    "child friendly spaces",
+    "spaces that are built for neurodivergent bodies also feel like an afterthought",
+    "wish there were more affordable services available to our family",
+    "camps and after school programs in our area are expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "financial barriers",
+    "lack of childcare or child-friendly spaces",
+    "inaccessibility for neurodivergent individuals",
+    "high cost of camps",
+    "high cost of after school programs"
+  ],
+  "solutions_proposed": [
+    "more affordable services for families and children to participate in the arts"
+  ],
+  "cached_at": "2025-06-21T01:25:42.015664",
+  "cache_key": "95ad3e6d4eb3109f545682da37e64143cdf4680cf64c50a6cf627626fb115c89",
+  "model": "gpt-41"
+}

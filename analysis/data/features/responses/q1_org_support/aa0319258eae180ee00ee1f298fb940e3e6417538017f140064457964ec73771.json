@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for emerging creative artists",
+    "affordable rehearsal and performance spaces",
+    "leadership accountability and expertise",
+    "multicultural arts prioritization",
+    "distrust in political leadership"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Support emerging creative artists",
+    "offering affordable rehearsal and performance spaces",
+    "Ensure consistent leadership",
+    "appointing public officials who genuinely understand and prioritize the value of multicultural arts",
+    "rather than those driven by political agendas or personal gain",
+    "that is unlikely to happen"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable rehearsal and performance spaces",
+    "leadership driven by political agendas or personal gain",
+    "inconsistent or unqualified leadership"
+  ],
+  "solutions_proposed": [
+    "offer affordable rehearsal and performance spaces",
+    "appoint public officials who genuinely understand and prioritize the value of multicultural arts"
+  ],
+  "cached_at": "2025-06-20T10:31:29.347361",
+  "cache_key": "aa0319258eae180ee00ee1f298fb940e3e6417538017f140064457964ec73771",
+  "model": "gpt-41"
+}

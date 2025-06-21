@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "diversification of funding recipients",
+    "support for music recording",
+    "sustained impact of the music scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "funding being spread to a different artist for recording",
+    "not just playing live",
+    "the impact of the music scene can be replayed and not just live in one moment"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding limited to live performances"
+  ],
+  "solutions_proposed": [
+    "expand funding to support recording, not just live performances"
+  ],
+  "cached_at": "2025-06-21T01:17:07.485833",
+  "cache_key": "07a8ba3accd259152ee295c88031a3a5fc95c2723a81bb4032f7f683435d146e",
+  "model": "gpt-41"
+}

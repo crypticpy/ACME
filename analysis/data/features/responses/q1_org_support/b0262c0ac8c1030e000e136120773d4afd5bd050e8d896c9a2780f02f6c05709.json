@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "universal free access to arts and culture",
+    "removal of financial barriers",
+    "support for accredited institutions"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Make all arts and cultural accredited institutions free always"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of admission to arts and cultural institutions"
+  ],
+  "solutions_proposed": [
+    "Make all arts and cultural accredited institutions free always"
+  ],
+  "cached_at": "2025-06-20T10:22:08.850444",
+  "cache_key": "b0262c0ac8c1030e000e136120773d4afd5bd050e8d896c9a2780f02f6c05709",
+  "model": "gpt-41"
+}

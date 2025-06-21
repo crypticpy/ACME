@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "limited outreach to organizations",
+    "lack of inclusivity in representation",
+    "need for broader advertising strategies"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "broader call for organizations",
+    "only ones represented are the ones in the know",
+    "more can be done such as billboards and street advertising"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "only organizations 'in the know' are represented",
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "broader call for organizations",
+    "use of billboards and street advertising"
+  ],
+  "cached_at": "2025-06-20T01:15:58.083029",
+  "cache_key": "f9759ccd559c15da0b8ccac0d46184468606a18af89d022e144f120b2e62214a",
+  "model": "gpt-41"
+}

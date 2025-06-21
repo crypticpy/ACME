@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for application guidance",
+    "desire for increased support",
+    "mentorship opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more workshops on how to apply",
+    "what's available",
+    "mentoring and support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of information on how to apply",
+    "insufficient support or mentoring"
+  ],
+  "solutions_proposed": [
+    "more workshops on how to apply",
+    "workshops on what's available",
+    "mentoring and support"
+  ],
+  "cached_at": "2025-06-21T01:06:50.779978",
+  "cache_key": "f565df4267ee6308099abb7acb20e0514533ebb6cf73c8ee5d1308062faee2b9",
+  "model": "gpt-41"
+}

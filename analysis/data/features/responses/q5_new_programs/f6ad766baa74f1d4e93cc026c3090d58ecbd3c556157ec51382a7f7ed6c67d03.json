@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "interest in community partnership workshops",
+    "desire for collaboration with other nonprofits",
+    "seeking new or underrepresented educational offerings"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "existing workshops on how to build community partnerships",
+    "with other nonprofit organizations",
+    "We'd love to be a part of it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of workshops on building community partnerships"
+  ],
+  "solutions_proposed": [
+    "offer workshops on building community partnerships with other nonprofit organizations"
+  ],
+  "cached_at": "2025-06-21T01:54:04.808725",
+  "cache_key": "f6ad766baa74f1d4e93cc026c3090d58ecbd3c556157ec51382a7f7ed6c67d03",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "streamlining access to information and reservations",
+    "support for community artists",
+    "children's programming opportunities",
+    "affordable creative space access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "streamlining and concentrating efforts to access to information and reservation",
+    "community artists can most efficiently utilize our city services",
+    "highlight opportunities for children's programming",
+    "allow creatives to access spaces at low cost for production, concerts, practices, rehearsals"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "difficulty accessing information and reservations",
+    "lack of affordable creative spaces"
+  ],
+  "solutions_proposed": [
+    "streamline and concentrate efforts to access information and reservation",
+    "highlight opportunities for children's programming",
+    "allow creatives to access spaces at low cost for production, concerts, practices, rehearsals"
+  ],
+  "cached_at": "2025-06-21T02:21:51.908113",
+  "cache_key": "55f783edd17e3f7f2cef3b9ad6e4b300d7314cca98fb800650bb490769a2ba71",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "community appreciation",
+    "need for support of existing cultural assets"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "beautiful community",
+    "needs support"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "support the existing community"
+  ],
+  "cached_at": "2025-06-21T00:24:20.406049",
+  "cache_key": "9f6f2ac5dc3ae0d492c04fce6a13144fccee3e7c675e5273420603396b31882d",
+  "model": "gpt-41"
+}

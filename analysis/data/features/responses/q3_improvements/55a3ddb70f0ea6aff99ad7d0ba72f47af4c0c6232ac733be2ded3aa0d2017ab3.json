@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "outreach in community spaces",
+    "advertising funding opportunities",
+    "engagement at local businesses"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "Going to community spaces like churches, schools, etc.",
+    "advertise about these funding opportunities",
+    "Consider tabling at HEB"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness about funding opportunities"
+  ],
+  "solutions_proposed": [
+    "advertise in community spaces like churches and schools",
+    "table at HEB to promote funding opportunities"
+  ],
+  "cached_at": "2025-06-21T01:15:36.552379",
+  "cache_key": "55a3ddb70f0ea6aff99ad7d0ba72f47af4c0c6232ac733be2ded3aa0d2017ab3",
+  "model": "gpt-41"
+}

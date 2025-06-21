@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of publicity",
+    "awareness of cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "more publicity about them"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient publicity"
+  ],
+  "solutions_proposed": [
+    "increase publicity"
+  ],
+  "cached_at": "2025-06-21T01:16:05.155314",
+  "cache_key": "337c574154f95c067df308c47eec2f52a9728ac80457d43ddb2975166af4c2ce",
+  "model": "gpt-41"
+}

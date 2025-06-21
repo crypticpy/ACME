@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "commitment to the arts",
+    "importance of creative sector growth",
+    "relationship between city growth and arts sector"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "I care deeply about the future of the arts in Austin",
+    "as this city grows, so should its creative sector"
+  ],
+  "intent": "value_expression",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:11:52.093811",
+  "cache_key": "4a78514c77d08ccc9f1c02d37166aecbb195711889571d9e55f60021a2c02553",
+  "model": "gpt-41"
+}

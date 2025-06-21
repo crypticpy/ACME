@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of confidence in ACME's expertise",
+    "need for experienced professionals in cultural funding",
+    "importance of adopting best practices",
+    "complexity of public funding program design"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "not optimistic that ACME has the knowledge to set things right",
+    "experienced professionals with sector experience should be brought in",
+    "public funding programs shouldn't be so difficult to design",
+    "very common and effective best practices"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of organizational expertise",
+    "complexity in program design"
+  ],
+  "solutions_proposed": [
+    "bring in experienced professionals with sector experience",
+    "look at very common and effective best practices"
+  ],
+  "cached_at": "2025-06-21T02:19:06.044835",
+  "cache_key": "10574124484b56c4d6db31c1779cf36e400e3808a88c5093f46c28579b2c4879",
+  "model": "gpt-41"
+}

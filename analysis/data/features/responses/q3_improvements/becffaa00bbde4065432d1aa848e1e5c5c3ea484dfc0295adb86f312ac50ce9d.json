@@ -1,0 +1,33 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "direct funding to marginalized community groups",
+    "support for unsuccessful grant applicants",
+    "transparency in funding timelines and decision-making"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Get money in the hands of community groups made marginalized",
+    "Provide additional coaching or resources for organizations that did not receive grant funds",
+    "More transparency in timeline + how decisions are made for cultural programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of direct funding for marginalized community groups",
+    "insufficient support for organizations not receiving grants",
+    "lack of transparency in funding process and timelines"
+  ],
+  "solutions_proposed": [
+    "direct funding to marginalized community groups",
+    "provide coaching or resources to unsuccessful grant applicants",
+    "increase transparency in timelines and decision-making for cultural programming"
+  ],
+  "cached_at": "2025-06-21T00:59:24.897144",
+  "cache_key": "becffaa00bbde4065432d1aa848e1e5c5c3ea484dfc0295adb86f312ac50ce9d",
+  "model": "gpt-41"
+}

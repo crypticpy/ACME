@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "Lack of engagement by city leadership with local arts",
+    "Overemphasis on commercial and mainstream art",
+    "Need for curiosity and active participation from decision-makers",
+    "Visibility of diverse and lesser-known art events"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Those who oversee ACME and higher ups in city goverment, such as city council and the Mayor should go out and see some art",
+    "not just what's commercial and mainstream or getting the most publicity",
+    "develop the curiousity to learn about what's out there by actually showing up",
+    "Follow Concept Animals on IG that covers all art listings and goings on every week and go to one"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Concept Animals"
+  ],
+  "barriers_identified": [
+    "City leadership's limited exposure to non-mainstream art"
+  ],
+  "solutions_proposed": [
+    "City officials should attend a wider variety of art events",
+    "Leaders should follow Concept Animals on Instagram to stay informed about local art"
+  ],
+  "cached_at": "2025-06-21T02:17:55.608666",
+  "cache_key": "5ba3a677d475f4b63b8cf400d4d16ef127b23145e427578eaeb43d6c4a2ce4c3",
+  "model": "gpt-41"
+}

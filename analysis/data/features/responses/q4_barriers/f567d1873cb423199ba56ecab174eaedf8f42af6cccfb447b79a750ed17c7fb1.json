@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable large venues",
+    "limited variety of large venues",
+    "accessibility challenges due to cost"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "variety and accessibility of larger venues",
+    "aren\u2019t obscenely expensive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited variety of large venues",
+    "high cost of large venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:33.607419",
+  "cache_key": "f567d1873cb423199ba56ecab174eaedf8f42af6cccfb447b79a750ed17c7fb1",
+  "model": "gpt-41"
+}

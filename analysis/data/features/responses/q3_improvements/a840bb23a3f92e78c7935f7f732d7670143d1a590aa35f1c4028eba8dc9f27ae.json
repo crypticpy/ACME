@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty with application process",
+    "need for technical assistance",
+    "barriers for low-income applicants",
+    "digital divide in access"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Easier Submission Application info",
+    "assisted Tech Help* filling out submission",
+    "requirements for low income and eligibility",
+    "NOT tech/Computer Savvy",
+    "need help to apply"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "complex application process",
+    "lack of technical skills",
+    "insufficient support for low-income applicants"
+  ],
+  "solutions_proposed": [
+    "make submission application information easier",
+    "provide assisted tech help for filling out submissions"
+  ],
+  "cached_at": "2025-06-21T01:11:20.139770",
+  "cache_key": "a840bb23a3f92e78c7935f7f732d7670143d1a590aa35f1c4028eba8dc9f27ae",
+  "model": "gpt-41"
+}

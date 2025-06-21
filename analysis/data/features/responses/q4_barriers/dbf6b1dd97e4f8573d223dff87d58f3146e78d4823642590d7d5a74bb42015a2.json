@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability challenges",
+    "venue accessibility",
+    "transportation difficulties",
+    "parking issues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "High cost of living",
+    "venue rental",
+    "difficulties in transportation and parking"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of living",
+    "venue rental",
+    "difficulties in transportation",
+    "difficulties in parking"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:11.534839",
+  "cache_key": "dbf6b1dd97e4f8573d223dff87d58f3146e78d4823642590d7d5a74bb42015a2",
+  "model": "gpt-41"
+}

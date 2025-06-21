@@ -1,0 +1,33 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "perceived gatekeeping by funding agency",
+    "allegations of favoritism and corruption",
+    "lack of equitable access to grants",
+    "distrust in funding distribution process",
+    "call for accountability and transparency"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "You!! ACME!!!",
+    "You\u2019re the gate keepers",
+    "keep the grants and bug money only to your friends",
+    "friends that have money laundering non profits",
+    "The lights going to shine on all this\u2026 this year!"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gatekeeping by funding agency",
+    "favoritism in grant distribution",
+    "funds directed to associates and questionable non-profits"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:37:31.842216",
+  "cache_key": "b5af9dc64636cf3fd220a6a90c86be0f64324824218e1765e345594ed572c2ee",
+  "model": "gpt-41"
+}

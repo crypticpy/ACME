@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "competition between applicant types",
+    "need for clear and distinct guidelines",
+    "proof of past successful programming",
+    "use of Nexus for new applicants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "clear guidelines for grant applications",
+    "do not create competition between Non-profit performance programming, individual artists, venues and commercial communities",
+    "their own unique guidelines",
+    "proof of past, successful programming",
+    "Nexus should be utilized for ALL start-ups or 1st time applicants"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Nexus"
+  ],
+  "barriers_identified": [
+    "competition between Non-profit performance programming, individual artists, venues and commercial communities",
+    "lack of clear, distinct guidelines for different applicant types"
+  ],
+  "solutions_proposed": [
+    "create clear guidelines for grant applications",
+    "establish unique guidelines for each applicant type",
+    "require proof of past, successful programming",
+    "utilize Nexus for all start-ups or first-time applicants"
+  ],
+  "cached_at": "2025-06-21T01:12:00.440448",
+  "cache_key": "0476f941123c0e584bbb44072a8e238b799528f4a5b6d020247f802bdcb78dbc",
+  "model": "gpt-41"
+}

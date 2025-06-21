@@ -1,0 +1,40 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable funding for legacy and new organizations",
+    "support for individual artists (experienced and emerging)",
+    "funding based on arts excellence and accountability",
+    "restriction of HOT funds from profit businesses and startups",
+    "requirement for fiscal responsibility and matching funds",
+    "distribution based on standard arts practices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Fund legacy and newer arts organizations",
+    "including theaters, theater companies, organizations that support artists, especially individual artists, those experienced and emerging",
+    "Funding to based on arts excellence and accountability",
+    "HOT funds are not to be used as an economic engine for profit businesses or for business startups",
+    "Recipients must demonstrate fiscal responsibility, which occurs by requiring matches (in-kind and cash) for each contract/grant",
+    "Funding amounts to be distributed based on standard practices in the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "HOT funds used for profit businesses or startups",
+    "lack of fiscal responsibility requirements"
+  ],
+  "solutions_proposed": [
+    "Fund both legacy and newer arts organizations, including those supporting individual artists",
+    "Base funding on arts excellence and accountability",
+    "Restrict HOT funds from being used for profit businesses or business startups",
+    "Require recipients to demonstrate fiscal responsibility through matching funds (in-kind and cash)",
+    "Distribute funding amounts based on standard practices in the arts"
+  ],
+  "cached_at": "2025-06-20T10:28:24.385340",
+  "cache_key": "29e8acd546827ced493eca1d4313690b49c1846d90660de1f3e883ca9b32957b",
+  "model": "gpt-41"
+}

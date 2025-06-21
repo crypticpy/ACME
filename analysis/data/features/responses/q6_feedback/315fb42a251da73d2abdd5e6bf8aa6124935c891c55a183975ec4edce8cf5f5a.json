@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "endorsement of another individual's opinion",
+    "delegation of feedback to a trusted voice"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "I support whatever Christine Pasculado says"
+  ],
+  "intent": "endorsement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:54.658599",
+  "cache_key": "315fb42a251da73d2abdd5e6bf8aa6124935c891c55a183975ec4edce8cf5f5a",
+  "model": "gpt-41"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "limited funding options for for-profit entities",
+    "exclusion of for-profit companies from support",
+    "barriers to accessing cultural funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "business_owner",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "for profit company",
+    "very few options for funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "very few options for funding for for-profit companies"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:41:50.242155",
+  "cache_key": "4e65eb283c34b7596b28cce62552bee503e316d466cc31344c90558b7c7664b8",
+  "model": "gpt-41"
+}

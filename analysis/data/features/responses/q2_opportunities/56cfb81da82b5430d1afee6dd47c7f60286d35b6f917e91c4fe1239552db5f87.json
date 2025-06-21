@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "economic mobility for local artists",
+    "support for arts professionals and makers",
+    "empowerment of cultural leaders",
+    "increased arts center opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more arts center economic mobility",
+    "local individuals artists, makers, arts professionals, cultural leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited economic mobility for local artists and cultural professionals"
+  ],
+  "solutions_proposed": [
+    "increase arts center economic mobility for local individuals artists, makers, arts professionals, cultural leaders"
+  ],
+  "cached_at": "2025-06-21T00:27:50.071276",
+  "cache_key": "56cfb81da82b5430d1afee6dd47c7f60286d35b6f917e91c4fe1239552db5f87",
+  "model": "gpt-41"
+}

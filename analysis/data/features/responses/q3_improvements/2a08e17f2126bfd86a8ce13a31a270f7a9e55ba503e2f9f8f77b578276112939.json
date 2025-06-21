@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "awareness of resources",
+    "support for underrepresented curators",
+    "equitable access to funding information"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Making sure to underrepresented curators are aware of these resources"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness among underrepresented curators"
+  ],
+  "solutions_proposed": [
+    "ensure underrepresented curators are aware of these resources"
+  ],
+  "cached_at": "2025-06-21T01:16:24.221802",
+  "cache_key": "2a08e17f2126bfd86a8ce13a31a270f7a9e55ba503e2f9f8f77b578276112939",
+  "model": "gpt-41"
+}

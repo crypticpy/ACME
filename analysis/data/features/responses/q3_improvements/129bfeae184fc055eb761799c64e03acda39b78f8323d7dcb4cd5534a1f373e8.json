@@ -1,0 +1,35 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased outreach and promotion",
+    "application process support",
+    "centralized information access",
+    "support for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "More advertisement and guidance on how to apply",
+    "centralized website or social media page",
+    "new emerging artists could utilize"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of advertisement",
+    "insufficient guidance on application process",
+    "difficulty accessing centralized information"
+  ],
+  "solutions_proposed": [
+    "More advertisement",
+    "More guidance on how to apply",
+    "centralized website",
+    "centralized social media page"
+  ],
+  "cached_at": "2025-06-21T01:14:06.424756",
+  "cache_key": "129bfeae184fc055eb761799c64e03acda39b78f8323d7dcb4cd5534a1f373e8",
+  "model": "gpt-41"
+}

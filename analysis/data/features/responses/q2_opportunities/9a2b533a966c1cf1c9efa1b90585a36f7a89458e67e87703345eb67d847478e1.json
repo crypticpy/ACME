@@ -1,0 +1,26 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "high cost of performance and rehearsal venues",
+    "financial struggles of cultural practitioners",
+    "threats to survival of arts organizations or artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Performance and rehearsal venues are SO expensive",
+    "We are struggling to survive"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "expensive performance and rehearsal venues"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:26:00.005468",
+  "cache_key": "9a2b533a966c1cf1c9efa1b90585a36f7a89458e67e87703345eb67d847478e1",
+  "model": "gpt-41"
+}

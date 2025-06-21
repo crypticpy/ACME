@@ -1,0 +1,34 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of cultural events in specific geographic areas",
+    "geographical diversity in cultural programming",
+    "family and child-friendly programming challenges",
+    "scheduling and attention span barriers for young children",
+    "seasonal difficulties (summer) in accessing suitable programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.98,
+  "key_phrases": [
+    "there aren't many cultural events that happen in our district",
+    "geographical diversity that I'd like to see expanded",
+    "finding programming that fits their attention spans and schedules can sometimes feel like an uphill battle",
+    "especially in the summer"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of local cultural events",
+    "limited geographical diversity in programming",
+    "difficulty finding child-appropriate programming",
+    "scheduling conflicts for families with young children",
+    "seasonal (summer) challenges in accessing suitable programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:36:04.326540",
+  "cache_key": "d7b736a3bf51a8f75e070c75942c5119f4f0e042bbdc11bdf2ca4a4bcb7c6d9b",
+  "model": "gpt-41"
+}

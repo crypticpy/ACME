@@ -1,0 +1,30 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Desire for funding with fewer bureaucratic barriers",
+    "Concerns about excessive process impeding progress",
+    "Acknowledgement of good intentions behind bureaucracy"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Fund them while limiting as much government-enforced bureaucracy as possible",
+    "I know it's often with good intention",
+    "I fear that the barriers created by having so much process limit the progress we can make"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "government-enforced bureaucracy",
+    "barriers created by having so much process"
+  ],
+  "solutions_proposed": [
+    "Fund organizations and leaders while limiting government-enforced bureaucracy"
+  ],
+  "cached_at": "2025-06-20T01:16:56.554695",
+  "cache_key": "3e1662d9fe3ba9961b72a1a44a612644bdcae82fa75b4160fd2226d01375cf3d",
+  "model": "gpt-41"
+}

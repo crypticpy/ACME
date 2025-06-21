@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased access",
+    "need for improved outreach"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more access",
+    "outreach"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited access",
+    "insufficient outreach"
+  ],
+  "solutions_proposed": [
+    "increase access",
+    "improve outreach"
+  ],
+  "cached_at": "2025-06-21T01:16:33.794484",
+  "cache_key": "dd4d0db6023e4d16f4998911c352e065d3b538279c0cf9db9dc1f56b0a43f1d3",
+  "model": "gpt-41"
+}

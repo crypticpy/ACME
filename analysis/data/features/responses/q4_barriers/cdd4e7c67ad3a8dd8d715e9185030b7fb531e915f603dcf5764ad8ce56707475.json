@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "underrepresentation of Latinos in high-profile music shows",
+    "disparity between population demographics and cultural visibility",
+    "perceived dominance of white upper class and tech culture",
+    "lack of inclusivity in Austin's cultural scene"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "not nearly enough Latinos represented in Higher Profile Musical Shows",
+    "our population is largest, makes no sense",
+    "Austin comes off like Land of Abundance for White Upper Class Tech motivated jobs and environment",
+    "does not represent All of Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of Latino representation in high-profile musical events",
+    "cultural environment dominated by white upper class and tech interests",
+    "disconnect between city demographics and cultural offerings"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:40:04.026520",
+  "cache_key": "cdd4e7c67ad3a8dd8d715e9185030b7fb531e915f603dcf5764ad8ce56707475",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable implementation",
+    "existing programs sufficient",
+    "distribution of resources"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "programs are there",
+    "implemented on an equitable basis"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equitable implementation"
+  ],
+  "solutions_proposed": [
+    "implement existing programs on an equitable basis"
+  ],
+  "cached_at": "2025-06-21T02:04:12.119445",
+  "cache_key": "1a240cd722cfaf2508112e56285aa573760a548eceba3690f11bd6d587c7c397",
+  "model": "gpt-41"
+}

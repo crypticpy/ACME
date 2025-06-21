@@ -1,0 +1,48 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "inadequate support for venues and organizations",
+    "ineffectiveness of CSAP program",
+    "overreliance on HOT tax funding",
+    "financial impact of convention center closure",
+    "competition and scarcity in funding",
+    "need for collaboration and partnership incentives"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "support for our theatres, galleries, studios, and venues",
+    "CSAP has been inactive",
+    "does not [provide] the ongoing sustainability that venues desperately need",
+    "need funding from other sources besides the HOT tax",
+    "hard-hit by the loss of revenues with the convention center closed",
+    "not be competing with one another for what feels like a scarcity of funding",
+    "create a system that rewards artistic achievement",
+    "strengthen existing organizations and enable them to work together",
+    "additional funds available for projects where we can team up"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CSAP"
+  ],
+  "barriers_identified": [
+    "inactivity and ineffectiveness of CSAP",
+    "lack of sustainable funding for venues",
+    "overdependence on HOT tax",
+    "loss of revenue due to convention center closure",
+    "competition for scarce funding"
+  ],
+  "solutions_proposed": [
+    "seek funding from sources besides the HOT tax",
+    "create a system that rewards artistic achievement",
+    "strengthen existing organizations",
+    "enable organizations to work together",
+    "provide additional funds for collaborative projects"
+  ],
+  "cached_at": "2025-06-21T01:59:40.567478",
+  "cache_key": "e54f69d01fbe7dd6cf4bc4c9502ef87300033a7943e244e08c9a0b151ea31337",
+  "model": "gpt-41"
+}

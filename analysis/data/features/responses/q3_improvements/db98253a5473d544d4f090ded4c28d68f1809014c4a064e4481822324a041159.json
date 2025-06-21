@@ -1,0 +1,37 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of post-award support",
+    "unclear grant fund requirements",
+    "last-minute compliance challenges",
+    "need for structured communication",
+    "positive experience with application support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "the process seemed quite loose and unstructured",
+    "use of grant funds requirements were not communicated to my organization in a timely or clear manner",
+    "a designated staff person or team to help folks walk through the process",
+    "provided to us for the application process; but not after actually receiving the grant",
+    "left us scrambling at the last moments to stay in compliance"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Elevate grant"
+  ],
+  "barriers_identified": [
+    "unclear and untimely communication of grant requirements",
+    "lack of post-award support",
+    "unstructured grant process"
+  ],
+  "solutions_proposed": [
+    "assign a designated staff person or team to assist grantees after award"
+  ],
+  "cached_at": "2025-06-21T01:04:20.493571",
+  "cache_key": "db98253a5473d544d4f090ded4c28d68f1809014c4a064e4481822324a041159",
+  "model": "gpt-41"
+}

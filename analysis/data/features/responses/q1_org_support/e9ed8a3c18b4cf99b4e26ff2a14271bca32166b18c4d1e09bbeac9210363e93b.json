@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "opposition to convention center funding",
+    "reallocation of public funds to arts",
+    "support for artist residencies",
+    "need for accessible event spaces",
+    "support for emerging and marginalized artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "strongly opposing the (unnecessary) proposed new convention center (5.6 Billion dollars!!)",
+    "put 10% of that into Arts and Culture bond fund",
+    "supporting artist residencies",
+    "arts and music event places",
+    "community gatherings",
+    "emerging artists/ artists who have less access to platforms of expression"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists who have less access to platforms of expression"
+  ],
+  "solutions_proposed": [
+    "oppose new convention center",
+    "allocate 10% of convention center funds to Arts and Culture bond fund",
+    "use funds to support artist residencies",
+    "support arts and music event places",
+    "support community gatherings",
+    "support emerging and marginalized artists"
+  ],
+  "cached_at": "2025-06-20T10:43:03.914642",
+  "cache_key": "e9ed8a3c18b4cf99b4e26ff2a14271bca32166b18c4d1e09bbeac9210363e93b",
+  "model": "gpt-41"
+}

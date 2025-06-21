@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist mentorship opportunities",
+    "professional development for artists",
+    "peer skill sharing",
+    "networking among working artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "more artist mentorship",
+    "trainings",
+    "skill shares",
+    "ways to connect with other working artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "more artist mentorship",
+    "trainings",
+    "skill shares",
+    "ways to connect with other working artists"
+  ],
+  "cached_at": "2025-06-21T01:58:49.953209",
+  "cache_key": "09df96251e5aad6084c1b31f20e323d9f554617131765ff2e56e7f849712bb63",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concerns about direct funding to performers",
+    "administrative challenges",
+    "evaluation difficulties",
+    "appropriate use of HOT funds"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "should not go directly to performers",
+    "too difficult to administer",
+    "evaluate effectiveness and appropriateness",
+    "using HOT funds"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Live music fund"
+  ],
+  "barriers_identified": [
+    "too difficult to administer",
+    "difficult to evaluate effectiveness and appropriateness"
+  ],
+  "solutions_proposed": [
+    "Live music fund should not go directly to performers"
+  ],
+  "cached_at": "2025-06-21T01:15:29.805259",
+  "cache_key": "4939234096cde3932c1aa01fab40bfa492c7ac03d744090e82cccfa845fbd826",
+  "model": "gpt-41"
+}

@@ -1,0 +1,48 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "Loss and instability of established arts organizations",
+    "Disruption of artist livelihoods and community spaces",
+    "Shift in funding priorities and competition between groups",
+    "Insufficiency and unsustainability of current funding mechanisms",
+    "Need for diversified funding sources including business and philanthropy",
+    "Changing demographics and evolving needs in Austin's arts sector"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Austin's foundation of existing organizations has been drastically weakened",
+    "recent loss of Big Medium is one glaring example",
+    "selling off a huge inventory of high-quality costumed and fully-designed sets because they can't afford the storage expense",
+    "the result has been disruptive at best",
+    "loss of income and career options",
+    "funds that weren\u2019t awarded to the many established organizations were awarded to artists and communities who deserve this support as well",
+    "pitting organizations and individual artists against each other for mostly meager handouts with too many strings attached",
+    "Real support would build in greater sustainability",
+    "the city needs to give more than the current funding, which relies heavily on HOT tax revenue",
+    "why aren\u2019t local businesses and wealthy individuals being courted by the city to partner in funding cultural initiatives?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Big Medium",
+    "Zilker Theater Production"
+  ],
+  "barriers_identified": [
+    "Loss of established organizations and infrastructure",
+    "Inadequate funding and reliance on HOT tax revenue",
+    "Competition between organizations and individual artists for limited resources",
+    "Too many strings attached to funding",
+    "Lack of diversified funding sources"
+  ],
+  "solutions_proposed": [
+    "City should seek more funding beyond HOT tax revenue",
+    "City should partner with local businesses and wealthy individuals to fund cultural initiatives",
+    "Build greater sustainability into support for arts organizations and artists"
+  ],
+  "cached_at": "2025-06-20T10:44:31.259850",
+  "cache_key": "f354e6f932cd24aa68ba22c3232f9439f4ff34eb8d20430bfb31942d802a840d",
+  "model": "gpt-41"
+}

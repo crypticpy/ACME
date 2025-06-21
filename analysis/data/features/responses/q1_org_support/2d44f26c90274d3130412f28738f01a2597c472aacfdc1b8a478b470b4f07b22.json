@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "quality of life for musicians",
+    "audience experience at live music events",
+    "impact of homelessness on cultural participation",
+    "impact of crime on downtown cultural activities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "focus on quality of life issues",
+    "make being a musician and seeing live music a better experience",
+    "addressing homelessness and crime issues downtown"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "homelessness downtown",
+    "crime issues downtown"
+  ],
+  "solutions_proposed": [
+    "addressing homelessness and crime issues downtown"
+  ],
+  "cached_at": "2025-06-20T10:22:32.521921",
+  "cache_key": "2d44f26c90274d3130412f28738f01a2597c472aacfdc1b8a478b470b4f07b22",
+  "model": "gpt-41"
+}

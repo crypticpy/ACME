@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable access for children and adults",
+    "racial equity in programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Programs for both children and adults equally regardless of race"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of equal programs for children and adults regardless of race"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:46:47.736323",
+  "cache_key": "2800e8c01aaae046c7bbfa6cc8df4dc38adc27aa4f8806184e5e98206a056565",
+  "model": "gpt-41"
+}

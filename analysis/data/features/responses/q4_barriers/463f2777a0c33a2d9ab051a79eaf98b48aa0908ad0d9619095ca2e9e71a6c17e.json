@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "hostility from city staff towards best practices",
+    "lack of legitimate community input",
+    "collusion between staff and inexperienced commissioners",
+    "conflicts of interest in decision-making",
+    "challenges for community-driven work"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "City staff hostile to best practices",
+    "legitimate community input",
+    "working behind the scenes with commissioners with no subject matter expertise",
+    "flouting conflict of interest rules",
+    "huge mess for anyone attempting to produce community driven work with tangible impact"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "hostility from city staff",
+    "lack of subject matter expertise among commissioners",
+    "conflicts of interest",
+    "lack of legitimate community input",
+    "opaque decision-making processes"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:33.003248",
+  "cache_key": "463f2777a0c33a2d9ab051a79eaf98b48aa0908ad0d9619095ca2e9e71a6c17e",
+  "model": "gpt-41"
+}

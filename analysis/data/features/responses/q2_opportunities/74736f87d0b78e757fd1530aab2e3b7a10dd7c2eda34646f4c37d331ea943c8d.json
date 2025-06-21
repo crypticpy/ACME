@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "interest in theatre",
+    "interest in classical music",
+    "interest in opera"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Theatre",
+    "classical music",
+    "opera"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T00:25:54.895413",
+  "cache_key": "74736f87d0b78e757fd1530aab2e3b7a10dd7c2eda34646f4c37d331ea943c8d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased street art presence",
+    "multimedia arts experiences",
+    "affordable access to music concerts",
+    "affordable dance performances"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "street art",
+    "multimedia productions",
+    "affordable music concerts",
+    "dance performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "affordability of music concerts and dance performances"
+  ],
+  "solutions_proposed": [
+    "offer more affordable music concerts",
+    "offer more affordable dance performances",
+    "increase street art",
+    "increase multimedia productions"
+  ],
+  "cached_at": "2025-06-21T00:37:02.167093",
+  "cache_key": "43539fafc06584a2ee4b9759f0e9e2d877938bc995a1ecf008dafed4319a0f90",
+  "model": "gpt-41"
+}

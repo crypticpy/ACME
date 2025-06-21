@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "language accessibility",
+    "support for non-English speakers"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Provide bilingual speakers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of bilingual support"
+  ],
+  "solutions_proposed": [
+    "Provide bilingual speakers"
+  ],
+  "cached_at": "2025-06-20T10:43:35.339079",
+  "cache_key": "e8dba3e0f577fbb1ebfe8286563a40d105af8ff1b85051a7966e20f66e7988ca",
+  "model": "gpt-41"
+}

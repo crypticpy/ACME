@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "perceived lack of public art",
+    "discrepancy between Austin's creative reputation and reality",
+    "need for increased funding or donations from wealthy individuals and corporations",
+    "public visibility of creativity"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "for an 'artsy town' we have very little public art",
+    "we need to work on colaborating donations from all these tech billionares and big companies",
+    "I just don't see a public display of being the creative city that we like to think we are"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient public art",
+    "lack of visible creative expression in public spaces",
+    "insufficient collaboration with wealthy donors"
+  ],
+  "solutions_proposed": [
+    "collaborating donations from tech billionaires and big companies"
+  ],
+  "cached_at": "2025-06-21T02:01:08.583959",
+  "cache_key": "3449aa2d1ad38a5e284822563aec588a0835ae561df6f704abced6b82072e4ea",
+  "model": "gpt-41"
+}

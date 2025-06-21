@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of venues",
+    "support for local Austin artists"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Help lower venue prices",
+    "support local austin artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high venue prices"
+  ],
+  "solutions_proposed": [
+    "lower venue prices",
+    "increase support for local Austin artists"
+  ],
+  "cached_at": "2025-06-20T10:32:00.981016",
+  "cache_key": "9ffd8c1dc2a1e48a2a120d4c43f8581153fe4742142f0bd942d674d04d38c595",
+  "model": "gpt-41"
+}

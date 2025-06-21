@@ -1,0 +1,32 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "investment in community spaces",
+    "support for arts programming",
+    "focus on community hubs",
+    "specific mention of Dougherty Arts Center"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Invest in community spaces",
+    "arts programming",
+    "community hubs like Dougherty Arts Center"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Dougherty Arts Center"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Invest in community spaces",
+    "Invest in arts programming",
+    "Focus investment at community hubs like Dougherty Arts Center"
+  ],
+  "cached_at": "2025-06-20T01:12:07.656680",
+  "cache_key": "ebaefdeb7068ae42b5b646ae0675de6bf82be1f8adf41f7a3d49c9c549cd099d",
+  "model": "gpt-41"
+}

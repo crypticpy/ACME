@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "concern about exclusion of legacy organizations",
+    "value of historical and traditional arts",
+    "support for expanding funding to underrepresented groups",
+    "perceived loss of support for established organizations",
+    "questioning the balance of funding priorities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I support the focus on expanding the art funding to those organizations that have been excluded",
+    "the 'baby has been thrown out with the bath water'",
+    "My organization, the Austin Symphonic Band, plays band music",
+    "we still play old fashioned Sousa marches",
+    "Isn't it ok to support arts that are historically significant to our city?"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Austin Symphonic Band"
+  ],
+  "barriers_identified": [
+    "exclusion of legacy arts organizations from funding"
+  ],
+  "solutions_proposed": [
+    "support arts that are historically significant to our city"
+  ],
+  "cached_at": "2025-06-20T01:15:11.314277",
+  "cache_key": "575c7f5d00a9e82b306aa435461615179185f883901530b74be131d3ea86154c",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased grant funding",
+    "capacity building through workshops",
+    "support in accessing external funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more grant funding",
+    "access to workshops",
+    "get outside funding"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient grant funding",
+    "limited access to knowledge or resources for obtaining outside funding"
+  ],
+  "solutions_proposed": [
+    "increase grant funding",
+    "provide workshops to help organizations secure outside funding"
+  ],
+  "cached_at": "2025-06-20T01:21:46.234949",
+  "cache_key": "f750a5b150d6189aa6cdfcc0feb7a80d6b5c55c66f146ca9e981f9b7b588fa8e",
+  "model": "gpt-41"
+}

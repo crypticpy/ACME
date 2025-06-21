@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "expanding partnerships with artists and organizations",
+    "collaborations with tourism entities",
+    "improving local community awareness of events",
+    "shifting focus from tourists to local audiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Partnerships with artists and organizations",
+    "Partnerships with Visit Austin have been helpful",
+    "expanded like that",
+    "making these events known but more to a local audience rather than tourists",
+    "ensuring our community knows about what's going on"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Visit Austin"
+  ],
+  "barriers_identified": [
+    "events are more known to tourists than local community",
+    "lack of local audience awareness"
+  ],
+  "solutions_proposed": [
+    "expand partnerships similar to those with Visit Austin",
+    "focus event promotion on local audiences",
+    "ensure community awareness of cultural events"
+  ],
+  "cached_at": "2025-06-21T02:07:23.748932",
+  "cache_key": "553780012595ef89e74389a67b2f5180838efc4400476542980ef5ba7569e914",
+  "model": "gpt-41"
+}

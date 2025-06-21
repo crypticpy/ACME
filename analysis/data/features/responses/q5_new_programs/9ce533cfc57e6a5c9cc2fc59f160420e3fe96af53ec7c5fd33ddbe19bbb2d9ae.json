@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "grant evaluation quality",
+    "peer review credibility",
+    "assessment of applicant experience"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "grants that measure the quality and experience of the applicant",
+    "peer panel who can actually testify to the real work"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of credible peer evaluation in grant process"
+  ],
+  "solutions_proposed": [
+    "use a peer panel who can actually testify to the real work"
+  ],
+  "cached_at": "2025-06-21T02:08:58.483646",
+  "cache_key": "9ce533cfc57e6a5c9cc2fc59f160420e3fe96af53ec7c5fd33ddbe19bbb2d9ae",
+  "model": "gpt-41"
+}

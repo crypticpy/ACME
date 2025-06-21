@@ -1,0 +1,28 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for professional arts",
+    "critique of current city funding priorities",
+    "concern about funding for amateur artists without audiences"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "High quality, professional arts",
+    "The City funds amateurs who don't even have an audience"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "City funding for amateur artists without audience"
+  ],
+  "solutions_proposed": [
+    "Increase support for high quality, professional arts"
+  ],
+  "cached_at": "2025-06-21T00:30:06.485453",
+  "cache_key": "4a78a3f7cce805a47144fd9894b1c7f7db78564c02b041c8ed70425deec924c9",
+  "model": "gpt-41"
+}

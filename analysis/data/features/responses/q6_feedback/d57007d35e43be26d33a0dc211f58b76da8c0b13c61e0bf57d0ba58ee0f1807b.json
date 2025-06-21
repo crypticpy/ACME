@@ -1,0 +1,22 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "willingness to contribute",
+    "optimism about engagement"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "I look forward to helping"
+  ],
+  "intent": "offer_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:15.454468",
+  "cache_key": "d57007d35e43be26d33a0dc211f58b76da8c0b13c61e0bf57d0ba58ee0f1807b",
+  "model": "gpt-41"
+}

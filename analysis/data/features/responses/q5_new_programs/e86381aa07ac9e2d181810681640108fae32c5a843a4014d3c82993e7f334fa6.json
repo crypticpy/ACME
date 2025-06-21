@@ -1,0 +1,38 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordable studio space",
+    "artist funding and grants",
+    "artist housing support",
+    "recognition of artists' role in city identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "reasonable studio pricing",
+    "grants",
+    "funding",
+    "housing for artists",
+    "make this city what it is"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high studio pricing",
+    "lack of grants",
+    "insufficient funding",
+    "inadequate housing for artists"
+  ],
+  "solutions_proposed": [
+    "offer reasonable studio pricing",
+    "provide grants",
+    "increase funding",
+    "support housing for artists"
+  ],
+  "cached_at": "2025-06-21T01:56:25.499353",
+  "cache_key": "e86381aa07ac9e2d181810681640108fae32c5a843a4014d3c82993e7f334fa6",
+  "model": "gpt-41"
+}

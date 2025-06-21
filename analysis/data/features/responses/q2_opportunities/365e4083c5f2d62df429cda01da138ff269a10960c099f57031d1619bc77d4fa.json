@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for arts mapping tools",
+    "interest in geographic visualization of arts",
+    "access to information about arts opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "I'd love to have a GIS map of the arts"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "GIS map of the arts"
+  ],
+  "cached_at": "2025-06-21T00:37:42.909696",
+  "cache_key": "365e4083c5f2d62df429cda01da138ff269a10960c099f57031d1619bc77d4fa",
+  "model": "gpt-41"
+}

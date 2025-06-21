@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased funding",
+    "education on funding processes",
+    "collaboration and technical support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding",
+    "support education on how to find and apply for funding",
+    "collaboration support to developed technical support/guidance"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of knowledge on how to find and apply for funding",
+    "insufficient technical support"
+  ],
+  "solutions_proposed": [
+    "provide funding",
+    "offer education on how to find and apply for funding",
+    "support collaboration to develop technical support/guidance"
+  ],
+  "cached_at": "2025-06-20T10:43:01.217838",
+  "cache_key": "ba7a942939938a481144e4bee14d920a36f7d84416dcf403430207398830957d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient city funding",
+    "lack of affordable space",
+    "limited grant resources and preparation",
+    "inadequate arts and culture education for youth"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "City funding and access to affordable space",
+    "Lack of resource surrounding grant opportunities and preparation",
+    "Lack of emphasis on arts and culture education for young audiences"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient city funding",
+    "lack of affordable space",
+    "lack of resources for grant opportunities and preparation",
+    "lack of emphasis on arts and culture education for young audiences"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:34:52.223598",
+  "cache_key": "9cccdd733352bf46e2d6006d13573b25a7aab081b0d5d4f88bfcd70fed2a720d",
+  "model": "gpt-41"
+}

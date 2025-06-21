@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "increased funding for cultural organizations",
+    "support for underrepresented communities",
+    "addressing barriers to arts and education access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "funding programs",
+    "supporting organizations that give voice to underrepresented communities",
+    "barriers to accessing arts and education"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "barriers to accessing arts and education"
+  ],
+  "solutions_proposed": [
+    "funding programs",
+    "supporting organizations that give voice to underrepresented communities"
+  ],
+  "cached_at": "2025-06-20T10:37:54.594279",
+  "cache_key": "aedbcbc90e0e7e1c06ab6f8317d52dcb80e6b93a8b3bb19a08147e2fdb8ae399",
+  "model": "gpt-41"
+}

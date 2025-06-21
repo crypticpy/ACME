@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived inadequacy of museum offerings",
+    "desire for more museums",
+    "desire for higher quality or more compelling exhibits"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "museum scene overall to be somewhat lacking",
+    "could be more museums",
+    "museums that we have could be more robust",
+    "rarely do we get an exhibit that feels like a must-see"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of compelling museum exhibits",
+    "insufficient number of museums"
+  ],
+  "solutions_proposed": [
+    "more museums",
+    "more robust museum offerings"
+  ],
+  "cached_at": "2025-06-21T00:30:12.086775",
+  "cache_key": "a813908b0860dff941c4209c0838c9edd3930ee372516a0306e66c19c50885ac",
+  "model": "gpt-41"
+}

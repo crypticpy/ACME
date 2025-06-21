@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "community expertise",
+    "historical experience",
+    "elder leadership",
+    "intergenerational knowledge transfer"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "tap into community expertise",
+    "historical experience",
+    "letting elders lead"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Let elders lead"
+  ],
+  "cached_at": "2025-06-20T10:27:18.509346",
+  "cache_key": "37c94dc89d05ad834a05715c5011fae52d79452a9b23f9460ac65ad37954fcd2",
+  "model": "gpt-41"
+}

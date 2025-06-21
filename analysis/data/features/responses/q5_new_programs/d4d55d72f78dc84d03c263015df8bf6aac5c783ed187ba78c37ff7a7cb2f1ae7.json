@@ -1,0 +1,31 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for affordable creative workspaces",
+    "support for musicians' practice spaces",
+    "support for visual artists' studios"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "City subsidized creative work spaces",
+    "Practice spaces for musicians",
+    "Studios for visual artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable or available creative workspaces"
+  ],
+  "solutions_proposed": [
+    "City subsidized creative work spaces",
+    "Practice spaces for musicians",
+    "Studios for visual artists"
+  ],
+  "cached_at": "2025-06-21T02:08:36.730652",
+  "cache_key": "d4d55d72f78dc84d03c263015df8bf6aac5c783ed187ba78c37ff7a7cb2f1ae7",
+  "model": "gpt-41"
+}

@@ -1,0 +1,38 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Recognition of legacy and emerging organizations",
+    "Value of continuity and institutional knowledge",
+    "Need for stability and predictable funding",
+    "Importance of transparent funding structures",
+    "Advance notice of policy or budget changes",
+    "Balancing support for diversity and tradition"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "recognize the value of both legacy and emerging arts organizations",
+    "Longstanding organizations provide essential continuity, community trust, and institutional knowledge",
+    "need stability\u2014especially in the form of predictable, transparent funding structures",
+    "advance notice of any major policy or budget shifts",
+    "fostering diversity and innovation in the arts",
+    "deep value built over time by cultural leaders"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Lack of predictable, transparent funding structures",
+    "Insufficient advance notice of major policy or budget shifts"
+  ],
+  "solutions_proposed": [
+    "Provide predictable, transparent funding structures",
+    "Give advance notice of any major policy or budget shifts",
+    "Recognize and support both legacy and emerging organizations"
+  ],
+  "cached_at": "2025-06-20T10:25:02.522739",
+  "cache_key": "57ca77890858bede003d02d571ff74d2d25afadaf6e1b2ab799ddfd0b32872c8",
+  "model": "gpt-41"
+}

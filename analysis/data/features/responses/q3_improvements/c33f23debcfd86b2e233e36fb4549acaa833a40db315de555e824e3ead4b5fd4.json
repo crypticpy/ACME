@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "peer support among funding recipients",
+    "network-building within funded community"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "support within the network",
+    "between recipients"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase support and connection between funding recipients"
+  ],
+  "cached_at": "2025-06-21T01:04:21.646196",
+  "cache_key": "c33f23debcfd86b2e233e36fb4549acaa833a40db315de555e824e3ead4b5fd4",
+  "model": "gpt-41"
+}

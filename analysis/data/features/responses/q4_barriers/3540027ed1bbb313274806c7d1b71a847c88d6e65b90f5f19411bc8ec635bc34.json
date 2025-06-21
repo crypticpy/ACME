@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordability of cultural events",
+    "inaccessibility of theatre for families",
+    "rising ticket prices"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Ticket prices have gotten out of control",
+    "make theatre out of reach for families"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high ticket prices",
+    "theatre inaccessible for families"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:23:51.415914",
+  "cache_key": "3540027ed1bbb313274806c7d1b71a847c88d6e65b90f5f19411bc8ec635bc34",
+  "model": "gpt-41"
+}

@@ -1,0 +1,28 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "attention to smaller nonprofits",
+    "funding needs assessment",
+    "planning support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "better understand the funding and planning needs",
+    "smaller nonprofits"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of understanding of needs of smaller nonprofits"
+  ],
+  "solutions_proposed": [
+    "better understand the funding and planning needs of smaller nonprofits"
+  ],
+  "cached_at": "2025-06-20T10:36:45.106714",
+  "cache_key": "cee42941e32fcfce1835c36189745dd761871a10be9c1a297b31b3a4af5a8b0a",
+  "model": "gpt-41"
+}

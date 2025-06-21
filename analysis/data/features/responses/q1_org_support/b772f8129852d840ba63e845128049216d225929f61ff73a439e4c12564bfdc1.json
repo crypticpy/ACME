@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased frequency of grant opportunities",
+    "promotion and visibility for performances"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more frequent grant opportunities",
+    "avenues for promoting performances"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "infrequent grant opportunities",
+    "limited promotion for performances"
+  ],
+  "solutions_proposed": [
+    "offer more frequent grant opportunities",
+    "create avenues for promoting performances"
+  ],
+  "cached_at": "2025-06-20T10:24:48.058131",
+  "cache_key": "b772f8129852d840ba63e845128049216d225929f61ff73a439e4c12564bfdc1",
+  "model": "gpt-41"
+}

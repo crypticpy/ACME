@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "equitable support for literature and literacy",
+    "perceived prioritization of music over literature",
+    "desire for parity in cultural programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "the same type commitment to literature and literacy organizations and events as there is for music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of commitment to literature and literacy compared to music"
+  ],
+  "solutions_proposed": [
+    "offer the same type of commitment to literature and literacy organizations and events as is given to music"
+  ],
+  "cached_at": "2025-06-21T01:57:01.317447",
+  "cache_key": "448ed43a8ba5f50a7e6f4460ba9ed37be72a2307cd2559de818ba981784b6e11",
+  "model": "gpt-41"
+}

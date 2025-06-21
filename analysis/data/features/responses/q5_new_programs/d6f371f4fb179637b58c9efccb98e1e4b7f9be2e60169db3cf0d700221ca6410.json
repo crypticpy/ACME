@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "affordable housing for cultural sector",
+    "support for historians",
+    "historic preservation initiatives"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Housing",
+    "historian incubators",
+    "historic preservation specific initiatives"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer housing programs",
+    "Create historian incubators",
+    "Develop historic preservation specific initiatives"
+  ],
+  "cached_at": "2025-06-21T02:06:03.238768",
+  "cache_key": "d6f371f4fb179637b58c9efccb98e1e4b7f9be2e60169db3cf0d700221ca6410",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "promotion of local creative communities",
+    "improved outreach",
+    "support for rising artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "promoting local creative communities",
+    "consistently improving outreach",
+    "opportunities for rising artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "promoting local creative communities",
+    "consistently improving outreach",
+    "creating more opportunities for rising artists"
+  ],
+  "cached_at": "2025-06-20T01:12:48.163980",
+  "cache_key": "4d22da6997bb5f6d231f0b62940eb7ab6d4272324f8dc1b71e3f404b77a66085",
+  "model": "gpt-41"
+}

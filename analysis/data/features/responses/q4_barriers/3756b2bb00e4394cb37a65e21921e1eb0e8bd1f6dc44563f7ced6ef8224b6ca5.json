@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of accessible secular performance venues",
+    "acoustic suitability for choral music",
+    "exclusivity of existing spaces (churches, large venues, university spaces)",
+    "challenges for small ensembles"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "not many performance venues with good acoustics for choral performance that aren\u2019t churches",
+    "trying to market itself as a secular choral experience, but still has to perform in churches",
+    "the only other performance spaces are like, the long center which obviously is not accessible to a small ensemble",
+    "UT which prioritizes its spaces for students"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Long Center",
+    "UT"
+  ],
+  "barriers_identified": [
+    "limited secular venues with good acoustics for choral performance",
+    "reliance on churches for performance space",
+    "large venues like the Long Center are not accessible to small ensembles",
+    "university venues prioritize students over community groups"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:44:47.888118",
+  "cache_key": "3756b2bb00e4394cb37a65e21921e1eb0e8bd1f6dc44563f7ced6ef8224b6ca5",
+  "model": "gpt-41"
+}

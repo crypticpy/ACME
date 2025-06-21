@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for consistent, multi-year funding",
+    "importance of funding flexibility",
+    "strategic planning for organizations",
+    "investment in community outreach",
+    "support for artistic risk-taking",
+    "alignment with long-term cultural vision"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "consistent, multi-year funding opportunities",
+    "flexibility in funding",
+    "plan strategic initiatives",
+    "invest in community outreach",
+    "take artistic risks",
+    "long-term vision of advancing the cultural agenda"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of consistent, multi-year funding",
+    "inflexible funding structures"
+  ],
+  "solutions_proposed": [
+    "provide consistent, multi-year funding opportunities",
+    "increase flexibility in funding"
+  ],
+  "cached_at": "2025-06-20T10:38:02.159567",
+  "cache_key": "716f266d3457d223cf7815793f5ebc9bbe5db9865d2c53691923e1b9c2dfb888",
+  "model": "gpt-41"
+}

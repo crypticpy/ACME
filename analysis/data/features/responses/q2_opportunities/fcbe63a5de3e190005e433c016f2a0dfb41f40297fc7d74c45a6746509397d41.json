@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of diversity in musical bookings",
+    "perceived favoritism in city gigs",
+    "desire for broader representation of artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more diverse booking of musical artists",
+    "the same musicians seem to get all the city gigs"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited diversity in artist selection for city gigs",
+    "repetition of the same musicians in city-sponsored events"
+  ],
+  "solutions_proposed": [
+    "more diverse booking of musical artists"
+  ],
+  "cached_at": "2025-06-21T00:51:57.282334",
+  "cache_key": "fcbe63a5de3e190005e433c016f2a0dfb41f40297fc7d74c45a6746509397d41",
+  "model": "gpt-41"
+}

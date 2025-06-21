@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "timeliness of funding notifications",
+    "challenges in planning due to late funding",
+    "budget uncertainty for recipients"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "earlier notification for recipients",
+    "very hard to plan a season",
+    "pass a budget without knowing if funding is in place",
+    "until just before the season"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "late notification of funding",
+    "difficulty planning and budgeting due to funding uncertainty"
+  ],
+  "solutions_proposed": [
+    "provide earlier notification for funding recipients"
+  ],
+  "cached_at": "2025-06-21T00:54:41.964989",
+  "cache_key": "9121dc65894f5256b4467ad92cf66b23416d6f1113b13e6e08f11f40d4c2efde",
+  "model": "gpt-41"
+}

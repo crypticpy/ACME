@@ -1,0 +1,31 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "cross-industry collaboration",
+    "integration of arts into business",
+    "support for local artists",
+    "licensing of local art and music"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "liaisoning with other industries",
+    "every business in Austin should be collaborating with Austin artists",
+    "licensing local artists' work and music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration between businesses and artists"
+  ],
+  "solutions_proposed": [
+    "every business in Austin should be collaborating with Austin artists",
+    "licensing local artists' work and music"
+  ],
+  "cached_at": "2025-06-21T00:40:58.554119",
+  "cache_key": "d5b9cb0da69a0f3828671b4a8873b16baceac0248db09b7ed19edbe9b9100e54",
+  "model": "gpt-41"
+}

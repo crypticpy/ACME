@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "grant accessibility for beginners",
+    "lack of grant writing experience",
+    "financial barriers to hiring grant writers"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "make the grants more beginner friendly",
+    "most creatives have no grant experience",
+    "cannot afford a grant writer"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grant experience",
+    "cannot afford a grant writer"
+  ],
+  "solutions_proposed": [
+    "make the grants more beginner friendly"
+  ],
+  "cached_at": "2025-06-21T00:54:22.115674",
+  "cache_key": "dcc7a2ee0724f068decab598a42c8acb89c36f72e6898ddd0723326d24e20e28",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "question clarity",
+    "lack of information",
+    "difficulty engaging with survey"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "too vague",
+    "not informed enough to understand"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear survey questions",
+    "insufficient information to respond"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-20T10:21:11.770357",
+  "cache_key": "a6035dc9dc7579eb5df1622d51d8b9a6a553aee6518228c8670b511a0242bd98",
+  "model": "gpt-41"
+}

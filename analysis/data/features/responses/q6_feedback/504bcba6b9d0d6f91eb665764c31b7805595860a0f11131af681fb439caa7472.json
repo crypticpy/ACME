@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "preference for appropriate forum",
+    "withholding feedback in current context"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "would only share in an appropriate forum"
+  ],
+  "intent": "preference_statement",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "inappropriate forum for feedback"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:16:55.901123",
+  "cache_key": "504bcba6b9d0d6f91eb665764c31b7805595860a0f11131af681fb439caa7472",
+  "model": "gpt-41"
+}

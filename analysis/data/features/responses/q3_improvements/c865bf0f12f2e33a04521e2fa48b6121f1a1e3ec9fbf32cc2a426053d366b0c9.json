@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "long-term support for creatives and business owners",
+    "need for financial coaching",
+    "affordability and cost of living",
+    "opportunities for paid gigs and portfolio growth",
+    "promotion and awareness of assistance programs",
+    "appreciation for existing grants"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Promote ways these new business owners and creatives can thrive long-term",
+    "financial coaching",
+    "lower cost of living opportunities",
+    "paid gigs for people to grow their portfolio",
+    "I wasn't aware for that space assistance program, promote that better",
+    "Love the grants, keep that up!"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "space assistance program"
+  ],
+  "barriers_identified": [
+    "lack of awareness of space assistance program",
+    "high cost of living",
+    "limited paid opportunities for portfolio growth"
+  ],
+  "solutions_proposed": [
+    "provide financial coaching",
+    "create lower cost of living opportunities",
+    "offer paid gigs for portfolio growth",
+    "better promotion of space assistance program",
+    "continue providing grants"
+  ],
+  "cached_at": "2025-06-21T01:09:51.716071",
+  "cache_key": "c865bf0f12f2e33a04521e2fa48b6121f1a1e3ec9fbf32cc2a426053d366b0c9",
+  "model": "gpt-41"
+}

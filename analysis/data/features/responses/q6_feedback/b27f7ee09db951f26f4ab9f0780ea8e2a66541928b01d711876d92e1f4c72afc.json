@@ -1,0 +1,37 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "physical accessibility at city-funded events",
+    "mobility challenges for handicapped and elderly",
+    "equity in public spending",
+    "impact of transportation logistics (shuttle buses)",
+    "importance of neighborhood-scale events"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "Provide wheelchairs, scooters, and LOTS of benches in ALL city-funded events and spaces",
+    "City money should = EVERYONE has access, don't you agree?",
+    "Every time you make us take shuttle busses and make physical access more difficult, you decrease the likelihood that handicapped people and the elderly can show up and enjoy it",
+    "Think smaller, think neighborhood, and think about mobility access every single time you spend a dime",
+    "It's only fair"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of mobility aids (wheelchairs, scooters, benches)",
+    "requirement to take shuttle buses",
+    "physical access difficulties for handicapped and elderly"
+  ],
+  "solutions_proposed": [
+    "Provide wheelchairs, scooters, and benches at all city-funded events and spaces",
+    "Prioritize mobility access in all spending decisions",
+    "Organize smaller, neighborhood-focused events"
+  ],
+  "cached_at": "2025-06-21T02:18:56.009329",
+  "cache_key": "b27f7ee09db951f26f4ab9f0780ea8e2a66541928b01d711876d92e1f4c72afc",
+  "model": "gpt-41"
+}

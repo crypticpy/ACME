@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "mentorship opportunities",
+    "educational programming gaps"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Mentorship and educational programming"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Offer mentorship programs",
+    "Provide educational programming"
+  ],
+  "cached_at": "2025-06-21T02:01:23.019398",
+  "cache_key": "0acbd429d070ec97d36e42440a644c51c89300abe17f5f49937f24ff10253a9e",
+  "model": "gpt-41"
+}

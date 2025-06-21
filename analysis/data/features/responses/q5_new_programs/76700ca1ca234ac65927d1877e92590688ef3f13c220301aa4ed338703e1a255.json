@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in grant funding",
+    "live music fund administration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more transparency",
+    "live music fund grant"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "live music fund grant"
+  ],
+  "barriers_identified": [
+    "lack of transparency in grant process"
+  ],
+  "solutions_proposed": [
+    "more transparency for the live music fund grant"
+  ],
+  "cached_at": "2025-06-21T01:54:37.421251",
+  "cache_key": "76700ca1ca234ac65927d1877e92590688ef3f13c220301aa4ed338703e1a255",
+  "model": "gpt-41"
+}

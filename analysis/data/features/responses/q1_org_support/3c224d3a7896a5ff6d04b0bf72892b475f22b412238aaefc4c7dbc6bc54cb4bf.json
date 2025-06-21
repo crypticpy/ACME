@@ -1,0 +1,36 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "proactive engagement by ACME",
+    "anticipating needs of arts communities",
+    "direct outreach to arts groups",
+    "visibility and accessibility of ACME staff"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More pro-active important",
+    "Staying ahead of the needs and issue of the arts communities",
+    "Direct outreach to arts groups and spaces",
+    "Let's see the faces of ACME"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of proactive engagement",
+    "insufficient direct outreach",
+    "limited visibility of ACME staff"
+  ],
+  "solutions_proposed": [
+    "be more proactive",
+    "stay ahead of arts community needs",
+    "conduct direct outreach to arts groups and spaces",
+    "increase visibility of ACME staff"
+  ],
+  "cached_at": "2025-06-20T10:36:17.408390",
+  "cache_key": "3c224d3a7896a5ff6d04b0bf72892b475f22b412238aaefc4c7dbc6bc54cb4bf",
+  "model": "gpt-41"
+}

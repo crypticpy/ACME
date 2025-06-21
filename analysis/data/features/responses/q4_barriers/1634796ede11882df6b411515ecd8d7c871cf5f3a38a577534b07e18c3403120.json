@@ -1,0 +1,25 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "financial barriers to event production",
+    "cost as a limiting factor for cultural participation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "cost of this that and the other",
+    "to produce events"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost to produce events"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:49:11.983746",
+  "cache_key": "1634796ede11882df6b411515ecd8d7c871cf5f3a38a577534b07e18c3403120",
+  "model": "gpt-41"
+}

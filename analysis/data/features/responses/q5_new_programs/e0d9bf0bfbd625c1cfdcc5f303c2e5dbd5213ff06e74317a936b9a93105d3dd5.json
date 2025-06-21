@@ -1,0 +1,37 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "property tax relief for venues",
+    "expansion of insurance and rent support",
+    "limitations of current funding programs",
+    "insufficient support for cultural venues"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "venue_operator",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Property tax caps for venues",
+    "insurance and rent support for more venues",
+    "currently supported by CSAP",
+    "20% of the LMF currently available to venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "CSAP",
+    "LMF"
+  ],
+  "barriers_identified": [
+    "limited insurance and rent support for venues",
+    "insufficient allocation of LMF to venues"
+  ],
+  "solutions_proposed": [
+    "Property tax caps for venues",
+    "expand insurance and rent support to more venues",
+    "increase the portion of LMF available to venues"
+  ],
+  "cached_at": "2025-06-21T02:06:29.562949",
+  "cache_key": "e0d9bf0bfbd625c1cfdcc5f303c2e5dbd5213ff06e74317a936b9a93105d3dd5",
+  "model": "gpt-41"
+}

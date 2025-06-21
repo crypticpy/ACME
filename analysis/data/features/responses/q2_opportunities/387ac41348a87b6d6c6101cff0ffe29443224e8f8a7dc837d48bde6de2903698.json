@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased African American entertainment",
+    "representation of African American culture",
+    "expansion of cultural diversity in arts programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More of the African American Entertainment Opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase African American entertainment opportunities"
+  ],
+  "cached_at": "2025-06-21T00:48:21.386729",
+  "cache_key": "387ac41348a87b6d6c6101cff0ffe29443224e8f8a7dc837d48bde6de2903698",
+  "model": "gpt-41"
+}

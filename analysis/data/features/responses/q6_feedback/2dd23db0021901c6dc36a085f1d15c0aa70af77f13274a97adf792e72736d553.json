@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accountability of ACME",
+    "broken promises",
+    "distrust in excuses"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "keep your promises",
+    "without weak excuses"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "failure to fulfill commitments",
+    "use of excuses instead of action"
+  ],
+  "solutions_proposed": [
+    "fulfill promises without making excuses"
+  ],
+  "cached_at": "2025-06-21T02:15:37.478100",
+  "cache_key": "2dd23db0021901c6dc36a085f1d15c0aa70af77f13274a97adf792e72736d553",
+  "model": "gpt-41"
+}

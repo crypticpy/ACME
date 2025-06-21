@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for more indigenous cultural opportunities",
+    "interest in eco-based or environmentally-focused arts",
+    "call for increased representation of underrepresented cultures"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more indigenous",
+    "eco-based"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase indigenous cultural arts opportunities",
+    "increase eco-based cultural arts opportunities"
+  ],
+  "cached_at": "2025-06-21T00:41:41.849853",
+  "cache_key": "b9f285cd5b43c6f4b24a4fe1a326f82674c326dbd27168aa8b68099a9cd31da4",
+  "model": "gpt-41"
+}

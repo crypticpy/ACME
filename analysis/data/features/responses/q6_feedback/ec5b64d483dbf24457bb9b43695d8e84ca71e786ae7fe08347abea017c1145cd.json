@@ -1,0 +1,24 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "anticipation for ACME office operations",
+    "optimism about future opportunities"
+  ],
+  "urgency": "low",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Looking forward to ACME office getting rolling",
+    "the opportunities it will provide",
+    "Thank you"
+  ],
+  "intent": "expression_of_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:09:51.509326",
+  "cache_key": "ec5b64d483dbf24457bb9b43695d8e84ca71e786ae7fe08347abea017c1145cd",
+  "model": "gpt-41"
+}

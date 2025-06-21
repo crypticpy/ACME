@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "accessibility through free events",
+    "support for emerging artists",
+    "expanding cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more free events",
+    "showcasing emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of events"
+  ],
+  "solutions_proposed": [
+    "more free events showcasing emerging artists"
+  ],
+  "cached_at": "2025-06-21T00:48:16.630310",
+  "cache_key": "e0cbdb0799ef974dbe9409d34c482b8f20524a16f5fd5fc24195fc177b2e119a",
+  "model": "gpt-41"
+}

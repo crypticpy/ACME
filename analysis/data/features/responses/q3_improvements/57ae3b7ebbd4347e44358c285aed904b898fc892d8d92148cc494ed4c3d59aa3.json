@@ -1,0 +1,30 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increase in overall funding",
+    "expansion of funding pool",
+    "collective benefit for all participants"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "More money",
+    "Bigger pool of money",
+    "Rising tide raises all boats"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding"
+  ],
+  "solutions_proposed": [
+    "increase the amount of money available",
+    "expand the funding pool"
+  ],
+  "cached_at": "2025-06-21T01:05:01.228763",
+  "cache_key": "57ae3b7ebbd4347e44358c285aed904b898fc892d8d92148cc494ed4c3d59aa3",
+  "model": "gpt-41"
+}

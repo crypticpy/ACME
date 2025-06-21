@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for independent filmmakers",
+    "need for more film screenings",
+    "focus on underserved artists",
+    "year-round programming",
+    "financial support for existing organizations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "more films and film screenings",
+    "dedicated to underserved independent filmmakers",
+    "organizations and artists to do this already exist",
+    "need more financial support",
+    "do this work yearround"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support for organizations and artists"
+  ],
+  "solutions_proposed": [
+    "provide more financial support to organizations and artists for year-round film screenings"
+  ],
+  "cached_at": "2025-06-21T02:08:14.401344",
+  "cache_key": "00964f7b735fb22874b5798475c2da65cb00d1a1d4d91819ee9fce849ff8aee1",
+  "model": "gpt-41"
+}

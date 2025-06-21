@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "dismantling of arts funding by current administration",
+    "need for increased local public and private support",
+    "role of local government in incentivizing private funding"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "current administration's dismantling of arts funding",
+    "local public and private will need to step up to fill the gap",
+    "local government could do a better job at creating or promoting incentives for private funding"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "dismantling of arts funding",
+    "insufficient incentives for private funding"
+  ],
+  "solutions_proposed": [
+    "local government could do a better job at creating or promoting incentives for private funding"
+  ],
+  "cached_at": "2025-06-20T10:28:33.341902",
+  "cache_key": "26459279b91533f0a43659d15546278b0923a46cf8b8a494a866b80187884ef4",
+  "model": "gpt-41"
+}

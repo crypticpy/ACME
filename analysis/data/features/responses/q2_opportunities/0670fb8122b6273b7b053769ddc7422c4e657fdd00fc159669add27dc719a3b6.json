@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "artist collaboration",
+    "interdisciplinary opportunities",
+    "support for diverse artistic practices"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "opportunities for artist of different disciplines to collaborate with each other"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of collaboration opportunities across disciplines"
+  ],
+  "solutions_proposed": [
+    "create opportunities for artists of different disciplines to collaborate"
+  ],
+  "cached_at": "2025-06-21T00:45:43.514484",
+  "cache_key": "0670fb8122b6273b7b053769ddc7422c4e657fdd00fc159669add27dc719a3b6",
+  "model": "gpt-41"
+}

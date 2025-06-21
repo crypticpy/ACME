@@ -1,0 +1,36 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding for the arts",
+    "decline of federal arts support (NEA)",
+    "lack of local foundation support",
+    "absence of art collectors in Austin",
+    "adversarial federal government stance"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding!",
+    "Hollowing out of the NEA",
+    "lack of foundation support in Austin",
+    "no collectors",
+    "an adversarial federal administration"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "NEA"
+  ],
+  "barriers_identified": [
+    "reduced federal arts funding (NEA)",
+    "lack of local foundation support",
+    "lack of art collectors",
+    "adversarial federal administration"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:32.321556",
+  "cache_key": "bcf803e04fa9f57025b1eb020f690b6323155ec348dd296cccfe9af761d489c9",
+  "model": "gpt-41"
+}

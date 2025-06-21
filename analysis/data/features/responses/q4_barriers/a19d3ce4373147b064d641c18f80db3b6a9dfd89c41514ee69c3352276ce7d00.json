@@ -1,0 +1,39 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "underfunding of literary arts",
+    "racial and gender inequity in funding",
+    "economic barriers for Black women writers",
+    "lack of local literary infrastructure",
+    "risk of erasure of Black women's voices",
+    "geographic concentration of literary organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "Literary arts are the least funded of the arts locally and nationally",
+    "Torch Literary Arts supports Black women writers",
+    "Black feminist led and serving nonprofits receive less than half of one percent of global funding",
+    "A third of our community members report annual household incomes of less than $25,000",
+    "75% of publishing and literary organizations are white and on the East Coast",
+    "our voices and literary contributions are under threat of erasure in Austin"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Torch Literary Arts"
+  ],
+  "barriers_identified": [
+    "underfunding of literary arts",
+    "insufficient funding for Black feminist led and serving nonprofits",
+    "low household incomes among community members",
+    "lack of local literary organizations serving Black women writers",
+    "geographic concentration of literary organizations outside Austin"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:20:09.641464",
+  "cache_key": "a19d3ce4373147b064d641c18f80db3b6a9dfd89c41514ee69c3352276ce7d00",
+  "model": "gpt-41"
+}

@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "introductory grant opportunities",
+    "support for first-time applicants",
+    "expanding access to funding"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "grant for non-profits that have never received funding",
+    "introductory grant",
+    "opens the door for other opportunities"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "non-profits that have never received funding"
+  ],
+  "solutions_proposed": [
+    "A grant for non-profits that have never received funding as an introductory grant"
+  ],
+  "cached_at": "2025-06-21T02:02:26.069858",
+  "cache_key": "38710850a9768b00f0f74842e7b1faf120bd7d92dbd6e7c2156a1988938b41ca",
+  "model": "gpt-41"
+}

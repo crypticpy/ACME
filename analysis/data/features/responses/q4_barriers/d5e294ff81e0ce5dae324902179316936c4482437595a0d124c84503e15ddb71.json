@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "need for resources beyond funding",
+    "audience development",
+    "organizational resilience",
+    "artist compensation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "we need resources, but not only financial",
+    "audience development",
+    "all arts orgs can be more resilient",
+    "pay artists more"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of non-financial resources",
+    "insufficient audience development"
+  ],
+  "solutions_proposed": [
+    "improve audience development to increase resilience and artist pay"
+  ],
+  "cached_at": "2025-06-21T01:35:19.872594",
+  "cache_key": "d5e294ff81e0ce5dae324902179316936c4482437595a0d124c84503e15ddb71",
+  "model": "gpt-41"
+}

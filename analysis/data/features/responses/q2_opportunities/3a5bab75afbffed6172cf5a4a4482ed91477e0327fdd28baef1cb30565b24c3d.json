@@ -1,0 +1,34 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "importance of live music",
+    "financial support for the arts",
+    "accessibility of cultural experiences",
+    "citywide cultural identity"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "keeping live music accessible",
+    "financially supported",
+    "widespread throughout Austin",
+    "essential to the cultural of the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of financial support",
+    "limited accessibility"
+  ],
+  "solutions_proposed": [
+    "keep live music accessible",
+    "provide financial support for live music",
+    "ensure live music is widespread throughout Austin"
+  ],
+  "cached_at": "2025-06-21T00:25:52.174629",
+  "cache_key": "3a5bab75afbffed6172cf5a4a4482ed91477e0327fdd28baef1cb30565b24c3d",
+  "model": "gpt-41"
+}

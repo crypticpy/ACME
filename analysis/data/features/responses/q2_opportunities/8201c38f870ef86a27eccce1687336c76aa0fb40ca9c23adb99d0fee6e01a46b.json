@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for increased performances",
+    "interest in more classes",
+    "request for additional music opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "More performances",
+    "classes",
+    "music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Increase the number of performances",
+    "Offer more classes",
+    "Provide more music opportunities"
+  ],
+  "cached_at": "2025-06-21T00:46:02.152220",
+  "cache_key": "8201c38f870ef86a27eccce1687336c76aa0fb40ca9c23adb99d0fee6e01a46b",
+  "model": "gpt-41"
+}

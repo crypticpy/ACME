@@ -1,0 +1,42 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "capacity building for organizations and artists",
+    "grantwriting and application support",
+    "legal and administrative education (copyright, nonprofit formation, reporting)",
+    "marketing assistance",
+    "networking and venue connections"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Grants and workshops that support organization and individual artists",
+    "needs, grantwriting, copyright, forming of, and reporting for nonprofits",
+    "How to apply for grants",
+    "Marketing",
+    "Connections to venues"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of grantwriting knowledge",
+    "lack of understanding of copyright and nonprofit formation",
+    "difficulty with reporting for nonprofits",
+    "challenges in marketing",
+    "limited connections to venues"
+  ],
+  "solutions_proposed": [
+    "provide grants and workshops",
+    "offer support for grantwriting",
+    "offer education on copyright, nonprofit formation, and reporting",
+    "provide guidance on how to apply for grants",
+    "assist with marketing",
+    "facilitate connections to venues"
+  ],
+  "cached_at": "2025-06-20T10:30:14.197934",
+  "cache_key": "57579c501971568cc3c3a99f0153978b95de1689989f0805bbcc495ab85b1f0d",
+  "model": "gpt-41"
+}

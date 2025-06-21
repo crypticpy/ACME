@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "Desire for financial support of specific creative initiatives",
+    "Need for capacity-building and knowledge-sharing for creatives",
+    "Challenges transitioning from creative work to business operations"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "Would love to see Oro Dance company, Legend of the Realms, Sunday Sessions and other such creative initiatives supported financially",
+    "filling knowledge gaps that occur when creatives seek to put on events",
+    "It's a lot to have to learn to run a business from what starts out as a creative endeavor"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro Dance company",
+    "Legend of the Realms",
+    "Sunday Sessions"
+  ],
+  "barriers_identified": [
+    "knowledge gaps that occur when creatives seek to put on events",
+    "having to learn to run a business from what starts out as a creative endeavor"
+  ],
+  "solutions_proposed": [
+    "financial support for creative initiatives",
+    "providing resources to fill knowledge gaps for creatives"
+  ],
+  "cached_at": "2025-06-21T02:20:04.925485",
+  "cache_key": "670c293bf45aa50c84a6044197a7b3f1c05d15bfd01081a57992ae43a68aa22e",
+  "model": "gpt-41"
+}

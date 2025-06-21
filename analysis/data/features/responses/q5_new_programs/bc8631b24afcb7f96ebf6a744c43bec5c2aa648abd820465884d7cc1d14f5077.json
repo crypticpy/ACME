@@ -1,0 +1,39 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "Exposure to unfamiliar creative and cultural expressions",
+    "Interdisciplinary and parallel creative experiences",
+    "Overemphasis on STEM at the expense of the arts",
+    "Creativity as a driver of innovation and progress",
+    "Need for unexpected encounters with the arts"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "encourages exposure to and exploration of a diversity of creative and cultural expression",
+    "beyond people only looking for things they already know they enjoy",
+    "different types of music they may have never heard before",
+    "bringing various forms of creative expression together in parallel experiences",
+    "society has shifted focus so much recently on 'STEM' activities",
+    "forgotten what inspires all of those 'practical' disciplines",
+    "creativity of thought that drives humanity to innovate, progress, and make an enduring impact",
+    "brings all the possibilities of creative expression out for unexpected encounters"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Overemphasis on STEM activities",
+    "Limited exposure to unfamiliar creative and cultural expressions"
+  ],
+  "solutions_proposed": [
+    "Develop a program that encourages exposure to and exploration of diverse creative and cultural expressions",
+    "Create events that bring various forms of creative expression together in parallel experiences",
+    "Develop materials and programs that foster unexpected encounters with creative expression"
+  ],
+  "cached_at": "2025-06-21T02:09:34.043104",
+  "cache_key": "bc8631b24afcb7f96ebf6a744c43bec5c2aa648abd820465884d7cc1d14f5077",
+  "model": "gpt-41"
+}

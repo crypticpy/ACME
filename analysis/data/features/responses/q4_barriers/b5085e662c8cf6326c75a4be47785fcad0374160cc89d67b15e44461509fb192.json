@@ -1,0 +1,32 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of diversity in participation",
+    "outreach challenges",
+    "commitment to inclusivity",
+    "need for external support"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "primarily white",
+    "don't draw from the underserved communities",
+    "goal has always been to offer opportunities to all",
+    "need help with the outreach"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited engagement with underserved communities",
+    "insufficient outreach capacity"
+  ],
+  "solutions_proposed": [
+    "help with the outreach"
+  ],
+  "cached_at": "2025-06-21T01:25:15.078000",
+  "cache_key": "b5085e662c8cf6326c75a4be47785fcad0374160cc89d67b15e44461509fb192",
+  "model": "gpt-41"
+}

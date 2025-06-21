@@ -1,0 +1,40 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "difficulty for new artists to gain visibility",
+    "need for collaboration between established and emerging artists",
+    "mentorship opportunities",
+    "joint exhibitions",
+    "access to resources (studio space, workshops)",
+    "inclusivity and sustainability in the creative scene"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "challenging to gain visibility",
+    "connect with established organizations",
+    "fostering collaboration between cultural leaders and emerging artists",
+    "mentorships, joint exhibitions, and accessible resources",
+    "studio space and professional workshops",
+    "make Austin\u2019s creative scene more inclusive and sustainable"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "challenging to gain visibility",
+    "difficulty connecting with established organizations"
+  ],
+  "solutions_proposed": [
+    "fostering collaboration between cultural leaders and emerging artists",
+    "mentorships",
+    "joint exhibitions",
+    "accessible resources like studio space",
+    "professional workshops"
+  ],
+  "cached_at": "2025-06-20T10:45:45.772846",
+  "cache_key": "ad7a570431f9a43fdf2f98866c67baffecfe499c8afa0b5238d151b07457b2c3",
+  "model": "gpt-41"
+}

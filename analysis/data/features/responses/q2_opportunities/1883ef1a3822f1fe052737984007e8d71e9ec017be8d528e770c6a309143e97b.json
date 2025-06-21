@@ -1,0 +1,37 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for free or low-cost outdoor cultural events",
+    "interest in live music, film screenings, and multicultural festivals",
+    "support for local artists",
+    "public art installations and pop-ups",
+    "community workshops across all city areas",
+    "equitable geographic distribution of cultural opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more free or low-cost outdoor cultural events",
+    "live music, film screenings, and multicultural festivals",
+    "greater support for local artists",
+    "pop-ups, public art installations, and community workshops",
+    "across all parts of the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "cost of cultural events",
+    "limited geographic access to cultural programming"
+  ],
+  "solutions_proposed": [
+    "increase free or low-cost outdoor cultural events",
+    "provide greater support for local artists through pop-ups, public art installations, and community workshops",
+    "ensure cultural programming is available across all parts of the city"
+  ],
+  "cached_at": "2025-06-21T00:52:19.217418",
+  "cache_key": "1883ef1a3822f1fe052737984007e8d71e9ec017be8d528e770c6a309143e97b",
+  "model": "gpt-41"
+}

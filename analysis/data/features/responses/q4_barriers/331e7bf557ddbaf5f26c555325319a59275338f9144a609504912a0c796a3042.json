@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.98,
+  "themes": [
+    "gentrification leading to displacement",
+    "erasure of people of color",
+    "declining diversity in arts and culture spaces",
+    "barriers to full participation in cultural life"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "gentrification worsens",
+    "people of color are erased and displaced",
+    "lack of diversity in various arts and culture spaces",
+    "difficult to fully participate"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "gentrification",
+    "displacement of people of color",
+    "lack of diversity in arts and culture spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:43:56.879506",
+  "cache_key": "331e7bf557ddbaf5f26c555325319a59275338f9144a609504912a0c796a3042",
+  "model": "gpt-41"
+}

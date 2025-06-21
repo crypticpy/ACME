@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "transparency in funding processes",
+    "clarity of eligibility criteria",
+    "clarity of qualification requirements"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Better transparency on eligibility and qualifiers"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of transparency on eligibility and qualifiers"
+  ],
+  "solutions_proposed": [
+    "better transparency on eligibility and qualifiers"
+  ],
+  "cached_at": "2025-06-21T01:01:50.060379",
+  "cache_key": "4764d768c8cefa730bcf1be63168f2a81617b4bfa3d33a1ecf53d37149c862a3",
+  "model": "gpt-41"
+}

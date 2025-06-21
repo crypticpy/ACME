@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "support for education in the arts",
+    "opportunities for emerging artists",
+    "preservation and promotion of cultural history"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "education",
+    "emerging artists",
+    "preserving and promoting our cultural history"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "offer education programs",
+    "support emerging artists",
+    "preserve and promote cultural history"
+  ],
+  "cached_at": "2025-06-21T01:52:38.542840",
+  "cache_key": "66e6db7618b161e7e779f1dc27fc57d716ebe75b71e59fe77ee11d82500e2d57",
+  "model": "gpt-41"
+}

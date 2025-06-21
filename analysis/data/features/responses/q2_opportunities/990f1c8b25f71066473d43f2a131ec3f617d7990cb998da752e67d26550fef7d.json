@@ -1,0 +1,35 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "hyperlocal, neighborhood-based events",
+    "artist-led and emerging artist opportunities",
+    "alternative and experimental cultural formats",
+    "cultural preservation",
+    "inclusivity for work outside mainstream festivals"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more hyperlocal, artist-led events",
+    "happen in neighborhoods, not just downtown",
+    "pop-up shows, experimental performances, backyard concerts, cultural cookouts, block print fairs, and night markets",
+    "make space for emerging artists, cultural preservation, and work that\u2019s weird, tender, or too small for SXSW"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "events concentrated downtown",
+    "lack of space for emerging or unconventional artists"
+  ],
+  "solutions_proposed": [
+    "increase hyperlocal, neighborhood-based events",
+    "support artist-led and experimental programming",
+    "provide space for emerging artists and culturally diverse work"
+  ],
+  "cached_at": "2025-06-21T00:30:16.628876",
+  "cache_key": "990f1c8b25f71066473d43f2a131ec3f617d7990cb998da752e67d26550fef7d",
+  "model": "gpt-41"
+}

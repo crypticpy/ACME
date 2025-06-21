@@ -1,0 +1,24 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 1.0,
+  "themes": [
+    "lack of awareness of existing programs",
+    "information gap"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.2,
+  "key_phrases": [
+    "Unaware of all current/ existing systems"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness of available programs"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:03:00.737109",
+  "cache_key": "fe9acbd17e1dfa6d51b8d57df2f84665360930015cfe4f35a4c202b6b38d4944",
+  "model": "gpt-41"
+}

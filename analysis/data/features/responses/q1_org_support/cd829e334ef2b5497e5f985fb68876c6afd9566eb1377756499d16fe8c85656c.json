@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "insufficient funding",
+    "need for increased grant opportunities"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more funding",
+    "MORE FUNDING AND GRANTS OPPORTUNITIES"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of funding",
+    "limited grant opportunities"
+  ],
+  "solutions_proposed": [
+    "provide more funding",
+    "increase grant opportunities"
+  ],
+  "cached_at": "2025-06-20T01:17:34.968321",
+  "cache_key": "cd829e334ef2b5497e5f985fb68876c6afd9566eb1377756499d16fe8c85656c",
+  "model": "gpt-41"
+}

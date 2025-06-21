@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "clarity of funding process",
+    "community engagement",
+    "information dissemination"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.5,
+  "key_phrases": [
+    "clearer process",
+    "more community engagement",
+    "info disbursed"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "unclear process",
+    "lack of community engagement",
+    "insufficient information dissemination"
+  ],
+  "solutions_proposed": [
+    "clearer process",
+    "more community engagement",
+    "more information disbursed"
+  ],
+  "cached_at": "2025-06-21T01:14:48.392075",
+  "cache_key": "4efcb9f359526f3925510427f0745e636e0354b4c1e809139143e1b6831e6c5c",
+  "model": "gpt-41"
+}

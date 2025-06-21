@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "perceived unfairness in grant allocation",
+    "importance of artist experience and history",
+    "concern about rewarding less experienced or less talented artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "look at the artists history in their field of expertise",
+    "some new artists that haven\u2019t hustled as much & are less talented got the grant",
+    "others who are further along got nothing"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of recognition for experienced artists",
+    "grants awarded to less qualified applicants"
+  ],
+  "solutions_proposed": [
+    "consider artists' history in their field of expertise when awarding grants"
+  ],
+  "cached_at": "2025-06-21T00:58:02.640450",
+  "cache_key": "929d118aa133cb9b4c5613e070f614737b03e46bc75a47824c382344db2f9fc5",
+  "model": "gpt-41"
+}

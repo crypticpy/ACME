@@ -1,0 +1,25 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased education about cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "More education on it"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of education about cultural funding programs"
+  ],
+  "solutions_proposed": [
+    "provide more education on cultural funding programs"
+  ],
+  "cached_at": "2025-06-21T01:18:52.311614",
+  "cache_key": "b56829ac87c5a9474a259a869262f92da2bb761f2335e7814507fb301067b5e6",
+  "model": "gpt-41"
+}

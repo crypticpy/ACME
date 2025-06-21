@@ -1,0 +1,31 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of affordable creative and event spaces",
+    "community desire for more accessible cultural activities",
+    "importance of inclusivity and belonging",
+    "accessibility over racial considerations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "lack of affordable spaces to create for your practice and host events",
+    "Neighborhoods want more art, more places to go, and more things to support",
+    "things that they can bring friends to",
+    "should not be about race",
+    "should be about accessibility to show up as yourself"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of affordable spaces to create and host events",
+    "limited accessible venues for community engagement"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:35:42.338077",
+  "cache_key": "e56c7193056d8a0bc79f66fb61147491ca31b6fe98a9803b91539c3163fbb277",
+  "model": "gpt-41"
+}

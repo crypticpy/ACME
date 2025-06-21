@@ -1,0 +1,30 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "corporate consolidation in the arts sector",
+    "lack of support for grassroots/local artists",
+    "prioritization of local venues and organizations"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "corporate development and ownership",
+    "corporate consolidation and control",
+    "local, grassroots artists, venues and organizations need to be prioritized"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "corporate development and ownership",
+    "corporate consolidation and control"
+  ],
+  "solutions_proposed": [
+    "prioritize local, grassroots artists, venues and organizations"
+  ],
+  "cached_at": "2025-06-21T01:31:57.159176",
+  "cache_key": "112a59e632be5c6194e01fe6712ccae6079f6e6e756f96fadadcfa16325292a9",
+  "model": "gpt-41"
+}

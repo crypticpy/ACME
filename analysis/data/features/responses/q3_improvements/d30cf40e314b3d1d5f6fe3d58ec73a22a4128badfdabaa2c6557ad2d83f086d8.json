@@ -1,0 +1,32 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "need for direct community engagement",
+    "financial assistance",
+    "improving access to opportunities"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "more on the ground work",
+    "financial assistance",
+    "allowing people the access in order to get ahead"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of access",
+    "insufficient financial assistance"
+  ],
+  "solutions_proposed": [
+    "more on the ground work",
+    "provide financial assistance",
+    "improve access to opportunities"
+  ],
+  "cached_at": "2025-06-21T01:00:43.209141",
+  "cache_key": "d30cf40e314b3d1d5f6fe3d58ec73a22a4128badfdabaa2c6557ad2d83f086d8",
+  "model": "gpt-41"
+}

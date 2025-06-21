@@ -1,0 +1,33 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for unrestricted funding",
+    "financial literacy support",
+    "support for emerging artists"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "unrestricted funds",
+    "financial literacy",
+    "support for emerging artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of unrestricted funds",
+    "insufficient financial literacy",
+    "limited support for emerging artists"
+  ],
+  "solutions_proposed": [
+    "provide unrestricted funds",
+    "offer financial literacy support",
+    "increase support for emerging artists"
+  ],
+  "cached_at": "2025-06-20T10:45:06.309886",
+  "cache_key": "34a4351b3e1d691c73041447823798c4353259f27ae9e268cedd5df0d33128c8",
+  "model": "gpt-41"
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "willingness to collaborate",
+    "sense of generational opportunity",
+    "personal expertise and commitment"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.4,
+  "key_phrases": [
+    "don't hesitate to reach out to me",
+    "this is what I do",
+    "the one chance we've got in our generation to get it right"
+  ],
+  "intent": "offer_support",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:20:00.735984",
+  "cache_key": "4b277ac019d9dc00810311904c5b780b666aa7eb978dc7b9ece67404ca6480c2",
+  "model": "gpt-41"
+}

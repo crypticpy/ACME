@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for listening to the arts community",
+    "community input and engagement"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Listen to what so many in the arts community are having to say"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of being heard by decision-makers"
+  ],
+  "solutions_proposed": [
+    "listen to the arts community"
+  ],
+  "cached_at": "2025-06-20T10:44:51.441326",
+  "cache_key": "bb7f74fca0169644226c5407fa55ae53950251c27fe46d37afbba5d1269c80fe",
+  "model": "gpt-41"
+}

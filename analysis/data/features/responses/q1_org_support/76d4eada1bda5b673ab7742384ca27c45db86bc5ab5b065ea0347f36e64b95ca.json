@@ -1,0 +1,35 @@
+{
+  "sentiment": "mixed",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for reliable and continuous funding",
+    "visibility of ACME's contributions",
+    "fragility of arts funding in political/budget contexts",
+    "importance of community awareness and support"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "reliable and continuous source of support and funding",
+    "vital to the existence of the organizations",
+    "especially critical in current times when politics and policies are extremely challenging to the arts",
+    "ACME's contribution should be more visible to the community and audience",
+    "ACME's funding and support is fragile and often at risk in budget discussions",
+    "continued community support of ACME is as important as supporting the organizations themselves"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "fragility of ACME's funding in budget discussions",
+    "lack of visibility of ACME's contributions"
+  ],
+  "solutions_proposed": [
+    "ACME's contribution should be more visible to the community and audience",
+    "the community needs to be made very aware that ACME's funding and support is fragile and often at risk"
+  ],
+  "cached_at": "2025-06-20T10:43:08.692695",
+  "cache_key": "76d4eada1bda5b673ab7742384ca27c45db86bc5ab5b065ea0347f36e64b95ca",
+  "model": "gpt-41"
+}

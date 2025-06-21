@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "musician dedication and passion",
+    "need for respect for musicians",
+    "call for increased support for musicians"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "give their heart and soul for the music they love",
+    "show them with the same respect",
+    "give them the support they deserve"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "show musicians respect",
+    "give musicians the support they deserve"
+  ],
+  "cached_at": "2025-06-21T02:14:48.419035",
+  "cache_key": "3e6b8306e750625cee7221b3dac3b6935e0d2ba8a6e815e0f38de599b43a77c1",
+  "model": "gpt-41"
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "lack of genre diversity",
+    "exclusion of non-rock/hip hop/RnB music",
+    "representation in music programming"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Include music that is not rock, hip hop & Rnb"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "limited genre representation"
+  ],
+  "solutions_proposed": [
+    "Include music that is not rock, hip hop & Rnb"
+  ],
+  "cached_at": "2025-06-20T10:26:22.611264",
+  "cache_key": "8b011026d247e6af366a56f2166953918bda6104a33131db2519152141667501",
+  "model": "gpt-41"
+}

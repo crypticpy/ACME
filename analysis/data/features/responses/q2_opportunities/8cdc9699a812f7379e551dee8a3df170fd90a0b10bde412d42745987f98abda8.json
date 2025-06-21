@@ -1,0 +1,43 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased visibility and frequency of media art",
+    "growth of interdisciplinary and experimental events",
+    "support and training for studio artists in public art",
+    "utilization of hotel occupancy tax for local artist opportunities",
+    "untapped potential of local artists in shaping public spaces"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 1.0,
+  "key_phrases": [
+    "I\u2019d love to see more media art showcased throughout the city",
+    "Fusebox-style events grow in number and visibility",
+    "bold, interdisciplinary, and experimental programming",
+    "public art training programs designed specifically for studio artists",
+    "helping them navigate the public art process",
+    "access opportunities funded by Austin\u2019s hotel occupancy tax",
+    "untapped potential for local artists to shape the public realm"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Fusebox"
+  ],
+  "barriers_identified": [
+    "lack of public art training programs for studio artists",
+    "difficulty navigating the public art process",
+    "limited access to opportunities funded by hotel occupancy tax"
+  ],
+  "solutions_proposed": [
+    "showcase more media art throughout the city",
+    "increase number and visibility of Fusebox-style, interdisciplinary events",
+    "create public art training programs for studio artists",
+    "help artists navigate the public art process",
+    "improve access to hotel occupancy tax-funded opportunities for local artists"
+  ],
+  "cached_at": "2025-06-21T00:33:57.905777",
+  "cache_key": "8cdc9699a812f7379e551dee8a3df170fd90a0b10bde412d42745987f98abda8",
+  "model": "gpt-41"
+}

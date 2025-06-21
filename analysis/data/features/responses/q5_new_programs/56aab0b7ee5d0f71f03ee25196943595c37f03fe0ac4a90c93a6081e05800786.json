@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "affordable creative resources",
+    "community workspace for artists",
+    "financial barriers to music creation"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "I have a vision",
+    "community workspace for artists",
+    "won\u2019t need to spend thousands on music"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "high cost of music production"
+  ],
+  "solutions_proposed": [
+    "build a community workspace for artists"
+  ],
+  "cached_at": "2025-06-21T01:54:14.930886",
+  "cache_key": "56aab0b7ee5d0f71f03ee25196943595c37f03fe0ac4a90c93a6081e05800786",
+  "model": "gpt-41"
+}

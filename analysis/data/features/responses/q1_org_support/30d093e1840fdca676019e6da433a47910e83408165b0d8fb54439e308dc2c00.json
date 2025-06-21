@@ -1,0 +1,30 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "direct funding for artists",
+    "basic income for artists",
+    "affordability of living in the city"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Provide funding",
+    "Ideally some form of basic income",
+    "allow for artists to live in the city"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "artists' ability to afford living in the city"
+  ],
+  "solutions_proposed": [
+    "Provide funding",
+    "Implement some form of basic income for artists"
+  ],
+  "cached_at": "2025-06-20T10:41:39.512327",
+  "cache_key": "30d093e1840fdca676019e6da433a47910e83408165b0d8fb54439e308dc2c00",
+  "model": "gpt-41"
+}

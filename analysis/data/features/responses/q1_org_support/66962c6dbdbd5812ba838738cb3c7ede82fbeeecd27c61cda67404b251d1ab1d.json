@@ -1,0 +1,35 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.9,
+  "themes": [
+    "threat of funding delays or pauses",
+    "ongoing recovery from pandemic instability",
+    "increasing operational costs",
+    "shrinking federal arts budgets",
+    "risk of losing progress in the creative ecosystem"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.85,
+  "key_phrases": [
+    "It\u2019s critical that we not pause or delay funding for this year",
+    "still recovering from pandemic-era instability",
+    "contending with increasing costs and shrinking arts budgets at the federal level",
+    "A funding gap now... risks undoing years of progress"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "funding delays or pauses",
+    "pandemic-era instability",
+    "increasing costs",
+    "shrinking federal arts budgets"
+  ],
+  "solutions_proposed": [
+    "do not pause or delay funding for this year"
+  ],
+  "cached_at": "2025-06-20T10:24:59.801150",
+  "cache_key": "66962c6dbdbd5812ba838738cb3c7ede82fbeeecd27c61cda67404b251d1ab1d",
+  "model": "gpt-41"
+}

@@ -1,0 +1,33 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "departmental restructuring",
+    "understaffing of museums and cultural centers",
+    "marginalization within city departments",
+    "optimism about new department"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "this department will really help",
+    "museums and cultural centers have been really understaffed",
+    "have been somewhat sidelined as part of other departments",
+    "I used to work at an Austin museum and saw this firsthand",
+    "so happy that they are moving to their own department"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "understaffing of museums and cultural centers",
+    "being sidelined as part of other departments"
+  ],
+  "solutions_proposed": [
+    "moving museums and cultural centers to their own department"
+  ],
+  "cached_at": "2025-06-21T01:43:10.421416",
+  "cache_key": "1dae43192caa0fa3a893a404c77da3f66ecd0bf8e81b4bef3429eecb86ab7c5f",
+  "model": "gpt-41"
+}

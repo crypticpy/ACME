@@ -1,0 +1,27 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased representation of Asian American artists",
+    "desire for more music events",
+    "interest in art, dance, and performance-based programming",
+    "focus on cultural diversity and inclusion"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "more music, art, dance and performance based events",
+    "center Asian American artists"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase music, art, dance, and performance-based events that center Asian American artists"
+  ],
+  "cached_at": "2025-06-21T00:46:59.934495",
+  "cache_key": "edf7ea16a2cabdbb3d68d20247d3bd63338dab8c6da3e905a6ef6dfbf0975114",
+  "model": "gpt-41"
+}

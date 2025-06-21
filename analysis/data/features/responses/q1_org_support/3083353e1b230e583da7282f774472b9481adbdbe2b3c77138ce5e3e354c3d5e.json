@@ -1,0 +1,25 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.85,
+  "themes": [
+    "collaboration with specific cultural leaders",
+    "support for organizations led by individuals like Cluren Williams"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "working with Cluren Williams and his organization",
+    "those like him"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "work with Cluren Williams and similar organizations"
+  ],
+  "cached_at": "2025-06-20T01:15:19.640783",
+  "cache_key": "3083353e1b230e583da7282f774472b9481adbdbe2b3c77138ce5e3e354c3d5e",
+  "model": "gpt-41"
+}

@@ -1,0 +1,32 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "exclusion from funding due to focus group participation",
+    "impact of federal funding cuts",
+    "limited funding options for Black cultural arts organizations",
+    "organizational financial vulnerability"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.95,
+  "key_phrases": [
+    "I was informed that being on the focus group meant your organization could not apply for city funding for the next two years",
+    "Torch Literary Arts and our community cannot afford a loss of potential funding",
+    "federal cuts and limited funding options for Black cultural arts organizations"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [
+    "Torch Literary Arts"
+  ],
+  "barriers_identified": [
+    "Ineligibility for city funding due to focus group participation",
+    "Federal funding cuts",
+    "Limited funding options for Black cultural arts organizations"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T02:09:45.100463",
+  "cache_key": "05947debff60b79014008eb11500a0bd8f62e9daa71cfeb4d3abb3e409dee311",
+  "model": "gpt-41"
+}

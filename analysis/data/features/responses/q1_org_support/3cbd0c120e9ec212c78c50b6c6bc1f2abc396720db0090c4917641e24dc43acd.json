@@ -1,0 +1,28 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "small grants for public art",
+    "support for public art projects",
+    "reference to TEMPO projects"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Funding small grants for public art",
+    "like the TEMPO projects"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "TEMPO projects"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "Funding small grants for public art like the TEMPO projects"
+  ],
+  "cached_at": "2025-06-20T01:15:50.637576",
+  "cache_key": "3cbd0c120e9ec212c78c50b6c6bc1f2abc396720db0090c4917641e24dc43acd",
+  "model": "gpt-41"
+}

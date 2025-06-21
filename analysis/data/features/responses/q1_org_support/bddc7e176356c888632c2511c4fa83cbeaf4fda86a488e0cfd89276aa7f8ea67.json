@@ -1,0 +1,29 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "networking among creatives",
+    "industry-specific connections",
+    "support for collaboration"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "Networking",
+    "Connecting creatives between each other",
+    "working on the same industry"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of connection among creatives in the same industry"
+  ],
+  "solutions_proposed": [
+    "facilitate networking opportunities for creatives working in the same industry"
+  ],
+  "cached_at": "2025-06-20T10:27:27.215542",
+  "cache_key": "bddc7e176356c888632c2511c4fa83cbeaf4fda86a488e0cfd89276aa7f8ea67",
+  "model": "gpt-41"
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "ineligibility for grants",
+    "barriers to funding access"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.3,
+  "key_phrases": [
+    "Not qualifying for most of the grants"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "Not qualifying for most of the grants"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:42:22.256441",
+  "cache_key": "8c7be24d3d470d7dd9ee52a80285150a31e76c46afb78566778c8db213bd659d",
+  "model": "gpt-41"
+}

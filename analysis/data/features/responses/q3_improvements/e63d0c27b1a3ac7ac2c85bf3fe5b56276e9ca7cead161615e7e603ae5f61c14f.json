@@ -1,0 +1,26 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "need for increased awareness",
+    "visibility of cultural funding programs"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "unknown",
+  "stakeholder_confidence": 0.0,
+  "key_phrases": [
+    "More awareness"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "lack of awareness"
+  ],
+  "solutions_proposed": [
+    "increase awareness"
+  ],
+  "cached_at": "2025-06-21T01:09:58.172916",
+  "cache_key": "e63d0c27b1a3ac7ac2c85bf3fe5b56276e9ca7cead161615e7e603ae5f61c14f",
+  "model": "gpt-41"
+}

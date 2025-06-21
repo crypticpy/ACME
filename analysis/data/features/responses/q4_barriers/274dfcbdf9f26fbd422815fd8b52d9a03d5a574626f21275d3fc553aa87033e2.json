@@ -1,0 +1,29 @@
+{
+  "sentiment": "negative",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "lack of funding",
+    "unaffordable venues",
+    "limited access to rehearsal spaces"
+  ],
+  "urgency": "high",
+  "stakeholder_type": "artist",
+  "stakeholder_confidence": 0.8,
+  "key_phrases": [
+    "Funding",
+    "affordable venues",
+    "rehearsal spaces"
+  ],
+  "intent": "problem_identification",
+  "contains_actionable_feedback": false,
+  "mentioned_programs": [],
+  "barriers_identified": [
+    "insufficient funding",
+    "lack of affordable venues",
+    "lack of affordable rehearsal spaces"
+  ],
+  "solutions_proposed": [],
+  "cached_at": "2025-06-21T01:21:43.023990",
+  "cache_key": "274dfcbdf9f26fbd422815fd8b52d9a03d5a574626f21275d3fc553aa87033e2",
+  "model": "gpt-41"
+}

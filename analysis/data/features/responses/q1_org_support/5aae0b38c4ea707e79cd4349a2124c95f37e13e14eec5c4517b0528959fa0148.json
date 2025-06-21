@@ -1,0 +1,27 @@
+{
+  "sentiment": "neutral",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "increased funding for specific organizations",
+    "support for dance companies",
+    "named recognition of Oro dance company"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "organization",
+  "stakeholder_confidence": 0.7,
+  "key_phrases": [
+    "More funding for companies like Oro dance company"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [
+    "Oro dance company"
+  ],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "More funding for companies like Oro dance company"
+  ],
+  "cached_at": "2025-06-20T10:40:05.409284",
+  "cache_key": "5aae0b38c4ea707e79cd4349a2124c95f37e13e14eec5c4517b0528959fa0148",
+  "model": "gpt-41"
+}

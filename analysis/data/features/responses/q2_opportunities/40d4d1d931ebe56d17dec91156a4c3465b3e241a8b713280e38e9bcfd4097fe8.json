@@ -1,0 +1,29 @@
+{
+  "sentiment": "positive",
+  "sentiment_confidence": 0.95,
+  "themes": [
+    "desire for locally created arts",
+    "community-minded cultural events",
+    "abundance and diversity of small-scale events",
+    "thriving creative culture"
+  ],
+  "urgency": "medium",
+  "stakeholder_type": "resident",
+  "stakeholder_confidence": 0.9,
+  "key_phrases": [
+    "more visual art, theater, music, and dance that is locally created and community-minded",
+    "so many small cool things happening you could never get to it all",
+    "a city with a truly thriving culture of creative joy"
+  ],
+  "intent": "solution_proposal",
+  "contains_actionable_feedback": true,
+  "mentioned_programs": [],
+  "barriers_identified": [],
+  "solutions_proposed": [
+    "increase the quantity and diversity of locally created, community-minded visual art, theater, music, and dance",
+    "foster an environment with abundant small cultural events"
+  ],
+  "cached_at": "2025-06-21T00:52:02.012763",
+  "cache_key": "40d4d1d931ebe56d17dec91156a4c3465b3e241a8b713280e38e9bcfd4097fe8",
+  "model": "gpt-41"
+}
