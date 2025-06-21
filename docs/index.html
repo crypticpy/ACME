@@ -25,10 +25,10 @@
         }
         
         header {
-            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%);
             color: white;
             padding: 2rem 0;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
         }
         
         header h1 {
@@ -86,11 +86,13 @@
         }
         
         .metric-card {
-            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            background: white;
             padding: 2rem;
             border-radius: 10px;
             text-align: center;
             transition: transform 0.3s;
+            border-left: 4px solid #3b82f6;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         
         .metric-card:hover {
@@ -206,16 +208,37 @@
         }
         
         footer {
-            background: #1e3a8a;
+            background: #1e293b;
             color: white;
             text-align: center;
             padding: 2rem 0;
-            margin-top: 3rem;
+            margin-top: 0;
         }
         
         footer a {
             color: #93bbfb;
             text-decoration: none;
+        }
+        
+        .section-intro {
+            font-size: 1.2rem;
+            color: #475569;
+            margin-bottom: 2rem;
+            line-height: 1.8;
+        }
+        
+        .crisis-statement {
+            background: #fef3c7;
+            border-left: 4px solid #f59e0b;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+        
+        .crisis-statement p {
+            margin: 0;
+            font-size: 1.1rem;
+            color: #92400e;
         }
         
         @media (max-width: 768px) {
@@ -234,47 +257,61 @@
     </style>
 </head>
 <body>
+    <!-- Progress indicator -->
+    <div id="progress-bar" style="position: fixed; top: 0; left: 0; width: 0%; height: 4px; background: linear-gradient(to right, #dc2626, #f59e0b, #3b82f6); z-index: 1000; transition: width 0.3s;"></div>
     <header>
         <div class="container">
-            <h1>ACME Cultural Funding Analysis 2025</h1>
-            <p>Comprehensive Analysis of Austin's Cultural Funding Landscape</p>
+            <h1>Austin's Creative Community in Crisis</h1>
+            <p>1,187 voices. 86.8% negative experiences. One clear message: The system is failing.</p>
         </div>
     </header>
     
     <nav>
         <div class="container">
             <ul>
-                <li><a href="#overview">Overview</a></li>
-                <li><a href="#who">WHO Analysis</a></li>
-                <li><a href="#what">WHAT Analysis</a></li>
+                <li><a href="#overview">The Crisis</a></li>
+                <li><a href="#who">Who Spoke Up</a></li>
+                <li><a href="#what">Urgent Calls</a></li>
+                <li><a href="#system">System Failures</a></li>
                 <li><a href="#programs">Programs</a></li>
                 <li><a href="#transportation">Transportation</a></li>
-                <li><a href="#download">Download Report</a></li>
+                <li><a href="#action">Take Action</a></li>
             </ul>
         </div>
     </nav>
     
     <section class="hero" id="overview">
         <div class="container">
-            <h2>Executive Overview</h2>
-            <p>This comprehensive analysis examines feedback from Austin's creative community to identify key challenges and opportunities in cultural funding. Based on survey responses, focus groups, and stakeholder interviews, we present actionable insights to improve support for Austin's vibrant arts and culture sector.</p>
+            <h2>What's at Risk</h2>
+            <p>In 2025, Austin's cultural community came together to share their experiences with city funding programs. What emerged wasn't just feedback—it was a unified cry for systemic change. From individual artists to established organizations, the message is clear: <strong>Austin's cultural funding system creates more barriers than bridges.</strong></p>
+            
+            <div class="crisis-statement">
+                <p>Austin prides itself on being the Live Music Capital of the World and a haven for creativity. But behind the slogans, a different reality emerges. Without immediate action, Austin risks losing the very community that defines its cultural identity.</p>
+            </div>
+            
+            <div style="text-align: center; margin: 2rem 0; padding: 2rem; background: white; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                <p style="font-size: 1.5rem; font-style: italic; color: #1e3a8a; margin: 0;">
+                    "The biggest challenge is the matrix of city funding applications and how pretentious terminology is used..."
+                </p>
+                <p style="color: #64748b; margin-top: 1rem;">— Survey Respondent</p>
+            </div>
             
             <div class="metrics-grid">
-                <div class="metric-card">
-                    <h3>1,187</h3>
-                    <p>Survey Responses</p>
+                <div class="metric-card" style="border-color: #dc2626;">
+                    <h3>86.8%</h3>
+                    <p>Negative Experience Rate</p>
                 </div>
-                <div class="metric-card">
-                    <h3>67.7%</h3>
-                    <p>Creative Professionals</p>
+                <div class="metric-card" style="border-color: #f59e0b;">
+                    <h3>39.9%</h3>
+                    <p>Can't Find Funding Info</p>
                 </div>
-                <div class="metric-card">
-                    <h3>10</h3>
-                    <p>Key Funding Themes</p>
+                <div class="metric-card" style="border-color: #f59e0b;">
+                    <h3>5,856</h3>
+                    <p>Transportation Barriers</p>
                 </div>
-                <div class="metric-card">
-                    <h3>6</h3>
-                    <p>Programs Analyzed</p>
+                <div class="metric-card" style="border-color: #dc2626;">
+                    <h3>"Inadequate"</h3>
+                    <p>System Usability Rating</p>
                 </div>
             </div>
         </div>
@@ -282,7 +319,8 @@
     
     <section id="who">
         <div class="container">
-            <h2>WHO: Quantitative Analysis</h2>
+            <h2>Who Spoke Up</h2>
+            <p class="section-intro">These aren't just numbers—they're artists, musicians, nonprofit leaders, and community members who took time to share their struggles. Their participation itself demonstrates the urgency of this crisis.</p>
             
             <h3>Data Collection Methods</h3>
             <div class="metrics-grid">
@@ -300,32 +338,36 @@
                 </div>
             </div>
             
-            <h3>Share of Voice</h3>
+            <h3>Share of Voice: Who's Struggling</h3>
             <div class="metrics-grid">
                 <div class="metric-card">
                     <h3>804</h3>
-                    <p>Creatives (67.7%)</p>
+                    <p><strong>Creatives (67.7%)</strong><br>
+                    <span style="font-size: 0.9rem; color: #64748b;">The artists, musicians, and makers who create Austin's culture—yet struggle to access the funding meant to support them</span></p>
                 </div>
                 <div class="metric-card">
                     <h3>461</h3>
-                    <p>Organizational Staff (38.8%)</p>
+                    <p><strong>Organizational Staff (38.8%)</strong><br>
+                    <span style="font-size: 0.9rem; color: #64748b;">The nonprofit leaders spending more time fighting the application system than serving their communities</span></p>
                 </div>
                 <div class="metric-card">
                     <h3>641</h3>
-                    <p>Community Members/Patrons (54.0%)</p>
+                    <p><strong>Community Members/Patrons (54.0%)</strong><br>
+                    <span style="font-size: 0.9rem; color: #64748b;">The patrons and residents who see culture disappearing from their neighborhoods</span></p>
                 </div>
             </div>
             
-            <p style="text-align: center; margin-top: 1rem; color: #64748b;">
-                Note: Respondents may belong to multiple categories
+            <p style="text-align: center; margin-top: 1rem; color: #64748b; font-style: italic;">
+                Note: Many respondents wear multiple hats—artists who run organizations, patrons who create art
             </p>
         </div>
     </section>
     
     <section id="what">
         <div class="container">
-            <h2>WHAT: Thematic Analysis</h2>
-            <h3>Top 10 Themes on Cultural Funding</h3>
+            <h2>10 Urgent Calls for Change</h2>
+            <p class="section-intro">When asked about cultural funding, the community didn't hold back. These aren't suggestions—they're desperate pleas for a system that works.</p>
+            <h3>What the Community Demands</h3>
             
             <div class="chart-container">
                 <img src="data/cultural_funding_themes_pie_chart.png" alt="Cultural Funding Themes Pie Chart">
@@ -337,10 +379,82 @@
         </div>
     </section>
     
+    <section id="system" style="background: #fef3c7; border: 2px solid #f59e0b;">
+        <div class="container">
+            <h2>The System Behind the Struggle</h2>
+            <p class="section-intro">The Gartner assessment confirmed what artists already knew: the grant management system itself is a barrier to cultural funding.</p>
+            
+            <div class="system-connections">
+                <h3>How System Failures Create Community Crisis</h3>
+                <div class="connection-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+                    <div class="connection-item" style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                        <h4 style="color: #dc2626;">System Finding:</h4>
+                        <p style="font-weight: bold;">"Inadequate User Experience"</p>
+                        <p style="color: #f59e0b; margin: 1rem 0;">→ Creates →</p>
+                        <h4 style="color: #1e3a8a;">Community Impact:</h4>
+                        <p>422 calls to simplify applications</p>
+                    </div>
+                    <div class="connection-item" style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                        <h4 style="color: #dc2626;">System Finding:</h4>
+                        <p style="font-weight: bold;">"Confusing Account Set-Up"</p>
+                        <p style="color: #f59e0b; margin: 1rem 0;">→ Results in →</p>
+                        <h4 style="color: #1e3a8a;">Community Impact:</h4>
+                        <p>Artists giving up before they start</p>
+                    </div>
+                    <div class="connection-item" style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                        <h4 style="color: #dc2626;">System Finding:</h4>
+                        <p style="font-weight: bold;">"Limited Scalability"</p>
+                        <p style="color: #f59e0b; margin: 1rem 0;">→ Means →</p>
+                        <h4 style="color: #1e3a8a;">Community Impact:</h4>
+                        <p>Small organizations can't compete</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <section id="programs">
         <div class="container">
-            <h2>Top 3 Themes per Program</h2>
+            <h2>Programs Struggling to Serve</h2>
+            <p class="section-intro">Six programs meant to support Austin's cultural community. Six programs hampered by the same systemic issues.</p>
             
+            <div class="program-descriptions" style="margin-bottom: 2rem;">
+                <h3>Understanding the Programs</h3>
+                <div class="program-info-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+                    <div class="program-info" style="background: #e0f2fe; padding: 1.5rem; border-radius: 8px;">
+                        <h4>Thrive ($85,000-$150,000)</h4>
+                        <p><strong>Purpose:</strong> Multi-year operating support for established arts organizations</p>
+                        <p><strong>Challenge:</strong> Complex reporting requirements exclude smaller organizations</p>
+                    </div>
+                    <div class="program-info" style="background: #e0f2fe; padding: 1.5rem; border-radius: 8px;">
+                        <h4>Elevate ($15,000-$80,000)</h4>
+                        <p><strong>Purpose:</strong> Project funding for cultural productions</p>
+                        <p><strong>Challenge:</strong> Application complexity vs. award size mismatch</p>
+                    </div>
+                    <div class="program-info" style="background: #e0f2fe; padding: 1.5rem; border-radius: 8px;">
+                        <h4>Nexus ($5,000)</h4>
+                        <p><strong>Purpose:</strong> Support for community partnerships</p>
+                        <p><strong>Challenge:</strong> Minimal funding for extensive collaboration requirements</p>
+                    </div>
+                    <div class="program-info" style="background: #e0f2fe; padding: 1.5rem; border-radius: 8px;">
+                        <h4>Creative Space (CSAP)</h4>
+                        <p><strong>Purpose:</strong> Support for creative spaces facing displacement</p>
+                        <p><strong>Challenge:</strong> Can't address root causes of displacement</p>
+                    </div>
+                    <div class="program-info" style="background: #e0f2fe; padding: 1.5rem; border-radius: 8px;">
+                        <h4>Live Music Fund</h4>
+                        <p><strong>Purpose:</strong> Support for music venues and musicians</p>
+                        <p><strong>Challenge:</strong> Insufficient to address venue crisis</p>
+                    </div>
+                    <div class="program-info" style="background: #e0f2fe; padding: 1.5rem; border-radius: 8px;">
+                        <h4>Art in Public Places</h4>
+                        <p><strong>Purpose:</strong> Public art installations</p>
+                        <p><strong>Challenge:</strong> Limited opportunities for emerging artists</p>
+                    </div>
+                </div>
+            </div>
+            
+            <h3>Top Community Concerns by Program</h3>
             <div class="program-grid" id="programs-container">
                 <!-- Programs will be populated by JavaScript -->
             </div>
@@ -349,11 +463,12 @@
     
     <section id="transportation">
         <div class="container">
-            <h2>Transportation - Parking Lot Item</h2>
+            <h2>The Hidden Crisis: Access</h2>
             
             <div class="transportation-box">
-                <h3>⚠️ For Later Analysis</h3>
-                <p>Transportation-related comments have been separated for future focused analysis.</p>
+                <h3>🚨 5,856 Barriers to Participation</h3>
+                <p><strong>This isn't a minor inconvenience—it's a fundamental barrier to cultural participation.</strong></p>
+                <p>Artists can't afford event parking on artist wages. Public transit doesn't serve cultural venues. Audiences are choosing not to attend due to access issues.</p>
                 
                 <div class="metrics-grid" style="margin-top: 1rem;">
                     <div class="metric-card" style="background: #fff;">
@@ -370,30 +485,85 @@
                     </div>
                 </div>
                 
-                <p style="margin-top: 1rem;">
-                    <strong>Recommendation:</strong> Transportation and parking represent significant barriers to cultural participation. This warrants a separate, comprehensive analysis to develop targeted solutions.
-                </p>
+                <div style="background: #dc2626; color: white; padding: 1rem; border-radius: 5px; margin-top: 1rem;">
+                    <p style="margin: 0;"><strong>URGENT:</strong> This crisis demands its own immediate response. Every day without transit solutions is another artist priced out, another audience lost, another venue struggling.</p>
+                </div>
             </div>
         </div>
     </section>
     
-    <section id="download">
-        <div class="container" style="text-align: center;">
-            <h2>Download Full Report</h2>
-            <p style="margin-bottom: 2rem;">Access the complete analysis in Word document format</p>
-            <a href="data/ACME_Cultural_Funding_Report_LATEST.docx" 
-               style="display: inline-block; background: #1e3a8a; color: white; padding: 1rem 2rem; border-radius: 5px; text-decoration: none; font-weight: bold;">
-                Download Word Report
-            </a>
+    <section id="action" style="background: #1e3a8a; color: white;">
+        <div class="container">
+            <h2 style="color: white; text-align: center;">From Crisis to Action: What Happens Now</h2>
+            
+            <div class="timeline" style="background: white; color: #333; padding: 2rem; border-radius: 10px; margin: 2rem 0;">
+                <h3 style="color: #1e3a8a;">The Path Forward</h3>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+                    <div style="background: #f0f9ff; padding: 1rem; border-radius: 5px; border-left: 4px solid #dc2626;">
+                        <h4 style="color: #dc2626; margin: 0;">This Week</h4>
+                        <p style="margin: 0.5rem 0 0 0;">Present findings to City Council</p>
+                    </div>
+                    <div style="background: #f0f9ff; padding: 1rem; border-radius: 5px; border-left: 4px solid #f59e0b;">
+                        <h4 style="color: #f59e0b; margin: 0;">Weeks 2-4</h4>
+                        <p style="margin: 0.5rem 0 0 0;">Form emergency task force</p>
+                    </div>
+                    <div style="background: #f0f9ff; padding: 1rem; border-radius: 5px; border-left: 4px solid #3b82f6;">
+                        <h4 style="color: #3b82f6; margin: 0;">Month 2</h4>
+                        <p style="margin: 0.5rem 0 0 0;">Launch system redesign</p>
+                    </div>
+                    <div style="background: #f0f9ff; padding: 1rem; border-radius: 5px; border-left: 4px solid #10b981;">
+                        <h4 style="color: #10b981; margin: 0;">Month 3+</h4>
+                        <p style="margin: 0.5rem 0 0 0;">Deploy improvements</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="stakeholder-actions" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+                <div style="background: rgba(255,255,255,0.1); padding: 2rem; border-radius: 8px;">
+                    <h3 style="color: white;">For City Leadership</h3>
+                    <p>The data is clear. The community has spoken. Now is the time for bold action:</p>
+                    <ul>
+                        <li>Commit to system overhaul within 90 days</li>
+                        <li>Increase funding transparency immediately</li>
+                        <li>Create small organization fast-track</li>
+                    </ul>
+                </div>
+                <div style="background: rgba(255,255,255,0.1); padding: 2rem; border-radius: 8px;">
+                    <h3 style="color: white;">For Cultural Organizations</h3>
+                    <p>Your struggles have been heard. While we push for change:</p>
+                    <ul>
+                        <li>Document your system challenges</li>
+                        <li>Share this report with your networks</li>
+                        <li>Participate in the redesign process</li>
+                    </ul>
+                </div>
+                <div style="background: rgba(255,255,255,0.1); padding: 2rem; border-radius: 8px;">
+                    <h3 style="color: white;">For Individual Artists</h3>
+                    <p>You are not alone in this struggle. Next steps:</p>
+                    <ul>
+                        <li>Stay engaged in the reform process</li>
+                        <li>Connect with artist service organizations</li>
+                        <li>Keep creating despite the barriers</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div style="text-align: center; margin-top: 3rem;">
+                <h3 style="color: white;">Get the Full Report</h3>
+                <p style="margin-bottom: 2rem;">Download the complete analysis with all data, detailed recommendations, and action plans.</p>
+                <a href="data/ACME_Cultural_Funding_Report_LATEST.docx" 
+                   style="display: inline-block; background: white; color: #1e3a8a; padding: 1rem 2rem; border-radius: 5px; text-decoration: none; font-weight: bold;">
+                    Download Complete Report
+                </a>
+            </div>
         </div>
     </section>
     
     <footer>
         <div class="container">
-            <p>&copy; 2025 ACME Cultural Funding Analysis. All rights reserved.</p>
-            <p style="margin-top: 0.5rem;">
-                <a href="https://github.com/your-repo/acme-cultural-funding-2025">View on GitHub</a>
-            </p>
+            <p style="font-size: 1.1rem; margin-bottom: 1rem;">This analysis represents 1,187 voices from Austin's creative community.<br>
+            Their message is clear: <strong>transformative change is needed now.</strong></p>
+            <p>&copy; 2025 ACME Cultural Funding Analysis | <a href="https://github.com/crypticpy/ACME">View on GitHub</a></p>
         </div>
     </footer>
     
@@ -403,16 +573,93 @@
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById('themes-container');
-                data.top_10_cultural_funding_themes.forEach(theme => {
+                // Enhanced theme presentation with context
+                const themeContexts = {
+                    'Increase Funding Awareness': {
+                        meaning: 'People can\'t apply for funding they don\'t know exists',
+                        impact: 'Invisible funding helps no one',
+                        fix: 'Proactive outreach, clear communication, accessible information'
+                    },
+                    'Support Small Organizations': {
+                        meaning: 'Small organizations are drowning while trying to serve communities',
+                        impact: 'Grassroots culture dies without grassroots support',
+                        fix: 'Dedicated small organization funding track'
+                    },
+                    'Simplify Application Process': {
+                        meaning: 'The application process is actively hostile to applicants',
+                        impact: 'Complexity creates inequity',
+                        fix: 'User-centered design, plain language, streamlined process'
+                    },
+                    'Improve Grant Access': {
+                        meaning: 'Current restrictions prevent qualified applicants from receiving support',
+                        impact: 'Arbitrary barriers exclude vital cultural contributors',
+                        fix: 'Review and revise eligibility requirements'
+                    },
+                    'Funding Transparency': {
+                        meaning: 'The funding process is opaque and confusing',
+                        impact: 'Lack of transparency erodes community trust',
+                        fix: 'Clear criteria, open data, public reporting'
+                    },
+                    'Equitable Distribution': {
+                        meaning: 'Funding doesn\'t reach diverse communities equitably',
+                        impact: 'Cultural inequity perpetuates systemic exclusion',
+                        fix: 'Equity-focused metrics and distribution'
+                    },
+                    'Increase Funding Levels': {
+                        meaning: 'Current funding amounts don\'t meet basic operational needs',
+                        impact: 'Organizations can\'t sustain themselves on current grants',
+                        fix: 'Significant increase in available funds'
+                    },
+                    'Multi-Year Funding': {
+                        meaning: 'Year-to-year uncertainty prevents long-term planning',
+                        impact: 'Organizations can\'t build sustainable programs',
+                        fix: 'Multi-year commitments for qualified organizations'
+                    },
+                    'Fair Artist Compensation': {
+                        meaning: 'Grant budgets don\'t allow for living wages',
+                        impact: 'Artists can\'t afford to participate in funded projects',
+                        fix: 'Require and fund living wage standards'
+                    },
+                    'Reduce Reporting Burden': {
+                        meaning: 'Reporting requirements are excessive relative to grant size',
+                        impact: 'Organizations spend more time reporting than creating',
+                        fix: 'Right-size reporting to grant amounts'
+                    }
+                };
+                
+                data.top_10_cultural_funding_themes.forEach((theme, index) => {
                     const themeDiv = document.createElement('div');
                     themeDiv.className = 'theme-item';
+                    const context = themeContexts[theme.theme] || {};
+                    
+                    // Highlight top 3 themes
+                    if (index < 3) {
+                        themeDiv.style.borderLeftColor = '#dc2626';
+                        themeDiv.style.borderLeftWidth = '6px';
+                    }
+                    
                     themeDiv.innerHTML = `
-                        <h3>${theme.rank}. ${theme.theme}</h3>
-                        <div class="stats">${theme.count} mentions (${theme.percentage}%)</div>
-                        <p><strong>Supporting Evidence:</strong></p>
-                        <ul>
-                            ${theme.supporting_sentences.filter(s => s).map(s => `<li>${s}</li>`).join('')}
-                        </ul>
+                        <h3 style="color: ${index < 3 ? '#dc2626' : '#1e3a8a'}; margin-bottom: 0.5rem;">
+                            ${theme.rank}. ${theme.theme}
+                        </h3>
+                        <div class="stats" style="font-size: 1.1rem; color: ${index < 3 ? '#dc2626' : '#64748b'}; font-weight: bold;">
+                            ${theme.count.toLocaleString()} voices (${theme.percentage}%)
+                        </div>
+                        
+                        ${context.meaning ? `
+                        <div style="margin-top: 1rem; padding: 1rem; background: #f8fafc; border-radius: 5px;">
+                            <p style="margin: 0 0 0.5rem 0;"><strong>What this means:</strong> ${context.meaning}</p>
+                            <p style="margin: 0 0 0.5rem 0; color: #dc2626;"><strong>Why it matters:</strong> ${context.impact}</p>
+                            <p style="margin: 0; color: #059669;"><strong>The fix:</strong> ${context.fix}</p>
+                        </div>
+                        ` : ''}
+                        
+                        <details style="margin-top: 1rem;">
+                            <summary style="cursor: pointer; color: #1e3a8a; font-weight: bold;">See what people said...</summary>
+                            <ul style="margin-top: 0.5rem; font-size: 0.9rem; color: #64748b;">
+                                ${theme.supporting_sentences.filter(s => s).slice(0, 3).map(s => `<li>${s}</li>`).join('')}
+                            </ul>
+                        </details>
                     `;
                     container.appendChild(themeDiv);
                 });
@@ -446,6 +693,51 @@
                 });
             })
             .catch(error => console.error('Error loading programs:', error));
+        
+        // Add scroll progress indicator
+        window.addEventListener('scroll', () => {
+            const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scrolled = (winScroll / height) * 100;
+            document.getElementById('progress-bar').style.width = scrolled + '%';
+        });
+        
+        // Add smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+        
+        // Add animation on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+        
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+        
+        // Observe all sections
+        document.querySelectorAll('section').forEach(section => {
+            section.style.opacity = '0';
+            section.style.transform = 'translateY(20px)';
+            section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(section);
+        });
     </script>
 </body>
 </html>
